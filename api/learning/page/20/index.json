@@ -4,6 +4,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-explore-access-management-capabilities-of-azure-ad.md",
+      "title": "Explore the access management capabilities of Azure AD",
+      "excerpt": "Explore the access management capabilities of Azure AD",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-access-management-capabilities-of-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
+      "length": "PT15M",
+      "ratings": {
+        "count": 84,
+        "average": 4.797619
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-the-access-management-capabilities-of-azure-ad-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-azure-synapse-serverless-sql-pools-capabilities.md",
       "title": "Explore Azure Synapse serverless SQL pools capabilities",
       "excerpt": "Explore Azure Synapse serverless SQL pools capabilities",
@@ -380,8 +423,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-data-types/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 51,
-        "average": 4.8235292
+        "count": 52,
+        "average": 4.826923
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -422,8 +465,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-errors-logs/",
       "length": "PT18M",
       "ratings": {
-        "count": 46,
-        "average": 4.7826085
+        "count": 47,
+        "average": 4.787234
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1219,40 +1262,6 @@
         "Azure",
         "DevOps",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-delivery-plans.md",
-      "title": "Manage Agile software delivery plans across teams",
-      "excerpt": "Learn to optimize delivery efficiency by improving work plan visibility across teams.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-delivery-plans/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 2875,
-        "average": 4.728
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps"
       ]
     }
   ],

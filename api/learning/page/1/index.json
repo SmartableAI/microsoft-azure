@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 49047,
-        "average": 4.785736
+        "count": 49052,
+        "average": 4.785697
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 49047,
-            "average": 4.785736
+            "count": 49052,
+            "average": 4.785697
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -118,8 +118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 27360,
-            "average": 4.812902
+            "count": 27371,
+            "average": 4.8129044
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +162,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 12509,
-            "average": 4.80494
+            "count": 12513,
+            "average": 4.804843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -226,8 +226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 27360,
-        "average": 4.812902
+        "count": 27371,
+        "average": 4.8129044
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -337,15 +337,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-enterprise-scale-introduction.md",
-      "title": "Introduction to enterprise-scale landing zones in the Microsoft Cloud Adoption Framework for Azure",
-      "excerpt": "The Microsoft Cloud Adoption Framework for Azure provides many landing zone options. In this module, we'll focus on enterprise-scale landing zones.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-introduction/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
-      "length": "PT34M",
+      "path": "_learning/courses/microsoft-learn-manage-innersource-program-github.md",
+      "title": "Manage an InnerSource program by using GitHub",
+      "excerpt": "Learn to manage a successful InnerSource program on GitHub through effective discoverability, guidance, and maintenance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-innersource-program-github/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-innersource-program-github/",
+      "length": "PT50M",
       "ratings": {
-        "count": 300,
-        "average": 4.713333
+        "count": 252,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -362,10 +362,10 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 131,
+      "heat": 133,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-introduction-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/github/manage-innersource-program-github-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -375,54 +375,18 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Management Tools"
+        "Azure"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explain-devops-continous-delivery-quality.md",
-      "title": "Explain DevOps Continuous Delivery and Continuous Quality",
-      "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explain-devops-continous-delivery-quality/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 1621,
-        "average": 4.7304134
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 131,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-use-pills-to-filter-in-the-azure-portal-azure-portal-series.md",
-      "title": "How to use pills to filter in the Azure Portal | Azure Portal Series",
-      "excerpt": "IIn this episode of the #Azure Portal \"How To\" series, learn about the new design for pills, how to use them when filtering resources, and how to add and edit pill filters.  Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-pills-to-filter-in-the-azure-portal-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-pills-to-filter-in-the-azure-portal-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=XyKh_3NxUlM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XyKh_3NxUlM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M27S",
+      "path": "_learning/videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks.md",
+      "title": "How to start and stop clusters with Azure Kubernetes Service | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to start and stop clusters with Microsoft Azure Kubernetes Service   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=0f3lo56h4tg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0f3lo56h4tg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M6S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -435,11 +399,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-01-27T08:24:20-08:00",
-      "heat": 130,
+      "publishedDateTime": "2021-03-09T08:01:17-08:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/XyKh_3NxUlM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/0f3lo56h4tg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -450,7 +414,41 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Management tools"
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-case-study-distributed-file-systems.md",
+      "title": "Case studies: Distributed file systems",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Discover how distributed file systems work, then learn about Hadoop and Ceph.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-case-study-distributed-file-systems/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-case-study-distributed-file-systems/",
+      "length": "PT1H7M",
+      "ratings": {
+        "count": 43,
+        "average": 4.837209
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -484,8 +482,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 10845,
-            "average": 4.723836
+            "count": 10848,
+            "average": 4.72382
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -530,8 +528,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 9625,
-            "average": 4.761039
+            "count": 9631,
+            "average": 4.761084
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -575,8 +573,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 7701,
-            "average": 4.7615895
+            "count": 7703,
+            "average": 4.7616515
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -618,8 +616,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 8395,
-            "average": 4.637403
+            "count": 8399,
+            "average": 4.637457
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -687,8 +685,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
       "length": "PT34M",
       "ratings": {
-        "count": 12509,
-        "average": 4.80494
+        "count": 12513,
+        "average": 4.804843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -788,8 +786,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 141113,
-            "average": 4.7021112
+            "count": 141114,
+            "average": 4.702085
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -937,6 +935,196 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-azure-tips-and-tricks.md",
+      "title": "Azure Tips and Tricks",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-tips-and-tricks/",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-how-to-run-logic-apps-in-a-docker-container-azure-tips-and-tricks.md",
+          "title": "How to run Logic Apps in a Docker container | Azure Tips and Tricks",
+          "excerpt": "In this edition of Azure Tips and Tricks, learn how to run Logic Apps in a Docker container.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://aka.ms/att/free",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-run-logic-apps-in-a-docker-container-azure-tips-and-tricks/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-run-logic-apps-in-a-docker-container-azure-tips-and-tricks/",
+          "originalUrl": "https://youtube.com/watch?v=GHk7Arm247E",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GHk7Arm247E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT4M",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-04-06T08:00:12-07:00",
+          "heat": 85,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/GHk7Arm247E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-how-to-use-blob-versioning-in-azure-storage-azure-tips-and-tricks.md",
+          "title": "How to use Blob versioning in Azure Storage | Azure Tips and Tricks",
+          "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Blob versioning in Microsoft Azure Storage.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://aka.ms/att/free",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-blob-versioning-in-azure-storage-azure-tips-and-tricks/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-blob-versioning-in-azure-storage-azure-tips-and-tricks/",
+          "originalUrl": "https://youtube.com/watch?v=bjKmJKAKyp4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bjKmJKAKyp4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT2M11S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-03-30T08:02:14-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/bjKmJKAKyp4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-how-to-deploy-steeltoe-net-apps-to-azure-spring-cloud-azure-tips-and-tricks.md",
+          "title": "How to deploy Steeltoe .NET apps to Azure Spring Cloud | Azure Tips and Tricks",
+          "excerpt": "In this edition of Azure Tips and Tricks, learn how to Deploy Steeltoe .NET apps to Microsoft Azure Spring Cloud.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-deploy-steeltoe-net-apps-to-azure-spring-cloud-azure-tips-and-tricks/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-deploy-steeltoe-net-apps-to-azure-spring-cloud-azure-tips-and-tricks/",
+          "originalUrl": "https://youtube.com/watch?v=_RGvAQXz4-Q",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_RGvAQXz4-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M53S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-03-22T08:00:05-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/_RGvAQXz4-Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks.md",
+          "title": "How to start and stop clusters with Azure Kubernetes Service | Azure Tips and Tricks",
+          "excerpt": "In this edition of Azure Tips and Tricks, learn how to start and stop clusters with Microsoft Azure Kubernetes Service   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks/",
+          "originalUrl": "https://youtube.com/watch?v=0f3lo56h4tg",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0f3lo56h4tg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT2M6S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-03-09T08:01:17-08:00",
+          "heat": 131,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/0f3lo56h4tg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        }
+      ],
+      "size": 151,
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GHk7Arm247E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-3-describe-core-solutions-and-management-tools-on-azure.md",
       "title": "Azure Fundamentals part 3: Describe core solutions and management tools on Azure",
       "excerpt": "Learn how to choose the best services from Azure to build and manage cloud solutions.",
@@ -967,8 +1155,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 7463,
-            "average": 4.7771673
+            "count": 7465,
+            "average": 4.777227
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1010,8 +1198,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 5717,
-            "average": 4.7189083
+            "count": 5718,
+            "average": 4.718958
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1053,8 +1241,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 5066,
-            "average": 4.7574024
+            "count": 5068,
+            "average": 4.7574983
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1097,8 +1285,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 4787,
-            "average": 4.751201
+            "count": 4790,
+            "average": 4.751148
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1166,8 +1354,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 10845,
-        "average": 4.723836
+        "count": 10848,
+        "average": 4.72382
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1235,8 +1423,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 11242,
-            "average": 4.774951
+            "count": 11246,
+            "average": 4.775031
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1321,8 +1509,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 7635,
-            "average": 4.763065
+            "count": 7637,
+            "average": 4.7629957
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1498,8 +1686,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 9625,
-        "average": 4.761039
+        "count": 9631,
+        "average": 4.761084
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1543,8 +1731,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 11242,
-        "average": 4.774951
+        "count": 11246,
+        "average": 4.775031
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1586,8 +1774,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 8395,
-        "average": 4.637403
+        "count": 8399,
+        "average": 4.637457
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1629,8 +1817,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 7463,
-        "average": 4.7771673
+        "count": 7465,
+        "average": 4.777227
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1707,8 +1895,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 7701,
-        "average": 4.7615895
+        "count": 7703,
+        "average": 4.7616515
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1773,8 +1961,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 7635,
-            "average": 4.763065
+            "count": 7637,
+            "average": 4.7629957
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1816,8 +2004,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 5625,
-            "average": 4.784711
+            "count": 5626,
+            "average": 4.7847495
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1877,8 +2065,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 7635,
-        "average": 4.763065
+        "count": 7637,
+        "average": 4.7629957
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2202,8 +2390,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
       "length": "PT21M",
       "ratings": {
-        "count": 5717,
-        "average": 4.7189083
+        "count": 5718,
+        "average": 4.718958
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2245,8 +2433,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 6138,
-        "average": 4.77957
+        "count": 6140,
+        "average": 4.779479
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2278,50 +2466,6 @@
       "topics": [
         "Azure",
         "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitoring-fundamentals.md",
-      "title": "Choose the best monitoring service for visibility, insight, and mitigation of service outages",
-      "excerpt": "Discover solutions that help IT organizations with insights into the health and performance of their applications running in the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitoring-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
-      "length": "PT22M",
-      "ratings": {
-        "count": 5066,
-        "average": 4.7574024
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 82,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps"
       ]
     }
   ],
