@@ -4,6 +4,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-models-data.md",
+      "title": "Work with models and data in Django",
+      "excerpt": "Explore models and data in Django. Learn about the object-relational mapper, create your own models, and set up a database.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-models-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/django/2-models-data/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 3,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 10876,
-            "average": 4.7241635
+            "count": 10881,
+            "average": 4.7241063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -80,8 +124,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 9658,
-            "average": 4.7609234
+            "count": 9661,
+            "average": 4.760998
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -125,8 +169,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 7719,
-            "average": 4.761886
+            "count": 7723,
+            "average": 4.7620096
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -168,8 +212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 8410,
-            "average": 4.6376934
+            "count": 8413,
+            "average": 4.6378226
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -237,8 +281,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 9658,
-        "average": 4.7609234
+        "count": 9661,
+        "average": 4.760998
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -348,8 +392,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 3914,
-            "average": 4.746806
+            "count": 3915,
+            "average": 4.746871
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -392,8 +436,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7457,
-            "average": 4.6699743
+            "count": 7458,
+            "average": 4.6700187
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -553,8 +597,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2281,
-            "average": 4.6926785
+            "count": 2284,
+            "average": 4.6926446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -596,8 +640,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41825,
-            "average": 4.717896
+            "count": 41828,
+            "average": 4.717916
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -631,8 +675,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 690,
-            "average": 4.633333
+            "count": 691,
+            "average": 4.633864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -855,8 +899,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 5114,
-            "average": 4.7518578
+            "count": 5115,
+            "average": 4.7519064
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -898,8 +942,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 8650,
-            "average": 4.666127
+            "count": 8651,
+            "average": 4.666166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -987,8 +1031,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 7650,
-            "average": 4.762876
+            "count": 7655,
+            "average": 4.7629
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1248,8 +1292,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 5031,
-            "average": 4.7370305
+            "count": 5032,
+            "average": 4.7370825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1423,8 +1467,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 5489,
-            "average": 4.706686
+            "count": 5494,
+            "average": 4.706589
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1510,8 +1554,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
           "length": "PT59M",
           "ratings": {
-            "count": 1309,
-            "average": 4.5737205
+            "count": 1311,
+            "average": 4.573608
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1554,8 +1598,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
           "length": "PT35M",
           "ratings": {
-            "count": 4893,
-            "average": 4.742898
+            "count": 4894,
+            "average": 4.7427464
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1825,8 +1869,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1509,
-            "average": 4.754142
+            "count": 1510,
+            "average": 4.7543044
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2132,8 +2176,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5387,
-            "average": 4.6632633
+            "count": 5388,
+            "average": 4.663326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2549,8 +2593,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
           "length": "PT48M",
           "ratings": {
-            "count": 3361,
-            "average": 4.6798573
+            "count": 3362,
+            "average": 4.6799526
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2584,8 +2628,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
           "length": "PT44M",
           "ratings": {
-            "count": 2094,
-            "average": 4.536294
+            "count": 2095,
+            "average": 4.5365157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2954,7 +2998,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3710,8 +3754,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
       "length": "PT34M",
       "ratings": {
-        "count": 811,
-        "average": 4.680641
+        "count": 813,
+        "average": 4.681427
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3810,46 +3854,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/jCfJWYocz1M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday.md",
-      "title": "Operational best practices for web apps on Azure App Service | Azure Friday",
-      "excerpt": "Azure App Service hosts millions of apps, serves trillions of requests per day, and has an SLA of 99.95%. But what should you do when your app has issues in production? Byron Tardif joins Scott Hanselman to discuss some operational best practices for running your web apps on Azure App Service.  0:00",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=JAqoLC2dv-M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JAqoLC2dv-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-05T17:09:42-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JAqoLC2dv-M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
