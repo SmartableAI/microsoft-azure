@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Microsoft to establish new datacenter region in Denmark"
-excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
-publishedDateTime: 2020-12-07T18:05:27Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-denmark/"
-webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-denmark/"
+title: "Microsoft announces plans to establish first datacenter region in Malaysia "
+excerpt: "The new datacenter region is part of the “Bersama Malaysia” initiative to support inclusive economic growth in Malaysia."
+publishedDateTime: 2021-04-16T17:00:00Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-announces-plans-to-establish-first-datacenter-region-in-malaysia/"
+webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-announces-plans-to-establish-first-datacenter-region-in-malaysia/"
 type: article
-quality: 52
+quality: 50
 heat: -1
 published: false
 
@@ -49,6 +49,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Microsoft to establish new datacenter region in Denmark"
+    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
+    publishedDateTime: 2020-12-07T18:05:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-denmark/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Microsoft plans to establish first datacenter region in Indonesia"
     excerpt: "Microsoft increases its investment in Indonesia’s digital economy, with plans to establish its first datacenter region in the country."
     publishedDateTime: 2021-02-25T03:30:20Z
@@ -58,15 +67,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Microsoft announces plans to establish first datacenter region in Malaysia "
-    excerpt: "The new datacenter region is part of the “Bersama Malaysia” initiative to support inclusive economic growth in Malaysia."
-    publishedDateTime: 2021-04-16T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-announces-plans-to-establish-first-datacenter-region-in-malaysia/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 50
   - title: "Sports IoT platform FanPlay moves to Microsoft Azure cloud, plans to augment engagement for Chennai Super Kings fans during IPL 2020"
     excerpt: "FanPlay, Sports IoT platform has paired up with Microsoft to use the company's cloud platform Azure and provide a seamless experience for users."
     publishedDateTime: 2020-09-29T11:52:00Z
@@ -118,6 +118,6 @@ related:
       domain: digitimes.com
     quality: 16
 
-secured: "cBe3BhTnE8snvX9+mhu3G51hENvDj5rhvmMyHZZj3IL1rY5fK1hTP61rIFLzKMiIPYfUOayv8bBInccUFwzHgCWp8d8at0Vvq84+3YF/QsbhXZPqjnS2nx8EZC9vstzaUpObu07wBWK695u5aFa1XfeGGj7nBWXcYomofrLcNQJnoMwPOY4EOfg+sIqw5BP6k/NszEH2WiTnEGC4rqndoDX1mnThbFEjYhxuk0mCDLZ5ltHS07RVQ3max0EtekRZszi3JE8gb1wI9EBfhSsDQsCiTs5zNM3BGqoAnWfQQcih6CtwxgyUzscGLH/oxeIyB9DspCo23wlkgto0v+3TUnu/F+iPhgL5uSNUijDg5Aw=;E7TMcik5fnY/Y9FHSD+ZVw=="
+secured: "OWo/exyd3cAJNdxXmsecr+odalX6OaEazv3IDFeeXJNwvNzyDnQioUgM4Gp/VOKmmai0fxu54K9n+zHubZ0idSG+WNqX4kXgiHhRMoVOM5W5nsZp/aB7PO+t94yqXJhI8n9iPJ9qITPQWCAFh8yAUH1z6fr4TX6iZJZCsdb84roao9aDM987fithT0RNan8p9hdYZQz5PfKM7c2uyuo+3rXVycYJ7bWVaD5FXNgUP5vt0b78Dk3oteUDS7M+QKA3YYGkSo55v3BSKStJxl43JW6UqO76RM8wvs+TLM6WuA3VeQNQ6bv4ItaZwn1OvqdtXx/yXWtS4N99rLg0e8EP2Z8pN7GcHC6+tB4IXTT7VZE=;tZuGnrTlt1fvZ7VVtFoGFg=="
 ---
 

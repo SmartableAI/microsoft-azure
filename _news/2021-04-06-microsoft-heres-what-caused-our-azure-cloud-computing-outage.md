@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-heres-what-caused
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-what-caused-our-recent-azure-cloud-computing-services-outage/"
 type: article
 quality: 77
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -39,6 +39,22 @@ related:
       - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/05/nvidia-cloudxr.jpg"
         width: 1280
         height: 680
+        isCached: true
+  - title: "Microsoft down: Services including Xbox Live and Azure were working for users around the world"
+    excerpt: "Microsoft Azure, the server software that powers Xbox Live, Teams, Outlook, and other web services went down. “We are aware of an issue affecting the Azure Portal and Azure services”, the ..."
+    publishedDateTime: 2021-04-04T09:03:00Z
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/microsoft-down-xbox-not-working-b1825862.html"
+    ampWebUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/microsoft-down-xbox-not-working-b1825862.html"
+    cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/microsoft-down-xbox-not-working-b1825862.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 45
+    images:
+      - url: "https://static.independent.co.uk/2021/04/01/23/PRI180385040.jpeg?width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 751
         isCached: true
   - title: "No foolin’: Microsoft cloud outage takes Azure, Teams and Office 365 offline"
     excerpt: "Microsoft’s Azure cloud services, as well as Teams, Office 365, OneDrive, Skype, Xbox Live and Bing, were all inaccessible due to the outage. Even the Azure Status page was reportedly taken offline."
