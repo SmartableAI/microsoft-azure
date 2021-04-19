@@ -1,27 +1,25 @@
 ---
 category: news
 title: "AccuWeather Partners with Microsoft to Bring New Capabilities to Microsoft Azure Maps"
-excerpt: "AccuWeather today announced the integration of its weather data on Microsoft Azure Maps, making it Azure Maps exclusive weather provider. The partnership signifies a recognition by Microsoft of AccuWeather’s proven superiority in weather forecast accuracy to benefit its enterprise customers."
-publishedDateTime: 2021-04-13T18:42:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-earth-science-a34de8f8742023246f0f5536770b77b9"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-earth-science-a34de8f8742023246f0f5536770b77b9"
+excerpt: "AccuWeather today announced the integration of its weather data on Microsoft Azure Maps, making it Azure Maps exclusive weather provider. The partnership signifies a recognition by Microsoft of AccuWeather's proven superiority in weather forecast accuracy to benefit its enterprise customers."
+publishedDateTime: 2021-04-13T20:41:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/accuweather-partners-with-microsoft-to-bring-new-capabilities-to-microsoft-azure-maps-1030300269"
+webUrl: "https://markets.businessinsider.com/news/stocks/accuweather-partners-with-microsoft-to-bring-new-capabilities-to-microsoft-azure-maps-1030300269"
 type: article
-quality: 30
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -477,6 +475,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "1Q6xUnJ9zbUJgU1pB+Z4nUUxVL6SMJ1qMzcbuJHD/D3GFPsPnMJTIl3cqLlLfj4AGikd6DPLwRjB3yjV4uRkDYe3kzckZ5gCHbxXkZQhCxKZMB9RTuwGGYhNbv06OCOLphnn5YzEGmu79MqzbUgUI5NVBX4LIeMwSXfTjWMOMz220VEpKpPSgWU3nSG60DHBp8UNg6dO0y7afb+5IMQv8JZ8db+OB/QKrBS2NhLypSBOx1QPXCiM4BEy0KTxt0v2ot1iHf9gwrPkXzjAYr4w0+z5ODihyrolazNiBSJknd+HhN8RQQd+IanqN/RiMkhBJjTC7MV6Cmcdi0uSHOZniX9PCF9xLN5uVsckYAfaQCc=;rl3IgiB6RRu6ZFeXJfQROQ=="
+secured: "Hr/59mo2BBbv42UqTra9rxBMYsmX/oKmcZPNyqJqkDqshaEqJ51YLgbb47JGthBQ7EdAegocuDo3TBZUga+b00MfaXCxKfmeZphPVXWH/kiM/CmnXk8rhpxRDaDiQTdlNz77JaE+YFJ6KjQfHRVp2FNPF8RQqQhapwJz6RxuksRkHOjooVr/zOCoe8lWTYylCmxEHy37wgEqx+Fys7dudhPhzycQ/4AdJkEiKt7lsOAnbQhwOLsc/EOqfGn8oi8apsXa2nL/j3edtgrpm/GausJNbXeNPOru7bFtHtTcv1FIhreRzYiZYBkc0ixoCCHwMGUMZI8H5iDCPZVguGWjfRmbOc86v8Geh9N+wiUl/ho=;/aaIbwVslBzV+TKyA8Yvng=="
 ---
 

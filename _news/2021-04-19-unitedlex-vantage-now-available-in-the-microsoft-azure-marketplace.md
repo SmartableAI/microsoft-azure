@@ -1,27 +1,21 @@
 ---
 category: news
-title: "DP-200 Dumps PDF (2021) 100% Accurate Microsoft Azure Data Engineer Associate Exam Questions"
-excerpt: "Pass you Microsoft DP-200 exam in just one go with DumpsArchive DP-200 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
-publishedDateTime: 2021-04-18T08:19:00Z
-originalUrl: "https://www.madinamerica.com/author/get-dp-200-dumps/"
-webUrl: "https://www.madinamerica.com/author/get-dp-200-dumps/"
+title: "UnitedLex Vantage Now Available in the Microsoft Azure Marketplace"
+excerpt: "UnitedLex, a leading technology and legal services company, today announced the availability of its Vantage solution in the Microsoft Azure Marketplac"
+publishedDateTime: 2021-04-19T13:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210419005007/en/UnitedLex-Vantage-Now-Available-in-the-Microsoft-Azure-Marketplace"
+webUrl: "https://www.businesswire.com/news/home/20210419005007/en/UnitedLex-Vantage-Now-Available-in-the-Microsoft-Azure-Marketplace"
 type: article
-quality: 26
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Mad in America
-  domain: madinamerica.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-    width: 300
-    height: 285
-    isCached: true
 
 related:
   - title: "Microsoft-AccuWeather partnership adds capabilities to Azure Maps"
@@ -168,15 +162,20 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "UnitedLex Vantage Now Available in the Microsoft Azure Marketplace"
-    excerpt: "UnitedLex, a leading technology and legal services company, today announced the availability of its Vantage solution in the Microsoft Azure Marketplac"
-    publishedDateTime: 2021-04-19T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210419005007/en/UnitedLex-Vantage-Now-Available-in-the-Microsoft-Azure-Marketplace"
+  - title: "DP-200 Dumps PDF (2021) 100% Accurate Microsoft Azure Data Engineer Associate Exam Questions"
+    excerpt: "Pass you Microsoft DP-200 exam in just one go with DumpsArchive DP-200 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
+    publishedDateTime: 2021-04-18T08:19:00Z
+    webUrl: "https://www.madinamerica.com/author/get-dp-200-dumps/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 26
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
   - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
     excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
     publishedDateTime: 2021-04-14T17:20:00Z
@@ -187,6 +186,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "V654s4un7RYPQ/xQCjErmM1hgq/P6xck3+kNh94gExM8b+H3KCs7SEhayaC16q0NekW7YKFMkq7N8B+thgLuED0gPYL1vDgZ0P8mfIj3+bPqItllpLj6iaCl3hW5YaG/jekmiwR2P0mg7bkb5gpQ/05DkZIBTf+MgHdC0gNLHgahp3wDHOuvVcFFWSU/BzZ7/sJdavDuZTk7OsRA2qZ1Txg/StwdxfR2kdq7OIM7ZanoRdCLvu4HQjPf9ydvGCnZml2BiPH/QGkoE7/CtU2HQYiU5V+BfZULfqXwMZj9uIRtdz4dAidK657fBLJ65ii4cuFA3rwIvobu8ScwXsvF/WklTS25UGS10NL55Ifim2YXXI5IN4YmWfqI1VNLvGODGEmjCUi0KZ+34jvT+HkzQLeKuEQGR1JSu00voD1H06Bl+ZotyQpa3wj4okxEj+Y3ZzWYVnC9HgMyuzPZDcpgw/2CtD7pSp27gbBp3q0hLwWT6sGykUqzoerjuzFfWJcN92DWhOSr6PF+/JCxDbc13A==;mZI8V7fR97somwTnr4deeg=="
+secured: "Qpu3zsobJbZFmw81aK90qkW2KuBhF0kslB9iiaf1JApXfLBzYcsGlG+vfa8/6MA0DVzxhHWeG0CMrABkoEIkrcR/SVsmBqh82yRTw3PDCkhtr/0P1GX5YQx/kD44uPsRg/RwWw8jOiURL/4eKAd64IDLN2cwkC5wUZKjp/ObbZbeMaGmTYip6asGwyzW1OAtijE9SV3ujLEblKxWQ5g0mUxG3yWZ2bT+S4Uts0QxRAkGqdiua5h+Pmana4H9yohYWFz/1yVS5src1k5Z+a7p6V8nfODJtXzDIdgIJzgSuTPE+O83Dur9xHHLGdrLXi9fbqoyfwnzuG+Y3PFPF1j/65JtRZHwcDfbI7L4H4Two5s=;/kbo0pSesDFndcoh+ZqXdg=="
 ---
 

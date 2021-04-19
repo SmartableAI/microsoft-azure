@@ -176,6 +176,15 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "UnitedLex Vantage Now Available in the Microsoft Azure Marketplace"
+    excerpt: "UnitedLex, a leading technology and legal services company, today announced the availability of its Vantage solution in the Microsoft Azure Marketplac"
+    publishedDateTime: 2021-04-19T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210419005007/en/UnitedLex-Vantage-Now-Available-in-the-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
 
 secured: "qhGwdQnkMXXwqTCwpiz5EmHYBNofbqK0U18Fc3DH0z4TE0JMoqjHYSHwyi+T5UwDYGBRl+EkKyDGTQ6m/u9oU0hSUJMbfN7KKJavvylQkqsXoq4ZWRzgeSB7SMLdZptfiLkyJnJNCsIDMhllWAIGq7AvZ7My+ctF6onF9dc9YvHPjnmmZIvxW/4OGHvoerMLDf03UoIJZYFrM6izhYol0crJ+6MsCLz1vuKKIOQoep4FN3IrWUO0bbewNOW8kxwsdGWDPW0KWXujuevj5aVfWseHJaIM4Qzy5Ux+dJaW3YZZ3dFAFTr9S9reqHv1QABSm22E0L7njwcOslRgKCX6coo2Glh64upxKW9ZEBK2L0ZbV/9Y10TDHfYRly65uLyg2Hl+O7jcBWtqqmUP3P+mX5696WYFjzKh5qf1HGjD6Q6fct9ZFbACTRaRQL46XQMXcekM70yRvu52zO5Cu9XwtNv3sWIfXAxRNj9pFxf0Z9toXaGuMPsqmHC25Iiauap2MHrUwB61paPtQuMNXc5e5Q==;0+LNtT2YkGf4p2rJCFPLtg=="
 ---

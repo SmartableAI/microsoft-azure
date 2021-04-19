@@ -168,6 +168,15 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "UnitedLex Vantage Now Available in the Microsoft Azure Marketplace"
+    excerpt: "UnitedLex, a leading technology and legal services company, today announced the availability of its Vantage solution in the Microsoft Azure Marketplac"
+    publishedDateTime: 2021-04-19T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210419005007/en/UnitedLex-Vantage-Now-Available-in-the-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
   - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
     excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
     publishedDateTime: 2021-04-14T17:20:00Z
