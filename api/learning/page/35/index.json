@@ -4,14 +4,14 @@
   "page": 35,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-front-door.md",
-      "title": "Introduction to Azure Front Door",
-      "excerpt": "Azure Front Door provides a fast, reliable, and secure modern cloud content delivery network, integrated with intelligent threat protection.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-front-door/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-front-door/",
-      "length": "PT29M",
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-firewall-manager.md",
+      "title": "Introduction to Azure Firewall Manager",
+      "excerpt": "Describe how Azure Firewall Manager provides central security policy and route management for your cloud-based security perimeters. Determine whether Azure Firewall Manager can help you secure your cloud perimeters.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-firewall-manager/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-firewall-manager/",
+      "length": "PT28M",
       "ratings": {
-        "count": 3,
+        "count": 1,
         "average": 5.0
       },
       "provider": {
@@ -248,8 +248,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hpc/",
       "length": "PT50M",
       "ratings": {
-        "count": 1290,
-        "average": 4.595349
+        "count": 1291,
+        "average": 4.595662
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -412,48 +412,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-migrating-aspnet-apps-azure.md",
-      "title": "Introduction to migrating ASP.NET apps to Azure",
-      "excerpt": "Migrating an ASP.NET application from on-premises to Azure, along with a supporting Azure SQL database, can provide many advantages, but also challenges. Learn how to evaluate the migration process to determine if it’s right for your application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-migrating-aspnet-apps-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-migrating-aspnet-apps-azure/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 27,
-        "average": 4.888889
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-mixed-reality.md",
       "title": "Introduction to Mixed Reality",
       "excerpt": "Mixed Reality is transforming the nature of on-the-job training, game development, and consumer application development. Build a foundation in the core concepts, terminology, and design processes unique to the augmented reality, virtual reality, and Mixed Reality development space. Get familiar with HoloLens, Windows Mixed Reality immersive headsets, bodystorming prototypes, and the most common use-cases for Mixed Reality content.",
@@ -461,8 +419,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-mixed-reality/",
       "length": "PT41M",
       "ratings": {
-        "count": 178,
-        "average": 4.820225
+        "count": 179,
+        "average": 4.821229
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1261,6 +1219,49 @@
         "Web",
         "Serverless",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-leverage-fasttrack-partner-services-to-support-microsoft-365.md",
+      "title": "Leverage FastTrack and Partner Services to support Microsoft 365",
+      "excerpt": "Leverage FastTrack and Partner Services to support Microsoft 365",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-leverage-fasttrack-partner-services-to-support-microsoft-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/leverage-fasttrack-partner-services-to-support-microsoft-365/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 4,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/leverage-fasttrack-and-partner-services-to-support-microsoft-365-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
       ]
     }
   ],

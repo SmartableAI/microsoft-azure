@@ -4,49 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-plan-implement-administer-conditional-access.md",
-      "title": "Plan, implement, and administer conditional access",
-      "excerpt": "Plan, implement, and administer conditional access",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-administer-conditional-access/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 201,
-        "average": 4.830846
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines.md",
       "title": "Populate slowly changing dimensions in Azure Synapse Analytics pipelines",
       "excerpt": "Populate slowly changing dimensions in Azure Synapse Analytics pipelines",
@@ -97,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/",
       "length": "PT32M",
       "ratings": {
-        "count": 1045,
-        "average": 4.755024
+        "count": 1046,
+        "average": 4.755258
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -139,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-onpremises-workloads-migration-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 334,
-        "average": 4.6676645
+        "count": 335,
+        "average": 4.668657
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -224,8 +181,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-data-transit-rest/",
       "length": "PT43M",
       "ratings": {
-        "count": 1633,
-        "average": 4.7966933
+        "count": 1634,
+        "average": 4.796818
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -518,8 +475,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
       "length": "PT60M",
       "ratings": {
-        "count": 417,
-        "average": 4.529976
+        "count": 418,
+        "average": 4.528708
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -606,8 +563,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recommend-system-feedback-mechanisms/",
       "length": "PT49M",
       "ratings": {
-        "count": 358,
-        "average": 4.662011
+        "count": 360,
+        "average": 4.663889
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -648,8 +605,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/",
       "length": "PT40M",
       "ratings": {
-        "count": 1349,
-        "average": 4.654559
+        "count": 1350,
+        "average": 4.6548147
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -734,8 +691,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-system-feedback/",
       "length": "PT22M",
       "ratings": {
-        "count": 480,
-        "average": 4.65625
+        "count": 481,
+        "average": 4.656965
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -820,8 +777,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-generic-types-traits/",
       "length": "PT31M",
       "ratings": {
-        "count": 17,
-        "average": 4.8235292
+        "count": 18,
+        "average": 4.7222223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1168,8 +1125,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/synthesize-text-input-speech/",
       "length": "PT18M",
       "ratings": {
-        "count": 491,
-        "average": 4.663951
+        "count": 492,
+        "average": 4.664634
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1275,6 +1232,50 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/approach-your-data-flow-diagram-with-the-right-threat-model-focus-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-tm-create-a-threat-model-using-foundational-data-flow-diagram-elements.md",
+      "title": "Create a threat model using data-flow diagram elements",
+      "excerpt": "Data-flow diagrams are graphical representations of your system and should specify each element, their interactions and context.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 350,
+        "average": 4.725714
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-a-threat-model-using-data-flow-diagram-elements-social.png",
           "width": 640,
           "height": 320,
           "isCached": true

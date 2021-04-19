@@ -4,6 +4,42 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
+      "title": "Connect an app to Azure Storage",
+      "excerpt": "Create a simple application and add configuration, client library references, and C# or JavaScript code to connect it to Azure Storage.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-app-to-azure-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
+      "length": "PT1H15M",
+      "ratings": {
+        "count": 5969,
+        "average": 4.6331043
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
       "title": "Create an Azure Storage account",
       "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
@@ -11,8 +47,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 8339,
-        "average": 4.7751527
+        "count": 8340,
+        "average": 4.77518
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -93,8 +129,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 3224,
-        "average": 4.7348013
+        "count": 3225,
+        "average": 4.734574
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -301,8 +337,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
       "length": "PT56M",
       "ratings": {
-        "count": 2183,
-        "average": 4.586349
+        "count": 2184,
+        "average": 4.5865383
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -320,49 +356,6 @@
         "Intermediate"
       ],
       "heat": 53,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-data-storage-processing-azure.md",
-      "title": "Explore data storage and processing in Azure",
-      "excerpt": "Explore data storage and processing in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-data-storage-processing-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 1249,
-        "average": 4.7101684
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-data-storage-processing-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -416,8 +409,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 3848,
-        "average": 4.5530148
+        "count": 3849,
+        "average": 4.5531306
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -696,8 +689,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2397,
-            "average": 4.458907
+            "count": 2398,
+            "average": 4.4591327
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -922,8 +915,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/",
       "length": "PT41M",
       "ratings": {
-        "count": 1643,
-        "average": 4.5836883
+        "count": 1645,
+        "average": 4.581763
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1340,8 +1333,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10002,
-            "average": 4.670266
+            "count": 10003,
+            "average": 4.670299
           },
           "provider": {
             "name": "Microsoft Learn",

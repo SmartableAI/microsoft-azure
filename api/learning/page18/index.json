@@ -4,92 +4,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure.md",
-      "title": "Build systems of insights for enterprise scale with Power BI and Azure",
-      "excerpt": "Build systems of insights for enterprise scale with Power BI and Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 5,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-web-app-blazor-webassembly-vscode.md",
-      "title": "Build a web app with Blazor WebAssembly and Visual Studio Code",
-      "excerpt": "Learn how to set up your development environment and build your first WebAssembly app with Blazor, Visual Studio Code, and C#.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-web-app-blazor-webassembly-vscode/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-visual-studio-code/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 1519,
-        "average": 4.700461
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-a-web-app-with-blazor-webassembly-and-vs-code-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Developer tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-build-webapp-java-tomcat.md",
       "title": "Deploy a Java web app to Azure",
       "excerpt": "You'll learn how to create a Java web application and deploy it to Azure App Service.",
@@ -675,8 +589,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-synapse-link-with-azure-cosmos-db/",
       "length": "PT45M",
       "ratings": {
-        "count": 19,
-        "average": 4.631579
+        "count": 20,
+        "average": 4.55
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -719,8 +633,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-databases-performance/",
       "length": "PT24M",
       "ratings": {
-        "count": 593,
-        "average": 4.795953
+        "count": 594,
+        "average": 4.796296
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -805,8 +719,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
       "length": "PT39M",
       "ratings": {
-        "count": 7562,
-        "average": 4.629463
+        "count": 7566,
+        "average": 4.629659
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1022,8 +936,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-bot-with-bot-framework-composer/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 58,
-        "average": 4.62069
+        "count": 59,
+        "average": 4.6271186
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1065,8 +979,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-nodejs-project-dependencies/",
       "length": "PT25M",
       "ratings": {
-        "count": 369,
-        "average": 4.756098
+        "count": 370,
+        "average": 4.756757
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1107,8 +1021,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 1208,
-        "average": 4.700331
+        "count": 1209,
+        "average": 4.700579
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1273,6 +1187,94 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-azure-sql-database.md",
+      "title": "Deploy Azure SQL Database",
+      "excerpt": "Provision and deploy Azure SQL Database and SQL Server Managed Instances. Select the appropriate options when performing a migration to the SQL PaaS platform.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-azure-sql-database/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 2160,
+        "average": 4.787963
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-azure-sql-database-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-cognitive-service-iot-edge-azure-func.md",
+      "title": "Connecting IoT devices to Cognitive Services using Azure Functions",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-cognitive-service-iot-edge-azure-func/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connecting-iot-devices-cognitive-services-azure-functions/",
+      "length": "PT1H16M",
+      "ratings": {
+        "count": 103,
+        "average": 4.5825243
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/connecting-iot-devices-to-cognitive-services-using-azure-functions-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Serverless",
         "AI"
       ]
     }

@@ -4,6 +4,41 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-intro-to-blockchain.md",
+      "title": "Introduction to blockchain on Azure",
+      "excerpt": "Introduction to blockchain on Azure. See how blockchain allows business partners to trust each other's data without a central authority. You'll also learn a bit about how blockchain works. The goal is to help you decide if blockchain is a good choice for your scenario.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-intro-to-blockchain/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-blockchain/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 276,
+        "average": 4.786232
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Blockchain"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-sql-intro.md",
       "title": "Introduction to Azure SQL",
       "excerpt": "This module introduces Azure SQL. Learn about various deployment options and service tiers and what to use for your organization.",
@@ -11,8 +46,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
       "length": "PT44M",
       "ratings": {
-        "count": 1092,
-        "average": 4.747253
+        "count": 1093,
+        "average": 4.747484
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +89,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
       "length": "PT51M",
       "ratings": {
-        "count": 1426,
-        "average": 4.734923
+        "count": 1427,
+        "average": 4.735109
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -263,8 +298,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 1089,
-        "average": 4.7465563
+        "count": 1090,
+        "average": 4.746789
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -306,8 +341,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
       "length": "PT56M",
       "ratings": {
-        "count": 2183,
-        "average": 4.586349
+        "count": 2184,
+        "average": 4.5865383
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -341,8 +376,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
       "length": "PT40M",
       "ratings": {
-        "count": 5409,
-        "average": 4.712886
+        "count": 5412,
+        "average": 4.713045
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -428,8 +463,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 5275,
-        "average": 4.7446446
+        "count": 5276,
+        "average": 4.744693
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -471,8 +506,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
       "length": "PT35M",
       "ratings": {
-        "count": 4288,
-        "average": 4.6536846
+        "count": 4289,
+        "average": 4.6537657
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -755,49 +790,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-data-storage-processing-azure.md",
-      "title": "Explore data storage and processing in Azure",
-      "excerpt": "Explore data storage and processing in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-data-storage-processing-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 1249,
-        "average": 4.7101684
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-data-storage-processing-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-explore-non-relational-data-stores-azure.md",
       "title": "Manage non-relational data stores in Azure",
       "excerpt": "Explore non-relational data stores in Azure",
@@ -847,8 +839,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 773,
-        "average": 4.771022
+        "count": 774,
+        "average": 4.7700257
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -889,8 +881,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/",
       "length": "PT33M",
       "ratings": {
-        "count": 1187,
-        "average": 4.8037066
+        "count": 1188,
+        "average": 4.803872
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -931,8 +923,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 7833,
-        "average": 4.729478
+        "count": 7834,
+        "average": 4.729385
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -966,8 +958,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/",
       "length": "PT54M",
       "ratings": {
-        "count": 260,
-        "average": 4.7384615
+        "count": 261,
+        "average": 4.739464
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1008,8 +1000,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
       "length": "PT55M",
       "ratings": {
-        "count": 296,
-        "average": 4.706081
+        "count": 298,
+        "average": 4.7080536
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1088,8 +1080,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
       "length": "PT54M",
       "ratings": {
-        "count": 2659,
-        "average": 4.634825
+        "count": 2660,
+        "average": 4.6349626
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1123,8 +1115,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "PT47M",
       "ratings": {
-        "count": 3643,
-        "average": 4.7644796
+        "count": 3644,
+        "average": 4.76427
       },
       "provider": {
         "name": "Microsoft Learn",

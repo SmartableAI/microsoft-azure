@@ -4,128 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-regression.md",
-      "title": "Predict numeric values with regression",
-      "excerpt": "Use machine learning regression models to predict numeric values. Build multiple variations of linear regression models to estimate things like internet traffic.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-regression/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-regression/",
-      "length": "56 mins",
-      "ratings": {
-        "count": 606,
-        "average": 4.6254125
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-regression-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Predict numeric values with regression",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer.md",
-      "title": "Create a classification model with Azure Machine Learning designer",
-      "excerpt": "Classification is a supervised machine learning technique used to predict categories or classes. Learn how to create classification models using Azure Machine Learning designer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-classification-model-azure-machine-learning-designer/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 187,
-        "average": 4.7967916
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analyze-images-computer-vision.md",
-      "title": "Analyze images with the Computer Vision service",
-      "excerpt": "The Computer Vision service enables software engineers to create intelligent solutions that extract information from images; a common task in many artificial intelligence (AI) scenarios.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-images-computer-vision/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 1327,
-        "average": 4.7234364
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-analyze-receipts-form-recognizer.md",
       "title": "Analyze receipts with the Form Recognizer service",
       "excerpt": "Processing invoices and receipts is a common task in many business scenarios. Increasingly, organizations are turning to artificial intelligence (AI) to automate data extraction from scanned receipts.",
@@ -199,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 3244,
-            "average": 4.7210236
+            "count": 3245,
+            "average": 4.7211094
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -255,6 +133,134 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-introduction-to-ai-technology-for-business-leaders.md",
+      "title": "Introduction to AI technology for business leaders",
+      "excerpt": "This learning path helps business leaders discover and describe the primary concepts of AI, and the transformational impact AI can have in their organization.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduction-to-ai-technology-for-business-leaders/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduction-to-ai-technology-for-business-leaders/",
+      "length": "PT1H31M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-ai-technology.md",
+          "title": "Introduction to AI technology",
+          "excerpt": "Learn the primary concepts and technologies of AI, and how Microsoft is turning the latest AI into tools, products, and services that organizations can leverage",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-ai-technology/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-ai-technology/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 1887,
+            "average": 4.6947536
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-ai-technology-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-microsoft-approach-to-ai.md",
+          "title": "Examine the Microsoft approach to artificial intelligence",
+          "excerpt": "Learn how Microsoft creates products, services, and solutions to help organizations leverage AI. Understand how these technologies relate to business problems.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microsoft-approach-to-ai/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-approach-to-ai/",
+          "length": "PT54M",
+          "ratings": {
+            "count": 981,
+            "average": 4.715596
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/microsoft-approach-to-ai-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-ai-technology-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service.md",
       "title": "Build a bot with QnA Maker and Azure Bot Service",
       "excerpt": "Learn how to create a bot that answers frequently asked questions.",
@@ -262,8 +268,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 3244,
-        "average": 4.7210236
+        "count": 3245,
+        "average": 4.7211094
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -305,8 +311,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 1022,
-        "average": 4.8091974
+        "count": 1023,
+        "average": 4.8093843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -339,6 +345,49 @@
         "Azure",
         "AI",
         "Developer Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-ai-technology.md",
+      "title": "Introduction to AI technology",
+      "excerpt": "Learn the primary concepts and technologies of AI, and how Microsoft is turning the latest AI into tools, products, and services that organizations can leverage",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-ai-technology/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-ai-technology/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 1887,
+        "average": 4.6947536
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-ai-technology-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     },
     {
@@ -392,8 +441,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
       "length": "PT18M",
       "ratings": {
-        "count": 569,
-        "average": 4.6959577
+        "count": 570,
+        "average": 4.6964912
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -435,8 +484,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2799,
-        "average": 4.7070384
+        "count": 2800,
+        "average": 4.707143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -478,8 +527,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 1089,
-        "average": 4.7465563
+        "count": 1090,
+        "average": 4.746789
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -521,8 +570,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
       "length": "PT29M",
       "ratings": {
-        "count": 896,
-        "average": 4.7890625
+        "count": 897,
+        "average": 4.7892976
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -760,8 +809,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
           "length": "PT27M",
           "ratings": {
-            "count": 578,
-            "average": 4.7093425
+            "count": 580,
+            "average": 4.710345
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -803,8 +852,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/synthesize-text-input-speech/",
           "length": "PT18M",
           "ratings": {
-            "count": 491,
-            "average": 4.663951
+            "count": 492,
+            "average": 4.664634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -846,8 +895,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
           "length": "PT18M",
           "ratings": {
-            "count": 569,
-            "average": 4.6959577
+            "count": 570,
+            "average": 4.6964912
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -908,8 +957,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 968,
-        "average": 4.798554
+        "count": 969,
+        "average": 4.798762
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -944,8 +993,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
       "length": "PT49M",
       "ratings": {
-        "count": 1146,
-        "average": 4.74171
+        "count": 1147,
+        "average": 4.7419353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1116,8 +1165,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
       "length": "PT24M",
       "ratings": {
-        "count": 953,
-        "average": 4.7565584
+        "count": 954,
+        "average": 4.753669
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1159,8 +1208,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 1001,
-        "average": 4.7412586
+        "count": 1002,
+        "average": 4.741517
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1290,8 +1339,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
       "length": "PT27M",
       "ratings": {
-        "count": 578,
-        "average": 4.7093425
+        "count": 580,
+        "average": 4.710345
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1333,8 +1382,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 773,
-        "average": 4.7425613
+        "count": 774,
+        "average": 4.742894
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1376,8 +1425,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-model-selection-with-azure-automl/",
       "length": "PT25M",
       "ratings": {
-        "count": 1299,
-        "average": 4.661278
+        "count": 1300,
+        "average": 4.6615386
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1419,8 +1468,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-bot-with-bot-framework-composer/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 58,
-        "average": 4.62069
+        "count": 59,
+        "average": 4.6271186
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1585,6 +1634,41 @@
         "Azure",
         "AI",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-foster-ai-culture-customer-service.md",
+      "title": "Discover how to foster an AI-ready culture in customer service",
+      "excerpt": "Learn the necessary cultural changes for enterprise customer service to make AI transformation successful, and how they fit into a holistic AI strategy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-customer-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-customer-service/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 580,
+        "average": 4.7724137
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

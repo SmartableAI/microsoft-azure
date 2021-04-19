@@ -4,44 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
-      "title": "Design a geographically distributed application",
-      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 818,
-        "average": 4.680929
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 56,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Web",
-        "Compute",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools.md",
       "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
       "excerpt": "Find out how to develop an Azure Function in Visual Studio with a test framework to create, deploy, and test this scalable and secure service.",
@@ -93,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
       "length": "PT56M",
       "ratings": {
-        "count": 2397,
-        "average": 4.458907
+        "count": 2398,
+        "average": 4.4591327
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -128,8 +90,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 12203,
-        "average": 4.7635827
+        "count": 12204,
+        "average": 4.7636023
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -163,8 +125,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 5286,
-        "average": 4.720772
+        "count": 5288,
+        "average": 4.7208776
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -285,8 +247,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-error-handling/",
       "length": "PT34M",
       "ratings": {
-        "count": 29,
-        "average": 4.965517
+        "count": 32,
+        "average": 4.9375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -392,6 +354,175 @@
         "Azure",
         "Management tools",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-azure-data-fundamentals-explore-modern-data-warehouse-analytics-in-azure.md",
+      "title": "Azure Data Fundamentals: Explore modern data warehouse analytics in Azure",
+      "excerpt": "Azure Data Fundamentals: Explore modern data warehouse analytics in Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-data-fundamentals-explore-modern-data-warehouse-analytics-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-data-fundamentals-explore-modern-data-warehouse-analytics-in-azure/",
+      "length": "PT1H58M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-examine-components-of-modern-data-warehouse.md",
+          "title": "Examine components of a modern data warehouse",
+          "excerpt": "Examine components of a modern data warehouse",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-examine-components-of-modern-data-warehouse/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 1601,
+            "average": 4.7701435
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/examine-components-of-modern-data-warehouse-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-explore-data-ingestion-azure.md",
+          "title": "Explore data ingestion in Azure",
+          "excerpt": "Explore data ingestion in Azure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-data-ingestion-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
+          "length": "PT23M",
+          "ratings": {
+            "count": 1183,
+            "average": 4.7658496
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-data-ingestion-azure-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-explore-data-storage-processing-azure.md",
+          "title": "Explore data storage and processing in Azure",
+          "excerpt": "Explore data storage and processing in Azure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-data-storage-processing-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 1249,
+            "average": 4.7101684
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 133,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-data-storage-processing-azure-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/examine-components-of-modern-data-warehouse-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     },
     {
@@ -660,8 +791,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
       "length": "PT28M",
       "ratings": {
-        "count": 1327,
-        "average": 4.7234364
+        "count": 1328,
+        "average": 4.7236447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -788,8 +919,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 8339,
-        "average": 4.7751527
+        "count": 8340,
+        "average": 4.77518
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -955,8 +1086,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "PT28M",
       "ratings": {
-        "count": 6301,
-        "average": 4.6989365
+        "count": 6305,
+        "average": 4.6991277
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1039,8 +1170,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 5121,
-        "average": 4.751611
+        "count": 5122,
+        "average": 4.7516594
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1125,8 +1256,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
       "length": "PT57M",
       "ratings": {
-        "count": 3275,
-        "average": 4.6198473
+        "count": 3277,
+        "average": 4.6200795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1159,8 +1290,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
       "length": "PT21M",
       "ratings": {
-        "count": 3120,
-        "average": 4.7798076
+        "count": 3124,
+        "average": 4.78009
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1202,8 +1333,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "PT51M",
       "ratings": {
-        "count": 6896,
-        "average": 4.710412
+        "count": 6898,
+        "average": 4.710496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1238,8 +1369,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/",
       "length": "PT42M",
       "ratings": {
-        "count": 2915,
-        "average": 4.653859
+        "count": 2916,
+        "average": 4.653978
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1354,8 +1485,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 8656,
-        "average": 4.6658964
+        "count": 8658,
+        "average": 4.665743
       },
       "provider": {
         "name": "Microsoft Learn",
