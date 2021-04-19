@@ -222,15 +222,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "AccuWeather Partners with Microsoft to Bring New Capabilities to Microsoft Azure Maps"
-    excerpt: "AccuWeather today announced the integration of its weather data on Microsoft Azure Maps, making it Azure Maps exclusive weather provider. The partnership signifies a recognition by Microsoft of AccuWeather's proven superiority in weather forecast accuracy to benefit its enterprise customers."
-    publishedDateTime: 2021-04-13T20:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/accuweather-partners-with-microsoft-to-bring-new-capabilities-to-microsoft-azure-maps-1030300269"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
   - title: "nDivision Launches Its Next Generation IT Operations Platform, Deployed in Kubernetes Containers in Microsoft Azure"
     excerpt: "DALLAS, TX /  / April 6, 2021 / nDivision Inc. (OTCQB:NDVN), a leader in providing cloud-based IT management services using proprietary intelligent automation to replace human labor, announced today the launch of its next generation IT Operations platform fully deployed in the Microsoft Azure Kubernetes Service."
     publishedDateTime: 2021-04-06T12:04:00Z
@@ -365,6 +356,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1458270/IFI_TECH_Logo.jpg?p=facebook"
         width: 2696
         height: 1414
+        isCached: true
+  - title: "AccuWeather Partners with Microsoft to Bring New Capabilities to Microsoft Azure Maps"
+    excerpt: "AccuWeather today announced the integration of its weather data on Microsoft Azure Maps, making it Azure Maps exclusive weather provider. The partnership signifies a recognition by Microsoft of AccuWeather’s proven superiority in weather forecast accuracy to benefit its enterprise customers."
+    publishedDateTime: 2021-04-13T18:42:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-earth-science-a34de8f8742023246f0f5536770b77b9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
     excerpt: "a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud. The select start-ups receive growth partnership and ecosystem support from Microsoft including access to ..."
