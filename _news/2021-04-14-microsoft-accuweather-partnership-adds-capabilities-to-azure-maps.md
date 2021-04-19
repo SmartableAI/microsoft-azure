@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-accuweathe
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
 type: article
 quality: 97
-heat: 297
+heat: 317
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/3565746760001/4e4fed21-7b18-4e51-b89a-24e833b3ab0f/main/1280x720/9m25s205ms/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Microsoft announces first Azure data center in Malaysia"
+    excerpt: "Microsoft has announced plans to establish its first data center region in Malaysia, with AWS and Google reportedly set to follow. The new facility will be in the Greater Kuala Lumpur area and says Petroliam Nasional Berhad (PETRONAS) and Celcom Axiata Berhad will be customers once it opens,"
+    publishedDateTime: 2021-04-19T13:48:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-first-azure-data-center-in-malaysia/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Malaysia_Skyscrapers_960x720.2e16d0ba.fill-1200x630.jpg"
+        width: 960
+        height: 504
         isCached: true
   - title: "Authentic Azure Solutions Architect Expert Microsoft AZ-300 Exam Dumps [2021]"
     excerpt: "Prepare your AZ-300 exam questions with Dumps2GO Microsoft AZ-300 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AZ-300 test because of your Azure Solutions Architect Expert AZ-300 certification exam fear?"

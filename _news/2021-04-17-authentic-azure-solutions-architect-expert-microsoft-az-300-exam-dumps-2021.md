@@ -98,6 +98,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft announces first Azure data center in Malaysia"
+    excerpt: "Microsoft has announced plans to establish its first data center region in Malaysia, with AWS and Google reportedly set to follow. The new facility will be in the Greater Kuala Lumpur area and says Petroliam Nasional Berhad (PETRONAS) and Celcom Axiata Berhad will be customers once it opens,"
+    publishedDateTime: 2021-04-19T13:48:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-first-azure-data-center-in-malaysia/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Malaysia_Skyscrapers_960x720.2e16d0ba.fill-1200x630.jpg"
+        width: 960
+        height: 504
+        isCached: true
   - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
     excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
     publishedDateTime: 2021-04-14T13:22:00Z

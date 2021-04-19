@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Microsoft returns to Java with Azure-focused OpenJDK release"
-excerpt: "It’s been a long time since Microsoft brewed its own Java. But now it’s back, with the Microsoft Build of OpenJDK, fit and finished for running in the Azure cloud."
-publishedDateTime: 2021-04-14T10:00:00Z
-originalUrl: "https://www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.html"
-webUrl: "https://www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.html"
-ampWebUrl: "https://www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.amp.html"
+title: "Microsoft announces first Azure data center in Malaysia"
+excerpt: "Microsoft has announced plans to establish its first data center region in Malaysia, with AWS and Google reportedly set to follow. The new facility will be in the Greater Kuala Lumpur area and says Petroliam Nasional Berhad (PETRONAS) and Celcom Axiata Berhad will be customers once it opens,"
+publishedDateTime: 2021-04-19T13:48:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-first-azure-data-center-in-malaysia/"
+webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-first-azure-data-center-in-malaysia/"
 type: article
-quality: 97
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.idgesg.net/images/article/2019/05/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.jpg"
-    width: 1200
-    height: 800
+  - url: "https://media.datacenterdynamics.com/media/images/Malaysia_Skyscrapers_960x720.2e16d0ba.fill-1200x630.jpg"
+    width: 960
+    height: 504
     isCached: true
 
 related:
@@ -43,6 +37,22 @@ related:
     quality: 97
     images:
       - url: "https://www.techrepublic.com/a/hub/i/r/2020/03/09/c5cac476-ba91-4ab0-aed3-82ab76b8911c/resize/1200x/3345cf54cecda1a5c3648de2557023da/istock-1130476096.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft returns to Java with Azure-focused OpenJDK release"
+    excerpt: "It’s been a long time since Microsoft brewed its own Java. But now it’s back, with the Microsoft Build of OpenJDK, fit and finished for running in the Azure cloud."
+    publishedDateTime: 2021-04-14T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.html"
+    ampWebUrl: "https://www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/05/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.jpg"
         width: 1200
         height: 800
         isCached: true
@@ -87,20 +97,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/3565746760001/4e4fed21-7b18-4e51-b89a-24e833b3ab0f/main/1280x720/9m25s205ms/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft announces first Azure data center in Malaysia"
-    excerpt: "Microsoft has announced plans to establish its first data center region in Malaysia, with AWS and Google reportedly set to follow. The new facility will be in the Greater Kuala Lumpur area and says Petroliam Nasional Berhad (PETRONAS) and Celcom Axiata Berhad will be customers once it opens,"
-    publishedDateTime: 2021-04-19T13:48:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-first-azure-data-center-in-malaysia/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Malaysia_Skyscrapers_960x720.2e16d0ba.fill-1200x630.jpg"
-        width: 960
-        height: 504
         isCached: true
   - title: "Authentic Azure Solutions Architect Expert Microsoft AZ-300 Exam Dumps [2021]"
     excerpt: "Prepare your AZ-300 exam questions with Dumps2GO Microsoft AZ-300 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AZ-300 test because of your Azure Solutions Architect Expert AZ-300 certification exam fear?"
@@ -182,6 +178,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "FNI5M961trHuL8Tixg6un5Cydi4Ek60QLNEQ4Evy3zC7sFYImoaMS3Gk/Lt7cDzr0xciErvYCYlbj0NKf5ekYWgn7yIk5uGmYA4k+5kss6Y6D6I7hOCJZTvVZJXh0wbyyvG/e8TAy7bbAUCSe30UtCnCLs/QHASf6YfWemiV0IRENyoF3Az9RaxeumBc71RXsWISk+LxbqU3fuJ0E2EWYlNZCZl7vqeqsQbiDak8rJ5qpIzC2sLC7lrbh+atIgeLI4iQSvCwUGFkq4uw3l1KEn69HOdsZFczAqSqbu6tmHOXdeC5jODUxKfZlbmNCfdJmwz7o9f/c0IPVRsWrXA90FJlY+ICpKFeSpxQ+lBg+Vs=;Ex/XrIVHpOqoQvYoDDyd9Q=="
+secured: "w9Oxc0OXh145StYVxBhh91WQUqhXy5I09d9wBBu3Iht5qBwrcModFwmsssx8aPpBFMeG5jU1GNk1HYYY7edr9w4SLw5HZnt/m80oUdMHtZ1PApvDSZWqwyqsEA7UAqfxgq3UpV/gf+gY8vl+0ecDkRDz5hIlgYA72xd9QAete/XNUnvraFV3x2jARlC1DVjeQalsSIIiXjBwbpODDH+QMw5wpz3j5XskSxvNM6EpgLJPBnAFBp4MKldXudALvVjlNtPAJ5Vd5ivMEDD+/XSwtqwj2XXRBNE5zcVRyhI7Q/ejvZ5ueylqBSVmO0HF0ZP4b28TaCTlAx7DUQM+worqskHTS5TlbSzRAr6Hkv+Tm9k=;2G/UiApHzvEZRfDmYJ+bkQ=="
 ---
 
