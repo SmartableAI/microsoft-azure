@@ -353,6 +353,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Varonis Announces Support for Microsoft Azure Government for DoD/IL5"
+    excerpt: "Varonis Systems, Inc. (Nasdaq: VRNS), a pioneer in data security and analytics, announces that the Varonis Data Security Platform supports Microsoft Azure Government for DoD/Impact Level 5 (IL5) and Microsoft 365 Government."
+    publishedDateTime: 2021-04-13T13:07:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-north-america-industrial-products-and-services-computer-and-data-security-2b3ff216843949fb8c67f3b5ed197126"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "IFI Techsolutions Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "IFI Techsolutions ( today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure"
     publishedDateTime: 2021-04-08T04:30:00Z

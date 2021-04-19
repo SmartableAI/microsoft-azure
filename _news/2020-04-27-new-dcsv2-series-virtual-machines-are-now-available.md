@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Virtual Machines DCsv2-series now available in public preview in Azure Government"
+    excerpt: "Azure Government customers can build secure, enclave-based applications to protect code and data while it’s in use, in a dedicated cloud that meets stringent government security and compliance requirements. "
+    publishedDateTime: 2021-04-19T19:46:47Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/confidential-computing-in-azure-government/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
   - title: "Azure Virtual Machines DCsv2-series is now available in West Europe"
     excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, UK South, and West Europe."
     publishedDateTime: 2020-06-22T16:00:41Z
