@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-accuweathe
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
 type: article
 quality: 97
-heat: 277
+heat: 297
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
     excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-301 specialists. As a result of this, IT certifications, for example AZ-301 Microsoft Azure Architect Design exam,"
     publishedDateTime: 2021-04-15T18:39:00Z
     webUrl: "https://www.madinamerica.com/author/new-az-301-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 33
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
+  - title: "Latest AZ-500 Dumps - Microsoft Azure Security Engineer Associate Real Exam Questions And Accurate Answers [2021]"
+    excerpt: "Pass you Microsoft AZ-500 exam in just one go with DumpsArchive AZ-500 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
+    publishedDateTime: 2021-04-18T23:52:00Z
+    webUrl: "https://www.madinamerica.com/author/try-az-500-dumps/"
     type: article
     provider:
       name: Mad in America

@@ -140,6 +140,20 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Latest AZ-500 Dumps - Microsoft Azure Security Engineer Associate Real Exam Questions And Accurate Answers [2021]"
+    excerpt: "Pass you Microsoft AZ-500 exam in just one go with DumpsArchive AZ-500 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
+    publishedDateTime: 2021-04-18T23:52:00Z
+    webUrl: "https://www.madinamerica.com/author/try-az-500-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 33
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
   - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
     excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
     publishedDateTime: 2021-04-14T17:20:00Z

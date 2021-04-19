@@ -1,32 +1,27 @@
 ---
 category: news
-title: "Microsoft returns to Java with Azure-focused OpenJDK release"
-excerpt: "It’s been a long time since Microsoft brewed its own Java. But now it’s back, with the Microsoft Build of OpenJDK, fit and finished for running in the Azure cloud."
-publishedDateTime: 2021-04-14T10:00:00Z
-originalUrl: "https://www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.html"
-webUrl: "https://www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.html"
-ampWebUrl: "https://www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.amp.html"
+title: "Latest AZ-500 Dumps - Microsoft Azure Security Engineer Associate Real Exam Questions And Accurate Answers [2021]"
+excerpt: "Pass you Microsoft AZ-500 exam in just one go with DumpsArchive AZ-500 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
+publishedDateTime: 2021-04-18T23:52:00Z
+originalUrl: "https://www.madinamerica.com/author/try-az-500-dumps/"
+webUrl: "https://www.madinamerica.com/author/try-az-500-dumps/"
 type: article
-quality: 97
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mad in America
+  domain: madinamerica.com
 
 topics:
   - Azure
+  - Security
 
 images:
-  - url: "https://images.idgesg.net/images/article/2019/05/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.jpg"
-    width: 1200
-    height: 800
+  - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+    width: 300
+    height: 285
     isCached: true
 
 related:
@@ -43,6 +38,22 @@ related:
     quality: 97
     images:
       - url: "https://www.techrepublic.com/a/hub/i/r/2020/03/09/c5cac476-ba91-4ab0-aed3-82ab76b8911c/resize/1200x/3345cf54cecda1a5c3648de2557023da/istock-1130476096.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft returns to Java with Azure-focused OpenJDK release"
+    excerpt: "It’s been a long time since Microsoft brewed its own Java. But now it’s back, with the Microsoft Build of OpenJDK, fit and finished for running in the Azure cloud."
+    publishedDateTime: 2021-04-14T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.html"
+    ampWebUrl: "https://www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/05/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.jpg"
         width: 1200
         height: 800
         isCached: true
@@ -130,20 +141,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Latest AZ-500 Dumps - Microsoft Azure Security Engineer Associate Real Exam Questions And Accurate Answers [2021]"
-    excerpt: "Pass you Microsoft AZ-500 exam in just one go with DumpsArchive AZ-500 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
-    publishedDateTime: 2021-04-18T23:52:00Z
-    webUrl: "https://www.madinamerica.com/author/try-az-500-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 33
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
   - title: "DP-200 Dumps PDF (2021) 100% Accurate Microsoft Azure Data Engineer Associate Exam Questions"
     excerpt: "Pass you Microsoft DP-200 exam in just one go with DumpsArchive DP-200 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
     publishedDateTime: 2021-04-18T08:19:00Z
@@ -168,6 +165,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "FNI5M961trHuL8Tixg6un5Cydi4Ek60QLNEQ4Evy3zC7sFYImoaMS3Gk/Lt7cDzr0xciErvYCYlbj0NKf5ekYWgn7yIk5uGmYA4k+5kss6Y6D6I7hOCJZTvVZJXh0wbyyvG/e8TAy7bbAUCSe30UtCnCLs/QHASf6YfWemiV0IRENyoF3Az9RaxeumBc71RXsWISk+LxbqU3fuJ0E2EWYlNZCZl7vqeqsQbiDak8rJ5qpIzC2sLC7lrbh+atIgeLI4iQSvCwUGFkq4uw3l1KEn69HOdsZFczAqSqbu6tmHOXdeC5jODUxKfZlbmNCfdJmwz7o9f/c0IPVRsWrXA90FJlY+ICpKFeSpxQ+lBg+Vs=;Ex/XrIVHpOqoQvYoDDyd9Q=="
+secured: "36UI5IvGqSBXZqVNVm8QKwmZEmDShGu2InTvtmYSyBu9hNAGRL1wPWg3An7jbC5mEF44nKjHb1Nu7DSY7W9zAE23rLfSF8EtLDpBEO/S2n2HKx09rIAReeBeyiE1UNLhvbUXnB1hWr0VRtYM489aOo7R7ASveV0GVWPjTpTSnKBmOT1UTZ5TumSPc085f4F7bVaIkWatsI7XU/xoy4mACTKCOOyrJIKH2if5Pvr12+K2Fh7G2dxy+0O/svB319QJ8XYswKBpfnbEI6FuCbxzQcOrmaJ7NB2/rGbTFEycU8A8LMXHo8EeSSJShXKCvgPXNmlWj/UfRLKrdL/ngfMNHJqPxtg0FjlbrtTuIlLUkf0=;2uomBGUnu7evGRGTe/C9Og=="
 ---
 
