@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 129
-heat: 2429
+heat: 2449
 published: true
 
 provider:
@@ -1265,6 +1265,20 @@ related:
       - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_Decmaker.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "Microsoft's ID@Azure pitches cloud services to indies"
+    excerpt: "Program offers free access to dev tools and case studies to use Microsoft's cloud tech on all platforms and engines"
+    publishedDateTime: 2021-04-20T17:54:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2021-04-20-microsofts-id-azure-pitches-cloud-services-to-indies"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 37
+    images:
+      - url: "https://images.eurogamer.net/2021/articles/2021-04-20-18-46/msazure.jpg"
+        width: 564
+        height: 294
         isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."

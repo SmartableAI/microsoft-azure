@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
-excerpt: "a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud. The select start-ups receive growth partnership and ecosystem support from Microsoft including access to ..."
-publishedDateTime: 2021-04-13T13:06:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210413005522/en/Alkira-Teams-Up-with-Microsoft-to-Transform-the-Cloud-Networking-Journey-to-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210413005522/en/Alkira-Teams-Up-with-Microsoft-to-Transform-the-Cloud-Networking-Journey-to-Azure"
+excerpt: "Network Cloud pioneer Alkira® today announced a close collaboration with the Microsoft for Startups program, a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud."
+publishedDateTime: 2021-04-13T13:07:00Z
+originalUrl: "https://www.northwestgeorgianews.com/associated_press/business/alkira-teams-up-with-microsoft-to-transform-the-cloud-networking-journey-to-azure/article_50350584-f738-5435-8bf7-131441d9018a.html"
+webUrl: "https://www.northwestgeorgianews.com/associated_press/business/alkira-teams-up-with-microsoft-to-transform-the-cloud-networking-journey-to-azure/article_50350584-f738-5435-8bf7-131441d9018a.html"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Rome News-Tribune
+  domain: northwestgeorgianews.com
 
 topics:
   - Azure
   - Networking
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/8/c2/8c28df12-cc0b-5da0-87e8-390f42d56494/607599a3d756d.image.jpg?resize=997%2C630"
+    width: 997
+    height: 630
+    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -491,6 +497,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "Aabe4+ldPUb4TogQrSKObAMVMugIy7nVRrFSpLN2B0P5aMlbSyOXepHtcfUj6AVHFClce2mFFnj60vEnqw+9NX4PT8TfJGl2RpZVLgvr22C0xmSW2jyXIsFWFGtfW/X4Zldy0EHVAFfoIlkK7BMIeg/HHz7rky2wNVjOLXKX7poYmraoAK+K35GRVvMio4wD3gU9FhjVOC7RC2z76pU/S4iUfX083ckFesRkzz/71mBN4FxvDZ5LCWie7ajsOpq1ZJi98BpepcqAkF09Y130stvJGtkEgZYiyLRP/ohtpvsITw9G0THPOszz0EwPrQF+MX+xtRq+Xqk7Eg1FIbXsr3R8fC5fFiQpR9ansGR/s4rbv/WMPnSl3o0efy7kXhLUGjcCSS2gGCfOd1aaR4sIz1O69EpDHRj9OI+7Uq3c7H2339s8oLVYUBn3ZAeYBgkC1y7cwFpPhRXOM9IJ8/cdAmXxmJklZUWghGNWEOw5Ziurx3kHCvyodAKeYz3RqPTzWUHWTNECc1TrEyvAbDLe1A==;spbTylVG5/5vBXVKvmz6Cw=="
+secured: "wnKkH5D3G+SzqFIu5Tnp4owaogzhYtJley9w8CK2prAVM0l7TzlKnZFXkdHz3YgIZpVZBNu+IXeiwn7IC+nX0ZvYd0Hn11RXvvQLufc4mmMTZJKUxvS7LSvjR64SVwm2/KY4rRYifxVUnC7qUh+aT/panPVX3ACnenFM9+0eOeJ2a0Vz9muWUKQwBIOTiGDlKxqRVozxJowMBXi4TRHmNBqyz5Bfh+ktcx3xCZsLi8tZAj6OkeZZNhKAqSbARRzM4RDtIvil7+OtGpMoE+9UwsqggAeq0UNkHUzZrLsUYjLLfu43s35GNV8uo8qP6JuTGbBTSlBYB4a5UU50QGqE2V8tt91r3gAiViVRG3iZsv0=;JoODlFo7XWLbunTcfIMOqQ=="
 ---
 

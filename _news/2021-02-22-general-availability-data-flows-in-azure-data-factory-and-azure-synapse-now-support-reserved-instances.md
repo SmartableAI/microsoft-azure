@@ -217,6 +217,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "General availability: Application Gateway URL Rewrite"
+    excerpt: "Application Gateway now supports hosting friendly URLs and routing based on query string values."
+    publishedDateTime: 2021-04-20T16:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-gateway-url-rewrite/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "General availability: Azure Availability Zones in more regions"
     excerpt: "Azure Availability Zones are now generally available in Australia East and Canada Central."
     publishedDateTime: 2020-09-30T16:01:12Z

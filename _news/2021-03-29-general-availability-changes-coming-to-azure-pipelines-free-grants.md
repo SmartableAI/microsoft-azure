@@ -208,6 +208,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "General availability: Application Gateway URL Rewrite"
+    excerpt: "Application Gateway now supports hosting friendly URLs and routing based on query string values."
+    publishedDateTime: 2021-04-20T16:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-gateway-url-rewrite/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "General availability: Data flows in Azure Data Factory and Azure Synapse now support Reserved Instances"
     excerpt: "Azure Data Factory (ADF) and Azure Synapse Analytics (Synapse) now offer discounted pricing on data flows based on 1-year and 3-year reservations."
     publishedDateTime: 2021-02-22T16:50:34Z

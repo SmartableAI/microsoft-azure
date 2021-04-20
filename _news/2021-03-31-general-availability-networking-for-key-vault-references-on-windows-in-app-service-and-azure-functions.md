@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 779
+heat: 799
 published: true
 
 provider:
@@ -206,6 +206,15 @@ related:
     excerpt: "You can now enable host-based encryption in AKS"
     publishedDateTime: 2021-04-14T16:00:26Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-encryption-at-host-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "General availability: Application Gateway URL Rewrite"
+    excerpt: "Application Gateway now supports hosting friendly URLs and routing based on query string values."
+    publishedDateTime: 2021-04-20T16:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-gateway-url-rewrite/"
     type: article
     provider:
       name: Microsoft

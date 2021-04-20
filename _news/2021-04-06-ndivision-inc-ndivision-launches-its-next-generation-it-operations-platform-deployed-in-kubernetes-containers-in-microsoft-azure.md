@@ -229,6 +229,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
+    excerpt: "Network Cloud pioneer Alkira® today announced a close collaboration with the Microsoft for Startups program, a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud."
+    publishedDateTime: 2021-04-13T13:07:00Z
+    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/alkira-teams-up-with-microsoft-to-transform-the-cloud-networking-journey-to-azure/article_50350584-f738-5435-8bf7-131441d9018a.html"
+    type: article
+    provider:
+      name: Rome News-Tribune
+      domain: northwestgeorgianews.com
+    quality: 49
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/8/c2/8c28df12-cc0b-5da0-87e8-390f42d56494/607599a3d756d.image.jpg?resize=997%2C630"
+        width: 997
+        height: 630
+        isCached: true
   - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
     excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
     publishedDateTime: 2021-04-01T22:08:00Z
@@ -408,15 +422,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
-    excerpt: "a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud. The select start-ups receive growth partnership and ecosystem support from Microsoft including access to ..."
-    publishedDateTime: 2021-04-13T13:06:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210413005522/en/Alkira-Teams-Up-with-Microsoft-to-Transform-the-Cloud-Networking-Journey-to-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 29
   - title: "Informatica Announces New Cloud Data Integration Free Service for Customers to Accelerate Cloud Modernization on Microsoft Azure"
     excerpt: "In light of this rapid acceleration to the cloud, Informatica is announcing in collaboration with Microsoft a new Informatica Cloud Data Integration Free Service to help customers get started quickly and easily with IDMC on Azure. To lower the barrier and ..."
     publishedDateTime: 2021-04-13T15:39:00Z

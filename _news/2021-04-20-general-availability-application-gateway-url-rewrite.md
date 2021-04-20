@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: New Simplified NSX networking experience for Azure VMware Solution"
-excerpt: "Azure VMware Solution helps simplify migration to the cloud by running VMware environments natively on Azure. With the new simplified NSX networking experience, it is now easier for VMware administrators to execute networking operations for Azure VMware Solution from the Azure portal. "
-publishedDateTime: 2021-03-04T20:09:25Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-new-simplified-nsx-networking-experience-for-azure-vmware-solution/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-new-simplified-nsx-networking-experience-for-azure-vmware-solution/"
+title: "General availability: Application Gateway URL Rewrite"
+excerpt: "Application Gateway now supports hosting friendly URLs and routing based on query string values."
+publishedDateTime: 2021-04-20T16:00:26Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-gateway-url-rewrite/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-gateway-url-rewrite/"
 type: article
-quality: 75
+quality: 69
 heat: -1
 published: false
 
@@ -163,6 +163,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
+  - title: "General availability: New Simplified NSX networking experience for Azure VMware Solution"
+    excerpt: "Azure VMware Solution helps simplify migration to the cloud by running VMware environments natively on Azure. With the new simplified NSX networking experience, it is now easier for VMware administrators to execute networking operations for Azure VMware Solution from the Azure portal. "
+    publishedDateTime: 2021-03-04T20:09:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-new-simplified-nsx-networking-experience-for-azure-vmware-solution/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
   - title: "General availability: New Azure Policy built-in definitions for data encryption in Azure Monitor"
     excerpt: "With Azure Monitor built-in policy definitions for data encryption, you can enforce organizational standards and assess compliance of data encryption settings in your environment."
     publishedDateTime: 2021-04-14T16:02:04Z
@@ -203,15 +212,6 @@ related:
     excerpt: "You can now enable host-based encryption in AKS"
     publishedDateTime: 2021-04-14T16:00:26Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-encryption-at-host-support-in-aks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-  - title: "General availability: Application Gateway URL Rewrite"
-    excerpt: "Application Gateway now supports hosting friendly URLs and routing based on query string values."
-    publishedDateTime: 2021-04-20T16:00:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-gateway-url-rewrite/"
     type: article
     provider:
       name: Microsoft
@@ -335,6 +335,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "yesVVcoaa1JPxijC80piO9tamTLb6z/QnQcNASbIgLe6nbEDqwr1oaYLnK96vSF5Hv+OeMX9p/AeZsTmgeBVzfm1d/bp9ICUqDLNnLlXuRW3wAdigh//jiJKexnw0XL9iam4Y4ZOFeobrzzMpVDonudRBv+aUb71QmoG6+HJcBQJD+4G/zxL9l/Cj2+3UwqDqs0/W3u0/WL87ZmrQB8FxJsxbrN3qm8q2Qz4Q83j2inzO5SESJm6a67AXbMIbEDUwH/S31Vm2/Nl2Gv5h5PgNRE+6KFAhUM3Ws5Y/UyjtdDx9g9qNA79z8ZWchEE2v0Kz7gYj3rbFcTFgBb9iszXOYlpRkGznDwnxX4COu+TWeU=;ooZ7q7SY0rdmOTnT5p9axA=="
+secured: "yJ7WbOjS/NhuYrZmZn2KMh7lqX8VAchRQ6q1twxS6TvxoeuzMSWkXPYNtQVNoDfdpn2cIE7rluYbf5p2MGq8A7Eo3QFfMAy+0rv6Cz/gQaBCtiFOUG8wWvfsMwxY4smQlhOgqNwN0zhPai56lyWA2+pfaF+EYfjhNc7sku4IHK1rJeeXBelNlmSr09e2Cj+c9Spm0hW9bNdL2IZWFyCDii7fM4WjzfpTl/WrsvyCa9q23wYBWnNUhyMssezoYy6L6we1sSij5VfSIzk0oNcW/2PuhPmJtWkAFSaV6MfkvA6p4wxc+hWSPjfurkcU0K0cWOs6wqZkk/pf1zQolL41m1v9RPYAPs60a9uxpX8J9+Y=;7JORdJwK/RZyOMpvCNCutw=="
 ---
 

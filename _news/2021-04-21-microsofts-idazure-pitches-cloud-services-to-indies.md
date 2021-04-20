@@ -1,21 +1,27 @@
 ---
 category: news
-title: "A Cloud Guru Expands Hands-On Learning; Launches Microsoft Azure AD Labs"
-excerpt: "A Cloud Guru (ACG), the leader in modern tech skills development, today announced the introduction of exclusive, hands-on labs for Microsoft Azure AD, a growing identity and access management (IAM) service."
-publishedDateTime: 2021-03-02T05:36:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-cloud-computing-adde0cdfc9b8ded3a57ed797c5c170e8"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-cloud-computing-adde0cdfc9b8ded3a57ed797c5c170e8"
+title: "Microsoft's ID@Azure pitches cloud services to indies"
+excerpt: "Program offers free access to dev tools and case studies to use Microsoft's cloud tech on all platforms and engines"
+publishedDateTime: 2021-04-20T17:54:00Z
+originalUrl: "https://www.gamesindustry.biz/articles/2021-04-20-microsofts-id-azure-pitches-cloud-services-to-indies"
+webUrl: "https://www.gamesindustry.biz/articles/2021-04-20-microsofts-id-azure-pitches-cloud-services-to-indies"
 type: article
-quality: 16
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Games Industry
+  domain: gamesindustry.biz
 
 topics:
   - Azure
+
+images:
+  - url: "https://images.eurogamer.net/2021/articles/2021-04-20-18-46/msazure.jpg"
+    width: 564
+    height: 294
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -1269,20 +1275,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft's ID@Azure pitches cloud services to indies"
-    excerpt: "Program offers free access to dev tools and case studies to use Microsoft's cloud tech on all platforms and engines"
-    publishedDateTime: 2021-04-20T17:54:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/2021-04-20-microsofts-id-azure-pitches-cloud-services-to-indies"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 37
-    images:
-      - url: "https://images.eurogamer.net/2021/articles/2021-04-20-18-46/msazure.jpg"
-        width: 564
-        height: 294
-        isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
     publishedDateTime: 2020-05-27T20:23:00Z
@@ -1565,6 +1557,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
+  - title: "A Cloud Guru Expands Hands-On Learning; Launches Microsoft Azure AD Labs"
+    excerpt: "A Cloud Guru (ACG), the leader in modern tech skills development, today announced the introduction of exclusive, hands-on labs for Microsoft Azure AD, a growing identity and access management (IAM) service."
+    publishedDateTime: 2021-03-02T05:36:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-cloud-computing-adde0cdfc9b8ded3a57ed797c5c170e8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
   - title: "Microsoft Cloud Revenue Hit $59.5 Billion In 2020, Higher Than Amazon And Google Combined"
     excerpt: "According to the research data analyzed and published by Comprar Acciones, Microsoft was the top cloud vendor in 2020. Its revenue for the year t"
     publishedDateTime: 2021-02-23T09:20:00Z
@@ -1609,6 +1610,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "/ZHYLdj6we74EqoWWZVNc3M7qIsZJr0RQwY6yE0qlegZ8utqFdPLD2reFCdGBAYaaEnjr/X/WAszHzlIko/b922OsLoAvTRaU2Kom6I37V+yFtBbJLrJEh9eyrLHdhUHay/a1X9+IxSaBwaXosAp0xrbTUhXv1hNjnj47ooPMYfN2Q3vzBhpX6/Iw0CKPXH+nvh7hwuuIKkSILPebcQy/8Y1A5MLYuNFTQuM6AqYNwsHBWFZ7Obv2NcRDwKyXK4Mr9i1onITmfDuJx5fK4cRICTwiEXEkpS0D2pqnUF2ZPBpZPNtNzUj9j0YRt4SOfD06poilr/fchd9DntaNVVkq7lJSoBVQqgdALoax1y9VBA=;RRwxQ+2Ubt4u3bMu+DHErw=="
+secured: "mb0poYUGIJilr0/Ju5wpLTewCqZnqMgFodLYQjSbSD9lhKCBHwhYO0I53su4ut4fyDs74Ds+asegs9+moDtrnVMLiiaR+8WtdxDzYy1BXjbYzFGxE0K01syk/x32PJmxV3MHp7DzcevhEmPIvQDKr5NwT7pluvcFNGhCZJY1xyo2Z4zuqNFw/NMhJcE+MT5ajQiAxgyTB0cahsQNhqaJ6WHog9JH4DL8Dw00KpNx42AK4R6vY343QCDMgC0V+Fvq6Al8pLB8hoNG4uGDCkfGSchswlTRcomk2yC7DiPzTvSnUBA48f7RqqvpCNYf0g++UeJb/ygIRRcZT3avJimul+HOunKXB9u3HUWYdgGBGHc=;aBfpLStvKmeD9G0kMLfWPA=="
 ---
 

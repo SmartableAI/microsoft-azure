@@ -1275,6 +1275,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft's ID@Azure pitches cloud services to indies"
+    excerpt: "Program offers free access to dev tools and case studies to use Microsoft's cloud tech on all platforms and engines"
+    publishedDateTime: 2021-04-20T17:54:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2021-04-20-microsofts-id-azure-pitches-cloud-services-to-indies"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 37
+    images:
+      - url: "https://images.eurogamer.net/2021/articles/2021-04-20-18-46/msazure.jpg"
+        width: 564
+        height: 294
+        isCached: true
   - title: "IOTech Edge XRT: A time-critical edge platform for Microsoft Azure Sphere"
     excerpt: "IOTech announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere."
     publishedDateTime: 2021-03-05T01:33:00Z
