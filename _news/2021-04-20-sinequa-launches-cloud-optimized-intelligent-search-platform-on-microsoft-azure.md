@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Actual Microsoft AZ-600 Exam Dumps (2021) Azure Stack Hub Operator Associate Questions"
-excerpt: "The ultimate gateway to pass the Microsoft AZ-600 exam with ITExamQuestions AZ-600 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-600 Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta) Exam?"
-publishedDateTime: 2021-04-16T22:11:00Z
-originalUrl: "https://www.madinamerica.com/author/download-real-az-600-exam-dumps/"
-webUrl: "https://www.madinamerica.com/author/download-real-az-600-exam-dumps/"
+title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
+publishedDateTime: 2021-04-20T12:57:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
+webUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
 type: article
-quality: 29
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Mad in America
-  domain: madinamerica.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-    width: 300
-    height: 285
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -61,19 +61,19 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
-    publishedDateTime: 2021-04-20T12:57:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
+  - title: "Actual Microsoft AZ-600 Exam Dumps (2021) Azure Stack Hub Operator Associate Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft AZ-600 exam with ITExamQuestions AZ-600 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-600 Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta) Exam?"
+    publishedDateTime: 2021-04-16T22:11:00Z
+    webUrl: "https://www.madinamerica.com/author/download-real-az-600-exam-dumps/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 29
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
         isCached: true
   - title: "Download AZ-120 Exam Dumps [2021] Microsoft Azure For SAP Workloads Specialty Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-120 exam with ITExamQuestions AZ-120 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-120 Planning and Administering Microsoft Azure for SAP Workloads exam?"
@@ -104,6 +104,6 @@ related:
         height: 285
         isCached: true
 
-secured: "eMcPtyocpRVVpv8L1PKvYEf9vTgTE4K6IaNqz1kbqTHgG+WKqyv74q4Yng3r3AFw2KYkaBwRJHwImAOUG+ibU+F4CPtvLhifbTHrDec6wP0tPkzGwfMnPGbH94MuUchTC1l6VFp5hSn1dTs4uBkiOuiCF53jriIUEch/jQNI+fuXZsJlntqEXGjHuC+Kqvskzh95h+gSXRexf9grc5evriisulYMV4RXcgVETU34rVsZ9k2EOWYpclr95T5KSdH85zcdUrDdt6/LXzAEN5wqU1d9dtRXmRrVwfkucYuTO8i/+hzd58emgE0SBabjmptnuUMGZbSYVIDs3ueaZE/fYQV27Cp1TWjXmkta8PxEm+j2EJY9vkbXfoIq1uSDoJ+aMbLMxod9pzUBKwhgGxbzW25ZB+eQec/r1IDtDC+ErSaq1H11w3paejXEIEl5dVIf6U4jQxhO/cEEl20TMFtTt3A5tIRgE+DeUKQMakEb+yx4s+WgIX3GQ0YsvJCB6AddLjqx5xjAmhnDX8r8k3eotw==;HR19GoQkCtDp/GdyjPE8NQ=="
+secured: "wAtfFdnwjXc5WlWkuV1w2pFHJqoXrjJEsNwhhtkZOOSk7yAedTO055IkIMBO4lklWEL+AOjMmwydCoAdM8vEgZej0LgTO3ihE0dHMTIIErLUuAyd87NfpwuDX9kckOdmnBiC5PhrAqfWefCeaik0OJOS6ucAOO3EapuLdu190bL8u7I/JnQLpqFPWjXx4x2kfeTQuiK7qEjS4k0VMKE61GPR43theYR3ILE7PQtT57hfPRbBn4a1RCpu/dVpHEPlfpSqYVTO0mTbAOL70j2lTNH74khkCNWaujSQPC3jDSTEWy47FNh1kOxX+UNkUl7VwsqpXgbI4Hjf/xLYIDDQxhe3DMfUNn6423LMsahJNeM=;quACa9Bjd147jEGLRnp88Q=="
 ---
 

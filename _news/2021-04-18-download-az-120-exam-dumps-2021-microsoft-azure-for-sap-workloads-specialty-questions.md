@@ -24,34 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Official Microsoft AI-900 Exam Dumps (2021) Azure AI Fundamentals Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft AI-900 exam with ITExamQuestions AI-900 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-900 Microsoft Azure AI Fundamentals Exam?"
-    publishedDateTime: 2021-04-18T19:04:00Z
-    webUrl: "https://www.madinamerica.com/author/download-real-ai-900-exam-dumps/"
+  - title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
+    excerpt: "Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure Active Directory (Azure AD), enabling IT teams using Azure AD for identity management to rapidly integrate new applications into the Azure AD environment without sacrificing security."
+    publishedDateTime: 2021-04-20T13:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-ef7afbbddc5d712071466b9a0909da92"
     type: article
     provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 52
+      name: Associated Press
+      domain: apnews.com
+    quality: 67
     images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Latest AZ-220 PDF and dumps Download Azure IoT Developer Specialty Questions and Answers (2021)"
-    excerpt: "Pass you Microsoft AZ-220 exam in just one go with DumpsArchive AZ-220 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
-    publishedDateTime: 2021-04-17T13:07:00Z
-    webUrl: "https://www.madinamerica.com/author/new-az-220-dumps/"
+  - title: "Microsoft announces plans to establish first datacenter region in Malaysia "
+    excerpt: "The new datacenter region is part of the “Bersama Malaysia” initiative to support inclusive economic growth in Malaysia."
+    publishedDateTime: 2021-04-16T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-announces-plans-to-establish-first-datacenter-region-in-malaysia/"
     type: article
     provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 42
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
+      name: Microsoft
+      domain: microsoft.com
+    quality: 50
   - title: "Download Microsoft AZ-303 Exam Dumps (2021) Azure Solutions Architect Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-303 exam with ITExamQuestions AZ-303 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-303 Microsoft Azure Architect Technologies Exam?"
     publishedDateTime: 2021-04-20T04:15:00Z
@@ -66,15 +61,29 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "AZ-204 Dumps (2021) Prepare Your Exam with Real Azure Developer Associate Exam Questions"
-    excerpt: "Pass you Microsoft AZ-204 exam in just one go with DumpsArchive AZ-204 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
-    publishedDateTime: 2021-04-19T06:55:00Z
-    webUrl: "https://www.madinamerica.com/author/new-az-204-dumps/"
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
+    publishedDateTime: 2021-04-20T12:57:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Actual Microsoft AZ-600 Exam Dumps (2021) Azure Stack Hub Operator Associate Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft AZ-600 exam with ITExamQuestions AZ-600 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-600 Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta) Exam?"
+    publishedDateTime: 2021-04-16T22:11:00Z
+    webUrl: "https://www.madinamerica.com/author/download-real-az-600-exam-dumps/"
     type: article
     provider:
       name: Mad in America
       domain: madinamerica.com
-    quality: 28
+    quality: 29
     images:
       - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
         width: 300

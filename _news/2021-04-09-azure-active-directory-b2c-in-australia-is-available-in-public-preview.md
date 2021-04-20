@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-active-directory-b
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-active-directory-b2c-in-australia-is-available-in-public-preview-2/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

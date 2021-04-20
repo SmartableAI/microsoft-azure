@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Telos’ Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
-excerpt: "Telos® Corporation (NASDAQ: TLS), a leading provider of cyber, cloud and enterprise security solutions for the world’s most security-conscious organizations, today announced its Xacta® solution will be available to support all Microsoft Azure U."
-publishedDateTime: 2021-04-13T11:57:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-industrial-products-and-services-government-and-politics-aerospace-and-defense-industry-c373ed46c8a641626015525493e0bf43"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-industrial-products-and-services-government-and-politics-aerospace-and-defense-industry-c373ed46c8a641626015525493e0bf43"
+title: "Telos' Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
+excerpt: "ASHBURN, Va., April 13, 2021 (GLOBE NEWSWIRE) -- Telos (R) Corporation (NASDAQ: TLS), a leading provider of cyber, cloud and enterprise security solutions for the world's most security-conscious organizations,"
+publishedDateTime: 2021-04-13T11:55:00Z
+originalUrl: "https://www.marketwatch.com/press-release/telos-xacta-expands-availability-to-microsoft-azure-across-all-us-government-cloud-instances-2021-04-13"
+webUrl: "https://www.marketwatch.com/press-release/telos-xacta-expands-availability-to-microsoft-azure-across-all-us-government-cloud-instances-2021-04-13"
 type: article
-quality: 25
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -491,6 +495,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "Sm1FuNMl+Qsg6pQq+z5zRiirG7TKEPsJkMoVbV85JUPnSa8EOBpFNjMX2COI/6DbvmVX316xBODTm6BOM3Vr793CisNFT+OQtSG4S2eLnhf/7uCBUpP83OA58NdMCGOSuyFGPoN60oTCkkQGFJJq+LqlFcfMUkDDkM2qTEhC0V7Nk/qmKU9sbG+8dMI2vVKPqI8AdEqDzGhUjhrmWGpI82WYck719OdKRF8S0K8fifqI6qv5JU5BVo1ViiytCGzIQTVJJG9Vlp8PAuz9J1/Vxf92ucuMimhNY+e3S775dg3uUYtRtka9cqyoLrWrnZxdNaHESbAnRsnasV+xpeKoDfbzhXOrWNe4+tQly3Gh5qQ=;BOblb6oEqzr+Uy2gLbGxkw=="
+secured: "AYDBdOV5LaJezqawjFly+eJGNHiYQH7XgWsziEaTdHMVZzR95p2+i1HxJJeI18w+1NFt9XelFD+BikZsjTKR71zWKz51a94MRkO23r94e0OeeSVVGeQwTJD4QW4KDGIABdFcxRdSB5ucwHXKTDSzYTdQQcOxmJ1NNQRFBL/rGoVslBOpFB4DX64+Q77yvOjJvJdLgUkDaW9/DL0U+KFlRgC9ghnaSlMvWuGXevqRT9ljIrbVf/N/A32czOug7qEPM/uqkOvwfkFXgSElnHRZp4zErzl7a+H/Y7D1nPVQ3U3+KBW4lGOfyN18JpkEnVbl4zs/Jg/bbUzd06em8KPmPkGa4VjiKuBF4w8YPEMhkcg=;kcdW6YOnjfz3PKoGqBGJig=="
 ---
 
