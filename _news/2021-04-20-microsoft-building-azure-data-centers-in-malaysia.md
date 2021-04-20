@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
-excerpt: "“As an eligible application, if you purchase beqom directly through the Azure Marketplace, Microsoft will contribute 100% of qualifying offer purchases towards your organization’s Azure ..."
-publishedDateTime: 2021-04-14T14:16:00Z
-originalUrl: "https://www.register-herald.com/region/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit/article_a570f908-e0a7-54a7-835f-e1297f433e1f.html"
-webUrl: "https://www.register-herald.com/region/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit/article_a570f908-e0a7-54a7-835f-e1297f433e1f.html"
+title: "Microsoft Building Azure Data Centers in Malaysia"
+excerpt: "Microsoft will build Azure data centers in Malaysia to host a new cloud availability region, the company said Monday. These will be its first data centers there, hosting multiple availability zones. The Azure data centers will be part of a bigger investment by Microsoft in the country."
+publishedDateTime: 2021-04-19T21:49:00Z
+originalUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-building-azure-data-centers-malaysia"
+webUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-building-azure-data-centers-malaysia"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: Data Center Knowledge
+  domain: datacenterknowledge.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-    width: 600
-    height: 600
+  - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/microsoft%20logo%202017%20getty.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -112,20 +112,6 @@ related:
         width: 960
         height: 504
         isCached: true
-  - title: "Microsoft Building Azure Data Centers in Malaysia"
-    excerpt: "Microsoft will build Azure data centers in Malaysia to host a new cloud availability region, the company said Monday. These will be its first data centers there, hosting multiple availability zones. The Azure data centers will be part of a bigger investment by Microsoft in the country."
-    publishedDateTime: 2021-04-19T21:49:00Z
-    webUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-building-azure-data-centers-malaysia"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 37
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/microsoft%20logo%202017%20getty.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Authentic Azure Solutions Architect Expert Microsoft AZ-300 Exam Dumps [2021]"
     excerpt: "Prepare your AZ-300 exam questions with Dumps2GO Microsoft AZ-300 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AZ-300 test because of your Azure Solutions Architect Expert AZ-300 certification exam fear?"
     publishedDateTime: 2021-04-17T12:25:00Z
@@ -139,6 +125,20 @@ related:
       - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
         width: 300
         height: 285
+        isCached: true
+  - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
+    excerpt: "“As an eligible application, if you purchase beqom directly through the Azure Marketplace, Microsoft will contribute 100% of qualifying offer purchases towards your organization’s Azure ..."
+    publishedDateTime: 2021-04-14T14:16:00Z
+    webUrl: "https://www.register-herald.com/region/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit/article_a570f908-e0a7-54a7-835f-e1297f433e1f.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 33
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
   - title: "AZ-301 Dumps (2021) Prepare Your Exam with Real Microsoft Azure Exam Questions"
     excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-301 specialists. As a result of this, IT certifications, for example AZ-301 Microsoft Azure Architect Design exam,"
@@ -201,6 +201,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "PAtw6tAFSaYi0P8EjzdPB18GSufIAXjLdiEjF2PvO3hmg7AHowBhzbWpMQahWG4DClGIaj355c5GLQkW+u2oxlcakpJYLaaO+pf+2wfwSfHPL50zqUQ8fQks5I7dhgmharlQdjqueSGPbdSmihgxz9xWLNtVNYHTdd8g+R/4sW94XjXGLEX8V52CrfNKfpH+A9NJVyc4lE+vYF7XBXWipQ3mzzJ6GuhLRRtKTuJE6xmLkIhLLLVf1hocA4iMrWrQH9CMhKishtAHX2QcWBlV1xyf9EF6dRCAFcQlgPEXuT7f7bCCHcYxxbN5GHJTaUg4CKew0KE671Kimm6wqCKa2YcL5Ll6aUJa6aRL25+aC9g=;sTbhuxKF9OH4ro0mk1rc1g=="
+secured: "wxI2TjzLmxZMfKGTn85rUG5NjvRMmpfXsY4rzA54LDuaEpdY/oExv2kBjtlAlo4O0f0nGkF+wwP4Y6NJnCQ3y8NMCCwDY5NRTTSlbiWzqc2KedNnHNXla0+djwNGQqnJpKwivSkB/6k7kV3CAgJTmDUoOO+NOBNZKtDsR+fpvN4a67LKSBvIEUS6UkJeBxE+tBtOOIv4XQzUC7D74lMAem+TMg9WtQQ1Kn0Wt7i5sa1fAh3SMiAHyFskJtmcmVwpryit5A7FLy5UAWUgJEgsBD/6DXCnUg85RvRaNXNRxddK57GuEFWb7oD05CAuwmVVA32UMLHJ/40mFwOmSQjBka6oaIGmymywm7ywv4a/hTQ=;1rmpw3WhRZrwcFABzSx3bQ=="
 ---
 
