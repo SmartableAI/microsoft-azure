@@ -4,49 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-host-domain-azure-dns.md",
-      "title": "Host your domain on Azure DNS",
-      "excerpt": "Learn how to host your domain on Azure DNS.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-domain-azure-dns/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 3773,
-        "average": 4.8147364
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/host-domain-azure-dns-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-ai-technology.md",
       "title": "Introduction to AI technology",
       "excerpt": "Learn the primary concepts and technologies of AI, and how Microsoft is turning the latest AI into tools, products, and services that organizations can leverage",
@@ -54,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-ai-technology/",
       "length": "PT37M",
       "ratings": {
-        "count": 1888,
-        "average": 4.6949153
+        "count": 1889,
+        "average": 4.695077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -269,8 +226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
       "length": "PT33M",
       "ratings": {
-        "count": 2884,
-        "average": 4.7285023
+        "count": 2885,
+        "average": 4.728596
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -387,8 +344,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/",
       "length": "PT24M",
       "ratings": {
-        "count": 879,
-        "average": 4.7701936
+        "count": 880,
+        "average": 4.7704544
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -472,8 +429,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/search-organize-repository-history-github/",
       "length": "PT38M",
       "ratings": {
-        "count": 253,
-        "average": 4.790514
+        "count": 254,
+        "average": 4.7874017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -642,8 +599,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 2945,
-        "average": 4.6522923
+        "count": 2946,
+        "average": 4.65241
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1748,6 +1705,48 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-assess-your-development-process.md",
+      "title": "Assess your existing software development process",
+      "excerpt": "Find out how to assess efficiency with a value stream map to help you examine your existing release processes and technologies.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-assess-your-development-process/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
+      "length": "PT19M",
+      "ratings": {
+        "count": 7650,
+        "average": 4.7109804
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/assess-your-software-development-process-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
       ]
     }
   ],

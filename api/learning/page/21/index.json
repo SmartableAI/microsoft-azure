@@ -4,50 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-monitor-data-drift-with-azure-machine-learning.md",
-      "title": "Monitor data drift with Azure Machine Learning",
-      "excerpt": "Changing trends in data over time can reduce the accuracy of the predictions made by a model. Monitoring for this data drift is an important way to ensure your model continues to predict accurately.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-data-drift-with-azure-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 827,
-        "average": 4.794438
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-data-drift-with-azure-machine-learning-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-monitor-models-with-azure-machine-learning.md",
       "title": "Monitor models with Azure Machine Learning",
       "excerpt": "After a machine learning model has been deployed into production, it's important to understand how it is being used by capturing and viewing telemetry.",
@@ -400,8 +356,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/",
       "length": "PT32M",
       "ratings": {
-        "count": 1046,
-        "average": 4.755258
+        "count": 1047,
+        "average": 4.7545366
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -570,8 +526,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/",
       "length": "PT34M",
       "ratings": {
-        "count": 883,
-        "average": 4.792752
+        "count": 884,
+        "average": 4.7929864
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -951,8 +907,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/",
       "length": "PT40M",
       "ratings": {
-        "count": 1350,
-        "average": 4.6548147
+        "count": 1351,
+        "average": 4.6550703
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1284,6 +1240,51 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-data-at-rest.md",
+      "title": "Introduction to securing data at rest on Azure",
+      "excerpt": "Identify the data in your organization and store it on Azure. Store secrets securely, and use client-side encryption and Storage Service Encryption to help protect your data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-data-at-rest/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-at-rest/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 331,
+        "average": 4.697885
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-data-at-rest-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Storage",
+        "Security"
       ]
     }
   ],
