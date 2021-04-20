@@ -4,16 +4,18 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/microsoft-how-to-use-azure-container-registry-for-deploying-net-core-apps-azure-tips-and-tricks.md",
-      "title": "How to use Azure Container Registry for deploying .NET Core Apps | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Microsoft Azure Container Registry for building and deploying .NET Core Apps.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-container-registry-for-deploying-net-core-apps-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-container-registry-for-deploying-net-core-apps-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=waktLo7JJTw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/waktLo7JJTw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M30S",
+      "path": "_learning/courses/microsoft-learn-intro-to-arc-enabled-kubernetes.md",
+      "title": "Introduction to Azure Arc enabled Kubernetes",
+      "excerpt": "Introduction to Azure Arc enabled Kubernetes",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-arc-enabled-kubernetes/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-arc-enabled-kubernetes/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 21,
+        "average": 4.904762
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -24,18 +26,20 @@
           }
         ]
       },
-      "publishedDateTime": "2021-04-13T11:23:12-07:00",
-      "heat": 131,
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/waktLo7JJTw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-arc-enabled-kubernetes-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
@@ -73,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 11003,
-            "average": 4.724166
+            "count": 11007,
+            "average": 4.7241755
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +123,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 9768,
-            "average": 4.7603397
+            "count": 9770,
+            "average": 4.7599797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -164,8 +168,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 7811,
-            "average": 4.761618
+            "count": 7817,
+            "average": 4.7614174
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -207,8 +211,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 8510,
-            "average": 4.6381903
+            "count": 8516,
+            "average": 4.638328
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -276,8 +280,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 9768,
-        "average": 4.7603397
+        "count": 9770,
+        "average": 4.7599797
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -355,6 +359,45 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-how-to-use-azure-container-registry-for-deploying-net-core-apps-azure-tips-and-tricks.md",
+      "title": "How to use Azure Container Registry for deploying .NET Core Apps | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Microsoft Azure Container Registry for building and deploying .NET Core Apps.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-container-registry-for-deploying-net-core-apps-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-container-registry-for-deploying-net-core-apps-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=waktLo7JJTw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/waktLo7JJTw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M30S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-13T11:23:12-07:00",
+      "heat": 81,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/waktLo7JJTw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators.md",
       "title": "AZ-104: Prerequisites for Azure administrators",
       "excerpt": "Learn the basic concepts you'll need to know as an Azure administrator and prepare for Exam AZ-104: Microsoft Azure Administrator.",
@@ -385,8 +428,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 5683,
-            "average": 4.739222
+            "count": 5693,
+            "average": 4.739505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -428,8 +471,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 18431,
-            "average": 4.698063
+            "count": 18433,
+            "average": 4.698096
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -498,8 +541,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 3927,
-            "average": 4.7267632
+            "count": 3928,
+            "average": 4.726833
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -580,8 +623,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 5683,
-            "average": 4.739222
+            "count": 5693,
+            "average": 4.739505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -623,8 +666,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 18431,
-            "average": 4.698063
+            "count": 18433,
+            "average": 4.698096
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -693,8 +736,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 3927,
-            "average": 4.7267632
+            "count": 3928,
+            "average": 4.726833
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -818,8 +861,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41859,
-            "average": 4.717982
+            "count": 41861,
+            "average": 4.717995
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1077,8 +1120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 6903,
-            "average": 4.710416
+            "count": 6904,
+            "average": 4.710458
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1272,8 +1315,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 6903,
-            "average": 4.710416
+            "count": 6904,
+            "average": 4.710458
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1388,8 +1431,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 4580,
-            "average": 4.6561136
+            "count": 4583,
+            "average": 4.6563387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1423,8 +1466,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3280,
-            "average": 4.6204267
+            "count": 3282,
+            "average": 4.620658
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1457,8 +1500,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
           "length": "PT49M",
           "ratings": {
-            "count": 2644,
-            "average": 4.6244326
+            "count": 2646,
+            "average": 4.6247168
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1492,8 +1535,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6599,
-            "average": 4.714805
+            "count": 6600,
+            "average": 4.7148485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1562,8 +1605,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 4580,
-            "average": 4.6561136
+            "count": 4583,
+            "average": 4.6563387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1760,8 +1803,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3280,
-            "average": 4.6204267
+            "count": 3282,
+            "average": 4.620658
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1794,8 +1837,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6599,
-            "average": 4.714805
+            "count": 6600,
+            "average": 4.7148485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1830,8 +1873,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
           "length": "PT49M",
           "ratings": {
-            "count": 2644,
-            "average": 4.6244326
+            "count": 2646,
+            "average": 4.6247168
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1865,8 +1908,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6185,
-            "average": 4.6247373
+            "count": 6186,
+            "average": 4.624798
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2024,8 +2067,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 1038,
-            "average": 4.66763
+            "count": 1039,
+            "average": 4.6669874
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2067,8 +2110,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 506,
-            "average": 4.4841895
+            "count": 507,
+            "average": 4.485207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2557,8 +2600,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 4580,
-        "average": 4.6561136
+        "count": 4583,
+        "average": 4.6563387
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2681,8 +2724,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 4760,
-        "average": 4.6388655
+        "count": 4761,
+        "average": 4.6389413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2769,8 +2812,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
       "length": "PT48M",
       "ratings": {
-        "count": 6599,
-        "average": 4.714805
+        "count": 6600,
+        "average": 4.7148485
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2830,8 +2873,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 1038,
-            "average": 4.66763
+            "count": 1039,
+            "average": 4.6669874
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2873,8 +2916,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 506,
-            "average": 4.4841895
+            "count": 507,
+            "average": 4.485207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3019,8 +3062,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
       "length": "PT49M",
       "ratings": {
-        "count": 2644,
-        "average": 4.6244326
+        "count": 2646,
+        "average": 4.6247168
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3244,45 +3287,6 @@
       "topics": [
         "Azure",
         "Serverless",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday.md",
-      "title": "Using Azure Container Registry for building and deploying .NET Core Apps | Azure Friday",
-      "excerpt": "You probably know that Azure Container Registry enables you to store and manage container images securely, but did you know it can also be used as a part of your DevOps pipelines? Jeremy Likness shows Scott Hanselman how ACR can manage your images and even build them for you in the cloud.   0:00 – Overview",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=VcZH6AWhUGk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VcZH6AWhUGk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M50S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-09T15:20:08-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VcZH6AWhUGk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Containers"
       ]
     }
