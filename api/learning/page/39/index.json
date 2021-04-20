@@ -4,137 +4,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight.md",
-      "title": "Manage enterprise security in HDInsight",
-      "excerpt": "Manage enterprise security in HDInsight",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-enterprise-security-hdinsight/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 66,
-        "average": 4.6060605
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-enterprise-security-in-hdinsight-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-groups-microsoft-365.md",
-      "title": "Manage groups in Microsoft 365",
-      "excerpt": "Manage groups in Microsoft 365",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-groups-microsoft-365/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-groups-microsoft-365/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 4,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-groups-in-microsoft-365-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-hybrid-workloads-with-azure-arc.md",
-      "title": "Manage hybrid workloads with Azure Arc",
-      "excerpt": "You will learn to describe Azure Arc, implement Azure Arc with on-premises server instances, deploy Azure policies with Azure Arc, and use role-based access control (RBAC) to restrict access to Log Analytics data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-hybrid-workloads-with-azure-arc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-hybrid-workloads-azure-arc/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 36,
-        "average": 4.861111
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-hybrid-workloads-with-azure-arc-social.png",
-          "width": 642,
-          "height": 322,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-iot-central-apps-with-rest-api.md",
       "title": "Manage IoT Central applications with the REST API",
       "excerpt": "In this module, you'll learn how to manage an IoT Central application programmatically using the REST API",
@@ -1283,6 +1152,135 @@
       "topics": [
         "Azure",
         "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances.md",
+      "title": "Monitor Windows Server IaaS Virtual Machines and hybrid instances",
+      "excerpt": "You'll be able to implement Azure Monitor for IaaS Virtual Machines in Azure, implement Azure Monitor in on-premises environments, and use dependency maps.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 53,
+        "average": 4.4716983
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-windows-server-iaas-vms-and-hybrid-instances-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-n-tier-architecture.md",
+      "title": "Tour the N-tier architecture style for your application",
+      "excerpt": "Discover the benefits of a Resource Manager template to deploy an application in an N-tier architecture and review best practices for deployments of this style.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-n-tier-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/n-tier-architecture/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 666,
+        "average": 4.810811
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/n-tier-architecture-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-nodejs-files.md",
+      "title": "Work with files and directories in a Node.js app",
+      "excerpt": "Build an app that manipulates files and directories with Node.js and JavaScript.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-nodejs-files/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/nodejs-files/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 163,
+        "average": 4.5644174
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/nodejs-files-social.png",
+          "width": 642,
+          "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

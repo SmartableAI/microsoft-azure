@@ -4,6 +4,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-iot-strategy-and-solutions.md",
+      "title": "Microsoft Azure IoT strategy and solutions",
+      "excerpt": "This module provides an overview of Azure IoT, and describes Microsoft tools, services, and infrastructure. This knowledge can help bring IoT to life for your organization and customers.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-iot-strategy-and-solutions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 6315,
+        "average": 4.735867
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-iot-strategy-and-solutions-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-3-describe-core-solutions-and-management-tools-on-azure.md",
       "title": "Azure Fundamentals part 3: Describe core solutions and management tools on Azure",
       "excerpt": "Learn how to choose the best services from Azure to build and manage cloud solutions.",
@@ -34,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 7579,
-            "average": 4.777939
+            "count": 7587,
+            "average": 4.7779098
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -77,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 5808,
-            "average": 4.7205577
+            "count": 5813,
+            "average": 4.720454
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +163,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 5161,
-            "average": 4.7579927
+            "count": 5167,
+            "average": 4.7574997
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -164,8 +207,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 4855,
-            "average": 4.7511845
+            "count": 4860,
+            "average": 4.7512345
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -233,8 +276,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 6252,
-        "average": 4.7795906
+        "count": 6258,
+        "average": 4.7794824
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -317,8 +360,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 4651,
-        "average": 4.771232
+        "count": 4654,
+        "average": 4.7711644
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -387,8 +430,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 8510,
-            "average": 4.6623974
+            "count": 8513,
+            "average": 4.662516
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -812,8 +855,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41865,
-            "average": 4.7179985
+            "count": 41867,
+            "average": 4.717988
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1053,7 +1096,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 53,
+          "heat": 133,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-iot-strategy-and-solutions-social.png",
@@ -1150,7 +1193,7 @@
         }
       ],
       "size": 8,
-      "heat": 63,
+      "heat": 66,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png",
@@ -1634,8 +1677,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
           "length": "PT27M",
           "ratings": {
-            "count": 524,
-            "average": 4.7328243
+            "count": 525,
+            "average": 4.733333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1678,8 +1721,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
           "length": "PT42M",
           "ratings": {
-            "count": 352,
-            "average": 4.7272725
+            "count": 353,
+            "average": 4.7280455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1722,8 +1765,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
           "length": "PT26M",
           "ratings": {
-            "count": 287,
-            "average": 4.738676
+            "count": 288,
+            "average": 4.7395835
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1758,8 +1801,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
           "length": "PT8M",
           "ratings": {
-            "count": 306,
-            "average": 4.72549
+            "count": 307,
+            "average": 4.726384
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2694,49 +2737,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-iot-strategy-and-solutions.md",
-      "title": "Microsoft Azure IoT strategy and solutions",
-      "excerpt": "This module provides an overview of Azure IoT, and describes Microsoft tools, services, and infrastructure. This knowledge can help bring IoT to life for your organization and customers.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-iot-strategy-and-solutions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 6315,
-        "average": 4.735867
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-iot-strategy-and-solutions-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-route-and-process-data-logic-apps.md",
       "title": "Route and process data automatically using Logic Apps",
       "excerpt": "Learn how to define a workflow to run your business with Logic apps using built-in triggers, actions, and conditional operators.",
@@ -2878,8 +2878,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
       "length": "PT27M",
       "ratings": {
-        "count": 524,
-        "average": 4.7328243
+        "count": 525,
+        "average": 4.733333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3256,8 +3256,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
       "length": "PT42M",
       "ratings": {
-        "count": 352,
-        "average": 4.7272725
+        "count": 353,
+        "average": 4.7280455
       },
       "provider": {
         "name": "Microsoft Learn",
