@@ -7,7 +7,7 @@ originalUrl: "https://www.madinamerica.com/author/download-real-ai-900-exam-dump
 webUrl: "https://www.madinamerica.com/author/download-real-ai-900-exam-dumps/"
 type: article
 quality: 52
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       name: Mad in America
       domain: madinamerica.com
     quality: 42
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
+  - title: "Download AZ-204 Exam Dumps [2021] Azure Developer Associate Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft AZ-204 exam with ITExamQuestions AZ-204 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-204 Developing Solutions for Microsoft Azure Exam?"
+    publishedDateTime: 2021-04-20T19:30:00Z
+    webUrl: "https://www.madinamerica.com/author/download-real-az-204-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 37
     images:
       - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
         width: 300

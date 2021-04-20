@@ -47,6 +47,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 50
+  - title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
+    excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
+    publishedDateTime: 2021-04-20T18:03:00Z
+    webUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
+        width: 960
+        height: 542
+        isCached: true
   - title: "Actual Microsoft AZ-600 Exam Dumps (2021) Azure Stack Hub Operator Associate Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-600 exam with ITExamQuestions AZ-600 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-600 Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta) Exam?"
     publishedDateTime: 2021-04-16T22:11:00Z

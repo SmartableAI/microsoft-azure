@@ -61,6 +61,20 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
+    excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
+    publishedDateTime: 2021-04-20T18:03:00Z
+    webUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
+        width: 960
+        height: 542
+        isCached: true
   - title: "Download AZ-120 Exam Dumps [2021] Microsoft Azure For SAP Workloads Specialty Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-120 exam with ITExamQuestions AZ-120 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-120 Planning and Administering Microsoft Azure for SAP Workloads exam?"
     publishedDateTime: 2021-04-18T12:00:00Z

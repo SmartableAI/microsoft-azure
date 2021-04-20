@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft’s ID@Azure Program Offers Cloud Services to Indie Developers"
+    excerpt: "Microsoft revealed ID@Azure, a self-service program that hopes to make the company’s Azure cloud services more accessible to indie game developers. The program harkens back to Microsoft’s work on ID@Xbox,"
+    publishedDateTime: 2021-04-20T19:22:00Z
+    webUrl: "https://gamingbolt.com/microsofts-idazure-program-offers-cloud-services-to-indie-developers"
+    ampWebUrl: "https://gamingbolt.com/microsofts-idazure-program-offers-cloud-services-to-indie-developers/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/microsofts-idazure-program-offers-cloud-services-to-indie-developers/amp"
+    type: article
+    provider:
+      name: From Software
+      domain: gamingbolt.com
+    quality: 57
+    images:
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "SmartStream introduces data management AI on Microsoft Azure"
     excerpt: "SmartStream Technologies, the financial Transaction Lifecycle Management (TLM®) solutions provider today announces the launch of SmartStream Air version 3, designed to support global clients on the Microsoft Azure platform,"
     publishedDateTime: 2021-04-14T08:40:00Z

@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
-publishedDateTime: 2021-04-20T16:57:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
+excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
+publishedDateTime: 2021-04-20T18:03:00Z
+originalUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
+webUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
 type: article
-quality: 13
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
+    width: 960
+    height: 542
+    isCached: true
 
 related:
   - title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
@@ -54,20 +60,6 @@ related:
       - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
         width: 300
         height: 285
-        isCached: true
-  - title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
-    excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
-    publishedDateTime: 2021-04-20T18:03:00Z
-    webUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
-        width: 960
-        height: 542
         isCached: true
   - title: "Actual Microsoft AZ-600 Exam Dumps (2021) Azure Stack Hub Operator Associate Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-600 exam with ITExamQuestions AZ-600 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-600 Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta) Exam?"
@@ -111,7 +103,16 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
+    publishedDateTime: 2021-04-20T16:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 13
 
-secured: "MRQaRxWlmdYfzae6Yfqunay0uy8OsBm52bBrzOw3bDPiDkC/X1BuQdzuUtNvbitoVKNHyZZkGIyF7oB2hEHbSOlYD/URHplTfRhk8LzWwNQjdH0w7v5i4Y9dQqVAjfgXCwTOhLt+7s7cbwZvOoL58V2rQhkBHcnaB16uNsLPUvaUJp7Gbbzukj0jBYftcaVlkR9Lyp0/2sX1kNtzVGH6whEZgHnYREQ1ZI21DWNL6ygTZ7gB99/zH/dHB2X4Vb/IB8UtsTaM4EYhQi3F0QrV0pZSNuwwLy0Gg3Wbv25hqaxE0JrpwW+basax02jc5yZB65heTbG6WrTuzBZvqRRMXaUuzTY0WFZByPyWrYHjipA=;7kGc0PFiBj103WJVgG2v9g=="
+secured: "wT9K/3v0kuMqQuC48qicZ+IkT4O4cTGeuQk/B0lTXNvQHw4mw4JHlJtIIdEatquoGi2feTkVpmKrp8wVnXLKrHNknT34yQnSdNGAqqZPEK0JGjMBkPrdwZSsuicJ/1naWwUULTyYWk1dnPitQ29rMYnQlTysKKHvAlfHSFWFfF17uwCv2vGKZ+lDuK1Q+k3of1Ok9vNDqQ5WFojNKBLMArz8kpTF6GF3zJsCTF90JA4gRbgxC+iIk7/wHwYKmRNWDmQPAPdWlqegzXkLYIL7OBGKUyULpcqCmnnHyghyVzOAn0dWT4k05C6LhZz7cOsqEX3Abu/1ySe+wCWQbXFb7HFrzstr22NKnXZgho+FIac=;6I5plK9UYoC7URcxSNw9gg=="
 ---
 

@@ -1,26 +1,28 @@
 ---
 category: news
-title: "AZ-301 Dumps (2021) Prepare Your Exam with Real Microsoft Azure Exam Questions"
-excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-301 specialists. As a result of this, IT certifications, for example AZ-301 Microsoft Azure Architect Design exam,"
-publishedDateTime: 2021-04-15T18:39:00Z
-originalUrl: "https://www.madinamerica.com/author/new-az-301-exam-dumps/"
-webUrl: "https://www.madinamerica.com/author/new-az-301-exam-dumps/"
+title: "Microsoft’s ID@Azure Program Offers Cloud Services to Indie Developers"
+excerpt: "Microsoft revealed ID@Azure, a self-service program that hopes to make the company’s Azure cloud services more accessible to indie game developers. The program harkens back to Microsoft’s work on ID@Xbox,"
+publishedDateTime: 2021-04-20T19:22:00Z
+originalUrl: "https://gamingbolt.com/microsofts-idazure-program-offers-cloud-services-to-indie-developers"
+webUrl: "https://gamingbolt.com/microsofts-idazure-program-offers-cloud-services-to-indie-developers"
+ampWebUrl: "https://gamingbolt.com/microsofts-idazure-program-offers-cloud-services-to-indie-developers/amp"
+cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/microsofts-idazure-program-offers-cloud-services-to-indie-developers/amp"
 type: article
-quality: 33
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Mad in America
-  domain: madinamerica.com
+  name: From Software
+  domain: gamingbolt.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-    width: 300
-    height: 285
+  - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
     isCached: true
 
 related:
@@ -55,22 +57,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/05/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Microsoft’s ID@Azure Program Offers Cloud Services to Indie Developers"
-    excerpt: "Microsoft revealed ID@Azure, a self-service program that hopes to make the company’s Azure cloud services more accessible to indie game developers. The program harkens back to Microsoft’s work on ID@Xbox,"
-    publishedDateTime: 2021-04-20T19:22:00Z
-    webUrl: "https://gamingbolt.com/microsofts-idazure-program-offers-cloud-services-to-indie-developers"
-    ampWebUrl: "https://gamingbolt.com/microsofts-idazure-program-offers-cloud-services-to-indie-developers/amp"
-    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/microsofts-idazure-program-offers-cloud-services-to-indie-developers/amp"
-    type: article
-    provider:
-      name: From Software
-      domain: gamingbolt.com
-    quality: 57
-    images:
-      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
         isCached: true
   - title: "SmartStream introduces data management AI on Microsoft Azure"
     excerpt: "SmartStream Technologies, the financial Transaction Lifecycle Management (TLM®) solutions provider today announces the launch of SmartStream Air version 3, designed to support global clients on the Microsoft Azure platform,"
@@ -170,6 +156,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "AZ-301 Dumps (2021) Prepare Your Exam with Real Microsoft Azure Exam Questions"
+    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-301 specialists. As a result of this, IT certifications, for example AZ-301 Microsoft Azure Architect Design exam,"
+    publishedDateTime: 2021-04-15T18:39:00Z
+    webUrl: "https://www.madinamerica.com/author/new-az-301-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 33
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
   - title: "Latest AZ-500 Dumps - Microsoft Azure Security Engineer Associate Real Exam Questions And Accurate Answers [2021]"
     excerpt: "Pass you Microsoft AZ-500 exam in just one go with DumpsArchive AZ-500 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
     publishedDateTime: 2021-04-18T23:52:00Z
@@ -217,6 +217,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "R3MdiDvxNqxTnw0u682D86yaz2X4+r6jqEV9Hpqjs6WM1+DhsDpWpKtOndhytpmWu3fKH/RuArWHILJ1agPOnmbt4jc/hmHfqnw/Zf49ryq63gCZSVr6j7QigYFDVbbSSI7R7Kx+zWCQDETypKJbyUU69Qpn9HPv/kYuEPT+Op+X64dKcDwWPM5duPxH5mPJ9pzNHBZj60yHPagwJfqldEIIuiHdxNd0CJsusy878mRnvhqBqFXKQdF7lcRz1zZAGOeTjM6XT6BTbQDVRVBYf+spJAhztpkBsuuMLoCAuAu7mYbOEcmkEDza6F8ZOO2AOyiTQGbE7LUkB1SYalUaRf8mJnch9OU/ICJzYBr7582tznq38TX7MG1J/ZYDCmUC2jV6ws0ib6M3bFiHMLod24uM3acqcFNcoaEYL8m+2iX4uUOg+bDsvm3riabYTIvUTNPfKGlav8KhS879shDODaVpDYv7P/GjEKpAHsCze7gLa8AuuLRxwzHzeYXvR0pDV921tZVhLmRUQn+6cvR6gg==;Kv1o84RFW+ZduA9p3UoInw=="
+secured: "mLvijlUh2U1nGzkX6osAW44ahJdI9MFTPbc/0nicaAj/nr2D3/uyDc3iqtVHkXuqspQQpOkCLMc6+0YkKuHV4tdF0j0/r9vs7RezL6Fmo5UCsopjzdpjUJSXZgXs2t/4ivKwJaA/OS9MatqVOoNJIZ7MBLIeQLaooctS5DlGLogOdNDTMYRZ+HAxJiQ3sZEF/az3IbqzayfohxPTw40ct06JZOqbiNIfiRrszprhYZBdh3pXX6tvmRF6crrpOQoFlpiaeY4tYYp9DF8v+w/ewGr3I2/45GVnbFMIgEqKm64hH3w33XZuoSDv5DBg6EdFmGfQnXIm7Kdmfcj1tz8uNfy9siSbYKPxlz4JFX2toLY=;koE0Yr2vQKhcJdT8ADgrUA=="
 ---
 

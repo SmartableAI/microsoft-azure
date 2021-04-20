@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft’s ID@Azure Program Offers Cloud Services to Indie Developers"
+    excerpt: "Microsoft revealed ID@Azure, a self-service program that hopes to make the company’s Azure cloud services more accessible to indie game developers. The program harkens back to Microsoft’s work on ID@Xbox,"
+    publishedDateTime: 2021-04-20T19:22:00Z
+    webUrl: "https://gamingbolt.com/microsofts-idazure-program-offers-cloud-services-to-indie-developers"
+    ampWebUrl: "https://gamingbolt.com/microsofts-idazure-program-offers-cloud-services-to-indie-developers/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/microsofts-idazure-program-offers-cloud-services-to-indie-developers/amp"
+    type: article
+    provider:
+      name: From Software
+      domain: gamingbolt.com
+    quality: 57
+    images:
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Latest Microsoft Azure Security Engineer Associate Microsoft AZ- 500 Exam Dumps (2021)"
     excerpt: "Prepare your AZ-500 exam questions with Dumps2GO Microsoft AZ-500 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AZ-500 test because of your Microsoft Azure Security Engineer Associate AZ-500 certification exam fear?"
     publishedDateTime: 2021-04-17T22:56:00Z
