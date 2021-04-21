@@ -96,19 +96,14 @@ related:
         height: 800
         isCached: true
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
-    publishedDateTime: 2021-04-20T12:57:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
+    publishedDateTime: 2021-04-20T16:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 13
 
 secured: "Izmr19SG43gHmRt7Qh9NEUzR5h0dKtMDcO3uFxXBES0jADG9HZzkyJk7nyu4LLF4KZWFGOgqLNqeETz/JkWGD9he8iyG7O+mYhCUKWpIxVYFHhGavjfgtrGOg5Msrbne8NBstmwc8Rxq0kkSk0DApu18BIyX5aqH5dE6soZFrV0l+d5RTvYCMZf+svHyurEHq2Uotrb4AsJiPf5zWgRgynHP8yZDSjBLCemTmHa8VKOuCgmMiKQCQloq9zlY23jSfNQQJKhMIOAqky8E/ADGwuhZeLuWTkeXnueozOqY8NOZ74LThs6gizbwJcDEqLLiumz/Ed5YZcR7QnUOHmHiQyj1NuAjRjrmO6/UeGkIRRLg7mNLOL6rKRil85j2KHsOuF6DiER6Np8e/XX7TVbNODWDgxKHzpzTxvwXPv/uelztm+5IWAF47kKnj7Cf/ukhCcLdZBaULSWWxFIS8xB9j0kFritEVr467dyEvHwHUB1RyX3pZ7UGkMkKSct+7wDFDkGT5DzwMETSmQex42dLFQ==;vaJGtU7fMU+y5yfP2ap4eg=="
 ---
