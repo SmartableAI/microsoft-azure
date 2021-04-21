@@ -94,6 +94,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 58
+  - title: "Public preview: Azure Purview is now available in the UK South and Australia East region"
+    excerpt: "Azure Purview is now available in public preview in the Australia East and UK South region. You can now provision Azure Purview accounts in these regions as a public preview offering. "
+    publishedDateTime: 2021-04-21T21:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-is-now-available-in-the-uk-south-and-austrlia-east-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
   - title: "Public preview: Cognitive Services- Anomaly Detector now supports multivariate anomaly detection​ "
     excerpt: "Enable organizations to identify anomalies across multiple variables with multivariate Anomaly Detector."
     publishedDateTime: 2021-04-14T16:01:46Z

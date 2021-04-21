@@ -104,6 +104,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 58
+  - title: "Public preview: Azure Purview is now available in the UK South and Australia East region"
+    excerpt: "Azure Purview is now available in public preview in the Australia East and UK South region. You can now provision Azure Purview accounts in these regions as a public preview offering. "
+    publishedDateTime: 2021-04-21T21:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-is-now-available-in-the-uk-south-and-austrlia-east-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
   - title: "Public preview: Ephemeral OS disk support in AKS"
     excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
     publishedDateTime: 2020-08-17T23:00:03Z

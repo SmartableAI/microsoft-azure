@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-gri
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-grid-integration-with-aks/"
 type: article
 quality: 101
-heat: 341
+heat: 361
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
     excerpt: "Announcing the availability of Security Technical Implementation Guide (STIG) solution templates for both Windows and Linux on the Azure Marketplace (commercial) and Azure Government Marketplace."
     publishedDateTime: 2021-04-09T17:14:51Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-stig-solution-templates-to-accelerate-compliance-for-dod/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
+  - title: "Public preview: Azure Purview is now available in the UK South and Australia East region"
+    excerpt: "Azure Purview is now available in public preview in the Australia East and UK South region. You can now provision Azure Purview accounts in these regions as a public preview offering. "
+    publishedDateTime: 2021-04-21T21:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-is-now-available-in-the-uk-south-and-austrlia-east-region/"
     type: article
     provider:
       name: Microsoft

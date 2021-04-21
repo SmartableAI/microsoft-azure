@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public preview: Automatic Cluster Upgrades in AKS"
-excerpt: "AKS simplifies the task of deploying new Kubernetes releases by enabling users to configure automatic cluster upgrades."
-publishedDateTime: 2021-01-21T17:03:14Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automatic-cluster-upgrades-in-aks/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automatic-cluster-upgrades-in-aks/"
+title: "Public preview: Azure Purview is now available in the UK South and Australia East region"
+excerpt: "Azure Purview is now available in public preview in the Australia East and UK South region. You can now provision Azure Purview accounts in these regions as a public preview offering. "
+publishedDateTime: 2021-04-21T21:00:06Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-is-now-available-in-the-uk-south-and-austrlia-east-region/"
+webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-is-now-available-in-the-uk-south-and-austrlia-east-region/"
 type: article
-quality: 69
+quality: 58
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Containers
 
 related:
   - title: "dPublic preview: Event Grid integration with AKS"
@@ -59,6 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 82
+  - title: "Public preview: Automatic Cluster Upgrades in AKS"
+    excerpt: "AKS simplifies the task of deploying new Kubernetes releases by enabling users to configure automatic cluster upgrades."
+    publishedDateTime: 2021-01-21T17:03:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automatic-cluster-upgrades-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Public preview: Calico Windows support in AKS"
     excerpt: "Use Calico network policy with Windows Server on AKS."
     publishedDateTime: 2021-03-02T17:00:08Z
@@ -90,15 +98,6 @@ related:
     excerpt: "Announcing the availability of Security Technical Implementation Guide (STIG) solution templates for both Windows and Linux on the Azure Marketplace (commercial) and Azure Government Marketplace."
     publishedDateTime: 2021-04-09T17:14:51Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-stig-solution-templates-to-accelerate-compliance-for-dod/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 58
-  - title: "Public preview: Azure Purview is now available in the UK South and Australia East region"
-    excerpt: "Azure Purview is now available in public preview in the Australia East and UK South region. You can now provision Azure Purview accounts in these regions as a public preview offering. "
-    publishedDateTime: 2021-04-21T21:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-is-now-available-in-the-uk-south-and-austrlia-east-region/"
     type: article
     provider:
       name: Microsoft
@@ -141,6 +140,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "RkJCIxkOmXWRGdz4fIQlK+XwYyzDy0DQPIkNPA2rM4mrNDtTy6JkN8/IEuqgkJIAZVF2JqZlNf0W2Sqq5L8h0iZKgqIktCqTAXYR3pJd29BmJHCOywGOei7wM0WlqHmQ/nPWTNLtW/nTQTIH9EivUscmX7MNAXmPA/6Rv4jafBsjkb/dqnKS/GxrE7H/MPEqQZS778y+nvdQW1QKIKqwQldZTY6HSbqwv/EpVZsilcroocovlJ+ArwHch1ysI23Xrlqb9vhEKVaAUhX9ZT3B1STbn8DhizAIXzZ3OukBjSlyLy8esrLgdI7mgqbemxF3EkrEYP0S372+TgvFaDvYiU1vQSlNG0CRkcw4K99sdXs=;9lBtTVLGvWj1unCEN0kuHA=="
+secured: "9KrmNme9V1eYJx1Dg9QlA4a8fR5idJtdtZTLp+bCr9xGPSEqxpElrgA2np6DqLhI8pL5GdzFoFR+ghd/ivc9D0ff5a/JsMOUPE+4SXcZAI3n7+mIQHqV8NVbJaRdUhMOGzB3ijmIwMfjsZnsZlsRgVpsZyf2uMTJ4JLLKN1hS9+N6SXouglUQmK5klx/0NhNpW9gASztsO8QEUx32MDY3NXu2s4KJU8hSyAAC6KaF+UTF2oUsIitx7LbTYwjCxjwiA9wYTBJgyBgQWSI0XDQ223D3/QEYZKKUG3MAWFet/IahBuaTE1gQDsxZac2ejyWt0WusqZ8y5uSm553Lv1qr+APNctestpVatB42am82iE=;NId7IZam6xEvQfPK11z8yw=="
 ---
 
