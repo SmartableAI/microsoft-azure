@@ -1,27 +1,21 @@
 ---
 category: news
-title: "AZ-301 Dumps (2021) Prepare Your Exam with Real Microsoft Azure Exam Questions"
-excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-301 specialists. As a result of this, IT certifications, for example AZ-301 Microsoft Azure Architect Design exam,"
-publishedDateTime: 2021-04-15T18:39:00Z
-originalUrl: "https://www.madinamerica.com/author/new-az-301-exam-dumps/"
-webUrl: "https://www.madinamerica.com/author/new-az-301-exam-dumps/"
+title: "UnitedLex Vantage Now Available in the Microsoft Azure Marketplace"
+excerpt: "UnitedLex, a leading technology and legal services company, today announced the availability of its Vantage solution in the Microsoft Azure Marketplac"
+publishedDateTime: 2021-04-19T17:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210419005007/en/UnitedLex-Vantage-Now-Available-in-the-Microsoft-Azure-Marketplace"
+webUrl: "https://www.businesswire.com/news/home/20210419005007/en/UnitedLex-Vantage-Now-Available-in-the-Microsoft-Azure-Marketplace"
 type: article
-quality: 33
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Mad in America
-  domain: madinamerica.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-    width: 300
-    height: 285
-    isCached: true
 
 related:
   - title: "Microsoft-AccuWeather partnership adds capabilities to Azure Maps"
@@ -167,6 +161,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 33
+  - title: "AZ-301 Dumps (2021) Prepare Your Exam with Real Microsoft Azure Exam Questions"
+    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-301 specialists. As a result of this, IT certifications, for example AZ-301 Microsoft Azure Architect Design exam,"
+    publishedDateTime: 2021-04-15T18:39:00Z
+    webUrl: "https://www.madinamerica.com/author/new-az-301-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 33
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
   - title: "Latest AZ-500 Dumps - Microsoft Azure Security Engineer Associate Real Exam Questions And Accurate Answers [2021]"
     excerpt: "Pass you Microsoft AZ-500 exam in just one go with DumpsArchive AZ-500 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
     publishedDateTime: 2021-04-18T23:52:00Z
@@ -204,15 +212,6 @@ related:
       name: Odessa American
       domain: oaoa.com
     quality: 17
-  - title: "UnitedLex Vantage Now Available in the Microsoft Azure Marketplace"
-    excerpt: "UnitedLex, a leading technology and legal services company, today announced the availability of its Vantage solution in the Microsoft Azure Marketplac"
-    publishedDateTime: 2021-04-19T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210419005007/en/UnitedLex-Vantage-Now-Available-in-the-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
   - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
     excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
     publishedDateTime: 2021-04-14T17:20:00Z
@@ -223,6 +222,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "R3MdiDvxNqxTnw0u682D86yaz2X4+r6jqEV9Hpqjs6WM1+DhsDpWpKtOndhytpmWu3fKH/RuArWHILJ1agPOnmbt4jc/hmHfqnw/Zf49ryq63gCZSVr6j7QigYFDVbbSSI7R7Kx+zWCQDETypKJbyUU69Qpn9HPv/kYuEPT+Op+X64dKcDwWPM5duPxH5mPJ9pzNHBZj60yHPagwJfqldEIIuiHdxNd0CJsusy878mRnvhqBqFXKQdF7lcRz1zZAGOeTjM6XT6BTbQDVRVBYf+spJAhztpkBsuuMLoCAuAu7mYbOEcmkEDza6F8ZOO2AOyiTQGbE7LUkB1SYalUaRf8mJnch9OU/ICJzYBr7582tznq38TX7MG1J/ZYDCmUC2jV6ws0ib6M3bFiHMLod24uM3acqcFNcoaEYL8m+2iX4uUOg+bDsvm3riabYTIvUTNPfKGlav8KhS879shDODaVpDYv7P/GjEKpAHsCze7gLa8AuuLRxwzHzeYXvR0pDV921tZVhLmRUQn+6cvR6gg==;Kv1o84RFW+ZduA9p3UoInw=="
+secured: "VggYoe9GdKj5dHN8DXwqC4YvTBwJcvCRIffIJsY0bW0ZnD6BhgVSUXBoxQNxggCD1bGzB2FbJzADp3vkKfmv95w1VCLk4UyMKiG6FcRZldnKAUmeyrwCZI/bto0M4pkONmprGbfB/3G/VCcDidZLgDaUNdZfZURtiWNixMdJk9AeD7SEz5O7OLDOJYsgiRBDNqipz3U00iQ2E8RF5009N+uT7OySOhpF7Fpl92dYOV2x32CSr8LhpVwpY0nBwxL3aXJtq63ibslkEDtwm+XVt1GBH3trSIj/YYsJMM2/Ge1n1m5wbJfymf4s33PyEFWrSPuN7n7P1X7+3AWz6Co896SoJFXOqi3jPzDggtWOh7Q=;Nn1+ltOAo6OIJ68ZGiaShg=="
 ---
 
