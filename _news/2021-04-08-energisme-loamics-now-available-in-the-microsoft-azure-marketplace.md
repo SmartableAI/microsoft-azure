@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Digitates ignio AIOps For Azure Now Available in the Microsoft Azure Marketplace"
-excerpt: "Digitate, the leading autonomous enterprise software provider, today announced the availability of ignio™ AIOps for Azure in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-04-08T13:00:00Z
-originalUrl: "https://www.financialbuzz.com/digitates-ignio-aiops-for-azure-now-available-in-the-microsoft-azure-marketplace/"
-webUrl: "https://www.financialbuzz.com/digitates-ignio-aiops-for-azure-now-available-in-the-microsoft-azure-marketplace/"
+title: "ENERGISME: LOAMICS Now Available in the Microsoft Azure Marketplace."
+excerpt: "ENERGISME ENERGISME: LOAMICS Now Available in the Microsoft Azure Marketplace. 07-Apr-2021 / 17:45 CET/CEST Dissemination of a French Regulatory News, transmitted by EQS Group. The issuer is ..."
+publishedDateTime: 2021-04-07T17:45:00Z
+originalUrl: "https://www.boersennews.de/nachrichten/artikel/energisme-loamics-now-available-in-the-microsoft-azure-marketplace-/2922706/"
+webUrl: "https://www.boersennews.de/nachrichten/artikel/energisme-loamics-now-available-in-the-microsoft-azure-marketplace-/2922706/"
 type: article
-quality: 12
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Börsennews
+  domain: boersennews.de
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.boersennews.de/images/social/og-image.jpg"
+    width: 1920
+    height: 1005
+    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -337,20 +343,6 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "ENERGISME: LOAMICS Now Available in the Microsoft Azure Marketplace."
-    excerpt: "ENERGISME ENERGISME: LOAMICS Now Available in the Microsoft Azure Marketplace. 07-Apr-2021 / 17:45 CET/CEST Dissemination of a French Regulatory News, transmitted by EQS Group. The issuer is ..."
-    publishedDateTime: 2021-04-07T17:45:00Z
-    webUrl: "https://www.boersennews.de/nachrichten/artikel/energisme-loamics-now-available-in-the-microsoft-azure-marketplace-/2922706/"
-    type: article
-    provider:
-      name: Börsennews
-      domain: boersennews.de
-    quality: 37
-    images:
-      - url: "https://www.boersennews.de/images/social/og-image.jpg"
-        width: 1920
-        height: 1005
-        isCached: true
   - title: "Microsoft reveals first satellite ground station at Azure data center"
     excerpt: "Microsoft has installed its first satellite ground station infrastructure at an Azure data center. The company this week revealed images of a ground station being deployed at its Quincy data center in Washington."
     publishedDateTime: 2021-04-09T16:31:00Z
@@ -490,6 +482,15 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 14
+  - title: "Digitates ignio AIOps For Azure Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Digitate, the leading autonomous enterprise software provider, today announced the availability of ignio™ AIOps for Azure in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-04-08T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/digitates-ignio-aiops-for-azure-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 12
   - title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
     excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control ..."
     publishedDateTime: 2021-04-08T13:49:00Z
@@ -509,6 +510,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "o7ZELnp2mb7N0qLf5jqhUE3Rd/Cj9iN/0/m/FF/Qnf6tDxPTCJr03nzuhPB/ju1i0XipHDMYRPKf90siCDU/MDC0r9/1B9fM9j+Wg/7eHRBJ1hndtoZLATVJtbhQ+HXpO3L6VFa/Sf1NDZRrOoz550Xe9jM1T/54GM0NdGTa9NlNmKiJP5nTb7Odlf2QKYMitc+yvoLlV6MbWeE93QI0zRPOTqs4J2RtIcTBjns1ZeSyCjoDSFsP7SLdhjH6mDlWir6pb7z6xx3oJD9uIpLyf/IPJ8kf3cOEy/zZi40NddiaWrzcmX+LHBRoaQOC/waMNH1VU3lHXw2GUKV6+6YNEl1hxwav6CPlOfAEYmjHICk=;B1BVNwJrDI4lblbS8AN2KA=="
+secured: "gS0AfBasOKzxlSCxDfRbAkm+O7OGq1OtGqoskqpeKNWuFfdTV3bnOrlXPNqFxUvigwtcT+mZjJaxZ3/NrRpO6YGKBZesvL/JUO4s5kgAnfO5EuhLI1/k7+0j4BvVXZeawwMH1XbnXlCfReoDMLPpZQLKMp9nCv3mFkw6ndhIpSV8AII95JLWiPBCqAtIDZP3KzGDpEDBuHQfjtp6rDvQIhBdVd1/zAKRUr707/9qMTjtAvc58wlj1lY1xDwo4po1Ka9i7U/LpDwOs+wuNahUNXd51RhhXeWKxYPha7/g9NJP8fG+TK1tQ5JxsKNboXGskzojii6fasakYv4rAQScHXA3oZR6nBiGUchtTutQsMg=;hvUrp6CZf+khpkcUYxd/rQ=="
 ---
 

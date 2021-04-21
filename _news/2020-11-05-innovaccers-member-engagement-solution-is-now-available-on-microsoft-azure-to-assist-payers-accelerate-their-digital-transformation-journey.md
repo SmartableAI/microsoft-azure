@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/innovacce
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/innovaccers-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their/article_9501b847-092e-5f93-b914-c0b84926deda.html"
 type: article
 quality: 2
-heat: -1
+heat: 2
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 400
     height: 293
     isCached: true
-
-related:
-  - title: "Accela Migrates Over 200 Data Center Customers to Microsoft Azure to Accelerate Digital Transformation"
-    excerpt: "PRNewswire/ -- Accela®, a leading provider of cloud-based solutions for government, today announced it successfully completed over 200 customer"
-    publishedDateTime: 2020-11-12T10:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-301171615.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1008788/Accela_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "YCA9BZlQnWBnwiwReoapZlQ9RZ4uYn5xlvOwnIt2SaCeh7EYcnlOXdj2ZhUZBeWGByhemXtTGnLbfu47snJ0Mdccvp8GQY2P6XXj6DLi0StpefCovCqAIG4EllR3PpF/cKpvzmPCaEK3+YHFbuEZNIuzkpoKVghGgGgS2lNhpsExYRQkFux85rofA+x8IPLdIG2S0zH7zlVfmDYpeVhb+0NvDMOuTIrrsuWsgNQQ2VAumjcFzd0fgRZtVAi6QPcVcNf7sohHBQ62KtjjUzFdyFWmRbYHielAO3EpeVCb+yw8Q73jL8mOvYHjG+vT8y0qg0KlogGwEuqnC9a3a5PRysEsaAeYKmIih14qORRrjEHhbIfkIZ/IEOqcT1uj+MT/RGTXZ0FHHxdoneOUhtMRDOLGQDWG1pX24xXbPOsCiF6YPbHxwdHkwuKv8D6Cs8AuBkIaRpB/A2vsr4iaikzIbNdSm+PfpCgn/ofcQ7LmLktJlPB5sVPVxZNAEyY+cKa9uwCR9RBYT/M37mRARbjN7g==;rxtkEqKYfBUzqgyxg/+wTA=="
 ---

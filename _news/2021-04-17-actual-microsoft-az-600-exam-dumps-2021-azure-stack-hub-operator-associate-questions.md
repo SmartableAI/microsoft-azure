@@ -75,20 +75,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
-    excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
-    publishedDateTime: 2021-04-20T18:03:00Z
-    webUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
-        width: 960
-        height: 542
-        isCached: true
   - title: "Download AZ-120 Exam Dumps [2021] Microsoft Azure For SAP Workloads Specialty Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-120 exam with ITExamQuestions AZ-120 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-120 Planning and Administering Microsoft Azure for SAP Workloads exam?"
     publishedDateTime: 2021-04-18T12:00:00Z
@@ -131,15 +117,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
-    publishedDateTime: 2021-04-20T16:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 13
 
 secured: "eMcPtyocpRVVpv8L1PKvYEf9vTgTE4K6IaNqz1kbqTHgG+WKqyv74q4Yng3r3AFw2KYkaBwRJHwImAOUG+ibU+F4CPtvLhifbTHrDec6wP0tPkzGwfMnPGbH94MuUchTC1l6VFp5hSn1dTs4uBkiOuiCF53jriIUEch/jQNI+fuXZsJlntqEXGjHuC+Kqvskzh95h+gSXRexf9grc5evriisulYMV4RXcgVETU34rVsZ9k2EOWYpclr95T5KSdH85zcdUrDdt6/LXzAEN5wqU1d9dtRXmRrVwfkucYuTO8i/+hzd58emgE0SBabjmptnuUMGZbSYVIDs3ueaZE/fYQV27Cp1TWjXmkta8PxEm+j2EJY9vkbXfoIq1uSDoJ+aMbLMxod9pzUBKwhgGxbzW25ZB+eQec/r1IDtDC+ErSaq1H11w3paejXEIEl5dVIf6U4jQxhO/cEEl20TMFtTt3A5tIRgE+DeUKQMakEb+yx4s+WgIX3GQ0YsvJCB6AddLjqx5xjAmhnDX8r8k3eotw==;HR19GoQkCtDp/GdyjPE8NQ=="
 ---

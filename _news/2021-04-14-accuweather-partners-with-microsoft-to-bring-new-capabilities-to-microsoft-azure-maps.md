@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AccuWeather Partners with Microsoft to Bring New Capabilities to Microsoft Azure Maps"
-excerpt: "AccuWeather today announced the integration of its weather data on Microsoft Azure Maps, making it Azure Maps exclusive weather provider. The partnership signifies a recognition by Microsoft of AccuWeather’s proven superiority in weather forecast accuracy to benefit its enterprise customers."
-publishedDateTime: 2021-04-13T18:42:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-earth-science-a34de8f8742023246f0f5536770b77b9"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-earth-science-a34de8f8742023246f0f5536770b77b9"
+excerpt: "STATE COLLEGE, Pa., April 13, 2021 /PRNewswire/ -- AccuWeather today announced the integration of its weather data on Microsoft Azure Maps, making it Azure Maps exclusive weather provider."
+publishedDateTime: 2021-04-13T23:40:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/accuweather-partners-with-microsoft-to-bring-new-capabilities-to-microsoft-azure-maps-301268117.html"
+webUrl: "https://www.prnewswire.com/news-releases/accuweather-partners-with-microsoft-to-bring-new-capabilities-to-microsoft-azure-maps-301268117.html"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -343,6 +343,20 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "ENERGISME: LOAMICS Now Available in the Microsoft Azure Marketplace."
+    excerpt: "ENERGISME ENERGISME: LOAMICS Now Available in the Microsoft Azure Marketplace. 07-Apr-2021 / 17:45 CET/CEST Dissemination of a French Regulatory News, transmitted by EQS Group. The issuer is ..."
+    publishedDateTime: 2021-04-07T17:45:00Z
+    webUrl: "https://www.boersennews.de/nachrichten/artikel/energisme-loamics-now-available-in-the-microsoft-azure-marketplace-/2922706/"
+    type: article
+    provider:
+      name: Börsennews
+      domain: boersennews.de
+    quality: 37
+    images:
+      - url: "https://www.boersennews.de/images/social/og-image.jpg"
+        width: 1920
+        height: 1005
+        isCached: true
   - title: "Microsoft reveals first satellite ground station at Azure data center"
     excerpt: "Microsoft has installed its first satellite ground station infrastructure at an Azure data center. The company this week revealed images of a ground station being deployed at its Quincy data center in Washington."
     publishedDateTime: 2021-04-09T16:31:00Z
@@ -496,6 +510,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "DvB3LocdVr3FQCO3qQBxhPdbDHyvrtTLmdgi66GfS5H42/bGrdg1xF0lRFJTbFWRO0p8yO9QxKICZXSRZOe09WXA45M9ajOIFIp4Kf3r1WtZ5EepeXVpOkbqruz/zmmK+fzpw6zOruc3DeoiaYa8KHj0TPTl4GkJlH+cKWK2ot5fnkvnN3KCr5L9oSTRgwUT6m1oVkqaCqSctSPlzj3waZ25xGQ8S8AsIny6I/wHpDqTkOXexsoGdnSWB3CxsAFEci4BSiaKx4kEpc74KMJCMQFpBOCA6xQ06MMUB+UaRHGYzicSc8UURtqSzroyVLpFJT1IvY8R6HXA9EybP8SX1sX/h/cTQZ1z+J20HaBOYFM=;ZMtzElTagWh6V21kkbvugA=="
+secured: "RkMW9iA0YXH9qAXlCzX3SkZafExhDjoSzIGZSAVJVEHbTs1HWke4Ar42S8ppZ+u3l3GgnOY5IpYcxoYLY1xTeeGMqf9s6ariCUrtrHM7hctQbTl1k3Q3xAx7lBKa782zeEXOmsAABuT5HMEFvXb2elj7+5ggbufcpv5/RdH8Ms3dc4Qm6iiUpp9j/zZBMh+9HrzdxWHKMO6sg4V2rPO9WrcZOvXpPRRE9ipYjHicC0rCp6spH2JyKYItET1oGMnXpCixN7VGVnGvz7LRN+XY6fj0ZYY1oIt9YKUCBspEKb4VnqvDPaFkz9pG6mGh47boHa/4IFJ8Xt3JDLgcCV0K55ezLF6rraX2W+DNQzoQO4k=;P/5PZ2rAr8nPZhKs2rk9xQ=="
 ---
 

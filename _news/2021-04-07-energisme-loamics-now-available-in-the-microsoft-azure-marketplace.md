@@ -329,6 +329,20 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "ENERGISME: LOAMICS Now Available in the Microsoft Azure Marketplace."
+    excerpt: "ENERGISME ENERGISME: LOAMICS Now Available in the Microsoft Azure Marketplace. 07-Apr-2021 / 17:45 CET/CEST Dissemination of a French Regulatory News, transmitted by EQS Group. The issuer is ..."
+    publishedDateTime: 2021-04-07T17:45:00Z
+    webUrl: "https://www.boersennews.de/nachrichten/artikel/energisme-loamics-now-available-in-the-microsoft-azure-marketplace-/2922706/"
+    type: article
+    provider:
+      name: Börsennews
+      domain: boersennews.de
+    quality: 37
+    images:
+      - url: "https://www.boersennews.de/images/social/og-image.jpg"
+        width: 1920
+        height: 1005
+        isCached: true
   - title: "Microsoft reveals first satellite ground station at Azure data center"
     excerpt: "Microsoft has installed its first satellite ground station infrastructure at an Azure data center. The company this week revealed images of a ground station being deployed at its Quincy data center in Washington."
     publishedDateTime: 2021-04-09T16:31:00Z
@@ -400,18 +414,18 @@ related:
         height: 1414
         isCached: true
   - title: "AccuWeather Partners with Microsoft to Bring New Capabilities to Microsoft Azure Maps"
-    excerpt: "AccuWeather today announced the integration of its weather data on Microsoft Azure Maps, making it Azure Maps exclusive weather provider. The partnership signifies a recognition by Microsoft of AccuWeather’s proven superiority in weather forecast accuracy to benefit its enterprise customers."
-    publishedDateTime: 2021-04-13T18:42:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-earth-science-a34de8f8742023246f0f5536770b77b9"
+    excerpt: "STATE COLLEGE, Pa., April 13, 2021 /PRNewswire/ -- AccuWeather today announced the integration of its weather data on Microsoft Azure Maps, making it Azure Maps exclusive weather provider."
+    publishedDateTime: 2021-04-13T23:40:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/accuweather-partners-with-microsoft-to-bring-new-capabilities-to-microsoft-azure-maps-301268117.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 30
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Informatica Announces New Cloud Data Integration Free Service for Customers to Accelerate Cloud Modernization on Microsoft Azure"
     excerpt: "In light of this rapid acceleration to the cloud, Informatica is announcing in collaboration with Microsoft a new Informatica Cloud Data Integration Free Service to help customers get started quickly and easily with IDMC on Azure. To lower the barrier and ..."
