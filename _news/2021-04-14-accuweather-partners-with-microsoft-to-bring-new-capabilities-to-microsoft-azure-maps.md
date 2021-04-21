@@ -236,17 +236,17 @@ related:
         isCached: true
   - title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
     excerpt: "Network Cloud pioneer Alkira® today announced a close collaboration with the Microsoft for Startups program, a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud."
-    publishedDateTime: 2021-04-13T13:07:00Z
-    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/alkira-teams-up-with-microsoft-to-transform-the-cloud-networking-journey-to-azure/article_50350584-f738-5435-8bf7-131441d9018a.html"
+    publishedDateTime: 2021-04-13T08:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
     type: article
     provider:
-      name: Rome News-Tribune
-      domain: northwestgeorgianews.com
+      name: Associated Press
+      domain: apnews.com
     quality: 49
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/8/c2/8c28df12-cc0b-5da0-87e8-390f42d56494/607599a3d756d.image.jpg?resize=997%2C630"
-        width: 997
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
     excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."

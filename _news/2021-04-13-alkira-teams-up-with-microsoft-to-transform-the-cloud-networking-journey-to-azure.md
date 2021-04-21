@@ -2,26 +2,26 @@
 category: news
 title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
 excerpt: "Network Cloud pioneer Alkira® today announced a close collaboration with the Microsoft for Startups program, a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud."
-publishedDateTime: 2021-04-13T13:07:00Z
-originalUrl: "https://www.northwestgeorgianews.com/associated_press/business/alkira-teams-up-with-microsoft-to-transform-the-cloud-networking-journey-to-azure/article_50350584-f738-5435-8bf7-131441d9018a.html"
-webUrl: "https://www.northwestgeorgianews.com/associated_press/business/alkira-teams-up-with-microsoft-to-transform-the-cloud-networking-journey-to-azure/article_50350584-f738-5435-8bf7-131441d9018a.html"
+publishedDateTime: 2021-04-13T08:00:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Rome News-Tribune
-  domain: northwestgeorgianews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
   - Networking
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/8/c2/8c28df12-cc0b-5da0-87e8-390f42d56494/607599a3d756d.image.jpg?resize=997%2C630"
-    width: 997
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -511,6 +511,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "IJcFrgidlZcIKW6WuCqMrMn8cJPetk8rIHujrczN7A5185/j5Yp0eaw/KoBwX3tIUaIuDK7DEGmqCiJg0mRDY6cuQXvmZrKwA4y06mjUvIVVSNiT4j/ostkLLCjPdgIuG5TvvsqDXTOVAILIRzchnDzOr1pvu1NzfXsLc6IkFyLdDKm9MM85I9A8xOBFOPsAcrd21OAnLFoJIARgeTF0cwrg7wUAUBFHuwKFFeofoA7o9YVqY4flyX5mltfRLYIcOhdi9eyuv/zwx600bph2CSfw2X7yEpYTaw2CLOaX/m2TJbWP/Qp23Q6AGYXJO/2alZYE0whRQA4AsMPVnAbUlS3nz1e3hHJZAU15KoadVNUCJLxuDV18OQS4X9mS+t/i4SCdGOwzo9G0TWu52Pcl+WZ2hXaanbyAf689l+K1rxBmacyZcxxBqtgHvR+aoxryDFMZW0QPyJXtf+2GXtjQNGZA3jHwbh4LRQduZ0XMXM1XbitzFXpxxQbdosWt+GfKlkE77NzNNmAK9mPDiACOuw==;4fux04HhVr8sVdxgXa5pVA=="
+secured: "08D7r10Ikyy/nRNbej8sDcBwSu2guepPeV3o8nTs+L7v0luww1n4A9pzF12C2F4oLox9NCvNA+4e+xBkFtUgH9blD2nA7w5HMluQ4gsltXgMkQJJuYS9v7oYC9WVnW0Yg2sJiHBKMtRw9M29Mfp646npgM6RXLboMcaElRLpbbqKTvsEXVS6/HsfJYalJBVix+GRc8TXbQWCz0q9IbIhyT9Fv7ouE9W77TGKDUeKvbPMS9YOuLELNOixmwWSQ3ORGOMPM480n9E8fvfo7ak4mhlTJhG4L/pfFAw5u5i6sYkSKDOIZJfTsxxNX3QIz6eEMuk9WHjeDZ65ov4Atd4FCN3NRc3Gib74Uhb5l7sR/5Q=;eZKovg+36tTR7sfKxyfkAw=="
 ---
 
