@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
-excerpt: "“As an eligible application, if you purchase beqom directly through the Azure Marketplace, Microsoft will contribute 100% of qualifying offer purchases towards your organization’s Azure ..."
-publishedDateTime: 2021-04-14T14:16:00Z
-originalUrl: "https://www.register-herald.com/region/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit/article_a570f908-e0a7-54a7-835f-e1297f433e1f.html"
-webUrl: "https://www.register-herald.com/region/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit/article_a570f908-e0a7-54a7-835f-e1297f433e1f.html"
+excerpt: "beqom, provider of cloud-based compensation management software, announced that Microsoft has designated beqom as an eligible \"Microsoft Transact\" application for customers of the Microsoft Azure ..."
+publishedDateTime: 2021-04-14T13:41:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/b20619485/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/b20619485/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20619485"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20619485"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-    width: 600
-    height: 600
-    isCached: true
 
 related:
   - title: "Microsoft-AccuWeather partnership adds capabilities to Azure Maps"
@@ -199,13 +195,13 @@ related:
         height: 285
         isCached: true
   - title: "UnitedLex Vantage Now Available in the Microsoft Azure Marketplace"
-    excerpt: "UnitedLex, a leading technology and legal services company, today announced the availability of its Vantage solution in the Microsoft Azure Marketplac"
-    publishedDateTime: 2021-04-19T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210419005007/en/UnitedLex-Vantage-Now-Available-in-the-Microsoft-Azure-Marketplace"
+    excerpt: "UnitedLex, a leading technology and legal services company, today announced the availability of its Vantage solution in the Microsoft Azure Marketplace, an online store that provides applications ..."
+    publishedDateTime: 2021-04-19T13:52:00Z
+    webUrl: "https://www.oaoa.com/news/business/unitedlex-vantage-now-available-in-the-microsoft-azure-marketplace/article_9260876b-c7d2-5c99-bf23-53deb0bf97e7.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 17
   - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
     excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
@@ -217,6 +213,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "PAtw6tAFSaYi0P8EjzdPB18GSufIAXjLdiEjF2PvO3hmg7AHowBhzbWpMQahWG4DClGIaj355c5GLQkW+u2oxlcakpJYLaaO+pf+2wfwSfHPL50zqUQ8fQks5I7dhgmharlQdjqueSGPbdSmihgxz9xWLNtVNYHTdd8g+R/4sW94XjXGLEX8V52CrfNKfpH+A9NJVyc4lE+vYF7XBXWipQ3mzzJ6GuhLRRtKTuJE6xmLkIhLLLVf1hocA4iMrWrQH9CMhKishtAHX2QcWBlV1xyf9EF6dRCAFcQlgPEXuT7f7bCCHcYxxbN5GHJTaUg4CKew0KE671Kimm6wqCKa2YcL5Ll6aUJa6aRL25+aC9g=;sTbhuxKF9OH4ro0mk1rc1g=="
+secured: "7Twu8vVFJTEQ79ui4DLG+A/mDWPRCpvhJy2TzotzPFX/3ya3Xi4g6bPKyPcHxowqObZYKbu7MWnvrokiBALhzXI/En/JPI124brKrB2mmDC0ueBsWOX8TnOp8pJaMUxsBLlsUx6watRNBfDC0Y4V8wzoxLpook/3IdKVCwI97g4DdLdDiAPun641eALBKMWZGJFhC2TEcDiHvD7rSw161dIRoY9JAqUX8WQ5TnTvOP30vvrVWHDpMJ2rAtlcNwe0+epOe1kvJLR5hI2YpI0xF7LM1O5lC9dPczzzcu8pPyY6q57oEe8ltYEksgPwYoA3faQbEhY2mFvCUKUK5rhunbI91oQKxMNSY/CAANzaorw=;LXfgm+6rvuItJ6/suucnfg=="
 ---
 

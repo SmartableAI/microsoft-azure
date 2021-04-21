@@ -1,18 +1,18 @@
 ---
 category: news
 title: "UnitedLex Vantage Now Available in the Microsoft Azure Marketplace"
-excerpt: "UnitedLex, a leading technology and legal services company, today announced the availability of its Vantage solution in the Microsoft Azure Marketplac"
-publishedDateTime: 2021-04-19T13:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210419005007/en/UnitedLex-Vantage-Now-Available-in-the-Microsoft-Azure-Marketplace"
-webUrl: "https://www.businesswire.com/news/home/20210419005007/en/UnitedLex-Vantage-Now-Available-in-the-Microsoft-Azure-Marketplace"
+excerpt: "UnitedLex, a leading technology and legal services company, today announced the availability of its Vantage solution in the Microsoft Azure Marketplace, an online store that provides applications ..."
+publishedDateTime: 2021-04-19T13:52:00Z
+originalUrl: "https://www.oaoa.com/news/business/unitedlex-vantage-now-available-in-the-microsoft-azure-marketplace/article_9260876b-c7d2-5c99-bf23-53deb0bf97e7.html"
+webUrl: "https://www.oaoa.com/news/business/unitedlex-vantage-now-available-in-the-microsoft-azure-marketplace/article_9260876b-c7d2-5c99-bf23-53deb0bf97e7.html"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Azure
@@ -151,19 +151,16 @@ related:
         height: 285
         isCached: true
   - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
-    excerpt: "“As an eligible application, if you purchase beqom directly through the Azure Marketplace, Microsoft will contribute 100% of qualifying offer purchases towards your organization’s Azure ..."
-    publishedDateTime: 2021-04-14T14:16:00Z
-    webUrl: "https://www.register-herald.com/region/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit/article_a570f908-e0a7-54a7-835f-e1297f433e1f.html"
+    excerpt: "beqom, provider of cloud-based compensation management software, announced that Microsoft has designated beqom as an eligible \"Microsoft Transact\" application for customers of the Microsoft Azure ..."
+    publishedDateTime: 2021-04-14T13:41:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/b20619485/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20619485"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20619485"
     type: article
     provider:
-      name: The Register-Herald
-      domain: register-herald.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 33
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
   - title: "AZ-301 Dumps (2021) Prepare Your Exam with Real Microsoft Azure Exam Questions"
     excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-301 specialists. As a result of this, IT certifications, for example AZ-301 Microsoft Azure Architect Design exam,"
     publishedDateTime: 2021-04-15T18:39:00Z
@@ -216,6 +213,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "Qpu3zsobJbZFmw81aK90qkW2KuBhF0kslB9iiaf1JApXfLBzYcsGlG+vfa8/6MA0DVzxhHWeG0CMrABkoEIkrcR/SVsmBqh82yRTw3PDCkhtr/0P1GX5YQx/kD44uPsRg/RwWw8jOiURL/4eKAd64IDLN2cwkC5wUZKjp/ObbZbeMaGmTYip6asGwyzW1OAtijE9SV3ujLEblKxWQ5g0mUxG3yWZ2bT+S4Uts0QxRAkGqdiua5h+Pmana4H9yohYWFz/1yVS5src1k5Z+a7p6V8nfODJtXzDIdgIJzgSuTPE+O83Dur9xHHLGdrLXi9fbqoyfwnzuG+Y3PFPF1j/65JtRZHwcDfbI7L4H4Two5s=;/kbo0pSesDFndcoh+ZqXdg=="
+secured: "AkwWPChjhkNuJxwQMi+iJoxDYK1ZZ02/4QVODPogs9F0hmyqNihiCeEDMDZuq8iNkVWo6/2yrtB4pRXDU/y/sfA8Pa6IDbAfbUBSTWfSongmPERDwXE58l9PtSxDwcQwvnVSvjFaRy+nueZv8xSB33p/JEgK5wAyLr5pvY3ErB0DXEkygM2k/07OqP/gpdV6XbkYBFw/5c+ESyDTtJsHwd3MaENMb5+DC36m8smv54T71d5v+U1Pz7tsPHJIfbQEycabp+5EeeqXWleqD216t2R8IY96wPNbWMHH6/hoiTIjkBU99bmkrkUPp3RiZIm+hzlJ6SZ8WSiV3FyhlX/rpu+sTdIaJWnSfLZVdxXdqn0=;Fi3Og0ZTFCmJrOq4ffYvmQ=="
 ---
 
