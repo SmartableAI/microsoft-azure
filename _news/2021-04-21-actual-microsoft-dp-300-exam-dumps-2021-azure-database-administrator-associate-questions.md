@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
-excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
-publishedDateTime: 2021-04-20T18:03:00Z
-originalUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
-webUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
+title: "Actual Microsoft DP-300 Exam Dumps [2021] Azure Database Administrator Associate Questions"
+excerpt: "The ultimate gateway to pass the Microsoft DP-300 exam with ITExamQuestions DP-300 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-300 Administering Relational Databases on Microsoft Azure Exam?"
+publishedDateTime: 2021-04-20T23:11:00Z
+originalUrl: "https://www.madinamerica.com/author/download-microsoft-dp-300-exam-dumps/"
+webUrl: "https://www.madinamerica.com/author/download-microsoft-dp-300-exam-dumps/"
 type: article
-quality: 33
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: Mad in America
+  domain: madinamerica.com
 
 topics:
   - Azure
+  - Databases
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
-    width: 960
-    height: 542
+  - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+    width: 300
+    height: 285
     isCached: true
 
 related:
@@ -47,20 +48,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 50
-  - title: "Actual Microsoft DP-300 Exam Dumps [2021] Azure Database Administrator Associate Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft DP-300 exam with ITExamQuestions DP-300 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-300 Administering Relational Databases on Microsoft Azure Exam?"
-    publishedDateTime: 2021-04-20T23:11:00Z
-    webUrl: "https://www.madinamerica.com/author/download-microsoft-dp-300-exam-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 44
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
   - title: "Download Microsoft AZ-303 Exam Dumps (2021) Azure Solutions Architect Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-303 exam with ITExamQuestions AZ-303 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-303 Microsoft Azure Architect Technologies Exam?"
     publishedDateTime: 2021-04-20T04:15:00Z
@@ -74,6 +61,20 @@ related:
       - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
         width: 300
         height: 285
+        isCached: true
+  - title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
+    excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
+    publishedDateTime: 2021-04-20T18:03:00Z
+    webUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
+        width: 960
+        height: 542
         isCached: true
   - title: "Actual Microsoft AZ-600 Exam Dumps (2021) Azure Stack Hub Operator Associate Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-600 exam with ITExamQuestions AZ-600 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-600 Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta) Exam?"
@@ -141,6 +142,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "Izmr19SG43gHmRt7Qh9NEUzR5h0dKtMDcO3uFxXBES0jADG9HZzkyJk7nyu4LLF4KZWFGOgqLNqeETz/JkWGD9he8iyG7O+mYhCUKWpIxVYFHhGavjfgtrGOg5Msrbne8NBstmwc8Rxq0kkSk0DApu18BIyX5aqH5dE6soZFrV0l+d5RTvYCMZf+svHyurEHq2Uotrb4AsJiPf5zWgRgynHP8yZDSjBLCemTmHa8VKOuCgmMiKQCQloq9zlY23jSfNQQJKhMIOAqky8E/ADGwuhZeLuWTkeXnueozOqY8NOZ74LThs6gizbwJcDEqLLiumz/Ed5YZcR7QnUOHmHiQyj1NuAjRjrmO6/UeGkIRRLg7mNLOL6rKRil85j2KHsOuF6DiER6Np8e/XX7TVbNODWDgxKHzpzTxvwXPv/uelztm+5IWAF47kKnj7Cf/ukhCcLdZBaULSWWxFIS8xB9j0kFritEVr467dyEvHwHUB1RyX3pZ7UGkMkKSct+7wDFDkGT5DzwMETSmQex42dLFQ==;vaJGtU7fMU+y5yfP2ap4eg=="
+secured: "FVxpiTr2uuOI9jhHoTOhiM6Cp+vU5sDEzhmQG4ALTro1gyO9m6fzYtKA4kmywCY6bSNCacl1yulL2ivzUsCqGO/nQVfovePq+ktPX96ZldF36OYSlo3/bK/ZVzE15xUUzgN4EPw1DVFmpu1ZtmTKuhTzoqhPX34yzXnSTqJSJ8kM/ESHDxKfxhiTQctNBu77zhSAwpjhErbeAXAop20DM9nwsCXZsmkIkAbc7zuKe4ugzXAQe1JEZR0o3vPG0FtXj141vyKO9zMQwetYmrpqeNhXJ7xJd/fWRATtcstX/UIZ6os02BQQq3wymYilaWKX5tkEdgEz9fW1HDv0uaN9zHX6DX+MrwEOF6Z3odF2kt0=;O9OQKsEibPvZ93Re3yfw1w=="
 ---
 

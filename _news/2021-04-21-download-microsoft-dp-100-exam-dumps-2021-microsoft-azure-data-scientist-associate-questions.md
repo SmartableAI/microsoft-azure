@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
-excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
-publishedDateTime: 2021-04-20T18:03:00Z
-originalUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
-webUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
+title: "Download Microsoft DP-100 Exam Dumps (2021) Microsoft Azure Data Scientist Associate Questions"
+excerpt: "The ultimate gateway to pass the Microsoft DP-100 exam with ITExamQuestions DP-100 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-100 Designing and Implementing a Data Science Solution on Azure exam?"
+publishedDateTime: 2021-04-20T23:55:00Z
+originalUrl: "https://www.madinamerica.com/author/download-real-dp-100-exam-dumps/"
+webUrl: "https://www.madinamerica.com/author/download-real-dp-100-exam-dumps/"
 type: article
-quality: 33
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: Mad in America
+  domain: madinamerica.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
-    width: 960
-    height: 542
+  - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+    width: 300
+    height: 285
     isCached: true
 
 related:
@@ -75,6 +75,20 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
+    excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
+    publishedDateTime: 2021-04-20T18:03:00Z
+    webUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
+        width: 960
+        height: 542
+        isCached: true
   - title: "Actual Microsoft AZ-600 Exam Dumps (2021) Azure Stack Hub Operator Associate Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-600 exam with ITExamQuestions AZ-600 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-600 Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta) Exam?"
     publishedDateTime: 2021-04-16T22:11:00Z
@@ -98,20 +112,6 @@ related:
       name: Mad in America
       domain: madinamerica.com
     quality: 29
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Download Microsoft DP-100 Exam Dumps (2021) Microsoft Azure Data Scientist Associate Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft DP-100 exam with ITExamQuestions DP-100 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-100 Designing and Implementing a Data Science Solution on Azure exam?"
-    publishedDateTime: 2021-04-20T23:55:00Z
-    webUrl: "https://www.madinamerica.com/author/download-real-dp-100-exam-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 25
     images:
       - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
         width: 300
@@ -141,6 +141,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "Izmr19SG43gHmRt7Qh9NEUzR5h0dKtMDcO3uFxXBES0jADG9HZzkyJk7nyu4LLF4KZWFGOgqLNqeETz/JkWGD9he8iyG7O+mYhCUKWpIxVYFHhGavjfgtrGOg5Msrbne8NBstmwc8Rxq0kkSk0DApu18BIyX5aqH5dE6soZFrV0l+d5RTvYCMZf+svHyurEHq2Uotrb4AsJiPf5zWgRgynHP8yZDSjBLCemTmHa8VKOuCgmMiKQCQloq9zlY23jSfNQQJKhMIOAqky8E/ADGwuhZeLuWTkeXnueozOqY8NOZ74LThs6gizbwJcDEqLLiumz/Ed5YZcR7QnUOHmHiQyj1NuAjRjrmO6/UeGkIRRLg7mNLOL6rKRil85j2KHsOuF6DiER6Np8e/XX7TVbNODWDgxKHzpzTxvwXPv/uelztm+5IWAF47kKnj7Cf/ukhCcLdZBaULSWWxFIS8xB9j0kFritEVr467dyEvHwHUB1RyX3pZ7UGkMkKSct+7wDFDkGT5DzwMETSmQex42dLFQ==;vaJGtU7fMU+y5yfP2ap4eg=="
+secured: "qavoFmjBeDnr13s6FEHrBOKOvrHS+2NR9POXeIyM9ZGcvo+6HCmPGrVAAyqry1jZfH/fRCdZSPUAyb0xM/NBwaiQjRUYcJ+JAXn9gioll4xi73UrY1iCjBMjHl4KLXmFXhmPdGyF9in5Epz2OaYz8ju2U4MvQKSE6t4qJ8tQqaolvootzngd/RjZB31H+esbmlBpyU9pN3aSmgY7gV7/FCVA8N7EUae5B9WjjVAh/kyShsJS4989GxbGIlMuVKUcXA59EkFjGz7cLII87AvxKCzMWxIEacJPComeOLGqP4owkppU7hS5inpPBxROwoJR1n+Fwz4pvvrrKudvMYDWeq45X7JZmtQc1P4VJG0tR0k=;6jtC/p/Z1s2xHhEFUiPVdg=="
 ---
 
