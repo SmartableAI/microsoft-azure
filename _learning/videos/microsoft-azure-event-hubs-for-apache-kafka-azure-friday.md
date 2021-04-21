@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT16M4S
 publishedDateTime: 2019-02-28T00:57:20Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m3UEDhVYc-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DBYBl6lVuegWS7iCpsyetT45L03+6tKrXCC6+CMKu1kkKmmpFruyv9qAN0oyqKC9eKoMqHc4yQU10ZKFid+NCUIjVsQa8ILp8pOGzLqHKKkV3vrNRNWJMEMI5/2UdIKqN/Ca8guia6HXy0cXBEDb914EPaNanGVpz/pIixHwXPERwxPjiHOyST1J91nlhuY2QcRZMROZ5nG3t3VbqB64WHc7TenV5TuQdrrL6WfAWNtshFqaTodU0QZHUqv+3qXx1ZQeiekW8ZeraqacV82w2pcELq8f5/CkG/h96aSN0QrmqRjGzap2w4WYNQ2tt2e/iZMbwKUM/8lULKfHFHurqaecmYCkyI72R4CVKfMxHq3Kt2dVowQKarOdFPiAooweRTSUS/kSwwEGXfOAiHAIXDc2ZV7GSE/bqsw+F88jOWY=;cPWh7PCsPK023yLtMO392A=="
+secured: "d9kgAcUBg6rd3mPmdlBCmEEcMuNpiQoQPX4+FiowcZ+VFM/PS2+/VUoVtTek+ogGWhbgcGqHW6oz6jM5kFvZ/2sjPrngC+cyLah9ArCYVNNuVCvzWJEyLu/VS8IzvGDtRjk6GtEFn9sBMHWCwN1fga1b+pThflVvOrQNM6od00Dj3iY83rD9VczAlB706yxaGLHGiceW0V96tZ0mUqVuEPWJIyTyq35sjw2/RtpqyeRn8x//2SXAccH1ii2Mg8F7MhjVTUmtpy88tb6I/b5Suv3Eb4CfNETlmWT0n+j3ZpRjI0D5Jdb834yJgRm5VFf13weFM561TozI0BZLr7wR2PNQq9lehg1W3tQOoM7RbodRdiyaTubt4Bix+K8d55FNh9eXMT7m79PcH9W6g3BqjNSCEH+76vC5zNKxXnlAooM=;Kmy1TNquhW4rbVwQHv5l4A=="
 ---
 
