@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
-excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
-publishedDateTime: 2021-04-20T18:03:00Z
-originalUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
-webUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
+title: "Amdocs to Accelerate M1’s Digital Transformation on Microsoft Azure"
+excerpt: "Amdocs (NASDAQ: DOX), a leading provider of software and services to communications and media companies, today announced that M1 Limited (M1), a leading digital network operator in Singapore, has selected its Openet charging and data management products to accelerate the digital transformation programmes on Microsoft Azure."
+publishedDateTime: 2021-04-22T10:02:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-680181c68347095119ffbc693dcadfb6"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-680181c68347095119ffbc693dcadfb6"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
-    width: 960
-    height: 542
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -81,20 +81,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Amdocs to Accelerate M1’s Digital Transformation on Microsoft Azure"
-    excerpt: "Amdocs (NASDAQ: DOX), a leading provider of software and services to communications and media companies, today announced that M1 Limited (M1), a leading digital network operator in Singapore, has selected its Openet charging and data management products to accelerate the digital transformation programmes on Microsoft Azure."
-    publishedDateTime: 2021-04-22T10:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-680181c68347095119ffbc693dcadfb6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Lilbits: Android 12, Pixel 5a 5G, Microsoft Cloud PC, and the controversial Eve V"
     excerpt: "Google confirmed this month that it has a Pixel 5a coming later this year, although it may only be available in select markets. But the company hasn’t provided any real details about the phone. Now that the company has released Android 12 Developer Preview 3 though,"
     publishedDateTime: 2021-04-21T21:04:00Z
@@ -124,6 +110,20 @@ related:
       - url: "https://assets1.ignimgs.com/2021/04/20/sale-149017-article-image-1618943765425.jpeg?width=1280"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
+    excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
+    publishedDateTime: 2021-04-20T18:03:00Z
+    webUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
+        width: 960
+        height: 542
         isCached: true
   - title: "Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour"
     excerpt: "Microsoft is offering end-users the opportunity to take a virtual tour of a typical Azure datacentre so they can get a behind-the-scenes look at the technology powering the public cloud services ..."
@@ -160,6 +160,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "Izmr19SG43gHmRt7Qh9NEUzR5h0dKtMDcO3uFxXBES0jADG9HZzkyJk7nyu4LLF4KZWFGOgqLNqeETz/JkWGD9he8iyG7O+mYhCUKWpIxVYFHhGavjfgtrGOg5Msrbne8NBstmwc8Rxq0kkSk0DApu18BIyX5aqH5dE6soZFrV0l+d5RTvYCMZf+svHyurEHq2Uotrb4AsJiPf5zWgRgynHP8yZDSjBLCemTmHa8VKOuCgmMiKQCQloq9zlY23jSfNQQJKhMIOAqky8E/ADGwuhZeLuWTkeXnueozOqY8NOZ74LThs6gizbwJcDEqLLiumz/Ed5YZcR7QnUOHmHiQyj1NuAjRjrmO6/UeGkIRRLg7mNLOL6rKRil85j2KHsOuF6DiER6Np8e/XX7TVbNODWDgxKHzpzTxvwXPv/uelztm+5IWAF47kKnj7Cf/ukhCcLdZBaULSWWxFIS8xB9j0kFritEVr467dyEvHwHUB1RyX3pZ7UGkMkKSct+7wDFDkGT5DzwMETSmQex42dLFQ==;vaJGtU7fMU+y5yfP2ap4eg=="
+secured: "PmJTGkSeTfe8hhj2Nck8CRJjsHFKS607DBsguagdttvydJ3z9ljZrqDXLQyAEfdjvn0YpvIlscUHE5CgCj2Tz5pLNkOYwXO4i1oVvqKu2QuFfp1i32w4D7+t1ela3yewblEvMywBIgKZ1ZjtTNiAGhpnkxgkYMsvOoXKmslffei6T0XRNQoGFiygK4hiLjQzGdxn9+qT+eFut524vAX4GBD5YR7w21046FlfOniCGQ1miZcG979fmLrOjepRh7z9tDD3/VeUXIHAFmVtlHmakTkAeGEFEkkxsXCbUdbzMdE6odk+fsACcYaWoj/w0FMiuP4kRQLt6AOY6V+T7HPdKK4M/tstG2+UvWksmv6WZE8=;/Gh/Vrg4ogW6fUboFzqAuQ=="
 ---
 

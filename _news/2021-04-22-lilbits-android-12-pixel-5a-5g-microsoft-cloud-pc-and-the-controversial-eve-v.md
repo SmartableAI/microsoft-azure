@@ -83,6 +83,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Amdocs to Accelerate M1’s Digital Transformation on Microsoft Azure"
+    excerpt: "Amdocs (NASDAQ: DOX), a leading provider of software and services to communications and media companies, today announced that M1 Limited (M1), a leading digital network operator in Singapore, has selected its Openet charging and data management products to accelerate the digital transformation programmes on Microsoft Azure."
+    publishedDateTime: 2021-04-22T10:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-680181c68347095119ffbc693dcadfb6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
     excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
     publishedDateTime: 2021-04-20T18:36:00Z

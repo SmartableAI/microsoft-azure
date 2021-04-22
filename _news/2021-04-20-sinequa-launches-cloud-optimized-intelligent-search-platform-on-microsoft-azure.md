@@ -75,6 +75,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Amdocs to Accelerate M1’s Digital Transformation on Microsoft Azure"
+    excerpt: "Amdocs (NASDAQ: DOX), a leading provider of software and services to communications and media companies, today announced that M1 Limited (M1), a leading digital network operator in Singapore, has selected its Openet charging and data management products to accelerate the digital transformation programmes on Microsoft Azure."
+    publishedDateTime: 2021-04-22T10:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-680181c68347095119ffbc693dcadfb6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Lilbits: Android 12, Pixel 5a 5G, Microsoft Cloud PC, and the controversial Eve V"
     excerpt: "Google confirmed this month that it has a Pixel 5a coming later this year, although it may only be available in select markets. But the company hasn’t provided any real details about the phone. Now that the company has released Android 12 Developer Preview 3 though,"
     publishedDateTime: 2021-04-21T21:04:00Z
