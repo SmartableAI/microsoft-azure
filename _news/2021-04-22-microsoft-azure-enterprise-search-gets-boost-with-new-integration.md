@@ -1,35 +1,46 @@
 ---
 category: news
-title: "Microsoft Cloud PC launch could just be months away"
-excerpt: "The idea of being able to use your computer may appeal to some, especially those who don’t like being tethered to their desks or even homes for long periods of time. So far, however, the"
-publishedDateTime: 2021-04-21T00:31:00Z
-originalUrl: "https://www.slashgear.com/microsoft-cloud-pc-launch-could-just-be-months-away-20669714/"
-webUrl: "https://www.slashgear.com/microsoft-cloud-pc-launch-could-just-be-months-away-20669714/"
-ampWebUrl: "https://www.slashgear.com/microsoft-cloud-pc-launch-could-just-be-months-away-20669714/amp/"
-cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-cloud-pc-launch-could-just-be-months-away-20669714/amp/"
+title: "Microsoft Azure Enterprise Search Gets Boost With New Integration"
+excerpt: "Paris-based Sinequa has integrated its intelligent enterprise search tool with Microsoft Azure to improve how large-sized companies find data across multiple sources."
+publishedDateTime: 2021-04-22T13:15:00Z
+originalUrl: "https://www.crn.com/news/cloud/microsoft-azure-enterprise-search-gets-boost-with-new-integration"
+webUrl: "https://www.crn.com/news/cloud/microsoft-azure-enterprise-search-gets-boost-with-new-integration"
 type: article
-quality: 82
-heat: 304
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: SlashGear
-  domain: slashgear.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/slashgear.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
+  - Integration
 
 images:
-  - url: "https://cdn.slashgear.com/wp-content/uploads/2021/04/benefit-1.jpg"
-    width: 1280
-    height: 800
+  - url: "https://www.crn.com/resources/0268-11f04f866ca3-361fd3e7c046-1000/microsoft-azure-1.jpg"
+    width: 607
+    height: 456
     isCached: true
 
 related:
+  - title: "Microsoft Cloud PC launch could just be months away"
+    excerpt: "The idea of being able to use your computer may appeal to some, especially those who don’t like being tethered to their desks or even homes for long periods of time. So far, however, the"
+    publishedDateTime: 2021-04-21T00:31:00Z
+    webUrl: "https://www.slashgear.com/microsoft-cloud-pc-launch-could-just-be-months-away-20669714/"
+    ampWebUrl: "https://www.slashgear.com/microsoft-cloud-pc-launch-could-just-be-months-away-20669714/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-cloud-pc-launch-could-just-be-months-away-20669714/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 82
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/04/benefit-1.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "FileCoin: Decentralized Cloud Storage Competitor To AWS, Microsoft Azure, And Google Cloud"
     excerpt: "I provide three valuation metrics for FileCoin which illustrate that it could see an intense growth period comparable to Bitcoin. Despite its large recent run-up, the Coin looks inexpensive."
     publishedDateTime: 2021-04-17T06:29:00Z
@@ -45,20 +56,6 @@ related:
       - url: "https://static.seekingalpha.com/uploads/2021/1/18/510561-1610992717787594_origin.png"
         width: 704
         height: 552
-        isCached: true
-  - title: "Microsoft Azure Enterprise Search Gets Boost With New Integration"
-    excerpt: "Paris-based Sinequa has integrated its intelligent enterprise search tool with Microsoft Azure to improve how large-sized companies find data across multiple sources."
-    publishedDateTime: 2021-04-22T13:15:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-azure-enterprise-search-gets-boost-with-new-integration"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0268-11f04f866ca3-361fd3e7c046-1000/microsoft-azure-1.jpg"
-        width: 607
-        height: 456
         isCached: true
   - title: "Public preview of Microsoft Build of OpenJDK"
     excerpt: "The Microsoft Build of OpenJDK is a new Long-Term Support distribution of OpenJDK for your Java workloads, in the cloud and everywhere else."
@@ -178,6 +175,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "ym9C/VondazDowpc21G1tEMqx5qaQeEXC3lPv5yC23BkCYB6EAIekna942/pIOZcPKuCBu8HwoDs2zNjRx82FGQC+50dD3wbZdfAIIoKsZyJTRIL7fNM1NfExw++kc4n4SlUuGUDTG9cwt1m4/ArL4SzEFG7fJe9HqV1y8tio4q202hcqzi6xeW2y8kL9UIMq1JsBic/P+dXuBszToxYdK4sQRJLvXLJUx94HcoSxud7Lpfr5xsKEmgzgPyyzHFQraJEnuq8gBRup94goSQsiRetu+J4LGQVJADKnASkEuOHAUljym6Q4NrDYK65pL4GDO04vwvm47dl1yTGkSu7hZeHeNW958l0RmOZLROnIcLkJcmW1f0KDt1Qhbgxsz80YE6aRa8XR2wK0KAZUZneYwAoPslQ1K3MgQkrflU6EY49lOOhenlqmS9lWpmh1vvDxjAT4AE/uBTMtbJmgfLFy7D9iZUdiAQb+E0KqEAvXNJ3LfMrNqJqilSUG7ILPBIbzfIJ7gjj5NmjWM6PPuvhNQ==;aKY8aHh0mzySOA4e/u7hBw=="
+secured: "Z5xGqiAXf1wg8og0Vi+G0zle0O0EfBbGsVmye4Qtj8WL9EHJrCz/gWUAo6Db3GCrGP+QAKqcGyNoDgDBHKhlYqyJmn7JQn6YdobiF9Az+p17iB/Yr3tEn7/sLtg0QLc72myv93Lvkqe9o8LrYNxoww2yU8M/PCWS5GYWJUo+r/AQAO0OdSQcLBisNmbi5A6+HA2+c8u8Kxy1DjZzmTMKtI/ZkRMRkEeHq+/r7EC1qlWbI+wjP8wL1UI5f3yivkuQZ8QW5HiwPZXFkVndZMgPCTquMqcCKjDrKiIXQX2C1qeZj4xkKFt01tJx04n1J1vAYFT+dnUFQe0VGoC5+0ti+zakcN8LNz1OanvjqO7g/XE=;iQQOSqkF0sAJYqe+y61D5Q=="
 ---
 

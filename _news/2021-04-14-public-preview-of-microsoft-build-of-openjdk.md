@@ -54,6 +54,20 @@ related:
         width: 704
         height: 552
         isCached: true
+  - title: "Microsoft Azure Enterprise Search Gets Boost With New Integration"
+    excerpt: "Paris-based Sinequa has integrated its intelligent enterprise search tool with Microsoft Azure to improve how large-sized companies find data across multiple sources."
+    publishedDateTime: 2021-04-22T13:15:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-azure-enterprise-search-gets-boost-with-new-integration"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0268-11f04f866ca3-361fd3e7c046-1000/microsoft-azure-1.jpg"
+        width: 607
+        height: 456
+        isCached: true
   - title: "Microsoft Cloud PC details leaked before its 2021 release"
     excerpt: "Microsoft Cloud PC is yet to be released somewhere in Spring 2021, but a series of previously unknown details about it have recently surfaced."
     publishedDateTime: 2020-11-05T08:52:00Z

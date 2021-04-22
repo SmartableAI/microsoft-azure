@@ -56,6 +56,20 @@ related:
         width: 704
         height: 552
         isCached: true
+  - title: "Microsoft Azure Enterprise Search Gets Boost With New Integration"
+    excerpt: "Paris-based Sinequa has integrated its intelligent enterprise search tool with Microsoft Azure to improve how large-sized companies find data across multiple sources."
+    publishedDateTime: 2021-04-22T13:15:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-azure-enterprise-search-gets-boost-with-new-integration"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0268-11f04f866ca3-361fd3e7c046-1000/microsoft-azure-1.jpg"
+        width: 607
+        height: 456
+        isCached: true
   - title: "Public preview of Microsoft Build of OpenJDK"
     excerpt: "The Microsoft Build of OpenJDK is a new Long-Term Support distribution of OpenJDK for your Java workloads, in the cloud and everywhere else."
     publishedDateTime: 2021-04-14T16:01:32Z
