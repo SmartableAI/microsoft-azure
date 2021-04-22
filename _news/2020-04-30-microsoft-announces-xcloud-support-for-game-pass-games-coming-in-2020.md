@@ -124,6 +124,15 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Microsoft brings Azure supercomputing to UK Met Office"
+    excerpt: "The UK Meteorological Office (Met Office) is working with Microsoft to deliver advanced supercomputing capabilities for weather and climate research, ensuring the continuation of the Met Office’s international leadership in this area."
+    publishedDateTime: 2021-04-22T01:00:02Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-brings-azure-supercomputing-to-uk-met-office/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Microsoft explains what they are doing to keep Azure up and running during the COVID-19 crisis"
     excerpt: "Microsoft says their efforts focus on two key areas of action: Help Microsoft customers address their most urgent needs. Ensure Microsoft Azure continues to scale to meet new demand. Helping Microsoft customers address their most urgent needs Microsoft notes use cases such as Remote work, distance learning, real-time insights, and analytics ..."
     publishedDateTime: 2020-04-24T20:03:00Z
