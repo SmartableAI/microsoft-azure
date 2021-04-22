@@ -75,6 +75,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Lilbits: Android 12, Pixel 5a 5G, Microsoft Cloud PC, and the controversial Eve V"
+    excerpt: "Google confirmed this month that it has a Pixel 5a coming later this year, although it may only be available in select markets. But the company hasn’t provided any real details about the phone. Now that the company has released Android 12 Developer Preview 3 though,"
+    publishedDateTime: 2021-04-21T21:04:00Z
+    webUrl: "https://liliputing.com/2021/04/lilbits-android-12-pixel-5a-5g-microsoft-cloud-pc-and-the-controversial-eve-v.html"
+    ampWebUrl: "https://liliputing.com/2021/04/lilbits-android-12-pixel-5a-5g-microsoft-cloud-pc-and-the-controversial-eve-v.html?amp"
+    cdnAmpWebUrl: "https://liliputing-com.cdn.ampproject.org/c/s/liliputing.com/2021/04/lilbits-android-12-pixel-5a-5g-microsoft-cloud-pc-and-the-controversial-eve-v.html?amp"
+    type: article
+    provider:
+      name: Liliputing
+      domain: liliputing.com
+    quality: 37
+    images:
+      - url: "https://liliputing.com/wp-content/uploads/2021/04/eve-v.jpg"
+        width: 694
+        height: 500
+        isCached: true
   - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
     excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
     publishedDateTime: 2021-04-20T18:36:00Z
@@ -103,6 +119,17 @@ related:
         width: 960
         height: 542
         isCached: true
+  - title: "Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour"
+    excerpt: "Microsoft is offering end-users the opportunity to take a virtual tour of a typical Azure datacentre so they can get a behind-the-scenes look at the technology powering the public cloud services ..."
+    publishedDateTime: 2021-04-20T14:14:00Z
+    webUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour"
+    ampWebUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 27
 
 secured: "KjlsV3BC0HMQM80K9IuVFLJSXQepNKX0qM5M1dLvnZIpPp0N1SsdWddnHzQjvXxFx0qz9BzIJH8+2UDKTzFLs5Ru+WX9/bRIt19Gv7sW37nMdmFopLIGwyqJEV8oLP7sue5g8Q9pDUtMxhMzgzuRkA+OADlONiCgUKkWzBAPMSfSdJsIJ0XL6vXsdC5jhlvnEtrtYUfMB2CgGuk5W/Rj/uytwynZEU7mVV+1YbLUW4DVJrE+b1erJ9zIoG7Cww03vrloz1NprkB+RbP1iku1Wqu2viZ4Mdeo1wQLe/CIirXHpQlV0uYvqZagZ8jl610iYtjyZJKa8RKyGbnjCLZWZmbrdCVLvfX+1mi57P+37fk=;rQECiptz+iIOSGL86ZuGTg=="
 ---

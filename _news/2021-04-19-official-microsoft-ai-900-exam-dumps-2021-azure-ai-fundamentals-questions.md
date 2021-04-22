@@ -7,7 +7,7 @@ originalUrl: "https://www.madinamerica.com/author/download-real-ai-900-exam-dump
 webUrl: "https://www.madinamerica.com/author/download-real-ai-900-exam-dumps/"
 type: article
 quality: 52
-heat: 113
+heat: 112
 published: true
 
 provider:

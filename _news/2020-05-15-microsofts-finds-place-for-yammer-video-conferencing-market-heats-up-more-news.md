@@ -1333,6 +1333,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Alkira partners with Microsoft Azure"
+    excerpt: "Microsoft Azure customers can access Alkira's solution in Azure, or in a multi-cloud network alongside other best-of-breed products in the Azure Marketplace. Benefitting from the underlying power ..."
+    publishedDateTime: 2021-04-14T21:09:00Z
+    webUrl: "https://www.lightreading.com/service-provider-cloud/alkira-partners-with-microsoft-azure/d/d-id/768768"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 37
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "RateLinx completes migration to Microsoft Azure to better serve customers"
     excerpt: "MADISON, WI (May 21, 2020) – RateLinx announced today the completion of the migration to the Microsoft Azure cloud computing platform. The migration will enable more capabilities within the RateLinx suite of cloud-based logistics solutions, in addition ..."
     publishedDateTime: 2020-05-21T23:34:00Z

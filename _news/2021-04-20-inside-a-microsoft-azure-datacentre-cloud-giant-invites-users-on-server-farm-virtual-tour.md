@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Public preview of Microsoft Build of OpenJDK"
-excerpt: "The Microsoft Build of OpenJDK is a new Long-Term Support distribution of OpenJDK for your Java workloads, in the cloud and everywhere else."
-publishedDateTime: 2021-04-14T16:01:32Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-microsoft-build-of-openjdk/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-microsoft-build-of-openjdk/"
+title: "Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour"
+excerpt: "Microsoft is offering end-users the opportunity to take a virtual tour of a typical Azure datacentre so they can get a behind-the-scenes look at the technology powering the public cloud services ..."
+publishedDateTime: 2021-04-20T14:14:00Z
+originalUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour"
+webUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour"
+ampWebUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
+cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
 type: article
-quality: 52
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computer Weekly
+  domain: computerweekly.com
 
 topics:
   - Azure
@@ -54,6 +52,15 @@ related:
         width: 704
         height: 552
         isCached: true
+  - title: "Public preview of Microsoft Build of OpenJDK"
+    excerpt: "The Microsoft Build of OpenJDK is a new Long-Term Support distribution of OpenJDK for your Java workloads, in the cloud and everywhere else."
+    publishedDateTime: 2021-04-14T16:01:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-microsoft-build-of-openjdk/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Microsoft Cloud PC details leaked before its 2021 release"
     excerpt: "Microsoft Cloud PC is yet to be released somewhere in Spring 2021, but a series of previously unknown details about it have recently surfaced."
     publishedDateTime: 2020-11-05T08:52:00Z
@@ -114,17 +121,6 @@ related:
         width: 960
         height: 542
         isCached: true
-  - title: "Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour"
-    excerpt: "Microsoft is offering end-users the opportunity to take a virtual tour of a typical Azure datacentre so they can get a behind-the-scenes look at the technology powering the public cloud services ..."
-    publishedDateTime: 2021-04-20T14:14:00Z
-    webUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour"
-    ampWebUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 27
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
     publishedDateTime: 2021-04-20T16:57:00Z
@@ -135,6 +131,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "a+1/ScHq8RucqXIfGHC3810AB+6OMqUpX//RQBM/0bLX86GCNxSmK3gQW/729Xd839NEd2CAykhhApCu+U0XHd3o73yhEr25zcg5x8qmlsAczMqBTDL3by6J1qpLeIk9tqOdzejV0WD81W/QOG2wCq8cudAQPZtFexdr7/taIUWY35rVsQjPBuxollFYdF5cW6H2OendMbqsE9P304IUGlyo+57+pzRVewrhzhFU+uopFztWsI2Cy32rLSJ7uvO9L8NZYO3MAJkHBKbTI7Zi/OsM89mk3Y+KYdtrXplhkCVrwL9vUS1QGYHXXceed+0pq+8KizpkpEv56AZzsyTHIQuvWr0JEDGx0NgovdZxIQQ=;/JmXjkW/X0tv+lU9UFnTZQ=="
+secured: "fT3A++7g34p0Pu6ZyvqIKoLdxJkPLJE7amrNOPGLLvcoRzWq1fyMHOy7HhjXJ+IN3E7OxaK1x+84mPQG6LM5n19G+09TMzUb3ehYEkPpFeH33C6P7IQjytEHhAd7gKDEI0GH6sEywkgUiKYc7zAohbLdikCEzcs3p69wpoOI2JDU87MvYnCDrF57zCkHJ00msWO3Y8yNn2VnMWwXS/xfk3s1COJPe1/XydCIBAyJ92fwib9kAznqvZswWgrREtA3+HRT1A8/Cr2bCTAyxvfoI7qXQ5x7k3KD1FSindI2i5qadMMgSgDj3jiN39JEjtKfQs6UMl2iTP7kk3dTr3o9ZDqnKEjun9ZBSDzAq3OL4fM=;2+rgsnJUcwUbC2UFzRqajA=="
 ---
 

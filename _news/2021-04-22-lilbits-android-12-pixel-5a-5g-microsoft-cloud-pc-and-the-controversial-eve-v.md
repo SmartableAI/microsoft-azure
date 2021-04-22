@@ -1,25 +1,29 @@
 ---
 category: news
-title: "Public preview of Microsoft Build of OpenJDK"
-excerpt: "The Microsoft Build of OpenJDK is a new Long-Term Support distribution of OpenJDK for your Java workloads, in the cloud and everywhere else."
-publishedDateTime: 2021-04-14T16:01:32Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-microsoft-build-of-openjdk/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-microsoft-build-of-openjdk/"
+title: "Lilbits: Android 12, Pixel 5a 5G, Microsoft Cloud PC, and the controversial Eve V"
+excerpt: "Google confirmed this month that it has a Pixel 5a coming later this year, although it may only be available in select markets. But the company hasn’t provided any real details about the phone. Now that the company has released Android 12 Developer Preview 3 though,"
+publishedDateTime: 2021-04-21T21:04:00Z
+originalUrl: "https://liliputing.com/2021/04/lilbits-android-12-pixel-5a-5g-microsoft-cloud-pc-and-the-controversial-eve-v.html"
+webUrl: "https://liliputing.com/2021/04/lilbits-android-12-pixel-5a-5g-microsoft-cloud-pc-and-the-controversial-eve-v.html"
+ampWebUrl: "https://liliputing.com/2021/04/lilbits-android-12-pixel-5a-5g-microsoft-cloud-pc-and-the-controversial-eve-v.html?amp"
+cdnAmpWebUrl: "https://liliputing-com.cdn.ampproject.org/c/s/liliputing.com/2021/04/lilbits-android-12-pixel-5a-5g-microsoft-cloud-pc-and-the-controversial-eve-v.html?amp"
 type: article
-quality: 52
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Liliputing
+  domain: liliputing.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://liliputing.com/wp-content/uploads/2021/04/eve-v.jpg"
+    width: 694
+    height: 500
+    isCached: true
 
 related:
   - title: "Microsoft Cloud PC launch could just be months away"
@@ -54,6 +58,15 @@ related:
         width: 704
         height: 552
         isCached: true
+  - title: "Public preview of Microsoft Build of OpenJDK"
+    excerpt: "The Microsoft Build of OpenJDK is a new Long-Term Support distribution of OpenJDK for your Java workloads, in the cloud and everywhere else."
+    publishedDateTime: 2021-04-14T16:01:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-microsoft-build-of-openjdk/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Microsoft Cloud PC details leaked before its 2021 release"
     excerpt: "Microsoft Cloud PC is yet to be released somewhere in Spring 2021, but a series of previously unknown details about it have recently surfaced."
     publishedDateTime: 2020-11-05T08:52:00Z
@@ -69,22 +82,6 @@ related:
       - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/11/Microsoft-Cloud-PC.jpg"
         width: 1920
         height: 1280
-        isCached: true
-  - title: "Lilbits: Android 12, Pixel 5a 5G, Microsoft Cloud PC, and the controversial Eve V"
-    excerpt: "Google confirmed this month that it has a Pixel 5a coming later this year, although it may only be available in select markets. But the company hasn’t provided any real details about the phone. Now that the company has released Android 12 Developer Preview 3 though,"
-    publishedDateTime: 2021-04-21T21:04:00Z
-    webUrl: "https://liliputing.com/2021/04/lilbits-android-12-pixel-5a-5g-microsoft-cloud-pc-and-the-controversial-eve-v.html"
-    ampWebUrl: "https://liliputing.com/2021/04/lilbits-android-12-pixel-5a-5g-microsoft-cloud-pc-and-the-controversial-eve-v.html?amp"
-    cdnAmpWebUrl: "https://liliputing-com.cdn.ampproject.org/c/s/liliputing.com/2021/04/lilbits-android-12-pixel-5a-5g-microsoft-cloud-pc-and-the-controversial-eve-v.html?amp"
-    type: article
-    provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 37
-    images:
-      - url: "https://liliputing.com/wp-content/uploads/2021/04/eve-v.jpg"
-        width: 694
-        height: 500
         isCached: true
   - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
     excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
@@ -135,6 +132,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "a+1/ScHq8RucqXIfGHC3810AB+6OMqUpX//RQBM/0bLX86GCNxSmK3gQW/729Xd839NEd2CAykhhApCu+U0XHd3o73yhEr25zcg5x8qmlsAczMqBTDL3by6J1qpLeIk9tqOdzejV0WD81W/QOG2wCq8cudAQPZtFexdr7/taIUWY35rVsQjPBuxollFYdF5cW6H2OendMbqsE9P304IUGlyo+57+pzRVewrhzhFU+uopFztWsI2Cy32rLSJ7uvO9L8NZYO3MAJkHBKbTI7Zi/OsM89mk3Y+KYdtrXplhkCVrwL9vUS1QGYHXXceed+0pq+8KizpkpEv56AZzsyTHIQuvWr0JEDGx0NgovdZxIQQ=;/JmXjkW/X0tv+lU9UFnTZQ=="
+secured: "B2b8hehbuP8BbhnEThb4sBgVTDda5INrtyaMzCjX4/mrI3CvpUp/XyCaNBMxA7eKf0gspr8a0YE8KA1s1Tgy2HOe1jy9K3Fap41cOG0kEfdFt+bvqHkswdD9nXa1krInq983eCmtE5ao40MbktoRWdM3U5uNkKAS/siuTy8OTU4QgHY67hUe/k/GkVHAKeSFO66OBQwIxmKD5xXPFb8hsCYCOh94uOkjvakyXAT8q4ZCcE5y3qAzxjkuemL9XIbUfs4BdjrJ8cRMqHYjShwdzGOURhgnE1ruwNbXiCqxQFwhFaVrfJtOTx0uwUr7/x7S7DGDEjn7DdXrADv17RApJjLM1QP7uLQ9GCpPURbz4R0=;gG+HedBjKHz53IByHbhXug=="
 ---
 

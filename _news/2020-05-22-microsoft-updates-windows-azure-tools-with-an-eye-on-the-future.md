@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/microsoft-updates-windows-azure-tools-wit
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=true"
 type: article
 quality: 97
-heat: 2717
+heat: 2737
 published: true
 
 provider:
@@ -1320,6 +1320,20 @@ related:
       - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Alkira partners with Microsoft Azure"
+    excerpt: "Microsoft Azure customers can access Alkira's solution in Azure, or in a multi-cloud network alongside other best-of-breed products in the Azure Marketplace. Benefitting from the underlying power ..."
+    publishedDateTime: 2021-04-14T21:09:00Z
+    webUrl: "https://www.lightreading.com/service-provider-cloud/alkira-partners-with-microsoft-azure/d/d-id/768768"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 37
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
         isCached: true
   - title: "Microsoft's Finds Place For Yammer, Video Conferencing Market Heats Up & More News"
     excerpt: "When Microsoft introduced Teams in March 2017, creating another communication tool at the heart of Office 365 running in tandem with Yammer, it really put a question mark over the role and purpose of the app."
