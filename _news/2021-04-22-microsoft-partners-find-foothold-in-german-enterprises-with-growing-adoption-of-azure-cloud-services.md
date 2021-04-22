@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
-publishedDateTime: 2021-04-20T16:57:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+title: "Microsoft Partners Find Foothold in German Enterprises With Growing Adoption of Azure, Cloud Services"
+excerpt: "ISG Provider Lens™ Microsoft Ecosystem report for Germany finds more companies are looking to the cloud as provider offerings and approaches mature. German enterprises"
+publishedDateTime: 2021-04-22T08:00:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/health-technology-business-europe-coronavirus-c1376dd623664a6db65065fe47fa848c"
+webUrl: "https://apnews.com/press-release/business-wire/health-technology-business-europe-coronavirus-c1376dd623664a6db65065fe47fa848c"
 type: article
-quality: 13
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft Cloud PC launch could just be months away"
@@ -130,21 +136,16 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 27
-  - title: "Microsoft Partners Find Foothold in German Enterprises With Growing Adoption of Azure, Cloud Services"
-    excerpt: "ISG Provider Lens™ Microsoft Ecosystem report for Germany finds more companies are looking to the cloud as provider offerings and approaches mature. German enterprises"
-    publishedDateTime: 2021-04-22T08:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/health-technology-business-europe-coronavirus-c1376dd623664a6db65065fe47fa848c"
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
+    publishedDateTime: 2021-04-20T16:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 13
 
-secured: "KjlsV3BC0HMQM80K9IuVFLJSXQepNKX0qM5M1dLvnZIpPp0N1SsdWddnHzQjvXxFx0qz9BzIJH8+2UDKTzFLs5Ru+WX9/bRIt19Gv7sW37nMdmFopLIGwyqJEV8oLP7sue5g8Q9pDUtMxhMzgzuRkA+OADlONiCgUKkWzBAPMSfSdJsIJ0XL6vXsdC5jhlvnEtrtYUfMB2CgGuk5W/Rj/uytwynZEU7mVV+1YbLUW4DVJrE+b1erJ9zIoG7Cww03vrloz1NprkB+RbP1iku1Wqu2viZ4Mdeo1wQLe/CIirXHpQlV0uYvqZagZ8jl610iYtjyZJKa8RKyGbnjCLZWZmbrdCVLvfX+1mi57P+37fk=;rQECiptz+iIOSGL86ZuGTg=="
+secured: "OrW5frX8EHUoXD+GIN6riHmQfNsTYmSSPTQxNsgkBXAPCV+xkCPX13BXoyJkyXC8QTmWb4G4++oAWZE9unvZOX7XO5FIrBFTVqS3+Pcovc+Gq7DieRL6zddY/e3/D2IhUSHMXyBoIv3kyNhamILrcaPYXHUz+sjoUstXiecWJgexYv+0NPNlqlllLM6usbdIxwwviKnoVklPMLXmUjfKlATnp1zA8dBGFFEi15hBn3wfpaMv2v3Z5gUz2z5BY1r7CSeKeIkIN93lyNYEc+4NOQ4mSMVcAfnpVKPAl7+ZNKS9vjiHxuQjD8tW6LlSiWgCNjDxCY8LiAmka7dSYpK/Sx4Kv8HPmNU4gXt/UCNvGag=;JiUzWu7mr3Hy9joL4RW1VQ=="
 ---
 

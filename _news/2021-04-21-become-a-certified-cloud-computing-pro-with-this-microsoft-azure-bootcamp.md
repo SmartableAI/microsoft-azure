@@ -122,6 +122,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 27
+  - title: "Microsoft Partners Find Foothold in German Enterprises With Growing Adoption of Azure, Cloud Services"
+    excerpt: "ISG Provider Lens™ Microsoft Ecosystem report for Germany finds more companies are looking to the cloud as provider offerings and approaches mature. German enterprises"
+    publishedDateTime: 2021-04-22T08:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/health-technology-business-europe-coronavirus-c1376dd623664a6db65065fe47fa848c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
     publishedDateTime: 2021-04-20T16:57:00Z
