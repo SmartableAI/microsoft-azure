@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/microsoft-cloud-pc-launch-could-just-be-mo
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-cloud-pc-launch-could-just-be-months-away-20669714/amp/"
 type: article
 quality: 82
-heat: 242
+heat: 243
 published: true
 
 provider:

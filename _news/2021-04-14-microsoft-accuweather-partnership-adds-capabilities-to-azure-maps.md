@@ -76,6 +76,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Sysinno Introduces First Available Air Quality Monitor Running on Microsoft Azure Sphere"
+    excerpt: "Sysinno Technology Inc., an Innodisk shareholding company, is excited to announce that their iAeris line of indoor air quality detectors will run on Microsoft Azure's Sphere, making them at this time the world's first and only production-stage air quality monitor to take advantage of the possibilities of Microsoft Azure."
+    publishedDateTime: 2021-04-22T00:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-1030330821"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Latest Microsoft Azure Security Engineer Associate Microsoft AZ- 500 Exam Dumps (2021)"
     excerpt: "Prepare your AZ-500 exam questions with Dumps2GO Microsoft AZ-500 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AZ-500 test because of your Microsoft Azure Security Engineer Associate AZ-500 certification exam fear?"
     publishedDateTime: 2021-04-17T22:56:00Z
@@ -184,20 +193,6 @@ related:
       - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
         width: 300
         height: 285
-        isCached: true
-  - title: "Sysinno Introduces First Available Air Quality Monitor Running on Microsoft Azure Sphere"
-    excerpt: "Sysinno Technology Inc., an Innodisk shareholding company, is excited to announce that their iAeris line of indoor air quality detectors"
-    publishedDateTime: 2021-04-22T00:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-301273493.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/1491653/PR_Sysinno.jpg?p=facebook"
-        width: 797
-        height: 419
         isCached: true
   - title: "DP-200 Dumps PDF (2021) 100% Accurate Microsoft Azure Data Engineer Associate Exam Questions"
     excerpt: "Pass you Microsoft DP-200 exam in just one go with DumpsArchive DP-200 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
