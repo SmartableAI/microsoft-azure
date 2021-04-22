@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 11194,
-            "average": 4.7248526
+            "count": 11201,
+            "average": 4.724935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -80,8 +80,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 9912,
-            "average": 4.7604923
+            "count": 9919,
+            "average": 4.760157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -125,8 +125,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 7941,
-            "average": 4.7623725
+            "count": 7943,
+            "average": 4.762432
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -168,8 +168,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 8653,
-            "average": 4.6375823
+            "count": 8660,
+            "average": 4.637529
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -237,8 +237,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 9912,
-        "average": 4.7604923
+        "count": 9919,
+        "average": 4.760157
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -316,184 +316,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-architect-modern-applications-in-azure.md",
-      "title": "Architect modern applications in Azure",
-      "excerpt": "Learn how to build modern applications using PaaS services for applications, caching, containers and Kubernetes in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-modern-applications-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-modern-applications-in-azure/",
-      "length": "PT6H27M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-containers.md",
-          "title": "Build a containerized web application with Docker",
-          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-containers/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
-          "length": "PT57M",
-          "ratings": {
-            "count": 3290,
-            "average": 4.6212764
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 133,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
-          "title": "Run Docker containers with Azure Container Instances",
-          "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 6610,
-            "average": 4.7151284
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 55,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-container-registry.md",
-          "title": "Build and store container images with Azure Container Registry",
-          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-container-registry/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
-          "length": "PT49M",
-          "ratings": {
-            "count": 2650,
-            "average": 4.6252832
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
-          "title": "Host a web application with Azure App service",
-          "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
-          "length": "PT58M",
-          "ratings": {
-            "count": 6205,
-            "average": 4.624819
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 59,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 70,
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy.md",
       "title": "AZ-400: Develop an instrumentation strategy",
       "excerpt": "Develop an effective instrumentation strategy through logging, telemetry, and monitoring and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
@@ -524,8 +346,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2314,
-            "average": 4.6940365
+            "count": 2315,
+            "average": 4.6941686
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -567,8 +389,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41905,
-            "average": 4.7179813
+            "count": 41908,
+            "average": 4.7179775
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -602,8 +424,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 700,
-            "average": 4.627143
+            "count": 701,
+            "average": 4.6276746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -646,8 +468,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 873,
-            "average": 4.736541
+            "count": 874,
+            "average": 4.736842
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -954,8 +776,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 2786,
-            "average": 4.6945443
+            "count": 2788,
+            "average": 4.694046
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -997,8 +819,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 5088,
-            "average": 4.7374215
+            "count": 5090,
+            "average": 4.737328
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1173,8 +995,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 7891,
-            "average": 4.7628946
+            "count": 7895,
+            "average": 4.763015
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1391,8 +1213,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 5641,
-            "average": 4.705549
+            "count": 5647,
+            "average": 4.7053304
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1522,8 +1344,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
           "length": "PT35M",
           "ratings": {
-            "count": 4906,
-            "average": 4.7421527
+            "count": 4907,
+            "average": 4.742205
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1585,6 +1407,184 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-architect-modern-applications-in-azure.md",
+      "title": "Architect modern applications in Azure",
+      "excerpt": "Learn how to build modern applications using PaaS services for applications, caching, containers and Kubernetes in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-modern-applications-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-modern-applications-in-azure/",
+      "length": "PT6H27M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-containers.md",
+          "title": "Build a containerized web application with Docker",
+          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-containers/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
+          "length": "PT57M",
+          "ratings": {
+            "count": 3290,
+            "average": 4.6212764
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
+          "title": "Run Docker containers with Azure Container Instances",
+          "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 6611,
+            "average": 4.715172
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 55,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Containers",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-container-registry.md",
+          "title": "Build and store container images with Azure Container Registry",
+          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-container-registry/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 2650,
+            "average": 4.6252832
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
+          "title": "Host a web application with Azure App service",
+          "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 6206,
+            "average": 4.6248794
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 59,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 66,
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-configure-and-manage-virtual-networks-for-azure-administrators.md",
       "title": "Configure and manage virtual networks for Azure administrators",
       "excerpt": "Learn how to configure and manage key Azure network capabilities.",
@@ -1615,8 +1615,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 8227,
-            "average": 4.6537013
+            "count": 8229,
+            "average": 4.653785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1651,8 +1651,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 3345,
-            "average": 4.7910314
+            "count": 3346,
+            "average": 4.791094
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1694,8 +1694,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 5140,
-            "average": 4.7519455
+            "count": 5141,
+            "average": 4.7519937
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1737,8 +1737,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 8677,
-            "average": 4.665437
+            "count": 8678,
+            "average": 4.665476
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1860,8 +1860,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6205,
-            "average": 4.624819
+            "count": 6206,
+            "average": 4.6248794
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2061,8 +2061,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1441,
-            "average": 4.7362943
+            "count": 1442,
+            "average": 4.736477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2105,8 +2105,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 882,
-            "average": 4.73356
+            "count": 883,
+            "average": 4.733862
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2147,8 +2147,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 873,
-            "average": 4.736541
+            "count": 874,
+            "average": 4.736842
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2289,8 +2289,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6205,
-            "average": 4.624819
+            "count": 6206,
+            "average": 4.6248794
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3313,8 +3313,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "PT58M",
       "ratings": {
-        "count": 6205,
-        "average": 4.624819
+        "count": 6206,
+        "average": 4.6248794
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3350,8 +3350,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 4778,
-        "average": 4.6389704
+        "count": 4779,
+        "average": 4.638209
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3439,8 +3439,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1839,
-        "average": 4.6530724
+        "count": 1840,
+        "average": 4.6532607
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3525,8 +3525,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 873,
-        "average": 4.736541
+        "count": 874,
+        "average": 4.736842
       },
       "provider": {
         "name": "Microsoft Learn",

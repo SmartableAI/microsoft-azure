@@ -4,49 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-transcribe-speech-input-text.md",
-      "title": "Transcribe speech input to text",
-      "excerpt": "Speech to text from the speech service, known as speech recognition, enables real time transcription of audio streams into text. Your applications, tools, or devices can consume, display, and take action on this text as command input.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-transcribe-speech-input-text/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 594,
-        "average": 4.712121
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-upload-data-to-azure-data-lake-storage.md",
       "title": "Upload data to Azure Data Lake Storage",
       "excerpt": "Learn about creating an Azure Data Lake Storage account and uploading data to Data Lake Storage Gen 2 through the Azure Storage Explorer.",
@@ -665,8 +622,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-ai-technology/",
           "length": "PT37M",
           "ratings": {
-            "count": 1902,
-            "average": 4.6866455
+            "count": 1903,
+            "average": 4.6868105
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -708,8 +665,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-approach-to-ai/",
           "length": "PT54M",
           "ratings": {
-            "count": 984,
-            "average": 4.7134147
+            "count": 985,
+            "average": 4.7137055
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -877,8 +834,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/branch-merge-git/",
           "length": "PT50M",
           "ratings": {
-            "count": 528,
-            "average": 4.649621
+            "count": 529,
+            "average": 4.648393
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1194,8 +1151,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 1158,
-        "average": 4.7780657
+        "count": 1159,
+        "average": 4.778257
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1280,8 +1237,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 3388,
-        "average": 4.496163
+        "count": 3389,
+        "average": 4.4963117
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1324,8 +1281,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 1910,
-        "average": 4.2848167
+        "count": 1911,
+        "average": 4.285191
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1405,8 +1362,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
       "length": "PT51M",
       "ratings": {
-        "count": 1441,
-        "average": 4.7362943
+        "count": 1442,
+        "average": 4.736477
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1449,8 +1406,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 873,
-        "average": 4.736541
+        "count": 874,
+        "average": 4.736842
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1548,8 +1505,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
       "length": "PT57M",
       "ratings": {
-        "count": 6366,
-        "average": 4.7241597
+        "count": 6367,
+        "average": 4.724203
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1581,6 +1538,50 @@
       "topics": [
         "Azure",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-classify-and-moderate-text-with-azure-content-moderator.md",
+      "title": "Classify and moderate text with Azure Content Moderator",
+      "excerpt": "In this module, we'll introduce you to Azure Content Moderator and show how to use it for text moderation",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-and-moderate-text-with-azure-content-moderator/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-text-with-azure-content-moderator/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 2009,
+        "average": 4.6620207
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/classify-and-moderate-text-with-azure-content-moderator-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer Tools",
+        "AI"
       ]
     }
   ],

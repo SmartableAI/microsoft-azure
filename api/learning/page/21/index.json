@@ -4,204 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-cmu-disaster-recovery-backup.md",
-      "title": "Disaster recovery and backup",
-      "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. What do you do when something goes wrong with your resources on the cloud? How do you prepare for such an issue? Learn about disaster backup and recovery with this module.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-disaster-recovery-backup/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-disaster-recovery-backup/",
-      "length": "PT1H1M",
-      "ratings": {
-        "count": 124,
-        "average": 4.725806
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-disaster-recovery-backup-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-collaborate-with-git.md",
-      "title": "Collaborate with Git",
-      "excerpt": "Use Git to track changes to source code and collaborate with other developers",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-collaborate-with-git/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/collaborate-with-git/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 412,
-        "average": 4.682039
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/collaborate-with-git-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage.md",
-      "title": "Communicate between applications with Azure Queue storage",
-      "excerpt": "Find out to use Azure Queue storage to handle high demand and improve resilience in your distributed applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 2192,
-        "average": 4.5862226
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-copy-blobs-from-command-line-and-code.md",
-      "title": "Copy and move blobs from one container or storage account to another from the command line and in code",
-      "excerpt": "Learn how to utilize .NET Storage Client library, AzCopy, and Azure CLI utilities to copy and move blobs between contains and storage accounts both synchronously and asynchronously.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-copy-blobs-from-command-line-and-code/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/copy-blobs-from-command-line-and-code/",
-      "length": "PT58M",
-      "ratings": {
-        "count": 181,
-        "average": 4.558011
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/copy-blobs-from-command-line-and-code-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cosmos-db-app-with-vscode.md",
-      "title": "Build a .NET Core app for Azure Cosmos DB in Visual Studio Code",
-      "excerpt": "Learn how to create a .NET Core application to store and query data in Azure Cosmos DB by using Visual Studio Code.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cosmos-db-app-with-vscode/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cosmos-db-app-with-vscode/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 1658,
-        "average": 4.4897466
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Developer tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-azure-cognitive-search-solution.md",
       "title": "Create an Azure Cognitive Search solution",
       "excerpt": "Unlock the hidden insights in your data with Azure Cognitive Search.",
@@ -637,6 +439,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-deploy-microsoft-365-apps-for-enterprise.md",
+      "title": "Deploy Microsoft 365 Apps for enterprise",
+      "excerpt": "Deploy Microsoft 365 Apps for enterprise",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-microsoft-365-apps-for-enterprise/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-microsoft-365-apps-for-enterprise/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 5,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-sql-server-virtual-machine.md",
       "title": "Deploy SQL Server in a virtual machine",
       "excerpt": "Configure virtual machine sizing, storage, and networking options to ensure adequate performance for your database workloads. Choose and configure appropriate high availability options. Investigate options for migrating existing workloads.",
@@ -860,8 +705,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
       "length": "PT24M",
       "ratings": {
-        "count": 964,
-        "average": 4.75
+        "count": 965,
+        "average": 4.750259
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -903,8 +748,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 1014,
-        "average": 4.738659
+        "count": 1015,
+        "average": 4.7389164
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1032,8 +877,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
       "length": "PT20M",
       "ratings": {
-        "count": 2314,
-        "average": 4.7134833
+        "count": 2315,
+        "average": 4.713607
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1274,6 +1119,175 @@
       "topics": [
         "Azure",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-github-actions-ci.md",
+      "title": "Build continuous integration (CI) workflows by using GitHub Actions",
+      "excerpt": "Learn how to create workflows that enable you to use Continuous Integration (CI) for your projects.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-ci/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 307,
+        "average": 4.710098
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-ci-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-go-concurrency.md",
+      "title": "Learn how concurrency works in Go",
+      "excerpt": "Understand more about concurrency, one of the most unique features in Go.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-go-concurrency/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-concurrency/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 13,
+        "average": 4.8461537
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/go-concurrency-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-go-errors-logs.md",
+      "title": "Implement error handling and logging in Go",
+      "excerpt": "Understand how to handle errors and log helpful information in your Go programs.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-go-errors-logs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-errors-logs/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 51,
+        "average": 4.7843137
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/go-errors-logs-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-go-methods-interfaces.md",
+      "title": "Use methods and interfaces",
+      "excerpt": "Learn about best practices for writing methods and interfaces in Go.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-go-methods-interfaces/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-methods-interfaces/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 40,
+        "average": 4.85
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/go-methods-interfaces-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

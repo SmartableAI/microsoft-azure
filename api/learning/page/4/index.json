@@ -4,41 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-azure-account.md",
-      "title": "Create an Azure account",
-      "excerpt": "Find out how to start using Azure by creating an account where you’ll see services and personal settings for identity, billing, and preferences.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-account/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 141191,
-        "average": 4.702127
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 67,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-architect-migration-business-continuity-and-disaster-recovery-in-azure.md",
       "title": "Architect migration, business continuity, and disaster recovery in Azure",
       "excerpt": "Learn how to migrate resources to Azure, how to provide site recovery for your applications in Azure and on-premises, and how to your applications are available through service interruptions and changes in load.",
@@ -69,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 5641,
-            "average": 4.705549
+            "count": 5647,
+            "average": 4.7053304
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -200,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
           "length": "PT35M",
           "ratings": {
-            "count": 4906,
-            "average": 4.7421527
+            "count": 4907,
+            "average": 4.742205
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -260,6 +225,184 @@
         "Migration",
         "Web",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-architect-modern-applications-in-azure.md",
+      "title": "Architect modern applications in Azure",
+      "excerpt": "Learn how to build modern applications using PaaS services for applications, caching, containers and Kubernetes in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-modern-applications-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-modern-applications-in-azure/",
+      "length": "PT6H27M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-containers.md",
+          "title": "Build a containerized web application with Docker",
+          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-containers/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
+          "length": "PT57M",
+          "ratings": {
+            "count": 3290,
+            "average": 4.6212764
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
+          "title": "Run Docker containers with Azure Container Instances",
+          "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 6611,
+            "average": 4.715172
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 55,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Containers",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-container-registry.md",
+          "title": "Build and store container images with Azure Container Registry",
+          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-container-registry/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 2650,
+            "average": 4.6252832
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
+          "title": "Host a web application with Azure App service",
+          "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 6206,
+            "average": 4.6248794
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 59,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 66,
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "Compute",
+        "Web"
       ]
     },
     {
@@ -336,8 +479,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3341,
-            "average": 4.6875186
+            "count": 3342,
+            "average": 4.687313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -410,8 +553,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6550,
-            "average": 4.6803055
+            "count": 6554,
+            "average": 4.680348
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -492,8 +635,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 8227,
-            "average": 4.6537013
+            "count": 8229,
+            "average": 4.653785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -528,8 +671,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 3345,
-            "average": 4.7910314
+            "count": 3346,
+            "average": 4.791094
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -571,8 +714,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 5140,
-            "average": 4.7519455
+            "count": 5141,
+            "average": 4.7519937
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -614,8 +757,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 8677,
-            "average": 4.665437
+            "count": 8678,
+            "average": 4.665476
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -701,8 +844,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2327,
-            "average": 4.624409
+            "count": 2328,
+            "average": 4.6245704
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -791,8 +934,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 6114,
-            "average": 4.7358522
+            "count": 6115,
+            "average": 4.735895
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -925,8 +1068,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 8227,
-            "average": 4.6537013
+            "count": 8229,
+            "average": 4.653785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -961,8 +1104,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 3345,
-            "average": 4.7910314
+            "count": 3346,
+            "average": 4.791094
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1004,8 +1147,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 5140,
-            "average": 4.7519455
+            "count": 5141,
+            "average": 4.7519937
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1047,8 +1190,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 8677,
-            "average": 4.665437
+            "count": 8678,
+            "average": 4.665476
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1136,8 +1279,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3922,
-            "average": 4.6086183
+            "count": 3923,
+            "average": 4.608718
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1315,8 +1458,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1441,
-            "average": 4.7362943
+            "count": 1442,
+            "average": 4.736477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1359,8 +1502,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 5062,
-            "average": 4.7967205
+            "count": 5066,
+            "average": 4.7964864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1564,8 +1707,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6205,
-            "average": 4.624819
+            "count": 6206,
+            "average": 4.6248794
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1809,8 +1952,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
           "length": "PT39M",
           "ratings": {
-            "count": 1014,
-            "average": 4.738659
+            "count": 1015,
+            "average": 4.7389164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1852,8 +1995,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
           "length": "PT24M",
           "ratings": {
-            "count": 964,
-            "average": 4.75
+            "count": 965,
+            "average": 4.750259
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1937,8 +2080,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2327,
-            "average": 4.624409
+            "count": 2328,
+            "average": 4.6245704
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2027,8 +2170,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 6114,
-            "average": 4.7358522
+            "count": 6115,
+            "average": 4.735895
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2204,8 +2347,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
           "length": "PT46M",
           "ratings": {
-            "count": 4783,
-            "average": 4.7687645
+            "count": 4784,
+            "average": 4.7688127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2247,8 +2390,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
           "length": "PT24M",
           "ratings": {
-            "count": 4365,
-            "average": 4.785567
+            "count": 4366,
+            "average": 4.785616
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2290,8 +2433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
           "length": "PT21M",
           "ratings": {
-            "count": 3134,
-            "average": 4.7801533
+            "count": 3135,
+            "average": 4.7802234
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2352,8 +2495,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 13609,
-        "average": 4.6849146
+        "count": 13612,
+        "average": 4.6849103
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2450,8 +2593,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 11194,
-            "average": 4.7248526
+            "count": 11201,
+            "average": 4.724935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2656,8 +2799,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 9912,
-            "average": 4.7604923
+            "count": 9919,
+            "average": 4.760157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2779,8 +2922,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
           "length": "PT37M",
           "ratings": {
-            "count": 9274,
-            "average": 4.6674576
+            "count": 9275,
+            "average": 4.6674933
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2899,8 +3042,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1441,
-            "average": 4.7362943
+            "count": 1442,
+            "average": 4.736477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2943,8 +3086,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 882,
-            "average": 4.73356
+            "count": 883,
+            "average": 4.733862
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2985,8 +3128,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 873,
-            "average": 4.736541
+            "count": 874,
+            "average": 4.736842
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3419,8 +3562,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
           "length": "PT1H27M",
           "ratings": {
-            "count": 3841,
-            "average": 4.7667274
+            "count": 3842,
+            "average": 4.766788
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3461,8 +3604,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 3311,
-            "average": 4.734823
+            "count": 3313,
+            "average": 4.7349834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3669,8 +3812,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 783,
-            "average": 4.7381864
+            "count": 784,
+            "average": 4.737245
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3712,8 +3855,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
           "length": "PT39M",
           "ratings": {
-            "count": 1037,
-            "average": 4.803279
+            "count": 1038,
+            "average": 4.802505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3769,221 +3912,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-implement-an-authentication-and-access-management-solution.md",
-      "title": "Implement an Authentication and Access Management solution",
-      "excerpt": "Implement an Authentication and Access Management solution",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-an-authentication-and-access-management-solution/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-an-authentication-and-access-management-solution/",
-      "length": "PT3H11M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-secure-aad-users-with-mfa.md",
-          "title": "Secure Azure Active Directory users with Multi-Factor Authentication",
-          "excerpt": "Learn how to use multi-factor authentication with Azure AD to harden your user accounts.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-aad-users-with-mfa/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
-          "length": "PT38M",
-          "ratings": {
-            "count": 2472,
-            "average": 4.7322006
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-user-authentication.md",
-          "title": "Manage user authentication",
-          "excerpt": "Manage user authentication",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-user-authentication/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 205,
-            "average": 4.8292685
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-plan-implement-administer-conditional-access.md",
-          "title": "Plan, implement, and administer conditional access",
-          "excerpt": "Plan, implement, and administer conditional access",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-administer-conditional-access/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
-          "length": "PT60M",
-          "ratings": {
-            "count": 205,
-            "average": 4.8243904
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-azure-ad-identity-protection.md",
-          "title": "Manage Azure AD Identity Protection",
-          "excerpt": "Manage Azure AD Identity Protection",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-azure-ad-identity-protection/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 326,
-            "average": 4.8251534
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-migrate-application-workloads-and-data-to-azure.md",
       "title": "Migrate application workloads and data to Azure",
       "excerpt": "Migrate application workloads and data to Azure",
@@ -4014,8 +3942,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 5641,
-            "average": 4.705549
+            "count": 5647,
+            "average": 4.7053304
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4263,8 +4191,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6205,
-            "average": 4.624819
+            "count": 6206,
+            "average": 4.6248794
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4393,221 +4321,6 @@
         "Databases",
         "Compute",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-sc-300-part-2-implement-an-authentication-and-access-management-solution.md",
-      "title": "SC-300 part 2: Implement an Authentication and Access Management solution",
-      "excerpt": "SC-300 part 2: Implement an Authentication and Access Management solution",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-sc-300-part-2-implement-an-authentication-and-access-management-solution/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-sc-300-part-2-implement-an-authentication-and-access-management-solution/",
-      "length": "PT3H11M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-secure-aad-users-with-mfa.md",
-          "title": "Secure Azure Active Directory users with Multi-Factor Authentication",
-          "excerpt": "Learn how to use multi-factor authentication with Azure AD to harden your user accounts.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-aad-users-with-mfa/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
-          "length": "PT38M",
-          "ratings": {
-            "count": 2472,
-            "average": 4.7322006
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-user-authentication.md",
-          "title": "Manage user authentication",
-          "excerpt": "Manage user authentication",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-user-authentication/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 205,
-            "average": 4.8292685
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-plan-implement-administer-conditional-access.md",
-          "title": "Plan, implement, and administer conditional access",
-          "excerpt": "Plan, implement, and administer conditional access",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-administer-conditional-access/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
-          "length": "PT60M",
-          "ratings": {
-            "count": 205,
-            "average": 4.8243904
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-azure-ad-identity-protection.md",
-          "title": "Manage Azure AD Identity Protection",
-          "excerpt": "Manage Azure AD Identity Protection",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-azure-ad-identity-protection/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 326,
-            "average": 4.8251534
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     },
     {
@@ -4822,8 +4535,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 5088,
-        "average": 4.7374215
+        "count": 5090,
+        "average": 4.737328
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4865,8 +4578,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 2855,
-        "average": 4.8353767
+        "count": 2859,
+        "average": 4.8349075
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4933,6 +4646,436 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-architect-api-integration-in-azure.md",
+      "title": "Architect API integration in Azure",
+      "excerpt": "Learn how to architect API integration in Azure, and provide secure, scalable API access for your applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-api-integration-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-api-integration-in-azure/",
+      "length": "PT3H44M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management.md",
+          "title": "Publish and manage your APIs with Azure API Management",
+          "excerpt": "Learn about using an Azure API gateway to share APIs with partners, and how to use subscription keys to control access to your APIs.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 1512,
+            "average": 4.683201
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
+          "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
+          "excerpt": "Learn how to use Azure API Management to change an API without rewriting code to enable you to apply a caching policy to a GET operation for quicker response.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
+          "length": "PT47M",
+          "ratings": {
+            "count": 944,
+            "average": 4.697034
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/improve-api-performance-with-apim-caching-policy-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-protect-apis-on-api-management.md",
+          "title": "Protect your APIs on Azure API Management",
+          "excerpt": "Protect your back-end APIs from information exposure and implement throttling to prevent resource exhaustion with policies in Azure API Management.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-apis-on-api-management/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 976,
+            "average": 4.7387295
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/protect-apis-on-api-management-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-control-authentication-with-apim.md",
+          "title": "Control authentication for your APIs with Azure API Management",
+          "excerpt": "Discover how to protect your APIs from unauthorized use with API keys and client certificate authentication.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-authentication-with-apim/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
+          "length": "PT55M",
+          "ratings": {
+            "count": 2182,
+            "average": 4.6608615
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/control-authentication-with-apim-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-automate-your-workflow-with-github-actions.md",
+      "title": "Automate your workflow with GitHub Actions",
+      "excerpt": "Learn how GitHub Actions enables you to automate your software development cycle and deploy applications to Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-automate-your-workflow-with-github-actions/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-automate-your-workflow-with-github-actions/",
+      "length": "PT4H2M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-to-github.md",
+          "title": "Introduction to GitHub",
+          "excerpt": "Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-github/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
+          "length": "PT1H12M",
+          "ratings": {
+            "count": 1180,
+            "average": 4.7474575
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-github-actions-automate-tasks.md",
+          "title": "Automate development tasks by using GitHub Actions",
+          "excerpt": "Create a basic GitHub Action and use that action in a workflow.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-automate-tasks/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 270,
+            "average": 4.7074075
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-automate-tasks-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-github-actions-ci.md",
+          "title": "Build continuous integration (CI) workflows by using GitHub Actions",
+          "excerpt": "Learn how to create workflows that enable you to use Continuous Integration (CI) for your projects.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-ci/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
+          "length": "PT55M",
+          "ratings": {
+            "count": 307,
+            "average": 4.710098
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-ci-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-github-actions-cd.md",
+          "title": "Build and deploy applications to Azure by using GitHub Actions",
+          "excerpt": "Create two deployment workflows using GitHub Actions and Microsoft Azure.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-cd/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/",
+          "length": "PT54M",
+          "ratings": {
+            "count": 269,
+            "average": 4.7323422
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-cd-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
