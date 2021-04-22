@@ -181,6 +181,20 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Sysinno Introduces First Available Air Quality Monitor Running on Microsoft Azure Sphere"
+    excerpt: "Sysinno Technology Inc., an Innodisk shareholding company, is excited to announce that their iAeris line of indoor air quality detectors"
+    publishedDateTime: 2021-04-22T00:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-301273493.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1491653/PR_Sysinno.jpg?p=facebook"
+        width: 797
+        height: 419
+        isCached: true
   - title: "DP-200 Dumps PDF (2021) 100% Accurate Microsoft Azure Data Engineer Associate Exam Questions"
     excerpt: "Pass you Microsoft DP-200 exam in just one go with DumpsArchive DP-200 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
     publishedDateTime: 2021-04-18T08:19:00Z
