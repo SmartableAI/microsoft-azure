@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/microsoft-unveils-plans-for-first-taiw
 webUrl: "https://www.zdnet.com/video/microsoft-unveils-plans-for-first-taiwan-cloud-data-centre-region/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - Azure
 
 related:
+  - title: "Microsoft Cloud PC details leaked before its 2021 release"
+    excerpt: "Microsoft Cloud PC is yet to be released somewhere in Spring 2021, but a series of previously unknown details about it have recently surfaced."
+    publishedDateTime: 2020-11-05T08:52:00Z
+    webUrl: "https://windowsreport.com/microsoft-cloud-pc-leaked/"
+    ampWebUrl: "https://windowsreport.com/microsoft-cloud-pc-leaked/?amp"
+    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-cloud-pc-leaked/?amp"
+    type: article
+    provider:
+      name: Windows
+      domain: windowsreport.com
+    quality: 42
+    images:
+      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/11/Microsoft-Cloud-PC.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Redwill, Westcon-Comstor streamline delivery of Microsoft Cloud solutions"
     excerpt: "With the current demand for digital procurement, SaaS, collaboration tools and cloud-based solutions, driven in large part by the work from home demands of employees resulting from the pandemic, both Redwill and Westcon-Comstor are working together to leverage the distributor’s digital procurement and digital customer fulfilment platforms to simplify customer and end-user access to Microsoft's cloud-based solutions."
     publishedDateTime: 2020-11-06T06:55:00Z
@@ -52,33 +68,19 @@ related:
         width: 510
         height: 314
         isCached: true
-  - title: "Qatar Financial Centre Regulatory Authority moves to Microsoft Cloud"
-    excerpt: "As part of its cloud journey, the QFCRA will deploy its existing, as well as new critical workloads and business applications to Microsoft Azure"
-    publishedDateTime: 2020-09-14T14:14:00Z
-    webUrl: "https://gulf-times.com/story/672845/Qatar-Financial-Centre-Regulatory-Authority-moves-to-Microsoft-Cloud"
+  - title: "Leak: Microsoft Cloud PC Virtualized Windows 10 Service To Have Three Subscriptions Tiers"
+    excerpt: "The upcoming Microsoft Cloud PC subscription models have leaked. The service provides a true virtualized version of Windows 10."
+    publishedDateTime: 2020-11-05T16:35:00Z
+    webUrl: "https://winbuzzer.com/2020/11/05/leak-microsoft-cloud-pc-virtualized-windows-10-service-to-have-three-subscriptions-tiers-xcxwbn/"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 22
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 13
     images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/9202014171346106183686.jpg"
-        width: 620
-        height: 355
-        isCached: true
-  - title: "Accela Migrates Over 200 Data Center Customers to Microsoft Azure to Accelerate Digital Transformation"
-    excerpt: "PRNewswire/ -- Accela®, a leading provider of cloud-based solutions for government, today announced it successfully completed over 200 customer"
-    publishedDateTime: 2020-11-12T10:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-301171615.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1008788/Accela_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
+      - url: "https://winbuzzer.com/wp-content/uploads/2019/05/Project-xCloud-Servers-Microsoft.jpg"
+        width: 940
+        height: 528
         isCached: true
 
 secured: "eEYIjhJHE5VwJdCCGmHOzkm4feSZemeXyaSkr/QC1245gHdRhc0iYmXQKbDoAmyyEwfi9Q6XCx3CyWOw8maoXeWYQUl0mYG53yrml7gh2y+N3kMqpiaN2VmI73N0vuXSqgyKMSakLlD210S0YXnPXbkzlwxrj6W80AEMQiy+96lhtQCOT+KtDgTJSo/PwBMCIFOi2o6mzb84Qld60YXsEEvsYM/dVJqFtkN12BnDMafmmMGdLN1CXhXdYaBB2UgRapVBA8ndhpTuUJTD1cWgGy3jgyi4c2l7hIbKVZPZBHZ356pVzw8OHPJGbc3kUwqri0lhHD1ac+sDsjK3af+NLw4IvBKHOVHpBpyz+jIpnCF9hhZT9oVtjx3KQs47K7B8ZQ0UB4JfdUTJBMrfqFRSskVzuCuf6ZHn0yKVCSCj7SvtsLqbK+v3HmhfAV961dIsLn+qy2RT1h9hgOGNI7K6tKYg7Yr8QW13ayqHhcogF+ANsCn4sGKOzjrZFYrwD0fxRB3gSprNwg58mhfz/pnxtw==;6vW1rfGfcFOH76GNDU2YrQ=="

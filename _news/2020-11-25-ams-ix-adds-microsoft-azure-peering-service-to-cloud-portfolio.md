@@ -788,6 +788,20 @@ related:
         width: 1497
         height: 785
         isCached: true
+  - title: "Box to Microsoft Cloud Storage Transition"
+    excerpt: "A simple drag and drop does not do things like bring over most if not all of the collaborators  on the folders, various versions of files, Box Notes, and many more hidden attributes  of the data stored in Box."
+    publishedDateTime: 2021-04-22T17:39:00Z
+    webUrl: "https://www.montana.edu/uit/boxtransition/"
+    type: article
+    provider:
+      name: Montana State University
+      domain: montana.edu
+    quality: 39
+    images:
+      - url: "https://www.montana.edu/uit/images/FAQ.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Microsoft Azure Sphere Security Overview"
     excerpt: "Microsoft, using its decades of experience in hardware, software, and cloud, with Azure Sphere, aims to provide security solutions for IoT devices. Another critical reason to be concerned about IoT data is its integration and management with numerous ..."
     publishedDateTime: 2020-04-01T18:33:00Z

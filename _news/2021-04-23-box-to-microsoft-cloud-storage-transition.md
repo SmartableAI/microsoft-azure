@@ -1,32 +1,27 @@
 ---
 category: news
-title: "Azure Arc Becomes The Foundation For Microsoft’s Hybrid And Multi-Cloud Strategy"
-excerpt: "At the recent Spring Ignite conference, Microsoft announced the general availability of Azure Arc enabled Kubernetes, and the preview of Arc enabled machine learning."
-publishedDateTime: 2021-03-15T06:56:00Z
-originalUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/"
-webUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/"
-ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/"
+title: "Box to Microsoft Cloud Storage Transition"
+excerpt: "A simple drag and drop does not do things like bring over most if not all of the collaborators  on the folders, various versions of files, Box Notes, and many more hidden attributes  of the data stored in Box."
+publishedDateTime: 2021-04-22T17:39:00Z
+originalUrl: "https://www.montana.edu/uit/boxtransition/"
+webUrl: "https://www.montana.edu/uit/boxtransition/"
 type: article
-quality: 92
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Montana State University
+  domain: montana.edu
 
 topics:
   - Azure
+  - Storage
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f04e8e714d1ce6072a237%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D1%26cropY2%3D563"
-    width: 1000
-    height: 562
+  - url: "https://www.montana.edu/uit/images/FAQ.jpg"
+    width: 400
+    height: 300
     isCached: true
 
 related:
@@ -251,6 +246,22 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/yLhMvxwzBIBkOpGKZ_cC_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMx/https://s.yimg.com/os/creatr-uploaded-images/2021-03/e66885b0-85d5-11eb-8fdf-7439cfd9b5f9"
         width: 2000
         height: 1330
+        isCached: true
+  - title: "Azure Arc Becomes The Foundation For Microsoft’s Hybrid And Multi-Cloud Strategy"
+    excerpt: "At the recent Spring Ignite conference, Microsoft announced the general availability of Azure Arc enabled Kubernetes, and the preview of Arc enabled machine learning."
+    publishedDateTime: 2021-03-15T06:56:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 92
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f04e8e714d1ce6072a237%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D1%26cropY2%3D563"
+        width: 1000
+        height: 562
         isCached: true
   - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
     excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
@@ -783,20 +794,6 @@ related:
       - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
         width: 1497
         height: 785
-        isCached: true
-  - title: "Box to Microsoft Cloud Storage Transition"
-    excerpt: "A simple drag and drop does not do things like bring over most if not all of the collaborators  on the folders, various versions of files, Box Notes, and many more hidden attributes  of the data stored in Box."
-    publishedDateTime: 2021-04-22T17:39:00Z
-    webUrl: "https://www.montana.edu/uit/boxtransition/"
-    type: article
-    provider:
-      name: Montana State University
-      domain: montana.edu
-    quality: 39
-    images:
-      - url: "https://www.montana.edu/uit/images/FAQ.jpg"
-        width: 400
-        height: 300
         isCached: true
   - title: "Microsoft Azure Sphere Security Overview"
     excerpt: "Microsoft, using its decades of experience in hardware, software, and cloud, with Azure Sphere, aims to provide security solutions for IoT devices. Another critical reason to be concerned about IoT data is its integration and management with numerous ..."
@@ -1929,6 +1926,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "jXvubPPfN3wHtb4wJGtyPs3VPkwxAsAuFqALXqf0qrtrAxj673reXpDNa/jrjLzAf8uB5CI68daWvdvg47/Zh5j1EBTrrutrYAMCTR6xfeB7S+XczOwMoSrjg0PZ+zMQn4Eh/iM1UPHWVee1lkle/5uzIBV43kwigmefUfRQ425h+85ufq3T0e2Gv3+no5i3K4leybk6aEErVq3EEGzgSvAEBt1p1pZZxtLQke/NARYYb98VwnJStr15Gw1DKbshKMTijg/BDx9WdzV+fnTarrsyuWO03jTyOwfm4Y7GfKksHUYIL9hgtt1N5SMlaapkOf6/fKSqzXSE9eTz2snhGuCvs8kR6L+2HyKGLH2jojPrQ5Mk9KlyZ4Ahvg/6Hx7SC/tpruktXLL/Jv8UCgsDGCLRu0X8gfO+GUnIW8km+fP4qmo1saN/Vm2i76SaomA1zQZ9wD5fju6YJISoEKTe6plSoD5tiPEu5/HTZgwb1FKGneKGGn7LEUVADvjhKjwhAfI8GElpjy5LKeX/rf0qoQ==;e334ohmCUDh646/oh4Qdzw=="
+secured: "m7d9PJ25cPCcrgqWhViQl80kBwF+jEXdTakVwG71sgjlSfL+Wg8P/82OUmImyhtYOeGie8cNR25j4+2RbL8i4X542Z+jWj9DRl+TiL6T3zQqlgfIgs97MvbjyWAGLIgD6PM72cTii9ILnMHabWB17FJJ44X3jxexmGhBnwdeIqarSV+OM19iT2GrwnqZ4IdIzgHZUppgSSOpUjH0Bxu+qfyRdOU1DrBsTK8M4qMkOs6+FNmL9HpPqv5GPKb0/EjRopwkaEBVZvPW7eNB/LsPNZGVumiw/6V63I8k7bpLnauWWyXfC00hwDIuelnqlJGrPM1HhZs67ho3z3ZnnOOxoXMnCuGSyIVCf5CmNEIQPkc=;/KnEDP4YC7Y9NCSCx3jUFQ=="
 ---
 

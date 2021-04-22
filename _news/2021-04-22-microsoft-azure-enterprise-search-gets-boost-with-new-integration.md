@@ -25,62 +25,42 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Cloud PC launch could just be months away"
-    excerpt: "The idea of being able to use your computer may appeal to some, especially those who don’t like being tethered to their desks or even homes for long periods of time. So far, however, the"
-    publishedDateTime: 2021-04-21T00:31:00Z
-    webUrl: "https://www.slashgear.com/microsoft-cloud-pc-launch-could-just-be-months-away-20669714/"
-    ampWebUrl: "https://www.slashgear.com/microsoft-cloud-pc-launch-could-just-be-months-away-20669714/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-cloud-pc-launch-could-just-be-months-away-20669714/amp/"
+  - title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
+    excerpt: "Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure Active Directory (Azure AD), enabling IT teams using Azure AD for identity management to rapidly integrate new applications into the Azure AD environment without sacrificing security."
+    publishedDateTime: 2021-04-20T13:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-ef7afbbddc5d712071466b9a0909da92"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 82
+      name: Associated Press
+      domain: apnews.com
+    quality: 67
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/04/benefit-1.jpg"
-        width: 1280
-        height: 800
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "FileCoin: Decentralized Cloud Storage Competitor To AWS, Microsoft Azure, And Google Cloud"
-    excerpt: "I provide three valuation metrics for FileCoin which illustrate that it could see an intense growth period comparable to Bitcoin. Despite its large recent run-up, the Coin looks inexpensive."
-    publishedDateTime: 2021-04-17T06:29:00Z
-    webUrl: "https://seekingalpha.com/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 64
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2021/1/18/510561-1610992717787594_origin.png"
-        width: 704
-        height: 552
-        isCached: true
-  - title: "Public preview of Microsoft Build of OpenJDK"
-    excerpt: "The Microsoft Build of OpenJDK is a new Long-Term Support distribution of OpenJDK for your Java workloads, in the cloud and everywhere else."
-    publishedDateTime: 2021-04-14T16:01:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-microsoft-build-of-openjdk/"
+  - title: "Microsoft announces plans to establish first datacenter region in Malaysia "
+    excerpt: "The new datacenter region is part of the “Bersama Malaysia” initiative to support inclusive economic growth in Malaysia."
+    publishedDateTime: 2021-04-16T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-announces-plans-to-establish-first-datacenter-region-in-malaysia/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
-  - title: "Microsoft Cloud PC details leaked before its 2021 release"
-    excerpt: "Microsoft Cloud PC is yet to be released somewhere in Spring 2021, but a series of previously unknown details about it have recently surfaced."
-    publishedDateTime: 2020-11-05T08:52:00Z
-    webUrl: "https://windowsreport.com/microsoft-cloud-pc-leaked/"
-    ampWebUrl: "https://windowsreport.com/microsoft-cloud-pc-leaked/?amp"
-    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-cloud-pc-leaked/?amp"
+    quality: 50
+  - title: "Actual Microsoft DP-300 Exam Dumps [2021] Azure Database Administrator Associate Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft DP-300 exam with ITExamQuestions DP-300 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-300 Administering Relational Databases on Microsoft Azure Exam?"
+    publishedDateTime: 2021-04-20T23:11:00Z
+    webUrl: "https://www.madinamerica.com/author/download-microsoft-dp-300-exam-dumps/"
     type: article
     provider:
-      name: Windows
-      domain: windowsreport.com
-    quality: 42
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 44
     images:
-      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/11/Microsoft-Cloud-PC.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
         isCached: true
   - title: "Amdocs to Accelerate M1’s Digital Transformation on Microsoft Azure"
     excerpt: "Amdocs (NASDAQ: DOX), a leading provider of software and services to communications and media companies, today announced that M1 Limited (M1), a leading digital network operator in Singapore, has selected its Openet charging and data management products to accelerate the digital transformation programmes on Microsoft Azure."
@@ -96,35 +76,19 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Lilbits: Android 12, Pixel 5a 5G, Microsoft Cloud PC, and the controversial Eve V"
-    excerpt: "Google confirmed this month that it has a Pixel 5a coming later this year, although it may only be available in select markets. But the company hasn’t provided any real details about the phone. Now that the company has released Android 12 Developer Preview 3 though,"
-    publishedDateTime: 2021-04-21T21:04:00Z
-    webUrl: "https://liliputing.com/2021/04/lilbits-android-12-pixel-5a-5g-microsoft-cloud-pc-and-the-controversial-eve-v.html"
-    ampWebUrl: "https://liliputing.com/2021/04/lilbits-android-12-pixel-5a-5g-microsoft-cloud-pc-and-the-controversial-eve-v.html?amp"
-    cdnAmpWebUrl: "https://liliputing-com.cdn.ampproject.org/c/s/liliputing.com/2021/04/lilbits-android-12-pixel-5a-5g-microsoft-cloud-pc-and-the-controversial-eve-v.html?amp"
+  - title: "Download Microsoft AZ-303 Exam Dumps (2021) Azure Solutions Architect Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft AZ-303 exam with ITExamQuestions AZ-303 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-303 Microsoft Azure Architect Technologies Exam?"
+    publishedDateTime: 2021-04-20T04:15:00Z
+    webUrl: "https://www.madinamerica.com/author/download-microsoft-az-303-exam-dumps/"
     type: article
     provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 37
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 33
     images:
-      - url: "https://liliputing.com/wp-content/uploads/2021/04/eve-v.jpg"
-        width: 694
-        height: 500
-        isCached: true
-  - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
-    excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
-    publishedDateTime: 2021-04-20T18:36:00Z
-    webUrl: "https://www.ign.com/articles/become-a-certified-cloud-computing-pro-with-this-microsoft-azure-bootcamp"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 36
-    images:
-      - url: "https://assets1.ignimgs.com/2021/04/20/sale-149017-article-image-1618943765425.jpeg?width=1280"
-        width: 1200
-        height: 800
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
         isCached: true
   - title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
     excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
@@ -140,6 +104,48 @@ related:
         width: 960
         height: 542
         isCached: true
+  - title: "Updated Microsoft AZ-300 Exam Dumps (2021) Azure Solutions Architect Expert Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft AZ-300 exam with ITExamQuestions AZ-300 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-300 Microsoft Azure Architect Technologies exam?"
+    publishedDateTime: 2021-04-20T22:39:00Z
+    webUrl: "https://www.madinamerica.com/author/download-real-az-300-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 30
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
+  - title: "Actual Microsoft AZ-600 Exam Dumps (2021) Azure Stack Hub Operator Associate Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft AZ-600 exam with ITExamQuestions AZ-600 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-600 Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta) Exam?"
+    publishedDateTime: 2021-04-16T22:11:00Z
+    webUrl: "https://www.madinamerica.com/author/download-real-az-600-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 29
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
+  - title: "Download AZ-120 Exam Dumps [2021] Microsoft Azure For SAP Workloads Specialty Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft AZ-120 exam with ITExamQuestions AZ-120 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-120 Planning and Administering Microsoft Azure for SAP Workloads exam?"
+    publishedDateTime: 2021-04-18T12:00:00Z
+    webUrl: "https://www.madinamerica.com/author/download-real-az-120-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 29
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
   - title: "Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour"
     excerpt: "Microsoft is offering end-users the opportunity to take a virtual tour of a typical Azure datacentre so they can get a behind-the-scenes look at the technology powering the public cloud services ..."
     publishedDateTime: 2021-04-20T14:14:00Z
@@ -151,6 +157,34 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 27
+  - title: "Download Microsoft DP-100 Exam Dumps (2021) Microsoft Azure Data Scientist Associate Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft DP-100 exam with ITExamQuestions DP-100 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-100 Designing and Implementing a Data Science Solution on Azure exam?"
+    publishedDateTime: 2021-04-20T23:55:00Z
+    webUrl: "https://www.madinamerica.com/author/download-real-dp-100-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 25
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
+  - title: "Download Microsoft AZ-900 Dumps Free Updates for Microsoft Azure Fundamentals Exam Questions [2021]"
+    excerpt: "Pass you Microsoft AZ-900 exam in just one go with DumpsArchive AZ-900 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
+    publishedDateTime: 2021-04-17T20:31:00Z
+    webUrl: "https://www.madinamerica.com/author/try-az-900-dumps-2021/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 23
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
   - title: "Microsoft Partners Find Foothold in German Enterprises With Growing Adoption of Azure, Cloud Services"
     excerpt: "ISG Provider Lens™ Microsoft Ecosystem report for Germany finds more companies are looking to the cloud as provider offerings and approaches mature. German enterprises"
     publishedDateTime: 2021-04-22T08:00:00Z

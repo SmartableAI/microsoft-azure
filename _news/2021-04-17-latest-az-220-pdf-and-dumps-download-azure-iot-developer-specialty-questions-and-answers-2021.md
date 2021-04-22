@@ -7,7 +7,7 @@ originalUrl: "https://www.madinamerica.com/author/new-az-220-dumps/"
 webUrl: "https://www.madinamerica.com/author/new-az-220-dumps/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Official Microsoft AI-900 Exam Dumps (2021) Azure AI Fundamentals Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft AI-900 exam with ITExamQuestions AI-900 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-900 Microsoft Azure AI Fundamentals Exam?"
-    publishedDateTime: 2021-04-18T19:04:00Z
-    webUrl: "https://www.madinamerica.com/author/download-real-ai-900-exam-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 52
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
   - title: "Download AZ-204 Exam Dumps [2021] Azure Developer Associate Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-204 exam with ITExamQuestions AZ-204 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-204 Developing Solutions for Microsoft Azure Exam?"
     publishedDateTime: 2021-04-20T19:30:00Z

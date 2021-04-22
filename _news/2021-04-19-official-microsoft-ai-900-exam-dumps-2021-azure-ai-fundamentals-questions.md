@@ -7,8 +7,8 @@ originalUrl: "https://www.madinamerica.com/author/download-real-ai-900-exam-dump
 webUrl: "https://www.madinamerica.com/author/download-real-ai-900-exam-dumps/"
 type: article
 quality: 52
-heat: 112
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mad in America
@@ -25,47 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Latest AZ-220 PDF and dumps Download Azure IoT Developer Specialty Questions and Answers (2021)"
-    excerpt: "Pass you Microsoft AZ-220 exam in just one go with DumpsArchive AZ-220 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
-    publishedDateTime: 2021-04-17T13:07:00Z
-    webUrl: "https://www.madinamerica.com/author/new-az-220-dumps/"
+  - title: "NBA using Microsoft cloud and AI to power ‘CourtOptix’ and bring enhanced stats to fans"
+    excerpt: "The NBA is tapping the power of its partnership with Microsoft to deliver advanced analytics that offer insights into shots, passes, defense, double teams and more. NBA CourtOptix Powered by"
+    publishedDateTime: 2021-04-22T16:50:00Z
+    webUrl: "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/"
+    ampWebUrl: "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/"
     type: article
     provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 42
+      name: GeekWire
+      domain: geekwire.com
+    quality: 91
     images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-22-at-9.28.33-AM.png"
+        width: 630
+        height: 352
         isCached: true
-  - title: "Download AZ-204 Exam Dumps [2021] Azure Developer Associate Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft AZ-204 exam with ITExamQuestions AZ-204 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-204 Developing Solutions for Microsoft Azure Exam?"
-    publishedDateTime: 2021-04-20T19:30:00Z
-    webUrl: "https://www.madinamerica.com/author/download-real-az-204-exam-dumps/"
+  - title: "Microsoft Cloud PC launch could just be months away"
+    excerpt: "The idea of being able to use your computer may appeal to some, especially those who don’t like being tethered to their desks or even homes for long periods of time. So far, however, the"
+    publishedDateTime: 2021-04-21T00:31:00Z
+    webUrl: "https://www.slashgear.com/microsoft-cloud-pc-launch-could-just-be-months-away-20669714/"
+    ampWebUrl: "https://www.slashgear.com/microsoft-cloud-pc-launch-could-just-be-months-away-20669714/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-cloud-pc-launch-could-just-be-months-away-20669714/amp/"
     type: article
     provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 37
+      name: SlashGear
+      domain: slashgear.com
+    quality: 82
     images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "AZ-204 Dumps (2021) Prepare Your Exam with Real Azure Developer Associate Exam Questions"
-    excerpt: "Pass you Microsoft AZ-204 exam in just one go with DumpsArchive AZ-204 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
-    publishedDateTime: 2021-04-19T06:55:00Z
-    webUrl: "https://www.madinamerica.com/author/new-az-204-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 28
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/04/benefit-1.jpg"
+        width: 1280
+        height: 800
         isCached: true
 
 secured: "hgPebk29DjwrchaNx1TYZS6s2mWniHHsa1uSLfY/2DWQraGx9HOWDIbC5gGu3792dTQkGocfGZCvYuao+Vdfb7lfvRYMuoL7i/CwWyuJl6XnHiGUgofruq/iAfvSUGfHqgTBsA60Pq7Emt8AvcuoVNx4jciO/sRDtl8SnJCa3zbBWXxleshxY9QI/J09AOn38JHYJQV5kYkLlzw8pw3sNklr3eoFpa7GdslhfkPiW4nJ3KoaVK7WCoJKooU4ubIBBbaZu2fxgoBGn+mcerJjuLDdbyHkv4tpTxit/iXOjZ1EWqLVmkRQUOnFdTZbPXJgvLJcJcJ2CjtD664jdXBRt+MR6FfBgUKhhVUimQC7JMk=;/AbRzOP26VwctQCQIwn+aQ=="
