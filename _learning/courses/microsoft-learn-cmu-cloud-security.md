@@ -8,7 +8,7 @@ length: PT59M
 ratings:
   count: 116
   average: 4.8103447
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "9CJBg/deVxSyT47aMMZwEYnBBKXfhsbi4z0CkN0/CIJD3RraVwzM1YsHVcVYyf5s8KtwPa3m0bYx+V5F+H/RjBIkfHOc5Pg3chF+u73AN8xB+FKrtiqMCGycf8Hm9rW1lVAnlU7uooQrfJy4enL6oOexD1SdOxlMHKdDa1+nFPLZrLQZAfN57Ex7UCmqMT2+qqnV5LiV2E0CCBTQHa6+OzYWC/fqs0U3vMsCLPgcZeUDDcCZv0i7BbDD0dBolqVwCdo0N9I40wfqCb9CqTotzMdlDtrcpv5aQrIRmxWdh+9VhmAUSjKIuGcCoRJN2ovHeiPUACyrGDzXQanptzhhDHmkVYR+jAYardDiOxki7ZELo801XeXhyfcnjLiFbtEEkBrmBb96DXi5JPWB+6wD2CXuqvexuyPO527Dw1e0ZBo=;2LV2hAoSdmWRX5qtFNhmlA=="
+secured: "0yFQSmv1bjsRcwUejfRld+OvwBR4GGEYp0vewET95XFpFRuoSFz/MHZxTqrOGn/3+XR6oWgbBasxnVZrE7Jrb3d4tbM5KdmgHmz0QVd/seMHz6iKHe9rpuM9xHzA91EqKM/DPS/ESmDGb455snoB3Kex5V4WWYVGLUs0j1It/xBo9fJHbCIsWLJPM4uu+0UIQ5HWJwF1SGm5fCEklBc3KCsXg0YJUgkSI9yIMDbb33z7XoOUJU9ZA8hLEEYIre/OXqVoYwIg6VrJv83z8Yms/SEq+2mehO6Ic+3yB0KfVozqk/pbwPLm9xAbKGKhRnQJ/eVmm6HI3VL9tTtSSFLr6u/eGzEavsG2AHE4TeHlvFPm5gCe17WlmyRg4zRmT1citYPHGr5eAs/88wibr/BfnBI0UG+aPA5r00bPC7pLxeo=;eXNZdmgL0sMqyh0jJ8jbNQ=="
 ---
 

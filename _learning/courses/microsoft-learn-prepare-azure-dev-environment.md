@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT28M
 ratings:
-  count: 5382
-  average: 4.700669
+  count: 5383
+  average: 4.7007246
 heat: 55
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Developer Tools
 
-secured: "U7B4xfwebqzUcxI9mN+R2XL7sqF5SzH1b+pkSsd0LJOcDW53KcABw4srGgQMUmXjS8dk14tLTXqprSib2VvPhrOpeZWbnbVcvAaUsMZuSmum51ADN5yvNTUqe+QGwrbPus/gyoIR6AMpedjH9/qcldKelPZiuTHGLPWZ1ivr8lEsGMp1eWOSJOKSbfS1kSjR7UQqqAYutxHPck3ztuUzfN9+S5IDLk3Fis8h8+2MlzLoFR+Oqro+DZQ4nHFvQjGZytK5mVgF7nfMWa0lx631JhW50mdxAsGkb4rxY1fgcqizEv5eAOZQHieK6V5YRYtrktD/7LAzMu5jGYPP21tyg6IkSQ8N7+tEJllpxzQI0wOe4EEWQdDm+QBmuNZnffyEuoHdDiWT5Fcko3AC2Fh/5dOEqjQ6090PpGgglANQWfU=;KwHmLw3tVeyh6SLI02RFFg=="
+secured: "UAkX6KMopErGYu1UC1zs/emLl82GMayo3JvnmtSFpyO+o6BjjSoa2smkzYM1v34vmFfrkw1niUT7UqSo1iDi9jndQ92yYDvWhEsyd4Z0Uo7yePdmu4Tt9dpQJ9RTziSwg+XiEviqQQN++A0oZf12UQw8ByXuGvGMVL0kA/YwviLq9zPTLrdHD48JAvk1EWVSMtguSqhr9eMLCBZ6wciaNl6XnsuI10P+Bb5Zc2gW54nng+WYT3LZmgvwU8Hr8MR44lRRG6+RE40zfxKKtJz/WaC7BRmZLz7VkEVIp0zM6rMNw5LF9RL9RcJPnazmtr4IIjj83c2aimryoN0tHbhtCdzVlL1a0c39rLOSllwXnuKIaeeQgxnCKzb6uCC8NbfrmgOMdgFLdy33Fde96/cxUceS53vVAu3NpoCfTOPy8p8=;Pm+MIZIS7b03CiYBKJgPtA=="
 ---
 

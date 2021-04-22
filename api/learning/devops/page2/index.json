@@ -4,15 +4,15 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
-      "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
-      "excerpt": "Learn how to troubleshoot inbound network connectivity for Azure Load Balancer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
-      "length": "PT1H38M",
+      "path": "_learning/courses/microsoft-learn-create-a-build-pipeline.md",
+      "title": "Create a build pipeline with Azure Pipelines",
+      "excerpt": "Set up a continuous integration (CI) pipeline that automates the process of building your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-a-build-pipeline/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
+      "length": "PT1H20M",
       "ratings": {
-        "count": 1539,
-        "average": 4.7446394
+        "count": 5284,
+        "average": 4.744701
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,10 +29,10 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 55,
+      "heat": 54,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-inbound-connectivity-azure-load-balancer-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -42,10 +42,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
         "DevOps",
-        "Management Tools",
-        "Networking"
+        "Azure"
       ]
     },
     {
@@ -70,7 +68,7 @@
         ]
       },
       "publishedDateTime": "2019-03-19T08:12:44-07:00",
-      "heat": 55,
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/iTRILNstmFI/maxresdefault.jpg",
@@ -88,15 +86,109 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-capture-page-load-times-application-insights.md",
-      "title": "Capture and view page load times in your Azure web app with Application Insights",
-      "excerpt": "In this module, you'll configure Application Insights and use it to study page load data for an Azure web app.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-capture-page-load-times-application-insights/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/",
-      "length": "PT45M",
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
+      "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
+      "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-cost-optimization/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
+      "length": "PT51M",
       "ratings": {
-        "count": 930,
-        "average": 4.608602
+        "count": 1440,
+        "average": 4.736111
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
+      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
+      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 872,
+        "average": 4.7362385
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases",
+        "Serverless",
+        "Containers",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-implement-code-workflow.md",
+      "title": "Implement a code workflow in your build pipeline by using Git and GitHub",
+      "excerpt": "Learn along with the Space Game web team the benefits of collaboration through Visual Studio Code and GitHub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-code-workflow/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
+      "length": "PT1H27M",
+      "ratings": {
+        "count": 3841,
+        "average": 4.7667274
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -113,10 +205,10 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 54,
+      "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/capture-page-load-times-application-insights-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/implement-a-code-workflow-in-your-build-pipeline-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -126,20 +218,18 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Management Tools",
         "DevOps"
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-query-azure-storage-logs-in-azure-monitor-log-analytics-azure-tips-and-tricks.md",
-      "title": "How to query Azure Storage logs in Azure Monitor Log Analytics | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to upload and analyze Azure Storage logs with Azure Monitor Log Analytics.   For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-query-azure-storage-logs-in-azure-monitor-log-analytics-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-query-azure-storage-logs-in-azure-monitor-log-analytics-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=I9fx5bFMYjQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I9fx5bFMYjQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M55S",
+      "path": "_learning/videos/microsoft-full-stack-end-to-end-monitoring-with-azure-monitor-azure-friday.md",
+      "title": "Full-stack end-to-end monitoring with Azure Monitor | Azure Friday",
+      "excerpt": "Rahul Bagaria joins Lara Rubbelke to discuss Azure Monitor, which now includes Log Analytics and Application Insights. Azure Monitor provides full stack monitoring tools for collecting and analyzing telemetry that allow you to maximize the performance and availability of your cloud and on-premises resources",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-full-stack-end-to-end-monitoring-with-azure-monitor-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-full-stack-end-to-end-monitoring-with-azure-monitor-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=B5X7M0WlOtY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B5X7M0WlOtY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M3S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -152,11 +242,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-25T08:26:43-07:00",
-      "heat": 54,
+      "publishedDateTime": "2019-02-27T16:56:13-08:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/I9fx5bFMYjQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/B5X7M0WlOtY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -167,8 +257,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics",
-        "Storage",
         "DevOps"
       ]
     },
@@ -198,7 +286,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 53,
+      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/github/automate-devops-github-apps-social.png",
@@ -213,6 +301,300 @@
       "topics": [
         "Azure",
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms.md",
+      "title": "Monitor performance of virtual machines by using Azure Monitor for VMs",
+      "excerpt": "Learn how to use Azure Monitor for VMs to monitor your organization's Azure virtual machines.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 274,
+        "average": 4.7591243
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-performance-using-azure-monitor-for-vms-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-run-quality-tests-build-pipeline.md",
+      "title": "Run quality tests in your build pipeline by using Azure Pipelines",
+      "excerpt": "Find out about automated testing that proves your code to be maintainable, understandable, and functioning without repetitive manual testing.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-quality-tests-build-pipeline/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
+      "length": "PT1H22M",
+      "ratings": {
+        "count": 3311,
+        "average": 4.734823
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-quality-tests-when-your-application-builds-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps",
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
+      "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
+      "excerpt": "Learn how to troubleshoot inbound network connectivity for Azure Load Balancer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
+      "length": "PT1H38M",
+      "ratings": {
+        "count": 1539,
+        "average": 4.7446394
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-inbound-connectivity-azure-load-balancer-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-what-is-the-difference-between-vsts-and-azure-devops-one-dev-question-abel-wang.md",
+      "title": "What is the difference between VSTS and Azure DevOps? | One Dev Question: Abel Wang",
+      "excerpt": "In the One Dev Question series, Cloud Developer Advocate Abel Wang explains how Azure DevOps provides developer services to support teams to plan work, collaborate on code development, and build and deploy applications. In this video, Abel explains the differences between VSTS and Azure DevOps.   Get",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-is-the-difference-between-vsts-and-azure-devops-one-dev-question-abel-wang/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-is-the-difference-between-vsts-and-azure-devops-one-dev-question-abel-wang/",
+      "originalUrl": "https://youtube.com/watch?v=x9IeTQAau3Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x9IeTQAau3Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M45S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-06-26T08:02:24-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/x9IeTQAau3Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration.md",
+      "title": "Analyze DevOps Continuous Planning and Continuous Integration",
+      "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 2074,
+        "average": 4.7280617
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-multi-stage-pipeline.md",
+      "title": "Create a multistage pipeline by using Azure Pipelines",
+      "excerpt": "Design and create a realistic release pipeline that promotes changes to various testing and staging environments.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-multi-stage-pipeline/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-multi-stage-pipeline/",
+      "length": "PT1H13M",
+      "ratings": {
+        "count": 1013,
+        "average": 4.7551827
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-multi-stage-pipeline-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-kubernetes.md",
+      "title": "Automate multi-container Kubernetes deployments with Azure Pipelines",
+      "excerpt": "Implement a CI/CD pipeline for multiple containers to Kubernetes.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-kubernetes/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-kubernetes/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 406,
+        "average": 4.6970444
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-kubernetes-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Containers"
       ]
     },
     {
@@ -241,7 +623,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-devops/host-your-own-build-server-in-your-build-pipeline-social.png",
@@ -259,15 +641,50 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-manage-build-dependencies.md",
-      "title": "Manage build dependencies with Azure Artifacts",
-      "excerpt": "In this module, the Space Game web team guides you through creating a build pipeline that produces a package that can be used by multiple applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-build-dependencies/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-build-dependencies/",
-      "length": "PT59M",
+      "path": "_learning/courses/microsoft-learn-introduce-foundation-pillars-devops.md",
+      "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+      "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduce-foundation-pillars-devops/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
+      "length": "PT25M",
       "ratings": {
-        "count": 1918,
-        "average": 4.6850886
+        "count": 3420,
+        "average": 4.6906433
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines.md",
+      "title": "Manage database changes in Azure Pipelines",
+      "excerpt": "Use a release approval in Azure Pipelines to help coordinate database schema changes between developers and database administrators.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-database-changes-in-azure-pipelines/",
+      "length": "PT1H14M",
+      "ratings": {
+        "count": 719,
+        "average": 4.6536856
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -284,10 +701,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-dependencies-in-your-build-pipeline-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-database-changes-in-azure-pipelines-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -297,8 +714,51 @@
       "type": "course",
       "price": "Free",
       "topics": [
+        "Azure",
         "DevOps",
-        "Azure"
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-site-reliability.md",
+      "title": "Manage site reliability",
+      "excerpt": "Learn how to manage site reliability.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-site-reliability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 523,
+        "average": 4.703633
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-site-reliability-social.png",
+          "width": 1000,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
       ]
     },
     {
@@ -327,7 +787,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 53,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-vm-using-diagnostic-data-social.png",
@@ -344,6 +804,332 @@
         "Compute",
         "DevOps",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-scan-open-source.md",
+      "title": "Scan open source components for vulnerabilities and license ratings in Azure Pipelines",
+      "excerpt": "Scan open-source components for security vulnerabilities and assess their license ratings when your application builds in Azure Pipelines.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-scan-open-source/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scan-open-source/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 1984,
+        "average": 4.720766
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-security-and-compliance-in-your-build-pipeline-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps",
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series.md",
+      "title": "How to use Azure Monitor workbooks | Azure Portal Series",
+      "excerpt": "In this video of the Azure Portal “How To” Series, Azure Program Managers Leon Welicki and Shikha Jain show us how workbooks provide a flexible canvas for data analysis and the creation of rich visual reports within the Azure portal. Learn how workbooks allow you to tap into multiple data sources from",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=Z5xRyy3HB8U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z5xRyy3HB8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M45S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-11T08:05:44-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Z5xRyy3HB8U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday.md",
+      "title": "How to use Prometheus to monitor containers in Azure Monitor | Azure Friday",
+      "excerpt": "Keiko Harada joins Scott Hanselman to show how to use Prometheus to monitor containers in Azure Monitor.  Prometheus is a popular open source metric monitoring solution and is a part of Cloud Native Compute Foundation.  Customers who like the extensive metrics which Prometheus provides on Kubernetes",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=5ARJ6DzqTYE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ARJ6DzqTYE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M30S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-11-14T15:31:28-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5ARJ6DzqTYE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-monitor-data-factory-pipelines-using-azure-monitor-and-log-analytics-azure-friday.md",
+      "title": "Monitor Data Factory pipelines using Azure Monitor and Log Analytics | Azure Friday",
+      "excerpt": "NOTE  Throughout this episode there are multiple references to Operations Management Suite; however, this solution actually uses Azure Monitor and Log Analytics.  Gaurav Malhotra joins Scott Hanselman to discuss Azure Data Factory (ADF) integration with Azure Monitor, which enables you to route your",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-monitor-data-factory-pipelines-using-azure-monitor-and-log-analytics-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-monitor-data-factory-pipelines-using-azure-monitor-and-log-analytics-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=B79cjl0BAfY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B79cjl0BAfY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M17S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-27T16:53:15-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B79cjl0BAfY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-automate-your-deployments-with-azure-devops.md",
+      "title": "Automate your deployments with Azure DevOps",
+      "excerpt": "Learn how to combine automation techniques such as infrastructure as code with automated pipelines to provision and configure the infrastructure you need to run your applications and services.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-automate-your-deployments-with-azure-devops/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-automate-your-deployments-with-azure-devops/",
+      "length": "PT4H6M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines.md",
+          "title": "Provision infrastructure in Azure Pipelines",
+          "excerpt": "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-infrastructure-azure-pipelines/",
+          "length": "PT2H2M",
+          "ratings": {
+            "count": 451,
+            "average": 4.6873612
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-configure-infrastructure-azure-pipelines.md",
+          "title": "Configure infrastructure in Azure Pipelines",
+          "excerpt": "Run configuration management tools in Azure Pipelines to help keep your infrastructure configured as you need.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-infrastructure-azure-pipelines/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-infrastructure-azure-pipelines/",
+          "length": "PT1H2M",
+          "ratings": {
+            "count": 467,
+            "average": 4.569593
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/configure-infrastructure-azure-pipelines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-provision-databases-azure-pipelines.md",
+          "title": "Provision databases in Azure Pipelines",
+          "excerpt": "Provision databases in Azure Pipelines",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-databases-azure-pipelines/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-database-azure-pipelines/",
+          "length": "PT1H2M",
+          "ratings": {
+            "count": 0,
+            "average": 0.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/provision-database-azure-pipelines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "DevOps"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/configure-infrastructure-azure-pipelines-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
       ]
     },
     {
@@ -395,7 +1181,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
@@ -437,7 +1223,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/route-system-feedback-social.png",
@@ -461,8 +1247,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
           "length": "PT35M",
           "ratings": {
-            "count": 522,
-            "average": 4.703065
+            "count": 523,
+            "average": 4.703633
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -479,7 +1265,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-site-reliability-social.png",
@@ -497,7 +1283,7 @@
         }
       ],
       "size": 3,
-      "heat": 52,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
@@ -511,6 +1297,54 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
+      "title": "Implement logging in a .NET Framework ASP.NET web application",
+      "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-logging/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-logging/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 37,
+        "average": 4.6216216
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Web",
+        "Compute",
+        "Containers",
+        "Mobile",
+        "Management Tools",
         "DevOps"
       ]
     },
@@ -540,7 +1374,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 52,
+      "heat": 50,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -550,221 +1384,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-a-build-pipeline.md",
-      "title": "Create a build pipeline with Azure Pipelines",
-      "excerpt": "Set up a continuous integration (CI) pipeline that automates the process of building your application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-a-build-pipeline/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
-      "length": "PT1H20M",
+      "path": "_learning/courses/microsoft-learn-cloud-adoption-framework-manage.md",
+      "title": "Ensure stable operations and optimization across all supported workloads deployed to the cloud.",
+      "excerpt": "As workloads are deployed to the cloud, operations is critical to success.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-adoption-framework-manage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-manage/",
+      "length": "PT1H7M",
       "ratings": {
-        "count": 5284,
-        "average": 4.744701
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps",
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-multi-stage-pipeline.md",
-      "title": "Create a multistage pipeline by using Azure Pipelines",
-      "excerpt": "Design and create a realistic release pipeline that promotes changes to various testing and staging environments.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-multi-stage-pipeline/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-multi-stage-pipeline/",
-      "length": "PT1H13M",
-      "ratings": {
-        "count": 1013,
-        "average": 4.7551827
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-multi-stage-pipeline-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-release-pipeline.md",
-      "title": "Create a release pipeline in Azure Pipelines",
-      "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-release-pipeline/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 1212,
-        "average": 4.70132
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explain-devops-continous-delivery-quality.md",
-      "title": "Explain DevOps Continuous Delivery and Continuous Quality",
-      "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explain-devops-continous-delivery-quality/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 1626,
-        "average": 4.731242
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-code-workflow.md",
-      "title": "Implement a code workflow in your build pipeline by using Git and GitHub",
-      "excerpt": "Learn along with the Space Game web team the benefits of collaboration through Visual Studio Code and GitHub.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-code-workflow/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
-      "length": "PT1H27M",
-      "ratings": {
-        "count": 3840,
-        "average": 4.766667
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/implement-a-code-workflow-in-your-build-pipeline-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-site-reliability.md",
-      "title": "Manage site reliability",
-      "excerpt": "Learn how to manage site reliability.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-site-reliability/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 522,
-        "average": 4.703065
+        "count": 2,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -781,52 +1409,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-site-reliability-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms.md",
-      "title": "Monitor performance of virtual machines by using Azure Monitor for VMs",
-      "excerpt": "Learn how to use Azure Monitor for VMs to monitor your organization's Azure virtual machines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 274,
-        "average": 4.7591243
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-performance-using-azure-monitor-for-vms-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/cloud-adoption-framework-manage-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -842,57 +1428,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-recommend-system-feedback-mechanisms.md",
-      "title": "Recommend and design system feedback mechanisms",
-      "excerpt": "Learn how surveys and application analytics create a feedback loop that helps you understand the voice of the customer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recommend-system-feedback-mechanisms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recommend-system-feedback-mechanisms/",
-      "length": "PT49M",
+      "path": "_learning/courses/microsoft-learn-cloud-adoption-framework-strategy.md",
+      "title": "Prepare for successful cloud adoption with a well-defined strategy",
+      "excerpt": "Success in cloud adoption is predicated by a clear strategy that helps the team understand executive direction and regularly measure progress. This module will help capture the cloud adoption strategy needed to drive your success.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-adoption-framework-strategy/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-strategy/",
+      "length": "PT1H2M",
       "ratings": {
-        "count": 361,
-        "average": 4.6648197
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-route-system-feedback.md",
-      "title": "Route system feedback to development teams",
-      "excerpt": "Learn how continuous monitoring and dashboards give you insight into how customers use your software and where patterns of failure occur.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-route-system-feedback/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-system-feedback/",
-      "length": "PT22M",
-      "ratings": {
-        "count": 481,
-        "average": 4.656965
+        "count": 2,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -909,54 +1453,12 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/route-system-feedback-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-run-non-functional-tests-azure-pipelines.md",
-      "title": "Run nonfunctional tests in Azure Pipelines",
-      "excerpt": "Run automated load tests by using Apache JMeter, a form of nonfunctional testing, in Azure Pipelines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-non-functional-tests-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-non-functional-tests-azure-pipelines/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 794,
-        "average": 4.7103276
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-non-functional-tests-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/cloud-adoption-framework-strategy-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -965,128 +1467,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-scan-open-source.md",
-      "title": "Scan open source components for vulnerabilities and license ratings in Azure Pipelines",
-      "excerpt": "Scan open-source components for security vulnerabilities and assess their license ratings when your application builds in Azure Pipelines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-scan-open-source/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scan-open-source/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 1984,
-        "average": 4.720766
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-security-and-compliance-in-your-build-pipeline-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
         "DevOps",
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-full-stack-end-to-end-monitoring-with-azure-monitor-azure-friday.md",
-      "title": "Full-stack end-to-end monitoring with Azure Monitor | Azure Friday",
-      "excerpt": "Rahul Bagaria joins Lara Rubbelke to discuss Azure Monitor, which now includes Log Analytics and Application Insights. Azure Monitor provides full stack monitoring tools for collecting and analyzing telemetry that allow you to maximize the performance and availability of your cloud and on-premises resources",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-full-stack-end-to-end-monitoring-with-azure-monitor-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-full-stack-end-to-end-monitoring-with-azure-monitor-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=B5X7M0WlOtY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B5X7M0WlOtY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M3S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T16:56:13-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B5X7M0WlOtY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-what-is-the-difference-between-vsts-and-azure-devops-one-dev-question-abel-wang.md",
-      "title": "What is the difference between VSTS and Azure DevOps? | One Dev Question: Abel Wang",
-      "excerpt": "In the One Dev Question series, Cloud Developer Advocate Abel Wang explains how Azure DevOps provides developer services to support teams to plan work, collaborate on code development, and build and deploy applications. In this video, Abel explains the differences between VSTS and Azure DevOps.   Get",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-is-the-difference-between-vsts-and-azure-devops-one-dev-question-abel-wang/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-is-the-difference-between-vsts-and-azure-devops-one-dev-question-abel-wang/",
-      "originalUrl": "https://youtube.com/watch?v=x9IeTQAau3Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x9IeTQAau3Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M45S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-06-26T08:02:24-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/x9IeTQAau3Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
+        "Management Tools"
       ]
     },
     {
@@ -1115,7 +1497,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-devops/configure-infrastructure-azure-pipelines-social.png",
@@ -1130,252 +1512,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-define-foundation-pillars.md",
-      "title": "Define the foundation pillars of DevOps: Architecture and Technology",
-      "excerpt": "There are three things required to make DevOps happen: the cultural component, tools and technology, and architecture. Discover the last two foundation pillars of DevOps, Architecture and Technology!",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-define-foundation-pillars/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-foundation-pillars/",
-      "length": "PT16M",
-      "ratings": {
-        "count": 1714,
-        "average": 4.743874
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-azure-functions.md",
-      "title": "Automate Azure Functions deployments with Azure Pipelines",
-      "excerpt": "Implement a CI/CD pipeline for Azure Functions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-azure-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-functions/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 380,
-        "average": 4.6894736
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-azure-functions-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-docker.md",
-      "title": "Automate Docker container deployments with Azure Pipelines",
-      "excerpt": "Implement a CI/CD pipeline for Docker containers.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-docker/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-docker/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 348,
-        "average": 4.7270117
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-docker-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduce-foundation-pillars-devops.md",
-      "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
-      "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduce-foundation-pillars-devops/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 3420,
-        "average": 4.6906433
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-release-cadence.md",
-      "title": "Manage release cadence in Azure Pipelines by using deployment patterns",
-      "excerpt": "Choose and implement a deployment pattern that helps you smoothly roll out new application features to your users.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-release-cadence/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-release-cadence/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 609,
-        "average": 4.71757
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-release-cadence-using-deployment-patterns-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-report-aad-security-events.md",
-      "title": "Monitor and report on security events in Azure AD",
-      "excerpt": "Keep tabs on security events in your Azure AD resources by using built-in reporting and monitoring capabilities. Respond to events as they happen, and address security risks before they become a problem.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-report-aad-security-events/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-report-aad-security-events/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 400,
-        "average": 4.635
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-report-aad-security-events-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "DevOps",
-        "Management Tools",
-        "Security"
       ]
     }
   ],

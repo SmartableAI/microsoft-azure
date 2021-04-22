@@ -4,94 +4,15 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series.md",
-      "title": "How to create a load balancer | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to configure load balancers and how to add virtual machines to them in the Azure Portal.   Try out these features in the Azure portal: https://ms.portal.azure.com/#home   Keep connected on Twitter: https://twitter.com/AzurePortal",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=-VMPzVoo5Nk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-VMPzVoo5Nk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M48S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-24T12:51:39-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-VMPzVoo5Nk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday.md",
-      "title": "Using Azure Cross-region Load Balancer for high availability scenarios | Azure Friday",
-      "excerpt": "Irene Huang joins Scott Hanselman to show him Cross-region Load Balancer, which recently became available for Public Preview. Cross-region Load Balancer is a Public layer-4 network load balancer serving as a single point of contact for global traffic. It provides efficient routing by leveraging Microsoft's",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=3awUwUIv950",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3awUwUIv950\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M11S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-26T08:29:39-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3awUwUIv950/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
-      "title": "Microsoft Azure Well-Architected Framework - Reliability",
-      "excerpt": "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-reliability/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
-      "length": "PT59M",
+      "path": "_learning/courses/microsoft-learn-enterprise-scale-networking.md",
+      "title": "Enterprise-scale architecture networking design principles",
+      "excerpt": "Enterprise-scale architecture networking design principles",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-networking/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-networking/",
+      "length": "PT54M",
       "ratings": {
-        "count": 904,
-        "average": 4.7323008
+        "count": 203,
+        "average": 4.6748767
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -106,12 +27,12 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Advanced"
       ],
       "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-reliability-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-networking-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -122,25 +43,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Storage",
-        "Databases",
-        "Management Tools",
-        "Migration",
-        "Networking",
-        "Compute",
-        "Web"
+        "Networking"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-host-domain-azure-dns.md",
-      "title": "Host your domain on Azure DNS",
-      "excerpt": "Learn how to host your domain on Azure DNS.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-domain-azure-dns/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
-      "length": "PT43M",
+      "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
+      "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
+      "excerpt": "Learn how to troubleshoot inbound network connectivity for Azure Load Balancer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
+      "length": "PT1H38M",
       "ratings": {
-        "count": 3779,
-        "average": 4.814766
+        "count": 1539,
+        "average": 4.7446394
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -160,7 +75,7 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/host-domain-azure-dns-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-inbound-connectivity-azure-load-balancer-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -171,6 +86,8 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "DevOps",
+        "Management Tools",
         "Networking"
       ]
     },
@@ -477,6 +394,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-design-a-hybrid-network-architecture.md",
+      "title": "Design a hybrid network architecture on Azure",
+      "excerpt": "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-hybrid-network-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-hybrid-network-architecture/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 1606,
+        "average": 4.660025
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-a-hybrid-network-architecture-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-design-for-availability-and-recoverability.md",
       "title": "Design for availability and recoverability in Azure",
       "excerpt": "Learn how to handle infrastructure and service failure, recover from the loss if data, and recover from a disaster by designing availability and recoverability into your architecture.",
@@ -578,15 +538,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-enterprise-scale-networking.md",
-      "title": "Enterprise-scale architecture networking design principles",
-      "excerpt": "Enterprise-scale architecture networking design principles",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-networking/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-networking/",
-      "length": "PT54M",
+      "path": "_learning/courses/microsoft-learn-distribute-load-with-traffic-manager.md",
+      "title": "Enhance your service availability and data locality by using Azure Traffic Manager",
+      "excerpt": "Discover how Azure Traffic Manager provides DNS load balancing for your application to improve the performance and availability of your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-load-with-traffic-manager/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
+      "length": "PT29M",
       "ratings": {
-        "count": 203,
-        "average": 4.6748767
+        "count": 2796,
+        "average": 4.608369
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -601,14 +561,14 @@
         ]
       },
       "levels": [
-        "Advanced"
+        "Beginner"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-networking-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/distribute-load-with-traffic-manager-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -883,6 +843,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qYsVaAmni30/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday.md",
+      "title": "Using Azure Cross-region Load Balancer for high availability scenarios | Azure Friday",
+      "excerpt": "Irene Huang joins Scott Hanselman to show him Cross-region Load Balancer, which recently became available for Public Preview. Cross-region Load Balancer is a Public layer-4 network load balancer serving as a single point of contact for global traffic. It provides efficient routing by leveraging Microsoft's",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=3awUwUIv950",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3awUwUIv950\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M11S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-26T08:29:39-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3awUwUIv950/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

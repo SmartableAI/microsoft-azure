@@ -2,7 +2,7 @@
 title: "One Dev Question on Azure"
 excerpt: ""
 type: collection
-heat: 66
+heat: 60
 
 provider:
   name: Microsoft

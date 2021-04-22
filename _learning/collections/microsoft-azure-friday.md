@@ -2,7 +2,7 @@
 title: "Azure Friday"
 excerpt: "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights."
 type: collection
-heat: 102
+heat: 100
 
 provider:
   name: Microsoft

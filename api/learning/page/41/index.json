@@ -4,6 +4,171 @@
   "page": 41,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-provision-and-use-azure-dsvm.md",
+      "title": "Provision and use an Azure Data Science Virtual Machine",
+      "excerpt": "Provision and use an Azure Data Science Virtual Machine",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-and-use-azure-dsvm/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-and-use-azure-dsvm/",
+      "length": "53 mins",
+      "ratings": {
+        "count": 781,
+        "average": 4.62484
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/provision-and-use-azure-dsvm-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Provision and use an Azure Data Science Virtual Machine",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-provision-databases-azure-pipelines.md",
+      "title": "Provision databases in Azure Pipelines",
+      "excerpt": "Provision databases in Azure Pipelines",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-databases-azure-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-database-azure-pipelines/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/provision-database-azure-pipelines-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines.md",
+      "title": "Provision infrastructure in Azure Pipelines",
+      "excerpt": "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-infrastructure-azure-pipelines/",
+      "length": "PT2H2M",
+      "ratings": {
+        "count": 451,
+        "average": 4.6873612
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-app-with-maven-plugin-for-azure-web-apps.md",
+      "title": "Publish a web app to Azure by using the Maven Plugin for Azure App Service",
+      "excerpt": "Use the Maven plugin for Azure App Service to develop a Java web app and deploy the app to Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-app-with-maven-plugin-for-azure-web-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-web-app-with-maven-plugin-for-azure-app-service/",
+      "length": "PT54M",
+      "ratings": {
+        "count": 25,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-app-with-maven-plugin-for-azure-web-apps-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-publish-azure-web-app-with-azure-toolkit-eclipse.md",
       "title": "Publish a web app to Azure by using Azure Toolkit for Eclipse",
       "excerpt": "Create a web app in Eclipse and deploy the app to Azure by using Azure Toolkit for Eclipse.",
@@ -295,48 +460,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-qsharp-create-first-quantum-development-kit.md",
-      "title": "Create your first Q# program by using the Quantum Development Kit",
-      "excerpt": "Get started with Q# programming by building a quantum random number generator.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-qsharp-create-first-quantum-development-kit/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/qsharp-create-first-quantum-development-kit/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 356,
-        "average": 4.803371
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/quantum/qsharp-create-first-quantum-development-kit-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-qsharp-explore-key-concepts-quantum-computing.md",
       "title": "Explore the key concepts of quantum computing by using Q#",
       "excerpt": "Learn the fundamental concepts of quantum computing by using tools in Q# and the Quantum Development Kit.",
@@ -597,93 +720,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-query-logs-azure-sentinel.md",
-      "title": "Query logs in Azure Sentinel",
-      "excerpt": "Query logs in Azure Sentinel",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-query-logs-azure-sentinel/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-logs-azure-sentinel/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 210,
-        "average": 4.757143
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-recognize-entities-text-analytics-api.md",
-      "title": "Recognize entities in text with the text analytics API",
-      "excerpt": "Identify and categorize entities in your text as people, places, organizations, date/time, quantities, percentages, currencies, and more.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recognize-entities-text-analytics-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-entities-text-analytics-api/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 161,
-        "average": 4.7391305
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/recognize-entities-in-text-with-the-text-analytics-api-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-recognize-voices-with-speaker-recognition.md",
       "title": "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services",
       "excerpt": "This module guides you through learning about speaker recognition and how to use the Speaker Recognition APIs to identify specific people through their voices.",
@@ -728,6 +764,91 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-recommend-system-feedback-mechanisms.md",
+      "title": "Recommend and design system feedback mechanisms",
+      "excerpt": "Learn how surveys and application analytics create a feedback loop that helps you understand the voice of the customer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recommend-system-feedback-mechanisms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recommend-system-feedback-mechanisms/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 361,
+        "average": 4.6648197
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
+          "width": 1000,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-register-and-deploy-model-with-amls.md",
+      "title": "Deploy real-time machine learning services with Azure Machine Learning",
+      "excerpt": "Learn how to register and deploy ML models as real-rim services with the Azure Machine Learning service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-register-and-deploy-model-with-amls/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 1353,
+        "average": 4.654841
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/register-and-deploy-model-with-amls-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service.md",
       "title": "Register and manage devices with Connected Field Service for Dynamics 365 and Azure IoT",
       "excerpt": "Register and Manage Customer Devices with Connected Field Service.",
@@ -754,6 +875,92 @@
         "Intermediate"
       ],
       "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-remediate-azure-defender-security-alerts.md",
+      "title": "Remediate security alerts using Azure Defender",
+      "excerpt": "Remediate security alerts using Azure Defender",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remediate-azure-defender-security-alerts/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remediate-azure-defender-security-alerts/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 287,
+        "average": 4.8501744
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-remotely-monitor-and-control-devices-with-azure-iot-hub.md",
+      "title": "Remotely monitor and control devices with Azure IoT Hub",
+      "excerpt": "Create an IoT Hub device app, and a back-end service app. As a scenario, we use the monitoring, and controlling, of the temperature and humidity of a cheese cave.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remotely-monitor-and-control-devices-with-azure-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 309,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/remotely-monitor-and-control-devices-with-azure-iot-hub-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -1043,221 +1250,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-review-planning-managing-costs.md",
-      "title": "Review planning and managing Azure costs",
-      "excerpt": "Estimating costs and managing your spend are crucial skills you will want when moving into the cloud.  Lets explore your options.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-review-planning-managing-costs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/review-planning-managing-costs/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 1,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Review planning and managing Azure costs",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-run-cognitive-services-iot-edge.md",
-      "title": "Run Cognitive Services on IoT Edge",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-cognitive-services-iot-edge/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-cognitive-services-iot-edge/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 84,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/run-cognitive-services-on-iot-edge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-run-iot-edge-device-restricted-network-offline.md",
-      "title": "Run an IoT Edge device in a restricted network and offline",
-      "excerpt": "This module is theoretical and will walk you through how an IoT Edge device can be harnessed as a gateway to child devices and can store captured information if connectivity is unavailable.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-iot-edge-device-restricted-network-offline/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-iot-edge-device-restricted-network-offline/",
-      "length": "PT2H5M",
-      "ratings": {
-        "count": 17,
-        "average": 4.529412
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/run-iot-edge-device-restricted-network-offline-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-run-petabyte-level-oss-nosql-databases-with-hdinsight-hbase.md",
-      "title": "Run Petabyte level OSS NoSQL databases with HDInsight HBase",
-      "excerpt": "Run Petabyte level OSS NoSQL databases with HDInsight HBase",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-petabyte-level-oss-nosql-databases-with-hdinsight-hbase/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-petabyte-level-oss-nosql-databases-hdinsight-hbase/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 22,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/run-petabyte-level-oss-nosql-databases-with-hdinsight-hbase-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-run-quantum-algorithms-hardware.md",
-      "title": "Run algorithms on quantum hardware by using Azure Quantum",
-      "excerpt": "Get started with quantum computing on Azure Quantum and learn how create and run Q# quantum programs on quantum computers on the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-quantum-algorithms-hardware/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-algorithms-quantum-hardware-azure-quantum/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 19,
-        "average": 4.5263157
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

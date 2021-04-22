@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 11160,
-            "average": 4.7248206
+            "count": 11167,
+            "average": 4.7249036
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,7 +52,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 103,
+          "heat": 111,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
@@ -80,8 +80,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 9884,
-            "average": 4.7603197
+            "count": 9892,
+            "average": 4.760311
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -98,7 +98,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 96,
+          "heat": 100,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-compute-fundamentals-social.png",
@@ -125,8 +125,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 7914,
-            "average": 4.7621937
+            "count": 7919,
+            "average": 4.7622175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -143,7 +143,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 93,
+          "heat": 96,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-storage-fundamentals-social.png",
@@ -168,8 +168,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 8630,
-            "average": 4.638007
+            "count": 8636,
+            "average": 4.6380267
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -186,7 +186,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 96,
+          "heat": 98,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-networking-fundamentals-social.png",
@@ -205,7 +205,7 @@
         }
       ],
       "size": 4,
-      "heat": 115,
+      "heat": 120,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
@@ -227,6 +227,52 @@
         "Analytics",
         "AI",
         "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
+      "title": "Explore Azure database and analytics services",
+      "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 11167,
+        "average": 4.7249036
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Analytics",
+        "AI",
+        "Storage"
       ]
     },
     {
@@ -260,8 +306,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 11531,
-            "average": 4.774781
+            "count": 11543,
+            "average": 4.7750154
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -278,7 +324,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 103,
+          "heat": 105,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/get-started-ai-fundamentals-social.png",
@@ -297,7 +343,7 @@
         }
       ],
       "size": 1,
-      "heat": 103,
+      "heat": 105,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-started-ai-fundamentals-social.png",
@@ -315,52 +361,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
-      "title": "Explore Azure database and analytics services",
-      "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 11160,
-        "average": 4.7248206
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 103,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Analytics",
-        "AI",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-get-started-ai-fundamentals.md",
       "title": "Get started with AI on Azure",
       "excerpt": "With AI, we can build solutions that seemed like science fiction a short time ago; enabling incredible advances in health care, financial management, environmental protection, and other areas to make a better world for everyone.",
@@ -368,8 +368,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 11531,
-        "average": 4.774781
+        "count": 11543,
+        "average": 4.7750154
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -386,7 +386,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 103,
+      "heat": 105,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-started-ai-fundamentals-social.png",
@@ -434,8 +434,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 7663,
-            "average": 4.7785463
+            "count": 7667,
+            "average": 4.7785316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -452,7 +452,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 91,
+          "heat": 94,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -477,8 +477,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 5874,
-            "average": 4.7213144
+            "count": 5877,
+            "average": 4.7214565
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -495,7 +495,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 81,
+          "heat": 87,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -520,8 +520,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 5221,
-            "average": 4.7563686
+            "count": 5226,
+            "average": 4.756602
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -538,7 +538,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 83,
+          "heat": 86,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -564,8 +564,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 4916,
-            "average": 4.752034
+            "count": 4920,
+            "average": 4.752236
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -582,7 +582,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 73,
+          "heat": 86,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -601,7 +601,7 @@
         }
       ],
       "size": 6,
-      "heat": 99,
+      "heat": 104,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -633,8 +633,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 7663,
-        "average": 4.7785463
+        "count": 7667,
+        "average": 4.7785316
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -651,7 +651,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 91,
+      "heat": 94,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -891,7 +891,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 58,
+          "heat": 57,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png",
@@ -934,7 +934,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 59,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/classify-images-custom-vision-social.png",
@@ -977,7 +977,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 56,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/detect-objects-images-custom-vision-social.png",
@@ -1020,7 +1020,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 55,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/detect-analyze-faces-social.png",
@@ -1039,7 +1039,7 @@
         }
       ],
       "size": 6,
-      "heat": 69,
+      "heat": 66,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png",
@@ -1105,7 +1105,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 57,
+          "heat": 54,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1141,7 +1141,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 56,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
@@ -1185,7 +1185,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/translate-text-with-translation-service-social.png",
@@ -1228,7 +1228,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 57,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-publish-luis-model-social.png",
@@ -1248,7 +1248,7 @@
         }
       ],
       "size": 4,
-      "heat": 68,
+      "heat": 63,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
@@ -1298,1582 +1298,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-ai-business-school-for-education.md",
-      "title": "AI business school for education",
-      "excerpt": "Learn to develop an AI strategy to create value in government, including artificial intelligence and machine learning technologies, culture, and responsible AI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-business-school-for-education/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-business-school-for-education/",
-      "length": "PT9H42M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
-          "title": "Define an AI strategy to create business value",
-          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 2806,
-            "average": 4.707769
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-ai-strategy-in-education.md",
-          "title": "Define an AI strategy to create value in education",
-          "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in education that creates value, with INSEAD and Microsoft.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-education/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-education/",
-          "length": "PT51M",
-          "ratings": {
-            "count": 633,
-            "average": 4.764613
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-education-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
-          "title": "Understand the importance of building an AI-ready culture",
-          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
-          "length": "PT49M",
-          "ratings": {
-            "count": 1147,
-            "average": 4.7419353
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
-          "title": "Discover how to foster an AI-ready culture in finance",
-          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 759,
-            "average": 4.7997365
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-ai-business-school-for-financial-services.md",
-      "title": "AI business school for financial services",
-      "excerpt": "Learn to develop an enterprise AI strategy to create business value in financial services, including machine learning technologies, and culture.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-business-school-for-financial-services/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-business-school-for-financial-services/",
-      "length": "PT9H36M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
-          "title": "Define an AI strategy to create business value",
-          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 2806,
-            "average": 4.707769
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-ai-strategy-in-financial-services.md",
-          "title": "Define an AI strategy to create business value in financial services",
-          "excerpt": "Explore the strategic components, use cases, and special factors of an AI strategy in financial services that creates business value, with INSEAD and Microsoft.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-financial-services/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-financial-services/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 918,
-            "average": 4.739651
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-financial-services-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
-          "title": "Understand the importance of building an AI-ready culture",
-          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
-          "length": "PT49M",
-          "ratings": {
-            "count": 1147,
-            "average": 4.7419353
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
-          "title": "Discover how to foster an AI-ready culture in finance",
-          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 759,
-            "average": 4.7997365
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-ai-business-school-for-government.md",
-      "title": "AI business school for government",
-      "excerpt": "Learn to develop an AI strategy to create value in education. Including artificial intelligence and machine learning technologies, culture, and responsible AI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-business-school-for-government/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-business-school-for-government/",
-      "length": "PT9H45M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
-          "title": "Define an AI strategy to create business value",
-          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 2806,
-            "average": 4.707769
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-ai-strategy-in-government.md",
-          "title": "Define an AI strategy to create value in government",
-          "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in Government that creates value, with INSEAD and Microsoft.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-government/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-government/",
-          "length": "PT47M",
-          "ratings": {
-            "count": 650,
-            "average": 4.736923
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-government-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
-          "title": "Understand the importance of building an AI-ready culture",
-          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
-          "length": "PT49M",
-          "ratings": {
-            "count": 1147,
-            "average": 4.7419353
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
-          "title": "Discover how to foster an AI-ready culture in finance",
-          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 759,
-            "average": 4.7997365
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-ai-business-school-for-healthcare.md",
-      "title": "AI business school for healthcare",
-      "excerpt": "Learn to develop an AI strategy to create business value in healthcare, including machine learning technologies, culture, and responsible AI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-business-school-for-healthcare/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-business-school-for-healthcare/",
-      "length": "PT9H31M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
-          "title": "Define an AI strategy to create business value",
-          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 2806,
-            "average": 4.707769
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-ai-strategy-in-healthcare.md",
-          "title": "Define an AI strategy to create business value in healthcare",
-          "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in healthcare that creates business value, with INSEAD and Microsoft.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-healthcare/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-healthcare/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 739,
-            "average": 4.7807846
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-healthcare-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
-          "title": "Understand the importance of building an AI-ready culture",
-          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
-          "length": "PT49M",
-          "ratings": {
-            "count": 1147,
-            "average": 4.7419353
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
-          "title": "Discover how to foster an AI-ready culture in finance",
-          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 759,
-            "average": 4.7997365
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-ai-business-school-for-manufacturing.md",
-      "title": "AI business school for manufacturing",
-      "excerpt": "Learn to develop an enterprise AI strategy to create business value in manufacturing, including machine learning technologies, and culture.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-business-school-for-manufacturing/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-business-school-for-manufacturing/",
-      "length": "PT9H32M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
-          "title": "Define an AI strategy to create business value",
-          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 2806,
-            "average": 4.707769
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-ai-strategy-in-manufacturing.md",
-          "title": "Define an AI strategy to create business value in manufacturing",
-          "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in manufacturing that creates business value, with INSEAD and Microsoft.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-manufacturing/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-manufacturing/",
-          "length": "PT41M",
-          "ratings": {
-            "count": 782,
-            "average": 4.7544756
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-manufacturing-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
-          "title": "Understand the importance of building an AI-ready culture",
-          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
-          "length": "PT49M",
-          "ratings": {
-            "count": 1147,
-            "average": 4.7419353
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
-          "title": "Discover how to foster an AI-ready culture in finance",
-          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 759,
-            "average": 4.7997365
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-ai-business-school-for-retail.md",
-      "title": "AI business school for retail",
-      "excerpt": "Learn to develop an enterprise AI strategy to create business value in retail, including artificial intelligence and machine learning technology, culture.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-business-school-for-retail/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-business-school-for-retail/",
-      "length": "PT9H31M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
-          "title": "Define an AI strategy to create business value",
-          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 2806,
-            "average": 4.707769
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-ai-strategy-in-retail.md",
-          "title": "Define an AI strategy to create business value in retail",
-          "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in retail that creates business value, with INSEAD and Microsoft.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-retail/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-retail/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 706,
-            "average": 4.7662888
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-retail-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
-          "title": "Understand the importance of building an AI-ready culture",
-          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
-          "length": "PT49M",
-          "ratings": {
-            "count": 1147,
-            "average": 4.7419353
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
-          "title": "Discover how to foster an AI-ready culture in finance",
-          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 759,
-            "average": 4.7997365
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-build-ai-solutions-with-azure-machine-learning.md",
-      "title": "Build AI solutions with Azure Machine Learning",
-      "excerpt": "Azure Machine Learning is a cloud platform for training, deploying, managing, and monitoring machine learning models. Learn how to use the Azure Machine Learning Python SDK to create enterprise-ready machine learning solutions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-ai-solutions-with-azure-machine-learning/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-ai-solutions-with-azure-machine-learning/",
-      "length": "PT9H13M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
-          "title": "Introduction to the Azure Machine Learning SDK",
-          "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-machine-learning-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 2885,
-            "average": 4.6471405
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Developer tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-train-local-model-with-azure-mls.md",
-          "title": "Train a machine learning model with Azure Machine Learning",
-          "excerpt": "Learn how to use Azure Machine Learning to train a model and register it in a workspace.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-local-model-with-azure-mls/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 2015,
-            "average": 4.6272955
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/train-local-model-with-azure-mls-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-work-with-data-in-aml.md",
-          "title": "Work with Data in Azure Machine Learning",
-          "excerpt": "Learn how to work with datastores and datasets in Azure Machine Learning.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-data-in-aml/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 1130,
-            "average": 4.664602
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
-          "title": "Work with Compute in Azure Machine Learning",
-          "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 1007,
-            "average": 4.678252
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service.md",
-      "title": "Create Intelligent Bots with the Azure Bot Service",
-      "excerpt": "In this learning path, find out how to build a chat bot to interact with customers using text, graphics, or speech with extras from QnA Maker and LUIS.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service/",
-      "length": "PT29M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service.md",
-          "title": "Build a bot with QnA Maker and Azure Bot Service",
-          "excerpt": "Learn how to create a bot that answers frequently asked questions.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 3265,
-            "average": 4.72098
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 62,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/build-faq-chatbot-qna-maker-azure-bot-service-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 1,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-faq-chatbot-qna-maker-azure-bot-service-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
         "AI"
       ]
     },
@@ -2970,7 +1394,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/spark-architecture-fundamentals-social.png",
@@ -3014,7 +1438,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/read-write-data-azure-databricks-social.png",
@@ -3189,7 +1613,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/spark-architecture-fundamentals-social.png",
@@ -3233,7 +1657,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/read-write-data-azure-databricks-social.png",
@@ -3316,12 +1740,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-process-and-classify-images-with-the-azure-cognitive-vision-services.md",
-      "title": "Process and classify images with the Azure cognitive vision services",
-      "excerpt": "Process and classify images with the Azure cognitive vision services",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-process-and-classify-images-with-the-azure-cognitive-vision-services/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-process-and-classify-images-with-the-azure-cognitive-vision-services/",
-      "length": "PT3H15M",
+      "path": "_learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services.md",
+      "title": "Process natural language with Azure Cognitive Language Services",
+      "excerpt": "Process natural language with Azure Cognitive Language Services",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services/",
+      "length": "PT2H51M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -3339,15 +1763,15 @@
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-identify-faces-with-computer-vision.md",
-          "title": "Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services",
-          "excerpt": "Learn how to use the Computer Vision API in Azure to identify facial details in pictures",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identify-faces-with-computer-vision/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-faces-with-computer-vision/",
-          "length": "PT53M",
+          "path": "_learning/courses/microsoft-learn-add-conversational-intelligence-luis.md",
+          "title": "Add basic conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)",
+          "excerpt": "Learn to identify valuable information in conversations with LUIS for interpreting user goals (intents) and distill valuable information from sentences (entities).",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-conversational-intelligence-luis/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-basic-conversational-intelligence/",
+          "length": "PT27M",
           "ratings": {
-            "count": 1519,
-            "average": 4.6530614
+            "count": 143,
+            "average": 4.7552447
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3367,7 +1791,221 @@
           "heat": 52,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/identify-faces-with-computer-vision-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/add-conversational-intelligence-with-luis-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-language-understanding-intelligent-service-apps.md",
+          "title": "Manage your Language Understanding Intelligent Service (LUIS) Apps",
+          "excerpt": "Learn to manage LUIS apps through versioning, key management, handling data, and improving predictions.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-language-understanding-intelligent-service-apps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-language-understanding-intelligent-service-apps/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 115,
+            "average": 4.7652173
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/manage-your-language-understanding-intelligent-service-luis-apps-social.png",
+              "width": 642,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-use-containers-language-understanding-intelligent-service-apps.md",
+          "title": "Use containers for your Language Understanding Intelligent Service (LUIS) Apps",
+          "excerpt": "The Language Understanding (LUIS) container loads your trained or published Language Understanding model. As a LUIS app, the docker container provides access to the query predictions from the container's API endpoints",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-containers-language-understanding-intelligent-service-apps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-containers-language-understanding-intelligent-service-apps/",
+          "length": "PT18M",
+          "ratings": {
+            "count": 154,
+            "average": 4.733766
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/use-containers-for-your-language-understanding-intelligent-service-luis-apps-social.png",
+              "width": 642,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api.md",
+          "title": "Discover sentiment in text with the Text Analytics API",
+          "excerpt": "Learn how to use the Text Analytics API and Azure Functions to discover what your customers are really saying in their feedback about your products or brands.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 1741,
+            "average": 4.6283746
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Management Tools",
+            "Compute",
+            "Serverless",
+            "Storage",
+            "AI",
+            "Analytics"
+          ]
+        }
+      ],
+      "size": 7,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/add-conversational-intelligence-with-luis-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-ai-business-school-for-retail.md",
+      "title": "AI business school for retail",
+      "excerpt": "Learn to develop an enterprise AI strategy to create business value in retail, including artificial intelligence and machine learning technology, culture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-business-school-for-retail/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-business-school-for-retail/",
+      "length": "PT9H31M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
+          "title": "Define an AI strategy to create business value",
+          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 2806,
+            "average": 4.707769
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
               "width": 800,
               "height": 400,
               "isCached": true
@@ -3378,92 +2016,19 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Developer Tools",
             "AI"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-create-computer-vision-service.md",
-          "title": "Process images with the Computer Vision service",
-          "excerpt": "Use the Computer Vision API to analyze images for insights, extract text from images, and generate high-quality thumbnails.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-computer-vision-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-computer-vision-service-to-classify-images/",
-          "length": "PT32M",
+          "path": "_learning/courses/microsoft-learn-ai-strategy-in-retail.md",
+          "title": "Define an AI strategy to create business value in retail",
+          "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in retail that creates business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-retail/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-retail/",
+          "length": "PT40M",
           "ratings": {
-            "count": 1462,
-            "average": 4.6559505
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-classify-images-with-custom-vision-services.md",
-          "title": "Classify images with the Microsoft Custom Vision Service",
-          "excerpt": "In this learning path, find out how Cognitive Vision Services detects faces, tags and classifies images, and identifies objects.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-images-with-custom-vision-services/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 1554,
-            "average": 4.668597
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-extract-insights-from-videos-with-video-indexer-service.md",
-          "title": "Extract insights from videos with the Video Indexer service",
-          "excerpt": "Learn how to use the Video Indexer API to upload, index, retrieve insights, and search for content in video files.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-extract-insights-from-videos-with-video-indexer-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-insights-from-videos-with-video-indexer-service/",
-          "length": "PT27M",
-          "ratings": {
-            "count": 110,
-            "average": 4.690909
+            "count": 707,
+            "average": 4.7666197
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3483,9 +2048,95 @@
           "heat": 51,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-retail-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
+          "title": "Understand the importance of building an AI-ready culture",
+          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 1147,
+            "average": 4.7419353
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
+          "title": "Discover how to foster an AI-ready culture in finance",
+          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 759,
+            "average": 4.7997365
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
@@ -3498,11 +2149,11 @@
           ]
         }
       ],
-      "size": 4,
-      "heat": 62,
+      "size": 12,
+      "heat": 61,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/identify-faces-with-computer-vision-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -3510,49 +2161,6 @@
       ],
       "content": "\r\n",
       "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service.md",
-      "title": "Build a bot with QnA Maker and Azure Bot Service",
-      "excerpt": "Learn how to create a bot that answers frequently asked questions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 3265,
-        "average": 4.72098
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-faq-chatbot-qna-maker-azure-bot-service-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
@@ -3651,7 +2259,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png",
@@ -3778,6 +2386,1281 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-build-ai-solutions-with-azure-machine-learning.md",
+      "title": "Build AI solutions with Azure Machine Learning",
+      "excerpt": "Azure Machine Learning is a cloud platform for training, deploying, managing, and monitoring machine learning models. Learn how to use the Azure Machine Learning Python SDK to create enterprise-ready machine learning solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-ai-solutions-with-azure-machine-learning/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-ai-solutions-with-azure-machine-learning/",
+      "length": "PT9H13M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
+          "title": "Introduction to the Azure Machine Learning SDK",
+          "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-machine-learning-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 2885,
+            "average": 4.6471405
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI",
+            "Developer tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-train-local-model-with-azure-mls.md",
+          "title": "Train a machine learning model with Azure Machine Learning",
+          "excerpt": "Learn how to use Azure Machine Learning to train a model and register it in a workspace.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-local-model-with-azure-mls/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 2015,
+            "average": 4.6272955
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/train-local-model-with-azure-mls-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-work-with-data-in-aml.md",
+          "title": "Work with Data in Azure Machine Learning",
+          "excerpt": "Learn how to work with datastores and datasets in Azure Machine Learning.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-data-in-aml/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 1130,
+            "average": 4.664602
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
+          "title": "Work with Compute in Azure Machine Learning",
+          "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 1007,
+            "average": 4.678252
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-ai-business-school-for-education.md",
+      "title": "AI business school for education",
+      "excerpt": "Learn to develop an AI strategy to create value in government, including artificial intelligence and machine learning technologies, culture, and responsible AI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-business-school-for-education/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-business-school-for-education/",
+      "length": "PT9H42M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
+          "title": "Define an AI strategy to create business value",
+          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 2806,
+            "average": 4.707769
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-in-education.md",
+          "title": "Define an AI strategy to create value in education",
+          "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in education that creates value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-education/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-education/",
+          "length": "PT51M",
+          "ratings": {
+            "count": 633,
+            "average": 4.764613
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-education-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
+          "title": "Understand the importance of building an AI-ready culture",
+          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 1147,
+            "average": 4.7419353
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
+          "title": "Discover how to foster an AI-ready culture in finance",
+          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 759,
+            "average": 4.7997365
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-ai-business-school-for-financial-services.md",
+      "title": "AI business school for financial services",
+      "excerpt": "Learn to develop an enterprise AI strategy to create business value in financial services, including machine learning technologies, and culture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-business-school-for-financial-services/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-business-school-for-financial-services/",
+      "length": "PT9H36M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
+          "title": "Define an AI strategy to create business value",
+          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 2806,
+            "average": 4.707769
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-in-financial-services.md",
+          "title": "Define an AI strategy to create business value in financial services",
+          "excerpt": "Explore the strategic components, use cases, and special factors of an AI strategy in financial services that creates business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-financial-services/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-financial-services/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 918,
+            "average": 4.739651
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-financial-services-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
+          "title": "Understand the importance of building an AI-ready culture",
+          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 1147,
+            "average": 4.7419353
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
+          "title": "Discover how to foster an AI-ready culture in finance",
+          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 759,
+            "average": 4.7997365
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-ai-business-school-for-government.md",
+      "title": "AI business school for government",
+      "excerpt": "Learn to develop an AI strategy to create value in education. Including artificial intelligence and machine learning technologies, culture, and responsible AI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-business-school-for-government/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-business-school-for-government/",
+      "length": "PT9H45M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
+          "title": "Define an AI strategy to create business value",
+          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 2806,
+            "average": 4.707769
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-in-government.md",
+          "title": "Define an AI strategy to create value in government",
+          "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in Government that creates value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-government/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-government/",
+          "length": "PT47M",
+          "ratings": {
+            "count": 650,
+            "average": 4.736923
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-government-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
+          "title": "Understand the importance of building an AI-ready culture",
+          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 1147,
+            "average": 4.7419353
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
+          "title": "Discover how to foster an AI-ready culture in finance",
+          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 759,
+            "average": 4.7997365
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-ai-business-school-for-healthcare.md",
+      "title": "AI business school for healthcare",
+      "excerpt": "Learn to develop an AI strategy to create business value in healthcare, including machine learning technologies, culture, and responsible AI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-business-school-for-healthcare/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-business-school-for-healthcare/",
+      "length": "PT9H31M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
+          "title": "Define an AI strategy to create business value",
+          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 2806,
+            "average": 4.707769
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-in-healthcare.md",
+          "title": "Define an AI strategy to create business value in healthcare",
+          "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in healthcare that creates business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-healthcare/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-healthcare/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 739,
+            "average": 4.7807846
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-healthcare-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
+          "title": "Understand the importance of building an AI-ready culture",
+          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 1147,
+            "average": 4.7419353
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
+          "title": "Discover how to foster an AI-ready culture in finance",
+          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 759,
+            "average": 4.7997365
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-ai-business-school-for-manufacturing.md",
+      "title": "AI business school for manufacturing",
+      "excerpt": "Learn to develop an enterprise AI strategy to create business value in manufacturing, including machine learning technologies, and culture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-business-school-for-manufacturing/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-business-school-for-manufacturing/",
+      "length": "PT9H32M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
+          "title": "Define an AI strategy to create business value",
+          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 2806,
+            "average": 4.707769
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-in-manufacturing.md",
+          "title": "Define an AI strategy to create business value in manufacturing",
+          "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in manufacturing that creates business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-manufacturing/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-manufacturing/",
+          "length": "PT41M",
+          "ratings": {
+            "count": 782,
+            "average": 4.7544756
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-manufacturing-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
+          "title": "Understand the importance of building an AI-ready culture",
+          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 1147,
+            "average": 4.7419353
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
+          "title": "Discover how to foster an AI-ready culture in finance",
+          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 759,
+            "average": 4.7997365
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-define-an-ai-strategy-to-create-business-value-across-industries.md",
       "title": "Define an AI strategy to create business value across industries",
       "excerpt": "Learn to develop an enterprise AI strategy to create business value in manufacturing, healthcare, financial services, retail, education, and Government.",
@@ -3869,7 +3752,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-financial-services-social.png",
@@ -3955,7 +3838,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-education-social.png",
@@ -3974,7 +3857,7 @@
         }
       ],
       "size": 7,
-      "heat": 61,
+      "heat": 60,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
@@ -4040,7 +3923,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
@@ -4206,12 +4089,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services.md",
-      "title": "Process natural language with Azure Cognitive Language Services",
-      "excerpt": "Process natural language with Azure Cognitive Language Services",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services/",
-      "length": "PT2H51M",
+      "path": "_learning/collections/microsoft-learn-process-and-classify-images-with-the-azure-cognitive-vision-services.md",
+      "title": "Process and classify images with the Azure cognitive vision services",
+      "excerpt": "Process and classify images with the Azure cognitive vision services",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-process-and-classify-images-with-the-azure-cognitive-vision-services/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-process-and-classify-images-with-the-azure-cognitive-vision-services/",
+      "length": "PT3H15M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -4229,15 +4112,131 @@
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-add-conversational-intelligence-luis.md",
-          "title": "Add basic conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)",
-          "excerpt": "Learn to identify valuable information in conversations with LUIS for interpreting user goals (intents) and distill valuable information from sentences (entities).",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-conversational-intelligence-luis/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-basic-conversational-intelligence/",
+          "path": "_learning/courses/microsoft-learn-identify-faces-with-computer-vision.md",
+          "title": "Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services",
+          "excerpt": "Learn how to use the Computer Vision API in Azure to identify facial details in pictures",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identify-faces-with-computer-vision/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-faces-with-computer-vision/",
+          "length": "PT53M",
+          "ratings": {
+            "count": 1519,
+            "average": 4.6530614
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/identify-faces-with-computer-vision-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Developer Tools",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-computer-vision-service.md",
+          "title": "Process images with the Computer Vision service",
+          "excerpt": "Use the Computer Vision API to analyze images for insights, extract text from images, and generate high-quality thumbnails.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-computer-vision-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-computer-vision-service-to-classify-images/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 1462,
+            "average": 4.6559505
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-classify-images-with-custom-vision-services.md",
+          "title": "Classify images with the Microsoft Custom Vision Service",
+          "excerpt": "In this learning path, find out how Cognitive Vision Services detects faces, tags and classifies images, and identifies objects.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-images-with-custom-vision-services/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 1554,
+            "average": 4.668597
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-extract-insights-from-videos-with-video-indexer-service.md",
+          "title": "Extract insights from videos with the Video Indexer service",
+          "excerpt": "Learn how to use the Video Indexer API to upload, index, retrieve insights, and search for content in video files.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-extract-insights-from-videos-with-video-indexer-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-insights-from-videos-with-video-indexer-service/",
           "length": "PT27M",
           "ratings": {
-            "count": 142,
-            "average": 4.753521
+            "count": 110,
+            "average": 4.690909
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4257,9 +4256,9 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/add-conversational-intelligence-with-luis-social.png",
-              "width": 643,
-              "height": 321,
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
               "isCached": true
             }
           ],
@@ -4269,235 +4268,21 @@
           "topics": [
             "Azure",
             "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-language-understanding-intelligent-service-apps.md",
-          "title": "Manage your Language Understanding Intelligent Service (LUIS) Apps",
-          "excerpt": "Learn to manage LUIS apps through versioning, key management, handling data, and improving predictions.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-language-understanding-intelligent-service-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-language-understanding-intelligent-service-apps/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 115,
-            "average": 4.7652173
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/manage-your-language-understanding-intelligent-service-luis-apps-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-use-containers-language-understanding-intelligent-service-apps.md",
-          "title": "Use containers for your Language Understanding Intelligent Service (LUIS) Apps",
-          "excerpt": "The Language Understanding (LUIS) container loads your trained or published Language Understanding model. As a LUIS app, the docker container provides access to the query predictions from the container's API endpoints",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-containers-language-understanding-intelligent-service-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-containers-language-understanding-intelligent-service-apps/",
-          "length": "PT18M",
-          "ratings": {
-            "count": 153,
-            "average": 4.732026
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/use-containers-for-your-language-understanding-intelligent-service-luis-apps-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api.md",
-          "title": "Discover sentiment in text with the Text Analytics API",
-          "excerpt": "Learn how to use the Text Analytics API and Azure Functions to discover what your customers are really saying in their feedback about your products or brands.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 1740,
-            "average": 4.628161
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Management Tools",
-            "Compute",
-            "Serverless",
-            "Storage",
-            "AI",
-            "Analytics"
           ]
         }
       ],
-      "size": 7,
+      "size": 4,
       "heat": 60,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/add-conversational-intelligence-with-luis-social.png",
-          "width": 643,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/identify-faces-with-computer-vision-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-classify-images-custom-vision.md",
-      "title": "Classify images with the Custom Vision service",
-      "excerpt": "Image classification is a common workload in artificial intelligence (AI) applications. It harnesses the predictive power of machine learning to enable AI systems to identify real-world items based on images.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-images-custom-vision/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 1110,
-        "average": 4.743243
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/classify-images-custom-vision-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analyze-images-computer-vision.md",
-      "title": "Analyze images with the Computer Vision service",
-      "excerpt": "The Computer Vision service enables software engineers to create intelligent solutions that extract information from images; a common task in many artificial intelligence (AI) scenarios.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-images-computer-vision/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 1353,
-        "average": 4.714708
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
@@ -4566,6 +4351,223 @@
         "Beginner"
       ],
       "heat": 58,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-classification.md",
+      "title": "Predict categories with machine learning classification",
+      "excerpt": "Use machine learning models to categorize data. Build a logistic regression model and support vector machine models to predict categories like win/loss and tree species.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-classification/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-classification/",
+      "length": "60 mins",
+      "ratings": {
+        "count": 385,
+        "average": 4.7194805
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-classification-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Predict categories with machine learning classification",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-regression.md",
+      "title": "Predict numeric values with regression",
+      "excerpt": "Use machine learning regression models to predict numeric values. Build multiple variations of linear regression models to estimate things like internet traffic.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-regression/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-regression/",
+      "length": "56 mins",
+      "ratings": {
+        "count": 606,
+        "average": 4.6254125
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-regression-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Predict numeric values with regression",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service.md",
+      "title": "Create Intelligent Bots with the Azure Bot Service",
+      "excerpt": "In this learning path, find out how to build a chat bot to interact with customers using text, graphics, or speech with extras from QnA Maker and LUIS.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service/",
+      "length": "PT29M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service.md",
+          "title": "Build a bot with QnA Maker and Azure Bot Service",
+          "excerpt": "Learn how to create a bot that answers frequently asked questions.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 3265,
+            "average": 4.72098
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-faq-chatbot-qna-maker-azure-bot-service-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 1,
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-faq-chatbot-qna-maker-azure-bot-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analyze-images-computer-vision.md",
+      "title": "Analyze images with the Computer Vision service",
+      "excerpt": "The Computer Vision service enables software engineers to create intelligent solutions that extract information from images; a common task in many artificial intelligence (AI) scenarios.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-images-computer-vision/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 1353,
+        "average": 4.714708
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
