@@ -3,8 +3,8 @@ category: news
 title: "Sysinno Introduces First Available Air Quality Monitor Running on Microsoft Azure Sphere"
 excerpt: "Sysinno Technology Inc., an Innodisk shareholding company, is excited to announce that their iAeris line of indoor air quality detectors will run on Microsoft Azure's Sphere, making them at this time the world's first and only production-stage air quality monitor to take advantage of the possibilities of Microsoft Azure."
 publishedDateTime: 2021-04-22T00:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-1030330820"
-webUrl: "https://markets.businessinsider.com/news/stocks/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-1030330820"
+originalUrl: "https://markets.businessinsider.com/news/stocks/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-1030330821"
+webUrl: "https://markets.businessinsider.com/news/stocks/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-1030330821"
 type: article
 quality: 48
 heat: -1
@@ -249,6 +249,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "VrqA6qC3lU3Rrcpctz/GJBIqa6Vqb94gYtskp9010EGE5CCLO0G6e/R4ztzHxyLTDXYSLnnWUhQ7zSmG1JRjnmYBdQYrh78QVmjpEzpqJCf0HwVMvvR7BiViIjK5VfCYuSJjiPbSDfq5ox6idVYxR5dhkn3IAEeB/fpcBRw/GCJzdnRFEYQJrfyQ66WNFJEBeRpwF+3E04QXLFAcXEYhPyV0A7tmfEhaRqfc8MPJ34inIZGGsymBVo08F/fc3UiKIYC6Dv1jCrvPhTjxV+1PE6YY1fohN6qm8LX7JPD7/9twY0Gt1+MhhpmsNcp8vs4el3vyX/WoHn7VzVLC3C0i73BEkT1ljQfT23VOpPjZ1bHODKQhHp0KL6orLSkHLavMUQbf4IZb12QzX6meURWmU6wFtC66weJbdR3ek60gdNz6hn+I21+0Z/vRsvEyBP6NMxSMGIhMH4ZBXpgVnDFESKEanbtN1QWPJ61vDZ4A7FBYLUPAX7LDduTuB74/vNbq0znYCwKptPkjUSErEmVLyA==;Ljxs/p0C9S6gjSSc4gPMqQ=="
+secured: "OCgoscuq1ft5vImnPSRaEp8Pv2if19Uv/5PUCneXTAuno617FjoXGk2aRQA1hTNBka+MhTDTmYHgqoiZNRvPBN47NlhDjgN+KtTftvrotJPKn/0Q44sz8O6iAIc9ZUAIRYN26w7FbC3Q4j7//m1jNwStaIPcrfbcNPQY3aImsfClhet53gbIQw7Ab7lWjP9s5oOpvkMJx4YBdO+arJZMa25OfR1E7rwLmpZ6n9DK3hw6YkMVMCcJy9bcXijApQBa5lB8UvdsnbTAxvIMF5g8Y3gDAdI3Gdr4n93rGGqqkk4pVm+SSWV+LhIi4cgzTQgAgFVaZXFCdyz4FbiA3An5D3wSeTPzINWvLGLaE4k9o7hYwYZXbZhxcvCGCBrupjX4f8M/R7vePo5QA4VldMGJ+Nsw7/pxSzkNbKAAnP8XgPQTigBNuQ83XucG4B0ZFBN0brm6Gci5UGI8aXfwEtANt17qrAhRoPdkVsmywjjTE96ypPxI6iLl6VFzmsgAFo2NIEaGIr3jJD48g53lF+Afqw==;F39dBKDxLUWnlHL73TDGqg=="
 ---
 

@@ -75,7 +75,7 @@ related:
   - title: "Sysinno Introduces First Available Air Quality Monitor Running on Microsoft Azure Sphere"
     excerpt: "Sysinno Technology Inc., an Innodisk shareholding company, is excited to announce that their iAeris line of indoor air quality detectors will run on Microsoft Azure's Sphere, making them at this time the world's first and only production-stage air quality monitor to take advantage of the possibilities of Microsoft Azure."
     publishedDateTime: 2021-04-22T00:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-1030330820"
+    webUrl: "https://markets.businessinsider.com/news/stocks/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-1030330821"
     type: article
     provider:
       name: Business Insider

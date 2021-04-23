@@ -103,20 +103,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
-    publishedDateTime: 2021-04-20T12:57:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
     excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
     publishedDateTime: 2021-04-20T18:03:00Z
@@ -212,6 +198,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "NEW YORK & PARIS--(BUSINESS WIRE)--Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take ..."
+    publishedDateTime: 2021-04-20T13:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 13
 
 secured: "oTfxWO/P1/SPAoWy8+iWCtzMWhajgAgpmYtCt/1cvpBS0Gx+Qs/aHVAkD2Pq2Lv//8ixU6cwfFAMh4wWmrTM9HixU+Uu7GtlbYkuo3wm6cFdd9qnB2n17xWGz8TWqPdLU9qlDZ0t2lwa10sWD13IMjQhAxp3bcyj8xxFA/dZvKRglL5GSs3Ar2C+jhvp2UHjeK+5uysTxC/3iLF4GM3wSibyzjRopF2qKS6Qc0cnA2DbTLYnBNuD7Hb2sjPt2UFsmmjRp79sIRCRQf9eCRJ320WzJnh/uU1KjBfiQrwkNJ7ld9NWeXreqYrHlLcLKcw8WyGAiXjqsdvB9ihAhrmOvyL2pjY+nJq+swSMdd+tRcOq4G/nX251ROvu42EStthlYNeqtSsEXT9ttIEpUGDY83MdI0UbSrDDYoWM9ITghGPJ9a97Pr8Fhu7tpc43f2oyYnHjeeFOjqFeYHk8b0JZlsH0ro4q8Exj1blrOSQa3W3qvkF0MrYYvBccbFdAHoVhwtRJXb+5CVjLL+9+NrECiw==;27+2ei0E35/T7zBsM2/I/g=="
 ---
