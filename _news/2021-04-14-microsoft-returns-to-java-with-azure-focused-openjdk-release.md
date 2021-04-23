@@ -156,16 +156,19 @@ related:
         height: 285
         isCached: true
   - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
-    excerpt: "beqom, provider of cloud-based compensation management software, announced that Microsoft has designated beqom as an eligible \"Microsoft Transact\" application for customers of the Microsoft Azure ..."
-    publishedDateTime: 2021-04-14T13:41:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/b20619485/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20619485"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20619485"
+    excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
+    publishedDateTime: 2021-04-14T13:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-f06347dc92af4398a45b940000ac8029"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AZ-301 Dumps (2021) Prepare Your Exam with Real Microsoft Azure Exam Questions"
     excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-301 specialists. As a result of this, IT certifications, for example AZ-301 Microsoft Azure Architect Design exam,"
     publishedDateTime: 2021-04-15T18:39:00Z

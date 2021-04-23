@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft Partners Find Foothold in German Enterprises With Growing Adoption of Azure, Cloud Services"
-excerpt: "ISG Provider Lens™ Microsoft Ecosystem report for Germany finds more companies are looking to the cloud as provider offerings and approaches mature. German enterprises"
-publishedDateTime: 2021-04-22T08:00:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/health-technology-business-europe-coronavirus-c1376dd623664a6db65065fe47fa848c"
-webUrl: "https://apnews.com/press-release/business-wire/health-technology-business-europe-coronavirus-c1376dd623664a6db65065fe47fa848c"
+title: "Microsoft Partners Find Foothold In German Enterprises With Growing Adoption Of Azure, Cloud Services"
+excerpt: "German enterprises, traditionally slow to adopt cloud computing, are growing more interested in migrating applications to the cloud, particularly to M"
+publishedDateTime: 2021-04-22T08:18:00Z
+originalUrl: "https://www.hostreview.com/news/210422-microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services"
+webUrl: "https://www.hostreview.com/news/210422-microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Host Review
+  domain: hostreview.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -280,6 +280,6 @@ related:
         height: 293
         isCached: true
 
-secured: "hQ25swBb1JMbd/16Uh+4XZU6kvtz4X/nxOWOGqfOEkwNIhKcdk+p1q5m6kAKr+nqjvsayY/HzH/5jtOgujASLX+Vp/mWkeH336sAPh8goCuEmq47cZGgJPWAoQ6EWXbFuFk/KtLccFaCQnRZUXOfXtUweFgkqsiGnL8vbbb9/e3ygV1pTjuoE0WD/AoPNxrAicDKjFrRaiNQMNYhNaaYoVkEi2xE8uS7KOSto/Caan2K4oM4ZGGq4xTZUvmYqGkbw6OVzT7+VYz2eUmdbGb/0hz36bOUQZ5iywc2DrSX5cdTY5xVFDsi45XaJBFPWRKdHR7sDYb6w3tZ4EPY7V/7S1bPzrT6uCJaH7omeNHKoZ8=;MPXyybjqAscWtip3lZ8IRg=="
+secured: "t6FOjRF/IHp8SQXbSS2j62lGmmkccAzbDUT67BdyzVskyScG78/nfEoV62+AWPPgsohQbwhHpWqD8T/hDCDAc0EYw6Rw3JnV/fSnonji3zx5O9Iq82udLV4xOuNr8tECoxK3zRzQs6hyW6dbj0Hxa2XjRy5+I3Fht3GnKX9pqf6mqKBtjJFwt2EnpRed3XbYVGXlWTV2Oslsp/k5D3w+t4hFVDfA8WMlTRXARma0cZtFIkMSYYl2SpfF2m6nJwBhOQwk13WaH2zE8X4U6O6ehR83uf3WEjX4Ncx2PMNno2jmzrbtLi2uRnZBLHmFKNB0EYNCjypAbElm5MjEcjrxkhRbTyHjx8LQfV0m2fMQo/s=;DPGSqEuYBqBAIVOFOTQADQ=="
 ---
 

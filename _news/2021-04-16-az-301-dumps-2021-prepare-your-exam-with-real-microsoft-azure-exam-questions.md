@@ -166,16 +166,19 @@ related:
         height: 285
         isCached: true
   - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
-    excerpt: "beqom, provider of cloud-based compensation management software, announced that Microsoft has designated beqom as an eligible \"Microsoft Transact\" application for customers of the Microsoft Azure ..."
-    publishedDateTime: 2021-04-14T13:41:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/b20619485/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20619485"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20619485"
+    excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
+    publishedDateTime: 2021-04-14T13:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-f06347dc92af4398a45b940000ac8029"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Latest AZ-500 Dumps - Microsoft Azure Security Engineer Associate Real Exam Questions And Accurate Answers [2021]"
     excerpt: "Pass you Microsoft AZ-500 exam in just one go with DumpsArchive AZ-500 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
     publishedDateTime: 2021-04-18T23:52:00Z

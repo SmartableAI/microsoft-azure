@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
-excerpt: "beqom, provider of cloud-based compensation management software, announced that Microsoft has designated beqom as an eligible \"Microsoft Transact\" application for customers of the Microsoft Azure ..."
-publishedDateTime: 2021-04-14T13:41:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/b20619485/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/b20619485/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20619485"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20619485"
+excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
+publishedDateTime: 2021-04-14T13:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-f06347dc92af4398a45b940000ac8029"
+webUrl: "https://apnews.com/press-release/business-wire/technology-f06347dc92af4398a45b940000ac8029"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft-AccuWeather partnership adds capabilities to Azure Maps"
@@ -245,6 +249,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "avUX7LBEquxTxLtSh0XWwfoS9t8jS/fvaMpCZR12lTM0eG2bfoeHoDW1fE4rHIRMum9PQ8gd9jBxRginY85vreX2UV/gI4RwRIpSZQiL9pi/HhIRdGiVHf/PlYv8L0ZFS5eGE80aJwCGIH4CRMP2h12XbpesUghOy+f465/pBCSwo7gPzKc7dZPtL9eDxLmk7YlBOJtraCbNNe/TLHBujK5rgEdtrOQvZDVN5DcPRUp1JljLjcdjzdS96KLzS49m/hzr7cnm2lTc9Q5YiXSVSHD9VA6CnVQA14sUXIQl4RJjX8H3dUwC7qimQEDCty6f6g6yDmEJxAeTEBMWrzjIQ2f+fKx/4gr13kpbXehzK3o=;0wIR16U821vUmSwmkfWkrw=="
+secured: "I6s3Dg7zdGu97Tpa37zSh7+1EzIyi/ylJjigjw7Vi6huXfImesSOCsu9fR1l1rptrn9g97Z+Rv1BuTXMPR3VCzQT5Mxj5ChrHKvNiAva1huAwk3b3PnUi2Q+tPQyrNZghHYZb6dSQFJGjItE7UcNaL+fxA9CrOKlOH/c1hVbm2x9hmc9yRy2A5t8r+tk0zm98ScEw9Z1QcGAlEBSTzbTwvu1dSfNMvKs2gcN1MRX3HNwXLUYb4IQTSyEl2h1E6jISy+/OC8NBMBsqAnIWQ0JdjtkhqnCStez2ZAWZ90PJTOW0Tsci7P/gFUwk/uqLjz6jfbmxIHPDzbfRZuyAk5C8TVjQM5lhWtpde464aF35xw=;pvkmqMLAEURipWbwq9lP/A=="
 ---
 
