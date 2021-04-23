@@ -2,9 +2,9 @@
 category: news
 title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
 excerpt: "Network Cloud pioneer Alkira® today announced a close collaboration with the Microsoft for Startups program, a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud."
-publishedDateTime: 2021-04-13T13:07:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
+publishedDateTime: 2021-04-13T08:00:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
 type: article
 quality: 49
 heat: -1
@@ -511,6 +511,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "gBR+no76JCFYeo0NwOErI9N/oHWfCGiqKD3TaIWczy9erWyLenWzcY8t0FLubw0gVDydebE0/knNsX4pjyqK9H+LjpJzMK+y0qHpz0QIUWoZo8jwTzKTV+3sRO/Qi8nw6sJKtzllVrHnpKOx2HdkUoj0ktX0fk6Q0wxd4vgJRwVibX9BM/C6O29ogpMi9w6IThgyQaAyGT+x+TGBnqbqznNjH0if3MYgO9eoQSFC4iCmW0NN/18R8mXsb0C7b244fuIW8vdf+oCRN75QbC1i7N65rncC32C1At1N+qvRXT3pNoi7mE6GK3xlxr+Qu+eiAOLLhHls9XysyBrOYCm65BzVLP3Uhqpqj4lMmFjWGa0=;s5uaJC5CPTUlw/erFkfNHQ=="
+secured: "QQ0QQ4LZRq5LkAyJ6V9p9Mhp+6DCZ0RjiGKIZXUy88VlBkmOZsmvfY5dyt34dFhxcx6MP6sOyNzmMWbBkthPtkqV1dP33masrRe5Wo05ZoepFLh0IXZwP/dtAM3Mso5aJrYS5KxE5zuAyhNsjjLQUHDWDz7skAi6xoAWJXT2Qivqa2XwJaFnz/UWWjSSMKVTG0E+cVd1hmza1wbG5FZZBPAwgwZqsS4J03zfRN2c5K8an+YZ2407+OKONZ0a6F51IyuixaIzfH6vjBQjlTr0a/vNSrCLOOTGYpbLQKiYO1TwKoNDFprj3v5C8yonQJsIaNXE2aJP5tgxZorX2Q2XL+FBbHLqCBmScPYxWLuBqow=;i0xdMZmwidNqXmtdKUdKBA=="
 ---
 
