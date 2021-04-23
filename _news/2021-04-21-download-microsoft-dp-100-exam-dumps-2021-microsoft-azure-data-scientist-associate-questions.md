@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amdocs to Accelerate M1's Digital Transformation on Microsoft Azure"
+    excerpt: "\"Leveraging Microsoft Azure for M1's digital transformation, we are honored to partner with them to accelerate their journey to the cloud. With Amdocs Openet charging and data management products, M1 will be able to harness the power of 5G by managing and ..."
+    publishedDateTime: 2021-04-23T03:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/amdocs-to-accelerate-m1s-digital-transformation-on-microsoft-azure-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
     excerpt: "Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure Active Directory (Azure AD), enabling IT teams using Azure AD for identity management to rapidly integrate new applications into the Azure AD environment without sacrificing security."
     publishedDateTime: 2021-04-20T13:32:00Z
@@ -38,6 +52,31 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "FileCoin: Decentralized Cloud Storage Competitor To AWS, Microsoft Azure, And Google Cloud"
+    excerpt: "I provide three valuation metrics for FileCoin which illustrate that it could see an intense growth period comparable to Bitcoin. Despite its large recent run-up, the Coin looks inexpensive."
+    publishedDateTime: 2021-04-17T06:29:00Z
+    webUrl: "https://seekingalpha.com/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 64
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2021/1/18/510561-1610992717787594_origin.png"
+        width: 704
+        height: 552
+        isCached: true
+  - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q3 Earnings"
+    excerpt: "Microsoft MSFT is scheduled to report third-quarter fiscal 2021 results on Apr 27. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
+    publishedDateTime: 2021-04-22T13:51:00Z
+    webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings-2021-04-22"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 57
   - title: "Microsoft Azure Enterprise Search Gets Boost With New Integration"
     excerpt: "Paris-based Sinequa has integrated its intelligent enterprise search tool with Microsoft Azure to improve how large-sized companies find data across multiple sources."
     publishedDateTime: 2021-04-22T13:15:00Z
@@ -52,15 +91,6 @@ related:
         width: 607
         height: 456
         isCached: true
-  - title: "Microsoft announces plans to establish first datacenter region in Malaysia "
-    excerpt: "The new datacenter region is part of the “Bersama Malaysia” initiative to support inclusive economic growth in Malaysia."
-    publishedDateTime: 2021-04-16T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-announces-plans-to-establish-first-datacenter-region-in-malaysia/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 50
   - title: "Actual Microsoft DP-300 Exam Dumps [2021] Azure Database Administrator Associate Questions"
     excerpt: "The ultimate gateway to pass the Microsoft DP-300 exam with ITExamQuestions DP-300 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-300 Administering Relational Databases on Microsoft Azure Exam?"
     publishedDateTime: 2021-04-20T23:11:00Z
@@ -88,6 +118,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
+    excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
+    publishedDateTime: 2021-04-20T18:36:00Z
+    webUrl: "https://www.ign.com/articles/become-a-certified-cloud-computing-pro-with-this-microsoft-azure-bootcamp"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 36
+    images:
+      - url: "https://assets1.ignimgs.com/2021/04/20/sale-149017-article-image-1618943765425.jpeg?width=1280"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Download Microsoft AZ-303 Exam Dumps (2021) Azure Solutions Architect Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-303 exam with ITExamQuestions AZ-303 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-303 Microsoft Azure Architect Technologies Exam?"
@@ -198,6 +242,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Accela Migrates Over 200 Data Center Customers to Microsoft Azure to Accelerate Digital Transformation"
+    excerpt: "PRNewswire/ -- Accela®, a leading provider of cloud-based solutions for government, today announced it successfully completed over 200 customer"
+    publishedDateTime: 2020-11-12T10:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-301171615.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1008788/Accela_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "NEW YORK & PARIS--(BUSINESS WIRE)--Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take ..."
     publishedDateTime: 2021-04-20T13:05:00Z
@@ -207,6 +265,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 13
+  - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
+    excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"
+    publishedDateTime: 2020-11-04T23:06:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/innovaccers-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their/article_9501b847-092e-5f93-b914-c0b84926deda.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 2
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/5e/05ee89ea-2eac-51e4-86fe-a186902e6de3/5fa3306b000dd.image.jpg?resize=400%2C293"
+        width: 400
+        height: 293
+        isCached: true
 
 secured: "iHG1V1BjnrEJDYnvfn7qfj4x4m2CbZtZxDewmcxaW9TZgL4llPU6VOjAovI6/Skd5w3nLwiYI8YdRjjDokoihWErDuoTnLUqHW8e2dy7vPOTzXpmu/anMMsIovBYkhPV2LImS6t9oo2AohZ3lzZmsLUdrSw5qNWf4Ce0tpqpc+EUxZk0sI1Mz/XpJoPCIv3CJ+V7Wyw9pdoUzQlSZK3lvK6Lgazlaz5H30Tih3jF0Yns72SBDlSkpvUnxq3Qg6EAWVBDKVzSZO2rSxiOAI7OW5FTGDPeEcm12b6J5BV0+ZmM6pKUKN+d/nZhdrDFpE3HnygXPWcMqMU6aVSTGHxK6NOdUlnWTHrddhcdijuCfZWrASjzTfRWYTC+gWonpeRh/SfznoWe6hP30ACAn+1vo5MDETxn7JpfofZ+kJy1fRpjQCfCCYOpR9yxfd6cpOMLJys3BspH3uBA2F1V8AY+OV5mm3qA6/H9gRDu3OWfLtEwWZdkevHGiQU3Pu2n4D9waZ1+dyJMIeL7sK8MxDSHgg==;KjKgGsOQgyaNwWyjwFSyuw=="
 ---

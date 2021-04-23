@@ -1,37 +1,33 @@
 ---
 category: news
-title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-excerpt: "NEW YORK & PARIS--(BUSINESS WIRE)--Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take ..."
-publishedDateTime: 2021-04-20T13:05:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+title: "Amdocs to Accelerate M1's Digital Transformation on Microsoft Azure"
+excerpt: "\"Leveraging Microsoft Azure for M1's digital transformation, we are honored to partner with them to accelerate their journey to the cloud. With Amdocs Openet charging and data management products, M1 will be able to harness the power of 5G by managing and ..."
+publishedDateTime: 2021-04-23T03:35:00Z
+originalUrl: "https://www.marketwatch.com/press-release/amdocs-to-accelerate-m1s-digital-transformation-on-microsoft-azure-2021-04-22"
+webUrl: "https://www.marketwatch.com/press-release/amdocs-to-accelerate-m1s-digital-transformation-on-microsoft-azure-2021-04-22"
 type: article
-quality: 13
-heat: -1
-published: false
+quality: 77
+heat: 457
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
 related:
-  - title: "Amdocs to Accelerate M1's Digital Transformation on Microsoft Azure"
-    excerpt: "\"Leveraging Microsoft Azure for M1's digital transformation, we are honored to partner with them to accelerate their journey to the cloud. With Amdocs Openet charging and data management products, M1 will be able to harness the power of 5G by managing and ..."
-    publishedDateTime: 2021-04-23T03:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/amdocs-to-accelerate-m1s-digital-transformation-on-microsoft-azure-2021-04-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
     excerpt: "Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure Active Directory (Azure AD), enabling IT teams using Azure AD for identity management to rapidly integrate new applications into the Azure AD environment without sacrificing security."
     publishedDateTime: 2021-04-20T13:32:00Z
@@ -264,6 +260,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "NEW YORK & PARIS--(BUSINESS WIRE)--Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take ..."
+    publishedDateTime: 2021-04-20T13:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 13
   - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
     excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"
     publishedDateTime: 2020-11-04T23:06:00Z
@@ -279,6 +284,6 @@ related:
         height: 293
         isCached: true
 
-secured: "JSnnC+ip4keRKIGSegMRRHXq/GJjUzuA9JNtozT2IgcU3I5rcr+bycVfZVYJQXKaYSZjqQDP0NX2M6zjZtl/dr1PZUGISxVimvVJkAcoF2TNh/rZAZ2V+r/h3Cf5v770nXZK95RWwo6w79I1QXK/phe1UMQVTEACGgmJ8bGIdJtlDlYyrh2wwqHTy4c869ipJ7wsNqgWbwOU8gNucPvTu7pWKl81fEFAmppeLKZGv+Wz27szkGDYNr1IlEbUreKnVR880lGTHKdByOjkcPHXxF4r9bHsUfkRZLa2feTLGZ713ClXL/zsL78ElhMttu1QcYeGKLs3fW4TiRhUG5srCj5cV9ppnJ7HvecqCwDmlC4=;oVGXXCSt0kVzMHRa+bknpg=="
+secured: "zhKcPi7jQOb0QjtwGRJKiHfy2wKT7sQn//cRbRhy9d4XDkkc9Ugo4BWMiPS2bsx/xU2wXZ2274SOSB39JN9m3imTmRVqY8d1FG2XxLNkUFwzDNV8mmzusCG3AZESlYqnglWKYLD6WxujMKkW7Yqpsop8CNIi7Cqzz+c7kSjDPLlhxMrBOc9R5NUr/mcg1HFLYzbdf+O7KE217ChZP3d2KHNHiYJfAHNtRn8AIGPCkx/K9miKTSdIexEHVRfsB45vB9wuK9J5z7kyeCxTIfYRnEqYdWwCQAneBA18hL45BlGjpZq6G7Z/X4twwZ3wcv2md5AHVSKYnUeC5rFkYib6C/I7PhIgt2T5nrdBcgq6xBU=;aMmzFiG81iQ5vOC0BfcM2A=="
 ---
 
