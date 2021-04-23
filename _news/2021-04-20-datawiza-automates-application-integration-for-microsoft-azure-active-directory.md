@@ -91,6 +91,20 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
+    publishedDateTime: 2021-04-20T12:57:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
     excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
     publishedDateTime: 2021-04-20T18:03:00Z
@@ -200,15 +214,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
-    publishedDateTime: 2021-04-20T16:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 13
 
 secured: "QWzeMic4DcO30hv+9GxZFBq+YFAn2EmAN2CuV9bQbUGwgtB4sS2dUJCOj6C5/m5K19mtC69AfLnm4rFgufLVc057IPTn9JFlT3OHK7irMfjjJieS5bRTjeqHgOQLZ4AV7n4v4LuLDVZReDqGjqEEjDq8CvxaJsva158FVZLdnaAImHso+/67Un3GdDyn9bSZavtudKqdVQJHX5LmKY0vRlAgM6iBVYeFfuBUpAcGw5g5E9rCXm/ox0SckDHqPQu1L+qs4b+zMbkUxkiXyx0voPVqhYwk19yOAZ9w/QlqlQquIzw+l5a4CigzlXfqjY/KdhSGrQQAAIgQb4xZzBWnlv0nHR7NvJGoxer+3eJLIIU=;uqMX8JiIGwe/XM/XmKjHvA=="
 ---

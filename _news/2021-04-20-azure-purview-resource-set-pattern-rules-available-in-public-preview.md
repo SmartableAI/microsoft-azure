@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-purview-resource-s
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-purview-resource-set-pattern-rules-available-in-public-preview/"
 type: article
 quality: 87
-heat: 109
+heat: 107
 published: true
 
 provider:

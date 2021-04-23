@@ -90,6 +90,20 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
+    publishedDateTime: 2021-04-20T12:57:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
     excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
     publishedDateTime: 2021-04-20T18:03:00Z
@@ -199,15 +213,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
-    publishedDateTime: 2021-04-20T16:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 13
 
 secured: "Z5xGqiAXf1wg8og0Vi+G0zle0O0EfBbGsVmye4Qtj8WL9EHJrCz/gWUAo6Db3GCrGP+QAKqcGyNoDgDBHKhlYqyJmn7JQn6YdobiF9Az+p17iB/Yr3tEn7/sLtg0QLc72myv93Lvkqe9o8LrYNxoww2yU8M/PCWS5GYWJUo+r/AQAO0OdSQcLBisNmbi5A6+HA2+c8u8Kxy1DjZzmTMKtI/ZkRMRkEeHq+/r7EC1qlWbI+wjP8wL1UI5f3yivkuQZ8QW5HiwPZXFkVndZMgPCTquMqcCKjDrKiIXQX2C1qeZj4xkKFt01tJx04n1J1vAYFT+dnUFQe0VGoC5+0ti+zakcN8LNz1OanvjqO7g/XE=;iQQOSqkF0sAJYqe+y61D5Q=="
 ---
