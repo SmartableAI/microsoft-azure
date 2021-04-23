@@ -4,7 +4,7 @@ excerpt: "Data must be available when needed. Configure, test and manage a solut
 type: collection
 price: Free
 length: PT2H13M
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
