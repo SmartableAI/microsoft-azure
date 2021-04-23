@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Microsoft Partners Find Foothold in German Enterprises With Growing Adoption of Azure, Cloud Services"
-excerpt: "German enterprises, traditionally slow to adopt cloud computing, are growing more interested in migrating applications to the cloud,"
-publishedDateTime: 2021-04-22T08:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services-1030331843"
-webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services-1030331843"
+excerpt: "ISG Provider Lens™ Microsoft Ecosystem report for Germany finds more companies are looking to the cloud as provider offerings and approaches mature. German enterprises"
+publishedDateTime: 2021-04-22T08:00:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/health-technology-business-europe-coronavirus-c1376dd623664a6db65065fe47fa848c"
+webUrl: "https://apnews.com/press-release/business-wire/health-technology-business-europe-coronavirus-c1376dd623664a6db65065fe47fa848c"
 type: article
-quality: 42
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Amdocs to Accelerate M1's Digital Transformation on Microsoft Azure"
@@ -145,20 +147,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
-    publishedDateTime: 2021-04-20T12:57:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
     excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
     publishedDateTime: 2021-04-20T18:03:00Z
@@ -268,6 +256,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
+    publishedDateTime: 2021-04-20T16:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 13
   - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
     excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"
     publishedDateTime: 2020-11-04T23:06:00Z
@@ -283,6 +280,6 @@ related:
         height: 293
         isCached: true
 
-secured: "4Goc2I3RWGFZCIgRA66CyMNnkNxtP63tBWJEusCQln7ySZiYND4mhX7u+05tkADuii88xrt63Op8YWx1jICKSpras4znpIwo3RzQziFsEA9rVvaPe9SaE0V6J74u3KALvAtLrNj1eSOaAIbPGRDwyJJ6NgoJBwS+OHhe7STkWiaSl9kEblE8P9X+u1coiLAEyDCpfmRMCIJlqK+lVHFyN6YbXmgOXRaJNKwDQwZJ4GWZjUZKxMx8byBE7PclQLjryQRvTQh7WDRFaxLcSbFJu6sVxdnLUEr5rN/buh1BsIUtcaSE2ktGHeOFmXJ19p9xzaAOrZWPQLLzHbLXvVnQB17vkxtNTNl61BXAwtQtf0U=;oISiICuFAGZ6io5BSpGNBA=="
+secured: "hQ25swBb1JMbd/16Uh+4XZU6kvtz4X/nxOWOGqfOEkwNIhKcdk+p1q5m6kAKr+nqjvsayY/HzH/5jtOgujASLX+Vp/mWkeH336sAPh8goCuEmq47cZGgJPWAoQ6EWXbFuFk/KtLccFaCQnRZUXOfXtUweFgkqsiGnL8vbbb9/e3ygV1pTjuoE0WD/AoPNxrAicDKjFrRaiNQMNYhNaaYoVkEi2xE8uS7KOSto/Caan2K4oM4ZGGq4xTZUvmYqGkbw6OVzT7+VYz2eUmdbGb/0hz36bOUQZ5iywc2DrSX5cdTY5xVFDsi45XaJBFPWRKdHR7sDYb6w3tZ4EPY7V/7S1bPzrT6uCJaH7omeNHKoZ8=;MPXyybjqAscWtip3lZ8IRg=="
 ---
 

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
-publishedDateTime: 2021-04-20T12:57:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
-webUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
+excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
+publishedDateTime: 2021-04-20T16:57:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
 type: article
-quality: 33
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Amdocs to Accelerate M1's Digital Transformation on Microsoft Azure"
@@ -105,15 +99,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Microsoft Partners Find Foothold in German Enterprises With Growing Adoption of Azure, Cloud Services"
-    excerpt: "German enterprises, traditionally slow to adopt cloud computing, are growing more interested in migrating applications to the cloud,"
-    publishedDateTime: 2021-04-22T08:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services-1030331843"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "Amdocs to Accelerate M1’s Digital Transformation on Microsoft Azure"
     excerpt: "Amdocs (NASDAQ: DOX), a leading provider of software and services to communications and media companies, today announced that M1 Limited (M1), a leading digital network operator in Singapore, has selected its Openet charging and data management products to accelerate the digital transformation programmes on Microsoft Azure."
     publishedDateTime: 2021-04-22T10:02:00Z
@@ -251,6 +236,20 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Microsoft Partners Find Foothold in German Enterprises With Growing Adoption of Azure, Cloud Services"
+    excerpt: "ISG Provider Lens™ Microsoft Ecosystem report for Germany finds more companies are looking to the cloud as provider offerings and approaches mature. German enterprises"
+    publishedDateTime: 2021-04-22T08:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/health-technology-business-europe-coronavirus-c1376dd623664a6db65065fe47fa848c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Accela Migrates Over 200 Data Center Customers to Microsoft Azure to Accelerate Digital Transformation"
     excerpt: "PRNewswire/ -- Accela®, a leading provider of cloud-based solutions for government, today announced it successfully completed over 200 customer"
     publishedDateTime: 2020-11-12T10:00:00Z
@@ -280,6 +279,6 @@ related:
         height: 293
         isCached: true
 
-secured: "9djvAb2O1JGatB1lI68XToySCgEGv+d0XxJhhkJi4fxUnmrcs7F6s1TKVSNrr5IMSvZW0qswhFCgPNE6WrFriUr6aB0J2jfBMSDclTv6wKZqAgVCM+CI+Vn302mEAJ/kckhBPp9em4Su9o141sSgUM33PoCJBmoSItIWR/BxOKab9QzD1YG06+ppWvZahKB3hbpihIuGNy7+cKsMH0pIXur8q3nLdkoUX243nxPEFrvcBq3KtGqlsMH5UVEGC9NfMcHB0q7YpgD/zNor8YPqvvznVybLiegNgIubKofJYRIvLGSR4FcpKmDotxXBiIV+FiA1xmqLkUZYt4LqTZ6gLSKAe11QOLossB+MYpzAh4U=;Xn1A2Q4eVdSMV5+BQo23wA=="
+secured: "P+c2kS15iMZYAwOVrnER95hc+chScrz4vi/qSof+oN37sexT81dpjRw56ryYehDctsUlxBErsiIBryZTSoZeiy/XYVvCSz5ze0oRDncNL4T5KqH6x2qnMpvT4lUmzqmbM5SeIsgt693DkMrhlpZvg13U15MwkKf1Yo7njunKmgfKWwJoVA53zJURIbx5wf0PP/pAVsWXtJRyw1HA4FXeJ1a8gFVALB9PbHPb5s9fm12VNAmsPlH8P3Q821o07qN4ZtJFUA4fgK6yqX4mqZYGyryI6OHWgl1U6179+7KHEqP0iuH58OVY87TuExeJNYfiWMhr7ju6TLJvygSHbxCD4aUJntwftjAzX/k0fYBFVAU=;8qdpncpr49cTrsJbimPKFg=="
 ---
 

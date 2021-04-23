@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-cou
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 151
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Enreach buys Microsoft cloud specialist G2C"
+    excerpt: "Enreach announced a new acquisition in the Netherlands, the Microsoft cloud service provider Go2the.cloud (G2C). Established in 2016, G2C is a high-growth enabler of digital transformation services through the provisioning, reselling and managing of ..."
+    publishedDateTime: 2021-04-23T09:19:00Z
+    webUrl: "https://www.telecompaper.com/news/enreach-buys-microsoft-cloud-specialist-g2c--1380630"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 2
 
 secured: "K3RCz4/hI6kDkBy+C2FNSEUqs3ttNTBhuMnzniE8mBwVAlczoAD1UlyjhSTfczt6S+WsAgHItuUUGIZLH97GFZ8beGRCffu8KvOhY8bea90SSSwPlI+xi/ZMsO+A9puj61AK0TygScqMTNcjoMkyELdB2mk96k9yJGB0xBeqgfxznHXh8jGDcb5D85vSrmkCQAZvcvhu572ntY9ETpilBfkyRD36z5ufPVvriBnrrltmUqaRgt/9sEvRCLyfQGcy46eUPnN8B1sKSk0c1SYVEn+Lpq3t7yM6lyPyCnx576patiE1qLV0Pl5EIN+LUgl6gAnGreeiwCbQyXjzspIO3SpdPYWijyAdqHq9qWt4wIBPsX+kimFwB+1q/9GO2FTTweuCheUV4/ohTnGeXuv1Ebuw7Nz+6CcrO+0wJwdNJZpqivayjHHkOpViB81sAB6KvGpY3RcJn8/JT7oZzwnVedyozqh72AEvftEBa+0V6vlsbK9VmN61jlTwwiFlEN/y2eVqxi8Z5bh4j8VoHwpVfg==;pD9lIqT8173BNiAWlvZ/cQ=="
 ---

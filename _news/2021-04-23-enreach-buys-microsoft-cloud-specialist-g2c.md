@@ -1,28 +1,21 @@
 ---
 category: news
-title: "Official Microsoft AI-900 Exam Dumps (2021) Azure AI Fundamentals Questions"
-excerpt: "The ultimate gateway to pass the Microsoft AI-900 exam with ITExamQuestions AI-900 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-900 Microsoft Azure AI Fundamentals Exam?"
-publishedDateTime: 2021-04-18T19:04:00Z
-originalUrl: "https://www.madinamerica.com/author/download-real-ai-900-exam-dumps/"
-webUrl: "https://www.madinamerica.com/author/download-real-ai-900-exam-dumps/"
+title: "Enreach buys Microsoft cloud specialist G2C"
+excerpt: "Enreach announced a new acquisition in the Netherlands, the Microsoft cloud service provider Go2the.cloud (G2C). Established in 2016, G2C is a high-growth enabler of digital transformation services through the provisioning, reselling and managing of ..."
+publishedDateTime: 2021-04-23T09:19:00Z
+originalUrl: "https://www.telecompaper.com/news/enreach-buys-microsoft-cloud-specialist-g2c--1380630"
+webUrl: "https://www.telecompaper.com/news/enreach-buys-microsoft-cloud-specialist-g2c--1380630"
 type: article
-quality: 52
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Mad in America
-  domain: madinamerica.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
-  - AI
-
-images:
-  - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-    width: 300
-    height: 285
-    isCached: true
 
 related:
   - title: "NBA using Microsoft cloud and AI to power ‘CourtOptix’ and bring enhanced stats to fans"
@@ -57,16 +50,21 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "Enreach buys Microsoft cloud specialist G2C"
-    excerpt: "Enreach announced a new acquisition in the Netherlands, the Microsoft cloud service provider Go2the.cloud (G2C). Established in 2016, G2C is a high-growth enabler of digital transformation services through the provisioning, reselling and managing of ..."
-    publishedDateTime: 2021-04-23T09:19:00Z
-    webUrl: "https://www.telecompaper.com/news/enreach-buys-microsoft-cloud-specialist-g2c--1380630"
+  - title: "Official Microsoft AI-900 Exam Dumps (2021) Azure AI Fundamentals Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft AI-900 exam with ITExamQuestions AI-900 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-900 Microsoft Azure AI Fundamentals Exam?"
+    publishedDateTime: 2021-04-18T19:04:00Z
+    webUrl: "https://www.madinamerica.com/author/download-real-ai-900-exam-dumps/"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 2
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 52
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
 
-secured: "hgPebk29DjwrchaNx1TYZS6s2mWniHHsa1uSLfY/2DWQraGx9HOWDIbC5gGu3792dTQkGocfGZCvYuao+Vdfb7lfvRYMuoL7i/CwWyuJl6XnHiGUgofruq/iAfvSUGfHqgTBsA60Pq7Emt8AvcuoVNx4jciO/sRDtl8SnJCa3zbBWXxleshxY9QI/J09AOn38JHYJQV5kYkLlzw8pw3sNklr3eoFpa7GdslhfkPiW4nJ3KoaVK7WCoJKooU4ubIBBbaZu2fxgoBGn+mcerJjuLDdbyHkv4tpTxit/iXOjZ1EWqLVmkRQUOnFdTZbPXJgvLJcJcJ2CjtD664jdXBRt+MR6FfBgUKhhVUimQC7JMk=;/AbRzOP26VwctQCQIwn+aQ=="
+secured: "QS7TAd5HwOAWlt8Ue/4/bmgwNnygPp83wrHfCY6rxJAKdH4F1b8I4v/RodEc1zpeH5xyPuybtpqsVGVYkIDa2gkRQVs5fSreIUlU1lSwLls7jhk51LQ4yALvzpMwJFct0k4jyikix4P1QB01ug3iaiaBHpDknOUzc5S89ST5IE20tw+liBFqMZfPuWFPl1BQ7rtnxTgT6aRoeLZpAODX7ao0rXYWwtPSsXuE/9j2vUgVG869SqFliTwLSvILC3FyJAq93pHZn7WIt8voMsmcepEL347/hYV9A5QV3ENqWLg0fV29qDwVqyeCcP+VVLKwz3J5weBBs8dKFvwK8I5XbYGMQUGTEkTzHxq0NkcALS4=;/hmaGp6UdTx/F4KayOhHPA=="
 ---
 

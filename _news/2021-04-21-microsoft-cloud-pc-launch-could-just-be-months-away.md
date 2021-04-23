@@ -60,6 +60,15 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Enreach buys Microsoft cloud specialist G2C"
+    excerpt: "Enreach announced a new acquisition in the Netherlands, the Microsoft cloud service provider Go2the.cloud (G2C). Established in 2016, G2C is a high-growth enabler of digital transformation services through the provisioning, reselling and managing of ..."
+    publishedDateTime: 2021-04-23T09:19:00Z
+    webUrl: "https://www.telecompaper.com/news/enreach-buys-microsoft-cloud-specialist-g2c--1380630"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 2
 
 secured: "ym9C/VondazDowpc21G1tEMqx5qaQeEXC3lPv5yC23BkCYB6EAIekna942/pIOZcPKuCBu8HwoDs2zNjRx82FGQC+50dD3wbZdfAIIoKsZyJTRIL7fNM1NfExw++kc4n4SlUuGUDTG9cwt1m4/ArL4SzEFG7fJe9HqV1y8tio4q202hcqzi6xeW2y8kL9UIMq1JsBic/P+dXuBszToxYdK4sQRJLvXLJUx94HcoSxud7Lpfr5xsKEmgzgPyyzHFQraJEnuq8gBRup94goSQsiRetu+J4LGQVJADKnASkEuOHAUljym6Q4NrDYK65pL4GDO04vwvm47dl1yTGkSu7hZeHeNW958l0RmOZLROnIcLkJcmW1f0KDt1Qhbgxsz80YE6aRa8XR2wK0KAZUZneYwAoPslQ1K3MgQkrflU6EY49lOOhenlqmS9lWpmh1vvDxjAT4AE/uBTMtbJmgfLFy7D9iZUdiAQb+E0KqEAvXNJ3LfMrNqJqilSUG7ILPBIbzfIJ7gjj5NmjWM6PPuvhNQ==;aKY8aHh0mzySOA4e/u7hBw=="
 ---
