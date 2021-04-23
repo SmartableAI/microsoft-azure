@@ -4,85 +4,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-provide-disaster-recovery-replicate-storage-data.md",
-      "title": "Provide disaster recovery by replicating storage data across regions and failing over to secondary location",
-      "excerpt": "Learn how to provide disaster recovery by replicating storage data across regions and failing over to secondary location.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provide-disaster-recovery-replicate-storage-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 1301,
-        "average": 4.806303
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/provide-disaster-recovery-replicate-storage-data-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-provision-azure-sql-db.md",
-      "title": "Provision an Azure SQL database to store application data",
-      "excerpt": "Find out what makes Azure SQL Database a good choice for your relational database, how to create the database from the portal and connect with Azure Cloud Shell.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-azure-sql-db/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 5409,
-        "average": 4.6638937
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-resolve-threats-with-azure-security-center.md",
       "title": "Resolve security threats with Azure Security Center",
       "excerpt": "In this module, you’ll use the alert capabilities of Azure Security Center to watch for and respond to threats.",
@@ -264,8 +185,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 2480,
-        "average": 4.7330647
+        "count": 2481,
+        "average": 4.733172
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -308,8 +229,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 1130,
-        "average": 4.49823
+        "count": 1131,
+        "average": 4.498674
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -351,8 +272,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
       "length": "PT44M",
       "ratings": {
-        "count": 2110,
-        "average": 4.534597
+        "count": 2111,
+        "average": 4.5343437
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -394,8 +315,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
       "length": "PT40M",
       "ratings": {
-        "count": 2019,
-        "average": 4.626548
+        "count": 2020,
+        "average": 4.626733
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -473,49 +394,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-translate-text-with-translation-service.md",
-      "title": "Translate text and speech",
-      "excerpt": "Automated translation capabilities in an AI solution enables closer collaboration by removing language barriers.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-text-with-translation-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 790,
-        "average": 4.735443
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/translate-text-with-translation-service-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer.md",
       "title": "Upload, download, and manage data with Azure Storage Explorer",
       "excerpt": "Azure Storage Explorer allows you to quickly view all the storage services under your account. You can browse through, read, and edit data stored in those services through a user-friendly graphical interface.",
@@ -523,8 +401,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 2959,
-        "average": 4.6522474
+        "count": 2960,
+        "average": 4.6523647
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1225,6 +1103,123 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-pin-content-to-your-azure-portal-dashboard-azure-portal-series.md",
+      "title": "How to pin content to your Azure portal dashboard | Azure Portal Series",
+      "excerpt": "In this episode of the #Azure Portal “How To” Series, learn how to pin content on the portal for easier access and monitoring. We'll go over how to choose a dashboard to pin to and the differences between a private and a shared dashboard.   Try out these features in the Azure portal: https://portal.azure.com",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-pin-content-to-your-azure-portal-dashboard-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-pin-content-to-your-azure-portal-dashboard-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=eyOJkhYItSg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eyOJkhYItSg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M51S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-05T03:57:56-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eyOJkhYItSg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-publish-your-apis-with-the-new-developer-portal-in-azure-api-management-azure-friday.md",
+      "title": "How to publish your APIs with the new developer portal in Azure API Management | Azure Friday",
+      "excerpt": "The all-new API Management developer portal lets you effortlessly publish your APIs. It's customizable, lightweight, and intuitive. Mike Budzynski joins Scott Hanselman to show how to publish your APIs with the new developer portal in Azure API Management.  3:30 - Demo  Azure API Management resources",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-publish-your-apis-with-the-new-developer-portal-in-azure-api-management-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-publish-your-apis-with-the-new-developer-portal-in-azure-api-management-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=9cmyh3J9Lvc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9cmyh3J9Lvc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M10S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-01-30T21:26:05-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9cmyh3J9Lvc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-push-a-container-image-to-a-docker-repo-azure-tips-and-tricks.md",
+      "title": "How to push a container image to a Docker Repo | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to push a container image to a Docker Repo. Once you've signed up for a Docker account, you can easily come to the Docker Hub and push your containers to your registry.   For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-push-a-container-image-to-a-docker-repo-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-push-a-container-image-to-a-docker-repo-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=r_tGl4zF1ZQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r_tGl4zF1ZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M39S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-16T14:18:57-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r_tGl4zF1ZQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
       ]
     }
   ],
