@@ -96,22 +96,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
-    excerpt: "Microsoft customers experience a simplified secure move to Azure and multi cloud environments with Alkira Network Cloud SAN JOSE CA April 13 2021 Network Cloud pioneer Alkira today announced a close collaboration with the Microsoft for Startups program a select"
-    publishedDateTime: 2021-04-13T13:56:00Z
-    webUrl: "https://www.openpr.com/news/2269417/alkira-teams-up-with-microsoft-to-transform-the-cloud-networking"
-    ampWebUrl: "https://www.openpr.com/amp/2269417/alkira-teams-up-with-microsoft-to-transform-the-cloud-networking"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269417/alkira-teams-up-with-microsoft-to-transform-the-cloud-networking"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 69
-    images:
-      - url: "https://cdn.openpr.com/U/4/U413947552_g.jpg"
-        width: 800
-        height: 480
-        isCached: true
   - title: "First Student Receives Microsoft Azure Certification from INTERalliance, Microsoft Partnership"
     excerpt: "The INTERalliance of Greater Cincinnati is thrilled to announce that the first high school student from INTERalliance and Microsoft's partnership in Azure fundamentals has passed the Azure Certification exam and received his professional certificate along with several local teachers."
     publishedDateTime: 2021-04-12T14:29:00Z
@@ -243,6 +227,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Microsoft.jpeg"
         width: 1500
         height: 844
+        isCached: true
+  - title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
+    excerpt: "Network Cloud pioneer Alkira® today announced a close collaboration with the Microsoft for Startups program, a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud."
+    publishedDateTime: 2021-04-13T13:07:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 49
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
     excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
