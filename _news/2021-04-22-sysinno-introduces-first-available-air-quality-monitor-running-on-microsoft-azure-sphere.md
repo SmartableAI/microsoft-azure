@@ -2,21 +2,17 @@
 category: news
 title: "Sysinno Introduces First Available Air Quality Monitor Running on Microsoft Azure Sphere"
 excerpt: "Sysinno Technology Inc., an Innodisk shareholding company, is excited to announce that their iAeris line of indoor air quality detectors will run on Microsoft Azure's Sphere, making them at this time the world's first and only production-stage air quality monitor to take advantage of the possibilities of Microsoft Azure."
-publishedDateTime: 2021-04-22T00:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-1030330820"
-webUrl: "https://markets.businessinsider.com/news/stocks/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-1030330820"
+publishedDateTime: 2021-04-21T19:00:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210421hk48636/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210421hk48636/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere"
 type: article
-quality: 48
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -252,6 +248,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "zZ/bzb6Hadyhaq4DnuVyPMjOC4njw0n9Wz7Ft9pHteqClvQp8U3KU9iW63Sl4Ms6oxw0NxTSaP2u41J1/G0gnJYd/00q2WjHET8DU5f9HYAxY1/81TSrgB/taHkpffnAn2YWLyoCo3k2vnXQUw3r/3BgCeQbNw9c2Dzghf2/wSqOHGYG1lRpdXOOf+BFUs+GIBmRP2IqyIhLqCjhavf6ekQczu7yQqPpqP5yQWhz6qEyVi3I9bBkJ8/JHms8XDi2Asb2Aq78dLMJwoEOCHO3pgUAoGvuVU19uyCb594OrLRFcaCX7fXX/8GDifLzCxDHRGlScVTH0KJxPGt8aNWFzN/Okmjw1PfwY5XeTlL+XchAOWIaKzaAjSsHKGkRiKi18VmzfEtuJrNBxn70NFgNbJC4RpWlD594rm7e6p5KAL03jT0vb8RgPyKKSK2OUk+TWveu/oMaEBtZxxOLqbJmgRhDMKdym99tEOp38OPOha+gmyM2xECkSI2TTexoMcmfB1tlDEzb/+NpAI2MAolTGg==;yA5eSvI56cpNXnXWHVO/5w=="
+secured: "dRhPShC3Di6wMGYFcFaRLQWlt+PuiphV3xmvVbe1XCQahd3hVeG8VLeIcw/w+144iLkT3ADSvxuJBRc1XuxzfI/7lUpXgrbGhpB0dMiHOvFbUKHV94BH2ibUSBVEI7F3UXyHlcYQnHSOqcN5fjr1oISeqWeY6yT8rn9XYiPox0VAJ0h/+UqotyXCUly6uriKub0150PlvVQOY8yWKf+5Ap2PpE4nGl+gSXxVI2idn9KTdgJulymadKBBIC0YG/hxLHz8YHCfPsbPsEUcfSMNfy3l1vu/rE2qe/KFSCDlB7xReimgmQf0NbyDd7XfZVnRpqXUbta2nwEG4sQow/GXuCITRlDaHocCfSPKcitt92Y=;aznSKXKsAklTtjLO43ZjfA=="
 ---
 
