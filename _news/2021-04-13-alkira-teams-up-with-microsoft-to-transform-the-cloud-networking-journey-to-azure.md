@@ -2,9 +2,9 @@
 category: news
 title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
 excerpt: "Network Cloud pioneer Alkira® today announced a close collaboration with the Microsoft for Startups program, a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud."
-publishedDateTime: 2021-04-13T13:07:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
+publishedDateTime: 2021-04-13T08:00:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
 type: article
 quality: 49
 heat: -1
@@ -511,6 +511,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "jGc5hkbIxHyBjNLsau+50GlfGsznadr34DvNPlniNusmVkVDzauX+7NOby1pbnNsDzDKHy9QriY+45NmyUmNhDJ5+fRPnRO7KS0seZb3RuD1QBQztUpmuPXA1lZUANqg1QlU/EZJia5GuQ2kzZfH/5o1ZUag21DYwJUvo3EPPXrc++VfMiDuL545Idi1/5kwUrVUYUa4JQ3FuU8hI1MbAaTHPMzdzInDmI34CYKaj0oxw2+8KDJUHaWpqbIk6lGntkJrUh8MWkYv73tsgBO3+SNaljnwihP+KKodVKq+6m0ORpXqdLFTOVt+LJ/511NbKX6+RW7KhmFDvE/ggftJql9F2ZgUthgb6+19HJ8oQ1M=;Np87ZjYQpwKthWKgq0BVvA=="
+secured: "YUQcx9SQ+PC0EAepklphCUTepY8acMuvMEFNI4/qBo3EIX+hXom/LVVyMfQ6xUZlRBDpCHbk3qMKweZDRkNLpLMF8ILP0rge7PG7lH+sPY0UAjQoiZ2081Q0Ql6HJ0dbokfBdFhzL5rPHKJQ5stogYkVrltqyJG4ytVC9zCxJxwZ5kc6fm9ZLW1AhQC4YR510AFDpRrqwWDosm/ivRv2MqQ4No/LiJLaeK80fU3sG521nlndr3avdIcRthJhvMsBbc4fCVu+v01TDtqG77S014viNduc0qL+6L1RYcIm9mmZ8BU8ONrQWzbnSCaDcTDb2WKuXyZDoHhxPCx/yfxCYd9ABQEFlD3WojfDb1snFcE=;GQhZe8VS3s8QVRnomrGwXQ=="
 ---
 

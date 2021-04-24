@@ -222,8 +222,8 @@ related:
         isCached: true
   - title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
     excerpt: "Network Cloud pioneer Alkira® today announced a close collaboration with the Microsoft for Startups program, a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud."
-    publishedDateTime: 2021-04-13T13:07:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
+    publishedDateTime: 2021-04-13T08:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
     type: article
     provider:
       name: Associated Press
