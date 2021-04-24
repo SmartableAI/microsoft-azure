@@ -1,27 +1,25 @@
 ---
 category: news
-title: "Microsoft Partners Find Foothold In German Enterprises With Growing Adoption Of Azure, Cloud Services"
-excerpt: "German enterprises, traditionally slow to adopt cloud computing, are growing more interested in migrating applications to the cloud, particularly to M"
-publishedDateTime: 2021-04-22T08:18:00Z
-originalUrl: "https://www.hostreview.com/news/210422-microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services"
-webUrl: "https://www.hostreview.com/news/210422-microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services"
+title: "Microsoft Partners Find Foothold in German Enterprises With Growing Adoption of Azure, Cloud Services"
+excerpt: "German enterprises, traditionally slow to adopt cloud computing, are growing more interested in migrating applications to the cloud,"
+publishedDateTime: 2021-04-22T08:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services-1030331843"
+webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services-1030331843"
 type: article
-quality: 22
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Host Review
-  domain: hostreview.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-    width: 400
-    height: 400
-    isCached: true
 
 related:
   - title: "Amdocs to Accelerate M1's Digital Transformation on Microsoft Azure"
@@ -280,6 +278,6 @@ related:
         height: 293
         isCached: true
 
-secured: "t6FOjRF/IHp8SQXbSS2j62lGmmkccAzbDUT67BdyzVskyScG78/nfEoV62+AWPPgsohQbwhHpWqD8T/hDCDAc0EYw6Rw3JnV/fSnonji3zx5O9Iq82udLV4xOuNr8tECoxK3zRzQs6hyW6dbj0Hxa2XjRy5+I3Fht3GnKX9pqf6mqKBtjJFwt2EnpRed3XbYVGXlWTV2Oslsp/k5D3w+t4hFVDfA8WMlTRXARma0cZtFIkMSYYl2SpfF2m6nJwBhOQwk13WaH2zE8X4U6O6ehR83uf3WEjX4Ncx2PMNno2jmzrbtLi2uRnZBLHmFKNB0EYNCjypAbElm5MjEcjrxkhRbTyHjx8LQfV0m2fMQo/s=;DPGSqEuYBqBAIVOFOTQADQ=="
+secured: "LVLfalA1ueuswJfTd9S5WMOInxpIEq3T4BfgMcrCYq3tWa/VBMarhprBChS7cqSk35l+qtyM4aXupOsn56nLRpAuVBs4YkqG/ark9kbs52LrFO/DPpXyO3TxryMSEQ0XlZXbFLuP4vYkc1A1Qa/QZt0kMhw+lO+dVMhrUdro+zMiKlqHZKey8jYqZ9CcfmWTiWtk4xeT77Rvz8Qw4B7bgoB8ENaEP1Ij4/LA4bBq2BgDX8/qbr/Przc038CX8mXfIvlP7Tf/mFpw8hcFkchJ7sA2OBJ8oduZ1n8RJu7W1VlnSMuHcGZSuXCOOHXNpKl+juiXishH6V3Y8Roy2MdgpAFHr3n6JJ9HwCD9yR5ju28=;yFi9mFX87X9ShAS51l6vaQ=="
 ---
 
