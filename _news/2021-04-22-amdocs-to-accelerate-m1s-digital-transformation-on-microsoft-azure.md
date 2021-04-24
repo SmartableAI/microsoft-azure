@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Amdocs to Accelerate M1’s Digital Transformation on Microsoft Azure"
-excerpt: "Amdocs (NASDAQ: DOX), a leading provider of software and services to communications and media companies, today announced that M1 Limited (M1), a leading digital network operator in Singapore, has selected its Openet charging and data management products to accelerate the digital transformation programmes on Microsoft Azure."
-publishedDateTime: 2021-04-22T10:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-680181c68347095119ffbc693dcadfb6"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-680181c68347095119ffbc693dcadfb6"
+excerpt: "Amdocs, a leading provider of software and services to communications and media companies, today announced that M1 Limited, a leading digital network operator in Singapore, has selected its Openet charging and data management products to accelerate the digital transformation programmes on Microsoft Azure."
+publishedDateTime: 2021-04-22T10:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/amdocs-to-accelerate-m1s-digital-transformation-on-microsoft-azure-2021-04-22"
+webUrl: "https://www.nasdaq.com/press-release/amdocs-to-accelerate-m1s-digital-transformation-on-microsoft-azure-2021-04-22"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Amdocs to Accelerate M1's Digital Transformation on Microsoft Azure"
@@ -289,6 +283,6 @@ related:
         height: 293
         isCached: true
 
-secured: "PmJTGkSeTfe8hhj2Nck8CRJjsHFKS607DBsguagdttvydJ3z9ljZrqDXLQyAEfdjvn0YpvIlscUHE5CgCj2Tz5pLNkOYwXO4i1oVvqKu2QuFfp1i32w4D7+t1ela3yewblEvMywBIgKZ1ZjtTNiAGhpnkxgkYMsvOoXKmslffei6T0XRNQoGFiygK4hiLjQzGdxn9+qT+eFut524vAX4GBD5YR7w21046FlfOniCGQ1miZcG979fmLrOjepRh7z9tDD3/VeUXIHAFmVtlHmakTkAeGEFEkkxsXCbUdbzMdE6odk+fsACcYaWoj/w0FMiuP4kRQLt6AOY6V+T7HPdKK4M/tstG2+UvWksmv6WZE8=;/Gh/Vrg4ogW6fUboFzqAuQ=="
+secured: "Mxw1ROw9JKwRhK01LXmMzQ9YOVg9sLXVGbvf6u/v7/+4/U9qmtKzvHMdDQ8E5kdXg+9TKPJgaoOxqpz1MJSvDP6Le6tjebuCL6LERW4RLLoUu9orVEiWOjoNpgvolt0W1Q8QGjdaiY4p1g1ZFcT4uGwW45WD4TSlulkjv3ZR1RTtvjVeaE9tnsVRNSI4nLQZjprn/xhCLaP0mQKM0qjKcGZzHkHxiWRphZEnBs2mUJyVcOV1g/tw4GNJ74nvoiNPQuFmIqSew5WRp57S/jQNHMShSbxtxoontWV7R24BpO42ezVyIotT6aAbj5vxyk5EXU7pfAtBOtiqj6HtU72sKcjxTVm1PqHfwKXQiv/Bq7g=;xPwNknC//+QB0sS0iMuwPg=="
 ---
 

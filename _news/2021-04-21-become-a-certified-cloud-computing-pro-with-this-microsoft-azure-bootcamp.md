@@ -68,6 +68,15 @@ related:
         width: 704
         height: 552
         isCached: true
+  - title: "Amdocs to Accelerate M1’s Digital Transformation on Microsoft Azure"
+    excerpt: "Amdocs, a leading provider of software and services to communications and media companies, today announced that M1 Limited, a leading digital network operator in Singapore, has selected its Openet charging and data management products to accelerate the digital transformation programmes on Microsoft Azure."
+    publishedDateTime: 2021-04-22T10:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/amdocs-to-accelerate-m1s-digital-transformation-on-microsoft-azure-2021-04-22"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 57
   - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q3 Earnings"
     excerpt: "Microsoft MSFT is scheduled to report third-quarter fiscal 2021 results on Apr 27. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
     publishedDateTime: 2021-04-22T13:51:00Z
@@ -114,20 +123,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
-  - title: "Amdocs to Accelerate M1’s Digital Transformation on Microsoft Azure"
-    excerpt: "Amdocs (NASDAQ: DOX), a leading provider of software and services to communications and media companies, today announced that M1 Limited (M1), a leading digital network operator in Singapore, has selected its Openet charging and data management products to accelerate the digital transformation programmes on Microsoft Azure."
-    publishedDateTime: 2021-04-22T10:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-680181c68347095119ffbc693dcadfb6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Download Microsoft AZ-303 Exam Dumps (2021) Azure Solutions Architect Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-303 exam with ITExamQuestions AZ-303 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-303 Microsoft Azure Architect Technologies Exam?"
     publishedDateTime: 2021-04-20T04:15:00Z

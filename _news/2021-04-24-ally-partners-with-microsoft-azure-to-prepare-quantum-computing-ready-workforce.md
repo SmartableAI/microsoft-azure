@@ -68,6 +68,15 @@ related:
         width: 704
         height: 552
         isCached: true
+  - title: "Amdocs to Accelerate M1’s Digital Transformation on Microsoft Azure"
+    excerpt: "Amdocs, a leading provider of software and services to communications and media companies, today announced that M1 Limited, a leading digital network operator in Singapore, has selected its Openet charging and data management products to accelerate the digital transformation programmes on Microsoft Azure."
+    publishedDateTime: 2021-04-22T10:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/amdocs-to-accelerate-m1s-digital-transformation-on-microsoft-azure-2021-04-22"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 57
   - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q3 Earnings"
     excerpt: "Microsoft MSFT is scheduled to report third-quarter fiscal 2021 results on Apr 27. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
     publishedDateTime: 2021-04-22T13:51:00Z
@@ -114,20 +123,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
-  - title: "Amdocs to Accelerate M1’s Digital Transformation on Microsoft Azure"
-    excerpt: "Amdocs (NASDAQ: DOX), a leading provider of software and services to communications and media companies, today announced that M1 Limited (M1), a leading digital network operator in Singapore, has selected its Openet charging and data management products to accelerate the digital transformation programmes on Microsoft Azure."
-    publishedDateTime: 2021-04-22T10:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-680181c68347095119ffbc693dcadfb6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
     excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
     publishedDateTime: 2021-04-20T18:36:00Z
@@ -289,6 +284,6 @@ related:
         height: 293
         isCached: true
 
-secured: "ZhzFQAB7Th3TbzCitZdEcBlKoCFjb1W1tC6iH4XC3TJ9QjF3Vs0aNGjY90rVwM+jAPy3nzCRcmLz1LAyesQsOvC1yCaScGN+vxComqEdQObTQ0dyu4bHSmdsAGgfH3jaIaq5irHTkmoW4NSJF1zgwtcgSfwizmn1fGannJQZXoMch70GVbLSBmclGGPggxfYaVE8msNbSdzCsvEiStvjLIUhgl6zEZRISpZM+ifeyf/MWD8LrtdFO8bw8jWvb2aZjWJJDBLAqhJsA275WxNWhU5xZkjOfyUS0nrJegFtKMy8vcD2rLAPcLUV/FXCqc8ZHDWMtaTU71HhAqw9Ur+E9UZSsTf7cQ0votXQUG7FM3k=;SY90wiGaEhceFUffMIOB/w=="
+secured: "kq5pylUeqnWcR7zjttRs87FUDh9Cezu8JbONTl/gN48DosXQZNAK06xu85wkXh4OJhUJc5NHAYB85o4O1GENQ229SsSucgRNvqINBzAymj7oO6AcrxD9yZZiPaEOJtOUxNlV8CdJK65RGl6GxCfzLAdbslWlkiiSGMhoeritFKv7jtRW6t8CLvOlY8B13x3Ngc1eXDSzNazA7bqxftIUcke+tio9SZIel7f98y4Okxbrs/smEWh31DFgAuMPeN8Um+G9O2NiuINU5Pm2Ks+0bzldwS9MjRTgivty5wQwi7CEByPay53REh4wdERgHPh5enKFqwF+SaKgJXvwJbfDTrDp7uryK2i0WNqwPFQ7gC/vAWq+xpjWsmMYO36MjmpwyyOKEi6lmrBvSi7QMSY8BvJELV6CsERY/kXZD9Cy1OcezixaQQ/GizUH8StH6qIBy6aZ7KQq1/AGIGWCY8GxP5umnjtrq3pugVDf58pTXm4SoVJ8ziXCFmN2ja87g8WnVuSJFdypM1meKCJYAz8JuQ==;ySeoAw9cgjRPcRNrjhGOZg=="
 ---
 
