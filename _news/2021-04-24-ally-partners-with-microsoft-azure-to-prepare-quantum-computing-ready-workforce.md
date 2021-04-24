@@ -1,29 +1,26 @@
 ---
 category: news
-title: "FileCoin: Decentralized Cloud Storage Competitor To AWS, Microsoft Azure, And Google Cloud"
-excerpt: "I provide three valuation metrics for FileCoin which illustrate that it could see an intense growth period comparable to Bitcoin. Despite its large recent run-up, the Coin looks inexpensive."
-publishedDateTime: 2021-04-17T06:29:00Z
-originalUrl: "https://seekingalpha.com/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
-webUrl: "https://seekingalpha.com/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
-ampWebUrl: "https://seekingalpha.com/amp/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
-cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
+title: "Ally partners with Microsoft Azure to prepare quantum computing-ready workforce"
+excerpt: "US fintech Ally Financial will collaborate with Microsoft on Azure Quantum solutions to develop quantum computing skills and explore how new algorithms and future quantum hardware could improve customer experience."
+publishedDateTime: 2021-04-24T06:50:00Z
+originalUrl: "https://www.finextra.com/newsarticle/37921/ally-partners-with-microsoft-azure-to-prepare-quantum-computing-ready-workforce/devops"
+webUrl: "https://www.finextra.com/newsarticle/37921/ally-partners-with-microsoft-azure-to-prepare-quantum-computing-ready-workforce/devops"
 type: article
-quality: 64
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: Finextra
+  domain: finextra.com
 
 topics:
   - Azure
-  - Storage
 
 images:
-  - url: "https://static.seekingalpha.com/uploads/2021/1/18/510561-1610992717787594_origin.png"
-    width: 704
-    height: 552
+  - url: "https://www.finextra.com/finextra-images/top_pics/xl/michael-dziedzic-ymgtirujcgc-unsplash-r.jpg"
+    width: 480
+    height: 270
     isCached: true
 
 related:
@@ -54,6 +51,22 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "FileCoin: Decentralized Cloud Storage Competitor To AWS, Microsoft Azure, And Google Cloud"
+    excerpt: "I provide three valuation metrics for FileCoin which illustrate that it could see an intense growth period comparable to Bitcoin. Despite its large recent run-up, the Coin looks inexpensive."
+    publishedDateTime: 2021-04-17T06:29:00Z
+    webUrl: "https://seekingalpha.com/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 64
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2021/1/18/510561-1610992717787594_origin.png"
+        width: 704
+        height: 552
         isCached: true
   - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q3 Earnings"
     excerpt: "Microsoft MSFT is scheduled to report third-quarter fiscal 2021 results on Apr 27. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
@@ -156,20 +169,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
         width: 960
         height: 542
-        isCached: true
-  - title: "Ally partners with Microsoft Azure to prepare quantum computing-ready workforce"
-    excerpt: "US fintech Ally Financial will collaborate with Microsoft on Azure Quantum solutions to develop quantum computing skills and explore how new algorithms and future quantum hardware could improve customer experience."
-    publishedDateTime: 2021-04-24T06:50:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37921/ally-partners-with-microsoft-azure-to-prepare-quantum-computing-ready-workforce/devops"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 33
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/michael-dziedzic-ymgtirujcgc-unsplash-r.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "Updated Microsoft AZ-300 Exam Dumps (2021) Azure Solutions Architect Expert Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-300 exam with ITExamQuestions AZ-300 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-300 Microsoft Azure Architect Technologies exam?"
@@ -290,6 +289,6 @@ related:
         height: 293
         isCached: true
 
-secured: "CWcb07z2LlwqXrsroU3m+TUfrG8pE9GLqkLX/xcBunTMwwoIrQR/CIyfl/HcJFm6u/psQMz3WnC4eQtwwPd+BfKEdD50TR0YTpNVZCRjGHIIPdEf9vVqxd0EPS5gmY5U1tN+Swq+Fn7xY+NydlUILFOJjA7hFwu8iq0AREJiP//gmkq+y3R9NBHxd/s7/R2R+7sgZeueu9jAB19ebvxxV4Zpt1JJnoGpIvhByHMWFuKlsoGFrPAlNFjrVGrJqMcoDxN55IeI9LCe1NklEaWR7csMbTIjB/PAOGBzVFZBYLBSvJpX5F2dmDD4KESQgyhDlQA312JPZ+Ama7Igz0WjoxrTzQWEH3RnvaMPA0QDPT0E7Q0eVbOvz6aLGtOFFKDnl5sAK6xlxU5IGL6q5Brr75M9BVZaYZGHKHm/Q/ETGybjvwel7tBncwSZk7XhI9TnY6X9Y6cYrD0jjsBxek2jPR20o8gC9/ZenbB8/ednulOiwkOujTktr+W26ELXFMljpuVpFKFZcLL8ANcDRD3miA==;vzvP9ibpzBZW8ASHB9g+Cg=="
+secured: "ZhzFQAB7Th3TbzCitZdEcBlKoCFjb1W1tC6iH4XC3TJ9QjF3Vs0aNGjY90rVwM+jAPy3nzCRcmLz1LAyesQsOvC1yCaScGN+vxComqEdQObTQ0dyu4bHSmdsAGgfH3jaIaq5irHTkmoW4NSJF1zgwtcgSfwizmn1fGannJQZXoMch70GVbLSBmclGGPggxfYaVE8msNbSdzCsvEiStvjLIUhgl6zEZRISpZM+ifeyf/MWD8LrtdFO8bw8jWvb2aZjWJJDBLAqhJsA275WxNWhU5xZkjOfyUS0nrJegFtKMy8vcD2rLAPcLUV/FXCqc8ZHDWMtaTU71HhAqw9Ur+E9UZSsTf7cQ0votXQUG7FM3k=;SY90wiGaEhceFUffMIOB/w=="
 ---
 

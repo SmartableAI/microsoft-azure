@@ -166,6 +166,20 @@ related:
         width: 960
         height: 542
         isCached: true
+  - title: "Ally partners with Microsoft Azure to prepare quantum computing-ready workforce"
+    excerpt: "US fintech Ally Financial will collaborate with Microsoft on Azure Quantum solutions to develop quantum computing skills and explore how new algorithms and future quantum hardware could improve customer experience."
+    publishedDateTime: 2021-04-24T06:50:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37921/ally-partners-with-microsoft-azure-to-prepare-quantum-computing-ready-workforce/devops"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 33
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/michael-dziedzic-ymgtirujcgc-unsplash-r.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Updated Microsoft AZ-300 Exam Dumps (2021) Azure Solutions Architect Expert Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-300 exam with ITExamQuestions AZ-300 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-300 Microsoft Azure Architect Technologies exam?"
     publishedDateTime: 2021-04-20T22:39:00Z
