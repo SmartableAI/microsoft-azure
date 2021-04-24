@@ -8,7 +8,7 @@ length: PT40M
 ratings:
   count: 2020
   average: 4.626733
-heat: 53
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "XNI3rNrv0lgehbhmxsHXuTqPfPfX+VYXGPyBtG7zapeo0jyqN94xNHCv7RgGenerAh8vx3WAEzH7UEzaFvEEF27Rs/ByyMOeL2k9zvCIuhNfRuNJAJn5E4U6G8I6RBf7wbXXHRmIrmQoRDoTdpLQj7ht7kdTAcEobdrpli5NTAc1ciJJa/4Ci7IDfc8X6KZYp3pnnpMiedklp7UlCHBl6cr7BpRWXFQ5N1yHBf6RnwmqkCvCqvSlYaYLH4d/TaYAxQLPZpPMhVUl6SFLx9JgxNDZt5oYH6frJSRnMK1OE2Ywjk/VOJfzilFyLv6+wFcJyZBWKwlY9u7uWVG/DAr1bAO/s45AbrZy5lOFmTI+dbBuDNoXWH49jbbg9LbQlkh+Q66zwQR7P8CthWV1/nif5qkev6xhZ5T65SJ1nbdMmWg=;UPrJW6Ud9x4pCMKunSHIQQ=="
+secured: "KBmUaUfyl3kyXpGTeFOJeZc8fi4xk6JqJOx/7ed1uxye5vzbFicgbbBh7z7TgmG5RwXMjtp1rMlqMMslyKreSOAGyb7aHSKA15KuZU/wI60UOsgu6GOh2cVfix4yXV6YczzxlKuN9MiLySpPesfsZUOLpXTzjzIMVF06XDtIMXaMCB6KKAZ7t7kzlc30M/bnntvBEibdi+eG6Q79vUEhOCkoQlDfBXWqfXS/rajlvt9VkZ2IJNzcJApON7096U1Uy65eSQn/jNEJvg/t/6Q9erasAJH/7u1ct8WZu7mhFfS9873lMnpfUciK753A+62gq2xM4xQcD6aU67SMPdmvNmQzYjRsXeao/YqsYr9mTEMJwWf9/noUVbQIFl7v74QXMI3aKIWcnDuSYobeBmYxRdBzo3K4oRSMYui1ndbFRLY=;TtW+3FC9K9Rft8cApA7knQ=="
 ---
 

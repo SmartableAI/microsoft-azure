@@ -4,7 +4,7 @@ excerpt: "Learn to develop an AI strategy to create value in education. Includin
 type: collection
 price: Free
 length: PT9H45M
-heat: 60
+heat: 62
 
 provider:
   name: Microsoft Learn

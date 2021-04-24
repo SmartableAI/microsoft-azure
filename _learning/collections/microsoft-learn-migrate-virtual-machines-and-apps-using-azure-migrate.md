@@ -4,7 +4,7 @@ excerpt: "The Virtual machine and app migration using Azure Migrate learning pat
 type: collection
 price: Free
 length: PT1H35M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
