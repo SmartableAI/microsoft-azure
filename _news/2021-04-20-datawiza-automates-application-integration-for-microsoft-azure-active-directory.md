@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
-excerpt: "Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure Active Directory (Azure AD), enabling IT teams using Azure AD for identity management to rapidly integrate new applications into the Azure AD environment without sacrificing security."
-publishedDateTime: 2021-04-20T13:32:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-ef7afbbddc5d712071466b9a0909da92"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-ef7afbbddc5d712071466b9a0909da92"
+excerpt: "April 20, 2021 (GLOBE NEWSWIRE) -- Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure ..."
+publishedDateTime: 2021-04-20T15:18:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8218413/datawiza-automates-application-integration-for-microsoft-azure-active-directory"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8218413/datawiza-automates-application-integration-for-microsoft-azure-active-directory"
 type: article
-quality: 67
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
   - Identity
   - Integration
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Amdocs to Accelerate M1's Digital Transformation on Microsoft Azure"
@@ -286,6 +280,6 @@ related:
         height: 293
         isCached: true
 
-secured: "QWzeMic4DcO30hv+9GxZFBq+YFAn2EmAN2CuV9bQbUGwgtB4sS2dUJCOj6C5/m5K19mtC69AfLnm4rFgufLVc057IPTn9JFlT3OHK7irMfjjJieS5bRTjeqHgOQLZ4AV7n4v4LuLDVZReDqGjqEEjDq8CvxaJsva158FVZLdnaAImHso+/67Un3GdDyn9bSZavtudKqdVQJHX5LmKY0vRlAgM6iBVYeFfuBUpAcGw5g5E9rCXm/ox0SckDHqPQu1L+qs4b+zMbkUxkiXyx0voPVqhYwk19yOAZ9w/QlqlQquIzw+l5a4CigzlXfqjY/KdhSGrQQAAIgQb4xZzBWnlv0nHR7NvJGoxer+3eJLIIU=;uqMX8JiIGwe/XM/XmKjHvA=="
+secured: "Gia2DmGMG9hnPrBorEyw+rrTsisN9FvcWbF/+FdCEfHz7V5ft2zYHfAet8xOpDxwbnIZQdUBfcGn/PdlkGinbNtxQYZQimW5tvtmPwh3TTcsp0ihe5JgKpxsn3fEhcx8APB9zG7mmylCxJPOdKBfcYjMPCyQCaP4+kB+NU7cA0YuGYcGERzmtWhKum3nLIpUHOkGGxBQ2U7E35RQW4G9B7TDoy0x4kUM3x+rFNcuzxNnfwSRzqzqJ65D/i/SnwGy7VbFCv9qyPLDauIE/8/GUPySEVY9eHcHMkIGEu9lwQP4a6RgR0sFPSZL1mEqd7cVn3k6BRJB9UFK4M4sx1oI0zjh+2OaWaBwMRBG9U6Y9lY=;aco9dSpTBsSEhRfe3jL6Lg=="
 ---
 

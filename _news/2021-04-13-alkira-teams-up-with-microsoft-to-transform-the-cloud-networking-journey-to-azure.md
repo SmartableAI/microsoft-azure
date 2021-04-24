@@ -2,9 +2,9 @@
 category: news
 title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
 excerpt: "Network Cloud pioneer Alkira® today announced a close collaboration with the Microsoft for Startups program, a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud."
-publishedDateTime: 2021-04-13T08:00:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
+publishedDateTime: 2021-04-13T13:07:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
 type: article
 quality: 49
 heat: -1
@@ -511,6 +511,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "YUQcx9SQ+PC0EAepklphCUTepY8acMuvMEFNI4/qBo3EIX+hXom/LVVyMfQ6xUZlRBDpCHbk3qMKweZDRkNLpLMF8ILP0rge7PG7lH+sPY0UAjQoiZ2081Q0Ql6HJ0dbokfBdFhzL5rPHKJQ5stogYkVrltqyJG4ytVC9zCxJxwZ5kc6fm9ZLW1AhQC4YR510AFDpRrqwWDosm/ivRv2MqQ4No/LiJLaeK80fU3sG521nlndr3avdIcRthJhvMsBbc4fCVu+v01TDtqG77S014viNduc0qL+6L1RYcIm9mmZ8BU8ONrQWzbnSCaDcTDb2WKuXyZDoHhxPCx/yfxCYd9ABQEFlD3WojfDb1snFcE=;GQhZe8VS3s8QVRnomrGwXQ=="
+secured: "0qHruCYV0cL5xmd0tpJ2iZqcza9wv1sXeb8Sghx5v51rl2Keo8hx+gMTTtXtK8ag6gMGiOC/R/DtHFNaMhsOqrnSgYqvsvltpC2hzBHQxiYLpA/E4V5yvdC6dytOKFAck1jx/CKxjQQ786nyUQfst+/ey5AsOzSWWtTGYLgqDVO+Nyb8n3r3ToENZalNXsZ2opsq2pzB1a4N+EYdfwTrVErdxhIYIMUyXXJSrfyaUax4b6dwjN3xRThbBWirIzz0HQnJz4khiia8MS+MbI5T9ToUdnD7VWF76WXf1xEmaOm295TFUmj7OGjqOoeELNHhJij5z4geW04fgDVG84K6Uk9s1023RvGNzDW8LYHiLpA=;KOuD3tHmZoumP/N0+njeTA=="
 ---
 
