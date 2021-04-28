@@ -74,20 +74,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
-  - title: "Microsoft Azure Enterprise Search Gets Boost With New Integration"
-    excerpt: "Paris-based Sinequa has integrated its intelligent enterprise search tool with Microsoft Azure to improve how large-sized companies find data across multiple sources."
-    publishedDateTime: 2021-04-22T13:15:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-azure-enterprise-search-gets-boost-with-new-integration"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0268-11f04f866ca3-361fd3e7c046-1000/microsoft-azure-1.jpg"
-        width: 607
-        height: 456
-        isCached: true
   - title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
     excerpt: "(Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix® to service customers in six new global markets,"
     publishedDateTime: 2021-04-26T14:01:00Z
@@ -125,15 +111,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Microsoft Partners Find Foothold in German Enterprises With Growing Adoption of Azure, Cloud Services"
-    excerpt: "German enterprises, traditionally slow to adopt cloud computing, are growing more interested in migrating applications to the cloud,"
-    publishedDateTime: 2021-04-22T08:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services-1030331843"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "Dassian Announces Collaboration with Microsoft Azure Government"
     excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
     publishedDateTime: 2021-04-26T23:19:00Z
@@ -148,34 +125,6 @@ related:
         width: 2084
         height: 1090
         isCached: true
-  - title: "DataStax Astra Is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "DataStax today announced the availability of DataStax Astra, the industry’s first serverless Database-as-a-Service (DBaaS) for Apache Cassandra ™ running in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-04-28T15:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-322eba2418aa4248a2da5519b3fd5bba"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
-    excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
-    publishedDateTime: 2021-04-20T18:36:00Z
-    webUrl: "https://www.ign.com/articles/become-a-certified-cloud-computing-pro-with-this-microsoft-azure-bootcamp"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 36
-    images:
-      - url: "https://assets1.ignimgs.com/2021/04/20/sale-149017-article-image-1618943765425.jpeg?width=1280"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Download Microsoft AZ-303 Exam Dumps (2021) Azure Solutions Architect Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-303 exam with ITExamQuestions AZ-303 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-303 Microsoft Azure Architect Technologies Exam?"
     publishedDateTime: 2021-04-20T04:15:00Z
@@ -189,34 +138,6 @@ related:
       - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
         width: 300
         height: 285
-        isCached: true
-  - title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
-    excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
-    publishedDateTime: 2021-04-20T18:03:00Z
-    webUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
-        width: 960
-        height: 542
-        isCached: true
-  - title: "Ally partners with Microsoft Azure to prepare quantum computing-ready workforce"
-    excerpt: "US fintech Ally Financial will collaborate with Microsoft on Azure Quantum solutions to develop quantum computing skills and explore how new algorithms and future quantum hardware could improve customer experience."
-    publishedDateTime: 2021-04-24T06:50:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37921/ally-partners-with-microsoft-azure-to-prepare-quantum-computing-ready-workforce/devops"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 33
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/michael-dziedzic-ymgtirujcgc-unsplash-r.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "Updated Microsoft AZ-300 Exam Dumps (2021) Azure Solutions Architect Expert Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-300 exam with ITExamQuestions AZ-300 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-300 Microsoft Azure Architect Technologies exam?"
@@ -271,20 +192,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 27
-  - title: "Valence Group Releases Unified Data Governance Service Offering for Microsoft Azure Purview"
-    excerpt: "Valence Group Inc., a digital transformation service provider focused on helping enterprise customers understand and apply next-generation technologies, today announced the release of its new service offering,"
-    publishedDateTime: 2021-04-27T13:24:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-0feaf286fe997e0a755f1dded76c1f81"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Download Microsoft DP-100 Exam Dumps (2021) Microsoft Azure Data Scientist Associate Questions"
     excerpt: "The ultimate gateway to pass the Microsoft DP-100 exam with ITExamQuestions DP-100 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-100 Designing and Implementing a Data Science Solution on Azure exam?"
     publishedDateTime: 2021-04-20T23:55:00Z
@@ -327,15 +234,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
-    publishedDateTime: 2021-04-20T16:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 13
   - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
     excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"
     publishedDateTime: 2020-11-04T23:06:00Z

@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "The public preview of Azure Database for PostgreSQL – Hyperscale (Citus) is available in new regions"
+    excerpt: "With the addition of Azure Database for PostgreSQL – Hyperscale (Citus) preview to France Central and Switzerland North regions, you can now distribute your Postgres database to horizontally scale queries across multiple machines using sharding."
+    publishedDateTime: 2021-04-28T16:00:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-new-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Transparent Data Encryption with customer-managed keys for SQL Database Hyperscale"
     excerpt: "This feature enables bring your own key (BYOK) support for data protection at rest, using Azure Key Vault, for Azure SQL Database Hyperscale customers. "
     publishedDateTime: 2020-12-09T17:00:17Z

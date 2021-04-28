@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "The public preview of Azure Database for PostgreSQL – Hyperscale (Citus) is available in new regions"
+    excerpt: "With the addition of Azure Database for PostgreSQL – Hyperscale (Citus) preview to France Central and Switzerland North regions, you can now distribute your Postgres database to horizontally scale queries across multiple machines using sharding."
+    publishedDateTime: 2021-04-28T16:00:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-new-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Arc enabled PostgreSQL Hyperscale now in preview"
     excerpt: "Azure Arc enabled PostgreSQL Hyperscale is now in preview, providing elastic scale with a unified hybrid management experience with or without a direct connection to the cloud. "
     publishedDateTime: 2020-09-22T16:00:15Z

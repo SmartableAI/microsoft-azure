@@ -124,15 +124,6 @@ related:
         width: 594
         height: 396
         isCached: true
-  - title: "Microsoft brings Azure supercomputing to UK Met Office"
-    excerpt: "The UK Meteorological Office (Met Office) is working with Microsoft to deliver advanced supercomputing capabilities for weather and climate research, ensuring the continuation of the Met Office’s international leadership in this area."
-    publishedDateTime: 2021-04-22T01:00:02Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-brings-azure-supercomputing-to-uk-met-office/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
   - title: "Microsoft announces xCloud support for Game Pass games coming in 2020"
     excerpt: "Microsoft Xbox boss Phil Specter today confirmed the rumors that Game Pass would be getting streaming support in the form of xCloud later this year. This comes after the company revealed subscriber numbers for the first time yesterday,"
     publishedDateTime: 2020-04-30T18:17:00Z

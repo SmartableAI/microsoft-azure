@@ -72,6 +72,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
+  - title: "General availability: Azure Hybrid Benefit for Linux with RI and VMSS Support "
+    excerpt: "You can now add Azure Hybrid Benefit to their Red Hat Enterprise Linux (RHEL) and SUSE Linux Enterprise Server (SLES) VMSS instances as well as RI’s, helping to significantly reduce the costs of running your workloads in the cloud.  "
+    publishedDateTime: 2021-04-28T16:01:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-hybrid-benefit-for-linux-with-ri-and-vmss-support/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
   - title: "Performance tiers for Premium SSDs is now generally available"
     excerpt: "Achieve higher performance and cost savings on Azure Disk Storage with performance tiers. "
     publishedDateTime: 2020-11-19T17:00:19Z

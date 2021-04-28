@@ -40,6 +40,51 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Database for MySQL - Flexible Server now supports 8.0.21 "
+    excerpt: "MySQL 8.0.21 is now in general availability with Azure Database for MySQL - Flexible Server deployment option in all major Azure regions."
+    publishedDateTime: 2021-04-28T16:01:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-now-supports-8021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Public preview: Azure Database for PostgreSQL – Flexible Server intelligent performance"
+    excerpt: "The latest preview release of intelligent performance on Azure Database for PostgreSQL – Flexible Server on Postgres 11 and 12 is now available."
+    publishedDateTime: 2021-04-28T16:01:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-flexible-server-intelligent-performance/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
+  - title: "The public preview of Azure Database for MySQL – Flexible Server is available in two new regions"
+    excerpt: "France Central and Brazil South regions are now available deployment options for the public preview of Azure Database for MySQL – Flexible Server."
+    publishedDateTime: 2021-04-28T16:01:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-new-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
+  - title: "Azure Database for MySQL – Flexible Server: Zone redundant high availability now generally available in new regions"
+    excerpt: "Azure Database for MySQL - Flexible Server zone redundant high availability is now available in two new regions: UK South and Japan East."
+    publishedDateTime: 2021-04-28T16:01:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-zone-redundant-high-availability-now-generally-available-in-new-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Public preview: Forced failover now available with zone redundant high availability for Azure Database for MySQL - Flexible Server"
+    excerpt: "Flexible Server forced failover capability is now available in all zone redundant regions. "
+    publishedDateTime: 2021-04-28T16:02:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-forced-failover-now-available-with-zone-redundant-ha-for-azure-database-for-mysql-flexible-server/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Public preview: Up to 10 read replicas for MySQL - Flexible Server"
     excerpt: "Azure Database for MySQL - Flexible Server enables read-heavy workloads to scale out and be balanced across replica servers according to preferences. "
     publishedDateTime: 2020-10-28T16:25:55Z

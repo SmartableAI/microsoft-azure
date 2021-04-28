@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 115
+  - title: "Azure Event Grid for Azure Cache for Redis now in general availability"
+    excerpt: "Azure Cache for Redis integration with Azure Event Grid allows service manage routing of Redis events like patching, scaling, and import/export (RDB) to your event handler."
+    publishedDateTime: 2021-04-28T16:01:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-event-grid-for-azure-cache-for-redis-now-in-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "Azure Cognitive Services general availability updates "
     excerpt: "General availability updates in Azure Cognitive Services Decision, Speech, and containers categories. "
     publishedDateTime: 2020-09-22T16:05:30Z

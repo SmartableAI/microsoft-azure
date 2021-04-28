@@ -73,6 +73,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "General availability: Application Insights work item integration in Azure Monitor"
+    excerpt: "You can now create work items in Azure DevOps or GitHub based on Application Insights telemetry. "
+    publishedDateTime: 2021-04-28T16:02:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insights-work-item-integration-in-azure-monitor/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 96
   - title: "General Availability: Azure Spot on Azure Kubernetes Service"
     excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
     publishedDateTime: 2020-10-28T16:00:28Z

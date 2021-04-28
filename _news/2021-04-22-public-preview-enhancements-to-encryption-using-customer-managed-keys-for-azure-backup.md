@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-enhance
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-enhancements-preview/"
 type: article
 quality: 76
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -21,6 +21,35 @@ provider:
 topics:
   - Azure
   - Management tools
+
+related:
+  - title: "Azure Database for PostgreSQL – Flexible Server (public preview) managed PgBouncer in public preview"
+    excerpt: "PgBouncer, a popular connection pooler for Postgres, is now part of the Azure Database for PostgreSQL - Flexible Server (preview) managed service."
+    publishedDateTime: 2021-04-28T16:00:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-managed-pgbouncer-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure SQL—public preview updates for April 2021"
+    excerpt: "Public preview enhancements and updates released for Azure SQL in April 2021."
+    publishedDateTime: 2021-04-28T16:01:58Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-april-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "QnA Maker introduces deep learning (Public Preview)"
+    excerpt: "The next version of QnA Maker introduces state-of-art deep learning technologies and advances several core capabilities like better relevance and precise answering."
+    publishedDateTime: 2020-11-09T18:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "clIMRAaGjTtshtQ951srG1sSkZLgGiR/F2+mNT1sJ6UCoIWlKHpl09wFDPkrGHA3EUfQ4d0U4Lwmle65pH80U3o/9OotHRNHUCuHLBDmm0bJXsCxSJeezI/BAWkysLrXCg/sarMVVbwm27W8P4TzqFvpEe7u8Wx2PWdKwAlncj7weJHfqzgYPpeitJqu84CZEd3snBEwryk7jDWMKeUeUfWtHP066L/nwKQJxWpbCblA2oEja4IyMdsDg0NQHqLKv70BuFvm8J1EC+YtAHTl5Ks6lOePymLCwaQZ8iGYnDLIMkSZ9jSqTF9cMJ5XOv55y0sxcC+OJhp4aY0MYT1lcPBAKhdUz08yolAfHdvUscA=;N10EYEQfIGiUzTqJTvGVSQ=="
 ---
