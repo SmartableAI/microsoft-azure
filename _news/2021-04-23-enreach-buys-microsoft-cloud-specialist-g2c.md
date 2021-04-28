@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Sinequa launches cloud optimized intelligent search platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of intelligent enterprise search technology, has announced the launch of Sinequa for Microsoft Azure, enabling organizations that use Azure to now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
+    publishedDateTime: 2021-04-20T15:43:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=146406"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 33
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
     excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
     publishedDateTime: 2021-04-20T18:03:00Z
@@ -168,15 +182,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
-    publishedDateTime: 2021-04-20T16:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 13
 
 secured: "QS7TAd5HwOAWlt8Ue/4/bmgwNnygPp83wrHfCY6rxJAKdH4F1b8I4v/RodEc1zpeH5xyPuybtpqsVGVYkIDa2gkRQVs5fSreIUlU1lSwLls7jhk51LQ4yALvzpMwJFct0k4jyikix4P1QB01ug3iaiaBHpDknOUzc5S89ST5IE20tw+liBFqMZfPuWFPl1BQ7rtnxTgT6aRoeLZpAODX7ao0rXYWwtPSsXuE/9j2vUgVG869SqFliTwLSvILC3FyJAq93pHZn7WIt8voMsmcepEL347/hYV9A5QV3ENqWLg0fV29qDwVqyeCcP+VVLKwz3J5weBBs8dKFvwK8I5XbYGMQUGTEkTzHxq0NkcALS4=;/hmaGp6UdTx/F4KayOhHPA=="
 ---

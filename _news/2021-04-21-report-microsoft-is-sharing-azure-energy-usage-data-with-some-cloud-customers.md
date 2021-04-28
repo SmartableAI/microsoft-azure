@@ -132,6 +132,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Sinequa launches cloud optimized intelligent search platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of intelligent enterprise search technology, has announced the launch of Sinequa for Microsoft Azure, enabling organizations that use Azure to now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
+    publishedDateTime: 2021-04-20T15:43:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=146406"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 33
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "Ally partners with Microsoft Azure to prepare quantum computing-ready workforce"
     excerpt: "US fintech Ally Financial will collaborate with Microsoft on Azure Quantum solutions to develop quantum computing skills and explore how new algorithms and future quantum hardware could improve customer experience."
     publishedDateTime: 2021-04-24T06:50:00Z
@@ -160,15 +174,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
-    publishedDateTime: 2021-04-20T16:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 13
   - title: "Enreach buys Microsoft cloud specialist G2C"
     excerpt: "Enreach announced a new acquisition in the Netherlands, the Microsoft cloud service provider Go2the.cloud (G2C). Established in 2016, G2C is a high-growth enabler of digital transformation services through the provisioning, reselling and managing of ..."
     publishedDateTime: 2021-04-23T09:19:00Z
