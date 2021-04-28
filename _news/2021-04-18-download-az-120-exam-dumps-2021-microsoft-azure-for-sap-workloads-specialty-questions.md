@@ -86,6 +86,20 @@ related:
         width: 607
         height: 456
         isCached: true
+  - title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
+    excerpt: "(Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix® to service customers in six new global markets,"
+    publishedDateTime: 2021-04-26T14:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg"
+        width: 400
+        height: 261
+        isCached: true
   - title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
     excerpt: "April 20, 2021 (GLOBE NEWSWIRE) -- Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure ..."
     publishedDateTime: 2021-04-20T15:18:00Z
@@ -118,6 +132,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "Dassian Announces Collaboration with Microsoft Azure Government"
+    excerpt: "Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian’s deep industry expertise and standardized SAP ERP extension solutions with Azure’s scalable and secure government cloud platform to provide a fully integrated environment for high security customers in Federal,"
+    publishedDateTime: 2021-04-26T23:16:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
     excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
     publishedDateTime: 2021-04-20T18:36:00Z
@@ -202,6 +230,20 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Sysinno Introduces First Available Air Quality Monitor Running on Microsoft Azure Sphere"
+    excerpt: "iAeris reliability meets Microsoft Azure capability The iAeris fully benefits from the guaranteed security of Microsoft Azure Sphere, consisting of a system-on-chip (SoC) device, cloud service ..."
+    publishedDateTime: 2021-04-22T11:55:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-301273493.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1491653/PR_Sysinno.jpg?p=facebook"
+        width: 797
+        height: 419
+        isCached: true
   - title: "Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour"
     excerpt: "Microsoft is offering end-users the opportunity to take a virtual tour of a typical Azure datacentre so they can get a behind-the-scenes look at the technology powering the public cloud services ..."
     publishedDateTime: 2021-04-20T14:14:00Z
@@ -213,6 +255,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 27
+  - title: "Valence Group Releases Unified Data Governance Service Offering for Microsoft Azure Purview"
+    excerpt: "Valence Group Inc., a digital transformation service provider focused on helping enterprise customers understand and apply next-generation technologies, today announced the release of its new service offering,"
+    publishedDateTime: 2021-04-27T13:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-0feaf286fe997e0a755f1dded76c1f81"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Download Microsoft DP-100 Exam Dumps (2021) Microsoft Azure Data Scientist Associate Questions"
     excerpt: "The ultimate gateway to pass the Microsoft DP-100 exam with ITExamQuestions DP-100 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-100 Designing and Implementing a Data Science Solution on Azure exam?"
     publishedDateTime: 2021-04-20T23:55:00Z

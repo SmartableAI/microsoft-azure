@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
-excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
-publishedDateTime: 2021-04-14T13:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-f06347dc92af4398a45b940000ac8029"
-webUrl: "https://apnews.com/press-release/business-wire/technology-f06347dc92af4398a45b940000ac8029"
+excerpt: "beqom, provider of cloud-based compensation management software, announced that Microsoft has designated beqom as an eligible \"Microsoft Transact\" application for customers of the Microsoft Azure ..."
+publishedDateTime: 2021-04-14T13:41:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/b20619485/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/b20619485/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20619485"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20619485"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft-AccuWeather partnership adds capabilities to Azure Maps"
@@ -86,15 +82,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Sysinno Introduces First Available Air Quality Monitor Running on Microsoft Azure Sphere"
-    excerpt: "Sysinno Technology Inc., an Innodisk shareholding company, is excited to announce that their iAeris line of indoor air quality detectors will run on Microsoft Azure's Sphere, making them at this time the world's first and only production-stage air quality monitor to take advantage of the possibilities of Microsoft Azure."
-    publishedDateTime: 2021-04-22T00:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-1030330820"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "Latest Microsoft Azure Security Engineer Associate Microsoft AZ- 500 Exam Dumps (2021)"
     excerpt: "Prepare your AZ-500 exam questions with Dumps2GO Microsoft AZ-500 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AZ-500 test because of your Microsoft Azure Security Engineer Associate AZ-500 certification exam fear?"
     publishedDateTime: 2021-04-17T22:56:00Z
@@ -249,6 +236,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "I6s3Dg7zdGu97Tpa37zSh7+1EzIyi/ylJjigjw7Vi6huXfImesSOCsu9fR1l1rptrn9g97Z+Rv1BuTXMPR3VCzQT5Mxj5ChrHKvNiAva1huAwk3b3PnUi2Q+tPQyrNZghHYZb6dSQFJGjItE7UcNaL+fxA9CrOKlOH/c1hVbm2x9hmc9yRy2A5t8r+tk0zm98ScEw9Z1QcGAlEBSTzbTwvu1dSfNMvKs2gcN1MRX3HNwXLUYb4IQTSyEl2h1E6jISy+/OC8NBMBsqAnIWQ0JdjtkhqnCStez2ZAWZ90PJTOW0Tsci7P/gFUwk/uqLjz6jfbmxIHPDzbfRZuyAk5C8TVjQM5lhWtpde464aF35xw=;pvkmqMLAEURipWbwq9lP/A=="
+secured: "bJhuHuycXW36Yc9aTAO1ideAr0wrsCGuKKj5hg78igCEEA/rxaa6/ytycMhJxpRkZQ/AYYMTWSzlnRlxd8FSysmY5nhTil5wLLvIskatYl8noDJXx4llrvP6HtgGXKj4ofvN9SfZIYADY4m1DvdeG68RA0eGcLiwhG4G25LkbMYGSYxqHMNvS9VRhC8K4j2Fhv+LRqLTX1MIQjhXby93Ww1JCvVRtY3QD8VhYdyWSey210RJWbSerAskgkW+QhADV88heF7gDPlBL7zqV83ld0MR4vM7AR2e3jwJ+wt1vcXxWvXSy8MYAfFEGofdTts7PQHtecK93XQ8O6W/+9tdstB7N+9WWKLvtDcBt6FzZ80=;tCw2kc6CWhtsS4MVlw5mIg=="
 ---
 

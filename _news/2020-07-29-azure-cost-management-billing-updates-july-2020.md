@@ -108,6 +108,20 @@ related:
         width: 1786
         height: 1027
         isCached: true
+  - title: "Azure Cost Management and Billing updates – April 2021"
+    excerpt: "April builds on top of past releases. From an expansion of the Retail Prices API to cover non-USD currencies to a new custom date picker based on your feedback. There's also new guidance for building out your cloud architecture for enterprises and operators as well as the usual cost optimization tips,"
+    publishedDateTime: 2021-04-27T10:00:02Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-april-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 93
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/32bde7e9-9671-4b37-82b7-fda1c7cfb748.gif"
+        width: 1576
+        height: 932
+        isCached: true
   - title: "Azure Cost Management and Billing updates – January 2021"
     excerpt: "Welcome to 2021: A year full of promise! The year starts out strong with two commonly requested features: a built-in view of cost broken down by resource group and remembering the last-used scope when opening Cost Management in the Azure portal. And, as always, we have tips and new ways to save money"
     publishedDateTime: 2021-01-26T10:00:13Z

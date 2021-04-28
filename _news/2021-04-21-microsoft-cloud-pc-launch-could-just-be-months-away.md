@@ -46,6 +46,22 @@ related:
         width: 630
         height: 352
         isCached: true
+  - title: "Sony's Microsoft Azure-powered cloud service will be PlayStation exclusive"
+    excerpt: "Well, keep waiting because even though the company entered into a strategic partnership with Microsoft back in 2019 to enhance its cloud capabilities and utilize Azure, word on what the fruits of ..."
+    publishedDateTime: 2021-04-22T15:36:00Z
+    webUrl: "https://www.windowscentral.com/sonys-microsoft-azure-powered-cloud-service-will-be-playstation-exclusive"
+    ampWebUrl: "https://www.windowscentral.com/sonys-microsoft-azure-powered-cloud-service-will-be-playstation-exclusive?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/sonys-microsoft-azure-powered-cloud-service-will-be-playstation-exclusive?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 55
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/02/playstation-gdc-2019.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Official Microsoft AI-900 Exam Dumps (2021) Azure AI Fundamentals Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AI-900 exam with ITExamQuestions AI-900 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-900 Microsoft Azure AI Fundamentals Exam?"
     publishedDateTime: 2021-04-18T19:04:00Z

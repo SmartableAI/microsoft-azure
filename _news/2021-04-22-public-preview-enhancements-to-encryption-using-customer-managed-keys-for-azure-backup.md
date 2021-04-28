@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-enhance
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-enhancements-preview/"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:
