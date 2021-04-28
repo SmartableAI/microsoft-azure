@@ -174,6 +174,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Microsoft and Alphabet post huge earnings: Azure makes more money, Google Cloud loses less money"
+    excerpt: "Azure revenues grew 50 percent and brought in billions in profit. Alphabet also saw huge profits, but its cloud division is still losing an eye-watering amount of money - just less than before. Microsoft's overall revenue for the third quarter hit $41."
+    publishedDateTime: 2021-04-28T11:03:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-and-alphabet-post-huge-earnings-azure-makes-more-money-google-cloud-loses-less-money/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 24
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Enreach buys Microsoft cloud specialist G2C"
     excerpt: "Enreach announced a new acquisition in the Netherlands, the Microsoft cloud service provider Go2the.cloud (G2C). Established in 2016, G2C is a high-growth enabler of digital transformation services through the provisioning, reselling and managing of ..."
     publishedDateTime: 2021-04-23T09:19:00Z

@@ -182,6 +182,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Microsoft and Alphabet post huge earnings: Azure makes more money, Google Cloud loses less money"
+    excerpt: "Azure revenues grew 50 percent and brought in billions in profit. Alphabet also saw huge profits, but its cloud division is still losing an eye-watering amount of money - just less than before. Microsoft's overall revenue for the third quarter hit $41."
+    publishedDateTime: 2021-04-28T11:03:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-and-alphabet-post-huge-earnings-azure-makes-more-money-google-cloud-loses-less-money/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 24
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QS7TAd5HwOAWlt8Ue/4/bmgwNnygPp83wrHfCY6rxJAKdH4F1b8I4v/RodEc1zpeH5xyPuybtpqsVGVYkIDa2gkRQVs5fSreIUlU1lSwLls7jhk51LQ4yALvzpMwJFct0k4jyikix4P1QB01ug3iaiaBHpDknOUzc5S89ST5IE20tw+liBFqMZfPuWFPl1BQ7rtnxTgT6aRoeLZpAODX7ao0rXYWwtPSsXuE/9j2vUgVG869SqFliTwLSvILC3FyJAq93pHZn7WIt8voMsmcepEL347/hYV9A5QV3ENqWLg0fV29qDwVqyeCcP+VVLKwz3J5weBBs8dKFvwK8I5XbYGMQUGTEkTzHxq0NkcALS4=;/hmaGp6UdTx/F4KayOhHPA=="
 ---

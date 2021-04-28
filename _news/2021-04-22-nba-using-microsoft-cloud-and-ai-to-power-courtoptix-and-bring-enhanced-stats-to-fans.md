@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-cou
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 131
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft offers new Azure specializations and scholarships through Coursera"
+    excerpt: "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well."
+    publishedDateTime: 2021-04-26T17:28:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 74
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619469968_microsoft_coursera_logo_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Official Microsoft AI-900 Exam Dumps (2021) Azure AI Fundamentals Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AI-900 exam with ITExamQuestions AI-900 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-900 Microsoft Azure AI Fundamentals Exam?"
     publishedDateTime: 2021-04-18T19:04:00Z

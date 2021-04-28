@@ -72,6 +72,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
+  - title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
+    excerpt: "(Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix® to service customers in six new global markets,"
+    publishedDateTime: 2021-04-26T14:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg"
+        width: 400
+        height: 261
+        isCached: true
   - title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
     excerpt: "April 20, 2021 (GLOBE NEWSWIRE) -- Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure ..."
     publishedDateTime: 2021-04-20T15:18:00Z
@@ -220,20 +234,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
-    excerpt: "April 26, 2021 /PRNewswire/ -- Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ..."
-    publishedDateTime: 2021-04-26T12:02:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-301276352.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 9
-    images:
-      - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
     excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"
     publishedDateTime: 2020-11-04T23:06:00Z
@@ -249,6 +249,6 @@ related:
         height: 293
         isCached: true
 
-secured: "OoXjDP9bLTPCk0iGjXNi6jh8l14o0RRJFVLZE57MhKLltjhgoQ7CG1StrbUHRB9H7And2iJbh30sE7H7lsms8fH0FMMSKi/ze1aLR+D2svz5ZZ/VTZHt9JdYTTA9k3SZ/UOpa9f9F8Qrq3tzUwweMruRwRuUk660VGu7WU4cP2R7jTRQjY2pmbIsgT9eSrKXUj7Msxt3CUl5aVL6/a9wZWP6HOUPOLjJz17oidU7HqdeIUHGbmM6HdRK2o+BcAVJPRIeeOJ+S86h44t6lt9m6+eIhdCFWvY4VcM7kKmv6ATfYYthu2ralWAtpirgmy4KF4P1+Q1aAjMdLeLKa5607KULRbjhz8KNk1LmLklXhsc=;BhFj3cd+8ac1sWsAysUvwA=="
+secured: "0Kh/RfRSuh40fHmawapfzcESwdbKPJHPGSxyszXAxLVRXto7uP4dUGS6Bctchtd5YdqucrcH6yUdqVLxg1P2SK9Oq4cbIygKroor0G5xr2NhmMLY2u+mPGqILi6Fnd45XHHyo64Nnm6QCt8yaqL72SWGaLw/Wmb6UFlMCo/aCrxUyRTfqluJy0zSFHRfU9rOOWQ0nO7vdLvxE741CgAx6drmLNQ2TEoGbQZHzmwLOEzLw9NDaI+WkF4TpUcnbVV8/8TQI4oaDwNx0/2ywlHoHfD4oMGCqy7H7ASKWcpsENmMG88EDBUjMMhRzhs2rT6RwWE+zaV532mw5TWUqsuqMAtPW6+4CZRJlFp+UsTshlY=;5TIyi9VsIwB8O9Twgj34Ew=="
 ---
 

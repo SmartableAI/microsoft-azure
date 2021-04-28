@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Ally partners with Microsoft Azure to prepare quantum computing-ready workforce"
-excerpt: "US fintech Ally Financial will collaborate with Microsoft on Azure Quantum solutions to develop quantum computing skills and explore how new algorithms and future quantum hardware could improve customer experience."
-publishedDateTime: 2021-04-24T06:50:00Z
-originalUrl: "https://www.finextra.com/newsarticle/37921/ally-partners-with-microsoft-azure-to-prepare-quantum-computing-ready-workforce/devops"
-webUrl: "https://www.finextra.com/newsarticle/37921/ally-partners-with-microsoft-azure-to-prepare-quantum-computing-ready-workforce/devops"
+title: "Microsoft and Alphabet post huge earnings: Azure makes more money, Google Cloud loses less money"
+excerpt: "Azure revenues grew 50 percent and brought in billions in profit. Alphabet also saw huge profits, but its cloud division is still losing an eye-watering amount of money - just less than before. Microsoft's overall revenue for the third quarter hit $41."
+publishedDateTime: 2021-04-28T11:03:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-and-alphabet-post-huge-earnings-azure-makes-more-money-google-cloud-loses-less-money/"
+webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-and-alphabet-post-huge-earnings-azure-makes-more-money-google-cloud-loses-less-money/"
 type: article
-quality: 33
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Finextra
-  domain: finextra.com
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.finextra.com/finextra-images/top_pics/xl/michael-dziedzic-ymgtirujcgc-unsplash-r.jpg"
-    width: 480
-    height: 270
+  - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -160,6 +160,20 @@ related:
         width: 960
         height: 542
         isCached: true
+  - title: "Ally partners with Microsoft Azure to prepare quantum computing-ready workforce"
+    excerpt: "US fintech Ally Financial will collaborate with Microsoft on Azure Quantum solutions to develop quantum computing skills and explore how new algorithms and future quantum hardware could improve customer experience."
+    publishedDateTime: 2021-04-24T06:50:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37921/ally-partners-with-microsoft-azure-to-prepare-quantum-computing-ready-workforce/devops"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 33
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/michael-dziedzic-ymgtirujcgc-unsplash-r.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Valence Group Releases Unified Data Governance Service Offering for Microsoft Azure Purview"
     excerpt: "Valence Group Inc., a digital transformation service provider focused on helping enterprise customers understand and apply next-generation technologies, today announced the release of its new service offering,"
     publishedDateTime: 2021-04-27T13:24:00Z
@@ -174,20 +188,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Microsoft and Alphabet post huge earnings: Azure makes more money, Google Cloud loses less money"
-    excerpt: "Azure revenues grew 50 percent and brought in billions in profit. Alphabet also saw huge profits, but its cloud division is still losing an eye-watering amount of money - just less than before. Microsoft's overall revenue for the third quarter hit $41."
-    publishedDateTime: 2021-04-28T11:03:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-and-alphabet-post-huge-earnings-azure-makes-more-money-google-cloud-loses-less-money/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 24
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Enreach buys Microsoft cloud specialist G2C"
     excerpt: "Enreach announced a new acquisition in the Netherlands, the Microsoft cloud service provider Go2the.cloud (G2C). Established in 2016, G2C is a high-growth enabler of digital transformation services through the provisioning, reselling and managing of ..."
     publishedDateTime: 2021-04-23T09:19:00Z
@@ -198,6 +198,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "kq5pylUeqnWcR7zjttRs87FUDh9Cezu8JbONTl/gN48DosXQZNAK06xu85wkXh4OJhUJc5NHAYB85o4O1GENQ229SsSucgRNvqINBzAymj7oO6AcrxD9yZZiPaEOJtOUxNlV8CdJK65RGl6GxCfzLAdbslWlkiiSGMhoeritFKv7jtRW6t8CLvOlY8B13x3Ngc1eXDSzNazA7bqxftIUcke+tio9SZIel7f98y4Okxbrs/smEWh31DFgAuMPeN8Um+G9O2NiuINU5Pm2Ks+0bzldwS9MjRTgivty5wQwi7CEByPay53REh4wdERgHPh5enKFqwF+SaKgJXvwJbfDTrDp7uryK2i0WNqwPFQ7gC/vAWq+xpjWsmMYO36MjmpwyyOKEi6lmrBvSi7QMSY8BvJELV6CsERY/kXZD9Cy1OcezixaQQ/GizUH8StH6qIBy6aZ7KQq1/AGIGWCY8GxP5umnjtrq3pugVDf58pTXm4SoVJ8ziXCFmN2ja87g8WnVuSJFdypM1meKCJYAz8JuQ==;ySeoAw9cgjRPcRNrjhGOZg=="
+secured: "/7Y5tknS7MfT8kKbIF5hVbNazSA0hHRG0xw2RC+zoKZ/iDMgtO9QXshE4mOaRpaQoFw3kOCVQ7M3Kwfc+88AemyZutwn2CLpNArAo9/WpKPx8aj8TBiBK64b+LYkPZiJs8WXXdaH7ypTGfJlpqn580+5Mf3EzzdmQI/VUVAmUNM1FruU6FifFxGliR3PMOLHfDEUdbw5i8vQX+w4Ol2yUixn7QNhkJCEbiEj7WpSR4HG0ETD7fcrC1qfh31oSWTSXWy0RNqM5B1E8fH4Ywj/fUJJ+rI/m3wJwB03i+vbt78Q9B5PzBDFseR+nSoUZI+UGyb+vGOTSqFVbQXE+cbroQuD3kBiuDN7AFED1OPG9Yo=;zWWUwjGBYdnGaZXKvTap7A=="
 ---
 
