@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT50M
 ratings:
-  count: 3877
-  average: 4.5514574
-heat: 57
+  count: 3899
+  average: 4.5493717
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Storage
 
-secured: "1nIhWuSwrzE0VbTonbuYtsmDaSuW8E9As0oqI9B1MdzY69unRL3WRq6fXJIHhyvPC8QyhKMJ7dSgEQXKOzR6bQMFIpTA60IqdUtjEjGaHkwiOZbmOr9mIkrzj1syGR4vEdaHhp6HSX0bfeFPr9Rb3CHSCnR+6ux53oP7Tv/55nWlickenM69ObRVjaMVgSgODAReuJD4lBcdGtOK/JcadKJPg45/Io+Ks6sU6g/Gr2T+QeF2k8Y4txbjh+VX5qwfHW5yofORcq6CkJnEE2fgm+tHhja7MODGGy2i8Dob+Zny/Mofd8AR+RC9y4DE6aww3a/WLN6W6Uc4fx2FXQNiW3KlumZKfUpizchJJblmLgEbj2VZJwvZsqrgWfvLCB+WvbxS7IpE1YIEDzXhwZpec/XJWvmD0CUzlT2o9AJweS0=;W8M7iQ+HgWtxTj2WPDWmyg=="
+secured: "8c6DgkVGpJCRec3D4E50/MvP4I57SjXQ+H7vIMqbKTxkgNdTOe/8GkyicNT+7PCjqUBCwy/qELHJOfh014DCrBx7FlbgI8BQ8hWCEguDZogU4XgtmI1PnJy5PvXvnay8+vdz6jKOrKP474p7iCCPLfQnCfCXpM8SAexIhrZ0RIhjtci0WCjJ1jmwHoRQ8ij8nOPyrm4TC7Pb9FD20RjcGR4gbV3fqhqcRCWyQIvn/MxV3RazXzMRtN5PfgkDGtKb/suLrzMqvYhwmBtOq5Lf7vaEj9bAFhLHl3hIH4eSMPUNDKSDMedZ6VemkxVdaFiOPF3pAlc+q/4DTS+SVSo6Nv+g4xfr0opR2RB/nMRlfxje5P2I83jxGCHj/OUILs65x5FMEj2c8+sz3A6VDWMZPYBJgtVna0joRA9D95U9+GI=;saoGnLm6PlbwwyOp6oGhDA=="
 ---
 

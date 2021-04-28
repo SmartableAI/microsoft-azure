@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT22M
 ratings:
-  count: 2077
-  average: 4.727973
+  count: 2083
+  average: 4.7287564
 heat: 51
 
 provider:
@@ -26,6 +26,6 @@ topics:
   - DevOps
   - Integration
 
-secured: "MEdjaWFuMrJvpqCk96x4Bsytw0HJQlBYgf2FfCAM+gwok1mf6iSNkSedhEqSjClICK2S4quDBMQh3la6A44mCmB2paPEnM5hqQGBVIXMTiNT13pRFwTibTkZT2d0qcY8h/Gxh5eZVQeuDozfdl/mYAdoA5AK8Yx1qOQxVR/J8DCOSiRvgYe0V/QYU0Ppv0V5kF5x2ZZMJ1N55ml/yA1rhrrnxeoqLB7PDa3TzAr3jcIlAW0g34v8RmJO+9+5Bj5OW0iy7pWYoCswWCiIipTBedNGtpPqdfEwzUl1ZzSUrmP8MilSh85UHx76J9wuSdhLFsS9Mt7r8GFEraNznqtXFrVGHkfeC8kpeBQpUFQ42lM0nPrsNQfxVBpsl79cQgmJlqXCUPfCTqC16Imt/UAqbCbQmk8rR89HrresHPQuGN8=;sBiR/+3l1slefwIHc/aCYw=="
+secured: "J3MqM46mYwQdI9lJpMEYj5YSU/csJkIjP8MUrxvV7FbkL8eGkjgys9HdH0VaD1qtcYVpQQHxF/tZfxap0jBGWHyQmfrhc+cha4coGtwesiZ4Fr/EtuM3ATqmB3zP2OYf667ZQb9uHxQ5gmf/pnrmjRCy+B4W2cit/Qs89eSLRC8prEBLF/yuPdyl/5DAJ7Cexdtqfj9IcieK/l8Be8Hp83Lm6wMT2btyI/rZV57ekMkpXan26etoVjaUohuCHjUHxL9u2wjSPDOsghJf3ILd2/EkWssaha40fWJr88LRldszIrBOacxVkSZB4dIQ0tLB1sUXk+CS8wI5hQJZQE61TSYPI/+DHqf28vAY50gESMqX7vF17kOmoflGZTN+gukCwgZK5TyoTLceU82gI2jKaidJ7hbb23M3nVpBu1AsXls=;oY1gN9ivJPXovRWmCqkKLQ=="
 ---
 

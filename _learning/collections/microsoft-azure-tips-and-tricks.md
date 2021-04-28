@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 61
+heat: 64
 
 provider:
   name: Microsoft
@@ -13,11 +13,12 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-develop-apps-with-microsoft-azure-database-for-postgresql-azure-tips-and-tricks
   - videos/microsoft-how-to-use-azure-container-registry-for-deploying-net-core-apps-azure-tips-and-tricks
   - videos/microsoft-how-to-run-logic-apps-in-a-docker-container-azure-tips-and-tricks
   - videos/microsoft-how-to-use-blob-versioning-in-azure-storage-azure-tips-and-tricks
   - videos/microsoft-how-to-deploy-steeltoe-net-apps-to-azure-spring-cloud-azure-tips-and-tricks
-  - videos/microsoft-how-to-develop-apps-with-microsoft-azure-database-for-postgresql-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-metrics-advisor-azure-tips-and-tricks
   - videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks
   - videos/microsoft-how-to-create-faster-and-smarter-apps-with-net-5-azure-tips-and-tricks
   - videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks
@@ -170,7 +171,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/waktLo7JJTw/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/cjBlWWT2_Sk/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true

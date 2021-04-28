@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H16M
 ratings:
-  count: 1267
-  average: 4.596685
+  count: 1268
+  average: 4.597003
 heat: 50
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Databases
 
-secured: "bDN6KNiT7XRPwts8I95eoQxclZJoa3D9lFJ+w4z4+QxjYxSlfTUIQIetC4HgR/Y698MsKGf/Gi9FoH0vGsRM3iMp0kairWE4kJYx1skoB4E2ANaAE9m14x8d04W4ms/mZhAiZuh31bCi0LX7GmcepzaaZ4+RVRjuKkz2vj4R12u8J4hg6zdPBTQ4BRo0HZiIPzGMIB5kQxpLkB1fA5q/jhP7OLu5BaD7wFzn8el54SodbqlfXvyM3I6tIwYei2+uo+0hV30AtcjE7byUeKujBkFdqb3uqb44lzsLrQd3du5oy4WuqxCRuancJTC8g0bIDl0BEHOu2LcQneMaKTjRnR4A1bdA/01Csq1APbSG6ob7dL6H2YCpt+EttEELZE3kOhWBb5f4PVzVxwinccmfd8RwN1FaTMmo/XrEuPrWI5I=;6rIacaQkSIDao+Hqkxib3Q=="
+secured: "688SKOetVJT2A3odj5hephVFH49116B9jBWORdTpDMus6lXT0bAAQN2en6BSh7w13fTbXyf8eE/SC+NRk7pYyG5fpN8XwoIJX0g0kSLoum13gmPTXNy8lrad9YPrWady4UspPIm34TOUF/9YTAWcSyxSc6QZU0ZPYBYCwgChreCqRt40RhhBwUgeB5qEOLg8XyR/XEFNwyA0s/rJZgBodAPqw2Rsz2J8ymwsqY2vHa7GoAuXupA8xfghmg2yCRZPMaGAGxNag+XRV5L6ICiykK7JQqP6/IFM6oJrCV7YpKuDk5y0HTZ3Vxr+FugBzZyBZJk8krVpcWaRGc4JcxNWMKr2jFnps3/zll6I6Jta+TCeOTgzfbyLpJQ0lyxOFsGiFOy97dURJ0v05LPcIvWE1U9LkjF/EuD8XJjPmPqbpw0=;FJ2LwpYlwg4vwjeAauDwcQ=="
 ---
 

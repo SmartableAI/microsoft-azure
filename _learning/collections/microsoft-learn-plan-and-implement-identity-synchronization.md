@@ -4,7 +4,7 @@ excerpt: "Plan and implement identity synchronization"
 type: collection
 price: Free
 length: PT2H26M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT32M
 ratings:
-  count: 1463
-  average: 4.6555023
-heat: 50
+  count: 1467
+  average: 4.6557603
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Management Tools
   - AI
 
-secured: "2V3ic3C4KbnBJYOwbwKsuKWJovTobs2JaN70HlkT1GrPAs0Yc0GB+kEgvjMAI3lYKxQPpYBiPRdy1xfbQoxpyoCl7P7kL8srCoWjQYW5XoeFRuJDnq3TwjyhyVqIcseAgBgRjceTf9olhllC6I707CAd5EsVc0Wys7rkEWg3w9z051CQySwYFBtHuAz00HxVSSpe30qwEzYDy3H/F9xoSDYqS70y25HlOxq3TypHpPIJ9xbY2FAVosZ70gWsRkGWCoYuhkHt0RELumZ/E6PfhNX4Y5BlWq9vYMAEPD+0FnbqLMwJRn9vUNJ9CeRZ7/aPB8mb4JJQF8CQe5iqZF9istSURVp7DUq2qxf4DWW15zq9wuyV8PJ2fzBBQ8VVCh0faAiR1ZqILvHoSL3aPJR28UQJflxbvRuN35Mdw3vGIV0=;3QeHrGRZ9rvKsBdnHm00xQ=="
+secured: "SqCLJhKFdenIOF7dsweaFcsK0FOzEL6K0Vum32HFtBko4YFwrrpbjWusyFHFvt/pFjktBkkDTIBTKTWXULEkr4PGE7KiWDa2kE3NXR1Tgyl5MM/R4XjTLvcbvuZ16V2U0LxF0xmVg6HwMFA+R64/+HIdfxBPUs9jrooNcYuRh7ZBHat0hSJkHoPm8bAYvvPHRbg5CWlKdsQoGz42VMDJdcv+M/mwaPK7mh2VNsuXIhXmizMDIFGm0hzj0RfADTGKXkZhPuLtdhyUfpgcVQFG5p4E8iBynx6Pe1OsC5wHf8ieRjvpezpkvS9Jro+tEb/ndRbrDm3OIRho0kxrvD/+kAWxjiJ4YmxRMX+Y91rGmnW2W8kmYOt3RVuE6V9X8OOOtTwVm2+RJrvC87yRBy0/ImVAwFosn3ObOjL5pwqTYVY=;CMn5GdRBaFHaGwLtYdOiTg=="
 ---
 

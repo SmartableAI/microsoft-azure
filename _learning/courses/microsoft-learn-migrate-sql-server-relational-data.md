@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H24M
 ratings:
-  count: 1444
-  average: 4.4660664
-heat: 52
+  count: 1458
+  average: 4.4698215
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - Migration
   - Management Tools
 
-secured: "tvTenalt9MDK9NkZT4UBDllAkTULZ2j34dvFITh0QuVpDoyFbsa6jb86vhMobaE7Joz4rSQlFLMRIsNDqBK2ps1aeWdKIrc5aYwQEWdLFDx3z96EDWIh9BbiVI0xv0uoNlAdi6FMil9h+qgDLBwnddDNzmthW2HTrgJTyuG4PVrO9rmHS8deJmKCtVnVCQzx2juGmabG6DpcVrQBIU/qEfJhdUXAYYLEEfZH0Mjy4yryAC5uQZflxuGH0ZI36iQb4/QaESAtLtUMLlZ8Dp8vVQOZWpgVnrchTiY7ZyNz5+rp4YqBHgv4Ky49ZUKndjSN7pxax/CR/sbqylBcIxspxiueU68TiFKNvrSiX27kDAZJOobZBqDgsvwKpAVnnvuXDX2l0bz9VibWxKpE4OVlQYdBX+Aln+jE3hcctBVl0vc=;qvOxfa5hsz5Ovp0Zo7+mmw=="
+secured: "2EoisfHBd5lqk2eUBZ+hl+LaYylXh6Jgv5tOEUMW1j0HlfeZIAaskDGp+zhO0q0/z5H9jyOb/Gxn9bYrdF/Vb3+abA2l0v65at6PUsygF0mQ8+W9PBVj2hjQQSGsyDzQawL2pBBoaA/fyW+JUg4MbfvOZ6YGZnUJQkH9tVP5wLN1iPP84ZUYQhnxNUkOLO0wLSoVmVz6b7Pn1cjRdMjhEShvmNGRV1rpi51KMaMwDP5omj9k/iMihRDyqjU5wyaNW4ZjyPVucntgtleSRMX9AuPmpX4kmRcYGcggd/hITo63StsUsCt5I4Qlnk/tc+vunZISX8zx1qvAwH/+VDv6Pnnr06xjlI/hH+7R38471OdWDjaeabqeLdQpqC7KU3AFDTuUX/av5jub9i3IZlRXltuI6fkMNWJXN0Xv+UtG/pA=;bGkyJufJJVZ3kVuOPtjPAA=="
 ---
 

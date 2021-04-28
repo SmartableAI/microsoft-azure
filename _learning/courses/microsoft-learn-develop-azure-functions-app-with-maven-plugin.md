@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT44M
 ratings:
-  count: 27
-  average: 4.6296296
+  count: 30
+  average: 4.6
 heat: 50
 
 provider:
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Serverless
 
-secured: "Nccyor+bbopRbUT0pcCbhcUNP0LmPoRZtulc4EyN3kjACTwRntBFDn3uswRUr9toGGwo5yR6vt5zUVfiQL7Ns4vzrIrksML4bkVQ4SIJbe5vZUNcLos+El3g0yTU58cTvvE952ForrUUNb2WlNrqt6zAxvTmuHGzJw8/pBf1DKHbP76hJpxmgQUa1Sg1FSU0if3cdsJSD9eGhLY4CI1Nm7/tnwX6LvE3xXDRC2QgDe3tKtXt4Dkf1j4cpNrfOiaDkpJSe/Nfizy3RnKtlaEhHzomWRARNU26u9fHltxeb+DAKIn6QOlWRetoPfqbhCjqyI1cWASP2a5opK792w46yxicrx49QenWlepq8pyxu42PgnKu/5ax92lHK4gnhx0CQ7VUTKEit5BI0S1MPq+X7bBaUXkoSL0DwzdCeb8vKCU=;n/r2lLErfp4qvRkO3O7nxA=="
+secured: "ipOFQhQ29zD51dD2oTE/Qc2bwHxw4ETbdhge5BRt2DnGDCy1zHhFMY1Eu7QaitONzDmyW99tzVqVNzyeDJltEzIR+jTpG/4f27VH5TZ+iqQuyH5YT7S4DDj6b7NLW+jaOisV5S+7MAHuGFAbBM1aX0hrjM2wEK3CgZxzQvoGWsJDaWZxQ0uwK6e8OupOmdBehw8//fioQc0PAnI4I+vyZEqE+mbO2nsWI0wCnc86tCocF3jsDkjthK1+/YusqH3g8eUVJrv3rpeNgJaJNhrxAr+n9tlmLanOWZ4OnWghtHRIls3sykhSIeMcSpDUDHsJ4zZcINqtLHx/Law/eOCnm0h9i9tzaCBs2JT27emMW1SArJOuvzCnl0XofmY8BEhtRq6yNaoWdv16z8RxdUti6Sus5pArsTPc7+JHg5Su3nw=;whh27iOdAl9F4q3p7LoKsQ=="
 ---
 
