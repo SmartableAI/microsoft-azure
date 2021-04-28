@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
-    excerpt: "Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure Active Directory (Azure AD), enabling IT teams using Azure AD for identity management to rapidly integrate new applications into the Azure AD environment without sacrificing security."
-    publishedDateTime: 2021-04-20T13:32:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-ef7afbbddc5d712071466b9a0909da92"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 67
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "FileCoin: Decentralized Cloud Storage Competitor To AWS, Microsoft Azure, And Google Cloud"
     excerpt: "I provide three valuation metrics for FileCoin which illustrate that it could see an intense growth period comparable to Bitcoin. Despite its large recent run-up, the Coin looks inexpensive."
     publishedDateTime: 2021-04-17T06:29:00Z
@@ -100,20 +86,15 @@ related:
         width: 607
         height: 456
         isCached: true
-  - title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
-    excerpt: "(Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix® to service customers in six new global markets,"
-    publishedDateTime: 2021-04-26T14:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
+  - title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
+    excerpt: "April 20, 2021 (GLOBE NEWSWIRE) -- Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure ..."
+    publishedDateTime: 2021-04-20T15:18:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8218413/datawiza-automates-application-integration-for-microsoft-azure-active-directory"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg"
-        width: 400
-        height: 261
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 47
   - title: "Actual Microsoft DP-300 Exam Dumps [2021] Azure Database Administrator Associate Questions"
     excerpt: "The ultimate gateway to pass the Microsoft DP-300 exam with ITExamQuestions DP-300 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-300 Administering Relational Databases on Microsoft Azure Exam?"
     publishedDateTime: 2021-04-20T23:11:00Z
@@ -355,6 +336,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 13
+  - title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
+    excerpt: "Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure"
+    publishedDateTime: 2021-04-26T12:01:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 9
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/d9/1d959af6-6d0e-5f96-ba18-7b61aae335fb/6059df86607f4.image.jpg?resize=800%2C522"
+        width: 800
+        height: 522
+        isCached: true
 
 secured: "YCA9BZlQnWBnwiwReoapZlQ9RZ4uYn5xlvOwnIt2SaCeh7EYcnlOXdj2ZhUZBeWGByhemXtTGnLbfu47snJ0Mdccvp8GQY2P6XXj6DLi0StpefCovCqAIG4EllR3PpF/cKpvzmPCaEK3+YHFbuEZNIuzkpoKVghGgGgS2lNhpsExYRQkFux85rofA+x8IPLdIG2S0zH7zlVfmDYpeVhb+0NvDMOuTIrrsuWsgNQQ2VAumjcFzd0fgRZtVAi6QPcVcNf7sohHBQ62KtjjUzFdyFWmRbYHielAO3EpeVCb+yw8Q73jL8mOvYHjG+vT8y0qg0KlogGwEuqnC9a3a5PRysEsaAeYKmIih14qORRrjEHhbIfkIZ/IEOqcT1uj+MT/RGTXZ0FHHxdoneOUhtMRDOLGQDWG1pX24xXbPOsCiF6YPbHxwdHkwuKv8D6Cs8AuBkIaRpB/A2vsr4iaikzIbNdSm+PfpCgn/ofcQ7LmLktJlPB5sVPVxZNAEyY+cKa9uwCR9RBYT/M37mRARbjN7g==;rxtkEqKYfBUzqgyxg/+wTA=="
 ---

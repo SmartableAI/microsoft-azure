@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
-excerpt: "Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure Active Directory (Azure AD), enabling IT teams using Azure AD for identity management to rapidly integrate new applications into the Azure AD environment without sacrificing security."
-publishedDateTime: 2021-04-20T13:32:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-ef7afbbddc5d712071466b9a0909da92"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-ef7afbbddc5d712071466b9a0909da92"
+excerpt: "April 20, 2021 (GLOBE NEWSWIRE) -- Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure ..."
+publishedDateTime: 2021-04-20T15:18:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8218413/datawiza-automates-application-integration-for-microsoft-azure-active-directory"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8218413/datawiza-automates-application-integration-for-microsoft-azure-active-directory"
 type: article
-quality: 67
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
   - Identity
   - Integration
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Amdocs to Accelerate M1's Digital Transformation on Microsoft Azure"
@@ -87,20 +81,6 @@ related:
       - url: "https://www.crn.com/resources/0268-11f04f866ca3-361fd3e7c046-1000/microsoft-azure-1.jpg"
         width: 607
         height: 456
-        isCached: true
-  - title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
-    excerpt: "(Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix® to service customers in six new global markets,"
-    publishedDateTime: 2021-04-26T14:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg"
-        width: 400
-        height: 261
         isCached: true
   - title: "Actual Microsoft DP-300 Exam Dumps [2021] Azure Database Administrator Associate Questions"
     excerpt: "The ultimate gateway to pass the Microsoft DP-300 exam with ITExamQuestions DP-300 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-300 Administering Relational Databases on Microsoft Azure Exam?"
@@ -343,6 +323,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 13
+  - title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
+    excerpt: "Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure"
+    publishedDateTime: 2021-04-26T12:01:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 9
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/d9/1d959af6-6d0e-5f96-ba18-7b61aae335fb/6059df86607f4.image.jpg?resize=800%2C522"
+        width: 800
+        height: 522
+        isCached: true
   - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
     excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"
     publishedDateTime: 2020-11-04T23:06:00Z
@@ -358,6 +352,6 @@ related:
         height: 293
         isCached: true
 
-secured: "s3TSYv2iXxvG5KSv94RDt18ePF4hTHuo0PavRqvTZHYoKArV6ii/nGrHuTEhWrTiCt7Qv3jDNj3OVq+HTAtvoUYftmK14wtPkPaU5TXpQbdEaQIvGtO8qdGicPTz6RjP2X9cO/7Z2EoL0W101cWyMSz7//kzRQqQBYw7FrhQKBVolMZfcHVvYcQUh7C19pYFnnt50B7ice7vWMExevEfgBB26Iv2AxaG6e1I6SiPFWWWZxgpuhz4MBuJVgh102n8ubDyPgGLWXAs4989vmrMuqauOMEcE6uG6aNR4CBpYn3ayC1FIhWlmpgAa6y7Q6qr7Y6FuGu91EQwgaF5IeZxdw4ToV38nM6vdKIwSQT7bio=;mrK4if8FiZbim2sKicN3lQ=="
+secured: "laFBBjzexKe2waQR9TdBeBUwv4FTeDLGNSqu4r0xEFHXijBaEZGicYreY8FgWQWlw8JXnDeOAOcLjePkSayJpOMNCVlOGGGG35KhyG4/QOmt/T6Svoxy1Nc8/UA7QVOJvJJq+qFMxuMPmaEMBfZHhZ4H1kn26QA2S73Is/p2+b33+qVynVnif8bTqYxrri1HgD1cCNjULwftSLs9qyfISJOBqAOfbr8+ElTWNqVwo0ESXvOfpW1c3xKK5VkMOiUqoZQ0GV/IS8yI5itrBnRQ7mik/w6h4E4BuRa1J6uIPQEXRtnZ61kIvgLXFtnwCn9njicegADshk69Z6bMiQkbhlIRkCrbWSvzeWD+cktZjoA=;7h2KXFKh7L0OxBrS1htvUA=="
 ---
 

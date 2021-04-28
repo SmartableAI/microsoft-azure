@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
-excerpt: "beqom, provider of cloud-based compensation management software, announced that Microsoft has designated beqom as an eligible \"Microsoft Transact\" application for customers of the Microsoft Azure ..."
-publishedDateTime: 2021-04-14T13:41:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/b20619485/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/b20619485/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20619485"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20619485"
+excerpt: "“As an eligible application, if you purchase beqom directly through the Azure Marketplace, Microsoft will contribute 100% of qualifying offer purchases towards your organization’s Azure ..."
+publishedDateTime: 2021-04-14T14:16:00Z
+originalUrl: "https://www.register-herald.com/region/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit/article_a570f908-e0a7-54a7-835f-e1297f433e1f.html"
+webUrl: "https://www.register-herald.com/region/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit/article_a570f908-e0a7-54a7-835f-e1297f433e1f.html"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+    width: 600
+    height: 600
+    isCached: true
 
 related:
   - title: "Microsoft-AccuWeather partnership adds capabilities to Azure Maps"
@@ -236,6 +240,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "tgJCsrmxVNOA/fdk62Tnq+9xmG9TlvoeWDeijMXihl7XuJ1r/l24eu/T96oK9lg+GtmwxW3eOw9zyi921yUibwWCULG66wGaG9pqrMxCJi24blwfNJNSnfAWd4BC1gcTNpvtlIUB2yItMA/jeDADABwU8kYlbmU6ALTGz/1eYFMZ1An4RLjrVmg6adaQWiG7GOS9jvjg0CaCzivo9EMydIj3CQtcorFT9z9Cr2kq9y9lYAR+DcCVQrxFtcbkq+EBBDRQsilmat7pCI+4+Iu38et/TI/xmwTXh4VkikHzBDGGT5g6fxUyAP0AsYAW8KwxW6q0hdt629Kb2Pc30NGkYEKFawOhaBiNeAwB5ncIESg=;FIVdXon1vA5IHxOt6qJOAg=="
+secured: "iKnPCJBaQvs8Gle3By7PetRIDPXZ1OFISknT7VQebBGkUqMVM4QS0ldnx1r4BmLy8DoC5zihYYoIPnp1JayoD+N8Vt9/5YoWdC7Khndh7rrfa6yU9SzEXAZuUjMqDkIIGdqdjRp3IYM8acUWwb0BOQjUBo+bZhYJ6HWooAMo6eujjytcJpyk50mLbOSazVxSjoJgIFD6zuPLEgcCz6bABvquWT+2Obb5ORgjemJ4GK7X9X0jL+KszTaBzDpWuZcVh8DP7eVSfEi67aZCQ/N/BPOy0iFdi2nNp+Y2ejvr+UC4MITBkMfHHvklHJVzItWyRkJDFo8B2P4IkWw6VLwFr7XEfoIj/+8E74lVvOHyD2M=;98bPTqfBjooJ4BS0X17Ohg=="
 ---
 
