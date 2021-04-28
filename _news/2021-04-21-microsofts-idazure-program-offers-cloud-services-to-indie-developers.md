@@ -239,6 +239,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 13
+  - title: "Sysinno Introduces First Available Air Quality Monitor Running on Microsoft Azure Sphere"
+    excerpt: "iAeris reliability meets Microsoft Azure capability The iAeris fully benefits from the guaranteed security of Microsoft Azure Sphere, consisting of a system-on-chip (SoC) device, cloud service ..."
+    publishedDateTime: 2021-04-22T00:12:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210421hk48636/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 8
 
 secured: "/izNLjjcM83k/nSDdctgCBk6XlEL2o2Ej+L8tmgksEKC8e55MInqtG2GQHgQekWWGgOnPjdlD/9A74tgow6LfgIfQah9bPTQ02tKyf9IGBz+a0/LEXgNUQvtjG2NZcvu4FGXoH3LcPMkORYVM97kYMzu74/OlZKewCEXe9DrXS452GAH89g6ypOLnQjLeum5MSWInV5XdWyqJZQdgPlaFI0JBZnnwgSx/RAOJ/vNZoD7rGsjnT9jjKt9lNoE8XAajjNdmIuHuNbZYi8L5zOoDHK2Qi6F0XZM2a52eb38FgB84VwiU8qxCzCH5rrKgysXCFPlIKxeO3Zd05Q/T41ixE1MnNKoibbttYjEoq4XpCiB4UkvM8vCESFMPvBTln2HVi/EUhOSFUvWFlsBE/EP8H716l+41IybkcC7HusQCaFdyoeKg8iryqnMP8kl7VtILbZcdWbUZQAPoUxvWvAeWt/2Tl4yI3qr8xRITNmeDAsFvJL9bYvXgtupgQYXJ2WHr0ulP0cdTVTrcQYge3Qkuw==;YxjK8ui5ojnAWQcJG7EecQ=="
 ---

@@ -2,212 +2,200 @@
 category: news
 title: "Sysinno Introduces First Available Air Quality Monitor Running on Microsoft Azure Sphere"
 excerpt: "iAeris reliability meets Microsoft Azure capability The iAeris fully benefits from the guaranteed security of Microsoft Azure Sphere, consisting of a system-on-chip (SoC) device, cloud service ..."
-publishedDateTime: 2021-04-22T11:55:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-301273493.html"
-webUrl: "https://www.prnewswire.com/news-releases/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-301273493.html"
+publishedDateTime: 2021-04-22T00:12:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210421hk48636/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210421hk48636/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
 
-images:
-  - url: "https://mma.prnewswire.com/media/1491653/PR_Sysinno.jpg?p=facebook"
-    width: 797
-    height: 419
-    isCached: true
-
 related:
-  - title: "Amdocs to Accelerate M1's Digital Transformation on Microsoft Azure"
-    excerpt: "\"Leveraging Microsoft Azure for M1's digital transformation, we are honored to partner with them to accelerate their journey to the cloud. With Amdocs Openet charging and data management products, M1 will be able to harness the power of 5G by managing and ..."
-    publishedDateTime: 2021-04-23T03:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/amdocs-to-accelerate-m1s-digital-transformation-on-microsoft-azure-2021-04-22"
+  - title: "Microsoft-AccuWeather partnership adds capabilities to Azure Maps"
+    excerpt: "The arrangement is intended to help Microsoft customers get the most accurate weather forecast data, the companies said. Here's a novel thought: Instead of worrying about what the weather may bring, know what's headed your enterprise's way with a data ..."
+    publishedDateTime: 2021-04-14T16:41:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 97
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "FileCoin: Decentralized Cloud Storage Competitor To AWS, Microsoft Azure, And Google Cloud"
-    excerpt: "I provide three valuation metrics for FileCoin which illustrate that it could see an intense growth period comparable to Bitcoin. Despite its large recent run-up, the Coin looks inexpensive."
-    publishedDateTime: 2021-04-17T06:29:00Z
-    webUrl: "https://seekingalpha.com/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 64
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2021/1/18/510561-1610992717787594_origin.png"
-        width: 704
-        height: 552
-        isCached: true
-  - title: "Amdocs to Accelerate M1’s Digital Transformation on Microsoft Azure"
-    excerpt: "Amdocs, a leading provider of software and services to communications and media companies, today announced that M1 Limited, a leading digital network operator in Singapore, has selected its Openet charging and data management products to accelerate the digital transformation programmes on Microsoft Azure."
-    publishedDateTime: 2021-04-22T10:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/amdocs-to-accelerate-m1s-digital-transformation-on-microsoft-azure-2021-04-22"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 57
-  - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q3 Earnings"
-    excerpt: "Microsoft MSFT is scheduled to report third-quarter fiscal 2021 results on Apr 27. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
-    publishedDateTime: 2021-04-22T13:51:00Z
-    webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings-2021-04-22"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 57
-  - title: "Microsoft Azure Enterprise Search Gets Boost With New Integration"
-    excerpt: "Paris-based Sinequa has integrated its intelligent enterprise search tool with Microsoft Azure to improve how large-sized companies find data across multiple sources."
-    publishedDateTime: 2021-04-22T13:15:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-azure-enterprise-search-gets-boost-with-new-integration"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0268-11f04f866ca3-361fd3e7c046-1000/microsoft-azure-1.jpg"
-        width: 607
-        height: 456
-        isCached: true
-  - title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
-    excerpt: "April 20, 2021 (GLOBE NEWSWIRE) -- Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure ..."
-    publishedDateTime: 2021-04-20T15:18:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8218413/datawiza-automates-application-integration-for-microsoft-azure-active-directory"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 47
-  - title: "Actual Microsoft DP-300 Exam Dumps [2021] Azure Database Administrator Associate Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft DP-300 exam with ITExamQuestions DP-300 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-300 Administering Relational Databases on Microsoft Azure Exam?"
-    publishedDateTime: 2021-04-20T23:11:00Z
-    webUrl: "https://www.madinamerica.com/author/download-microsoft-dp-300-exam-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 44
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Microsoft Partners Find Foothold in German Enterprises With Growing Adoption of Azure, Cloud Services"
-    excerpt: "German enterprises, traditionally slow to adopt cloud computing, are growing more interested in migrating applications to the cloud,"
-    publishedDateTime: 2021-04-22T08:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services-1030331843"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-  - title: "Microsoft Cloud Earns Big With $17 Billion In Revenue For Q3"
-    excerpt: "Microsoft reported that its Microsoft Cloud solution has been a big earner for the tech giant in the third quarter ending March 21."
-    publishedDateTime: 2021-04-27T22:04:00Z
-    webUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/"
-    ampWebUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/microsoft-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Dassian Announces Collaboration with Microsoft Azure Government"
-    excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
-    publishedDateTime: 2021-04-26T23:19:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
-        width: 2084
-        height: 1090
-        isCached: true
-  - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
-    excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
-    publishedDateTime: 2021-04-20T18:36:00Z
-    webUrl: "https://www.ign.com/articles/become-a-certified-cloud-computing-pro-with-this-microsoft-azure-bootcamp"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 36
-    images:
-      - url: "https://assets1.ignimgs.com/2021/04/20/sale-149017-article-image-1618943765425.jpeg?width=1280"
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/03/09/c5cac476-ba91-4ab0-aed3-82ab76b8911c/resize/1200x/3345cf54cecda1a5c3648de2557023da/istock-1130476096.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "Download Microsoft AZ-303 Exam Dumps (2021) Azure Solutions Architect Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft AZ-303 exam with ITExamQuestions AZ-303 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-303 Microsoft Azure Architect Technologies Exam?"
-    publishedDateTime: 2021-04-20T04:15:00Z
-    webUrl: "https://www.madinamerica.com/author/download-microsoft-az-303-exam-dumps/"
+  - title: "Microsoft returns to Java with Azure-focused OpenJDK release"
+    excerpt: "It’s been a long time since Microsoft brewed its own Java. But now it’s back, with the Microsoft Build of OpenJDK, fit and finished for running in the Azure cloud."
+    publishedDateTime: 2021-04-14T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.html"
+    ampWebUrl: "https://www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.amp.html"
     type: article
     provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 33
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
     images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
+      - url: "https://images.idgesg.net/images/article/2019/05/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
-    excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
-    publishedDateTime: 2021-04-20T18:03:00Z
-    webUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
+  - title: "Microsoft’s ID@Azure Program Offers Cloud Services to Indie Developers"
+    excerpt: "Microsoft revealed ID@Azure, a self-service program that hopes to make the company’s Azure cloud services more accessible to indie game developers. The program harkens back to Microsoft’s work on ID@Xbox,"
+    publishedDateTime: 2021-04-20T19:22:00Z
+    webUrl: "https://gamingbolt.com/microsofts-idazure-program-offers-cloud-services-to-indie-developers"
+    ampWebUrl: "https://gamingbolt.com/microsofts-idazure-program-offers-cloud-services-to-indie-developers/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/microsofts-idazure-program-offers-cloud-services-to-indie-developers/amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
+      name: From Software
+      domain: gamingbolt.com
+    quality: 57
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
-        width: 960
-        height: 542
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
-  - title: "Ally partners with Microsoft Azure to prepare quantum computing-ready workforce"
-    excerpt: "US fintech Ally Financial will collaborate with Microsoft on Azure Quantum solutions to develop quantum computing skills and explore how new algorithms and future quantum hardware could improve customer experience."
-    publishedDateTime: 2021-04-24T06:50:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37921/ally-partners-with-microsoft-azure-to-prepare-quantum-computing-ready-workforce/devops"
+  - title: "SmartStream introduces data management AI on Microsoft Azure"
+    excerpt: "SmartStream Technologies, the financial Transaction Lifecycle Management (TLM®) solutions provider today announces the launch of SmartStream Air version 3, designed to support global clients on the Microsoft Azure platform,"
+    publishedDateTime: 2021-04-14T08:40:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87087/smartstream-introduces-data-management-ai-on-microsoft-azure"
     type: article
     provider:
       name: Finextra
       domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Latest Microsoft Azure Security Engineer Associate Microsoft AZ- 500 Exam Dumps (2021)"
+    excerpt: "Prepare your AZ-500 exam questions with Dumps2GO Microsoft AZ-500 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AZ-500 test because of your Microsoft Azure Security Engineer Associate AZ-500 certification exam fear?"
+    publishedDateTime: 2021-04-17T22:56:00Z
+    webUrl: "https://www.madinamerica.com/author/get-az-500-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 46
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
+  - title: "Podcast: Microsoft Azure's Khalidi curates carrier clouds"
+    excerpt: "Yousef Khalidi, corporate VP of Azure for Operators at Microsoft and a member of the founding team of Azure, joins the podcast to discuss how his role has evolved to working on Azure for Operators. Khalidi explains why working with service providers ..."
+    publishedDateTime: 2021-04-07T12:00:00Z
+    webUrl: "https://www.lightreading.com/service-provider-cloud/podcast-microsoft-azures-khalidi-curates-carrier-clouds/v/d-id/768564"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 37
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/3565746760001/4e4fed21-7b18-4e51-b89a-24e833b3ab0f/main/1280x720/9m25s205ms/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Microsoft announces first Azure data center in Malaysia"
+    excerpt: "Microsoft has announced plans to establish its first data center region in Malaysia, with AWS and Google reportedly set to follow. The new facility will be in the Greater Kuala Lumpur area and says Petroliam Nasional Berhad (PETRONAS) and Celcom Axiata Berhad will be customers once it opens,"
+    publishedDateTime: 2021-04-19T13:48:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-first-azure-data-center-in-malaysia/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Malaysia_Skyscrapers_960x720.2e16d0ba.fill-1200x630.jpg"
+        width: 960
+        height: 504
+        isCached: true
+  - title: "Microsoft Building Azure Data Centers in Malaysia"
+    excerpt: "Microsoft will build Azure data centers in Malaysia to host a new cloud availability region, the company said Monday. These will be its first data centers there, hosting multiple availability zones. The Azure data centers will be part of a bigger investment by Microsoft in the country."
+    publishedDateTime: 2021-04-19T21:49:00Z
+    webUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-building-azure-data-centers-malaysia"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 37
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/microsoft%20logo%202017%20getty.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Authentic Azure Solutions Architect Expert Microsoft AZ-300 Exam Dumps [2021]"
+    excerpt: "Prepare your AZ-300 exam questions with Dumps2GO Microsoft AZ-300 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AZ-300 test because of your Azure Solutions Architect Expert AZ-300 certification exam fear?"
+    publishedDateTime: 2021-04-17T12:25:00Z
+    webUrl: "https://www.madinamerica.com/author/download-az-300-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 34
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
+  - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
+    excerpt: "“As an eligible application, if you purchase beqom directly through the Azure Marketplace, Microsoft will contribute 100% of qualifying offer purchases towards your organization’s Azure ..."
+    publishedDateTime: 2021-04-14T14:16:00Z
+    webUrl: "https://www.register-herald.com/region/microsoft-azure-customers-now-able-to-acquire-beqom-with-existing-azure-credit/article_a570f908-e0a7-54a7-835f-e1297f433e1f.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
     quality: 33
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/michael-dziedzic-ymgtirujcgc-unsplash-r.jpg"
-        width: 480
-        height: 270
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
-  - title: "Updated Microsoft AZ-300 Exam Dumps (2021) Azure Solutions Architect Expert Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft AZ-300 exam with ITExamQuestions AZ-300 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-300 Microsoft Azure Architect Technologies exam?"
-    publishedDateTime: 2021-04-20T22:39:00Z
-    webUrl: "https://www.madinamerica.com/author/download-real-az-300-exam-dumps/"
+  - title: "AZ-301 Dumps (2021) Prepare Your Exam with Real Microsoft Azure Exam Questions"
+    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-301 specialists. As a result of this, IT certifications, for example AZ-301 Microsoft Azure Architect Design exam,"
+    publishedDateTime: 2021-04-15T18:39:00Z
+    webUrl: "https://www.madinamerica.com/author/new-az-301-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 33
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
+  - title: "Latest AZ-500 Dumps - Microsoft Azure Security Engineer Associate Real Exam Questions And Accurate Answers [2021]"
+    excerpt: "Pass you Microsoft AZ-500 exam in just one go with DumpsArchive AZ-500 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
+    publishedDateTime: 2021-04-18T23:52:00Z
+    webUrl: "https://www.madinamerica.com/author/try-az-500-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 33
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
+  - title: "Authentic Microsoft AZ-104 Exam Dumps [2021] Azure Administrator Associate Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft AZ-104 exam with ITExamQuestions AZ-104 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-104 Microsoft Azure Administrator Exam?"
+    publishedDateTime: 2021-04-20T22:57:00Z
+    webUrl: "https://www.madinamerica.com/author/download-microsoft-az-104-exam-dumps-2/"
     type: article
     provider:
       name: Mad in America
@@ -218,139 +206,48 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Actual Microsoft AZ-600 Exam Dumps (2021) Azure Stack Hub Operator Associate Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft AZ-600 exam with ITExamQuestions AZ-600 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-600 Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta) Exam?"
-    publishedDateTime: 2021-04-16T22:11:00Z
-    webUrl: "https://www.madinamerica.com/author/download-real-az-600-exam-dumps/"
+  - title: "DP-200 Dumps PDF (2021) 100% Accurate Microsoft Azure Data Engineer Associate Exam Questions"
+    excerpt: "Pass you Microsoft DP-200 exam in just one go with DumpsArchive DP-200 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
+    publishedDateTime: 2021-04-18T08:19:00Z
+    webUrl: "https://www.madinamerica.com/author/get-dp-200-dumps/"
     type: article
     provider:
       name: Mad in America
       domain: madinamerica.com
-    quality: 29
+    quality: 26
     images:
       - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
         width: 300
         height: 285
         isCached: true
-  - title: "Download AZ-120 Exam Dumps [2021] Microsoft Azure For SAP Workloads Specialty Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft AZ-120 exam with ITExamQuestions AZ-120 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-120 Planning and Administering Microsoft Azure for SAP Workloads exam?"
-    publishedDateTime: 2021-04-18T12:00:00Z
-    webUrl: "https://www.madinamerica.com/author/download-real-az-120-exam-dumps/"
+  - title: "UnitedLex Vantage Now Available in the Microsoft Azure Marketplace"
+    excerpt: "UnitedLex, a leading technology and legal services company, today announced the availability of its Vantage solution in the Microsoft Azure Marketplace, an online store that provides applications ..."
+    publishedDateTime: 2021-04-19T13:52:00Z
+    webUrl: "https://www.oaoa.com/news/business/unitedlex-vantage-now-available-in-the-microsoft-azure-marketplace/article_9260876b-c7d2-5c99-bf23-53deb0bf97e7.html"
     type: article
     provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 29
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour"
-    excerpt: "Microsoft is offering end-users the opportunity to take a virtual tour of a typical Azure datacentre so they can get a behind-the-scenes look at the technology powering the public cloud services ..."
-    publishedDateTime: 2021-04-20T14:14:00Z
-    webUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour"
-    ampWebUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
+      name: Odessa American
+      domain: oaoa.com
+    quality: 17
+  - title: "UnitedLex Vantage Now Available in the Microsoft Azure Marketplace"
+    excerpt: "UnitedLex, a leading technology and legal services company, today announced the availability of its Vantage solution in the Microsoft Azure Marketplac"
+    publishedDateTime: 2021-04-19T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210419005007/en/UnitedLex-Vantage-Now-Available-in-the-Microsoft-Azure-Marketplace"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 27
-  - title: "Valence Group Releases Unified Data Governance Service Offering for Microsoft Azure Purview"
-    excerpt: "Valence Group Inc., a digital transformation service provider focused on helping enterprise customers understand and apply next-generation technologies, today announced the release of its new service offering,"
-    publishedDateTime: 2021-04-27T13:24:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-0feaf286fe997e0a755f1dded76c1f81"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Download Microsoft DP-100 Exam Dumps (2021) Microsoft Azure Data Scientist Associate Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft DP-100 exam with ITExamQuestions DP-100 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-100 Designing and Implementing a Data Science Solution on Azure exam?"
-    publishedDateTime: 2021-04-20T23:55:00Z
-    webUrl: "https://www.madinamerica.com/author/download-real-dp-100-exam-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 25
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Download Microsoft AZ-900 Dumps Free Updates for Microsoft Azure Fundamentals Exam Questions [2021]"
-    excerpt: "Pass you Microsoft AZ-900 exam in just one go with DumpsArchive AZ-900 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
-    publishedDateTime: 2021-04-17T20:31:00Z
-    webUrl: "https://www.madinamerica.com/author/try-az-900-dumps-2021/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 23
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Accela Migrates Over 200 Data Center Customers to Microsoft Azure to Accelerate Digital Transformation"
-    excerpt: "PRNewswire/ -- Accela®, a leading provider of cloud-based solutions for government, today announced it successfully completed over 200 customer"
-    publishedDateTime: 2020-11-12T10:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-301171615.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1008788/Accela_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
-    publishedDateTime: 2021-04-20T16:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+  - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
+    excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
+    publishedDateTime: 2021-04-14T17:20:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210414005517/en/Microsoft-Azure-Customers-Now-Able-to-Acquire-beqom-with-Existing-Azure-Credit"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
     quality: 13
-  - title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
-    excerpt: "Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure"
-    publishedDateTime: 2021-04-26T12:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 9
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/d9/1d959af6-6d0e-5f96-ba18-7b61aae335fb/6059df86607f4.image.jpg?resize=800%2C522"
-        width: 800
-        height: 522
-        isCached: true
-  - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
-    excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"
-    publishedDateTime: 2020-11-04T23:06:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/innovaccers-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their/article_9501b847-092e-5f93-b914-c0b84926deda.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 2
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/5e/05ee89ea-2eac-51e4-86fe-a186902e6de3/5fa3306b000dd.image.jpg?resize=400%2C293"
-        width: 400
-        height: 293
-        isCached: true
 
-secured: "kEKtSSO2eWlOWonwS32ikhHNTBUOHU3xW7vQGf4pzH9eB8z16UISnjXS44QOFjxRrxrU2J387d2YMiFF1kDxOHFerY8MgifXThiPyGxckfHll7ATRYRtyESBlm3F928pTz/0aOcTICDQV7X0/9kz38pL/oSW2bZos+1LjC0NkuLpkQY6XP+ioKcVmVtac7WSXpxBrArNiXqttZ7q2prH758W9V4d5FnasfSQ4KXpsI35PsQnz02kDlxnvqdOyD0yGUr3E2PHtt5G3j3snohx+OtzkSSPPLuefP1G2/oP8lxhQx3E97b98WkHyW+kakdPkWMKcWIRdmSxpEHjxgRE4fIO7MXWn0H/Xh67aVeuXhM=;/a3uaLjah+NSMbv9V5cTkA=="
+secured: "XuFbIKsS8ouDFIpDcfneT1/IaGM6Blxd8xsiRF10duUikBTAjtk78qvZohUhjbj40oEJanZdLJxxb+kj2gTqQKjmyMpodvOMFeTCyck/RpJ39xeHKTKCDky5Glt/r/ouo7rLTum0Y1s6eslIYqfNavM2aCYdny7CjP/+Gwy2z842b8kKgROyaH7E0RAMorAnd7dhwyJygCyroTW3hSkWpEqiRck2uKnHLfbvQjCzyhXQ9oz71jyl0SEQuOxYHZ3rTUqFf7rJWve+dl+1kvRz0vOwZ/yutxFT3oN2rhAW0B5/Rb2ixulv5AsPC1VwGyBOMh9T/p0dKWJ5Jutkz1Fz097EMxWjTqvlV+78bApeikE=;waSvw0i9N5S5a8ieYkDWhA=="
 ---
 

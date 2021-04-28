@@ -80,6 +80,20 @@ related:
         width: 607
         height: 456
         isCached: true
+  - title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
+    excerpt: "(Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix® to service customers in six new global markets,"
+    publishedDateTime: 2021-04-26T14:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg"
+        width: 400
+        height: 261
+        isCached: true
   - title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
     excerpt: "April 20, 2021 (GLOBE NEWSWIRE) -- Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure ..."
     publishedDateTime: 2021-04-20T15:18:00Z
@@ -141,6 +155,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
         width: 2084
         height: 1090
+        isCached: true
+  - title: "DataStax Astra Is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "DataStax today announced the availability of DataStax Astra, the industry’s first serverless Database-as-a-Service (DBaaS) for Apache Cassandra ™ running in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-04-28T15:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-322eba2418aa4248a2da5519b3fd5bba"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
     excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
@@ -240,20 +268,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Sysinno Introduces First Available Air Quality Monitor Running on Microsoft Azure Sphere"
-    excerpt: "iAeris reliability meets Microsoft Azure capability The iAeris fully benefits from the guaranteed security of Microsoft Azure Sphere, consisting of a system-on-chip (SoC) device, cloud service ..."
-    publishedDateTime: 2021-04-22T11:55:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-301273493.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/1491653/PR_Sysinno.jpg?p=facebook"
-        width: 797
-        height: 419
-        isCached: true
   - title: "Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour"
     excerpt: "Microsoft is offering end-users the opportunity to take a virtual tour of a typical Azure datacentre so they can get a behind-the-scenes look at the technology powering the public cloud services ..."
     publishedDateTime: 2021-04-20T14:14:00Z
@@ -320,20 +334,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1008788/Accela_Logo.jpg?p=facebook"
         width: 600
         height: 315
-        isCached: true
-  - title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
-    excerpt: "Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure"
-    publishedDateTime: 2021-04-26T12:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 9
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/d9/1d959af6-6d0e-5f96-ba18-7b61aae335fb/6059df86607f4.image.jpg?resize=800%2C522"
-        width: 800
-        height: 522
         isCached: true
   - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
     excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"

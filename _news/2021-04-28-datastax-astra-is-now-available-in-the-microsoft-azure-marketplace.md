@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Ally partners with Microsoft Azure to prepare quantum computing-ready workforce"
-excerpt: "US fintech Ally Financial will collaborate with Microsoft on Azure Quantum solutions to develop quantum computing skills and explore how new algorithms and future quantum hardware could improve customer experience."
-publishedDateTime: 2021-04-24T06:50:00Z
-originalUrl: "https://www.finextra.com/newsarticle/37921/ally-partners-with-microsoft-azure-to-prepare-quantum-computing-ready-workforce/devops"
-webUrl: "https://www.finextra.com/newsarticle/37921/ally-partners-with-microsoft-azure-to-prepare-quantum-computing-ready-workforce/devops"
+title: "DataStax Astra Is Now Available in the Microsoft Azure Marketplace"
+excerpt: "DataStax today announced the availability of DataStax Astra, the industry’s first serverless Database-as-a-Service (DBaaS) for Apache Cassandra ™ running in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-04-28T15:00:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-322eba2418aa4248a2da5519b3fd5bba"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-322eba2418aa4248a2da5519b3fd5bba"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Finextra
-  domain: finextra.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.finextra.com/finextra-images/top_pics/xl/michael-dziedzic-ymgtirujcgc-unsplash-r.jpg"
-    width: 480
-    height: 270
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -162,20 +162,6 @@ related:
         width: 2084
         height: 1090
         isCached: true
-  - title: "DataStax Astra Is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "DataStax today announced the availability of DataStax Astra, the industry’s first serverless Database-as-a-Service (DBaaS) for Apache Cassandra ™ running in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-04-28T15:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-322eba2418aa4248a2da5519b3fd5bba"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
     excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
     publishedDateTime: 2021-04-20T18:36:00Z
@@ -217,6 +203,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
         width: 960
         height: 542
+        isCached: true
+  - title: "Ally partners with Microsoft Azure to prepare quantum computing-ready workforce"
+    excerpt: "US fintech Ally Financial will collaborate with Microsoft on Azure Quantum solutions to develop quantum computing skills and explore how new algorithms and future quantum hardware could improve customer experience."
+    publishedDateTime: 2021-04-24T06:50:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37921/ally-partners-with-microsoft-azure-to-prepare-quantum-computing-ready-workforce/devops"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 33
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/michael-dziedzic-ymgtirujcgc-unsplash-r.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "Updated Microsoft AZ-300 Exam Dumps (2021) Azure Solutions Architect Expert Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-300 exam with ITExamQuestions AZ-300 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-300 Microsoft Azure Architect Technologies exam?"
@@ -351,6 +351,6 @@ related:
         height: 293
         isCached: true
 
-secured: "kq5pylUeqnWcR7zjttRs87FUDh9Cezu8JbONTl/gN48DosXQZNAK06xu85wkXh4OJhUJc5NHAYB85o4O1GENQ229SsSucgRNvqINBzAymj7oO6AcrxD9yZZiPaEOJtOUxNlV8CdJK65RGl6GxCfzLAdbslWlkiiSGMhoeritFKv7jtRW6t8CLvOlY8B13x3Ngc1eXDSzNazA7bqxftIUcke+tio9SZIel7f98y4Okxbrs/smEWh31DFgAuMPeN8Um+G9O2NiuINU5Pm2Ks+0bzldwS9MjRTgivty5wQwi7CEByPay53REh4wdERgHPh5enKFqwF+SaKgJXvwJbfDTrDp7uryK2i0WNqwPFQ7gC/vAWq+xpjWsmMYO36MjmpwyyOKEi6lmrBvSi7QMSY8BvJELV6CsERY/kXZD9Cy1OcezixaQQ/GizUH8StH6qIBy6aZ7KQq1/AGIGWCY8GxP5umnjtrq3pugVDf58pTXm4SoVJ8ziXCFmN2ja87g8WnVuSJFdypM1meKCJYAz8JuQ==;ySeoAw9cgjRPcRNrjhGOZg=="
+secured: "ThfCzn36PBHF2/ldPfl+0qe+7Mvqr8Smew2/646+skCZYgpOY8k3lPGdzR9473rJLQp1xLemYZFAwof9dZ+WpVGHu7EiUWMhZZaOVjWRUs6zatP8fTA+Y2ZL30JseQxgMa8BGEgNhrnI9n4Sc5FX7ZZEWjDdfIwlo56nRGPot9rbtZsSLBgDxv/0iLBIy6iw4UcYe7mB++hNIhOepLmyrpbuGhsNP+pUryWG/ErDPkXF5ZqDts0bL1w9Un4y3Qo5dmMfDOvW/nP+JRuCEQGHV2gOBvMFV0ZF68T0C4k3gKdPsBX+PBA6SppT1jjBVgM7a3ZEN0qCAj/tQlBljETHE9AomyLFJcLeavpCgxFOHlo=;aeg6KnYFFWd2yGmM0ABETQ=="
 ---
 

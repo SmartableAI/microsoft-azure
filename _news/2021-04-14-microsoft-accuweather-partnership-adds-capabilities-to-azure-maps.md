@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-accuweathe
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
 type: article
 quality: 97
-heat: 417
+heat: 437
 published: true
 
 provider:
@@ -243,6 +243,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 13
+  - title: "Sysinno Introduces First Available Air Quality Monitor Running on Microsoft Azure Sphere"
+    excerpt: "iAeris reliability meets Microsoft Azure capability The iAeris fully benefits from the guaranteed security of Microsoft Azure Sphere, consisting of a system-on-chip (SoC) device, cloud service ..."
+    publishedDateTime: 2021-04-22T00:12:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210421hk48636/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 8
 
 secured: "1jDKo58WQ/no5eIRtG8nXWjOIQ26NEpYShxKw4r9k51PIAebqAmxunetzF0jSgElMfr2kffTjiStMYD9cFsuFpAdWuFjSKr4bvB7zrKgwDXdqTwbhAh4jUWWxb87CjoFFcm5C2CbR4whOyMwmK7x0GUewiZZknd5HYa91HQTXvEFoExqy31Wg2Ji7oZP5aNPT9m5AmiHHiIm25k5DZQZQsj0sM1w3oiBxNBOg63wM4JxMMt/kQE3ez3KDTwHM6dycKMeauMgn5/cGINM0LPmAi4T3TIaWtVQzvqTOkiSos65olv6CHIXDxFineYwBJ6F2r9yIxWkvVEL1QJ3pprxGFnqxpNBBLQR6Ve20DNOLYrTZAdFqzTRmW+R9RaRU7cqaCFbQ8VZOZCxOReksElQvcvwEmix3zj7zfgU4Qe29EiwBgB71gaKNSBLZ6W2MeiCMJKBGFFs+WSorFmCN2dEHS8hyOFQsSoIQmCqwMKNA43XJmqsrE19tORlkF2KKcCj0KylITZqZIU+bOODvmB7aA==;kSdPQhu2opGff7jEsNLEng=="
 ---

@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
-excerpt: "Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure"
-publishedDateTime: 2021-04-26T12:01:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html"
+excerpt: "(Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix® to service customers in six new global markets,"
+publishedDateTime: 2021-04-26T14:01:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
+webUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
 type: article
-quality: 9
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/d9/1d959af6-6d0e-5f96-ba18-7b61aae335fb/6059df86607f4.image.jpg?resize=800%2C522"
-    width: 800
-    height: 522
+  - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg"
+    width: 400
+    height: 261
     isCached: true
 
 related:
@@ -148,6 +152,20 @@ related:
         width: 2084
         height: 1090
         isCached: true
+  - title: "DataStax Astra Is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "DataStax today announced the availability of DataStax Astra, the industry’s first serverless Database-as-a-Service (DBaaS) for Apache Cassandra ™ running in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-04-28T15:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-322eba2418aa4248a2da5519b3fd5bba"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
     excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
     publishedDateTime: 2021-04-20T18:36:00Z
@@ -246,20 +264,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Sysinno Introduces First Available Air Quality Monitor Running on Microsoft Azure Sphere"
-    excerpt: "iAeris reliability meets Microsoft Azure capability The iAeris fully benefits from the guaranteed security of Microsoft Azure Sphere, consisting of a system-on-chip (SoC) device, cloud service ..."
-    publishedDateTime: 2021-04-22T11:55:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-301273493.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/1491653/PR_Sysinno.jpg?p=facebook"
-        width: 797
-        height: 419
-        isCached: true
   - title: "Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour"
     excerpt: "Microsoft is offering end-users the opportunity to take a virtual tour of a typical Azure datacentre so they can get a behind-the-scenes look at the technology powering the public cloud services ..."
     publishedDateTime: 2021-04-20T14:14:00Z
@@ -351,6 +355,6 @@ related:
         height: 293
         isCached: true
 
-secured: "d6BvSbvojle6ZeEJFGiBmPKzNX9Vsqzz0J/CoIhjsxMlK03ahabdEx9LEoVTwpzhtbqhnY7AMLno61v9VzRJBvuMRn0S7YU1mE/+4q2yG2ZHiKQTbOwK5i0Y1u7vHR6jQYDE8gDz35vN7ffC+bj3EOQPHpYsUFp1DvKa5Jk+sqJ9yNuq8tvwlC0uGeq+ak+6PyML+tVCegtxwe2OP76WdrE+0nllRJ/Os1O9NIsuCgsZXydfji1TbtuyR6MMAMQM2BcfZxmZFeFeeFmlM/5rOYqUkiD6EMOGOhph6hLyi7x65NAs5nIkpJnuWDBGmsj8wjO+3ua+AH+HjrCkw2sTcWazBZdsKLHyyBTasQwVXvs=;f3kVOIYo2oOx0sU14nQQHA=="
+secured: "s1KJhOV9PUhO/YDki4ifjwY98MzT7HaPRq2l5mc9gS7WdHe/s5+msJlX1AFWJRfQyfmeYkevyFv2X/jhHWGgdflJKIdQ0Vh+mdlhWz+G2+zTJZV4rmq/byMKqwfIoSOf6UU7+twX5ZPgLsgdYy7adAskpjY1rQ3wWbg0xsarZ3OXjjA9ABit/AJ1HEegWFdl+y16/HC73Ni1WJ/BOYK3jbealYSlIJddoJrXFn9FEh8qiUhk/BFZO/oPGJiR/ex64iKNwMrdiER9U/eXD5yTcJB3Zr0dEfpdzwWweKtG/afOJPrDuuTy5+Mv7du5sFhXreksuBjYbTmQgPP+wRtxU+RlMybK7bAE6QgmW1N6jSE=;31g+TykTGBh7zJzWIknk0Q=="
 ---
 
