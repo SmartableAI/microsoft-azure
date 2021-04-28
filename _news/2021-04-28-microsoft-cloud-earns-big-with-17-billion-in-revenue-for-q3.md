@@ -1,25 +1,29 @@
 ---
 category: news
-title: "Microsoft Partners Find Foothold in German Enterprises With Growing Adoption of Azure, Cloud Services"
-excerpt: "German enterprises, traditionally slow to adopt cloud computing, are growing more interested in migrating applications to the cloud,"
-publishedDateTime: 2021-04-22T08:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services-1030331843"
-webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services-1030331843"
+title: "Microsoft Cloud Earns Big With $17 Billion In Revenue For Q3"
+excerpt: "Microsoft reported that its Microsoft Cloud solution has been a big earner for the tech giant in the third quarter ending March 21."
+publishedDateTime: 2021-04-27T22:04:00Z
+originalUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/"
+webUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/"
+ampWebUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/amp/"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: pymnts.com
+  domain: pymnts.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/microsoft-457x274.jpg"
+    width: 457
+    height: 274
+    isCached: true
 
 related:
   - title: "Amdocs to Accelerate M1's Digital Transformation on Microsoft Azure"
@@ -126,22 +130,15 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Microsoft Cloud Earns Big With $17 Billion In Revenue For Q3"
-    excerpt: "Microsoft reported that its Microsoft Cloud solution has been a big earner for the tech giant in the third quarter ending March 21."
-    publishedDateTime: 2021-04-27T22:04:00Z
-    webUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/"
-    ampWebUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/amp/"
+  - title: "Microsoft Partners Find Foothold in German Enterprises With Growing Adoption of Azure, Cloud Services"
+    excerpt: "German enterprises, traditionally slow to adopt cloud computing, are growing more interested in migrating applications to the cloud,"
+    publishedDateTime: 2021-04-22T08:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services-1030331843"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 42
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/microsoft-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Dassian Announces Collaboration with Microsoft Azure Government"
     excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
     publishedDateTime: 2021-04-26T23:19:00Z
@@ -359,6 +356,6 @@ related:
         height: 293
         isCached: true
 
-secured: "LVLfalA1ueuswJfTd9S5WMOInxpIEq3T4BfgMcrCYq3tWa/VBMarhprBChS7cqSk35l+qtyM4aXupOsn56nLRpAuVBs4YkqG/ark9kbs52LrFO/DPpXyO3TxryMSEQ0XlZXbFLuP4vYkc1A1Qa/QZt0kMhw+lO+dVMhrUdro+zMiKlqHZKey8jYqZ9CcfmWTiWtk4xeT77Rvz8Qw4B7bgoB8ENaEP1Ij4/LA4bBq2BgDX8/qbr/Przc038CX8mXfIvlP7Tf/mFpw8hcFkchJ7sA2OBJ8oduZ1n8RJu7W1VlnSMuHcGZSuXCOOHXNpKl+juiXishH6V3Y8Roy2MdgpAFHr3n6JJ9HwCD9yR5ju28=;yFi9mFX87X9ShAS51l6vaQ=="
+secured: "Modofj5J3a6oI8E1A11UrSUg8CHZdumF7X+8UQ5Lsq09XO9EQW7EFK7Zs34c1t3hZaxcYU3EwKM3mCVeuxcO9ejzMEflZIm7I8YegAUtnLZH8s7svOmjOGBG30h+9HRPuarJGu5Ra+QnaAk3siP/nxOxhOZI/jC3WdKXVOtDjNEhsg0IfcGzfM6mrCufZGsb+CmHRe3IK3MdiaMkqc4R5xeCAXYTi5g0gcshjT/Sbvsjb1dxlfhh2n3cjl8auy7ge8KSt1cSaLwZW0a3tv9nKU0J5AwDtUal/hGsmb1/xQ1oWsaC8jAsfDNy31uLvpofVP/miYKntGH947edNtIK8HwtOw1yutAcm0doWiQbgHE=;rYJm4eATo8TyHSReo4fpoA=="
 ---
 

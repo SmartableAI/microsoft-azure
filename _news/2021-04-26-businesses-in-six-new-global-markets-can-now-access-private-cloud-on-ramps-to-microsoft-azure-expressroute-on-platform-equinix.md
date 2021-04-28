@@ -127,6 +127,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "Microsoft Cloud Earns Big With $17 Billion In Revenue For Q3"
+    excerpt: "Microsoft reported that its Microsoft Cloud solution has been a big earner for the tech giant in the third quarter ending March 21."
+    publishedDateTime: 2021-04-27T22:04:00Z
+    webUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/"
+    ampWebUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/microsoft-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Dassian Announces Collaboration with Microsoft Azure Government"
     excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
     publishedDateTime: 2021-04-26T23:19:00Z

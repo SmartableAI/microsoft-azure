@@ -137,6 +137,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "Microsoft Cloud Earns Big With $17 Billion In Revenue For Q3"
+    excerpt: "Microsoft reported that its Microsoft Cloud solution has been a big earner for the tech giant in the third quarter ending March 21."
+    publishedDateTime: 2021-04-27T22:04:00Z
+    webUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/"
+    ampWebUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/microsoft-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
     excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
     publishedDateTime: 2021-04-20T18:36:00Z
@@ -340,6 +356,6 @@ related:
         height: 293
         isCached: true
 
-secured: "K4L1slp1HN9FkH3xvOE/bnTQVhTiqQ1meW1qHuiMj0k6b2+3O6s1c9nz8EM5T7xHG6lMtBjsDSokBh6R+gdAf6otyTPu8H5g+uBweWR6uyAclV5EUmmgB/OM+itRnkb7Qo6Fx+DewY3Wn0IpCxySz7GGGulPlZUpSQgsVT7NIUiUem+/J9Tm+z0fKsBlvTjBLlBKzqMeuGlx5nAkcRR7VaKPvrMA+5op3PqVuh7S1hZQdXMh+LdrDHPHVwWCMCdxlvJAEErjW+XvI9X5tT5l+U1WtMhoS95EwbBNOiYUiNRTZMhuhuQLT7str4cAoZ2FvXKoTY+8+YJp+Is/adZznLXxGyGiJvTzJFPZHTk7tcE=;fB2UHnt7FYrU4RyLdF+xnQ=="
+secured: "Phd+SRan+XSIi2hwEM2oCeCVaclgzJW+CF2JsbzTopFQWh3rrpd4+gusxhFC5DY4mD1CjT90dUhbumyyboct0p9Z/MEEFB0ZY/+cTUsE2bAI8KIxMt5x68iDn36g2WiN0RfvPINnFn71upp656os32J43QO15905L/xvwIxQe0ur1PmCjTTIy7AIm/CCzKLV45TfIEcR030XdbLMYQUVnSli2OVJ+rtvAz1RYEk+7sWwuX3XhsJDFRGxkJd+uKu7/zColm5QOT9oyDZGrXuZRx7QWmZeane+1KOsFO/6qKqVvQ1IEK4KaP6nyZOVx4cJ6jLWYC0EveHIX1dw0QWUQVlPrMS5F1Pfd/pWfSbVISk=;PHVBDCLHDt7sf3vSMx5CsQ=="
 ---
 
