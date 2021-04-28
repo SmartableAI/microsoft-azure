@@ -1,7 +1,7 @@
 ---
 title: "Configure Azure AD Application Proxy"
 excerpt: "Configure Azure AD Application Proxy"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/learn-m365-pr/configure-azure-ad-application-proxy/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/configure-azure-ad-application-proxy/
 type: course
 price: Free
 length: PT25M
@@ -25,6 +25,12 @@ topics:
   - Azure
   - Identity
 
-secured: "6CSEBDnxFFBfwgHIT/gbzyqOJT/3F+eAclh1zTNBH2QlbAYJRd0JUmsR+bAsQQDg5vvqBDM1SSKFkA7Wr7j0umpKZ/8NFUtGA3s4QhwkU2pAIMW4xuIx+1eJuFm8Efm1lNhrjYW73tCBb06dQYWI45JNkpn1J29ZOtnuGHRhnyATPZQFXAHGElcfr6y7yqSaqBEUTzk1mFbvHSkial9wMO46/EEhSUjVs+TnYKAXYzN8UrKLC7+GaA7ZSYhyNevW7/fguLvoBh4IjWpNCSTVMqPu2abmMAX+Le5VKrm371fau2foQuHtaflfgizOzXKAyarlniwAK8203Mn6PLLkXe+EJU9So8X/RTAUiL8vNv0YO5TfjQULOUzBgfbJV6JpS5JlA9hDOT1oov7kqnzLog==;gKjpNweFwPUVd04SK3nboA=="
+images:
+  - url: https://docs.microsoft.com/learn/achievements/azure-ad-application-proxy-social.png
+    width: 1280
+    height: 641
+    isCached: true
+
+secured: "T1WfitUV/7KzK1G5Oqp6rmlZeOXgpedpdmrwTO0l+WZ2VASBUj5vWuD2BzakWbnEjOEXRlJHmRWv2/+9WFKu2dow+/p3QmHX+eX/90TH0GVqP+qMPLYY9wcVpWDZly+IlT115Vhv1yi/7zL3NCbwS0N80boajiqlKEtghbbkog0GqHFu+sGO5kkLpvzcfnlDqR+PbmxpoKN8wHLuBvfRe+ISBouF3aXpBW8pcyEtYtwgHsOcRx6tJF9k9OtUUEQQ35CkIb91hZW7SSlgsw45GnoVVoyyGgnmUX/AqQWF4Iqh1bznUoEyDb8wQldJp0Nk28+O/be+uXuFvn8SYaSiQ+uOtrRdWseLVOp19VU2/xB8VByFo25LK7exFEetOV79TFGDw0BvjieEYTJkmcz2YQ==;lZhZcZZA3qH7uFucu7JXsw=="
 ---
 
