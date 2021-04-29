@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-29-easily-build-real-time-apps-with-websockets-and-azure-web-pubsubnow-in-preview.md",
+      "title": "Easily build real-time apps with WebSockets and Azure Web PubSub—now in preview",
+      "excerpt": "Today, we are announcing the preview of the Azure Web PubSub service for building real-time web applications with WebSockets. WebSocket is a standardized protocol that provides full-duplex communication. It is key to building efficient real-time web interactions and is supported by all major browsers",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/easily-build-realtime-apps-with-websockets-and-azure-web-pubsub-now-in-preview/",
+      "originalUrl": "https://azure.microsoft.com/blog/easily-build-realtime-apps-with-websockets-and-azure-web-pubsub-now-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/18236dbc-5f01-425d-b51f-f9ea621cda64.png",
+          "width": 624,
+          "height": 351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T04:00:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Web"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-public-preview-stateful-and-1-minute-frequency-log-alerts-in-azure-monitor.md",
       "title": "Public preview: Stateful and 1-minute frequency log alerts in Azure Monitor",
       "excerpt": "Log search based alerts can now be automatically resolved, and query can be evaluated every minute for faster time to fire.",
@@ -1134,58 +1186,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-new-solutions-for-oracle-weblogic-on-azure-virtual-machines.md",
-      "title": "New solutions for Oracle WebLogic on Azure Virtual Machines",
-      "excerpt": "We are announcing a major release for Oracle WebLogic Server (WLS) on Azure Virtual Machines. The release is jointly developed with the WebLogic team as part of a broad-ranging partnership between Microsoft and Oracle.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/new-solutions-for-oracle-weblogic-on-azure-virtual-machines/",
-      "originalUrl": "https://azure.microsoft.com/blog/new-solutions-for-oracle-weblogic-on-azure-virtual-machines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/37042d3f-0150-431a-bc51-f517259ff24a.gif",
-          "width": 998,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T02:00:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     }
   ],
