@@ -107,6 +107,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "IO, IO, off to Microsoft’s cloud we go: Excelero hits Azure"
+    excerpt: "Excelero has made its scale-out NVMe-oF array software available on Azure. NVMe-oF (NVMe-over-Fabric) extends a server’s PCIe/NVMe protocol across network links. This means a server application can access remote flash drives for block data at  RDMA speeds."
+    publishedDateTime: 2021-04-29T14:48:00Z
+    webUrl: "https://blocksandfiles.com/2021/04/29/excelero-says-hi-to-azure-and-jumps-aboard/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 37
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2018/10/Excelero-splash.jpg"
+        width: 803
+        height: 534
+        isCached: true
   - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
     excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
     publishedDateTime: 2021-04-20T18:36:00Z

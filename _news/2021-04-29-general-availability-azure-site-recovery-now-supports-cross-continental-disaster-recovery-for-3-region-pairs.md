@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure API Management support for Availability Zones now generally available"
-excerpt: "Improve the resiliency of your API Management services with Availability Zones."
-publishedDateTime: 2021-04-14T16:00:19Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-support-for-availability-zones-now-generally-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-support-for-availability-zones-now-generally-available/"
+title: "General availability: Azure Site Recovery now supports cross-continental disaster recovery for 3 region pairs"
+excerpt: "Protect your applications from outages by replicating your virtual machines across continents."
+publishedDateTime: 2021-04-29T15:40:15Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/asr-cross-continental-dr/"
+webUrl: "https://azure.microsoft.com/en-us/updates/asr-cross-continental-dr/"
 type: article
-quality: 82
+quality: 65
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Integration
+  - Migration
 
 related:
   - title: "General availability: Azure Blob storage supports objects up to 200 TB in size"
@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 95
+  - title: "Azure API Management support for Availability Zones now generally available"
+    excerpt: "Improve the resiliency of your API Management services with Availability Zones."
+    publishedDateTime: 2021-04-14T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-support-for-availability-zones-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
   - title: "General availability: Lustre® HSM tools now available to import from or export to Azure Storage."
     excerpt: "New tooling available for integrating Lustre file systems with an Azure storage account."
     publishedDateTime: 2021-04-12T20:24:17Z
@@ -68,15 +77,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 65
-  - title: "General availability: Azure Site Recovery now supports cross-continental disaster recovery for 3 region pairs"
-    excerpt: "Protect your applications from outages by replicating your virtual machines across continents."
-    publishedDateTime: 2021-04-29T15:40:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asr-cross-continental-dr/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 65
   - title: "General availability: Log analytics workspace name uniqueness is now per resource group"
     excerpt: "You can now use the same workspace name in deployments across all your environment without a conflict. This is useful in template deployments when the same name can be used for every deployment for consistency."
     publishedDateTime: 2021-04-14T16:02:07Z
@@ -87,6 +87,6 @@ related:
       domain: microsoft.com
     quality: 61
 
-secured: "h2gGU93fO/tYtgEuQe32n05/Oz6R18i3spOGCa0Rjh/oq6QireKf8FVcy/VNBENfJGMIKMCGNwOuabrSSoJ9kaKdrq0zSSxp3VlW/kANSh7gEN4/iu6ufL5DwaE3kUKk6u2JVlGeuPcWJAfa0v3BPgA7AzW3oxu04iKHb9Hw8G7uRvqFmoKJj2XVlFZrMF90eYB5ZK1FnE2SaKEarDtTekoi11jNuq2UY6ngRJTSdlaMk6zkI8i5G2nPN6j1sK8/u/nStxeHKMJiXCK82wFg7p2SK4u1s7BKUvVBtIYI/G6zSsTW4G5+YnayTAgDR2ySRbMiq8/fE592m/D69kJ2UfT/aJLJhlw0tai0ym+vq4A=;K7Ib2bCaSTutocprG/ctIQ=="
+secured: "HM3bCkYpp3WM+OfW6DWImkYgMn5tdhHBsWmxea3sobt8kaWqKHePVluhy/NW/WexHwHVQ/1ShmU6Kt4v5Y4f+C7VhbtOZue8o1WS94Nx6k5giJn0g8CR0MMG/uuxtnSx7v4eR0eJkAGyqnS7Tzqwb2FolYZsnI6vTP5gVrs2aGV2KjYaN4RWPVEmpwNhK4aOCn1Z2asSyb3MNk4lnuuWVs2fW1/NudS1gY05hf2kXqKvfEpFCaa9cScamDJh5jR1RfkorrUeJhDmdrVKldcOGiHGG5S9Q2trcz5t6PrdPZw5d+dr62UhKg9i3uk+30XxSTszoxI5znCguEbg2Ud2sUPr8Bhhx+Ef4mctbcbiTEE=;tXAePxANPIbaYi5Mtjuv2g=="
 ---
 

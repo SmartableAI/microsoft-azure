@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
-excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
-publishedDateTime: 2021-04-20T18:36:00Z
-originalUrl: "https://www.ign.com/articles/become-a-certified-cloud-computing-pro-with-this-microsoft-azure-bootcamp"
-webUrl: "https://www.ign.com/articles/become-a-certified-cloud-computing-pro-with-this-microsoft-azure-bootcamp"
+title: "IO, IO, off to Microsoft’s cloud we go: Excelero hits Azure"
+excerpt: "Excelero has made its scale-out NVMe-oF array software available on Azure. NVMe-oF (NVMe-over-Fabric) extends a server’s PCIe/NVMe protocol across network links. This means a server application can access remote flash drives for block data at  RDMA speeds."
+publishedDateTime: 2021-04-29T14:48:00Z
+originalUrl: "https://blocksandfiles.com/2021/04/29/excelero-says-hi-to-azure-and-jumps-aboard/"
+webUrl: "https://blocksandfiles.com/2021/04/29/excelero-says-hi-to-azure-and-jumps-aboard/"
 type: article
-quality: 36
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: IGN
-  domain: ign.com
+  name: blocksandfiles
+  domain: blocksandfiles.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://assets1.ignimgs.com/2021/04/20/sale-149017-article-image-1618943765425.jpeg?width=1280"
-    width: 1200
-    height: 800
+  - url: "https://blocksandfiles.com/wp-content/uploads/2018/10/Excelero-splash.jpg"
+    width: 803
+    height: 534
     isCached: true
 
 related:
@@ -118,19 +118,19 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "IO, IO, off to Microsoft’s cloud we go: Excelero hits Azure"
-    excerpt: "Excelero has made its scale-out NVMe-oF array software available on Azure. NVMe-oF (NVMe-over-Fabric) extends a server’s PCIe/NVMe protocol across network links. This means a server application can access remote flash drives for block data at  RDMA speeds."
-    publishedDateTime: 2021-04-29T14:48:00Z
-    webUrl: "https://blocksandfiles.com/2021/04/29/excelero-says-hi-to-azure-and-jumps-aboard/"
+  - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
+    excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
+    publishedDateTime: 2021-04-20T18:36:00Z
+    webUrl: "https://www.ign.com/articles/become-a-certified-cloud-computing-pro-with-this-microsoft-azure-bootcamp"
     type: article
     provider:
-      name: blocksandfiles
-      domain: blocksandfiles.com
-    quality: 37
+      name: IGN
+      domain: ign.com
+    quality: 36
     images:
-      - url: "https://blocksandfiles.com/wp-content/uploads/2018/10/Excelero-splash.jpg"
-        width: 803
-        height: 534
+      - url: "https://assets1.ignimgs.com/2021/04/20/sale-149017-article-image-1618943765425.jpeg?width=1280"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Sinequa launches cloud optimized intelligent search platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of intelligent enterprise search technology, has announced the launch of Sinequa for Microsoft Azure, enabling organizations that use Azure to now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
@@ -221,6 +221,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "hsj4Uyxc3XQCe6JHks1OM/UxdJGQY8SE/7UfAEjVa1Q4rnZYTcZq5I/UgS9mrqonVzzmRqcKTcvNJUw5TGPVs5aWt4BBI8qGjJPq7mfBiFF7zMQxYCDK0gqDnXUmLa/doO4qHekAOGBlC8DugSsc+/vCt3AdWcxflvI7R9awdOmhz86LwYbIxPQKa3rqvp+En3AJxnJJFsqh5pAc8Z9V43f23GO8/Tc0HxLbh1ZoCbXTZHI4B6UVKAIaLAyePmWFQoPb3KZhUCDSOJE+PvkL1ZY3mw80xjdeyD/XBGazV7NeuNa86ZhWZtLqJXGsBv+FrJCx7/SLtqcwTZe2eECEL/c1jC6a3ThYmt4BtxvQZVLOtgjTQlBILKRGDmippgq4zJ6l356FNRwPRwp1vDvfPC61a0k9mgGudE63XW7wQf2HYSz+3d4ZEbLMhy6YWkdUB5vosM4iMEiABJZDYAlVreq7ca7VXwCRUKLsz8Zrojmc6koRsoBrcbge44t/5mXMq95FSD0jZsLIQhq5Y7psLQ==;7yiZtXIZzDlRAppydtlbOA=="
+secured: "s15JwwjDlSYYaoaDjeaqAxBftHI21D/I6zoVAn9Iv1vhUD9BAmfRuZaBBPEriZq+hr3fqKZwj2/yh8CdhIaLwuBtzf2dHxKOkcFvIL4KmLlvEUS/RJGPUkbasbH3QzJ7a7rxgFEdLY2L/kmkBpejfliV6WsWY5FIFIlGnNjgkxkKwdwEgbOLWCi5fHrFVtgqgTtsUZaZOjr6N+K8Xef/0rh3uB/IwpH+4Z19oPA7H0Ew7Lvqhir5xasZAsrgvAm0DidfDiy/PFTtE+SeRuvTxeVGoFQxlXR4tFjxtRpInkDyzMRZFYbldPvtsMsw+ux9cucp82YBejNI2LyjFBr4COze/F0bYbk5eJxMsASIe3I=;EhUK+Nchjz6si7Rj2S6aeA=="
 ---
 

@@ -68,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 65
+  - title: "General availability: Azure Site Recovery now supports cross-continental disaster recovery for 3 region pairs"
+    excerpt: "Protect your applications from outages by replicating your virtual machines across continents."
+    publishedDateTime: 2021-04-29T15:40:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asr-cross-continental-dr/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
   - title: "General availability: Log analytics workspace name uniqueness is now per resource group"
     excerpt: "You can now use the same workspace name in deployments across all your environment without a conflict. This is useful in template deployments when the same name can be used for every deployment for consistency."
     publishedDateTime: 2021-04-14T16:02:07Z

@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Site Recovery now supports Azure Policy in public preview"
+    excerpt: "Leverage Azure Policy to enable Azure Site Recovery for your VMs at scale and ensure organizational standards."
+    publishedDateTime: 2021-04-29T15:43:58Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asr-policy-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Public preview: Enhancements to encryption using customer managed keys for Azure Backup"
     excerpt: "Encryption of backup data in Recovery Services vaults using customer managed keys has enhancements in public preview."
     publishedDateTime: 2021-04-22T16:00:08Z

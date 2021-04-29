@@ -77,6 +77,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 65
+  - title: "General availability: Azure Site Recovery now supports cross-continental disaster recovery for 3 region pairs"
+    excerpt: "Protect your applications from outages by replicating your virtual machines across continents."
+    publishedDateTime: 2021-04-29T15:40:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asr-cross-continental-dr/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
 
 secured: "XxNTEjdhEUGvxrgVo1UEA3Mlyw2vGOdhjLC7Ath3rxqamEuIDx9wOl8cXsLepys3dt5Zi4kgWhpde98o/UbQzSRNSXU3xlK2QLb7hp4hdgRQ5Tljb5+tadtBX1UBUVPvYeCI/D56GBASpvUCQrWnOelQoAUtcSpZ9tzJqBuJG1BZMiT59nHmU2+VfLTCgkVKnFmk2J3lgXYOm1qL6CR+ZPf/PuKhbx0r6Ix7Gzf7l/BSScBLX9vdcq+29N7ow4I8tpm165FFyLnr2GBm3vYZg41Q5b+xTUFpF6Hzs+C4VfzYNvQnAL5vSvyN5vgH7RV5sv6uuAMAsIrB8E+fzp1GrDKfjhMHGYBOynxAGLGjRb8=;WaqDOOyogz+b9D8wP3InVw=="
 ---

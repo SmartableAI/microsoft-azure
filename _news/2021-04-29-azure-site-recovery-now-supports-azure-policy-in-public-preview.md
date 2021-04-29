@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public preview: Enhancements to encryption using customer managed keys for Azure Backup"
-excerpt: "Encryption of backup data in Recovery Services vaults using customer managed keys has enhancements in public preview."
-publishedDateTime: 2021-04-22T16:00:08Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-enhancements-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-enhancements-preview/"
+title: "Azure Site Recovery now supports Azure Policy in public preview"
+excerpt: "Leverage Azure Policy to enable Azure Site Recovery for your VMs at scale and ensure organizational standards."
+publishedDateTime: 2021-04-29T15:43:58Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/asr-policy-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/asr-policy-preview/"
 type: article
-quality: 76
+quality: 84
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Management tools
+  - Migration
 
 related:
   - title: "Azure Database for PostgreSQL – Flexible Server (public preview) managed PgBouncer in public preview"
@@ -41,15 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure Site Recovery now supports Azure Policy in public preview"
-    excerpt: "Leverage Azure Policy to enable Azure Site Recovery for your VMs at scale and ensure organizational standards."
-    publishedDateTime: 2021-04-29T15:43:58Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asr-policy-preview/"
+  - title: "Public preview: Enhancements to encryption using customer managed keys for Azure Backup"
+    excerpt: "Encryption of backup data in Recovery Services vaults using customer managed keys has enhancements in public preview."
+    publishedDateTime: 2021-04-22T16:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-enhancements-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
+    quality: 76
   - title: "QnA Maker introduces deep learning (Public Preview)"
     excerpt: "The next version of QnA Maker introduces state-of-art deep learning technologies and advances several core capabilities like better relevance and precise answering."
     publishedDateTime: 2020-11-09T18:00:10Z
@@ -69,6 +69,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "clIMRAaGjTtshtQ951srG1sSkZLgGiR/F2+mNT1sJ6UCoIWlKHpl09wFDPkrGHA3EUfQ4d0U4Lwmle65pH80U3o/9OotHRNHUCuHLBDmm0bJXsCxSJeezI/BAWkysLrXCg/sarMVVbwm27W8P4TzqFvpEe7u8Wx2PWdKwAlncj7weJHfqzgYPpeitJqu84CZEd3snBEwryk7jDWMKeUeUfWtHP066L/nwKQJxWpbCblA2oEja4IyMdsDg0NQHqLKv70BuFvm8J1EC+YtAHTl5Ks6lOePymLCwaQZ8iGYnDLIMkSZ9jSqTF9cMJ5XOv55y0sxcC+OJhp4aY0MYT1lcPBAKhdUz08yolAfHdvUscA=;N10EYEQfIGiUzTqJTvGVSQ=="
+secured: "SP8OL/w08vBwy9wahzklmeSzesPM0mzdLDQFRcbEUWyL+t4H09vsTyWWKpLW2FLmdcZTYI5uVB8sunjJj88axPHU9VMlt1WDxdAqRHdgVl4J/oO+9nkQTT/oSq6vDIjz+S52yOnjNJY0qvRGs1ypTe+hgHkiG6ee9H490u7e/UtTVoHnoEgiKKjMdQYGyflyFLiPZ2iN7qCD8DgATwb9jLvyAftyUOL7MyeUHa7HlAqkXaTbwUf0soDM8NWCdcm7vICA6GwH785rizjeyb9jB3drKh0Qp8Ar41sh853O0doAfyRipJQ++BnIjmbJJmhu8b/0JSILakcC+oDX7Naqo36d2BWfzvnlmhNw5R5VZuw=;4RGgPiBCidEapR6d6jkqeA=="
 ---
 

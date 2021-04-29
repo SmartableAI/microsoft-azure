@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-and-adls-gen2-storage-supports-objects-up-to-200-tb-in-size/"
 type: article
 quality: 95
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
     excerpt: "Participate in the retail evaluation now to ensure full compatibility.  The OS evaluation period provides 14 days for backward compatibility testing."
     publishedDateTime: 2021-04-15T22:00:21Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2104-is-now-available-for-evaluation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
+  - title: "General availability: Azure Site Recovery now supports cross-continental disaster recovery for 3 region pairs"
+    excerpt: "Protect your applications from outages by replicating your virtual machines across continents."
+    publishedDateTime: 2021-04-29T15:40:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asr-cross-continental-dr/"
     type: article
     provider:
       name: Microsoft
