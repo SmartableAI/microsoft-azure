@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: " Azure Container Registry now generally available in Korea South region"
+    excerpt: "Azure Container Registry handles private Docker container images as well as related content formats, such as Helm charts, OCI artifacts, and images built to the OCI image format specification."
+    publishedDateTime: 2021-04-27T15:56:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-korea-south/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Shared disks on Azure Disk Storage is now available in broader set of regions"
     excerpt: "Shared disks is available for Premium SSDs in all regions and available for Ultra Disks in all regions that support Ultra Disks."
     publishedDateTime: 2020-09-30T16:00:19Z

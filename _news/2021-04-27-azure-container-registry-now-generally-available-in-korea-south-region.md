@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Data Factory is now available in five new regions"
-excerpt: "Azure Data Factory is now available in five new regions: Switzerland North, Japan West, Canada East, Germany West Central, and UK West."
-publishedDateTime: 2020-12-09T17:52:12Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-is-now-available-in-six-new-regions/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-is-now-available-in-six-new-regions/"
+title: " Azure Container Registry now generally available in Korea South region"
+excerpt: "Azure Container Registry handles private Docker container images as well as related content formats, such as Helm charts, OCI artifacts, and images built to the OCI image format specification."
+publishedDateTime: 2021-04-27T15:56:29Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-korea-south/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-korea-south/"
 type: article
-quality: 67
+quality: 84
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Containers
 
 related:
   - title: "Azure Container Registry now available in several new regions"
@@ -35,15 +36,6 @@ related:
     excerpt: "Azure Container Registry is now generally available in Norway East region. Azure Container Registry handles private Docker container images as well as related content formats, such as Helm charts, OCI artifacts, and images built to the OCI image format specification."
     publishedDateTime: 2021-03-23T17:52:13Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-norway-east-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: " Azure Container Registry now generally available in Korea South region"
-    excerpt: "Azure Container Registry handles private Docker container images as well as related content formats, such as Helm charts, OCI artifacts, and images built to the OCI image format specification."
-    publishedDateTime: 2021-04-27T15:56:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-korea-south/"
     type: article
     provider:
       name: Microsoft
@@ -76,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Data Factory is now available in five new regions"
+    excerpt: "Azure Data Factory is now available in five new regions: Switzerland North, Japan West, Canada East, Germany West Central, and UK West."
+    publishedDateTime: 2020-12-09T17:52:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-is-now-available-in-six-new-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Container Registry diagnostic logs now generally available"
     excerpt: ""
     publishedDateTime: 2020-05-19T16:05:39Z
@@ -86,6 +87,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "PTRrGk1BYysYroUTJelVYjoARV0V3AbPKbpbTGILmy1xkDXfjU1fPgD2WcS2f9lSiq7NNbltIgWV9X+Qk6U+tRcQC3O1XJhjCZZ59kEua8+NBDcpDMiznuclZXAddg4p4X/azAVB8B741GNDBRI0cb4ODywuNwUVOgRKuqQheOXMCo0vd+2R8NfW5yW1qC8nKUPyQ3DqoI+LvYhFqFMJN0BymiUTnMtwD8htLuUqeiqpIzThOLgmBlBZrFznPWdVLBEC/ELJ2kecNzOUyIRyvHrZWWdSASU8YoO/n8SDc4sIdq08sZhn3Jy4DWzIUzv1rv8ImQUBp+eviG1VUkm/AJJ1nY5J9Av0nij6glF2/5Q=;da1dPVyNUe17hGfMy20v+Q=="
+secured: "mVdUjv1vsoxLiojDIG3dnus0L3GXIm/NfNTiw29rhWsjRZds1fY/C7nOX0fdFsTirwye718hFL74NBgluQhbv9NUDmMmRJOr5if8zslM+iI97BLZkSSzGEBWSdOeiamSqZqIhjY7wgHKpV9Y87i9Ww6/RTZixurSWDcjecaeoSSzOCwLFxmZSTPYb3JSxgLIcV2UmaddoxF8lDlm0WcogA7mqEDHPwIrY0Wr1txL+7QVV0H0jTa0h/4sKoJoDOEoFGxTHXw2iYNAWVZGx2u0TIOknV+DpDsX5ILU6tPYW3XSEx02V1nIwYkGJ0RYLDNhYWu0YSj1zMyOE0W8SSo4crkg8arq/Zb6mPNy9KilMRA=;x+EB1M4NBplR4d+R2bEItA=="
 ---
 

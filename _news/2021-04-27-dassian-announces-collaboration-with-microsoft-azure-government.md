@@ -72,6 +72,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
+  - title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
+    excerpt: "(Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix® to service customers in six new global markets,"
+    publishedDateTime: 2021-04-26T14:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg"
+        width: 400
+        height: 261
+        isCached: true
   - title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
     excerpt: "April 20, 2021 (GLOBE NEWSWIRE) -- Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure ..."
     publishedDateTime: 2021-04-20T15:18:00Z
@@ -220,20 +234,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
-    excerpt: "Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure"
-    publishedDateTime: 2021-04-26T12:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 9
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/d9/1d959af6-6d0e-5f96-ba18-7b61aae335fb/6059df86607f4.image.jpg?resize=800%2C522"
-        width: 800
-        height: 522
-        isCached: true
   - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
     excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"
     publishedDateTime: 2020-11-04T23:06:00Z
@@ -249,6 +249,6 @@ related:
         height: 293
         isCached: true
 
-secured: "yQ6zlr34wVT9FvFyLJ6rQJH78k76eH86Ht9YVi9I9X1QEpIJhzVGK8bCw0tAGF5DvfY2k2tmrqtYmGVC7zRBZVWv+byQrw9NrGdTYnUbzg4ALUAP6GqcBPhjHAbSXta6h4LFtn3989df3Ypxw8AF4E88Ur09HPRTo3Qt3l6ovDSttjXQ58ko1MZS8cvstm9C0HqlLGX7vPJD/HLGIcUALoDpOEZAXCriTfpme/8P1/AN1JBBVq30CueMIeglI437svwZPagexcczLvLEjpqLYSwrM/qx/8qr6IMSsq5bij8KnRfVftTSb11uqzLSY9wdDjOoTbSHFMGp/QeAfUgLlysxGZYJlhtIQJkjdcSxNn8=;gSJWujzAcONccCdTu4rbpA=="
+secured: "8S3JjrJ2/PLg/TSE7mXs7YxT3zd4Rsd6H0vj7vB+EG4hwWFELg+yjN8xORad6rt5+ZY1mzwumO8M+JZpw7nkocrqtcRe3LHVJQPTiwX42AO/7gG60EczXVzl6pVv4yWm+udu17h4xRGAEEig3f0mndl5BiFPhusiM8tiAkcu+2N7XS9xX1qqu4DWPSlW992m8oy4EAwn9IwdBk7UJrdaJO4iaK1xQCcusQ24tQX8h4+OimHusqV/e8QdGkTIx78LC7CDcdNZenCISpSJPVy1lLZ2X7JOh6jAEzlvXmgA6xIDgSxOYlGeNemNQrYmSvqZ444ZYiNAzDWP2Pa+A7CBxVH2z3cLl6qCXpIWApGEzoc=;RM579+2XwqKigpSZiudrfw=="
 ---
 
