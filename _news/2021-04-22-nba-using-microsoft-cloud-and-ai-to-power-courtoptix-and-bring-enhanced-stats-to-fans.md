@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-cou
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 151
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619469968_microsoft_coursera_logo_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Coursera and Microsoft launch Microsoft Azure Fundamentals specialization"
+    excerpt: "Coursera has announced a new Microsoft Azure Fundamentals Specialization in collaboration with Microsoft to help learners kickstart their career in cloud Coursera has announced a collaboration with Microsoft to launch a new Microsoft Azure Fundamentals ..."
+    publishedDateTime: 2021-04-27T10:55:00Z
+    webUrl: "https://www.dqindia.com/coursera-microsoft-launch-microsoft-azure-fundamentals-specialization/"
+    ampWebUrl: "https://www.dqindia.com/coursera-microsoft-launch-microsoft-azure-fundamentals-specialization/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/coursera-microsoft-launch-microsoft-azure-fundamentals-specialization/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 56
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/enable-digital-transformation-with-a-cloud-first-strategy-man-pointing-on-tab_opt.jpg"
+        width: 750
+        height: 454
         isCached: true
   - title: "Official Microsoft AI-900 Exam Dumps (2021) Azure AI Fundamentals Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AI-900 exam with ITExamQuestions AI-900 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-900 Microsoft Azure AI Fundamentals Exam?"

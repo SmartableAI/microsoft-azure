@@ -1,31 +1,25 @@
 ---
 category: news
-title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
-excerpt: "April 26, 2021 /PRNewswire/ -- Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ..."
-publishedDateTime: 2021-04-26T12:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
-webUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
+title: "Microsoft acquires Kinvolk to accelerate container-optimized innovation"
+excerpt: "The ability to run Kubernetes anywhere, whether in the cloud or on-premises, has been a high priority for Azure customers looking to rapidly innovate, with increasing customer focus on the benefits of container-optimized workloads and operating systems, lean application modernization, easier operations,"
+publishedDateTime: 2021-04-29T06:00:01Z
+originalUrl: "https://azure.microsoft.com/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/"
+webUrl: "https://azure.microsoft.com/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/"
 type: article
-quality: 49
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Microsoft
+  domain: microsoft.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg"
-    width: 400
-    height: 261
-    isCached: true
 
 related:
   - title: "Amdocs to Accelerate M1's Digital Transformation on Microsoft Azure"
@@ -76,15 +70,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
-  - title: "Microsoft acquires Kinvolk to accelerate container-optimized innovation"
-    excerpt: "The ability to run Kubernetes anywhere, whether in the cloud or on-premises, has been a high priority for Azure customers looking to rapidly innovate, with increasing customer focus on the benefits of container-optimized workloads and operating systems, lean application modernization, easier operations,"
-    publishedDateTime: 2021-04-29T06:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/"
+  - title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
+    excerpt: "April 26, 2021 /PRNewswire/ -- Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ..."
+    publishedDateTime: 2021-04-26T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg"
+        width: 400
+        height: 261
+        isCached: true
   - title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
     excerpt: "April 20, 2021 (GLOBE NEWSWIRE) -- Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure ..."
     publishedDateTime: 2021-04-20T15:18:00Z
@@ -262,6 +261,6 @@ related:
         height: 293
         isCached: true
 
-secured: "cMlzBqKDmkXWxKKfaROPlEKRCX4NKxCzMaTQqC1fDbnzfuQTndemPsoB3ReW/kXSlp52wb6/0XIliHyv6UTtCovD0ocs9Sz/zjeS7TmwRZutEzg99F/sv9FrIYV/KsFE61ppbvkqEVcuglOsUxH3Hw06MV9EW/PDl/uubBBmcdLoFrx0U3Sx4vDZdjI2kRTasE1kpoWxhxPgaog/EBibxLMWlTs3dpzkiR9Qhw+uo/5UbKYaXMX68yW+HVvrQaWEONedz7YaEKKlJgzgj1JBWmgNl4fgEcjBOqmC9+BUKMGe08hHv+94+vo8lRDyYYy3Rw01U9QJf5OVQfLaDzvF8UFgq/VyiayFVq7O2ZQxZg4=;Wyb5W4U0cg7k/Ry9y+lupA=="
+secured: "UMe80KihnuBd7TVOc1xuVMxEdgZUcqmVmbZZNRaWykqI/z5BYtGYipWcRu504qTd8bcua5W/SAo4s+mXDiUG8PFc+o+VcL+FAQg6a3j75YL62DKEAp/6t9FmAqMVkvqHx2puDkzAmnRByvfp3Shm753DTTbWL+6VO9xElokrJXBRpODTeLhQZHpgH8ufaq882nqceVTUTe9NnF0CRrzAPizo8LzW0Rbwy/3jPf6MI4tIghBW/9PRudWX46UoAkpvbrnZZbhXn3NsqnlmNgXyUm6Z8RZEuAnYW7J25Itn9VGRsXBKgvWHKlb785jTDFHwWuFlqb5YLQPKKhGSm0LTEYgR3xBtYdXhCSzSstICCH8=;gKufBTsn8XQ4/78P0aoWWQ=="
 ---
 
