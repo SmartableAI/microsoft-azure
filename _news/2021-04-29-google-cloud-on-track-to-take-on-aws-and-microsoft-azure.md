@@ -1,22 +1,27 @@
 ---
 category: news
-title: "Datadobi Announces Support for File Data Protection on Microsoft Azure Blob Storage"
-excerpt: "Datadobi, a global leader in unstructured data management software, today announced it has added support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft’s cloud-based object storage solution."
-publishedDateTime: 2021-03-16T17:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210316005097/en/Datadobi-Announces-Support-for-File-Data-Protection-on-Microsoft-Azure-Blob-Storage"
-webUrl: "https://www.businesswire.com/news/home/20210316005097/en/Datadobi-Announces-Support-for-File-Data-Protection-on-Microsoft-Azure-Blob-Storage"
+title: "Google Cloud on track to take on AWS and Microsoft Azure"
+excerpt: "Continuing to bank on the generational shift to digital, Google's parent Alphabet reported revenues of $55.3 billion and a record-breaking profit of $18 billion for the first quarter of 2021."
+publishedDateTime: 2021-04-29T05:51:00Z
+originalUrl: "https://www.medianama.com/2021/04/223-google-earnings-q1fy21/"
+webUrl: "https://www.medianama.com/2021/04/223-google-earnings-q1fy21/"
 type: article
-quality: 43
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MediaNama
+  domain: medianama.com
 
 topics:
   - Azure
-  - Storage
+
+images:
+  - url: "https://www.medianama.com/wp-content/uploads/2021/04/rajeshwar-bachu-K4txLik7pnY-unsplash-scaled.jpg"
+    width: 2560
+    height: 1840
+    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -750,6 +755,15 @@ related:
         width: 576
         height: 288
         isCached: true
+  - title: "Datadobi Announces Support for File Data Protection on Microsoft Azure Blob Storage"
+    excerpt: "Datadobi, a global leader in unstructured data management software, today announced it has added support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft’s cloud-based object storage solution."
+    publishedDateTime: 2021-03-16T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210316005097/en/Datadobi-Announces-Support-for-File-Data-Protection-on-Microsoft-Azure-Blob-Storage"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 43
   - title: "Avid, Microsoft Ink Deal to Extend Cloud Collaboration Agreement"
     excerpt: "BURLINGTON, Mass.—Avid has announced a five-year renewal of its cloud collaboration agreement with Microsoft. During the term of the new agreement, Avid will continue to develop and deploy its cloud-based solutions on Microsoft Azure."
     publishedDateTime: 2020-05-06T11:30:00Z
@@ -1354,20 +1368,6 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "Google Cloud on track to take on AWS and Microsoft Azure"
-    excerpt: "Continuing to bank on the generational shift to digital, Google's parent Alphabet reported revenues of $55.3 billion and a record-breaking profit of $18 billion for the first quarter of 2021."
-    publishedDateTime: 2021-04-29T05:51:00Z
-    webUrl: "https://www.medianama.com/2021/04/223-google-earnings-q1fy21/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 37
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/04/rajeshwar-bachu-K4txLik7pnY-unsplash-scaled.jpg"
-        width: 2560
-        height: 1840
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -1939,6 +1939,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "8KcFi8dyJlIR80PWDPaFgSvss4gJqTd465O6gkt6sqFCiFW1pyvch2dzJsyhmL4eJIKW1C1bfSJOfSdR/FZcWk/nfDwbDPqY4cAU22Y95SPnK08JucMa2dn7zMVUYEtInh4yMHHg3AcERA4u1UhCOO0g4iuzdAinDKP0jeEAu5dFq7JEkYVGCvSHRzy8uVtqHt5efog6Qe2hMj1X1KrLuhHEq0uyWSgjnn5ZfJ2KCzFfTeBChn3Kgaw0H1ERjfyZ6Z1vKGPHwsNYGaKBE18komJ7NAL52C6rSsAEP8tidcvQKF0d6gu9Z10S7vabbB5DnnZg9sOwpsAoA6f3HRytU782q0wPompr50KyXbOWR44=;cmr5EjuVfGIsUbdSB5Mb2Q=="
+secured: "DYKTwyXSaerdjYTUPDHJMSNzjw//ChFGyTAHQGwNMf7n/1zSuQW12Hpn5iVlzrm1IBUyRCrZKhBcTjrk9D4aN6YibGZ/qtaFF79p9rXBedTAWFA5n10ROsCAnsXU2x0uITik8zNQ9H21mbGAV87OdZwDi5+O2i0H8EAhIeo6Q+QhS54PSv06CnvmQHSNasj2SX46FYIjxtTSAVF9h3z0KW3tGkV6jXZVTAcLh7jXASkWinQ1CAsX5k9Sy5AvlXCCvVQQSyEgKJpKiAf7TgOjhWD1g4dwFZjLjmpN59vvbQ8XC2ui26Rjla9fD4QA1B9tfrLxgwjE0GWr04+Z42GtjFD8Sv+QqpOfvs02re52r/w=;pcSh2lKdugoNEW9heAPYdw=="
 ---
 

@@ -2,21 +2,17 @@
 category: news
 title: "Sysinno Introduces First Available Air Quality Monitor Running on Microsoft Azure Sphere"
 excerpt: "iAeris reliability meets Microsoft Azure capability The iAeris fully benefits from the guaranteed security of Microsoft Azure Sphere, consisting of a system-on-chip (SoC) device, cloud service ..."
-publishedDateTime: 2021-04-22T00:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-1030330820"
-webUrl: "https://markets.businessinsider.com/news/stocks/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-1030330820"
+publishedDateTime: 2021-04-22T00:12:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210421hk48636/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210421hk48636/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere"
 type: article
-quality: 48
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -252,6 +248,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "J5iWQY1h5WLU0wogwGt1ZkacuffKybmtPM1OAJLWnsOxkmgumwZ1pXNCSVoLAfsyrgPvu9vwjb8BAzHFRz34w3yJ8m00XFsYcuoGZ3Qll6MThdKVET7bChSsDr6Sht39KM5SgFKN857pxuUtdLTELLWzq2v9LmL9jxXhDT1fAM+H0JL91xheUwK46qWPwHSUYEwHaEsqNn9fV4gnPqSo2E4OEYrhnxsnnScHmIZjBqppkbKY7oPmIJmpTM8ulMW6LCFo46215TRfefjgx7+tr/ueXm8s3pYQv1bjWWIkfjSwlLjhl+3TpTmsXJ9xMXcWMPBwHDl9cGsr2aFmdkHPneGyIsZ/Qsp6imGltcBsUgM=;Tr62EhTiIXlKqOCsf2Iqjw=="
+secured: "2HraT7PcefLH+Vo7y4L5Z4Rt/lobbPvhRkLIwH571Un9x62+XvIkx3slBi+ellIfNDQ8PVeTYCdEb4Mx7+erdWb7WfVBvZ8XeKM6W5F2S3aSqm7k0Edr/s5RLE9uS7cUAubMDFlVpIIvHeiSmQD23ly/SxZ0D7ijEzf9912o9gQ0VOv9DM9YIC6s4gj3Lul9VOruC9YoXlWBdXIQYqAi2VAXzDWBt5WKbm2ldsZLp0fx8o3U9FyHcC62kqgbEXjIa73ljfaziWdswRD8jvoqCgEEARBbNHxodCv5B3V0UARayFWtFMO6I0lW9uXb1WOgyGDJugK7nUTNJ0ne44N+u9VSjYZbwB2dhkXd0EposrU=;aOVCM4Ufb7yX/Y5vcEo5DA=="
 ---
 

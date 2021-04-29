@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/pure-storage-extends-public
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
 type: article
 quality: 114
-heat: 2934
+heat: 2954
 published: true
 
 provider:
@@ -1358,6 +1358,20 @@ related:
       - url: "https://www.crn.com/resources/0268-12082f505be3-471dce422408-1000/john-jg-chirapurath-microsoft.jpg"
         width: 610
         height: 457
+        isCached: true
+  - title: "Google Cloud on track to take on AWS and Microsoft Azure"
+    excerpt: "Continuing to bank on the generational shift to digital, Google's parent Alphabet reported revenues of $55.3 billion and a record-breaking profit of $18 billion for the first quarter of 2021."
+    publishedDateTime: 2021-04-29T05:51:00Z
+    webUrl: "https://www.medianama.com/2021/04/223-google-earnings-q1fy21/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 37
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/04/rajeshwar-bachu-K4txLik7pnY-unsplash-scaled.jpg"
+        width: 2560
+        height: 1840
         isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"

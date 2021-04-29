@@ -1363,6 +1363,20 @@ related:
         width: 610
         height: 457
         isCached: true
+  - title: "Google Cloud on track to take on AWS and Microsoft Azure"
+    excerpt: "Continuing to bank on the generational shift to digital, Google's parent Alphabet reported revenues of $55.3 billion and a record-breaking profit of $18 billion for the first quarter of 2021."
+    publishedDateTime: 2021-04-29T05:51:00Z
+    webUrl: "https://www.medianama.com/2021/04/223-google-earnings-q1fy21/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 37
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/04/rajeshwar-bachu-K4txLik7pnY-unsplash-scaled.jpg"
+        width: 2560
+        height: 1840
+        isCached: true
   - title: "Standard Chartered to Adopt Microsoft Azure to Become a Cloud-first Bank"
     excerpt: "Standard Chartered Bank and Microsoft have announced a three-year strategic partnership to accelerate the bank’s digital"
     publishedDateTime: 2020-08-18T00:39:00Z
