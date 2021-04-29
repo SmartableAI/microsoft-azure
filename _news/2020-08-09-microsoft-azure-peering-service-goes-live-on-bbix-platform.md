@@ -49,6 +49,20 @@ related:
         width: 824
         height: 517
         isCached: true
+  - title: "Save 98% off this Complete 2021 Microsoft, Windows, & Azure Bundle"
+    excerpt: "Deliver smooth, secure, and configured process to users and organizations with 17 hands-on courses on the top 3 cloud service platforms with today's highlighted deal that includes certification."
+    publishedDateTime: 2021-04-29T14:00:00Z
+    webUrl: "https://www.neowin.net/news/save-98-off-this-complete-2021-microsoft-windows--azure-bundle/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 77
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619700240_sale_232555_primary_image_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
     excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
     publishedDateTime: 2020-08-05T11:41:00Z

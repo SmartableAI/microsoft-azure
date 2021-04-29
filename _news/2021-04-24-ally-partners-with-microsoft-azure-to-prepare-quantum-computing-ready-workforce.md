@@ -40,6 +40,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Master Microsoft Azure, Ansible and Git for $30 with four prep courses"
+    excerpt: "The Essential Microsoft Azure Certification Bundle gives you one year of access to four courses with a total of 30 hours of content. In that time, you'll discover the principles of cloud computing with Azure,"
+    publishedDateTime: 2021-04-27T14:59:00Z
+    webUrl: "https://www.engadget.com/microsoft-azure-training-bundle-145534086.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-training-bundle-145534086.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-training-bundle-145534086.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 97
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-04/c85da1e0-a376-11eb-b075-86e1573e99e5"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Microsoft Cloud PC launch could just be months away"
     excerpt: "The idea of being able to use your computer may appeal to some, especially those who don’t like being tethered to their desks or even homes for long periods of time. So far, however, the"
     publishedDateTime: 2021-04-21T00:31:00Z

@@ -1,26 +1,32 @@
 ---
 category: news
-title: "DataStax Astra Is Now Available in the Microsoft Azure Marketplace"
-excerpt: "DataStax today announced the availability of DataStax Astra, the industry’s first serverless Database-as-a-Service (DBaaS) for Apache Cassandra ™ running in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-04-28T15:00:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-322eba2418aa4248a2da5519b3fd5bba"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-322eba2418aa4248a2da5519b3fd5bba"
+title: "Master Microsoft Azure, Ansible and Git for $30 with four prep courses"
+excerpt: "The Essential Microsoft Azure Certification Bundle gives you one year of access to four courses with a total of 30 hours of content. In that time, you'll discover the principles of cloud computing with Azure,"
+publishedDateTime: 2021-04-27T14:59:00Z
+originalUrl: "https://www.engadget.com/microsoft-azure-training-bundle-145534086.html"
+webUrl: "https://www.engadget.com/microsoft-azure-training-bundle-145534086.html"
+ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-training-bundle-145534086.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-training-bundle-145534086.html"
 type: article
-quality: 37
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-04/c85da1e0-a376-11eb-b075-86e1573e99e5"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -39,22 +45,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1618964207-Ent-Azure.jpg?width=600&crop=16:9"
         width: 600
         height: 338
-        isCached: true
-  - title: "Master Microsoft Azure, Ansible and Git for $30 with four prep courses"
-    excerpt: "The Essential Microsoft Azure Certification Bundle gives you one year of access to four courses with a total of 30 hours of content. In that time, you'll discover the principles of cloud computing with Azure,"
-    publishedDateTime: 2021-04-27T14:59:00Z
-    webUrl: "https://www.engadget.com/microsoft-azure-training-bundle-145534086.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-training-bundle-145534086.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-training-bundle-145534086.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 97
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-04/c85da1e0-a376-11eb-b075-86e1573e99e5"
-        width: 1200
-        height: 627
         isCached: true
   - title: "Microsoft Cloud PC launch could just be months away"
     excerpt: "The idea of being able to use your computer may appeal to some, especially those who don’t like being tethered to their desks or even homes for long periods of time. So far, however, the"
@@ -120,6 +110,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "DataStax Astra Is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "DataStax today announced the availability of DataStax Astra, the industry’s first serverless Database-as-a-Service (DBaaS) for Apache Cassandra ™ running in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-04-28T15:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-322eba2418aa4248a2da5519b3fd5bba"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "IO, IO, off to Microsoft’s cloud we go: Excelero hits Azure"
     excerpt: "Excelero has made its scale-out NVMe-oF array software available on Azure. NVMe-oF (NVMe-over-Fabric) extends a server’s PCIe/NVMe protocol across network links. This means a server application can access remote flash drives for block data at  RDMA speeds."
     publishedDateTime: 2021-04-29T14:48:00Z
@@ -237,6 +241,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "ThfCzn36PBHF2/ldPfl+0qe+7Mvqr8Smew2/646+skCZYgpOY8k3lPGdzR9473rJLQp1xLemYZFAwof9dZ+WpVGHu7EiUWMhZZaOVjWRUs6zatP8fTA+Y2ZL30JseQxgMa8BGEgNhrnI9n4Sc5FX7ZZEWjDdfIwlo56nRGPot9rbtZsSLBgDxv/0iLBIy6iw4UcYe7mB++hNIhOepLmyrpbuGhsNP+pUryWG/ErDPkXF5ZqDts0bL1w9Un4y3Qo5dmMfDOvW/nP+JRuCEQGHV2gOBvMFV0ZF68T0C4k3gKdPsBX+PBA6SppT1jjBVgM7a3ZEN0qCAj/tQlBljETHE9AomyLFJcLeavpCgxFOHlo=;aeg6KnYFFWd2yGmM0ABETQ=="
+secured: "n2prsBpjKJNsPuMjE4JliCCGShUVP7OU7THm39pneG8vzFUe/pRX0NLbyOBZS4wDVe+152p54jFzPiHN7eMrqAZEMaUxXyhnuYxOo+1/VEGilpZVia3e++k8sAD9VoY+2PKgPFaZ79WbWQqMuz2thjfsiu+kVSGCsRrGGJAjsnPTKZPX2zBuP85Zza2ojWkoyKoN2R9dJogYw5Eo5+nyuU46rtOStjV5C+9jsCh8uGcOUr7NoS9bBbF/FoPC2i5VHJDKm6t1L6N11CLPDLSxvhOA4p4BwP+FZM2FlEbGLC5iiDEMXyEWdhxIXQIpetStmwqA4uogOnTOQmURxylAXtrs2zyZzrsAjsl7D0A5Si0=;YDnJSErUH5sY9NJIy+eodg=="
 ---
 

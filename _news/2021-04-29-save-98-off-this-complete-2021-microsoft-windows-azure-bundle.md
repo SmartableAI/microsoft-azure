@@ -1,26 +1,30 @@
 ---
 category: news
-title: "First AWS, Now Microsoft Cloud, Who Is Next"
-excerpt: "Microsoft Cloud, Who Is Next By Ashwin Krishnan, SVP, Product Management and Strategy, HyTrust - So, there we have it—within a window of a month, the top two public cloud providers on the planet—AWS"
-publishedDateTime: 2021-02-19T04:20:00Z
-originalUrl: "https://www.cioreview.com/cxoinsight/first-aws-now-microsoft-cloud-who-is-next-nid-24091-cid-50.html"
-webUrl: "https://www.cioreview.com/cxoinsight/first-aws-now-microsoft-cloud-who-is-next-nid-24091-cid-50.html"
+title: "Save 98% off this Complete 2021 Microsoft, Windows, & Azure Bundle"
+excerpt: "Deliver smooth, secure, and configured process to users and organizations with 17 hands-on courses on the top 3 cloud service platforms with today's highlighted deal that includes certification."
+publishedDateTime: 2021-04-29T14:00:00Z
+originalUrl: "https://www.neowin.net/news/save-98-off-this-complete-2021-microsoft-windows--azure-bundle/"
+webUrl: "https://www.neowin.net/news/save-98-off-this-complete-2021-microsoft-windows--azure-bundle/"
 type: article
-quality: 22
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: Neowin
+  domain: neowin.net
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.cioreview.com/ck_images/9r7q4fDs.jpeg"
-    width: 300
-    height: 300
+  - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619700240_sale_232555_primary_image_story.jpg"
+    width: 760
+    height: 428
     isCached: true
 
 related:
@@ -55,20 +59,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/08/07/fec90584-c1b3-4417-91ff-0216a73113da/azurestackfijiracks.jpg"
         width: 824
         height: 517
-        isCached: true
-  - title: "Save 98% off this Complete 2021 Microsoft, Windows, & Azure Bundle"
-    excerpt: "Deliver smooth, secure, and configured process to users and organizations with 17 hands-on courses on the top 3 cloud service platforms with today's highlighted deal that includes certification."
-    publishedDateTime: 2021-04-29T14:00:00Z
-    webUrl: "https://www.neowin.net/news/save-98-off-this-complete-2021-microsoft-windows--azure-bundle/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 77
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619700240_sale_232555_primary_image_story.jpg"
-        width: 760
-        height: 428
         isCached: true
   - title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
     excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
@@ -335,6 +325,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 28
+  - title: "First AWS, Now Microsoft Cloud, Who Is Next"
+    excerpt: "Microsoft Cloud, Who Is Next By Ashwin Krishnan, SVP, Product Management and Strategy, HyTrust - So, there we have it—within a window of a month, the top two public cloud providers on the planet—AWS"
+    publishedDateTime: 2021-02-19T04:20:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/first-aws-now-microsoft-cloud-who-is-next-nid-24091-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 22
+    images:
+      - url: "https://www.cioreview.com/ck_images/9r7q4fDs.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "TekLink International Inc. Is Now A Microsoft Gold Partner For Azure Cloud Analytics And Data Analytics"
     excerpt: "TekLink International Inc., a respected leader in Cloud Platforms, Business and Financial Planning Solutions, and"
     publishedDateTime: 2020-08-07T18:00:00Z
@@ -425,6 +429,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "EbFIM5PPjmUhKcSuAWNwmxePVTKsP4Gh50/3M5RQ+QmNZDt/Rk+9rNbMAeJDm+M2sUpGVLPREuRGcW1Xhgez+ohJ6xsutjglSm2PL/entXrqMPfTF7EdZgF0FIFNeR8cPJBBUY5Lv/bA9dKJAv+AZq3kFNz7mNPvaG9/YjQv9C0z6b9bkbNljVd9mpztETR1ivSD8TtQRUVTwpMHmyN+JHjyBjgsmUCkq271JDD8qnMpbY/L8nntO/AfEaBXz0T21yhSSYPYbCdTEy1jeACfZPMCrcMSNXe87O74gJCHso8a3AIDRq4c/9I5SpqEy84zsd4chZQtPX293wHqc5j/X2ixSPF5PLwhYlkVyji/OgY=;1XZiGb0TBZwoJNNiIlJ16Q=="
+secured: "cGS+clhNPoJWAVlQ8p6/jO7hxM+CA5MXboDiEjHWchQ/aOXulzzCVT9NsR8+dcdRIoE26iV6WGPBMvyRDMOD6n5Qn3CjEkrYtdVGpXtlF0LDHf2nsZ4aD9LvvZ9wCX0CBULpzvZ4EQg6JSNi76N7VELBR6rsptzmsAsGCcWf9c7GK2Yf8DVOjM6VXmCVV/BQv82MJh52JwTeRi3TeFGa1Q9KoNLVTkVwWdyEbvObSSH2VFREaDRJo9C7Zuqsq30kmxkJ1QwJrfgxWADMfXBulVyjGdAdNzE2SM+sHv5/Xn7xPI5KmdG20D48HwbefY1KpecKozDaz6MIUUMi7doR04TyU906VsxCcGv0r4UOMKU=;ik85tB4qnLYcnIBhTge0qg=="
 ---
 
