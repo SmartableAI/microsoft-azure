@@ -1,29 +1,26 @@
 ---
 category: news
-title: "FileCoin: Decentralized Cloud Storage Competitor To AWS, Microsoft Azure, And Google Cloud"
-excerpt: "I provide three valuation metrics for FileCoin which illustrate that it could see an intense growth period comparable to Bitcoin. Despite its large recent run-up, the Coin looks inexpensive."
-publishedDateTime: 2021-04-17T06:29:00Z
-originalUrl: "https://seekingalpha.com/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
-webUrl: "https://seekingalpha.com/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
-ampWebUrl: "https://seekingalpha.com/amp/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
-cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
+title: "Microsoft buys Linux distribution maker Kinvolk to boost Azure cloud services"
+excerpt: "Microsoft Corp. has bought Kinvolk GmbH, the Berlin-based startup behind a specialized Linux distribution used to power software container environments on Azure and other public clouds. The technology giant announced the deal today in a post on its Azure blog."
+publishedDateTime: 2021-04-29T20:49:00Z
+originalUrl: "https://siliconangle.com/2021/04/29/microsoft-buys-linux-distribution-maker-kinvolk-boost-azure-cloud-services/"
+webUrl: "https://siliconangle.com/2021/04/29/microsoft-buys-linux-distribution-maker-kinvolk-boost-azure-cloud-services/"
 type: article
-quality: 64
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Azure
-  - Storage
 
 images:
-  - url: "https://static.seekingalpha.com/uploads/2021/1/18/510561-1610992717787594_origin.png"
-    width: 704
-    height: 552
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/microsoft2-1-1.png"
+    width: 718
+    height: 400
     isCached: true
 
 related:
@@ -40,6 +37,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "FileCoin: Decentralized Cloud Storage Competitor To AWS, Microsoft Azure, And Google Cloud"
+    excerpt: "I provide three valuation metrics for FileCoin which illustrate that it could see an intense growth period comparable to Bitcoin. Despite its large recent run-up, the Coin looks inexpensive."
+    publishedDateTime: 2021-04-17T06:29:00Z
+    webUrl: "https://seekingalpha.com/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 64
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2021/1/18/510561-1610992717787594_origin.png"
+        width: 704
+        height: 552
         isCached: true
   - title: "Amdocs to Accelerate M1’s Digital Transformation on Microsoft Azure"
     excerpt: "Amdocs, a leading provider of software and services to communications and media companies, today announced that M1 Limited, a leading digital network operator in Singapore, has selected its Openet charging and data management products to accelerate the digital transformation programmes on Microsoft Azure."
@@ -134,20 +147,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
         width: 2084
         height: 1090
-        isCached: true
-  - title: "Microsoft buys Linux distribution maker Kinvolk to boost Azure cloud services"
-    excerpt: "Microsoft Corp. has bought Kinvolk GmbH, the Berlin-based startup behind a specialized Linux distribution used to power software container environments on Azure and other public clouds. The technology giant announced the deal today in a post on its Azure blog."
-    publishedDateTime: 2021-04-29T20:49:00Z
-    webUrl: "https://siliconangle.com/2021/04/29/microsoft-buys-linux-distribution-maker-kinvolk-boost-azure-cloud-services/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/microsoft2-1-1.png"
-        width: 718
-        height: 400
         isCached: true
   - title: "Download Microsoft AZ-303 Exam Dumps (2021) Azure Solutions Architect Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-303 exam with ITExamQuestions AZ-303 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-303 Microsoft Azure Architect Technologies Exam?"
@@ -273,6 +272,6 @@ related:
         height: 293
         isCached: true
 
-secured: "CWcb07z2LlwqXrsroU3m+TUfrG8pE9GLqkLX/xcBunTMwwoIrQR/CIyfl/HcJFm6u/psQMz3WnC4eQtwwPd+BfKEdD50TR0YTpNVZCRjGHIIPdEf9vVqxd0EPS5gmY5U1tN+Swq+Fn7xY+NydlUILFOJjA7hFwu8iq0AREJiP//gmkq+y3R9NBHxd/s7/R2R+7sgZeueu9jAB19ebvxxV4Zpt1JJnoGpIvhByHMWFuKlsoGFrPAlNFjrVGrJqMcoDxN55IeI9LCe1NklEaWR7csMbTIjB/PAOGBzVFZBYLBSvJpX5F2dmDD4KESQgyhDlQA312JPZ+Ama7Igz0WjoxrTzQWEH3RnvaMPA0QDPT0E7Q0eVbOvz6aLGtOFFKDnl5sAK6xlxU5IGL6q5Brr75M9BVZaYZGHKHm/Q/ETGybjvwel7tBncwSZk7XhI9TnY6X9Y6cYrD0jjsBxek2jPR20o8gC9/ZenbB8/ednulOiwkOujTktr+W26ELXFMljpuVpFKFZcLL8ANcDRD3miA==;vzvP9ibpzBZW8ASHB9g+Cg=="
+secured: "IbVk9xn8S3JszgraE+x4WLx+5V6Pua2N4HxaTfw8MfxCuHC8c7qqiyqlDBjyYQXi6Adezlc32J1BcTfpbQdNENkUVoFnK7K1I+oe7f49hKVir7R07+0yp/n5QKc3E31OG6DHwAmHIPtnnTWd6Bzt7LzAp7bEez4T0wQFoC9xaOlHz6GDbn0DW6AdMo9qrorqBuocObKHChrm4ORQPuAT3MS0chxmPL0lsSIplPTvz/swvNTk5YGNhIP89GaphhfsOdH14LZFLUx5XrjqkSOAWDbaDOAX9RnaL8EAMZU+59glAt/cO68LBuhRMzmjMANbh8k9CnlEU1izS7mbul1tzdwEzGfNnOL21xotGmDAxuM=;B/AmoTpkbETtTMXxsAxHUQ=="
 ---
 

@@ -134,6 +134,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Microsoft buys Linux distribution maker Kinvolk to boost Azure cloud services"
+    excerpt: "Microsoft Corp. has bought Kinvolk GmbH, the Berlin-based startup behind a specialized Linux distribution used to power software container environments on Azure and other public clouds. The technology giant announced the deal today in a post on its Azure blog."
+    publishedDateTime: 2021-04-29T20:49:00Z
+    webUrl: "https://siliconangle.com/2021/04/29/microsoft-buys-linux-distribution-maker-kinvolk-boost-azure-cloud-services/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/microsoft2-1-1.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Download Microsoft AZ-303 Exam Dumps (2021) Azure Solutions Architect Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-303 exam with ITExamQuestions AZ-303 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-303 Microsoft Azure Architect Technologies Exam?"
     publishedDateTime: 2021-04-20T04:15:00Z
@@ -258,6 +272,6 @@ related:
         height: 293
         isCached: true
 
-secured: "J4FMMXZtyYUwb+7nPpghJmK7X+ZSjF7BokHoZAizyKVhD1PONjSQdXBCFK6/m6sVsPplBwftHi74E0ktrsgwFWWZ2VVplSU3o/f9ytfN3MZyKlo6aoPZMTJW4EZUngSBLqrxqhSafCfwq7zcJQFNXaGLoZF/KbhMuxpCrtWCBHVE/s3zVJiB7YBgdpKf8oAahcltQAajc8PMOW5XPdmET5fa3Vllu9MdvcytTSWwJwVd+YNwf62o+fs7KgPTei63BrT7/RYwHbREJUVOZU5Ihb0hEXjagUnTZKzHaM6u4/F6A7L1caG25l3HAtSLo/84XHPHSe89T9YB54NYESuBEMj+mGvBKJ5A8QJEtlakV1w=;mhtwp6Tk2DA+LZSpel7R+w=="
+secured: "r6asE1MdPiTSFogzta1Zqgi5Wdml83O7E7r7V4idfKe/+0sw3hkIjdwmDW1+Sj4PUhNVO7Sm3IF8Uys+jwQ2wQBotqCIGc5S3NhPFxGRxdpvkxc8do9eQqpw8/jFvtCeXPkb6jF6CGB4fhOA7WzENRxRuMBlFIL3THDjrv00Pz6301r9VANjbQ0LqpWCymO7iBSU6YY/YzhuxWBW8s2oLJtf1I65Xs040QMQthv5uiapyG7qyYnNl2fWBtF1eQ2cWgO52FOetpL35wt/SUSeUXL75oImN2U88rvluQy7nAnGClBgyh9bvJ21yAKmM4lNTFRcYgJCMh1TU2KFCOPAVG0iNqYhUZLPa+YrF0UBkFM=;YDmdbgt1Rg25d90mbJewyw=="
 ---
 

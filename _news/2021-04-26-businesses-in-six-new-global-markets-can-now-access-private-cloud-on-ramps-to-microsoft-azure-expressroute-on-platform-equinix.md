@@ -138,6 +138,20 @@ related:
         width: 2084
         height: 1090
         isCached: true
+  - title: "Microsoft buys Linux distribution maker Kinvolk to boost Azure cloud services"
+    excerpt: "Microsoft Corp. has bought Kinvolk GmbH, the Berlin-based startup behind a specialized Linux distribution used to power software container environments on Azure and other public clouds. The technology giant announced the deal today in a post on its Azure blog."
+    publishedDateTime: 2021-04-29T20:49:00Z
+    webUrl: "https://siliconangle.com/2021/04/29/microsoft-buys-linux-distribution-maker-kinvolk-boost-azure-cloud-services/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/microsoft2-1-1.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Download Microsoft AZ-303 Exam Dumps (2021) Azure Solutions Architect Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-303 exam with ITExamQuestions AZ-303 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-303 Microsoft Azure Architect Technologies Exam?"
     publishedDateTime: 2021-04-20T04:15:00Z
