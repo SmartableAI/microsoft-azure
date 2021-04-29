@@ -63,6 +63,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Public preview: Azure Log Analytics in South India"
+    excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in South India."
+    publishedDateTime: 2021-04-28T23:14:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-norway-west-south-india-france-south/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "Xs0qa+Jn1q3r/RV8Gl5UsePN9GLxCux/dUd26l8K51qVrMMdUYab6ZNMBD+BvBCeHPTYji8+V7+NMRtEDxBMlUS+NTf7BG917DqkbMf6Z7nH6iGVSBPYTT5duELXGPT7FYKI8B0R1rjP5oIu/3EAaNk128jCsKSlUHG64cO2xod6pJO7jvdIhW8v45vL55uMdFpT3Cv9DTmlShwszEMZt647pk0FI9SApuFXXtB7bry5m82ZDxfVR2uR+OXsaJwz4E8nknC/9mn8VhCNVPMbFeUXyQQBMR8MJ677T05T8xDU4eMO3+ABEpImZ1xTEQqXAB3S8koUgcJX90bM8r3rYBSbGVZKgmBBW18aWdBs+Io=;j0GFQqRO4PAeAUomvbhUYw=="
 ---

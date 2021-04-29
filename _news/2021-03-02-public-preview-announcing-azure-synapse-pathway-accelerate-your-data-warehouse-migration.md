@@ -56,6 +56,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Public preview: Azure Log Analytics in South India"
+    excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in South India."
+    publishedDateTime: 2021-04-28T23:14:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-norway-west-south-india-france-south/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Public preview: Automatic key rotation of customer-managed keys for encrypting Azure managed disks"
     excerpt: "Azure Disk Storage now enables you to automatically update keys for encryption of your data. "
     publishedDateTime: 2021-03-02T17:00:11Z

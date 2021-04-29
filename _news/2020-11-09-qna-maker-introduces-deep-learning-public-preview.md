@@ -49,6 +49,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
+  - title: "Public preview: Application Insight in South India and West Central US "
+    excerpt: "Application Insight is now in public preview for customers to start collecting telemetry and analyzing their services for health in the following list of regions South India West Central US."
+    publishedDateTime: 2021-04-28T23:14:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-norway-west-south-india-and-france-south-and-west-central-us/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "zOnrrdxZ1Fh6ttcJiITl/4E8XccTuxXiJbxxhG7p1O8x4WrQVDPW2wrW4qBQbFi/diypmlyKB6/CTBBG4ZSy62T66upqnaldn0h9u5qnR6N3sdvUBDsXvOszORor5YXv9lD10P+KnGfjcPITvtvzWwrF//jySoFxJnwaoWN1quhnik6pxX0wz9rSYrTkU0KlJcK3ZFWmiHjTIEMXFGIR6Rg8cUdsqUUNV3soVNQB7GDsbdAEGrZ/Pux+giyTpCSNyKDs6xlX+ycRaAseGp9QSuZqNK1EpcKbNmRNRisxn3jlH6wcVI42zHnQL+i0rKFocUpMGGDB/NTzJMpn7e9xOqqIfkEw28m74AG6Lj4uKIw=;iOciD5JcsykOk2FIB5EoLg=="
 ---

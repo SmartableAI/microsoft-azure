@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-pur
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-powered-search-in-azure-synapse-analytics-workspaces/"
 type: article
 quality: 93
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
     excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2."
     publishedDateTime: 2021-02-03T17:00:03Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-australia-central-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Public preview: Azure Log Analytics in South India"
+    excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in South India."
+    publishedDateTime: 2021-04-28T23:14:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-norway-west-south-india-france-south/"
     type: article
     provider:
       name: Microsoft

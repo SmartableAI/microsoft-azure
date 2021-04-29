@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Public preview: Azure Log Analytics in Australia Central 2 "
-excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2."
-publishedDateTime: 2021-02-03T17:00:03Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-australia-central-2/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-australia-central-2/"
+title: "Public preview: Azure Log Analytics in South India"
+excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in South India."
+publishedDateTime: 2021-04-28T23:14:24Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-norway-west-south-india-france-south/"
+webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-norway-west-south-india-france-south/"
 type: article
 quality: 84
 heat: -1
@@ -55,10 +55,10 @@ related:
         width: 1920
         height: 1078
         isCached: true
-  - title: "Public preview: Azure Log Analytics in South India"
-    excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in South India."
-    publishedDateTime: 2021-04-28T23:14:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-norway-west-south-india-france-south/"
+  - title: "Public preview: Azure Log Analytics in Australia Central 2 "
+    excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2."
+    publishedDateTime: 2021-02-03T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-australia-central-2/"
     type: article
     provider:
       name: Microsoft
@@ -74,6 +74,6 @@ related:
       domain: microsoft.com
     quality: 53
 
-secured: "qPLN0Ks7CjSk8f5u+AiZt9U5LF5GdkZo7bPKnf8J3iTmNa7v/bDyOZCXjrksyqqaa8/+BshNTcsb1iAkS92hg7AdM3ikQ4TwZ1jHOQj6PYXa4rnBpkaZ0cYToDkxpF90l/CwTFQVnvTn4z9A3C2+SX+OyULx4uCQsKpOcs0afUBwEUhJin5VosQhfJq6Yhj7U2798N4ywvLuklUo+/CMUBkvAA/dU1CZ7HYlFzDtfN1Cc5PzeQJbCEP+mSD/v5lMi58VEYgsH1yhnxUU/QiZg2oZO9Nqq2tFDajCWa7Q/+9KP0+BaNWuLwoIda5PT6h6T36c28qh1yQKY4Ov/onMCWhakGCIBYMjQXdRfn7fv40=;i8ZEIGdq4/0L7MVeLWpz7g=="
+secured: "IA2+Up3X9kDt86j7x/H+mcQw5o781gnE2eIWK3nQpxBnvizfI9gER5US0z/Ab79vu4rh1gXekQBQrAari4XL17pWUhvmS33dN3esnrFqRk1a1jGdur3F2taKeXnpMjeduvQqSu9n/dBfoeRNmBkv3iIrR4PWx4J84cabX1JFaTl7FzfYrHaqkwNINcYLdqNnSUMefB2bxBLWtssf33hCLLwHEDvkn5OYyVfLXciUIhrwBBBtarYAFIbufW9gT3HocZmIfaHLCbw5n8iqM7EeCFIqtt9qyjkSes0ww+fQr84GngqxaY36u6EmlQ94jH+EDnA3Pc3cDkAxuxqfOURzWS2lzs3CAvnd4rwEM5T5BjY=;ZbigsaIQz0ASZKOdbIg4xA=="
 ---
 

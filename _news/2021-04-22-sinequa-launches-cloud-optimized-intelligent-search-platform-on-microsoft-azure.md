@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Enreach buys Microsoft cloud specialist G2C"
-excerpt: "Enreach announced a new acquisition in the Netherlands, the Microsoft cloud service provider Go2the.cloud (G2C). Established in 2016, G2C is a high-growth enabler of digital transformation services through the provisioning, reselling and managing of ..."
-publishedDateTime: 2021-04-23T09:19:00Z
-originalUrl: "https://www.telecompaper.com/news/enreach-buys-microsoft-cloud-specialist-g2c--1380630"
-webUrl: "https://www.telecompaper.com/news/enreach-buys-microsoft-cloud-specialist-g2c--1380630"
+title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+excerpt: "NEW YORK & PARIS--(BUSINESS WIRE)--Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take ..."
+publishedDateTime: 2021-04-22T06:42:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
 type: article
-quality: 2
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -196,16 +196,16 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "NEW YORK & PARIS--(BUSINESS WIRE)--Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take ..."
-    publishedDateTime: 2021-04-22T06:42:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+  - title: "Enreach buys Microsoft cloud specialist G2C"
+    excerpt: "Enreach announced a new acquisition in the Netherlands, the Microsoft cloud service provider Go2the.cloud (G2C). Established in 2016, G2C is a high-growth enabler of digital transformation services through the provisioning, reselling and managing of ..."
+    publishedDateTime: 2021-04-23T09:19:00Z
+    webUrl: "https://www.telecompaper.com/news/enreach-buys-microsoft-cloud-specialist-g2c--1380630"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 13
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 2
 
-secured: "QS7TAd5HwOAWlt8Ue/4/bmgwNnygPp83wrHfCY6rxJAKdH4F1b8I4v/RodEc1zpeH5xyPuybtpqsVGVYkIDa2gkRQVs5fSreIUlU1lSwLls7jhk51LQ4yALvzpMwJFct0k4jyikix4P1QB01ug3iaiaBHpDknOUzc5S89ST5IE20tw+liBFqMZfPuWFPl1BQ7rtnxTgT6aRoeLZpAODX7ao0rXYWwtPSsXuE/9j2vUgVG869SqFliTwLSvILC3FyJAq93pHZn7WIt8voMsmcepEL347/hYV9A5QV3ENqWLg0fV29qDwVqyeCcP+VVLKwz3J5weBBs8dKFvwK8I5XbYGMQUGTEkTzHxq0NkcALS4=;/hmaGp6UdTx/F4KayOhHPA=="
+secured: "U9kf/TCPWZPHl2H7H3kZXwSHh+sV5PovCijEheD4FqXz+jSEYYOoLeV/Uoge5tZK9rgKiBdZOiF91LNCKWRxJ4RI9hAKPQ8Hahjv+FzoDebNnRNihVwPHA0kzf3VdOhGUU8yjyHbXJjAxnqGHoTaBaLRrjgdXNQ+kN5+M9mncBgfFMMGMMu1T12t7ZLmv0aeKY2Kc4Vc2YznR7G4o6QyJHc9VNkxc2Vu7TEA0KzwuaOT972419ViSXDKYOoowXNCRxbDCGPKpE9ZolPjoKjy7RyaHQgI8QVOIIvuqcqsm5m5krLZInH1/uTwSebNtjbByEgxPQIRir82AkfoURX5zVL1CjWSCCBNLXDv7jqAvGU=;TDbSz4/EyH3PoqtECmnVxw=="
 ---
 
