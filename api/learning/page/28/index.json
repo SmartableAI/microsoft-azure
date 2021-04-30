@@ -4,49 +4,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-ai-strategy-in-manufacturing.md",
-      "title": "Define an AI strategy to create business value in manufacturing",
-      "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in manufacturing that creates business value, with INSEAD and Microsoft.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-manufacturing/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-manufacturing/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 789,
-        "average": 4.756654
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-manufacturing-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-ai-strategy-in-retail.md",
       "title": "Define an AI strategy to create business value in retail",
       "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in retail that creates business value, with INSEAD and Microsoft.",
@@ -523,49 +480,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-analyze-results-kql.md",
-      "title": "Analyze query results using KQL",
-      "excerpt": "Analyze query results using KQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-results-kql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-results-kusto-query-language/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 200,
-        "average": 4.775
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-app-and-infra-migration-and-modernization.md",
       "title": "Applications and infrastructure migration and modernization",
       "excerpt": "Every modern business is powered by applications, such as internal procurement applications, Customer Relationship Management (CRM) systems, retail websites, and third-party products. As your business prepares for digital transformation, it’s important to begin modernizing and migrating your applications and infrastructure to the cloud. Azure is a key component of that process. You can choose to migrate, modernize, or build cloud native solutions depending on your business goals and how you assess your application portfolio. This is a strategic decision. You’ll be able to choose the path that’s right for your organization.",
@@ -573,8 +487,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-and-infra-migration-and-modernization/",
       "length": "PT43M",
       "ratings": {
-        "count": 5405,
-        "average": 4.745236
+        "count": 5407,
+        "average": 4.7451453
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -700,8 +614,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/arm-template-test/",
       "length": "PT37M",
       "ratings": {
-        "count": 35,
-        "average": 4.7714286
+        "count": 36,
+        "average": 4.7777777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1059,8 +973,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-devops-github-apps/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 274,
-        "average": 4.80292
+        "count": 275,
+        "average": 4.8036366
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1181,8 +1095,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/securely-provision-iot-devices-at-scale-with-device-provisioning-service/",
       "length": "PT57M",
       "ratings": {
-        "count": 299,
-        "average": 4.6354513
+        "count": 300,
+        "average": 4.636667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1257,6 +1171,93 @@
       "topics": [
         "Azure",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-diagnose-application-startup-errors-with-kudu-console.md",
+      "title": "Diagnose startup errors in your application using Kudu console",
+      "excerpt": "This module explains how to use kudu console to examine the application event log to identify the event that caused the error.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-diagnose-application-startup-errors-with-kudu-console/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-diagnose-application-startup-errors-with-kudu-console/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 20,
+        "average": 4.3
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-diagnose-application-startup-errors-with-kudu-console-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-in-action.md",
+      "title": "See Azure in action",
+      "excerpt": "The demos in this module provide an opportunity to see Azure in action.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-in-action/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-in-action/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 2170,
+        "average": 4.7046084
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-in-action-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Databases",
+        "Compute"
       ]
     }
   ],

@@ -4,15 +4,15 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-build-azure-vm-templates.md",
-      "title": "Build Azure Resource Manager templates",
-      "excerpt": "Learn how Resource Manager templates express your deployments as code, enabling you to deploy faster and more reliably.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-azure-vm-templates/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
-      "length": "PT37M",
+      "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
+      "title": "Capture Web Application Logs with App Service Diagnostics Logging",
+      "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-capture-application-logs-app-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
+      "length": "PT55M",
       "ratings": {
-        "count": 9311,
-        "average": 4.6684566
+        "count": 2356,
+        "average": 4.699066
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -30,12 +30,19 @@
         "Beginner"
       ],
       "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools",
         "Compute"
       ]
     },
@@ -210,8 +217,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/",
       "length": "PT42M",
       "ratings": {
-        "count": 2450,
-        "average": 4.714694
+        "count": 2451,
+        "average": 4.7148104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -670,8 +677,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 4936,
-        "average": 4.742707
+        "count": 4937,
+        "average": 4.7427588
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -759,8 +766,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
       "length": "PT44M",
       "ratings": {
-        "count": 2127,
-        "average": 4.5336156
+        "count": 2128,
+        "average": 4.5328946
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -980,8 +987,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
       "length": "PT43M",
       "ratings": {
-        "count": 1250,
-        "average": 4.6912
+        "count": 1251,
+        "average": 4.691447
       },
       "provider": {
         "name": "Microsoft Learn",
