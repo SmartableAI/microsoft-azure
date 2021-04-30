@@ -110,19 +110,16 @@ related:
         height: 456
         isCached: true
   - title: "DataStax Astra Is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "DataStax today announced the availability of DataStax Astra, the industry’s first serverless Database-as-a-Service (DBaaS) for Apache Cassandra ™ running in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-04-28T15:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-322eba2418aa4248a2da5519b3fd5bba"
+    excerpt: "Microsoft Azure customers worldwide now gain access to industry's first open multi-cloud serverless database \"Our overarching goal with Astra is to empower users to leverage the best capabilities ..."
+    publishedDateTime: 2021-04-28T15:22:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/b20840320/datastax-astra-is-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20840320"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20840320"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "IO, IO, off to Microsoft’s cloud we go: Excelero hits Azure"
     excerpt: "Excelero has made its scale-out NVMe-oF array software available on Azure. NVMe-oF (NVMe-over-Fabric) extends a server’s PCIe/NVMe protocol across network links. This means a server application can access remote flash drives for block data at  RDMA speeds."
     publishedDateTime: 2021-04-29T14:48:00Z
