@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-objec
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
 type: article
 quality: 99
-heat: 559
+heat: 579
 published: true
 
 provider:
@@ -158,6 +158,15 @@ related:
     excerpt: "Build immersive mixed reality experiences with Azure Remote Rendering, now generally available. Use it to enable high fidelity 3D visualization of objects and view models with a billion or more polygons without decimation. "
     publishedDateTime: 2021-03-02T17:00:25Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azureremoterenderingga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Sphere version 21.04 is now generally available"
+    excerpt: "The latest release of Azure Sphere brings enhancements and features to the OS, SDKs, and Visual Studio extensions."
+    publishedDateTime: 2021-04-29T23:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2104-is-now-available/"
     type: article
     provider:
       name: Microsoft

@@ -172,6 +172,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere version 21.04 is now generally available"
+    excerpt: "The latest release of Azure Sphere brings enhancements and features to the OS, SDKs, and Visual Studio extensions."
+    publishedDateTime: 2021-04-29T23:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2104-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Durable Functions v2.3 is now available "
     excerpt: "A new release of Durable Functions is out now. This release includes new functionality including long running timers, logging, and state management improvements."
     publishedDateTime: 2020-09-02T16:00:04Z

@@ -162,6 +162,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere version 21.04 is now generally available"
+    excerpt: "The latest release of Azure Sphere brings enhancements and features to the OS, SDKs, and Visual Studio extensions."
+    publishedDateTime: 2021-04-29T23:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2104-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "User-initiated failover for application fault resiliency in Azure SQL Managed Instance is now generally available"
     excerpt: "Test the impact of automatic failover operations during planned or unplanned events before deployment to production by manually initiating automatic failover"
     publishedDateTime: 2020-09-02T16:00:05Z
