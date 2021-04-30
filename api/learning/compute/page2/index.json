@@ -4,6 +4,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-virtual-machines.md",
+      "title": "Introduction to Azure virtual machines",
+      "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-virtual-machines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
+      "length": "PT1H7M",
+      "ratings": {
+        "count": 18629,
+        "average": 4.698749
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 67,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure.md",
       "title": "Architect secure infrastructure in Azure",
       "excerpt": "Learn about the tools and services available on Azure to ensure your resources are secure.",
@@ -329,7 +364,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 55,
+          "heat": 135,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
@@ -483,8 +518,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6253,
-            "average": 4.6254597
+            "count": 6255,
+            "average": 4.62526
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -520,8 +555,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5426,
-            "average": 4.663656
+            "count": 5427,
+            "average": 4.663718
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -646,8 +681,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 5862,
-            "average": 4.7072673
+            "count": 5863,
+            "average": 4.707317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -913,8 +948,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 3329,
-            "average": 4.734154
+            "count": 3330,
+            "average": 4.7342343
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1124,8 +1159,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
           "length": "PT31M",
           "ratings": {
-            "count": 582,
-            "average": 4.707904
+            "count": 583,
+            "average": 4.708405
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1167,8 +1202,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1766,
-            "average": 4.6727066
+            "count": 1767,
+            "average": 4.672892
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1210,8 +1245,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 1059,
-            "average": 4.6694994
+            "count": 1060,
+            "average": 4.6698112
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1253,8 +1288,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 520,
-            "average": 4.4884615
+            "count": 521,
+            "average": 4.4894433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1547,8 +1582,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 15320,
-        "average": 4.719974
+        "count": 15321,
+        "average": 4.719992
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1590,8 +1625,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 9793,
-        "average": 4.69662
+        "count": 9795,
+        "average": 4.69658
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1649,8 +1684,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/",
           "length": "PT22M",
           "ratings": {
-            "count": 432,
-            "average": 4.724537
+            "count": 433,
+            "average": 4.7228637
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3875,8 +3910,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "PT58M",
       "ratings": {
-        "count": 6253,
-        "average": 4.6254597
+        "count": 6255,
+        "average": 4.62526
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3935,8 +3970,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 6397,
-            "average": 4.700172
+            "count": 6399,
+            "average": 4.700266
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4020,8 +4055,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 5905,
-            "average": 4.7254868
+            "count": 5906,
+            "average": 4.7255335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4172,8 +4207,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "PT51M",
       "ratings": {
-        "count": 6967,
-        "average": 4.7113533
+        "count": 6970,
+        "average": 4.7114778
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4291,8 +4326,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
       "length": "PT36M",
       "ratings": {
-        "count": 2810,
-        "average": 4.6857653
+        "count": 2811,
+        "average": 4.685877
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4317,42 +4352,6 @@
         "Azure",
         "Compute",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-azure-vm-templates.md",
-      "title": "Build Azure Resource Manager templates",
-      "excerpt": "Learn how Resource Manager templates express your deployments as code, enabling you to deploy faster and more reliably.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-azure-vm-templates/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 9310,
-        "average": 4.6684213
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
       ]
     }
   ],
