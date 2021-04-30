@@ -166,6 +166,20 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Equinix Expands Private Network Access to Microsoft Azure via Azure ExpressRoute"
+    excerpt: "Equinix announced that it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix"
+    publishedDateTime: 2021-04-30T01:47:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/19650-equinix-expands-private-network-access-to-microsoft-azure-via-azure-expressroute"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 32
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/86fd78bde616b05a3c2c5f5efcd2123f.jpg?t=20210430_014141"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Updated Microsoft AZ-300 Exam Dumps (2021) Azure Solutions Architect Expert Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-300 exam with ITExamQuestions AZ-300 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-300 Microsoft Azure Architect Technologies exam?"
     publishedDateTime: 2021-04-20T22:39:00Z

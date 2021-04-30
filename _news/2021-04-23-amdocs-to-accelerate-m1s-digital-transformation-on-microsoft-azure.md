@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/amdocs-to-accelerate-m1s
 webUrl: "https://www.marketwatch.com/press-release/amdocs-to-accelerate-m1s-digital-transformation-on-microsoft-azure-2021-04-22"
 type: article
 quality: 77
-heat: 457
+heat: 477
 published: true
 
 provider:
@@ -165,6 +165,20 @@ related:
       - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
         width: 300
         height: 285
+        isCached: true
+  - title: "Equinix Expands Private Network Access to Microsoft Azure via Azure ExpressRoute"
+    excerpt: "Equinix announced that it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix"
+    publishedDateTime: 2021-04-30T01:47:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/19650-equinix-expands-private-network-access-to-microsoft-azure-via-azure-expressroute"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 32
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/86fd78bde616b05a3c2c5f5efcd2123f.jpg?t=20210430_014141"
+        width: 752
+        height: 408
         isCached: true
   - title: "Updated Microsoft AZ-300 Exam Dumps (2021) Azure Solutions Architect Expert Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-300 exam with ITExamQuestions AZ-300 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-300 Microsoft Azure Architect Technologies exam?"
