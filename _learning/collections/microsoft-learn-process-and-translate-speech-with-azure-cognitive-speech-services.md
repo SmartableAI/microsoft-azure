@@ -4,7 +4,7 @@ excerpt: "Learn how to implement the Speech services found in Azure Cognitive Se
 type: collection
 price: Free
 length: PT1H3M
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -19,7 +19,6 @@ levels:
 
 items:
   - courses/microsoft-learn-transcribe-speech-input-text
-  - courses/microsoft-learn-synthesize-text-input-speech
   - courses/microsoft-learn-translate-speech-speech-service
 
 topics:
