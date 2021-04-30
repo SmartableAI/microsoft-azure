@@ -8,7 +8,7 @@ length: PT35M
 ratings:
   count: 3602
   average: 4.8248196
-heat: 53
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 324
     isCached: true
 
-secured: "KLZoWO2aWNWhlm7DOV5lhRHdNb5HZ0vClZ0yZDLpuy1VKEn5vPRF8o/ryFHQTAo6Rz5Xm30GF/8penMaCLm47kDdhXzwoP9XzNUMSVTLjDBeT9MutGBOU0B8AZjzc5nWNB506/g2uiEjr0knHsSiPUcRi3bBwAwPFVdHh9cfdJEsnf9obAWS+0EiCy9AUQQoVedJpSFzA+/5SaUrvhdUEfBDSdKlioqeZ650wVWhC8XKaBHlBjkuUsUE6dkozpPXmrv7g8qBXT2KDkcJD/qlo6vynKW9iCXGnjVeSImCsqHH+RgqGjMJqH7F8qEnJMmHVi5JH3qcZBDjKxo0u+4gNbJDdgxyU45+zSBG6pcgocVaWVesECYZPbPNSHZxGuzSJ4mqxu/bL2ZLD8sGQwf6QRXeQRo0nJ/DV8MI9EavpRo=;t2W3b/fsMWet6XYFAJXEQw=="
+secured: "orCZXJ08eQ43rd1yoLvDqXhg9YSlq+9+JDVyucV/XIsLE5fzmBlsB9JBchSjQqs4f8VZe2wf2WQQNU1/i3oi5A/qVKoEsmBKXYiO98FwDR5svsoVPAPq78GTSyR5YT8vyjryX8F+Etas+yBWloogJV3sSV605+u2q7HHA9LbW5GxYQ/UextdK0sB1dQWUoR1tXoPjPzHwtvLYXdngF9JRBEoSEbNPuq9gBxuQ9r/Mers0rC6U3TxX7tGzau1wGKcdTSVnaIxc49B4DYjGtNsM2/UQty55cpurlYzrBlP6dgv9IMOuFfacsAk7/cIZrK8dtst0THbX2BKIROhDxxjymHR8UIi+cTzeTZvHDwFqp8oHIbTcXcN0pbLt8KfzFP9qkGcOqA4FLoz+zaJoa++TjHPdXj1B5z6o57QUzHgyNc=;+3qJCnPPTufAhkLfIQcc3A=="
 ---
 
