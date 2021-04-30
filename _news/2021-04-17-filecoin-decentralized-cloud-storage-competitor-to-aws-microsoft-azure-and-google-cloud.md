@@ -105,50 +105,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Microsoft Cloud Earns Big With $17 Billion In Revenue For Q3"
-    excerpt: "Microsoft reported that its Microsoft Cloud solution has been a big earner for the tech giant in the third quarter ending March 21."
-    publishedDateTime: 2021-04-27T22:04:00Z
-    webUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/"
-    ampWebUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/microsoft-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Dassian Announces Collaboration with Microsoft Azure Government"
-    excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
-    publishedDateTime: 2021-04-26T23:19:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
-        width: 2084
-        height: 1090
-        isCached: true
-  - title: "Microsoft buys Linux distribution maker Kinvolk to boost Azure cloud services"
-    excerpt: "Microsoft Corp. has bought Kinvolk GmbH, the Berlin-based startup behind a specialized Linux distribution used to power software container environments on Azure and other public clouds. The technology giant announced the deal today in a post on its Azure blog."
-    publishedDateTime: 2021-04-29T20:49:00Z
-    webUrl: "https://siliconangle.com/2021/04/29/microsoft-buys-linux-distribution-maker-kinvolk-boost-azure-cloud-services/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/microsoft2-1-1.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "Download Microsoft AZ-303 Exam Dumps (2021) Azure Solutions Architect Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-303 exam with ITExamQuestions AZ-303 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-303 Microsoft Azure Architect Technologies Exam?"
     publishedDateTime: 2021-04-20T04:15:00Z

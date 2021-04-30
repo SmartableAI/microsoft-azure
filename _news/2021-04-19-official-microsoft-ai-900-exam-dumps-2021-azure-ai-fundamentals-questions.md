@@ -41,36 +41,6 @@ related:
         width: 630
         height: 352
         isCached: true
-  - title: "Microsoft offers new Azure specializations and scholarships through Coursera"
-    excerpt: "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well."
-    publishedDateTime: 2021-04-26T17:28:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 74
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619469968_microsoft_coursera_logo_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "Coursera and Microsoft launch Microsoft Azure Fundamentals specialization"
-    excerpt: "Coursera has announced a new Microsoft Azure Fundamentals Specialization in collaboration with Microsoft to help learners kickstart their career in cloud Coursera has announced a collaboration with Microsoft to launch a new Microsoft Azure Fundamentals ..."
-    publishedDateTime: 2021-04-27T10:55:00Z
-    webUrl: "https://www.dqindia.com/coursera-microsoft-launch-microsoft-azure-fundamentals-specialization/"
-    ampWebUrl: "https://www.dqindia.com/coursera-microsoft-launch-microsoft-azure-fundamentals-specialization/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/coursera-microsoft-launch-microsoft-azure-fundamentals-specialization/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 56
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/enable-digital-transformation-with-a-cloud-first-strategy-man-pointing-on-tab_opt.jpg"
-        width: 750
-        height: 454
-        isCached: true
 
 secured: "hgPebk29DjwrchaNx1TYZS6s2mWniHHsa1uSLfY/2DWQraGx9HOWDIbC5gGu3792dTQkGocfGZCvYuao+Vdfb7lfvRYMuoL7i/CwWyuJl6XnHiGUgofruq/iAfvSUGfHqgTBsA60Pq7Emt8AvcuoVNx4jciO/sRDtl8SnJCa3zbBWXxleshxY9QI/J09AOn38JHYJQV5kYkLlzw8pw3sNklr3eoFpa7GdslhfkPiW4nJ3KoaVK7WCoJKooU4ubIBBbaZu2fxgoBGn+mcerJjuLDdbyHkv4tpTxit/iXOjZ1EWqLVmkRQUOnFdTZbPXJgvLJcJcJ2CjtD664jdXBRt+MR6FfBgUKhhVUimQC7JMk=;/AbRzOP26VwctQCQIwn+aQ=="
 ---
