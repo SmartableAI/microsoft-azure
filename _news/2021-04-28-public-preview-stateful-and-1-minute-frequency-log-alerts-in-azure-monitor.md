@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-stateful-
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-stateful-and-1minute-frequency-log-alerts-in-azure-monitor/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

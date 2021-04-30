@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3616605/using-pulumi-30-to-manage-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3616605/using-pulumi-30-to-manage-azure-infrastructure.amp.html"
 type: article
 quality: 97
-heat: 97
+heat: 99
 published: true
 
 provider:

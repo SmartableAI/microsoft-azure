@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/easily-build-realtime-apps-with-w
 webUrl: "https://azure.microsoft.com/blog/easily-build-realtime-apps-with-websockets-and-azure-web-pubsub-now-in-preview/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:
