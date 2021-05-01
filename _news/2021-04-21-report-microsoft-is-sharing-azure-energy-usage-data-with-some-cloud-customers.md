@@ -159,19 +159,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Sinequa launches cloud optimized intelligent search platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of intelligent enterprise search technology, has announced the launch of Sinequa for Microsoft Azure, enabling organizations that use Azure to now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
-    publishedDateTime: 2021-04-20T15:43:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=146406"
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
+    publishedDateTime: 2021-04-20T12:57:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
     type: article
     provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
+      name: Associated Press
+      domain: apnews.com
     quality: 33
     images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Ally partners with Microsoft Azure to prepare quantum computing-ready workforce"
     excerpt: "US fintech Ally Financial will collaborate with Microsoft on Azure Quantum solutions to develop quantum computing skills and explore how new algorithms and future quantum hardware could improve customer experience."
