@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3617113/microsoft-previews-azure-s
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html"
 type: article
 quality: 97
-heat: 237
+heat: 257
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/microsoft2-1-1.png"
         width: 718
         height: 400
+        isCached: true
+  - title: "Options Achieves Microsoft Cloud Service Provider Status in Canada"
+    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets , has been awarded Microsoft Cloud Service Provider Status in Canada. This achievement marks the latest milestone in Options’ continued efforts to offer a fully cloud-agnostic platform to all customers globally."
+    publishedDateTime: 2021-04-28T11:45:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-canada-europe-576dd20e0cfb463b843b71766f871e93"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "ZRvXLOlEcNDYjT7Rjm3cV+DtL8YbIam4JMMERn/z3H8XXPAkEY8RGb9c+Ks/gqiOptOdZssepjtt2foOfyqHdaXX99Byq6aJ0VLXGo02/t2jy30WV2XN28dqktPmFCNjTWYybi7pMBM/gdJ97dB7BZUvTPluKug5FXp4bzDiU6UAtnl/qZTaJKx62B8zHQY6u3RzUIdXOmNbw1DJSPXLHDT9bLWGxsGigUbjp/QA2NAh6gVKi+l6PQ0VJUaG49MviRL/wqnjQLUDMjVyKOlhByPQq4w/M6kNHisG1aFOlqTAWT2H8b/hVdxN8imZ3w5p4JJsggQTPLUHAPWYCpErWBB53s/wg/DQHX8ual48QRg=;g/MvzUlMR6z96msoQZr7bw=="

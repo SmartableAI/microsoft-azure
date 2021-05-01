@@ -123,7 +123,21 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Options Achieves Microsoft Cloud Service Provider Status in Canada"
+    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets , has been awarded Microsoft Cloud Service Provider Status in Canada. This achievement marks the latest milestone in Options’ continued efforts to offer a fully cloud-agnostic platform to all customers globally."
+    publishedDateTime: 2021-04-28T11:45:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-canada-europe-576dd20e0cfb463b843b71766f871e93"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "7X/Qz6xjN1bdDYTaFJJCdOlgOn6E+vTr0Js7gQt7uY+AYK4WXoVXkmmcHk0QDu8Q9Ere6eGQSYnvB+kzNb7cMjKujZJC016tuhMk0Ys97BRe5WgTV3CvKU523Zfp6DWmfZg0daACLIGFd4pCpKPmLb9QbO1DQcSqj+3oqlgI4bFUhxT602XWt4xD9kRp8+KGDCuLwOX7H7cXml4zEi/aaTTIoDXx5oyXbNiOWYYVexzw4W6crIl9f4TnYkkSAkrWu2eOcQXxZTNIKXU2yak5fQO+4ac/Dls0CSyBj6UrubwN70Noo5ZONy7AFVcigdLKg+0qYQWaI2J2+VydBKTBx8+Gxo7PPEfeucY80iysmys=;vFpuEvpnwNa7uPFtDEyhkQ=="
+secured: "Moeg812tqAQBWiIQpDQhhIdIj15tc1xTnYqD2fQ6U5GN3m/3mrTqwGqKJK5nwNVxRUMnsffKMKJHPE++ayT10r37p3u5xV039dmfOFZ4FTeYxhe0CEqSSxZu/12GQwHd1YZxxRt6RYVxEVsjwFPUTRaDG/o8sxTKqhU2vdYhLVhgvWatJeawTQi6oV7xsK4IlXTK0ctSk/Z6D/rnGDfE8iHv0KnNdVobj+tYisjB69UybtcompGIOR9fzB6yZkuieQsPsC4bk44ASqsQP9FZkElf97/qOK3M7T2NT0ABysNyAHnubtc7M4Ws4wCBIUWSE9r159OmrxkRARDdIqln9BuHu56r4qYpXIh4MuygWFQ=;uql9c1+p9NygjvJq89KoTw=="
 ---
 

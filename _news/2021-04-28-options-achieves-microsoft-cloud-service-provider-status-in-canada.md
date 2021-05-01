@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft Cloud Earns Big With $17 Billion In Revenue For Q3"
-excerpt: "Microsoft reported that its Microsoft Cloud solution has been a big earner for the tech giant in the third quarter ending March 21."
-publishedDateTime: 2021-04-27T22:04:00Z
-originalUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/"
-webUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/"
-ampWebUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/amp/"
-cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/amp/"
+title: "Options Achieves Microsoft Cloud Service Provider Status in Canada"
+excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets , has been awarded Microsoft Cloud Service Provider Status in Canada. This achievement marks the latest milestone in Options’ continued efforts to offer a fully cloud-agnostic platform to all customers globally."
+publishedDateTime: 2021-04-28T11:45:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-canada-europe-576dd20e0cfb463b843b71766f871e93"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-canada-europe-576dd20e0cfb463b843b71766f871e93"
 type: article
-quality: 42
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: pymnts.com
-  domain: pymnts.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/microsoft-457x274.jpg"
-    width: 457
-    height: 274
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -95,6 +93,22 @@ related:
         width: 750
         height: 454
         isCached: true
+  - title: "Microsoft Cloud Earns Big With $17 Billion In Revenue For Q3"
+    excerpt: "Microsoft reported that its Microsoft Cloud solution has been a big earner for the tech giant in the third quarter ending March 21."
+    publishedDateTime: 2021-04-27T22:04:00Z
+    webUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/"
+    ampWebUrl: "https://www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/earnings/2021/microsoft-cloud-earns-big-with-17-billion-in-revenue-for-q3/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/microsoft-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Dassian Announces Collaboration with Microsoft Azure Government"
     excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
     publishedDateTime: 2021-04-26T23:19:00Z
@@ -123,21 +137,7 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "Options Achieves Microsoft Cloud Service Provider Status in Canada"
-    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets , has been awarded Microsoft Cloud Service Provider Status in Canada. This achievement marks the latest milestone in Options’ continued efforts to offer a fully cloud-agnostic platform to all customers globally."
-    publishedDateTime: 2021-04-28T11:45:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-canada-europe-576dd20e0cfb463b843b71766f871e93"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
-secured: "KyVca7IOKPHyXDUbwukRG4iqAvRLv1bJslW8i0rx7VqUznER1vMHeH1Xux7VEX4ylKJpAnClXd2wj1aARmQqRXof+BlRpWXv40HFmLPrL3unAUzH5F14W/cR00c2wLYH1+v9SVvHR4k9wUSclxFyFw6r18o5FXoENHfjsKjyvDzpjfoQoCkxX3w0QjU68qVV0Ws+SDxEX1ZVqtMZUNrWQ6bb7KAz+uUnAz/N0rX8eeR7fJy0TiqlN4sElLeUIKiO2ztK7O4wU2QdTGD6HpuwvzV/ADDvkBsOuSunfE5leyMPZpaOL3VcP1iHkpd/2LOMIdbqj7IZGzPDJaq7VbZY7XWCyT5cu6fSKoM/Ej3gP4rK2qGLB/Ap6Pi98+fdixcRyssmyqVkqWWkouIxIhwzgkBYwQkIFexJSIrZbYbHjxkKLtkE+HK2VuFl1HzvA8zb/VNjkgmQ227HNiJ8VTZbYbkBAVqxiug18FqktefEUYIek2pBMILYf+Wov572HpaLsR14FQiTAeeFzdlVPtsbJA==;kKvYPW/Md8E5D0UZwg9uQw=="
+secured: "S5rx6atZXTYZ03BP+wPSGNQpznjdL7xfDaOSCHXJ27Uq6ho8WQzdEjOTn/iDjzJji72C7FLVDhh9Tu4PNPqPOZVsFGj31MmJU5mwVaYxdqiLMmmur5ES2POGraDxMmrn2HWJ02hfZ811HoD+NzXuqtc1erksDevZ9yEl04g/MLOqGNtBKC9NJbtLg6zOx4CUjisepHt1IsP1sYFmLmp4b0nzEzkV2Gq9nqYLcwIcgnpHzhkagJSt74yKT2N526htWibVAL4X2TlbBjJDTP0R5DZYokPn4Z9QppJsDH6PSD78VrD44zUyKFG7HsS3QnmfeVB+R+PFN/TwOsc3OSe6cSW1fggssX2RiD3WaMW6kHA=;rXNVnW24vHvDtGo/Jv+qNA=="
 ---
 
