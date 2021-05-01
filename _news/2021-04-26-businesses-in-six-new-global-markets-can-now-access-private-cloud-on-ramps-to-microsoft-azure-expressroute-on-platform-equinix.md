@@ -2,25 +2,29 @@
 category: news
 title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
 excerpt: "April 26, 2021 /PRNewswire/ -- Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ..."
-publishedDateTime: 2021-04-26T08:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-301276352.html"
-webUrl: "https://www.prnewswire.com/news-releases/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-301276352.html"
+publishedDateTime: 2021-04-26T12:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
+webUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
 type: article
-quality: 9
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg"
+    width: 400
+    height: 261
     isCached: true
 
 related:
@@ -37,6 +41,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
+    excerpt: "Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure Active Directory (Azure AD), enabling IT teams using Azure AD for identity management to rapidly integrate new applications into the Azure AD environment without sacrificing security."
+    publishedDateTime: 2021-04-20T13:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-ef7afbbddc5d712071466b9a0909da92"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 67
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "FileCoin: Decentralized Cloud Storage Competitor To AWS, Microsoft Azure, And Google Cloud"
     excerpt: "I provide three valuation metrics for FileCoin which illustrate that it could see an intense growth period comparable to Bitcoin. Despite its large recent run-up, the Coin looks inexpensive."
@@ -81,15 +99,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
-    excerpt: "April 20, 2021 (GLOBE NEWSWIRE) -- Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure ..."
-    publishedDateTime: 2021-04-20T15:18:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8218413/datawiza-automates-application-integration-for-microsoft-azure-active-directory"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 47
   - title: "Actual Microsoft DP-300 Exam Dumps [2021] Azure Database Administrator Associate Questions"
     excerpt: "The ultimate gateway to pass the Microsoft DP-300 exam with ITExamQuestions DP-300 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-300 Administering Relational Databases on Microsoft Azure Exam?"
     publishedDateTime: 2021-04-20T23:11:00Z
@@ -242,6 +251,6 @@ related:
         height: 293
         isCached: true
 
-secured: "Fp79tScCquEWyFDjuVAVYv+CgXe6xgsyUcJepTRuaDz25hlLxu7zYRYQQB2ywZzlbZouX2BW1FarYFwUf6TkQozyz00QVy9gxkt+pV2svqBCIT2PLnwiPudb3EVhUCZowiT38qmNftoLpRT2hI0o55qrS9mT4jl6M4YM2I+snTHtsbqKDCRkToutfMZXo/BUOBEv268SDLjw4rz9oBz9SJjRI+IX9deT9g5pDP3zOGp3oolH3iSMpecEjAhTO97cxRAReZ79hgzVxJ49PRcQC9AMBPfc8XwwmxHnNbqkFcATsudZngQTsXgzI+19ZDjn7Ns2iIQP2pekMiiJqqCQ12Zme4idKFM18z71DnIVXZc=;WhtR+eBebN0xqMvFgcH/eA=="
+secured: "ccUb3ofWxaS5QsaxUPhexPs6uH4GQy4KWH+8+zmBut62Rcdgs30JpzF7z3xBYZYwTPLQGlEentgXqtPzkKDpD/dT/oRKuUPtDarFvWq+tBHDTKFKQX7ZtmSoAwdrOvz0bcv0YIRdfe47F5QoFVe4s5eiMQTG+QW2V7jAwsmLPF0Pa4Bh1ZeLMTpaN0AtYOHAD3z4PlsUef9rLqazDLnfP+7ObQZV+omalguxrlt/e7/mYZtnjB7jZB8L3oN44yysyw+rznnyGl7ijLXAgcBrSoCB/xKIox9PVJ5RFKccjfEKZXv89O6yE4l2CXzY2UOfu89x79hWOqxVQsE3MqAR4NKDpdVVfjIZAyQOhi9oCeI=;lMNVMffFIRi+y6bcHYFIiw=="
 ---
 
