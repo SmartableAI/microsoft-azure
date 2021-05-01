@@ -4,15 +4,15 @@
   "page": 40,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-microservices-configuration-aspnet-core.md",
-      "title": "Implement feature flags in a cloud-native ASP.NET Core microservices app",
-      "excerpt": "This module guides you through implementing a feature flag in an ASP.NET Core microservices app using Azure App Configuration.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-configuration-aspnet-core/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-configuration-aspnet-core/",
-      "length": "PT52M",
+      "path": "_learning/courses/microsoft-learn-microservices-devops-aspnet-core.md",
+      "title": "Deploy a cloud-native ASP.NET Core microservice with GitHub Actions",
+      "excerpt": "Implement GitHub Actions to build a container image and deploy to Azure Kubernetes Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-devops-aspnet-core/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-devops-aspnet-core/",
+      "length": "PT54M",
       "ratings": {
-        "count": 11,
-        "average": 4.818182
+        "count": 49,
+        "average": 4.7959185
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,9 +32,9 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-configuration-aspnet-core-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-devops-aspnet-core-social.png",
+          "width": 642,
+          "height": 321,
           "isCached": true
         }
       ],
