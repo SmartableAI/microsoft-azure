@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
-excerpt: "April 26, 2021 /PRNewswire/ -- Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ..."
-publishedDateTime: 2021-04-26T12:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
-webUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
+excerpt: "Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure"
+publishedDateTime: 2021-04-26T12:01:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html"
 type: article
-quality: 49
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg"
-    width: 400
-    height: 261
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/d9/1d959af6-6d0e-5f96-ba18-7b61aae335fb/6059df86607f4.image.jpg?resize=800%2C522"
+    width: 800
+    height: 522
     isCached: true
 
 related:
@@ -246,6 +242,6 @@ related:
         height: 293
         isCached: true
 
-secured: "cMlzBqKDmkXWxKKfaROPlEKRCX4NKxCzMaTQqC1fDbnzfuQTndemPsoB3ReW/kXSlp52wb6/0XIliHyv6UTtCovD0ocs9Sz/zjeS7TmwRZutEzg99F/sv9FrIYV/KsFE61ppbvkqEVcuglOsUxH3Hw06MV9EW/PDl/uubBBmcdLoFrx0U3Sx4vDZdjI2kRTasE1kpoWxhxPgaog/EBibxLMWlTs3dpzkiR9Qhw+uo/5UbKYaXMX68yW+HVvrQaWEONedz7YaEKKlJgzgj1JBWmgNl4fgEcjBOqmC9+BUKMGe08hHv+94+vo8lRDyYYy3Rw01U9QJf5OVQfLaDzvF8UFgq/VyiayFVq7O2ZQxZg4=;Wyb5W4U0cg7k/Ry9y+lupA=="
+secured: "q6BQ9caJ8aS7LYR5vrqKvn22tskSP2W15J0UEBM/pyk5sR0xYf74GXl4hpl/57PxSNpIP4U7ZtfqQxn6iyrILc6XEZY0dhFxGLIWlnAL+wIZAZTJEiE8g7dKN+XbmUkkxOlzngeZSQKZbK4xF2r5/gy5rKH6U1CPr/+WsBZ54OeeKCBOvXi5KwVCwzxWbpOM1CvhQrk0i3xBoh+WBj9VsT1MJ0vXh+qb1hZy3imvpN5Y6jBcLuQyovY9jDb3nvErpKXfvbp4ckO9yRm+CXK44Za89jTJqZ+CQrsz6sIOfuCe8ztJjGchNeRoIzb/SwivSjezpOA3elQ9B6F40IZL/oBlWLz6DLS5leQi6EHy5AM=;6DE6zugwANdO6WJBl897NA=="
 ---
 
