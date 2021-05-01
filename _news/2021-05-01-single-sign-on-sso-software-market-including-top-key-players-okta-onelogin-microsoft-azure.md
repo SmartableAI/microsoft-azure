@@ -1,35 +1,45 @@
 ---
 category: news
-title: "Microsoft previews Azure service for building WebSocket applications"
-excerpt: "Azure Web PubSub allows developers to use WebSockets and a publish-subscribe pattern to build real-time web applications such as live monitoring dashboards, live maps, and live chat."
-publishedDateTime: 2021-04-30T19:07:00Z
-originalUrl: "https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.html"
-webUrl: "https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.html"
-ampWebUrl: "https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html"
+title: "Single Sign On (SSO) Software Market including top key players Okta, OneLogin, Microsoft Azure"
+excerpt: "Enquiry Before Purchase @ jcmarketresearch.com/report-details/1297781/enquiry Company Overview: Okta, OneLogin, Microsoft Azure, Rippling, RSA Security, JumpCloud, AWS, Idaptive, Ping Identity, miniOrange,"
+publishedDateTime: 2021-05-01T14:56:00Z
+originalUrl: "https://ksusentinel.com/2021/05/01/single-sign-on-sso-software-market-including-top-key-players-okta-onelogin-microsoft-azure/"
+webUrl: "https://ksusentinel.com/2021/05/01/single-sign-on-sso-software-market-including-top-key-players-okta-onelogin-microsoft-azure/"
 type: article
-quality: 97
-heat: 277
-published: true
+quality: 25
+heat: -1
+published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Sentinel
+  domain: ksusentinel.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.idgesg.net/images/article/2019/07/cloud-computing-1-100801494-large.jpg"
-    width: 1200
-    height: 800
+  - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Global-Single-Sign-On-SSO-Software-Market-780x470.jpg"
+    width: 780
+    height: 470
     isCached: true
 
 related:
+  - title: "Microsoft previews Azure service for building WebSocket applications"
+    excerpt: "Azure Web PubSub allows developers to use WebSockets and a publish-subscribe pattern to build real-time web applications such as live monitoring dashboards, live maps, and live chat."
+    publishedDateTime: 2021-04-30T19:07:00Z
+    webUrl: "https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.html"
+    ampWebUrl: "https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/07/cloud-computing-1-100801494-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Easily build real-time apps with WebSockets and Azure Web PubSub—now in preview"
     excerpt: "Today, we are announcing the preview of the Azure Web PubSub service for building real-time web applications with WebSockets. WebSocket is a standardized protocol that provides full-duplex communication. It is key to building efficient real-time web interactions and is supported by all major browsers"
     publishedDateTime: 2021-04-29T11:00:03Z
@@ -127,20 +137,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "Single Sign On (SSO) Software Market including top key players Okta, OneLogin, Microsoft Azure"
-    excerpt: "Enquiry Before Purchase @ jcmarketresearch.com/report-details/1297781/enquiry Company Overview: Okta, OneLogin, Microsoft Azure, Rippling, RSA Security, JumpCloud, AWS, Idaptive, Ping Identity, miniOrange,"
-    publishedDateTime: 2021-05-01T14:56:00Z
-    webUrl: "https://ksusentinel.com/2021/05/01/single-sign-on-sso-software-market-including-top-key-players-okta-onelogin-microsoft-azure/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 25
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Global-Single-Sign-On-SSO-Software-Market-780x470.jpg"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Options Achieves Microsoft Cloud Service Provider Status in Canada"
     excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets , has been awarded Microsoft Cloud Service Provider Status in Canada. This achievement marks the latest milestone in Options’ continued efforts to offer a fully cloud-agnostic platform to all customers globally."
     publishedDateTime: 2021-04-28T11:45:00Z
@@ -156,6 +152,6 @@ related:
         height: 450
         isCached: true
 
-secured: "ZRvXLOlEcNDYjT7Rjm3cV+DtL8YbIam4JMMERn/z3H8XXPAkEY8RGb9c+Ks/gqiOptOdZssepjtt2foOfyqHdaXX99Byq6aJ0VLXGo02/t2jy30WV2XN28dqktPmFCNjTWYybi7pMBM/gdJ97dB7BZUvTPluKug5FXp4bzDiU6UAtnl/qZTaJKx62B8zHQY6u3RzUIdXOmNbw1DJSPXLHDT9bLWGxsGigUbjp/QA2NAh6gVKi+l6PQ0VJUaG49MviRL/wqnjQLUDMjVyKOlhByPQq4w/M6kNHisG1aFOlqTAWT2H8b/hVdxN8imZ3w5p4JJsggQTPLUHAPWYCpErWBB53s/wg/DQHX8ual48QRg=;g/MvzUlMR6z96msoQZr7bw=="
+secured: "lvHiV8HsBKgitPMl2Ue8S9b5+nAYmEGSwjJbVntvCefUc6dfQvA+tYyTT6oTZHSerw0XrH2eOLN5zAO6GQ2QPUp5HZSVK4sHKCBqM/wLFuzxi72nRlLFRYm/YabslS8RQ68FuF0yrPZ6eSR6uro4FfQewZ7JCJMVHep9JA1/8IdiMaMuYxaRJCkWROnKfNWbDaRjoXHy9PoofWQKerIXOI+ZDLUOMMcanIwkSpf6b266wdfMxRiIKapsOnLYjLKzYnOcSWOb4H7HJWDx0SNesB3xW6PE1My/50CNR//2BAE9hbC9omSt/QtOvWZjDFEBj/Qz4DXEvAfV89SudI5ZgrZcGc+WwX8d5eKWr8nRLCY=;JI2LWdNn8Cfu/7PTRql5eg=="
 ---
 

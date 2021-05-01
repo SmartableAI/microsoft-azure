@@ -137,6 +137,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Single Sign On (SSO) Software Market including top key players Okta, OneLogin, Microsoft Azure"
+    excerpt: "Enquiry Before Purchase @ jcmarketresearch.com/report-details/1297781/enquiry Company Overview: Okta, OneLogin, Microsoft Azure, Rippling, RSA Security, JumpCloud, AWS, Idaptive, Ping Identity, miniOrange,"
+    publishedDateTime: 2021-05-01T14:56:00Z
+    webUrl: "https://ksusentinel.com/2021/05/01/single-sign-on-sso-software-market-including-top-key-players-okta-onelogin-microsoft-azure/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 25
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Global-Single-Sign-On-SSO-Software-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
 
 secured: "S5rx6atZXTYZ03BP+wPSGNQpznjdL7xfDaOSCHXJ27Uq6ho8WQzdEjOTn/iDjzJji72C7FLVDhh9Tu4PNPqPOZVsFGj31MmJU5mwVaYxdqiLMmmur5ES2POGraDxMmrn2HWJ02hfZ811HoD+NzXuqtc1erksDevZ9yEl04g/MLOqGNtBKC9NJbtLg6zOx4CUjisepHt1IsP1sYFmLmp4b0nzEzkV2Gq9nqYLcwIcgnpHzhkagJSt74yKT2N526htWibVAL4X2TlbBjJDTP0R5DZYokPn4Z9QppJsDH6PSD78VrD44zUyKFG7HsS3QnmfeVB+R+PFN/TwOsc3OSe6cSW1fggssX2RiD3WaMW6kHA=;rXNVnW24vHvDtGo/Jv+qNA=="
 ---

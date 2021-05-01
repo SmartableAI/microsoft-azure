@@ -129,6 +129,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Single Sign On (SSO) Software Market including top key players Okta, OneLogin, Microsoft Azure"
+    excerpt: "Enquiry Before Purchase @ jcmarketresearch.com/report-details/1297781/enquiry Company Overview: Okta, OneLogin, Microsoft Azure, Rippling, RSA Security, JumpCloud, AWS, Idaptive, Ping Identity, miniOrange,"
+    publishedDateTime: 2021-05-01T14:56:00Z
+    webUrl: "https://ksusentinel.com/2021/05/01/single-sign-on-sso-software-market-including-top-key-players-okta-onelogin-microsoft-azure/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 25
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Global-Single-Sign-On-SSO-Software-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
   - title: "Options Achieves Microsoft Cloud Service Provider Status in Canada"
     excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets , has been awarded Microsoft Cloud Service Provider Status in Canada. This achievement marks the latest milestone in Options’ continued efforts to offer a fully cloud-agnostic platform to all customers globally."
     publishedDateTime: 2021-04-28T11:45:00Z

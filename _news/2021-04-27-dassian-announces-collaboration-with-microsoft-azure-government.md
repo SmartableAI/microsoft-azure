@@ -123,6 +123,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Single Sign On (SSO) Software Market including top key players Okta, OneLogin, Microsoft Azure"
+    excerpt: "Enquiry Before Purchase @ jcmarketresearch.com/report-details/1297781/enquiry Company Overview: Okta, OneLogin, Microsoft Azure, Rippling, RSA Security, JumpCloud, AWS, Idaptive, Ping Identity, miniOrange,"
+    publishedDateTime: 2021-05-01T14:56:00Z
+    webUrl: "https://ksusentinel.com/2021/05/01/single-sign-on-sso-software-market-including-top-key-players-okta-onelogin-microsoft-azure/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 25
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Global-Single-Sign-On-SSO-Software-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
   - title: "Options Achieves Microsoft Cloud Service Provider Status in Canada"
     excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets , has been awarded Microsoft Cloud Service Provider Status in Canada. This achievement marks the latest milestone in Options’ continued efforts to offer a fully cloud-agnostic platform to all customers globally."
     publishedDateTime: 2021-04-28T11:45:00Z
@@ -138,6 +152,6 @@ related:
         height: 450
         isCached: true
 
-secured: "HfRCGv76y480I0rEL+/3liUuhGQAICnA1IFqkDEmzHJ1UhD7SNPB5wJw+6R7CS/JJ+h3o1e7VvIh1S8vI3jW03LzqymYPrQWhtP5egGIayJmrjFKebo8eVH7xmLJHwpmuDGieiu+arsCqu60WniePtAsVX53N7HofM59R8Pt7XFM6uKx1RQnOLlHi0XDvmF6s8/9/yRHbPkhtpl2Qtbu2ggmbyk5bPNBoi3OoyTnCmGYmWeSmk42XEHv08r9F66RvfEl9/E9vn2i/cHyzi9eluGg7rLi1SsBt+VE+jtCDaidhHEFVAeT7lRLdIrc0esbNbcyuPfFsGjmatmbOK7amnUVg8YLa/KjWC8FJP3GEJU=;PmbJ8gkYSAdXoN+Tqp+T0g=="
+secured: "snnusmqM0ILxe7wC6jvpg60BszzDr18x03NcGTK/DxncjKRsWXH1cgsvlCOqgTAi+c6AX1406GrsfVh1+4JxYJ7UpH0y67raJMR9rwlAueYG9dHrpTVhkJkkYz5j6kYfsMdOPcecKjvRVeIW0a536IlXKA08rn1aOvdrZRnu6miCIfEPJ4C3RKU6fjiYf/WZkfxQMR3ouTkEqa2miwHwm/Z++SP6AlCVa293fVi4i+UfAT64Km5iGivM64+eetYjHf9dOMX9VU0chVCGqbpH0cUaNx37ftVfHwqPhIRgYqjS15o+f8AK3T3LNvknAy7Y2GOK3oxTQIxbRfUv1ZMhfsGc5JyDWt0Vbb10VpIJvF4=;7qVhPA8QXwsqpOYEmhfezw=="
 ---
 
