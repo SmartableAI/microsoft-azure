@@ -4,41 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment.md",
-      "title": "Remotely monitor and service equipment with Connected Field Service for Dynamics 365 and Azure IoT",
-      "excerpt": "Configure IoT devices to remotely monitor customer equipment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-and-service-customer-equipment/",
-      "length": "PT1H10M",
-      "ratings": {
-        "count": 79,
-        "average": 4.708861
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-3-describe-core-solutions-and-management-tools-on-azure.md",
       "title": "Azure Fundamentals part 3: Describe core solutions and management tools on Azure",
       "excerpt": "Learn how to choose the best services from Azure to build and manage cloud solutions.",
@@ -69,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 8130,
-            "average": 4.776138
+            "count": 8134,
+            "average": 4.775879
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -112,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 6236,
-            "average": 4.7201734
+            "count": 6240,
+            "average": 4.720032
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -155,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 5562,
-            "average": 4.7542253
+            "count": 5564,
+            "average": 4.7543135
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -199,8 +164,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5222,
-            "average": 4.7512445
+            "count": 5226,
+            "average": 4.7510524
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -268,8 +233,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 6749,
-        "average": 4.7801156
+        "count": 6750,
+        "average": 4.779852
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -352,8 +317,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 5021,
-        "average": 4.7715592
+        "count": 5022,
+        "average": 4.771605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -422,8 +387,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2371,
-            "average": 4.698861
+            "count": 2372,
+            "average": 4.6985664
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -645,8 +610,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 8652,
-            "average": 4.663315
+            "count": 8653,
+            "average": 4.6630073
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1684,8 +1649,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-iot-central-app/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 840,
-            "average": 4.616667
+            "count": 841,
+            "average": 4.6171227
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2159,8 +2124,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/securely-provision-iot-devices-at-scale-with-device-provisioning-service/",
           "length": "PT57M",
           "ratings": {
-            "count": 301,
-            "average": 4.6245847
+            "count": 302,
+            "average": 4.625828
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2601,7 +2566,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -3393,8 +3358,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/securely-provision-iot-devices-at-scale-with-device-provisioning-service/",
       "length": "PT57M",
       "ratings": {
-        "count": 301,
-        "average": 4.6245847
+        "count": 302,
+        "average": 4.625828
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3514,6 +3479,51 @@
       "topics": [
         "Azure",
         "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-continuous-data-export-from-iot-central.md",
+      "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
+      "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from your previously completed \"Create your first Azure IoT Central app\" Learn module, where you controlled a refrigerated truck. Here, in this module, you add continuous data export to both Azure Blob storage and an event hub. You then build a Power BI app to read and display the telemetry data on a mobile phone.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-continuous-data-export-from-iot-central/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
+      "length": "PT1H9M",
+      "ratings": {
+        "count": 124,
+        "average": 4.564516
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Storage",
+        "Analytics"
       ]
     }
   ],
