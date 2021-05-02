@@ -1439,6 +1439,20 @@ related:
         width: 1181
         height: 665
         isCached: true
+  - title: "Master Windows, Azure and other Microsoft products with this discounted bundle of courses"
+    excerpt: "But you need to know more than the basics, The Complete 2021 Microsoft, Windows, & Azure Bundle is on sale for $69.99 right now, and it will take you in-depth on Windows, Azure and other Microsoft essentials for 2021. Upon subscribing, you’ll get 17 ..."
+    publishedDateTime: 2021-04-27T18:55:00Z
+    webUrl: "https://www.popsci.com/story/sponsored-post/2021-microsoft-windows-azure-bundle/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 28
+    images:
+      - url: "https://www.popsci.com/app/uploads/2021/04/27/sale_232555_article_image.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft doubles down on the telco cloud with Metaswitch acquisition"
     excerpt: "Don’t say you weren’t warned, telecoms industry. The tech big guns are trained on your home turf and they’re not afraid to splash the cash."
     publishedDateTime: 2020-05-15T10:06:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Modern VDI Solutions with Microsoft Azure"
-excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
-publishedDateTime: 2020-11-30T18:55:00Z
-originalUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
-webUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+title: "Master Windows, Azure and other Microsoft products with this discounted bundle of courses"
+excerpt: "But you need to know more than the basics, The Complete 2021 Microsoft, Windows, & Azure Bundle is on sale for $69.99 right now, and it will take you in-depth on Windows, Azure and other Microsoft essentials for 2021. Upon subscribing, you’ll get 17 ..."
+publishedDateTime: 2021-04-27T18:55:00Z
+originalUrl: "https://www.popsci.com/story/sponsored-post/2021-microsoft-windows-azure-bundle/"
+webUrl: "https://www.popsci.com/story/sponsored-post/2021-microsoft-windows-azure-bundle/"
 type: article
-quality: 37
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: CSOonline
-  domain: csoonline.com
+  name: Popular Science
+  domain: popsci.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
-    width: 300
-    height: 300
+  - url: "https://www.popsci.com/app/uploads/2021/04/27/sale_232555_article_image.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -1317,6 +1317,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Modern VDI Solutions with Microsoft Azure"
+    excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
+    publishedDateTime: 2020-11-30T18:55:00Z
+    webUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Alkira partners with Microsoft Azure"
     excerpt: "Microsoft Azure customers can access Alkira's solution in Azure, or in a multi-cloud network alongside other best-of-breed products in the Azure Marketplace. Benefitting from the underlying power ..."
     publishedDateTime: 2021-04-14T21:09:00Z
@@ -1434,20 +1448,6 @@ related:
       - url: "https://1.bp.blogspot.com/-GOsdS8LjLuo/XsD3DyJAy_I/AAAAAAABFHg/IYt3jKUFXFsMcqVGmuRmDTq4fCoHA5ssACK4BGAsYHg/d/Serverless_billing.png"
         width: 1181
         height: 665
-        isCached: true
-  - title: "Master Windows, Azure and other Microsoft products with this discounted bundle of courses"
-    excerpt: "But you need to know more than the basics, The Complete 2021 Microsoft, Windows, & Azure Bundle is on sale for $69.99 right now, and it will take you in-depth on Windows, Azure and other Microsoft essentials for 2021. Upon subscribing, you’ll get 17 ..."
-    publishedDateTime: 2021-04-27T18:55:00Z
-    webUrl: "https://www.popsci.com/story/sponsored-post/2021-microsoft-windows-azure-bundle/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 28
-    images:
-      - url: "https://www.popsci.com/app/uploads/2021/04/27/sale_232555_article_image.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Microsoft doubles down on the telco cloud with Metaswitch acquisition"
     excerpt: "Don’t say you weren’t warned, telecoms industry. The tech big guns are trained on your home turf and they’re not afraid to splash the cash."
@@ -1929,6 +1929,6 @@ related:
       domain: pr.com
     quality: 0
 
-secured: "7I15I1iWJZy4Q7BX9+QjvVwpzVsLLoqwD56WEsimy5HVQHwLr/Nl0mOKbZrCQZJ+bMB2D0jKwbKSn2heeCmdtM8TewWfRs/ZHm6YUERsmyjCnzz0PuVUuryVJc5Yx3yzzA5iullx/w91fFRxqoF4BYSqVpIbqzMYUjL4Q5aPe08VRmJp9GJQE7RqBfm1qOwilHC0rZl8iW5OJgzLj12bmS3+BGqZnzZbOzRgMZPRJAobBaFkaImiy8R5pPitTk3UTXq6OoRyvNmL/A51spvj/9JhXVVhzqveOZH9lnfoXIlATrBsWkXZ/LQ+/o8l1glJQUKDAms4f6sPaB3Jfd4T/3EBZUxOWbDOJJcDfftRalk=;SkFFH2lCpNHMcfUfmzk5Ag=="
+secured: "lp/g4+JXry1srMVN2sY5tWW5rGa6LgEAZiSLAXNYbZlTPB0hYpSrKjmILgRh5Rz85V399DZ8UqxAIOzd3B/VYAWTqwygMb1XL42QIkZaEu2lINZhRVfsvk8TgGrMNpuecw9Fg2vvnwJxIqU3KiTSAhzaJuCuW6POdobyzYKQKB270eUDTzCCV+dyBMUIzPJSi+q2qK6OMiwVndJAliwe8taY+XVahcdv2NB7idgqFVwHmtRb2p9VfDUJs48MO+8CtyZU10v8uuHcOX03zTpwpVnKISlDMZ2l88IO4vvHgPcU3R7B/7vjMIOuF9n5Zn4H3F+WrK60Xc4wca/y4m4sZqM6tJ4knGxefGK8aAX8fes=;Ijuitc0Kv+wEbsjGOCcyHw=="
 ---
 
