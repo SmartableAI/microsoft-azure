@@ -2,29 +2,25 @@
 category: news
 title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
 excerpt: "April 26, 2021 /PRNewswire/ -- Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ..."
-publishedDateTime: 2021-04-26T12:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
-webUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
+publishedDateTime: 2021-04-26T08:01:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-301276352.html"
+webUrl: "https://www.prnewswire.com/news-releases/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-301276352.html"
 type: article
-quality: 49
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg"
-    width: 400
-    height: 261
+  - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg?p=facebook"
+    width: 800
+    height: 419
     isCached: true
 
 related:
@@ -251,6 +247,6 @@ related:
         height: 293
         isCached: true
 
-secured: "y7C/pWVlW+tpMT9f5aUh+m5rl0pKYLlqQviqrwU/PxDyNwrAxcc9LUMcrYsR/fpZQnc9D/WGquHtYS7FI/o6638jQ1SLFEY41uJMyiSIczHNZ7TTbd9XcNfvlzmA5rZq+qosB9Hmi8t55PvnjBHmIKGGfvi4ZWvmjKUqeN6lQz6K6t6hS38DRkk0ltyHH7izxtiuE/FTzP2NBZLrRHY7jtMvRUpPFEInOIe/ctKvXYDdYD6jdQJLyOCBfeW9V0jAb3MobUWZ8tAXVG1wQNRiG4lucxr/1yilLAlEtiwUaojigAveIRvXrwQ6WK9U++x57IbJv4AV7+/JAg4uk7a+XRPwAsdw7sALmUZAmBjsyxM9N6w4xqJvw8N9QDHIflwrpz0KqI1y1PN8jPEolzlMdWqYX5JSyxYjcohHOS+LP85LMAUCiM9kB/3sCjSMR1yo0izVnA3T+7Okg8yno/NudsZyQkL72mpO6cOeMNc8mbtMRthllV8qEluUizV+53cxYZHtJ5Q65ihs7llGa93SLg==;BfYITq0IjksTzL1waQKNOA=="
+secured: "WCrD6UYlKz51xchc4Ss8WW4SxoZKz6pdm4HJRZhFBJsf7DgqR2B7aqjOqyloBGC+YV+SaDPy/MA+0xN/vU+uqbIIfhnfZXul5s3bTuv5EJBMhZKibCbQ3Uie2jsHsU+1KWNsNAt/HbwKg/iyYCaYAtU/CKah/Mf8wgIBalpLSrm2osi74F0V8D+4ooQX+TNv8vcdRds3RhBYnwXqBiCJ28i9Cb105tEmOUbACul2mjx/WeuVrNj+6J0Jtdju79pmq1p1Ygp80dmI6tlbmxZVnyR6d9GFI00gtvTcbX/U2mIMV1UOhX6aA65AX7H6rXdpqPXHI5Sx8JXngXBHrxwWDxlPy3CVZB0AF/jlGC6JjUA=;D2fiUqzUwgJXJ85HN1yOmg=="
 ---
 
