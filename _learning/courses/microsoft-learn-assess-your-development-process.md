@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT19M
 ratings:
-  count: 7714
-  average: 4.7115636
+  count: 7715
+  average: 4.711601
 heat: 56
 
 provider:
