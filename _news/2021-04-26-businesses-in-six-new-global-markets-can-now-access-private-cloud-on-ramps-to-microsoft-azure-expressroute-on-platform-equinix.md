@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
-excerpt: "April 26, 2021 /PRNewswire/ -- Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ..."
-publishedDateTime: 2021-04-26T08:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-301276352.html"
-webUrl: "https://www.prnewswire.com/news-releases/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-301276352.html"
+excerpt: "(Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix® to service customers in six new global markets,"
+publishedDateTime: 2021-04-26T14:01:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
+webUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
 type: article
-quality: 9
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg"
+    width: 400
+    height: 261
     isCached: true
 
 related:
@@ -247,6 +251,6 @@ related:
         height: 293
         isCached: true
 
-secured: "+9XlG3fdgF+O3p1BgK9FIG9yYKSmPntXT/6O9LRVt1uVeDYOJZ6nYv4rqArk5903qETrWQTuKimTUsovYheI0RfesDObSA5Ww9Ja848whO4ys2LNFkGcTAQXqxca4Esxcr/DNY88LHTVrFsJkQXX8dLcmTozhkSsbLdSIaX1XJGrdzF/1HcRhKLIKZOE4E8Y6riz93bT7uHhYwcpkTgpvh/vK8FvD+8a8AdJEIa1Yy2DqPqHunHSAwDjadeBnvqza1Ku/L5uYGRsGu9+RDUCzQ9u9QLkdavcWkfRxW7cu6vtViDhm3nZdgIYdVp8CtSYFIhb/gItlJV+xCL3r8ZURIX+Eq2uHijBHXIkHTcRVJg=;d/pelvykzx/7ZYcKiJlZsw=="
+secured: "qTbyNJY6xFUfw5Tab413ftSKpx8yJq5/SdOks5+OSZCwxpip0SDCcE5RgnnTDIRvW9JHcJs/qT9VtURZgPd45VFy6iT+R7nopdKaoRhRZv6IEjghPEgLXQOYwgB7hG/WUcVFUzeEWHkQ9Y7osWOm7C7iEtgQn9dLKmBQc7pEH69mW7yKuOQBbG5apkXa4bk4cwfn3WmTTokE20WiNpKvjr8zaZyAXQmbUCP9DyjSsxQBuqS6gM4fJq7sA9FJa1+QTi6mhzUkQb+oHmQiOhXDKi8Vx/H7DrAfJoFAuSdBnmDT1XYfoqyEyuW9DmeoyGWCDqwMopqtGBKTmHH9yobn3C3x0y2qM7OeqNPflCAVSoc=;quCvJPtURXUEW2N9U7Wu+w=="
 ---
 
