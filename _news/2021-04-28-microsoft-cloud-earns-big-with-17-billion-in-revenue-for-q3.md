@@ -137,6 +137,20 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "PrivaceraCloud Achieves SOC 2 Certification - Latest Offering Now Available on Microsoft Azure"
+    excerpt: "Privacera, the cloud data governance and security leader founded by the creators of Apache Ranger™, today announced its successful completion of System and"
+    publishedDateTime: 2021-05-03T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/privaceracloud-achieves-soc-2-certification---latest-offering-now-available-on-microsoft-azure/article_5a012156-2866-5744-b291-3625af67dd70.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 25
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/47/0472fcbb-ae66-5a5a-a147-d2684c6c7aa8/6059f57676f45.image.jpg?resize=630%2C630"
+        width: 630
+        height: 630
+        isCached: true
   - title: "Options Achieves Microsoft Cloud Service Provider Status in Canada"
     excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets , has been awarded Microsoft Cloud Service Provider Status in Canada. This achievement marks the latest milestone in Options’ continued efforts to offer a fully cloud-agnostic platform to all customers globally."
     publishedDateTime: 2021-04-28T11:45:00Z

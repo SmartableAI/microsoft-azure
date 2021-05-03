@@ -151,6 +151,20 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "PrivaceraCloud Achieves SOC 2 Certification - Latest Offering Now Available on Microsoft Azure"
+    excerpt: "Privacera, the cloud data governance and security leader founded by the creators of Apache Ranger™, today announced its successful completion of System and"
+    publishedDateTime: 2021-05-03T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/privaceracloud-achieves-soc-2-certification---latest-offering-now-available-on-microsoft-azure/article_5a012156-2866-5744-b291-3625af67dd70.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 25
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/47/0472fcbb-ae66-5a5a-a147-d2684c6c7aa8/6059f57676f45.image.jpg?resize=630%2C630"
+        width: 630
+        height: 630
+        isCached: true
 
 secured: "S5rx6atZXTYZ03BP+wPSGNQpznjdL7xfDaOSCHXJ27Uq6ho8WQzdEjOTn/iDjzJji72C7FLVDhh9Tu4PNPqPOZVsFGj31MmJU5mwVaYxdqiLMmmur5ES2POGraDxMmrn2HWJ02hfZ811HoD+NzXuqtc1erksDevZ9yEl04g/MLOqGNtBKC9NJbtLg6zOx4CUjisepHt1IsP1sYFmLmp4b0nzEzkV2Gq9nqYLcwIcgnpHzhkagJSt74yKT2N526htWibVAL4X2TlbBjJDTP0R5DZYokPn4Z9QppJsDH6PSD78VrD44zUyKFG7HsS3QnmfeVB+R+PFN/TwOsc3OSe6cSW1fggssX2RiD3WaMW6kHA=;rXNVnW24vHvDtGo/Jv+qNA=="
 ---

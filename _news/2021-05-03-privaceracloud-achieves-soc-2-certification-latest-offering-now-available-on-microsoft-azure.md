@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure Web PubSub service now in public preview"
-excerpt: "Easily build large-scale real-time messaging applications with WebSockets without  the need to manage backend infrastructure."
-publishedDateTime: 2021-04-29T18:00:03Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-web-pubsub-service-now-in-public-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-web-pubsub-service-now-in-public-preview/"
+title: "PrivaceraCloud Achieves SOC 2 Certification - Latest Offering Now Available on Microsoft Azure"
+excerpt: "Privacera, the cloud data governance and security leader founded by the creators of Apache Ranger™, today announced its successful completion of System and"
+publishedDateTime: 2021-05-03T13:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/privaceracloud-achieves-soc-2-certification---latest-offering-now-available-on-microsoft-azure/article_5a012156-2866-5744-b291-3625af67dd70.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/privaceracloud-achieves-soc-2-certification---latest-offering-now-available-on-microsoft-azure/article_5a012156-2866-5744-b291-3625af67dd70.html"
 type: article
-quality: 67
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/47/0472fcbb-ae66-5a5a-a147-d2684c6c7aa8/6059f57676f45.image.jpg?resize=630%2C630"
+    width: 630
+    height: 630
+    isCached: true
 
 related:
   - title: "Microsoft previews Azure service for building WebSocket applications"
@@ -66,6 +68,15 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft Azure Web PubSub service now in public preview"
+    excerpt: "Easily build large-scale real-time messaging applications with WebSockets without  the need to manage backend infrastructure."
+    publishedDateTime: 2021-04-29T18:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-web-pubsub-service-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Coursera and Microsoft launch Microsoft Azure Fundamentals specialization"
     excerpt: "Coursera has announced a new Microsoft Azure Fundamentals Specialization in collaboration with Microsoft to help learners kickstart their career in cloud Coursera has announced a collaboration with Microsoft to launch a new Microsoft Azure Fundamentals ..."
     publishedDateTime: 2021-04-27T10:55:00Z
@@ -140,20 +151,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "PrivaceraCloud Achieves SOC 2 Certification - Latest Offering Now Available on Microsoft Azure"
-    excerpt: "Privacera, the cloud data governance and security leader founded by the creators of Apache Ranger™, today announced its successful completion of System and"
-    publishedDateTime: 2021-05-03T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/privaceracloud-achieves-soc-2-certification---latest-offering-now-available-on-microsoft-azure/article_5a012156-2866-5744-b291-3625af67dd70.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 25
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/47/0472fcbb-ae66-5a5a-a147-d2684c6c7aa8/6059f57676f45.image.jpg?resize=630%2C630"
-        width: 630
-        height: 630
-        isCached: true
   - title: "Options Achieves Microsoft Cloud Service Provider Status in Canada"
     excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets , has been awarded Microsoft Cloud Service Provider Status in Canada. This achievement marks the latest milestone in Options’ continued efforts to offer a fully cloud-agnostic platform to all customers globally."
     publishedDateTime: 2021-04-28T11:45:00Z
@@ -169,6 +166,6 @@ related:
         height: 450
         isCached: true
 
-secured: "hrTp1I38Pap/6AuQfiy6Ml5dlAgsKx/wRBDFlM2Ok90GN97VB0i/KXtn6Ezcrmi84zQh3B6D1NrgkktoDQlcQX2xJtrOeOXXoEk8J0kGtIMREeGNIveXCH4OICn4siFoHxXAyacG13rFxQ9LjZXjQ/VeDUEy5htPoX5iMCOAcI5B5ymIuMGXhqD17K4rE/MVYpvYA0mZQoKkMj8FZg/IxnhR5BCJUBElml24M6NohMUk6RcD8Tm5pJjwqef2Hi5BXpN2I0CWpNKXm79q7Q840mTSWgdcm8C5nbgUPVFUgMZTttz+jf6EHR323CcsTYxzoHR97CTCt0qxvmrqOqowTIgcX38BAOTey96aridKhRc=;/vsNqvfbQXk9zeSN5aypTw=="
+secured: "zIfqWFfrywex+847NFiRS6G6iogpBG6hPIGB4NWgPeBKbKI+AQd1gVWqC3vDw4NyaKtHP0gWugpcQm2ps5fIkGP92wliDDTva3rvGTtNN1QLDSRb2RRlmUA1LBvZxKSSpwT2IBtL17siwQCuOZrklzODOAuNHVvq5dq23tnT1BB5RUXk78ojFTmHWNzEgq8qLmaGn2ZVsxUJ3/98ZCQkmMrdKMskzCJXpVoNy9gII39PDB8prfKv1W2aiDlc/cQ3qdtG9aGleiars8jFt7X6o9hbq/DnJf5YyUE4XtoAqBkB4xxFSP8VY9zsLROHb0Nbu23EK1GPHRNZscfl+XxzsCrWCizWi4FmbFtvnPgavUI=;g6Jrj9pl34iuPKqYp7i+kg=="
 ---
 

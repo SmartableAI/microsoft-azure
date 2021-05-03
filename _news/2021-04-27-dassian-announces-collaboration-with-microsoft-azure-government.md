@@ -137,6 +137,20 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "PrivaceraCloud Achieves SOC 2 Certification - Latest Offering Now Available on Microsoft Azure"
+    excerpt: "Privacera, the cloud data governance and security leader founded by the creators of Apache Ranger™, today announced its successful completion of System and"
+    publishedDateTime: 2021-05-03T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/privaceracloud-achieves-soc-2-certification---latest-offering-now-available-on-microsoft-azure/article_5a012156-2866-5744-b291-3625af67dd70.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 25
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/47/0472fcbb-ae66-5a5a-a147-d2684c6c7aa8/6059f57676f45.image.jpg?resize=630%2C630"
+        width: 630
+        height: 630
+        isCached: true
   - title: "Options Achieves Microsoft Cloud Service Provider Status in Canada"
     excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets , has been awarded Microsoft Cloud Service Provider Status in Canada. This achievement marks the latest milestone in Options’ continued efforts to offer a fully cloud-agnostic platform to all customers globally."
     publishedDateTime: 2021-04-28T11:45:00Z
@@ -152,6 +166,6 @@ related:
         height: 450
         isCached: true
 
-secured: "e0Mb7qgWiUnCJG6hijWFi9zom3nZ/Vd89xQ7bhinHolLfBS5/Uxl265TRqS1CBOxfllJZXHoYeWHx55CtFQ971SP8vc3Qw5q2g7j8xE9zg1AbwTMPXRkS+gg9SZSiFPk6Z9DngRl57OYKdSmREtZ53iLtm4i17hwpEL1XsGYG97OEglzlBbQJ5zupQMS2YbfgPcC4euU8yN6g2ljaRF4vKnbdsm4lurdZxWKA4J/pjIc+Vovg7T3rQrpqUsUMaYkaMHJ9iCnVc28EHts0E6FaKjr6F+/C7Dt6PXri1q3PNfoHWsyiRsmvkLk+gDeQFCw2vhhpXc1JK4owqvtH00WaHyEqyjWPKWw6Sx/hbsNatI=;AdekXvDWaMOLRvx1YeRI3g=="
+secured: "fqlQAtYh6GPIe0taU5HQSUa2IuIq1bSS+eZQZaGRM7i2sXI4DA5vELC09KfyoPIxlRlg7Wmz3lSyP4cYhOvXdq5cea2EVM93G4Z64CjGltF/fjt9uTwJiavYTE+LroCaRwZMV0ZP2hm06SpdZz8oUOANsxZ00nLHAO+juzdbj+mrRGw75esGR2/6NTA1rExWddLUK7FuEVW/tAETyZhp7TWg5s9r9g0Kfe2hZvNaWFZdD3lJCiZ3QljHLa6uJ5uys1e6hygiG9pMQKEiytbuQvcXEYAA4JNeIVD5ZlvvZ32bztFqPqgkzpMhZribH96fiJeGy7K6n5scSSTosel1vz9wbo2+2i9QGVHZ96lPzOk=;BP/2Hbuj82R87qLhMvN0Mw=="
 ---
 
