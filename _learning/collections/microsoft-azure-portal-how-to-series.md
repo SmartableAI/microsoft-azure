@@ -2,7 +2,7 @@
 title: "Azure Portal “How To” Series"
 excerpt: "Welcome to our weekly series that highlights specific aspects of the Azure portal so you can be more efficient and productive while deploying your cloud workloads from the portal."
 type: collection
-heat: 60
+heat: 111
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-get-started-with-azure-cosmos-db-built-in-notebooks-azure-portal-series
   - videos/microsoft-how-to-find-an-image-for-your-virtual-machine-azure-portal-series
   - videos/microsoft-how-to-find-the-right-load-balancing-service-azure-portal-series
   - videos/microsoft-how-to-build-tabs-and-alerts-in-azure-workbooks-azure-portal-series
@@ -72,7 +73,7 @@ topics:
   - Management tools
 
 images:
-  - url: https://i.ytimg.com/vi/i25f27Xa8-U/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/OrnZMkP5Eq4/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
