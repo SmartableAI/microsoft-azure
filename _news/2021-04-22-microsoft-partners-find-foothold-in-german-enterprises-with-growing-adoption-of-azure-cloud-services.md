@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Microsoft Partners Find Foothold in German Enterprises With Growing Adoption of Azure, Cloud Services"
-excerpt: "German enterprises, traditionally slow to adopt cloud computing, are growing more interested in migrating applications to the cloud,"
-publishedDateTime: 2021-04-22T08:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services-1030331843"
-webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services-1030331843"
+title: "Microsoft Partners Find Foothold In German Enterprises With Growing Adoption Of Azure, Cloud Services"
+excerpt: "German enterprises, traditionally slow to adopt cloud computing, are growing more interested in migrating applications to the cloud, particularly to M"
+publishedDateTime: 2021-04-22T08:18:00Z
+originalUrl: "https://www.hostreview.com/news/210422-microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services"
+webUrl: "https://www.hostreview.com/news/210422-microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services"
 type: article
-quality: 42
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Host Review
+  domain: hostreview.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
 
 related:
   - title: "Utilize This 'Fast-Growing' Cloud Platform by Mastering Microsoft Azure"
@@ -110,16 +112,19 @@ related:
         height: 456
         isCached: true
   - title: "DataStax Astra Is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to industry's first open multi-cloud serverless database \"Our overarching goal with Astra is to empower users to leverage the best capabilities ..."
-    publishedDateTime: 2021-04-28T15:22:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/b20840320/datastax-astra-is-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20840320"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20840320"
+    excerpt: "DataStax today announced the availability of DataStax Astra, the industry’s first serverless Database-as-a-Service (DBaaS) for Apache Cassandra ™ running in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-04-28T15:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-322eba2418aa4248a2da5519b3fd5bba"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "IO, IO, off to Microsoft’s cloud we go: Excelero hits Azure"
     excerpt: "Excelero has made its scale-out NVMe-oF array software available on Azure. NVMe-oF (NVMe-over-Fabric) extends a server’s PCIe/NVMe protocol across network links. This means a server application can access remote flash drives for block data at  RDMA speeds."
     publishedDateTime: 2021-04-29T14:48:00Z
@@ -237,6 +242,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "LVLfalA1ueuswJfTd9S5WMOInxpIEq3T4BfgMcrCYq3tWa/VBMarhprBChS7cqSk35l+qtyM4aXupOsn56nLRpAuVBs4YkqG/ark9kbs52LrFO/DPpXyO3TxryMSEQ0XlZXbFLuP4vYkc1A1Qa/QZt0kMhw+lO+dVMhrUdro+zMiKlqHZKey8jYqZ9CcfmWTiWtk4xeT77Rvz8Qw4B7bgoB8ENaEP1Ij4/LA4bBq2BgDX8/qbr/Przc038CX8mXfIvlP7Tf/mFpw8hcFkchJ7sA2OBJ8oduZ1n8RJu7W1VlnSMuHcGZSuXCOOHXNpKl+juiXishH6V3Y8Roy2MdgpAFHr3n6JJ9HwCD9yR5ju28=;yFi9mFX87X9ShAS51l6vaQ=="
+secured: "B7H8EYy4TP3U7kY8gOU2iKzFoy3O2sMU9rjREnurI4T1K4Ae7URjZWLzOyg/o4iDt16dksQW0TqeDCnoaSttXM2AE7ETtb9gtJsQg0rzzEYqHc6T33NQKdhPPKKm/vrLso+7cOkK+ncrhJnePgJX/Se5g8LPFRoGZ6DjtsGwr4GfqgwY0liyM+mT803LJLa/4KaKmOMv9wQ4twY/IrH09OQSLw2nORwKz16IbDWHlWSEDH9aR0xjG80ZQKCsF7PR89IginpntQlQRqoMqbqipqANwqw5wpmV0t74uAgnlylZGOGDvbwU7BjRyVbOpASyTqn/lIbY136/2OYLDQnRtFpt7t9C4H04wgJGUHWu5c8=;LrE7gtl2ynAL3THr/BMojA=="
 ---
 

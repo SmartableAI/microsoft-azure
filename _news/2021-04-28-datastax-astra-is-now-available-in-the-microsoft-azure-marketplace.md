@@ -1,23 +1,27 @@
 ---
 category: news
 title: "DataStax Astra Is Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to industry's first open multi-cloud serverless database \"Our overarching goal with Astra is to empower users to leverage the best capabilities ..."
-publishedDateTime: 2021-04-28T15:22:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/b20840320/datastax-astra-is-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/b20840320/datastax-astra-is-now-available-in-the-microsoft-azure-marketplace"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20840320"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20840320"
+excerpt: "DataStax today announced the availability of DataStax Astra, the industry’s first serverless Database-as-a-Service (DBaaS) for Apache Cassandra ™ running in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-04-28T15:00:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-322eba2418aa4248a2da5519b3fd5bba"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-322eba2418aa4248a2da5519b3fd5bba"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Utilize This 'Fast-Growing' Cloud Platform by Mastering Microsoft Azure"
@@ -107,15 +111,6 @@ related:
         width: 607
         height: 456
         isCached: true
-  - title: "Microsoft Partners Find Foothold in German Enterprises With Growing Adoption of Azure, Cloud Services"
-    excerpt: "German enterprises, traditionally slow to adopt cloud computing, are growing more interested in migrating applications to the cloud,"
-    publishedDateTime: 2021-04-22T08:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services-1030331843"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "IO, IO, off to Microsoft’s cloud we go: Excelero hits Azure"
     excerpt: "Excelero has made its scale-out NVMe-oF array software available on Azure. NVMe-oF (NVMe-over-Fabric) extends a server’s PCIe/NVMe protocol across network links. This means a server application can access remote flash drives for block data at  RDMA speeds."
     publishedDateTime: 2021-04-29T14:48:00Z
@@ -214,6 +209,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Partners Find Foothold In German Enterprises With Growing Adoption Of Azure, Cloud Services"
+    excerpt: "German enterprises, traditionally slow to adopt cloud computing, are growing more interested in migrating applications to the cloud, particularly to M"
+    publishedDateTime: 2021-04-22T08:18:00Z
+    webUrl: "https://www.hostreview.com/news/210422-microsoft-partners-find-foothold-in-german-enterprises-with-growing-adoption-of-azure-cloud-services"
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 22
+    images:
+      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "NEW YORK & PARIS--(BUSINESS WIRE)--Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take ..."
     publishedDateTime: 2021-04-22T06:42:00Z
@@ -233,6 +242,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "K87HE1C3i61YGOVrjsB+3OZ98AVLpMee2+yiKapMFPIuOAymdH2kjjFmPixd5kFTkL9D62Wa1RslWdwqZtyy11xXlGYcaiTSSC98UT2IaWbR4D/yY4PZyRevWgNd7PmZHnA7xoJ31Cn342QcG1UY0xLYI5NPxfQi1ci1adqzGSiV0fm9Ltd3vsBWsW/NdhtaN6VzkFQrmJltkI6GLSpGuTJoaMw439naDLinIZYU+/wCnV8hxY/9BI+HIH3cjFSWD0iul29IfXRHDdECHXi2WdZrVBz8ErPhdy46Kn2Mdd01rfEcrQvCWKxcYOWWESQIP3wSq424rHUeXsh0SCGT8A6NJ/34hs+1Zvq2T15/Kv8=;/1/nsxCeYWiH2Q0GETfnbA=="
+secured: "KYUx5gbkLhUWMpRIER6uYzL/qLMg59WY99qGiO8VFi/NCdO8lmZs5ntz9/KOCwWqxCZGhU08isGekqCaj6ABY1c5Re50HrkfEga3YMBc5C5k0nePpyozQ+l8f7e8vjD9Qs1YJmYwIJaq3koV7oJQzwdKPrsTUvy0Jsqxa3EcAiJTSj6axFje8lmt9GGoKpzrqdxVy9Wx+ZUp8KFS3EiUdOgt8yOd1FIpyic/PSoBXPeLHPTnj+Qhe8+mALy6lV7nghS+ZNkUbvUCaufU5DXmcTVAtlGC5RDOYylP70Br2dQ4OuCi9zCY0F7VNDk8Zf4xer8BtFqGEbzaClvhs/sV5ICfvhXwwGeW32iFQI8Gs6U=;/r1DE+H55w8HsBz/+19xhw=="
 ---
 

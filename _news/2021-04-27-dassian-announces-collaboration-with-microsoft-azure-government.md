@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Dassian Announces Collaboration with Microsoft Azure Government"
-excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
-publishedDateTime: 2021-04-26T23:19:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
-webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
+excerpt: "Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian’s deep industry expertise and standardized SAP ERP extension solutions with Azure’s scalable and secure government cloud platform to provide a fully integrated environment for high security customers in Federal,"
+publishedDateTime: 2021-04-26T23:16:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
+webUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
-    width: 2084
-    height: 1090
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -152,6 +152,6 @@ related:
         height: 450
         isCached: true
 
-secured: "gsWUVv+MQX6KtyxWXC9mMI5mW65+dQWiwLsv4zVEUOrOQ6hyElFQhtM9jokHRH0sIBD+qWQWx4sOAtyqiXiZbJNz0w8yNk9ZNxDrP7MVq9W6HYdguNs3MDm4riY4g0V4zCmrsucwoAV8Fg9dBME7hXa3J8wiy4rn/N+O1RnZloy12i6Zt8N/brhj47swxOupKs/YD1BqRP5rCTQZrGaRierWPkDU2nlmAFKbCK7qszMZC0AzhbvwmA2ja/zo7/k3Qz4sGVE3JxfcJySJYv1+AA/epNItAyfQ0JyB1+04h0n4T3LN/HQZRWW3inz4tsF2/1YZWzO3LNj7ALf5jGFslbYsYRkR2v1V1tY68YI443I=;8OrqkgZiAmE8Lf1yi5MIDA=="
+secured: "LLuwMkEOEyGG4mGixikaAJluELK/DiztP824TmcKYmjA5gzC+0Y/OLTvw3RbAXM8d0RVSKCzHAeZTvmFOioTJgHXlbwMo8UQgdXSUlPTkJK/+lLpPzNHA89GSdSkkhTWSdegcOwHb1qOeuvhqLFAM4VipyKAfu+ohP0iwo43ySssfQqMoR6AXnCgFzHEb0XJDAO7ouREfSuJvF/5ZIc563JqxTC+z3uOS8TfRaH3808LZDugrD7CysY7BVn2jx9g9TK6AvLJpMrUanMg3/C6nyYJji1CFn+3jR+kp0mWHNY6wwZ8FUZelJjQrmwTxS/DteTNGDNoWyeL8X1if3okr2PZd47zAZuv1imdkNhzsdc=;JSZYXuzZfWqcuTSWNNrckg=="
 ---
 
