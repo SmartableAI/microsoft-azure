@@ -4,6 +4,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-continuous-data-export-from-iot-central.md",
+      "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
+      "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from your previously completed \"Create your first Azure IoT Central app\" Learn module, where you controlled a refrigerated truck. Here, in this module, you add continuous data export to both Azure Blob storage and an event hub. You then build a Power BI app to read and display the telemetry data on a mobile phone.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-continuous-data-export-from-iot-central/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
+      "length": "PT1H9M",
+      "ratings": {
+        "count": 128,
+        "average": 4.5625
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Storage",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-your-first-app-with-azure-maps.md",
       "title": "Create your first route finding app with Azure Maps",
       "excerpt": "Learn about writing code to interact with Azure Maps. Develop and test a fun app using JavaScript and Visual Studio Code to find the best route for a truck, car, or bicycle. The route is from the west coast of the USA, to the east coast. You will see how routes change based on vehicle. And, for trucks, how routes vary if the contents are hazardous. You will get the chance to add in your own locations.",
@@ -146,8 +191,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connecting-iot-devices-cognitive-services-azure-functions/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 116,
-        "average": 4.543103
+        "count": 117,
+        "average": 4.5470085
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -191,8 +236,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
       "length": "PT56M",
       "ratings": {
-        "count": 523,
-        "average": 4.491396
+        "count": 524,
+        "average": 4.4923663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -234,8 +279,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-secure-iot-solutions-azure-sphere-iot-hub/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 74,
-        "average": 4.7297297
+        "count": 75,
+        "average": 4.733333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -277,8 +322,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-secure-iot-solutions-azure-sphere-iot-central/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 98,
-        "average": 4.734694
+        "count": 99,
+        "average": 4.737374
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -434,8 +479,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/image-classification-azure-sphere/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 74,
-        "average": 4.743243
+        "count": 75,
+        "average": 4.733333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -477,8 +522,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-cicd-iot-edge/",
       "length": "PT1H11M",
       "ratings": {
-        "count": 86,
-        "average": 4.639535
+        "count": 87,
+        "average": 4.643678
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -563,8 +608,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-azure-sphere/",
       "length": "PT30M",
       "ratings": {
-        "count": 113,
-        "average": 4.7345133
+        "count": 114,
+        "average": 4.736842
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -606,8 +651,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-azure-functions-iot/",
       "length": "PT27M",
       "ratings": {
-        "count": 151,
-        "average": 4.701987
+        "count": 152,
+        "average": 4.7039475
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -650,8 +695,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-mlops-iot-edge/",
       "length": "PT36M",
       "ratings": {
-        "count": 117,
-        "average": 4.6410255
+        "count": 118,
+        "average": 4.644068
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -862,8 +907,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/logic-apps-and-custom-connectors/",
       "length": "PT40M",
       "ratings": {
-        "count": 572,
-        "average": 4.5856643
+        "count": 573,
+        "average": 4.5846424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -907,8 +952,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-central-apps-with-rest-api/",
       "length": "PT45M",
       "ratings": {
-        "count": 166,
-        "average": 4.433735
+        "count": 167,
+        "average": 4.4371257
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -950,8 +995,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
       "length": "PT44M",
       "ratings": {
-        "count": 1281,
-        "average": 4.696331
+        "count": 1282,
+        "average": 4.696568
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1213,41 +1258,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment.md",
-      "title": "Remotely monitor and service equipment with Connected Field Service for Dynamics 365 and Azure IoT",
-      "excerpt": "Configure IoT devices to remotely monitor customer equipment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-and-service-customer-equipment/",
-      "length": "PT1H10M",
-      "ratings": {
-        "count": 79,
-        "average": 4.708861
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
