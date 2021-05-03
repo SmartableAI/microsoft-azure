@@ -289,6 +289,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Maps- new Gen2 pricing model available"
+    excerpt: "Get new Azure Maps features and potential cost savings with Gen2 pricing."
+    publishedDateTime: 2021-05-03T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-maps-new-gen2-pricing-model-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Updated App Service Authentication portal experience is now generally available"
     excerpt: "The new Authentication portal experience for App Service and Azure Functions, improving usability, initial setup, and increased security, is now available.”"
     publishedDateTime: 2021-04-01T21:02:34Z

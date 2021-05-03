@@ -289,6 +289,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Maps- new Gen2 pricing model available"
+    excerpt: "Get new Azure Maps features and potential cost savings with Gen2 pricing."
+    publishedDateTime: 2021-05-03T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-maps-new-gen2-pricing-model-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: App Service Managed Certificates now supports apex domains"
     excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
     publishedDateTime: 2021-03-17T16:00:26Z

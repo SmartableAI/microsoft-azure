@@ -42,6 +42,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Security Center: General availability updates for April 2021"
+    excerpt: "New enhancements and updates released for general availability (GA) in Azure Security Center in April 2021."
+    publishedDateTime: 2021-05-03T15:47:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-april2021-1/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Azure API Management Updates - January, 2021"
     excerpt: "A regular Azure API Management service update was started on January 21, 2021, and included several new features and bug fixes, along other improvements. It may take several weeks for your API Management service to receive the update."
     publishedDateTime: 2021-01-28T01:30:47Z

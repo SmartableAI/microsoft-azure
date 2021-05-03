@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/asc-january2021-1/"
 webUrl: "https://azure.microsoft.com/en-us/updates/asc-january2021-1/"
 type: article
 quality: 99
-heat: 299
+heat: 319
 published: true
 
 provider:
@@ -27,6 +27,15 @@ related:
     excerpt: "New preview enhancements and updates made to Azure Security Center in January 2021."
     publishedDateTime: 2021-02-01T18:00:36Z
     webUrl: "https://azure.microsoft.com/en-us/updates/asc-january2021-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Azure Security Center: General availability updates for April 2021"
+    excerpt: "New enhancements and updates released for general availability (GA) in Azure Security Center in April 2021."
+    publishedDateTime: 2021-05-03T15:47:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-april2021-1/"
     type: article
     provider:
       name: Microsoft

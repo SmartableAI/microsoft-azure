@@ -32,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure SQL—public preview updates for April 2021"
-    excerpt: "Public preview enhancements and updates released for Azure SQL in April 2021."
-    publishedDateTime: 2021-04-28T16:01:58Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-april-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Public preview: Enhancements to encryption using customer managed keys for Azure Backup"
     excerpt: "Encryption of backup data in Recovery Services vaults using customer managed keys has enhancements in public preview."
     publishedDateTime: 2021-04-22T16:00:08Z

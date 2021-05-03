@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 819
+heat: 839
 published: true
 
 provider:
@@ -278,6 +278,15 @@ related:
     excerpt: "Create an external table located in Azure Blob Storage, Azure Data Lake Store Gen1, or Azure Data Lake Store Gen2 to analyze and query your data.\n"
     publishedDateTime: 2021-03-29T18:00:28Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-external-tables/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: Azure Maps- new Gen2 pricing model available"
+    excerpt: "Get new Azure Maps features and potential cost savings with Gen2 pricing."
+    publishedDateTime: 2021-05-03T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-maps-new-gen2-pricing-model-available/"
     type: article
     provider:
       name: Microsoft

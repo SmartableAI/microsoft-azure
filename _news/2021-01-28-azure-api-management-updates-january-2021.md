@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Security Center: General availability updates for April 2021"
+    excerpt: "New enhancements and updates released for general availability (GA) in Azure Security Center in April 2021."
+    publishedDateTime: 2021-05-03T15:47:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-april2021-1/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
     excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
     publishedDateTime: 2021-02-03T17:00:01Z

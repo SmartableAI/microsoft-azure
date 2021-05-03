@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: IoT Hub Azure portal extension update"
-excerpt: "If you're using IP filter, add your computer's IP address to the allow list to keep using IoT Hub in Azure portal."
-publishedDateTime: 2021-03-25T16:28:53Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-portal-extension-update/"
-webUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-portal-extension-update/"
+title: "General availability: Azure Maps- new Gen2 pricing model available"
+excerpt: "Get new Azure Maps features and potential cost savings with Gen2 pricing."
+publishedDateTime: 2021-05-03T16:00:13Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-maps-new-gen2-pricing-model-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-maps-new-gen2-pricing-model-available/"
 type: article
-quality: 101
+quality: 67
 heat: -1
 published: false
 
@@ -20,8 +20,6 @@ provider:
 
 topics:
   - Azure
-  - IoT
-  - Management tools
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -56,6 +54,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 103
+  - title: "General availability: IoT Hub Azure portal extension update"
+    excerpt: "If you're using IP filter, add your computer's IP address to the allow list to keep using IoT Hub in Azure portal."
+    publishedDateTime: 2021-03-25T16:28:53Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-portal-extension-update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "General availability: Azure Machine Learning Output Datasets "
     excerpt: "Read data in the cloud efficiently with Output datasets."
     publishedDateTime: 2021-01-28T23:46:39Z
@@ -281,15 +288,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure Maps- new Gen2 pricing model available"
-    excerpt: "Get new Azure Maps features and potential cost savings with Gen2 pricing."
-    publishedDateTime: 2021-05-03T16:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-maps-new-gen2-pricing-model-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Updated App Service Authentication portal experience is now generally available"
     excerpt: "The new Authentication portal experience for App Service and Azure Functions, improving usability, initial setup, and increased security, is now available.”"
     publishedDateTime: 2021-04-01T21:02:34Z
@@ -354,6 +352,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "u89b4yy+HajK7dRRS3bt26N3cKyFhAdZ7A84s1rI+OuUXmP1MMc8K6hAyTgnz9RdLYrx0uPo69BmbTlDb+i8k2dMHYMBcp6VYGU4+OCLDY9YUKPCKlzU4iUc16hYZSNb8jG3ReULtomwXvQNzxOH3VgxHAPLNfN1SCCGoNOyYJJWXJfBcidQTZW6UlcKMsX6DlGsbhd1FNtKyPEknCqrfKCyMPg/Hr7ujeQtUU02367bzhBiH1pyYAvmM9Qw33MsjKGOVKE9+cAORFEXycqlMOQfiLDQLJnb1k17pL1rtSwz+mjh3eWDl0cJOMf0eRa1SwPbOWXogVLZ1UR052rX2eNc991dyVhKRnfWsvJHPR4=;7oANYKrz8myyZxmC6Gzlww=="
+secured: "MGdOEt0reXAufFBQEPoUf692i25r4cnnweCChP5NXGHF/dJpJyfg/PmAtGjsIZbE1qfpTVJDsITOZ5KPWxq70DUfyLwIh5HnoGNgDQluXrXSG9AkSUDg8XCUGBSq9d/sRURRyrEzaLcame8qadxB0Y8G2BLFuyotnW4XCGpNtRu/oxIKAecRqizs9rUnYR7Sujt7yA1Y41sA6v0rT2Z9da8oCtQBonVirBzvtW1J+gq91QiIbpHyqW4uw1ExDugPN5+HuaWt++qQYsAxKu7nHuam/UP01wyiz0ACjjDRYanwDlGDqfjoFu3XPpw8NFpfwOsjPRHwCNCVc/75VEimqCNI229JUbz9GcKWsK+8sDE=;U7pQsDpIV7ZJlAn18hTpkw=="
 ---
 

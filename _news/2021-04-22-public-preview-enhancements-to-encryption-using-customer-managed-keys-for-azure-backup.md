@@ -32,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure SQL—public preview updates for April 2021"
-    excerpt: "Public preview enhancements and updates released for Azure SQL in April 2021."
-    publishedDateTime: 2021-04-28T16:01:58Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-april-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Azure Site Recovery now supports Azure Policy in public preview"
     excerpt: "Leverage Azure Policy to enable Azure Site Recovery for your VMs at scale and ensure organizational standards."
     publishedDateTime: 2021-04-29T15:43:58Z
