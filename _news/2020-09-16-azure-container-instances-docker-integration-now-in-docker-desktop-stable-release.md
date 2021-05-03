@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-container-instances-docker-
 webUrl: "https://azure.microsoft.com/blog/azure-container-instances-docker-integration-now-in-docker-desktop-stable-release/"
 type: article
 quality: 100
-heat: 141
+heat: 140
 published: true
 
 provider:
