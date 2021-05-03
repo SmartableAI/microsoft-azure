@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT34M
 ratings:
-  count: 301
-  average: 4.7906976
-heat: 50
+  count: 302
+  average: 4.791391
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Blockchain
 
-secured: "PA6LeB25c5COdvf/D+f1IKzhfEHvTgWGvy5c29IcuEQYmteAb2y4heP9ScsZ3zCpGEZCqKJ+bMRG4ziLP9OgnQO47PJ8e/oJfkp6Eqb2ZbRpJkKTcqDtgO1kJUHkW3fMpBvHPhhL+z+KgrImOsb1uQeNXGgZur4uZROIMdubOwKOyQ5U7UFtoRI2k7qoJP3C+6wYjmnXMRoMnWamROjvKx4eA3+cO2XRPsXiWqT2Mz/0fT8cMGaAv4lA2a+bVAl1ivlXnpYQMQWs1aQbiJMSFd8mUMBUVU5Xi8RCTEkHhtLGJGYGdvIrP7hKxmS8qiDUZSEOVSC1y0299N+f55exATTDY9Hohsgc0qoEBdvLOE3RHu71+4GGLF06hibFzHEkesZFEdiKRI4KbRECdqiFOnw7F4pQ+UkavfZZU7TcKLQ=;YQheYmS1r9JhuvmBLC49mQ=="
+secured: "or2EMaCtYhSZb2bKxeUc0NYzzkk5C6Ts+tGFVi0+mzGRcI2sBanZ17K1oTPGQ4H3Xm/XTjD2KPXy6umBADZiF69fXzp6oKuWe66JinlR7FqwCyAUQ9IaMq/J2QyjvufIAbTqIlQbHukMiefeZa5iLG3CcYGtVhxOCrNL+1MbOTHz+Z2oi3EpRn4P1BgDrSEmKNj1KrlwEkUp13fA9SEcpZUP8JMxIN5MpMoWCkdmn9v7X9xPQEhGNS9Fl35uet84qA3xlnRdFmFMrjc23oLL5sZW06k459SiiXdsOMx7YpKNy78yeu9MyhgRvV4EPCOkDxrcBsDujdNUkaDVSpzYthEOzXeDj672spn9jaHjfHay+mproms3Ga8egmHovPg74vrlhD87nZCD5iBMXfsaCo8hakn6EU0/f5dsWxMaJgg=;47MDP2u2r62kaqUlSaItVg=="
 ---
 

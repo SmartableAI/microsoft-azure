@@ -8,7 +8,7 @@ length: PT29M
 ratings:
   count: 149
   average: 4.8255033
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 321
     isCached: true
 
-secured: "b0WvsASVhktr9bNqvGPvWbGyLFTE1LrCPfa2z4jZUO1T2zLFRkHR89ksA6z4dofsuS146SeuQUX2U+2jE06zLbT3V5LLYfYcolDa0CZ9CpwLFFz1TCGucZPi5b6cEWQzjO2WAy8hQpEzJVEPjqqW8FVMf+R6H/RIi/tJ0IpVzmVa3FRhMbTZxwHsU1pTmrepDRRTfeCGKXuOLTByCXcsTw8QIlMfppQprprHutk+seOz+JnNJqp+e+MWmLOul8PagYZwNeCZh4q+3Nqq3bwSZAUTXSJtPWdIqH0/LfjLAgqIZP9lDEswfKoZXKHrEFOGaMDIdcZZqyGWe88uR93S02VPD1bf941VeOA+2sfJUKaI2GP3vE8esK/cWq6lH8xbW4Esg+4dqpW4nXBZab2zblHH1K8v/MS+cEHJCGNKKnw=;ZXW0eJaN9ONZnlmp6BkpZA=="
+secured: "IIKPHrXcN5baS0kb+nMWrISILFjljrvJhp9lTjOVjjK9bfITJp0oX+aDwfaOtWRbliN4F6js6bkNSVwAb0oMGF8ukcA2TFgYrwbjZU/8j+aGujHmxikLrLGWW2MfyYGSgwjr59VUdw/ERp+gO7mnzXmVEd1eFh6aOxFURfL1bL7oVwCW1yU96GiRT1aNRe3RVoZMnw44IWJ2jSiSJkQ48uBsu2DXbgxIc40QsX2DVzsa2jQSWtwMQM4WwbywQazwvjv6gfpQrnHM49oBBH8mGspA345hsWfzDRLC7ns9S8FpLF2gD2Muttg6uj6lvDnczX79DhTQHoRCeu6MLFyVDkCgt7escXExcpd2a65pXu/gL7hmbdUZ5ndIapuaePhmk40TFiY02yeURSMaLqnNhSwxsEqu7JUJwEOZBi99KMs=;cNoHdmYh8NZDNodwCbnQow=="
 ---
 

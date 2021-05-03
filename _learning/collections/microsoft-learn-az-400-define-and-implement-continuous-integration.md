@@ -4,7 +4,7 @@ excerpt: "Create automated pipelines that continuously build, test, and deploy y
 type: collection
 price: Free
 length: PT11H40M
-heat: 60
+heat: 63
 
 provider:
   name: Microsoft Learn
