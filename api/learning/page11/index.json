@@ -4,40 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-manage-delivery-plans.md",
-      "title": "Manage Agile software delivery plans across teams",
-      "excerpt": "Learn to optimize delivery efficiency by improving work plan visibility across teams.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-delivery-plans/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 2946,
-        "average": 4.7287846
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-network-fundamentals-2.md",
       "title": "Fundamentals of network security",
       "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
@@ -157,8 +123,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
       "length": "PT29M",
       "ratings": {
-        "count": 963,
-        "average": 4.755971
+        "count": 964,
+        "average": 4.756224
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1125,8 +1091,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
       "length": "PT40M",
       "ratings": {
-        "count": 5496,
-        "average": 4.7136097
+        "count": 5497,
+        "average": 4.713662
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1168,8 +1134,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
       "length": "PT34M",
       "ratings": {
-        "count": 5600,
-        "average": 4.765536
+        "count": 5601,
+        "average": 4.765578
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1203,8 +1169,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 5315,
-        "average": 4.743744
+        "count": 5316,
+        "average": 4.7437925
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1246,8 +1212,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 1102,
-        "average": 4.7876587
+        "count": 1104,
+        "average": 4.7880435
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1409,6 +1375,48 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-github-actions-automate-tasks.md",
+      "title": "Automate development tasks by using GitHub Actions",
+      "excerpt": "Create a basic GitHub Action and use that action in a workflow.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-automate-tasks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 302,
+        "average": 4.7251654
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-automate-tasks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
