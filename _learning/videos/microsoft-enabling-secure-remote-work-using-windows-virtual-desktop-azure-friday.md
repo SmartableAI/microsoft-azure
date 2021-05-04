@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT24M52S
 publishedDateTime: 2020-07-24T15:59:12Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dL1LpGpGRIo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "T3YeUFxHMyfbK2LDjaomjfDddTl+Vt4iyUbXj/+4ne9ijZpy5o+TqSMOhLaQf4UvyU0uiFGVk2m5zvhem0Tw4B/AwouYVhjHrsceBKm1LVoE+r2NRATBtfCYpidAZQSaEsgz0BTUjasEhGkr1I/5M6/3IfAylSLaaeYlCpt9kJUi0ciSEyWiknGLi7GCU3PtwkpS7M3A/JZN1UWJ6FZVm55b8i1wknP5roAh9No/t8wXwXaBp04s7UXq66F21BGmYO7caOVpZbtHS4SVn7elSu8h+6uvEbdMYFiIGDpgBn+buM2xDZGSFBioQoqtSGwhrZJmbyg/l5K1zkX+6V7cjIawH18Qief6JlMM4jIHCIGKAGS6fJ2Dbm4Qzx9irsOVSRN4ZG4P+e9/91Veh9KnU+QN4lRJwaA0fEJIQ1gKx2A=;ih0OmE5ZGrgdWiD9qb1EOg=="
+secured: "ViZS6AoS/QiH9nAyvMEC4VxIIJ7fwwbKe2DwniQoJPS1zErQqacQpT5IZDhAyCRAankletQ2QJorRJvEOLlf8bExv76mzJfOeY3skcimD5+TYqKnCJKzo39FPb30rZrMrCTWlvqEoKIPIumJsLMng788wL+cU9JYor5Wwdo9ZdQBqACsAsEEV048ZCPZtK30A3CLCcbmMRBMT2zdmQWvkHwissfWoF63r6lr6n2QQ0iIKklCY1GjaUxlkupCANdyeL/BFTP1PGnzRG9nixH9YCI/KmTsCuOuNojmNiqGU6exjkbVkvDo21N2O4fjt8c6ihvExAOTvjfItLgi5lPGDRNFLplUQdkp6pbzGdzLf6Gkt+1DgO4KXrsoiOM3vDeeWN1t7L48oVPMOwJKHEPQ7Myyd8iX06wnaPkpFIorVoI=;G6+oS70mAcVk8ofuT5Q18w=="
 ---
 
