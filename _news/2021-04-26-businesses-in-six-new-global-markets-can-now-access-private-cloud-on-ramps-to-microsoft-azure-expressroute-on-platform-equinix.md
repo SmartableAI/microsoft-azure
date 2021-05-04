@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
-excerpt: "(Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix® to service customers in six new global markets,"
-publishedDateTime: 2021-04-26T14:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
-webUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
+excerpt: "April 26, 2021 /PRNewswire/ -- Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ..."
+publishedDateTime: 2021-04-26T08:01:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-301276352.html"
+webUrl: "https://www.prnewswire.com/news-releases/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-301276352.html"
 type: article
-quality: 49
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg"
-    width: 400
-    height: 261
+  - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg?p=facebook"
+    width: 800
+    height: 419
     isCached: true
 
 related:
@@ -251,6 +247,6 @@ related:
         height: 293
         isCached: true
 
-secured: "m9tdbHRucVWn2YhhFp3UJ7p84rv3lXQCRNhWi0Onz96whDN5hWOCa+KqVTqETqkthk7G3bjKyVd0cYiEDhXz0ao7/p8DOfGpq3vwp/epy7PAqShPwDo+57XnLqqWBr7vvDnia+vWlJp5o+o6I1wR3Lk5VQu3X9QMu95kPz3UyVjn/K7JtHmuXTgVEAko5M8tKL01VioggYJgQfxoPlqmwgyAOxxnU+NIQ5XSvYBi0kqy0ameAw5ov63HrjAnPNRh4/FMCYkI9FhXjpbOh3Y/Nn3c5yIcKetTKNgc3BRHV0XocKcXT6QsBvuVNwZhyzmEbbgFuFCqj/A5TAOKKCm+HnLqp0lhb48dSWB4jV/G8UY=;xEb7OmQ7IxS4EouEFUDw5Q=="
+secured: "gmLeowj61HdXS28VEPuq4ls89leE8XGcHBcwyEkv/yo07zRjdQSib7Et7mkack1/1nbxaJEAgyVPPPLZ5zx+6ZNGeb3tJVIhNwEaoMIoyJf3XAmYaktPxmmD20mM3N0NfIR8ggOZRdg+Ieivike5Q4kVnkmMRKjHgmld5RkqKF26KelrDhMy1MHlJzZq7qzEH4SuTMhrBJJAjkM16bmXAYgyIMxhsA259+Yg1fbDsf9LLtgpUs06ZbV1Zu45lsvKEdI/gTctkSXJLnj5OXpfmMzRKWL0rbW5QsWaLsozXmUOS1wKFVNUarzKe+vPYGyVaOHi9WqvJFpd1iKwdM/Iu9dAT/kbhwUJ56lOel9xPUk=;MitP07M/qhJKTEv9klWLeA=="
 ---
 
