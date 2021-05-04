@@ -238,6 +238,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "KFmbMXlSj8YLJ7cdjTpsBpOpaCtVk4l8folSLtO8xhxxoydWVXAub/e01KVswOZB6MLF2mVQLRx8AorKgeMAkew0p+JFG4nSSKWKRw74MhP7O+HrP6/5kbSKhKAO/lZcxdcwOv/UgWpN4K5S3HvhPw7uniSR0uluwl1/kqF2hljAqoyfeiShKr9kGH7xFFAsdii2GVJ2AsSKQQ5y2jefYJktaahF5VIvcTyG7EQn0VYzrcCIqXqIzHCYvDw7DnO7zMTX1UZ+K1c2u0EBrdQyYuQQS3MQczl2ITciFnFqK6fV59Vmaqg97szFb2pk04LTvGx4+V0Jo6OEnfbLgxRuFMlLkH9vyXorFLxuqrNtgMM=;mWM7G1FL58WHEffmCOb11w=="
+secured: "28HO+fLXjH4k7CinU5hQp4X1CiGFoq3GA7VjGPzOMQjxai12cRhTFjFLu8c/AwKEDZamqIoJNMC7umViUDhvO4HYvBuOgdG50yZkrayow41oiebiF9KHywAXK59/KheFaPZxpKtq5+hXei6NUXO+ndiYNQjhxFA3jMaWARp7MJxk6BSTEmi8+7sPEXHo+ZDBARctBSUyxM1d7frlIO19OuN//Fp5AWd6xTu27746HJZHYeaD/6IDmuvlqh7//P0K35i2OaYnpA+IhiYN/plwnm+eAS11Fp1YY2OYhl5G2gCe9Urtno7/3t0GrQLRl7yLrrHpOt8rDAsiR6WzpbHnaU6/hOclRUnQ+d/YwHNjZ3Q=;Fp4/GA8xEqYZK+GlosaHsA=="
 ---
 
