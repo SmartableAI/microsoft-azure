@@ -1,27 +1,23 @@
 ---
 category: news
 title: "DataStax Astra Is Now Available in the Microsoft Azure Marketplace"
-excerpt: "DataStax today announced the availability of DataStax Astra, the industry’s first serverless Database-as-a-Service (DBaaS) for Apache Cassandra ™ running in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-04-28T15:00:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-322eba2418aa4248a2da5519b3fd5bba"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-322eba2418aa4248a2da5519b3fd5bba"
+excerpt: "Microsoft Azure customers worldwide now gain access to industry's first open multi-cloud serverless database \"Our overarching goal with Astra is to empower users to leverage the best capabilities ..."
+publishedDateTime: 2021-04-28T15:22:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/b20840320/datastax-astra-is-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/b20840320/datastax-astra-is-now-available-in-the-microsoft-azure-marketplace"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20840320"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20840320"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Utilize This 'Fast-Growing' Cloud Platform by Mastering Microsoft Azure"
@@ -242,6 +238,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "Pa7QJ8g3TbqwNiiNYIy56tjyMdusKw448qxcKtLonrS7VhrZTL2G5e956X3vX3xGOm3uePdSQAgZKlSwOgIcx8iRiK2b/eJqGXs+OqEU4lFEyd+IK9LPRuLUFVJzOBt/BHwn4Hkoj5nnUg003YM/lac9IuE+r6BIwtKiskNQJG5bi1ySbD9s0OQyeTg/efMyu0yl/Tdn98iVkwm30J6x5kxeWqnrv6AAA4SFjvvCGJIuJmgKeTnK4LGHceq7GTI0+/qNiB+X4UYejogRTaJp3syBSOPv4ZdKyOzZVdvAoDiT/uxeVCYm5EJ7c3soF+6vXtsw7L3qZX4jIX2+hiOZOxfXgmh9RkDb2Ks1RHffM3k=;o3iHJCcACghqzpOaOwbBew=="
+secured: "wJkbt2XGZ1dI95gNhD3ioZDlR3/x9wcEysd4hfkkSkBFvsXdXI+UgqnTjYRIMNfPM091Vc5bsd9ZTkiWZAo8MHqmAFI+xllQd1KVOtB7di0LTs1RKFuGbEQEwHA/mya+r3dZNTMvRjjsfij0y5bDpknwMvnSfPLLpUM7tcdxKu/U2tQ4MZfbSGCqV0FgFFk+qw7RHMcP+eWRPQsGGPMS87/sjS9R8hXYQp66Jua6Mm9Iq428clfaA34s/IuZLTiAY9IQziOaNE/G8FWO8sv0R5kBzveUeFAriybyI6vqT1WdBAP5hUb6XulV2++8UMu1AX75pdv5RyuR6sGhNR72El9pCfmFxhfo9ipSaiIb9oQ=;fGFL0Wxr4t1dMWN/LUTqXQ=="
 ---
 

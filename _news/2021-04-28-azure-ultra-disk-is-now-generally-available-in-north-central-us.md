@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-is-now-
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-is-now-generally-available-in-north-central-us/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 87
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "New NPv1 virtual machines are now generally available"
+    excerpt: "New Xilinx Alveo U250 FPGA NPv1 VMs are now generally available in West US 2, East US, West Europe, and Southeast Asia."
+    publishedDateTime: 2021-05-04T20:49:47Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-npv1-virtual-machines-are-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "nspFvi71bbEmuCS5fD1c9YNzERglF3i1+xRDe2+FwaKbW/KiKlNpelybN3vEra/zrYVP17qz0C3ChQ8shKWP40dUbEqcuKtmkz+7jAcLqyJEtDIQBezuOfHIIiwZiB4vhqYX+HGQtwy06RjJZ0SV39iL7zCgOuHaaeny4wl/mO7gOLTpj/yOugb3XIxxNjtajyjWWGLQGXXM/vPP+2C11yq8gdAJ7tzVe5XtaqSLDe8MfSPuUkSmejb1AKYKoTCD/h8gThpulv7EzSjjbSSVcDmX+vR5vLvAg0aTT/23DfWiqU+Eg/u4ux8EPJq+nbpnNUJ7RV8mQ7AX8ffEbvAhuecoAT2C7JLyLZy4Xct/FSg=;x2oO9KP2CX+iS10trs1azg=="
 ---
