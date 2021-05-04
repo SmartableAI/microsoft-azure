@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public preview: Enhancements to encryption using customer managed keys for Azure Backup"
-excerpt: "Encryption of backup data in Recovery Services vaults using customer managed keys has enhancements in public preview."
-publishedDateTime: 2021-04-22T16:00:08Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-enhancements-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-enhancements-preview/"
+title: "Public preview: AKS support for Secrets Store Container Storage Interface "
+excerpt: "Access your secrets securely via the container's file system."
+publishedDateTime: 2021-05-04T16:00:15Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-secrets-store-container-storage-interface/"
+webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-secrets-store-container-storage-interface/"
 type: article
-quality: 76
+quality: 84
 heat: -1
 published: false
 
@@ -20,7 +20,8 @@ provider:
 
 topics:
   - Azure
-  - Management tools
+  - Storage
+  - Containers
 
 related:
   - title: "Azure Database for PostgreSQL – Flexible Server (public preview) managed PgBouncer in public preview"
@@ -41,15 +42,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Public preview: AKS support for Secrets Store Container Storage Interface "
-    excerpt: "Access your secrets securely via the container's file system."
-    publishedDateTime: 2021-05-04T16:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-secrets-store-container-storage-interface/"
+  - title: "Public preview: Enhancements to encryption using customer managed keys for Azure Backup"
+    excerpt: "Encryption of backup data in Recovery Services vaults using customer managed keys has enhancements in public preview."
+    publishedDateTime: 2021-04-22T16:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-enhancements-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
+    quality: 76
   - title: "QnA Maker introduces deep learning (Public Preview)"
     excerpt: "The next version of QnA Maker introduces state-of-art deep learning technologies and advances several core capabilities like better relevance and precise answering."
     publishedDateTime: 2020-11-09T18:00:10Z
@@ -69,6 +70,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "clIMRAaGjTtshtQ951srG1sSkZLgGiR/F2+mNT1sJ6UCoIWlKHpl09wFDPkrGHA3EUfQ4d0U4Lwmle65pH80U3o/9OotHRNHUCuHLBDmm0bJXsCxSJeezI/BAWkysLrXCg/sarMVVbwm27W8P4TzqFvpEe7u8Wx2PWdKwAlncj7weJHfqzgYPpeitJqu84CZEd3snBEwryk7jDWMKeUeUfWtHP066L/nwKQJxWpbCblA2oEja4IyMdsDg0NQHqLKv70BuFvm8J1EC+YtAHTl5Ks6lOePymLCwaQZ8iGYnDLIMkSZ9jSqTF9cMJ5XOv55y0sxcC+OJhp4aY0MYT1lcPBAKhdUz08yolAfHdvUscA=;N10EYEQfIGiUzTqJTvGVSQ=="
+secured: "v84As4/GYEm2uzxTIsGkhzicOb1u6wWf9YUFJCEmGn3Yk2t9LPvhyNXRFXUAexBcRm5KXt7EptSA2SXwxIJYOfnGCxrBaGR/Fn3ByknFpoDHBq5TAZkNB/p4gzjVd2kIreINuPwxvcMv/gPl0w22K5PUMjhHMm53vqj5Xuzy/pL7+qBE82LECN0BIJsUrUvg7Q6JUrI7uRKAjXx+cD4odXsgF7YM7GztfjYtidMqX5sqInVX4CCSL0D60o3sHxo8tlYYq8JvI8ldNX0c74F+tzMCB8o+uFT/hfReOQ3rSjZDOYkujg7H3uW+jxJN4r2mLK7nKj6cKTn1hqP+oGUpnD+FBn9PaVmNmhxVlN627l8=;3/SkgYHnYcvT81tMzm7/Sw=="
 ---
 

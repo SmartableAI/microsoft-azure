@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postg
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-managed-pgbouncer-in-public-preview/"
 type: article
 quality: 84
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -27,6 +27,15 @@ related:
     excerpt: "Leverage Azure Policy to enable Azure Site Recovery for your VMs at scale and ensure organizational standards."
     publishedDateTime: 2021-04-29T15:43:58Z
     webUrl: "https://azure.microsoft.com/en-us/updates/asr-policy-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Public preview: AKS support for Secrets Store Container Storage Interface "
+    excerpt: "Access your secrets securely via the container's file system."
+    publishedDateTime: 2021-05-04T16:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-secrets-store-container-storage-interface/"
     type: article
     provider:
       name: Microsoft

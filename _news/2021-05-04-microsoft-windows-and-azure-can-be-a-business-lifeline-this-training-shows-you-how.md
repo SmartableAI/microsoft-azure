@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Save 98% off this Complete 2021 Microsoft, Windows, & Azure Bundle"
-excerpt: "Deliver smooth, secure, and configured process to users and organizations with 17 hands-on courses on the top 3 cloud service platforms with today's highlighted deal that includes certification."
-publishedDateTime: 2021-04-29T14:00:00Z
-originalUrl: "https://www.neowin.net/news/save-98-off-this-complete-2021-microsoft-windows--azure-bundle/"
-webUrl: "https://www.neowin.net/news/save-98-off-this-complete-2021-microsoft-windows--azure-bundle/"
+title: "Microsoft Windows and Azure can be a business lifeline. This training shows you how."
+excerpt: "With the training in The Complete 2021 Microsoft, Windows and Azure Bundle, IT experts can earn a firm grounding in all things Microsoft, including the ways Microsoft hardware, software ..."
+publishedDateTime: 2021-05-04T16:00:00Z
+originalUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/"
+webUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/"
+ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
 type: article
-quality: 77
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Neowin
-  domain: neowin.net
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,9 +24,9 @@ topics:
   - Azure
 
 images:
-  - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619700240_sale_232555_primary_image_story.jpg"
-    width: 760
-    height: 428
+  - url: "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -60,21 +62,19 @@ related:
         width: 824
         height: 517
         isCached: true
-  - title: "Microsoft Windows and Azure can be a business lifeline. This training shows you how."
-    excerpt: "With the training in The Complete 2021 Microsoft, Windows and Azure Bundle, IT experts can earn a firm grounding in all things Microsoft, including the ways Microsoft hardware, software ..."
-    publishedDateTime: 2021-05-04T16:00:00Z
-    webUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/"
-    ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
+  - title: "Save 98% off this Complete 2021 Microsoft, Windows, & Azure Bundle"
+    excerpt: "Deliver smooth, secure, and configured process to users and organizations with 17 hands-on courses on the top 3 cloud service platforms with today's highlighted deal that includes certification."
+    publishedDateTime: 2021-04-29T14:00:00Z
+    webUrl: "https://www.neowin.net/news/save-98-off-this-complete-2021-microsoft-windows--azure-bundle/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 90
+      name: Neowin
+      domain: neowin.net
+    quality: 77
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619700240_sale_232555_primary_image_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
     excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
@@ -445,6 +445,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "5gBv4Z86laT30n3HXqY8frShIpjkQgziIul7qI9LwwP37y71b5W3P6nHGKk4qI0zbMmsS13ge4xal0Z3TndsnoQSO2hkmpGox+FJDk4B9ZqCuBbBBYRCIjXI6BcnnMr1dVws9p+5MqhJxf3AjLV2T1fAVUNEcV38uUnwcM4EfE57wqPH1vOclDQz3ba94x7C2YxkpefV+TxD2cTbqzMlxPXSm5V+tS9BITMb6S283jRCXg5ZNMJzxDamgjBiBqmbFiwlJfU1FbNHbtcEerir7cHghsstw6WXto+TD4aZ/S4Ffp4GDRhMFUfuca9fYNzw/II3+I1EYA+b0uTvYK500/RzJXhHOuCYyJEWpkzIvzdi/NNMNfako7lxLoM+GVVcdyeyYyMKZfIlQimh3AutQIr5AJ8KgjAh1+RBoQ8yCg2Gw04098xcz5b98fUWHxL5HUyMZXOuXQOrHpMn3qgG3Qk9cdOj+tDbjkaXKGcYmFVIYbXHruUe8Hu/o1m5r8zi5iMIxOnha09quFurPyLgog==;tYw0sv3a4jGrdQxCJL8vpQ=="
+secured: "u0+6BvbnSyUiehFyfr6sYYDIEopApvzZbqD5/dGX2QI+/8J12LynB5ZvQ1cn3wDVljd1tq/7f4eHhwczNbJJgknSgXN+0Vt8y/tEXMiQbu3BsdNoVXBoLc9/gKTsqT+9R805hdn4+f4s5qGVtsDPDuDPTraS+v7zuF9aJ4bDv9OoXR3XIlJRFCh7Fci1dKVnyDaZPS1mWcGF38QXqXhr/PuO/+3VPxpub9Jgz1QUVjO45kDKPpxRqa6Vd40WuH/TfXaEbihzh28rGU1r25cLS/7LKaNxkBuhvBP9EcOfbly2VFjlLcyGXBD2zF4da0Nm4KJh9B8YAjkN4ppFxp35p0c8R3T8tLBP3onck1FPPSA=;wAvcEU/4c0o+3pFaxcPtWQ=="
 ---
 

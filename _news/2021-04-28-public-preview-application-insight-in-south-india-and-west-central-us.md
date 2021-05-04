@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Public preview: AKS support for Secrets Store Container Storage Interface "
+    excerpt: "Access your secrets securely via the container's file system."
+    publishedDateTime: 2021-05-04T16:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-secrets-store-container-storage-interface/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Public preview: Enhancements to encryption using customer managed keys for Azure Backup"
     excerpt: "Encryption of backup data in Recovery Services vaults using customer managed keys has enhancements in public preview."
     publishedDateTime: 2021-04-22T16:00:08Z
