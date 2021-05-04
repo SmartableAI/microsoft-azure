@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Easily build real-time apps with WebSockets and Azure Web PubSub—now in preview"
-excerpt: "Today, we are announcing the preview of the Azure Web PubSub service for building real-time web applications with WebSockets. WebSocket is a standardized protocol that provides full-duplex communication. It is key to building efficient real-time web interactions and is supported by all major browsers"
-publishedDateTime: 2021-04-29T11:00:03Z
-originalUrl: "https://azure.microsoft.com/blog/easily-build-realtime-apps-with-websockets-and-azure-web-pubsub-now-in-preview/"
-webUrl: "https://azure.microsoft.com/blog/easily-build-realtime-apps-with-websockets-and-azure-web-pubsub-now-in-preview/"
+title: "Serenic Software Announces Release for Microsoft Cloud"
+excerpt: "PRNewswire/ - Serenic Software Inc., a Sylogist Ltd. company, a leading provider of comprehensive enterprise resource planning (\"ERP\") solutions"
+publishedDateTime: 2021-05-04T12:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/serenic-software-announces-release-for-microsoft-cloud-301283072.html"
+webUrl: "https://www.prnewswire.com/news-releases/serenic-software-announces-release-for-microsoft-cloud-301283072.html"
 type: article
-quality: 87
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
-  - Web
-  - Serverless
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/18236dbc-5f01-425d-b51f-f9ea621cda64.png"
-    width: 624
-    height: 351
+  - url: "https://mma.prnewswire.com/media/1502632/Serenic_Software_Inc__Serenic_Software_Announces_Release_for_Mic.jpg?p=facebook"
+    width: 596
+    height: 315
     isCached: true
 
 related:
@@ -45,6 +39,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/07/cloud-computing-1-100801494-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Easily build real-time apps with WebSockets and Azure Web PubSub—now in preview"
+    excerpt: "Today, we are announcing the preview of the Azure Web PubSub service for building real-time web applications with WebSockets. WebSocket is a standardized protocol that provides full-duplex communication. It is key to building efficient real-time web interactions and is supported by all major browsers"
+    publishedDateTime: 2021-04-29T11:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/easily-build-realtime-apps-with-websockets-and-azure-web-pubsub-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/18236dbc-5f01-425d-b51f-f9ea621cda64.png"
+        width: 624
+        height: 351
         isCached: true
   - title: "Microsoft offers new Azure specializations and scholarships through Coursera"
     excerpt: "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well."
@@ -171,21 +179,7 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Serenic Software Announces Release for Microsoft Cloud"
-    excerpt: "PRNewswire/ - Serenic Software Inc., a Sylogist Ltd. company, a leading provider of comprehensive enterprise resource planning (\"ERP\") solutions"
-    publishedDateTime: 2021-05-04T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/serenic-software-announces-release-for-microsoft-cloud-301283072.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1502632/Serenic_Software_Inc__Serenic_Software_Announces_Release_for_Mic.jpg?p=facebook"
-        width: 596
-        height: 315
-        isCached: true
 
-secured: "v+B/5YlO9VqtmKnp1Dkvr0DdD4k1D/hjRSrwLSgT29QNpqla9iJ3T0LmFNkOL4PKNzGxspkEr2IM9jXGhBo78F6oC+U+qdo8N1x5dIMpk3ra17wojfXMUsBZ6jNNvkVuwy58Bh6KFWDk13rRypS/Qsk4mgfHXdMY2JuCzs5ZvK1mELNWp8hKzg7AUDy1JukYGK4jfle+A/rhG9/wTq4EXmpQIa8Td5vX83+GAHIkCbCg6+JYKSpXdR4pCd4LY0S2rXY8L3JG8E0bC5Z3XSwJ+nxDITxeGygzYsXHn3UJcIl21kko5Ase/mfoIqbt8IeNOfGjjqMKgN6ORppDeVSdM+HopHqrULD2duf3vyqo5LE=;nkx9NPO4IXJNQEHvK/OxcA=="
+secured: "EOW3CkzJayUpzNJ0DZ9VlKYMyyIiiyNuHesxO6BIkp8KLtItWH0ffMVgTb2wQ2CjD2c8GvHg5HElPh4ItxHqzD1WMjYescJijFaTwFtXyzNp+B9ha7CM3ox4YfdOTFPPVHo4N8lQHm+FfuHgmhunZNrGM3piteq0L8pf9ix+D/dZ/kznII/5Ujf1/JNNAManvHJYg0UQiGFdUOvzEOT0rG3EIAJKT+Y9IxLVVVlpzAs7+fAOu8B2kKAfdAfcCgBWxpqqpy/9uVMSu65Sp0U1GN82MO1DW0j7iACGi3qNQ3GAit0tqXknVSIMUIX4wl1alnOWMKyLn3zL5gz3wrvEOo8bIAmhNOC96XSwdMujilM=;8AA/MoEzTaZZv0484hRJuw=="
 ---
 

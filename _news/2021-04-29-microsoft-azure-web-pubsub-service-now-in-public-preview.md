@@ -168,6 +168,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Serenic Software Announces Release for Microsoft Cloud"
+    excerpt: "PRNewswire/ - Serenic Software Inc., a Sylogist Ltd. company, a leading provider of comprehensive enterprise resource planning (\"ERP\") solutions"
+    publishedDateTime: 2021-05-04T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/serenic-software-announces-release-for-microsoft-cloud-301283072.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/1502632/Serenic_Software_Inc__Serenic_Software_Announces_Release_for_Mic.jpg?p=facebook"
+        width: 596
+        height: 315
+        isCached: true
 
 secured: "hrTp1I38Pap/6AuQfiy6Ml5dlAgsKx/wRBDFlM2Ok90GN97VB0i/KXtn6Ezcrmi84zQh3B6D1NrgkktoDQlcQX2xJtrOeOXXoEk8J0kGtIMREeGNIveXCH4OICn4siFoHxXAyacG13rFxQ9LjZXjQ/VeDUEy5htPoX5iMCOAcI5B5ymIuMGXhqD17K4rE/MVYpvYA0mZQoKkMj8FZg/IxnhR5BCJUBElml24M6NohMUk6RcD8Tm5pJjwqef2Hi5BXpN2I0CWpNKXm79q7Q840mTSWgdcm8C5nbgUPVFUgMZTttz+jf6EHR323CcsTYxzoHR97CTCt0qxvmrqOqowTIgcX38BAOTey96aridKhRc=;/vsNqvfbQXk9zeSN5aypTw=="
 ---

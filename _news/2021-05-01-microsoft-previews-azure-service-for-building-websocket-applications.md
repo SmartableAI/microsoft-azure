@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3617113/microsoft-previews-azure-s
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html"
 type: article
 quality: 97
-heat: 297
+heat: 317
 published: true
 
 provider:
@@ -168,6 +168,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Serenic Software Announces Release for Microsoft Cloud"
+    excerpt: "PRNewswire/ - Serenic Software Inc., a Sylogist Ltd. company, a leading provider of comprehensive enterprise resource planning (\"ERP\") solutions"
+    publishedDateTime: 2021-05-04T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/serenic-software-announces-release-for-microsoft-cloud-301283072.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/1502632/Serenic_Software_Inc__Serenic_Software_Announces_Release_for_Mic.jpg?p=facebook"
+        width: 596
+        height: 315
         isCached: true
 
 secured: "ZRvXLOlEcNDYjT7Rjm3cV+DtL8YbIam4JMMERn/z3H8XXPAkEY8RGb9c+Ks/gqiOptOdZssepjtt2foOfyqHdaXX99Byq6aJ0VLXGo02/t2jy30WV2XN28dqktPmFCNjTWYybi7pMBM/gdJ97dB7BZUvTPluKug5FXp4bzDiU6UAtnl/qZTaJKx62B8zHQY6u3RzUIdXOmNbw1DJSPXLHDT9bLWGxsGigUbjp/QA2NAh6gVKi+l6PQ0VJUaG49MviRL/wqnjQLUDMjVyKOlhByPQq4w/M6kNHisG1aFOlqTAWT2H8b/hVdxN8imZ3w5p4JJsggQTPLUHAPWYCpErWBB53s/wg/DQHX8ual48QRg=;g/MvzUlMR6z96msoQZr7bw=="
