@@ -4,7 +4,7 @@ excerpt: "Describe the capabilities of Microsoft compliance solutions"
 type: collection
 price: Free
 length: PT2H54M
-heat: 52
+heat: 56
 
 provider:
   name: Microsoft Learn

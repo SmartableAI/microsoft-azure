@@ -8,7 +8,7 @@ length: PT25M
 ratings:
   count: 2365
   average: 4.6820297
-heat: 52
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "C61eAUV5hflK64+ypIRr7tYlrTgRqGzhbsfCgLN+pPNAhgQMvMP6OPd1fJ4ATpAFMY31jCZFnPlc8zCa1gOn0FlIbI7Zpc0/3q+Q2wdqFrPGXM3Y4GVNtwmcWae+zdH8ufuJ7lYrtV7HNY8UZRxMhOIC+grWfGmJvQuBFPvAGSqdaqW6ND8tN2tdgk5d2AY04/eRkmdEqfE7Dap2/bO1c1y/ZhK5o2yFJNkScV+VeYU527yB7stQnyCyawlFRtIvU84KClxyXeCEquMxWusYaNTup+Z44hRDM71U3kAOj+sZb9OJmEhshPfSun7rFEN4bm6FjbFTtS6dwKeuucDVlyIBRgKoeY3WZLmB8jdoZKcHQXwJYoufsEVkZaDtyzZ4504RDOV3DLYiMoObhX4+/P/1nLPVHIlZpPgx71h/Daw=;zQ2P21G/eFdb65p/u5tqkA=="
+secured: "8aJ4Eqr/4AEphp676UNJZ9UhJBUbmpstMuhKBrJLEJKc6OzsBU0CVjzeu3KJiJnwnS48u+IyXNHV97BCEZjpmnCNeU2zWAb/kGAs4f3hivbetjamAoBEn2JR8dLUC6qZjotat4Uo5hhahsTnYHoTBGenoReksc8XCyOh/KROi7fU25iQU2cvmxCBqPxj5SMc8aJIjsCCSYnCdsyumbnHVktVD3Y96PLQf2QVt5IQhoFKHxwywCTbTjDVvX32s/wUwH0U1E8+2lO/4uGre4iK5Gp70kAY6OjYPqvQBM4XZ9NzMbAmu1MkFp0VvhzFgjfBPJMH5LR+JVh0KVu5wTzjmFERYy6nVW+gT64yuG5EHghkPBZ6Y1vRVyA/ZKlHbrza8jm6RO2yfbNCc2QmlPkoTUM0P+kMJ3tOSnZxZ40/BQE=;A8sn8hHlfgskoZpZt/Odzw=="
 ---
 
