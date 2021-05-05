@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Save 98% off this Complete 2021 Microsoft, Windows, & Azure Bundle"
-excerpt: "Deliver smooth, secure, and configured process to users and organizations with 17 hands-on courses on the top 3 cloud service platforms with today's highlighted deal that includes certification."
-publishedDateTime: 2021-04-29T14:00:00Z
-originalUrl: "https://www.neowin.net/news/save-98-off-this-complete-2021-microsoft-windows--azure-bundle/"
-webUrl: "https://www.neowin.net/news/save-98-off-this-complete-2021-microsoft-windows--azure-bundle/"
+title: "Microsoft's Azure revenue quietly passes AWS and Google Cloud, again"
+excerpt: "With all the quarterly earnings reported and accounted for, it appears Microsoft's Azure cloud revenue has once again outperformed AWS and Google Cloud combined. Despite the simulated perception of Amazon's AWS goliath like stature,"
+publishedDateTime: 2021-05-05T18:14:00Z
+originalUrl: "https://www.onmsft.com/news/azure-revenue-beats-aws-and-google-cloud-again"
+webUrl: "https://www.onmsft.com/news/azure-revenue-beats-aws-and-google-cloud-again"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Neowin
-  domain: neowin.net
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg"
-      width: 50
-      height: 50
+  name: On MSFT
+  domain: onmsft.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619700240_sale_232555_primary_image_story.jpg"
-    width: 760
-    height: 428
+  - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Azure-clou-AWS-Google-Cloud.png"
+    width: 1024
+    height: 442
     isCached: true
 
 related:
@@ -75,6 +71,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Save 98% off this Complete 2021 Microsoft, Windows, & Azure Bundle"
+    excerpt: "Deliver smooth, secure, and configured process to users and organizations with 17 hands-on courses on the top 3 cloud service platforms with today's highlighted deal that includes certification."
+    publishedDateTime: 2021-04-29T14:00:00Z
+    webUrl: "https://www.neowin.net/news/save-98-off-this-complete-2021-microsoft-windows--azure-bundle/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 77
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619700240_sale_232555_primary_image_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
     excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
@@ -189,20 +199,6 @@ related:
       - url: "http://share.opsy.st/5f3459587a6d9-19b62c4b-54c0-4648-9572-9c9e39e319b8_786a7002-65d7-4ec7-8b7e-4f3ea869f726_productImage.png"
         width: 687
         height: 473
-        isCached: true
-  - title: "Microsoft's Azure revenue quietly passes AWS and Google Cloud, again"
-    excerpt: "With all the quarterly earnings reported and accounted for, it appears Microsoft's Azure cloud revenue has once again outperformed AWS and Google Cloud combined. Despite the simulated perception of Amazon's AWS goliath like stature,"
-    publishedDateTime: 2021-05-05T18:14:00Z
-    webUrl: "https://www.onmsft.com/news/azure-revenue-beats-aws-and-google-cloud-again"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 37
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Azure-clou-AWS-Google-Cloud.png"
-        width: 1024
-        height: 442
         isCached: true
   - title: "WANdisco Launched As A First-Party Service On Microsoft's Azure Platform"
     excerpt: "There are very few companies that are selected to be first-party services on the Azure platform. Since the launch in June, the company has signed on 11 new customers."
@@ -459,6 +455,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "5gBv4Z86laT30n3HXqY8frShIpjkQgziIul7qI9LwwP37y71b5W3P6nHGKk4qI0zbMmsS13ge4xal0Z3TndsnoQSO2hkmpGox+FJDk4B9ZqCuBbBBYRCIjXI6BcnnMr1dVws9p+5MqhJxf3AjLV2T1fAVUNEcV38uUnwcM4EfE57wqPH1vOclDQz3ba94x7C2YxkpefV+TxD2cTbqzMlxPXSm5V+tS9BITMb6S283jRCXg5ZNMJzxDamgjBiBqmbFiwlJfU1FbNHbtcEerir7cHghsstw6WXto+TD4aZ/S4Ffp4GDRhMFUfuca9fYNzw/II3+I1EYA+b0uTvYK500/RzJXhHOuCYyJEWpkzIvzdi/NNMNfako7lxLoM+GVVcdyeyYyMKZfIlQimh3AutQIr5AJ8KgjAh1+RBoQ8yCg2Gw04098xcz5b98fUWHxL5HUyMZXOuXQOrHpMn3qgG3Qk9cdOj+tDbjkaXKGcYmFVIYbXHruUe8Hu/o1m5r8zi5iMIxOnha09quFurPyLgog==;tYw0sv3a4jGrdQxCJL8vpQ=="
+secured: "kOUKAjE1U3psBUzqvXEAByfXTN+izKBz0s32uRVuHp0DRIfllvBRPo0suSekKR1s/bsF3afagvMLSII7JopTaPnP5aubP5cZO65XLCZVxxe36M4GmuNDfXBQo267rEYCDTl5t93iPUc5NhH0cakrcVXZ4vAPqEFE0sFaAz1p+qtTsXSyypnmDvBLMuCIuJCty8i8D7HYzwpOMkXyD7hmT48DVS9EK02HFIaYhGuxmoGWzdrIMf8NgXBZMHEWFl+Gb32x99twf33y3q623qa9wooSxLUuOfYi6hO1oAH9mT1wTBSZI+970a2xARbiHMYkJ5E7pUzkljB9GNzKE6j+clZ/F5wnLRWne3hLjBc81VE=;myunc9OfhwrXKzX4ArqRSA=="
 ---
 

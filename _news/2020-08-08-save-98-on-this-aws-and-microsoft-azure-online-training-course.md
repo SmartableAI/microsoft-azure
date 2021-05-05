@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/uk/shopping/aug-8-cloud-certification-training.
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/aug-8-cloud-certification-training.amp"
 type: article
 quality: 97
-heat: 717
+heat: 737
 published: true
 
 provider:
@@ -184,6 +184,20 @@ related:
       - url: "http://share.opsy.st/5f3459587a6d9-19b62c4b-54c0-4648-9572-9c9e39e319b8_786a7002-65d7-4ec7-8b7e-4f3ea869f726_productImage.png"
         width: 687
         height: 473
+        isCached: true
+  - title: "Microsoft's Azure revenue quietly passes AWS and Google Cloud, again"
+    excerpt: "With all the quarterly earnings reported and accounted for, it appears Microsoft's Azure cloud revenue has once again outperformed AWS and Google Cloud combined. Despite the simulated perception of Amazon's AWS goliath like stature,"
+    publishedDateTime: 2021-05-05T18:14:00Z
+    webUrl: "https://www.onmsft.com/news/azure-revenue-beats-aws-and-google-cloud-again"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Azure-clou-AWS-Google-Cloud.png"
+        width: 1024
+        height: 442
         isCached: true
   - title: "WANdisco Launched As A First-Party Service On Microsoft's Azure Platform"
     excerpt: "There are very few companies that are selected to be first-party services on the Azure platform. Since the launch in June, the company has signed on 11 new customers."
