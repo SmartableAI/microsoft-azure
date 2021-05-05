@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 97
+  - title: "General availability: Azure Log Analytics UI updates May 2021"
+    excerpt: "Azure Log Analytics for May 2021 include a new and updated experience for custom logs management and pinned parts filter integration."
+    publishedDateTime: 2021-05-05T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-log-analytics-ui-updates-may-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: Azure Data Explorer (ADX) Performance Updates "
     excerpt: "The next version of Azure Data Explorer (ADX) with performance updates is now available.\n"
     publishedDateTime: 2021-03-17T16:00:25Z

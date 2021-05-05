@@ -559,6 +559,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "A Quick Introduction to Microsoft Azure Purview"
+    excerpt: "One of the newest solutions aiming to ease these orchestration woes is Microsoft Azure Purview, a cloud platform-as-a-service (PaaS) that provides a unified view of data sources across an organization."
+    publishedDateTime: 2021-05-05T16:45:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/"
+    ampWebUrl: "https://www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 57
+    images:
+      - url: "https://www.cmswire.com/-/media/80ae800a4aae4fed8d9beae1edf83e7b.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Guide to Microsoft Azure Cloud Storage"
     excerpt: "Microsoft's Azure cloud storage provides a robust set of storage options, a menu of offerings that can be overwhelming to the uninitiated at first glance. Storage on Azure isn't a single service or even just a single type of account. Rather, what Microsoft ..."
     publishedDateTime: 2021-01-28T21:24:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-support-for
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-support-for-up-to-32-disks-is-now-generally-available/"
 type: article
 quality: 84
-heat: 264
+heat: 284
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 83
+  - title: "Azure Backup: Operational backup for Azure Blobs is now generally available"
+    excerpt: "Operational backup for Azure Blobs gives you a managed data protection solution for block blobs in your storage accounts."
+    publishedDateTime: 2021-05-05T16:00:47Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-blob-op-backup-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
   - title: "Python Durable Functions support in Azure Functions is now generally available "
     excerpt: "Python developers can now create serverless workflows to orchestrate complex data processing and data science workloads in Azure Functions. "
     publishedDateTime: 2021-03-10T17:00:21Z

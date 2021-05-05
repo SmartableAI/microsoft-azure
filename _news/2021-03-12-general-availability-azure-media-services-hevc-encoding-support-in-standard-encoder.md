@@ -153,6 +153,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Multiple features for Azure VPN Gateway"
+    excerpt: "Take advantage of multiple new enhancements and features that are now generally available in Azure VPN Gateway."
+    publishedDateTime: 2021-05-05T16:24:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-multiple-new-features-for-azure-vpn-gateway/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: ExpressRoute monitoring in Azure Monitor network insights"
     excerpt: "Network insights in Azure Monitor now supports monitoring Azure ExpressRoute resources out of the box without any additional configuration or setup."
     publishedDateTime: 2021-03-31T16:01:57Z

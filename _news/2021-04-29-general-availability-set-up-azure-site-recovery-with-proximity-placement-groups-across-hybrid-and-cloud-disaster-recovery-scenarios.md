@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/set-up-asr-with-ppg/"
 webUrl: "https://azure.microsoft.com/en-us/updates/set-up-asr-with-ppg/"
 type: article
 quality: 53
-heat: 53
-published: false
+heat: 73
+published: true
 
 provider:
   name: Microsoft
@@ -21,6 +21,17 @@ provider:
 topics:
   - Azure
   - Migration
+
+related:
+  - title: "General availability: Custom Translator—May new features, improvements and bug fixes"
+    excerpt: "Review the Microsoft Custom Translator new features, improvements, bug fixes, and new/refreshed models for May 2021."
+    publishedDateTime: 2021-05-05T16:00:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ctmay2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 45
 
 secured: "3WIHyhfuJdZKGKYeaYtuPblkGN/ahJduMOSSfxVim9FhR8x8z5v6sirH5ZzX87Pp1t7jW1/fKNK27+oekJGj68Ir5JFsLlh2eGPZXW4sKVVGh1wGRz347OWKj716Rea5klaYJRgSSGtfiwZmA5z6HtkmYSXXvcG9AJ2Td5qYuigna5bt8zYDYnfk9/nydEryTFj0x7+Fxhjb+Tho6I9PVIBm397CPvE/x1QJBuc/c9I6nKkCHdhM173bzdUmil0hwptDtMCMsS5kmzBAr2J16COsTa/Fejg9YPAhhHSmwkzwWa7T7UL+oGVkWmMg4o+v8Wa45iM75GCLJTVBolVjzEa1BtYJYJ2tS5z7oOpUEYg=;fK1as9N84rDnOjX8WPPauw=="
 ---

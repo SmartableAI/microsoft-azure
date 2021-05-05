@@ -154,6 +154,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Multiple features for Azure VPN Gateway"
+    excerpt: "Take advantage of multiple new enhancements and features that are now generally available in Azure VPN Gateway."
+    publishedDateTime: 2021-05-05T16:24:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-multiple-new-features-for-azure-vpn-gateway/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: Azure Backup supports backup and restore of Azure Dedicated Host "
     excerpt: "To protect your valuable resources, Azure Backup now supports backup & restore of Azure Virtual Machines with dedicated host. \n\n\n"
     publishedDateTime: 2021-04-01T15:56:14Z

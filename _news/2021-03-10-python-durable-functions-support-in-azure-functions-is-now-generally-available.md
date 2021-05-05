@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 83
+  - title: "Azure Backup: Operational backup for Azure Blobs is now generally available"
+    excerpt: "Operational backup for Azure Blobs gives you a managed data protection solution for block blobs in your storage accounts."
+    publishedDateTime: 2021-05-05T16:00:47Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-blob-op-backup-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
   - title: "Azure HDInsight --Autoscale for Interactive Query with HDInsight 4.0 is now generally available"
     excerpt: "Enable HDInsight Autoscale to drive higher utilization of your clusters. "
     publishedDateTime: 2020-09-29T16:39:04Z

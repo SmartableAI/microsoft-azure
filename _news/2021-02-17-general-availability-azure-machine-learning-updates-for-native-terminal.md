@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
 type: article
 quality: 97
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "General availability: Azure Log Analytics UI updates May 2021"
+    excerpt: "Azure Log Analytics for May 2021 include a new and updated experience for custom logs management and pinned parts filter integration."
+    publishedDateTime: 2021-05-05T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-log-analytics-ui-updates-may-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General Availability: Azure Red Hat OpenShift support for OpenShift 4.6"
     excerpt: "Benefit from new features and enhancements in OpenShift release 4.6."
     publishedDateTime: 2021-02-18T17:00:06Z

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 839
+heat: 859
 published: true
 
 provider:
@@ -143,6 +143,15 @@ related:
     excerpt: "Azure Monitor for Windows Virtual Desktop provides a centralized view of the health of your Windows Virtual Desktop environment and enables you to optimize your deployment and quickly troubleshoot issues."
     publishedDateTime: 2021-04-01T16:00:08Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-for-windows-virtual-desktop/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Multiple features for Azure VPN Gateway"
+    excerpt: "Take advantage of multiple new enhancements and features that are now generally available in Azure VPN Gateway."
+    publishedDateTime: 2021-05-05T16:24:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-multiple-new-features-for-azure-vpn-gateway/"
     type: article
     provider:
       name: Microsoft
