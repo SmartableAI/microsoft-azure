@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Dassian Announces Collaboration with Microsoft Azure Government"
-excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
-publishedDateTime: 2021-04-26T23:19:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
-webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
+title: "Data Theorems Modern AppSec SaaS Solutions Now Available in the Microsoft Azure Marketplace"
+excerpt: "Data Theorem, Inc., a leading provider of modern application security, today announced that its broad portfolio of modern AppSec products is now available in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure,"
+publishedDateTime: 2021-05-04T12:00:00Z
+originalUrl: "https://www.financialbuzz.com/data-theorems-modern-appsec-saas-solutions-now-available-in-the-microsoft-azure-marketplace/"
+webUrl: "https://www.financialbuzz.com/data-theorems-modern-appsec-saas-solutions-now-available-in-the-microsoft-azure-marketplace/"
 type: article
-quality: 37
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
-    width: 2084
-    height: 1090
-    isCached: true
 
 related:
   - title: "Microsoft previews Azure service for building WebSocket applications"
@@ -125,6 +119,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Dassian Announces Collaboration with Microsoft Azure Government"
+    excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
+    publishedDateTime: 2021-04-26T23:19:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
+        width: 2084
+        height: 1090
+        isCached: true
   - title: "Microsoft buys Linux distribution maker Kinvolk to boost Azure cloud services"
     excerpt: "Microsoft Corp. has bought Kinvolk GmbH, the Berlin-based startup behind a specialized Linux distribution used to power software container environments on Azure and other public clouds. The technology giant announced the deal today in a post on its Azure blog."
     publishedDateTime: 2021-04-29T20:49:00Z
@@ -195,16 +203,7 @@ related:
         width: 596
         height: 315
         isCached: true
-  - title: "Data Theorems Modern AppSec SaaS Solutions Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Data Theorem, Inc., a leading provider of modern application security, today announced that its broad portfolio of modern AppSec products is now available in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure,"
-    publishedDateTime: 2021-05-04T12:00:00Z
-    webUrl: "https://www.financialbuzz.com/data-theorems-modern-appsec-saas-solutions-now-available-in-the-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 7
 
-secured: "55ocKT+yfFE9mcCj3/qmvjiRJfsptScrummSnV7mG10Nw1nkkg96wyCjMJKgSviYhJPIkE+e2cBE1CuJHNiEJroHrBzORjrZEUQh7oQV07yxqeeXmUKIm4mMzBYoQOgdqMsWfzCWxh3AMKjNrjR1pyocA/zv3gHf3ahmcQL7XAL9rof1q3BRAUYsYV+vbEw90VdJvU3YjY9Q+3GLYhPWhr0MZjNxhY9rGBaXDU+yIUKpgZFX+e+MiCSn3jckB2ZAVFoNZHYd7tLzq9GQxv5d8ZWNDvwzh+4zDXPvU0RwcgCmMbMTuKed88l3bNDSl2exRBJvzBOuf7ywnvEdeb4N7WbOeCIH4zrjC7HsTo2Xq6g=;BCBaa/7tzBSmmhWG9hvNnA=="
+secured: "zp2qRXw+2Xm1RS5XacVxyNgS3svtAmNk2DTAa4FYkX0ztqnqV8/M2X4UcfD7Wd2+W8Ba/oeYHYmJMuQg+RRwz7CAqUJsBKVtXctgdes5LtSxMuDm4ToM25iGCrsBkT5QPJUcEj5aNiVsq8BdFc8zYtHjBWFwwBNuxuvvV8+YA/0Zj7X74Pbe8C9rWtRvE/yraeq0/GsIAz+5YAoAc/xYmU4dhTOFj/EsmKUudMOmjFBLAeRn+C2TaFCtdxajemvavW/qenBGtnH/ViagFURxN4PJ/5RtZOI2JT9o5U4VD1iV4eU37defvHUQ/95Iu4SuCvpC7TA0O8JavKQk4zP+QstbZtbimHzTAupxdI4+c50=;FImtl7JLRgPbqd9fyxqwgg=="
 ---
 

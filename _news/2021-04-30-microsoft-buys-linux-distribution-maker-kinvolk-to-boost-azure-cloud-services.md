@@ -77,6 +77,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Softline earns the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Read Article In March 2021, Softline received Linux and Open Source Databases Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertise in migrating workloads running on Red Hat Enterprise Linux or SUSE virtual machines and/or utilizing MySQL,"
+    publishedDateTime: 2021-05-05T09:54:00Z
+    webUrl: "https://www.crn.in/news/softline-earns-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization/"
+    ampWebUrl: "https://www.crn.in/amp/news/softline-earns-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization/"
+    cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/softline-earns-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization/"
+    type: article
+    provider:
+      name: CRN
+      domain: www.crn.in
+    quality: 58
+    images:
+      - url: "https://cdn.crn.in/wp-content/uploads/2018/06/04150829/Microsoft.jpg"
+        width: 696
+        height: 465
+        isCached: true
   - title: "Coursera and Microsoft launch Microsoft Azure Fundamentals specialization"
     excerpt: "Coursera has announced a new Microsoft Azure Fundamentals Specialization in collaboration with Microsoft to help learners kickstart their career in cloud Coursera has announced a collaboration with Microsoft to launch a new Microsoft Azure Fundamentals ..."
     publishedDateTime: 2021-04-27T10:55:00Z
@@ -179,6 +195,15 @@ related:
         width: 596
         height: 315
         isCached: true
+  - title: "Data Theorems Modern AppSec SaaS Solutions Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Data Theorem, Inc., a leading provider of modern application security, today announced that its broad portfolio of modern AppSec products is now available in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure,"
+    publishedDateTime: 2021-05-04T12:00:00Z
+    webUrl: "https://www.financialbuzz.com/data-theorems-modern-appsec-saas-solutions-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 7
 
 secured: "ZX+ddoLe4b0q4GW4LNROPRhfBVHD8z60O3mhvyHF8HGZLOyziTkxzz7hTYzJ+liqG430zaPUXzeepDMUgITeyipaTGfDy97bohAReIz5n8kIuQzS5v5Py6ybweT+c8IDty0Lq/WqS84pnvbNo+xSoG1HWEG9DAxTriJ0pUl99dQyLxAqooXQs53C4yZqFT9biTUq5T/9/NMOiXXsnAn0ocH3ItvzdM/W+hcCt42tAyvZ+G+j2QNFJ4vV5tP42Q5zxwxyloiO7WsguvKo+3Gl6g2OYPvvB6QaxEXvPPrfj753oJU6igHRxkYgOw5sD+iBMMk5Vxuj9NI6LosCHrZPY/EhmK+aNoeWs8GktZmJcsOnfuq/ASZMLePnt3TCJXSyazF6RXZOWZJsxtfcvtIqED7LYspG5Y30E8r6Zd/A22PkF6MR9VqZMgpOUNw7POjMqJ3dJQORVk99Z9ru/ON+NgH/eiHC/RDqDWvuOG2Md3Mbc+/TNAWVgIfGbQa4zeKP6H7IdcLgkPV2s25PpOUqYg==;VwDoURz5V1FNsynzXjmH2Q=="
 ---

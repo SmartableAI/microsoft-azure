@@ -1,26 +1,29 @@
 ---
 category: news
-title: "Dassian Announces Collaboration with Microsoft Azure Government"
-excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
-publishedDateTime: 2021-04-26T23:19:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
-webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
+title: "Softline earns the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
+excerpt: "Read Article In March 2021, Softline received Linux and Open Source Databases Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertise in migrating workloads running on Red Hat Enterprise Linux or SUSE virtual machines and/or utilizing MySQL,"
+publishedDateTime: 2021-05-05T09:54:00Z
+originalUrl: "https://www.crn.in/news/softline-earns-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization/"
+webUrl: "https://www.crn.in/news/softline-earns-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization/"
+ampWebUrl: "https://www.crn.in/amp/news/softline-earns-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization/"
+cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/softline-earns-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization/"
 type: article
-quality: 37
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: CRN
+  domain: www.crn.in
 
 topics:
   - Azure
+  - Migration
 
 images:
-  - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
-    width: 2084
-    height: 1090
+  - url: "https://cdn.crn.in/wp-content/uploads/2018/06/04150829/Microsoft.jpg"
+    width: 696
+    height: 465
     isCached: true
 
 related:
@@ -77,22 +80,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Softline earns the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Read Article In March 2021, Softline received Linux and Open Source Databases Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertise in migrating workloads running on Red Hat Enterprise Linux or SUSE virtual machines and/or utilizing MySQL,"
-    publishedDateTime: 2021-05-05T09:54:00Z
-    webUrl: "https://www.crn.in/news/softline-earns-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization/"
-    ampWebUrl: "https://www.crn.in/amp/news/softline-earns-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization/"
-    cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/softline-earns-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 58
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2018/06/04150829/Microsoft.jpg"
-        width: 696
-        height: 465
-        isCached: true
   - title: "Coursera and Microsoft launch Microsoft Azure Fundamentals specialization"
     excerpt: "Coursera has announced a new Microsoft Azure Fundamentals Specialization in collaboration with Microsoft to help learners kickstart their career in cloud Coursera has announced a collaboration with Microsoft to launch a new Microsoft Azure Fundamentals ..."
     publishedDateTime: 2021-04-27T10:55:00Z
@@ -124,6 +111,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/microsoft-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Dassian Announces Collaboration with Microsoft Azure Government"
+    excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
+    publishedDateTime: 2021-04-26T23:19:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
+        width: 2084
+        height: 1090
         isCached: true
   - title: "Microsoft buys Linux distribution maker Kinvolk to boost Azure cloud services"
     excerpt: "Microsoft Corp. has bought Kinvolk GmbH, the Berlin-based startup behind a specialized Linux distribution used to power software container environments on Azure and other public clouds. The technology giant announced the deal today in a post on its Azure blog."
@@ -205,6 +206,6 @@ related:
       domain: financialbuzz.com
     quality: 7
 
-secured: "55ocKT+yfFE9mcCj3/qmvjiRJfsptScrummSnV7mG10Nw1nkkg96wyCjMJKgSviYhJPIkE+e2cBE1CuJHNiEJroHrBzORjrZEUQh7oQV07yxqeeXmUKIm4mMzBYoQOgdqMsWfzCWxh3AMKjNrjR1pyocA/zv3gHf3ahmcQL7XAL9rof1q3BRAUYsYV+vbEw90VdJvU3YjY9Q+3GLYhPWhr0MZjNxhY9rGBaXDU+yIUKpgZFX+e+MiCSn3jckB2ZAVFoNZHYd7tLzq9GQxv5d8ZWNDvwzh+4zDXPvU0RwcgCmMbMTuKed88l3bNDSl2exRBJvzBOuf7ywnvEdeb4N7WbOeCIH4zrjC7HsTo2Xq6g=;BCBaa/7tzBSmmhWG9hvNnA=="
+secured: "wD3GeSNowpi+kGyk9Nf6oC/12ptdJ1vmGkdxks+P4kOIdJy+6v9cyJvmnYzDDgK2ibMLGWrsZ2YZVZWMrpu8w1JWdG6azXstugAP0JjEt87jJJ8DUB7PQwSpu8DWGB1Ka6zXcRb0fmHRfcc7pFQ2VL2GI5HAbJiK6AzcFh8r2Ykvi1rJtMOSwbw++rqcGcXToIN44HCOhRmvBd9VgkgISbWzyTYJDbP98mT+fvhQXPvyNWETB34plJgADKBIwCk1r+YtHtVZh5UcVA1y+Y16gg/W66isUqUKIWO+T59Eh3BmFcKFSbm0BG9tBtdoEB6wZsh3u0xGup80gtBdpcMy+d0oNJj+ItCZhA903BhQYfg=;Oe/rZBjVS2lRyeywc6NMqw=="
 ---
 
