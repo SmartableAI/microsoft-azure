@@ -4,6 +4,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-get-started-with-connected-field-service.md",
+      "title": "Get started with Connected Field Service for Dynamics 365 and Azure IoT",
+      "excerpt": "This module will focus on the initial deployment of the Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through the installation and an understanding of the components installed as part of the out of the box template application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-connected-field-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-connected-field-service/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 90,
+        "average": 4.7222223
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-3-describe-core-solutions-and-management-tools-on-azure.md",
       "title": "Azure Fundamentals part 3: Describe core solutions and management tools on Azure",
       "excerpt": "Learn how to choose the best services from Azure to build and manage cloud solutions.",
@@ -34,8 +69,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 8254,
-            "average": 4.776472
+            "count": 8262,
+            "average": 4.7764463
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -77,8 +112,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 6335,
-            "average": 4.7199683
+            "count": 6337,
+            "average": 4.719899
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +155,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 5653,
-            "average": 4.7548203
+            "count": 5658,
+            "average": 4.7548604
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -164,8 +199,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5305,
-            "average": 4.751555
+            "count": 5307,
+            "average": 4.7514606
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -233,8 +268,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 6861,
-        "average": 4.780936
+        "count": 6866,
+        "average": 4.7809496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -317,8 +352,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 5102,
-        "average": 4.7734222
+        "count": 5105,
+        "average": 4.7735553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -424,8 +459,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1832,
-            "average": 4.504367
+            "count": 1833,
+            "average": 4.5046372
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -507,8 +542,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2239,
-            "average": 4.590889
+            "count": 2240,
+            "average": 4.5910716
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -632,8 +667,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 42098,
-            "average": 4.7180624
+            "count": 42099,
+            "average": 4.718069
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -885,8 +920,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2239,
-            "average": 4.590889
+            "count": 2240,
+            "average": 4.5910716
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -920,8 +955,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2480,
-            "average": 4.4669356
+            "count": 2481,
+            "average": 4.46715
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1121,8 +1156,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 525,
-            "average": 4.4933333
+            "count": 526,
+            "average": 4.4942966
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1211,8 +1246,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9707,
-            "average": 4.698568
+            "count": 9708,
+            "average": 4.698599
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1687,8 +1722,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1832,
-            "average": 4.504367
+            "count": 1833,
+            "average": 4.5046372
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2531,7 +2566,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -2769,8 +2804,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 525,
-            "average": 4.4933333
+            "count": 526,
+            "average": 4.4942966
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2923,8 +2958,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
       "length": "PT56M",
       "ratings": {
-        "count": 525,
-        "average": 4.4933333
+        "count": 526,
+        "average": 4.4942966
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3388,50 +3423,6 @@
       "topics": [
         "Azure",
         "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-iot-funtions-iot.md",
-      "title": "Introduction to Azure Functions for IoT",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-iot-funtions-iot/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-azure-functions-iot/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 152,
-        "average": 4.7039475
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-azure-functions-iot-edge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Serverless"
       ]
     }
   ],
