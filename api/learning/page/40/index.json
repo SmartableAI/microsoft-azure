@@ -4,49 +4,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-perform-advanced-streaming-data-transformations-with-spark-kafka.md",
-      "title": "Perform advanced streaming data transformations with Apache Spark and Kafka in Azure HDInsight",
-      "excerpt": "Perform advanced streaming data transformations with Apache Spark and Kafka in Azure HDInsight",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-advanced-streaming-data-transformations-with-spark-kafka/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-advanced-streaming-data-transformations-with-spark-kafka/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 79,
-        "average": 4.392405
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/perform-advanced-streaming-data-transformations-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-perform-code-free-transformation-scale-azure-data-factory.md",
       "title": "Perform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline",
       "excerpt": "Perform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline",
@@ -54,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/code-free-transformation-scale/",
       "length": "PT58M",
       "ratings": {
-        "count": 162,
-        "average": 4.388889
+        "count": 163,
+        "average": 4.392638
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -316,8 +273,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/petabyte-scale-ingestion-azure-data-factory/",
       "length": "PT43M",
       "ratings": {
-        "count": 229,
-        "average": 4.611354
+        "count": 230,
+        "average": 4.6130433
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1079,8 +1036,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/",
       "length": "PT29M",
       "ratings": {
-        "count": 52,
-        "average": 4.4615383
+        "count": 53,
+        "average": 4.4716983
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1164,8 +1121,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/",
       "length": "PT32M",
       "ratings": {
-        "count": 1062,
-        "average": 4.753296
+        "count": 1063,
+        "average": 4.7535276
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1282,6 +1239,49 @@
         "Azure",
         "Analytics",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-protect-data-transit-at-rest.md",
+      "title": "Protect data in-transit and at rest",
+      "excerpt": "Protect data in-transit and at rest",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-data-transit-at-rest/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-data-transit-rest/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 1636,
+        "average": 4.796455
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/protect-data-in-transit-and-at-rest-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     }
   ],
