@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
           "length": "PT55M",
           "ratings": {
-            "count": 1016,
-            "average": 4.7539372
+            "count": 1017,
+            "average": 4.754179
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -285,8 +285,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 42099,
-            "average": 4.718069
+            "count": 42100,
+            "average": 4.718076
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -465,8 +465,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1567,
-            "average": 4.759413
+            "count": 1568,
+            "average": 4.7595663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -551,8 +551,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 914,
-            "average": 4.737418
+            "count": 915,
+            "average": 4.7377048
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -728,8 +728,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6295,
-            "average": 4.6270056
+            "count": 6296,
+            "average": 4.6270647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -932,8 +932,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
           "length": "PT43M",
           "ratings": {
-            "count": 1258,
-            "average": 4.693164
+            "count": 1259,
+            "average": 4.6934075
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1088,8 +1088,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 8393,
-        "average": 4.654355
+        "count": 8396,
+        "average": 4.6543593
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1335,43 +1335,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
-      "title": "Host a web application with Azure App service",
-      "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
-      "length": "PT58M",
-      "ratings": {
-        "count": 6295,
-        "average": 4.6270056
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 62,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-az-400-define-and-implement-continuous-integration.md",
       "title": "AZ-400: Define and implement continuous integration",
       "excerpt": "Create automated pipelines that continuously build, test, and deploy your applications and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
@@ -1402,8 +1365,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
           "length": "PT1H20M",
           "ratings": {
-            "count": 5317,
-            "average": 4.7438407
+            "count": 5318,
+            "average": 4.743889
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1445,8 +1408,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 3338,
-            "average": 4.7339725
+            "count": 3339,
+            "average": 4.734052
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1463,7 +1426,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-quality-tests-when-your-application-builds-social.png",
@@ -1568,7 +1531,7 @@
         }
       ],
       "size": 11,
-      "heat": 61,
+      "heat": 62,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
@@ -1589,6 +1552,43 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
+      "title": "Host a web application with Azure App service",
+      "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 6296,
+        "average": 4.6270647
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 62,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
       "title": "Create a Linux virtual machine in Azure",
       "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
@@ -1596,8 +1596,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 9839,
-        "average": 4.696412
+        "count": 9840,
+        "average": 4.696443
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1655,8 +1655,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 6436,
-            "average": 4.700901
+            "count": 6437,
+            "average": 4.7009478
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1740,8 +1740,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 5959,
-            "average": 4.725625
+            "count": 5960,
+            "average": 4.7256713
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3154,8 +3154,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 92,
-            "average": 4.6847825
+            "count": 93,
+            "average": 4.688172
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3593,8 +3593,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-introduction/",
           "length": "PT19M",
           "ratings": {
-            "count": 122,
-            "average": 4.663934
+            "count": 123,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4015,8 +4015,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 15368,
-        "average": 4.7200675
+        "count": 15369,
+        "average": 4.720086
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4138,8 +4138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "PT51M",
       "ratings": {
-        "count": 7001,
-        "average": 4.712327
+        "count": 7002,
+        "average": 4.712225
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4174,8 +4174,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 4958,
-        "average": 4.74284
+        "count": 4959,
+        "average": 4.74269
       },
       "provider": {
         "name": "Microsoft Learn",
