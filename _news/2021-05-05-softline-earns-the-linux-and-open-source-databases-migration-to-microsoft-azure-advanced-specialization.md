@@ -112,19 +112,33 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Dassian Announces Collaboration with Microsoft Azure Government"
-    excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
-    publishedDateTime: 2021-04-26T23:19:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
+  - title: "Unisys Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Unisys Corporation (NYSE: UIS) today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure"
+    publishedDateTime: 2021-05-05T11:58:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/unisys-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301283853.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Dassian Announces Collaboration with Microsoft Azure Government"
+    excerpt: "Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian’s deep industry expertise and standardized SAP ERP extension solutions with Azure’s scalable and secure government cloud platform to provide a fully integrated environment for high security customers in Federal,"
+    publishedDateTime: 2021-04-26T23:16:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
-        width: 2084
-        height: 1090
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft buys Linux distribution maker Kinvolk to boost Azure cloud services"
     excerpt: "Microsoft Corp. has bought Kinvolk GmbH, the Berlin-based startup behind a specialized Linux distribution used to power software container environments on Azure and other public clouds. The technology giant announced the deal today in a post on its Azure blog."
@@ -206,6 +220,6 @@ related:
       domain: financialbuzz.com
     quality: 7
 
-secured: "wD3GeSNowpi+kGyk9Nf6oC/12ptdJ1vmGkdxks+P4kOIdJy+6v9cyJvmnYzDDgK2ibMLGWrsZ2YZVZWMrpu8w1JWdG6azXstugAP0JjEt87jJJ8DUB7PQwSpu8DWGB1Ka6zXcRb0fmHRfcc7pFQ2VL2GI5HAbJiK6AzcFh8r2Ykvi1rJtMOSwbw++rqcGcXToIN44HCOhRmvBd9VgkgISbWzyTYJDbP98mT+fvhQXPvyNWETB34plJgADKBIwCk1r+YtHtVZh5UcVA1y+Y16gg/W66isUqUKIWO+T59Eh3BmFcKFSbm0BG9tBtdoEB6wZsh3u0xGup80gtBdpcMy+d0oNJj+ItCZhA903BhQYfg=;Oe/rZBjVS2lRyeywc6NMqw=="
+secured: "UByiPPXYwkDD+dtK0fAWU97kgrjc55O7ebv0hSeMaP02HPsrJBx3L0jYH8I6cgP6sv/wjp2X0rkkEhg+cfXlmj8DHLSIS3ANU5l5g+hEh63FLBZ9iG3lw5+GvcnhsJq9OHor5SBLpRpZnuSgvMnvGWn3nzReB72W2sDMtMorLVCEk73g0SKPXzHUZbWJABKhJ6cx9CryCISu5TC4xPFLovpuIvIQpyGr3YWCBrzDIuLv0E0m2LNWp0zqern1f4Gdne89/uGMYc6bcZNif20kCsjaGPrP6yUvEBaoeyDyx8F5uu27icHc9Qf4xlQBqGQZn89RXdxAA5bGwkZIQUlny9Zna87IRqmVPrTPP8SHEybv5EoYn2Gql4LtU6kBUf1r3AIjek+YPQXZyvXyEBodSlguC6uzYnzmnWbOsxv7U1X/lCmOJ2yl2V/MbYz5XAuH/MIzHeaWinD7i13VBxJJZ2Q6JbiLXhv6OIXilr/kSWTDNqBR81EMFTfEj0CxHtwZZum+8BR7XPEmUIraNB3uDg==;JGN8qvVXJT1+lWD81LwC8g=="
 ---
 

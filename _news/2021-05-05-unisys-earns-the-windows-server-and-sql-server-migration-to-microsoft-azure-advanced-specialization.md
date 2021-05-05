@@ -1,35 +1,46 @@
 ---
 category: news
-title: "Microsoft previews Azure service for building WebSocket applications"
-excerpt: "Azure Web PubSub allows developers to use WebSockets and a publish-subscribe pattern to build real-time web applications such as live monitoring dashboards, live maps, and live chat."
-publishedDateTime: 2021-04-30T19:07:00Z
-originalUrl: "https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.html"
-webUrl: "https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.html"
-ampWebUrl: "https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html"
+title: "Unisys Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+excerpt: "Unisys Corporation (NYSE: UIS) today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure"
+publishedDateTime: 2021-05-05T11:58:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/unisys-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301283853.html"
+webUrl: "https://www.prnewswire.com/news-releases/unisys-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301283853.html"
 type: article
-quality: 97
-heat: 378
-published: true
+quality: 40
+heat: -1
+published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+  - Migration
 
 images:
-  - url: "https://images.idgesg.net/images/article/2019/07/cloud-computing-1-100801494-large.jpg"
-    width: 1200
-    height: 800
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
+  - title: "Microsoft previews Azure service for building WebSocket applications"
+    excerpt: "Azure Web PubSub allows developers to use WebSockets and a publish-subscribe pattern to build real-time web applications such as live monitoring dashboards, live maps, and live chat."
+    publishedDateTime: 2021-04-30T19:07:00Z
+    webUrl: "https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.html"
+    ampWebUrl: "https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/07/cloud-computing-1-100801494-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Easily build real-time apps with WebSockets and Azure Web PubSub—now in preview"
     excerpt: "Today, we are announcing the preview of the Azure Web PubSub service for building real-time web applications with WebSockets. WebSocket is a standardized protocol that provides full-duplex communication. It is key to building efficient real-time web interactions and is supported by all major browsers"
     publishedDateTime: 2021-04-29T11:00:03Z
@@ -114,20 +125,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/microsoft-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Unisys Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Unisys Corporation (NYSE: UIS) today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure"
-    publishedDateTime: 2021-05-05T11:58:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/unisys-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301283853.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 40
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Dassian Announces Collaboration with Microsoft Azure Government"
     excerpt: "Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian’s deep industry expertise and standardized SAP ERP extension solutions with Azure’s scalable and secure government cloud platform to provide a fully integrated environment for high security customers in Federal,"
@@ -223,6 +220,6 @@ related:
       domain: financialbuzz.com
     quality: 7
 
-secured: "ZRvXLOlEcNDYjT7Rjm3cV+DtL8YbIam4JMMERn/z3H8XXPAkEY8RGb9c+Ks/gqiOptOdZssepjtt2foOfyqHdaXX99Byq6aJ0VLXGo02/t2jy30WV2XN28dqktPmFCNjTWYybi7pMBM/gdJ97dB7BZUvTPluKug5FXp4bzDiU6UAtnl/qZTaJKx62B8zHQY6u3RzUIdXOmNbw1DJSPXLHDT9bLWGxsGigUbjp/QA2NAh6gVKi+l6PQ0VJUaG49MviRL/wqnjQLUDMjVyKOlhByPQq4w/M6kNHisG1aFOlqTAWT2H8b/hVdxN8imZ3w5p4JJsggQTPLUHAPWYCpErWBB53s/wg/DQHX8ual48QRg=;g/MvzUlMR6z96msoQZr7bw=="
+secured: "ikmyNskskNmU8U8HjJH1U9jaIKZxSG1idAY4AYkTZqytWfSnxtFLRInEoq9fzgLLUwsKUKkyEiCgokktJjLRtJi2jy6gMzlD6fBE0+zSVFefHPJpFvy2QrgZjEN7/39V9WQIeo1r3+O2RyzDOHP5GjDcMXqJDCWZpeMv0Up+ADfey396s2veM7NA5YWFhJqwkrpbiHquRGqSWdtQMkWtJXmzZaFzGI2LDEFVLGAwvNy1F1gsUNcXRScJMRjZ7P3bDxq9CFTfuZk5V9v2h6zAihyosgmmE5+vC0ocds/i5j8ozpj3afimTrQ140hpWbxm3Hf7UZ7DsUC/WxyT+EQo9aROR06skgnOT3aiGlvauCQ=;ORxGZfRTBSC5vwDmCenKwg=="
 ---
 

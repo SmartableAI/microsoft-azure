@@ -233,18 +233,18 @@ related:
         height: 315
         isCached: true
   - title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
-    excerpt: "April 26, 2021 /PRNewswire/ -- Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ..."
-    publishedDateTime: 2021-04-26T08:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-301276352.html"
+    excerpt: "Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure"
+    publishedDateTime: 2021-04-26T12:01:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 9
     images:
-      - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg?p=facebook"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/d9/1d959af6-6d0e-5f96-ba18-7b61aae335fb/6059df86607f4.image.jpg?resize=800%2C522"
         width: 800
-        height: 419
+        height: 522
         isCached: true
 
 secured: "YCA9BZlQnWBnwiwReoapZlQ9RZ4uYn5xlvOwnIt2SaCeh7EYcnlOXdj2ZhUZBeWGByhemXtTGnLbfu47snJ0Mdccvp8GQY2P6XXj6DLi0StpefCovCqAIG4EllR3PpF/cKpvzmPCaEK3+YHFbuEZNIuzkpoKVghGgGgS2lNhpsExYRQkFux85rofA+x8IPLdIG2S0zH7zlVfmDYpeVhb+0NvDMOuTIrrsuWsgNQQ2VAumjcFzd0fgRZtVAi6QPcVcNf7sohHBQ62KtjjUzFdyFWmRbYHielAO3EpeVCb+yw8Q73jL8mOvYHjG+vT8y0qg0KlogGwEuqnC9a3a5PRysEsaAeYKmIih14qORRrjEHhbIfkIZ/IEOqcT1uj+MT/RGTXZ0FHHxdoneOUhtMRDOLGQDWG1pX24xXbPOsCiF6YPbHxwdHkwuKv8D6Cs8AuBkIaRpB/A2vsr4iaikzIbNdSm+PfpCgn/ofcQ7LmLktJlPB5sVPVxZNAEyY+cKa9uwCR9RBYT/M37mRARbjN7g==;rxtkEqKYfBUzqgyxg/+wTA=="

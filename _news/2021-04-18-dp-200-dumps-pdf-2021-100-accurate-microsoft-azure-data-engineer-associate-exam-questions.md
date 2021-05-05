@@ -221,6 +221,20 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "AccuWeather Join Forces with Microsoft to Add New Capabilities to Microsoft Azure Maps"
+    excerpt: "AccuWeather Join Forces with Microsoft to Add New Capabilities to Microsoft Azure Maps  - AccuWeather partners with Microsoft to provide its world-class technical capabilities within its global-scale Microsoft"
+    publishedDateTime: 2021-05-05T13:44:00Z
+    webUrl: "https://www.cioreview.com/news/accuweather-join-forces-with-microsoft-to-add-new-capabilities-to-microsoft-azure-maps-nid-33493-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 29
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/s1mzu.micromag.jpg"
+        width: 300
+        height: 350
+        isCached: true
   - title: "UnitedLex Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "UnitedLex, a leading technology and legal services company, today announced the availability of its Vantage solution in the Microsoft Azure Marketplace, an online store that provides applications ..."
     publishedDateTime: 2021-04-19T13:52:00Z

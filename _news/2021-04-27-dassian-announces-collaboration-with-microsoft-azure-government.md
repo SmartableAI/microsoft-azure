@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Dassian Announces Collaboration with Microsoft Azure Government"
-excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
-publishedDateTime: 2021-04-26T23:19:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
-webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
+excerpt: "Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian’s deep industry expertise and standardized SAP ERP extension solutions with Azure’s scalable and secure government cloud platform to provide a fully integrated environment for high security customers in Federal,"
+publishedDateTime: 2021-04-26T23:16:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
+webUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
-    width: 2084
-    height: 1090
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -125,6 +125,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Unisys Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Unisys Corporation (NYSE: UIS) today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure"
+    publishedDateTime: 2021-05-05T11:58:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/unisys-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301283853.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Microsoft buys Linux distribution maker Kinvolk to boost Azure cloud services"
     excerpt: "Microsoft Corp. has bought Kinvolk GmbH, the Berlin-based startup behind a specialized Linux distribution used to power software container environments on Azure and other public clouds. The technology giant announced the deal today in a post on its Azure blog."
     publishedDateTime: 2021-04-29T20:49:00Z
@@ -205,6 +219,6 @@ related:
       domain: financialbuzz.com
     quality: 7
 
-secured: "55ocKT+yfFE9mcCj3/qmvjiRJfsptScrummSnV7mG10Nw1nkkg96wyCjMJKgSviYhJPIkE+e2cBE1CuJHNiEJroHrBzORjrZEUQh7oQV07yxqeeXmUKIm4mMzBYoQOgdqMsWfzCWxh3AMKjNrjR1pyocA/zv3gHf3ahmcQL7XAL9rof1q3BRAUYsYV+vbEw90VdJvU3YjY9Q+3GLYhPWhr0MZjNxhY9rGBaXDU+yIUKpgZFX+e+MiCSn3jckB2ZAVFoNZHYd7tLzq9GQxv5d8ZWNDvwzh+4zDXPvU0RwcgCmMbMTuKed88l3bNDSl2exRBJvzBOuf7ywnvEdeb4N7WbOeCIH4zrjC7HsTo2Xq6g=;BCBaa/7tzBSmmhWG9hvNnA=="
+secured: "M7zLStCY8gdy1ba6VE+3FZ0+iUVMQBTKmti4MB/P/1kk3IrhICk1brJB5x/ZLFS7mf8IScHNR7MGN2do9fQ6DLVnWuqXVcbSeHFvBtZ/OuJU1NsLNBJtNUGKlu/uydUhuu6JPoQznqs50nqN4YdaLNgaZobEDhzMHew98oRpL5vtdJT3Giu7e8pHsI2tstibzHpaL4Qni+9cToqoGvKYnUUvCQATEMQZzF74Gso6L2vF4BpXzwKZ4JWHWfyoVuiSPDRsEyXlTgdsk/H9kEHt3WXxEvASA5C5mt66WZBKpJr2vj294ifZYu1gJJve/zfqypkWOK5sgxJ94MyLCXkzY9Xox1yygVNw0Hm930k9qT4=;e3L3GeslswOezsQDmYLmyw=="
 ---
 

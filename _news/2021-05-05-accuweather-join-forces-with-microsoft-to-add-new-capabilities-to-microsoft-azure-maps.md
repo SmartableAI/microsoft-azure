@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Sysinno Introduces First Available Air Quality Monitor Running on Microsoft Azure Sphere"
-excerpt: "Sysinno Technology Inc., an Innodisk shareholding company, is excited to announce that their iAeris line of indoor air quality detectors will run on Microsoft Azure's Sphere, making them at this time the world's first and only production-stage air quality monitor to take advantage of the possibilities of Microsoft Azure."
-publishedDateTime: 2021-04-22T00:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-1030330820"
-webUrl: "https://markets.businessinsider.com/news/stocks/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-1030330820"
+title: "AccuWeather Join Forces with Microsoft to Add New Capabilities to Microsoft Azure Maps"
+excerpt: "AccuWeather Join Forces with Microsoft to Add New Capabilities to Microsoft Azure Maps  - AccuWeather partners with Microsoft to provide its world-class technical capabilities within its global-scale Microsoft"
+publishedDateTime: 2021-05-05T13:44:00Z
+originalUrl: "https://www.cioreview.com/news/accuweather-join-forces-with-microsoft-to-add-new-capabilities-to-microsoft-azure-maps-nid-33493-cid-50.html"
+webUrl: "https://www.cioreview.com/news/accuweather-join-forces-with-microsoft-to-add-new-capabilities-to-microsoft-azure-maps-nid-33493-cid-50.html"
 type: article
-quality: 48
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CIOReview
+  domain: cioreview.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.cioreview.com/news_new/sliderimage/s1mzu.micromag.jpg"
+    width: 300
+    height: 350
+    isCached: true
 
 related:
   - title: "Microsoft-AccuWeather partnership adds capabilities to Azure Maps"
@@ -84,6 +86,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Sysinno Introduces First Available Air Quality Monitor Running on Microsoft Azure Sphere"
+    excerpt: "Sysinno Technology Inc., an Innodisk shareholding company, is excited to announce that their iAeris line of indoor air quality detectors will run on Microsoft Azure's Sphere, making them at this time the world's first and only production-stage air quality monitor to take advantage of the possibilities of Microsoft Azure."
+    publishedDateTime: 2021-04-22T00:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sysinno-introduces-first-available-air-quality-monitor-running-on-microsoft-azure-sphere-1030330820"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Latest Microsoft Azure Security Engineer Associate Microsoft AZ- 500 Exam Dumps (2021)"
     excerpt: "Prepare your AZ-500 exam questions with Dumps2GO Microsoft AZ-500 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AZ-500 test because of your Microsoft Azure Security Engineer Associate AZ-500 certification exam fear?"
     publishedDateTime: 2021-04-17T22:56:00Z
@@ -210,20 +221,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "AccuWeather Join Forces with Microsoft to Add New Capabilities to Microsoft Azure Maps"
-    excerpt: "AccuWeather Join Forces with Microsoft to Add New Capabilities to Microsoft Azure Maps  - AccuWeather partners with Microsoft to provide its world-class technical capabilities within its global-scale Microsoft"
-    publishedDateTime: 2021-05-05T13:44:00Z
-    webUrl: "https://www.cioreview.com/news/accuweather-join-forces-with-microsoft-to-add-new-capabilities-to-microsoft-azure-maps-nid-33493-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 29
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/s1mzu.micromag.jpg"
-        width: 300
-        height: 350
-        isCached: true
   - title: "DP-200 Dumps PDF (2021) 100% Accurate Microsoft Azure Data Engineer Associate Exam Questions"
     excerpt: "Pass you Microsoft DP-200 exam in just one go with DumpsArchive DP-200 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
     publishedDateTime: 2021-04-18T08:19:00Z
@@ -266,6 +263,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "Xt93XHesGqFShSk43dgRYImqHfO7CKzWMjvFHU2IintDCrmT6BooBL1zKvt7kjxb7IuTP/uLYFhjxeVwkr9lwJKH71O9xnoCED8+RH9Tl3NMEWOrBlfgVBSjtEC/Cse3RkH//qY+aSaF/Ra3KmklSdfXu8IRHYEGbDb31MG9Rev8XJ8Z5TBQq5ueM22nGQ+JmPwXEiFmS4iizmwv6ynblyQw9LErk8/5yRjLC2VKEtHVdOi6wazEfxcOMTTU7dXJVNTqT/K+UDNkJSA43tY8IidQ2l8fIOzxtqyV0xTBWcVfa2NU3HpssNVcHtShby4liJjxygU3iy1D9YY8RfYpbLUVlPv1msTLA0XUTosfp7JwuKtdrDZWxagfNmK3s1TV8bX7DhvRcA2NsztR4mnekhzM1VtrYVAxI9XlHK4tv/hgtyjyJKlWt3tPz6wZ+zaScgQp1+YUOS0Cm7AkkSZlAFqAEHcQcF+7r/BPtaVEHYNY+v5fwiVI6Ain2ReswjqnYHBLdVYqKj8KH5WH9enWYg==;ilSjdCxKowRAnkmfG0Htuw=="
+secured: "rhc6BwhO1JTv54vloAa3F9vXtoc2eMhgTJfSy8AiR/aDSu8wxlTxzXi/Jqi89UwobjMCad4LuRfaicN7AkEmMCLJmoIEBm0dS4jqcKfgU2jX7Zip0DdZVf5GxItiu8mUpRu+h80/Yz2z+LcnGhX1bR2wpMn8CBUQBBdbc7VBC8u4prPcNBHkv1lY3bwrogCn2WY+A+Q1y9DGHLvg41KVznGWeT+9nf71wkiuW6vx9IWrNyiSwBrw+gowsT2TThfNQp1a1HgsM+hAKbN58T+vpKn6NzCEEl7pZbF7UfudfGS9+Pyda47TaZCU0FrfJPlWXNW97ubhmV6GCsQiiliy+V6zKIif6yblq2I0mAT8HCo=;1AntfcRIjZT4ir3Zgud9+A=="
 ---
 
