@@ -4,42 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm.md",
-      "title": "Build and run a web application with the MEAN stack on an Azure Linux virtual machine",
-      "excerpt": "Learn how to decide if the MEAN stack (MongoDB, Express.js, AngularJS, and Node.js) is a good choice for you and set up a MEAN-based web application on a new Azure Linux virtual machine.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 2647,
-        "average": 4.6033244
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
       "title": "Chain Azure Functions together using input and output bindings",
       "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
@@ -171,8 +135,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 3391,
-        "average": 4.6882925
+        "count": 3393,
+        "average": 4.688476
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -244,6 +208,42 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-build-azure-vm-templates.md",
+      "title": "Build Azure Resource Manager templates",
+      "excerpt": "Learn how Resource Manager templates express your deployments as code, enabling you to deploy faster and more reliably.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-azure-vm-templates/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 9333,
+        "average": 4.6680593
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload.md",
       "title": "Choose the right disk storage for your virtual machine workload",
       "excerpt": "Azure provides a variety of disk storage options for virtual machine workloads. Identify the features of capabilities of each type to ensure your application performs optimally.",
@@ -295,8 +295,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
       "length": "PT36M",
       "ratings": {
-        "count": 2826,
-        "average": 4.685067
+        "count": 2827,
+        "average": 4.6851788
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -331,8 +331,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 1951,
-        "average": 4.282932
+        "count": 1952,
+        "average": 4.283299
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -459,8 +459,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
       "length": "PT20M",
       "ratings": {
-        "count": 2363,
-        "average": 4.709691
+        "count": 2365,
+        "average": 4.7099366
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -698,8 +698,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 526,
-            "average": 4.4942966
+            "count": 527,
+            "average": 4.4895635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -859,8 +859,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
       "length": "PT55M",
       "ratings": {
-        "count": 2380,
-        "average": 4.6991596
+        "count": 2381,
+        "average": 4.699286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1034,8 +1034,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/",
       "length": "PT35M",
       "ratings": {
-        "count": 3325,
-        "average": 4.528421
+        "count": 3326,
+        "average": 4.5279617
       },
       "provider": {
         "name": "Microsoft Learn",

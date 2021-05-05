@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-get-started-with-connected-field-service.md",
-      "title": "Get started with Connected Field Service for Dynamics 365 and Azure IoT",
-      "excerpt": "This module will focus on the initial deployment of the Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through the installation and an understanding of the components installed as part of the out of the box template application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-connected-field-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-connected-field-service/",
-      "length": "PT1H6M",
+      "path": "_learning/courses/microsoft-learn-react-to-state-changes-using-event-grid.md",
+      "title": "React to state changes in your Azure services by using Event Grid",
+      "excerpt": "Build a serverless application architecture, automate your operations, and integrate applications by handling Azure events with Event Grid.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-react-to-state-changes-using-event-grid/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/react-to-state-changes-using-event-grid/",
+      "length": "PT33M",
       "ratings": {
-        "count": 90,
-        "average": 4.7222223
+        "count": 505,
+        "average": 4.5861387
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,13 +29,23 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 130,
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/react-to-state-changes-using-event-grid-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT"
+        "Integration",
+        "IoT",
+        "Blockchain"
       ]
     },
     {
@@ -69,8 +79,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 8262,
-            "average": 4.7764463
+            "count": 8264,
+            "average": 4.7765007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -112,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 6337,
-            "average": 4.719899
+            "count": 6339,
+            "average": 4.7199874
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -155,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 5658,
-            "average": 4.7548604
+            "count": 5661,
+            "average": 4.7548137
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -199,8 +209,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5307,
-            "average": 4.7514606
+            "count": 5311,
+            "average": 4.751459
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -268,8 +278,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 6866,
-        "average": 4.7809496
+        "count": 6868,
+        "average": 4.7810135
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -352,8 +362,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 5105,
-        "average": 4.7735553
+        "count": 5107,
+        "average": 4.773448
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -505,8 +515,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3990,
-            "average": 4.612281
+            "count": 3991,
+            "average": 4.6123776
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -624,8 +634,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2380,
-            "average": 4.6991596
+            "count": 2381,
+            "average": 4.699286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -848,8 +858,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3990,
-            "average": 4.612281
+            "count": 3991,
+            "average": 4.6123776
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1027,8 +1037,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
           "length": "PT31M",
           "ratings": {
-            "count": 588,
-            "average": 4.7057824
+            "count": 589,
+            "average": 4.7062817
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1156,8 +1166,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 526,
-            "average": 4.4942966
+            "count": 527,
+            "average": 4.4895635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1288,8 +1298,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
           "length": "PT23M",
           "ratings": {
-            "count": 6357,
-            "average": 4.7352524
+            "count": 6358,
+            "average": 4.7352943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2566,7 +2576,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -2699,8 +2709,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3990,
-        "average": 4.612281
+        "count": 3991,
+        "average": 4.6123776
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2804,8 +2814,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 526,
-            "average": 4.4942966
+            "count": 527,
+            "average": 4.4895635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2915,8 +2925,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
       "length": "PT23M",
       "ratings": {
-        "count": 6357,
-        "average": 4.7352524
+        "count": 6358,
+        "average": 4.7352943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2958,8 +2968,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
       "length": "PT56M",
       "ratings": {
-        "count": 526,
-        "average": 4.4942966
+        "count": 527,
+        "average": 4.4895635
       },
       "provider": {
         "name": "Microsoft Learn",

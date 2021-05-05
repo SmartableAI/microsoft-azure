@@ -4,6 +4,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-bot-with-bot-framework-composer.md",
+      "title": "Create a Bot with the Bot Framework Composer",
+      "excerpt": "User the Bot Framework Composer to quickly and easily build sophisticated conversational bots without writing code.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-bot-with-bot-framework-composer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-bot-with-bot-framework-composer/",
+      "length": "PT1H4M",
+      "ratings": {
+        "count": 68,
+        "average": 4.6617646
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-computer-vision-service.md",
       "title": "Process images with the Computer Vision service",
       "excerpt": "Use the Computer Vision API to analyze images for insights, extract text from images, and generate high-quality thumbnails.",
@@ -331,8 +374,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-bot-conversation-flow/",
           "length": "PT32M",
           "ratings": {
-            "count": 58,
-            "average": 4.827586
+            "count": 59,
+            "average": 4.8135595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -833,8 +876,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-model-selection-with-azure-automl/",
       "length": "PT25M",
       "ratings": {
-        "count": 1313,
-        "average": 4.664128
+        "count": 1314,
+        "average": 4.6643834
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1357,8 +1400,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-bot-conversation-flow/",
       "length": "PT32M",
       "ratings": {
-        "count": 58,
-        "average": 4.827586
+        "count": 59,
+        "average": 4.8135595
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1642,50 +1685,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-dataframes-azure-databricks.md",
-      "title": "Work with DataFrames in Azure Databricks",
-      "excerpt": "Work with DataFrames in Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 342,
-        "average": 4.643275
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
         "AI"
       ]
     }
