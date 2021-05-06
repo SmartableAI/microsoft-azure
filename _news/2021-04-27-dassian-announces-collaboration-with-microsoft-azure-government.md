@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Dassian Announces Collaboration with Microsoft Azure Government"
-excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
-publishedDateTime: 2021-04-26T23:19:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
-webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
+excerpt: "Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian’s deep industry expertise and standardized SAP ERP extension solutions with Azure’s scalable and secure government cloud platform to provide a fully integrated environment for high security customers in Federal,"
+publishedDateTime: 2021-04-26T23:16:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
+webUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
-    width: 2084
-    height: 1090
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -53,6 +53,22 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/18236dbc-5f01-425d-b51f-f9ea621cda64.png"
         width: 624
         height: 351
+        isCached: true
+  - title: "Battlegrounds Mobile India to have data security backed by cloud platform Microsoft Azure"
+    excerpt: "The data security issues that caused the blockage of the global version of PUBG Mobile in India have been taken seriously this time. In an official blog post by KRAFTON, it was revealed that the cloud platform Azure by Microsoft has been applied to boost the security of personal information of the players."
+    publishedDateTime: 2021-05-06T11:51:00Z
+    webUrl: "https://www.sportskeeda.com/esports/news-battlegrounds-mobile-india-data-security-backed-cloud-platform-microsoft-azure"
+    ampWebUrl: "https://www.sportskeeda.com/amp/esports/news-battlegrounds-mobile-india-data-security-backed-cloud-platform-microsoft-azure"
+    cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/esports/news-battlegrounds-mobile-india-data-security-backed-cloud-platform-microsoft-azure"
+    type: article
+    provider:
+      name: Sportskeeda
+      domain: sportskeeda.com
+    quality: 82
+    images:
+      - url: "https://staticg.sportskeeda.com/editor/2021/05/a4b85-16203002076287-800.jpg"
+        width: 800
+        height: 480
         isCached: true
   - title: "Microsoft offers new Azure specializations and scholarships through Coursera"
     excerpt: "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well."
@@ -108,6 +124,20 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/04/enable-digital-transformation-with-a-cloud-first-strategy-man-pointing-on-tab_opt.jpg"
         width: 750
         height: 454
+        isCached: true
+  - title: "Aqua Security Appoints Former Microsoft Azure Executive as Chief Customer Officer"
+    excerpt: "Aqua Security, the pure-play cloud native security leader, today announced the appointment of Sharon Eilon as Chief Customer Officer to"
+    publishedDateTime: 2021-05-06T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer-301285543.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg?p=facebook"
+        width: 799
+        height: 419
         isCached: true
   - title: "Microsoft Cloud Earns Big With $17 Billion In Revenue For Q3"
     excerpt: "Microsoft reported that its Microsoft Cloud solution has been a big earner for the tech giant in the third quarter ending March 21."
@@ -246,6 +276,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "WPED5Ttaj3RRazxs4MJHGbJZCeVdseedfyeXah8jMRAr16eM2viN85vs89Rt+k96iowiRxPBqVTVXmb8DQUJAamO45yWvVe75dc5ma3D7PpDz146NXqdguiToSNlW2Y0oel7bOvFSPIJAdZU8c8/7pmkym5ReSsXafP12KgNO4C9rl47DOjvtlevGrx1B3u1n+gVjZH2cUmMn65i5ebf7WbtWFX8L6+QPuT0CO5HZkEDgK7h5fU1XcZZyLVsyOeMgpYUXjI4YEnNAyh4QQc9URyagx0BxFWWSAs5ASTABdct2EREwyyOG2ouPmgK6Z5Or+0mA18IABWUMOCEKc35XPtpCPlEAscyzI+DhUcyi98=;FaW2VdpHkWdQYCXrvzCg0A=="
+secured: "Fwr9++ukIX7hf8PF4nZfQ82njLJibQATVkPo1wulSrvz05Hu4v05NssemXxSMWEzrHg3/pL3FGQV6nE5gyGz66/UKLKoFrau/NzgFIQ9JSjFBC+r7+eKBWHBnjMGAb3D7Pb1n9mV58k1vMh43ZehVVHc8wVogL/KfYr09jIrx9MaMSUrtlNl4piJdQfw7yu7pUaZXVBlFe2UdiE4TjHlnAyuC7eIhZoAv3ESBh6BidXM1L9Xe0eKDLKHsUi13uEMg2seLWRWr8UFTTPrj4JRbm6ixKU720IO3BNTwdvLiPk+AqXavZm0kxWxGoWFy10M6aCzLZuNvb7pOZ1xqzOq6gWLXfNeBQjSz1LoTZmSnFo=;5epBpBT4Fc6RTLKlofVwIw=="
 ---
 

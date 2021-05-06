@@ -1,21 +1,28 @@
 ---
 category: news
-title: "Serenic Software Announces Release for Microsoft Cloud"
-excerpt: "PRNewswire/ - Serenic Software Inc., a Sylogist Ltd. company, a leading provider of comprehensive enterprise resource planning (\"ERP\") solutions for non-profits and non-governmental organizations, has"
-publishedDateTime: 2021-05-04T12:00:00Z
-originalUrl: "https://www.gjsentinel.com/news/colorado/serenic-software-announces-release-for-microsoft-cloud/article_4ce1cea6-22df-577e-bcea-b932cb88c401.html"
-webUrl: "https://www.gjsentinel.com/news/colorado/serenic-software-announces-release-for-microsoft-cloud/article_4ce1cea6-22df-577e-bcea-b932cb88c401.html"
+title: "Aqua Security Appoints Former Microsoft Azure Executive as Chief Customer Officer"
+excerpt: "Aqua Security, the pure-play cloud native security leader, today announced the appointment of Sharon Eilon as Chief Customer Officer to"
+publishedDateTime: 2021-05-06T12:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer-301285543.html"
+webUrl: "https://www.prnewswire.com/news-releases/aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer-301285543.html"
 type: article
-quality: 2
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: The Grand Junction Daily Sentinel
-  domain: gjsentinel.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+  - Security
+
+images:
+  - url: "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg?p=facebook"
+    width: 799
+    height: 419
+    isCached: true
 
 related:
   - title: "Microsoft previews Azure service for building WebSocket applications"
@@ -118,20 +125,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/04/enable-digital-transformation-with-a-cloud-first-strategy-man-pointing-on-tab_opt.jpg"
         width: 750
         height: 454
-        isCached: true
-  - title: "Aqua Security Appoints Former Microsoft Azure Executive as Chief Customer Officer"
-    excerpt: "Aqua Security, the pure-play cloud native security leader, today announced the appointment of Sharon Eilon as Chief Customer Officer to"
-    publishedDateTime: 2021-05-06T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer-301285543.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 49
-    images:
-      - url: "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg?p=facebook"
-        width: 799
-        height: 419
         isCached: true
   - title: "Microsoft Cloud Earns Big With $17 Billion In Revenue For Q3"
     excerpt: "Microsoft reported that its Microsoft Cloud solution has been a big earner for the tech giant in the third quarter ending March 21."
@@ -265,6 +258,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 7
+  - title: "Serenic Software Announces Release for Microsoft Cloud"
+    excerpt: "PRNewswire/ - Serenic Software Inc., a Sylogist Ltd. company, a leading provider of comprehensive enterprise resource planning (\"ERP\") solutions for non-profits and non-governmental organizations, has"
+    publishedDateTime: 2021-05-04T12:00:00Z
+    webUrl: "https://www.gjsentinel.com/news/colorado/serenic-software-announces-release-for-microsoft-cloud/article_4ce1cea6-22df-577e-bcea-b932cb88c401.html"
+    type: article
+    provider:
+      name: The Grand Junction Daily Sentinel
+      domain: gjsentinel.com
+    quality: 2
   - title: "IFI Techsolutions earns Modernisation of Web Applications to Microsoft Azure advanced specialisation"
     excerpt: "IFI Techsolutions ( on Thursday announced it has earned the Modernisation of Web Applications to Microsoft Azure advanced specialsation, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
     publishedDateTime: 2021-05-06T07:44:00Z
@@ -275,6 +277,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "Nw1d8Bem589QHECxsnW+hGac114y2TK51skkIcqcXAAuN/X8dygOLA2Qcb/1fEcv+wuExCnf5E1r6ll592Pp7TByGHDVOAbJ9QwMzETIkH9NXFebB6Xy34Hk8MI3GSNNLjgsT0mnYS9TrAZzghSp/ZxpdXeDIhAMFQQUkgilL/3+jXSFcyC4+95AdVAnMWAVeX4+9LnEA7c7hNDyHR9oUTZ42axPiEjCD41Qm96fASXOqm7ZjqZdtvLczZEd7dC/7oL8zG74XkBsdMdYriMH6UUSzWFpj7tDalOEFpQRoW17LuJa2xJ6maZ7HU6vHI5ISPVe7pKJrF8Y4/e8r6nFgo6bUgFuTjf3+2sl3jTzdxY=;1LhDIwm96SPlS62gcUfeWg=="
+secured: "8Or/y6UjVM6dvel609mH/dwIf7c6H1QmEI7vspHlwHsKpzRq/lXQj8cYvS+8jyidomoXkK7WKZyzc3vKg0AwmRg2nbFP6q2aEytb8Wae4UIuyw/rc7fGEGzrPKQV9E1qiKo5Ukn5Vw63H8RcsX2mOCOpYzHOj2+jD/s6Mx7V0HfVqjggzuW0+cSDLpqyEHByfUzqC0Gdq5u/eBfsOPjT2MpUfM7AVBXjmO907ob5S0KWuD2UzF5M0DD++mSsVR/wV3rI5ChcFzVU0lXXHq3T6SfZJvtKFggcVrjfuwRdLNhez6tGiK7AjMJJdxZGndbLw585ufRWuy0urgnmQvKBomRz+PAE+C0P5ICmnCQLmeI=;RhVMW0q+DXZDMWLuiFeeDg=="
 ---
 

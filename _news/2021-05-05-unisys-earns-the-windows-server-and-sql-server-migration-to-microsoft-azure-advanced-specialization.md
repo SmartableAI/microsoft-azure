@@ -55,6 +55,22 @@ related:
         width: 624
         height: 351
         isCached: true
+  - title: "Battlegrounds Mobile India to have data security backed by cloud platform Microsoft Azure"
+    excerpt: "The data security issues that caused the blockage of the global version of PUBG Mobile in India have been taken seriously this time. In an official blog post by KRAFTON, it was revealed that the cloud platform Azure by Microsoft has been applied to boost the security of personal information of the players."
+    publishedDateTime: 2021-05-06T11:51:00Z
+    webUrl: "https://www.sportskeeda.com/esports/news-battlegrounds-mobile-india-data-security-backed-cloud-platform-microsoft-azure"
+    ampWebUrl: "https://www.sportskeeda.com/amp/esports/news-battlegrounds-mobile-india-data-security-backed-cloud-platform-microsoft-azure"
+    cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/esports/news-battlegrounds-mobile-india-data-security-backed-cloud-platform-microsoft-azure"
+    type: article
+    provider:
+      name: Sportskeeda
+      domain: sportskeeda.com
+    quality: 82
+    images:
+      - url: "https://staticg.sportskeeda.com/editor/2021/05/a4b85-16203002076287-800.jpg"
+        width: 800
+        height: 480
+        isCached: true
   - title: "Microsoft offers new Azure specializations and scholarships through Coursera"
     excerpt: "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well."
     publishedDateTime: 2021-04-26T17:28:00Z
@@ -110,6 +126,20 @@ related:
         width: 750
         height: 454
         isCached: true
+  - title: "Aqua Security Appoints Former Microsoft Azure Executive as Chief Customer Officer"
+    excerpt: "Aqua Security, the pure-play cloud native security leader, today announced the appointment of Sharon Eilon as Chief Customer Officer to"
+    publishedDateTime: 2021-05-06T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer-301285543.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg?p=facebook"
+        width: 799
+        height: 419
+        isCached: true
   - title: "Microsoft Cloud Earns Big With $17 Billion In Revenue For Q3"
     excerpt: "Microsoft reported that its Microsoft Cloud solution has been a big earner for the tech giant in the third quarter ending March 21."
     publishedDateTime: 2021-04-27T22:04:00Z
@@ -127,18 +157,18 @@ related:
         height: 274
         isCached: true
   - title: "Dassian Announces Collaboration with Microsoft Azure Government"
-    excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
-    publishedDateTime: 2021-04-26T23:19:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
+    excerpt: "Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian’s deep industry expertise and standardized SAP ERP extension solutions with Azure’s scalable and secure government cloud platform to provide a fully integrated environment for high security customers in Federal,"
+    publishedDateTime: 2021-04-26T23:16:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
-        width: 2084
-        height: 1090
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft buys Linux distribution maker Kinvolk to boost Azure cloud services"
     excerpt: "Microsoft Corp. has bought Kinvolk GmbH, the Berlin-based startup behind a specialized Linux distribution used to power software container environments on Azure and other public clouds. The technology giant announced the deal today in a post on its Azure blog."

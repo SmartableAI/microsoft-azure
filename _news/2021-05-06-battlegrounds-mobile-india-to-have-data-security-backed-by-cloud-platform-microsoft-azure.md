@@ -1,21 +1,31 @@
 ---
 category: news
-title: "Serenic Software Announces Release for Microsoft Cloud"
-excerpt: "PRNewswire/ - Serenic Software Inc., a Sylogist Ltd. company, a leading provider of comprehensive enterprise resource planning (\"ERP\") solutions for non-profits and non-governmental organizations, has"
-publishedDateTime: 2021-05-04T12:00:00Z
-originalUrl: "https://www.gjsentinel.com/news/colorado/serenic-software-announces-release-for-microsoft-cloud/article_4ce1cea6-22df-577e-bcea-b932cb88c401.html"
-webUrl: "https://www.gjsentinel.com/news/colorado/serenic-software-announces-release-for-microsoft-cloud/article_4ce1cea6-22df-577e-bcea-b932cb88c401.html"
+title: "Battlegrounds Mobile India to have data security backed by cloud platform Microsoft Azure"
+excerpt: "The data security issues that caused the blockage of the global version of PUBG Mobile in India have been taken seriously this time. In an official blog post by KRAFTON, it was revealed that the cloud platform Azure by Microsoft has been applied to boost the security of personal information of the players."
+publishedDateTime: 2021-05-06T11:51:00Z
+originalUrl: "https://www.sportskeeda.com/esports/news-battlegrounds-mobile-india-data-security-backed-cloud-platform-microsoft-azure"
+webUrl: "https://www.sportskeeda.com/esports/news-battlegrounds-mobile-india-data-security-backed-cloud-platform-microsoft-azure"
+ampWebUrl: "https://www.sportskeeda.com/amp/esports/news-battlegrounds-mobile-india-data-security-backed-cloud-platform-microsoft-azure"
+cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/esports/news-battlegrounds-mobile-india-data-security-backed-cloud-platform-microsoft-azure"
 type: article
-quality: 2
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: The Grand Junction Daily Sentinel
-  domain: gjsentinel.com
+  name: Sportskeeda
+  domain: sportskeeda.com
 
 topics:
   - Azure
+  - Security
+  - Mobile
+
+images:
+  - url: "https://staticg.sportskeeda.com/editor/2021/05/a4b85-16203002076287-800.jpg"
+    width: 800
+    height: 480
+    isCached: true
 
 related:
   - title: "Microsoft previews Azure service for building WebSocket applications"
@@ -47,22 +57,6 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/18236dbc-5f01-425d-b51f-f9ea621cda64.png"
         width: 624
         height: 351
-        isCached: true
-  - title: "Battlegrounds Mobile India to have data security backed by cloud platform Microsoft Azure"
-    excerpt: "The data security issues that caused the blockage of the global version of PUBG Mobile in India have been taken seriously this time. In an official blog post by KRAFTON, it was revealed that the cloud platform Azure by Microsoft has been applied to boost the security of personal information of the players."
-    publishedDateTime: 2021-05-06T11:51:00Z
-    webUrl: "https://www.sportskeeda.com/esports/news-battlegrounds-mobile-india-data-security-backed-cloud-platform-microsoft-azure"
-    ampWebUrl: "https://www.sportskeeda.com/amp/esports/news-battlegrounds-mobile-india-data-security-backed-cloud-platform-microsoft-azure"
-    cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/esports/news-battlegrounds-mobile-india-data-security-backed-cloud-platform-microsoft-azure"
-    type: article
-    provider:
-      name: Sportskeeda
-      domain: sportskeeda.com
-    quality: 82
-    images:
-      - url: "https://staticg.sportskeeda.com/editor/2021/05/a4b85-16203002076287-800.jpg"
-        width: 800
-        height: 480
         isCached: true
   - title: "Microsoft offers new Azure specializations and scholarships through Coursera"
     excerpt: "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well."
@@ -265,6 +259,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 7
+  - title: "Serenic Software Announces Release for Microsoft Cloud"
+    excerpt: "PRNewswire/ - Serenic Software Inc., a Sylogist Ltd. company, a leading provider of comprehensive enterprise resource planning (\"ERP\") solutions for non-profits and non-governmental organizations, has"
+    publishedDateTime: 2021-05-04T12:00:00Z
+    webUrl: "https://www.gjsentinel.com/news/colorado/serenic-software-announces-release-for-microsoft-cloud/article_4ce1cea6-22df-577e-bcea-b932cb88c401.html"
+    type: article
+    provider:
+      name: The Grand Junction Daily Sentinel
+      domain: gjsentinel.com
+    quality: 2
   - title: "IFI Techsolutions earns Modernisation of Web Applications to Microsoft Azure advanced specialisation"
     excerpt: "IFI Techsolutions ( on Thursday announced it has earned the Modernisation of Web Applications to Microsoft Azure advanced specialsation, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
     publishedDateTime: 2021-05-06T07:44:00Z
@@ -275,6 +278,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "Nw1d8Bem589QHECxsnW+hGac114y2TK51skkIcqcXAAuN/X8dygOLA2Qcb/1fEcv+wuExCnf5E1r6ll592Pp7TByGHDVOAbJ9QwMzETIkH9NXFebB6Xy34Hk8MI3GSNNLjgsT0mnYS9TrAZzghSp/ZxpdXeDIhAMFQQUkgilL/3+jXSFcyC4+95AdVAnMWAVeX4+9LnEA7c7hNDyHR9oUTZ42axPiEjCD41Qm96fASXOqm7ZjqZdtvLczZEd7dC/7oL8zG74XkBsdMdYriMH6UUSzWFpj7tDalOEFpQRoW17LuJa2xJ6maZ7HU6vHI5ISPVe7pKJrF8Y4/e8r6nFgo6bUgFuTjf3+2sl3jTzdxY=;1LhDIwm96SPlS62gcUfeWg=="
+secured: "+oO/jlSMZQ52uFXr/SMwyiCn4vgQ/lmb4qa5VrAPr8gOYBkcDk/HRrApxTmJ/OQjMc/WpU/HxIgvMMGyZKhwgK9WHJnYUb3N4wW0LoBiM8MN09ona5vlYpXUoqbG+vCtjYs/jXTOt2cG0Do6Qkz8GP6AVLBMWW+ooSTzWT26YE5bYkpqpA2vqzLZLLIs0iCj+xDc55O3Tok7tiiO3quB4G4KKHcL8A/F3RfOuEV4aF685pDaIT2yPkpByPTD/vRSK5V81pH6FZMVsMzLrSilPSpZIHHcPh/PfP7gry/+hE8cFDZK3y6efRLKVfiOvgQYhMd87euxY15u/L5JzSe0oNJxxltWQ6ykUFADUe/aPZI=;DLzAvN8kw64yYfwCQovVJQ=="
 ---
 
