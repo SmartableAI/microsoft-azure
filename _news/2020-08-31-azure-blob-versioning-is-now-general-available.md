@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Append blob support in Azure Data Lake Storage is now generally available"
+    excerpt: "Applications can now create append blobs in addition to block blobs in Azure Data Lake Storage accounts and append to them using Append Block operations. Applications that need to add information to existing files efficiently and continuously can leverage append blobs."
+    publishedDateTime: 2021-05-06T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/append-blob-support-in-azure-data-lake-storage-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 98
   - title: "Azure Storage — Routing Preferences now generally available "
     excerpt: "Routing Preference for Azure Storage provide the flexibility to optimize traffic between clients external to Azure and your storage account for premium network reliability and performance over the Microsoft global network or for cost efficiency using the transit ISP network. You can now also publish"
     publishedDateTime: 2021-03-11T00:00:14Z

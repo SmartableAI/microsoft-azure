@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-objec
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
 type: article
 quality: 99
-heat: 579
+heat: 599
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Append blob support in Azure Data Lake Storage is now generally available"
+    excerpt: "Applications can now create append blobs in addition to block blobs in Azure Data Lake Storage accounts and append to them using Append Block operations. Applications that need to add information to existing files efficiently and continuously can leverage append blobs."
+    publishedDateTime: 2021-05-06T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/append-blob-support-in-azure-data-lake-storage-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 98
   - title: "Azure Blob versioning is now general available "
     excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
     publishedDateTime: 2020-08-31T20:00:37Z

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Storage Explorer v1.18.0 is now generally available"
-excerpt: "New release of Azure Storage Explorer (v1.18.0) will decrease time to load, connect, and transfer data to Azure Storage."
-publishedDateTime: 2021-03-17T15:24:29Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-explorer-v1180-released/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-explorer-v1180-released/"
+title: "Append blob support in Azure Data Lake Storage is now generally available"
+excerpt: "Applications can now create append blobs in addition to block blobs in Azure Data Lake Storage accounts and append to them using Append Block operations. Applications that need to add information to existing files efficiently and continuously can leverage append blobs."
+publishedDateTime: 2021-05-06T17:00:00Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/append-blob-support-in-azure-data-lake-storage-is-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/append-blob-support-in-azure-data-lake-storage-is-now-generally-available/"
 type: article
-quality: 84
+quality: 98
 heat: -1
 published: false
 
@@ -50,15 +50,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Append blob support in Azure Data Lake Storage is now generally available"
-    excerpt: "Applications can now create append blobs in addition to block blobs in Azure Data Lake Storage accounts and append to them using Append Block operations. Applications that need to add information to existing files efficiently and continuously can leverage append blobs."
-    publishedDateTime: 2021-05-06T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/append-blob-support-in-azure-data-lake-storage-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 98
   - title: "Azure Blob versioning is now general available "
     excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
     publishedDateTime: 2020-08-31T20:00:37Z
@@ -72,6 +63,15 @@ related:
     excerpt: "Routing Preference for Azure Storage provide the flexibility to optimize traffic between clients external to Azure and your storage account for premium network reliability and performance over the Microsoft global network or for cost efficiency using the transit ISP network. You can now also publish"
     publishedDateTime: 2021-03-11T00:00:14Z
     webUrl: "https://azure.microsoft.com/en-us/updates/routing-preferences-azure-storage-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure Storage Explorer v1.18.0 is now generally available"
+    excerpt: "New release of Azure Storage Explorer (v1.18.0) will decrease time to load, connect, and transfer data to Azure Storage."
+    publishedDateTime: 2021-03-17T15:24:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-explorer-v1180-released/"
     type: article
     provider:
       name: Microsoft
@@ -254,6 +254,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "o75BuxlM9QFpPxR2VLfbDFnigCTuBAF6boUZZ3xDRyZXASSrx17hUvq8CMPdwSgwAiKRWdDAkD8WN2gwyaL/nVgvr1UYDJLso21ifx/6tHnvGUt5Ufnsgm2Ob1dnSReaQCzyeEy9E1BiU5G++mSKYalRMDklV0w73JSBGbYtAlWQoEvQMIS/NbuvIOkcEodbBArTjZ+CmjAJv+LQ7mc1DDCa6X5T7YTwEPXvR5YzWyEmD6Wp6y68OaGX2RFJWQt3thP5VmzroVQpztjyzlR00IoIXpvS9vq0UnlvXl2hs2T54/i0p4+5v2x7hRf7U1hh64wgAzOfN1iTHuFahTJj0aRIVDXC+2/+YlHWw6BFzZs=;tVwmkTHpfyGjYBTb2PYpsw=="
+secured: "SW08+BnKbZ7WU89OsNCCzSSybGmC2mPCHMMXuNcXMhXPJ5FjS7V9AWaxIUQb2/afHvarqK5z1TW+ZQTwUJq3jRiTJau21SwoVyrTJ2CpEZ6kWnb2AzM9UgVaTIrEyxUSQuihEaX4iVhWFEqPX9tNh9vj9hUqey/Xo9YpRC7zWNESqaHdfkO1XRsPF+g4krlwnzFrmA2VCeVtqlrueTPuzbAhN49RgCqdrBNhgmggLMxBhKN6KxYI3LmcwENcJZ+ccBtM27cQv7Ahy1aHNSP3tcxkJtXqtMyUVzbjzjw8tLYqAJO3DgHTGTiFe6gR6lzPt97tw1qr9Y8ADjQZ9rhw/MRAhHGoC8Sr+ba8gpGQbMQ=;tVfbSfIpXvFqZCUdADk23w=="
 ---
 
