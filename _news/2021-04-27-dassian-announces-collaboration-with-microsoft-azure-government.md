@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Dassian Announces Collaboration with Microsoft Azure Government"
-excerpt: "Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian’s deep industry expertise and standardized SAP ERP extension solutions with Azure’s scalable and secure government cloud platform to provide a fully integrated environment for high security customers in Federal,"
-publishedDateTime: 2021-04-26T23:16:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
-webUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
+excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
+publishedDateTime: 2021-04-26T23:19:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
+webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
+    width: 2084
+    height: 1090
     isCached: true
 
 related:
@@ -195,6 +195,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "IFI Techsolutions Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "IFI Techsolutions ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specia"
+    publishedDateTime: 2021-05-06T06:39:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-868474580.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/1458270/IFI_TECH_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "With the move into the cloud gathering pace today, the ACS represents a significant enabler of telco cloud adoption, proving that cloud-native platforms such as the ACS, together with Microsoft Azure, are recognized by the CSP community as the default ..."
     publishedDateTime: 2021-04-30T07:41:00Z
@@ -223,6 +237,6 @@ related:
       domain: gjsentinel.com
     quality: 2
 
-secured: "aHUpzN6ikDpH0ewYiRceRnLxtAp0F+mlHsXmziVmJlDHx7uU2TLIf7Rfuv0AOL8PWcIRc8uIiX1FxxyZ4YQH/DzTRSmgHkkWaN1j3dqAl5J/BzdL8vnZCX4bzODvS0dRuIM5P3+GqmPffpbHqpXp8bua5RElZg1iLq0aNqgedDHwmSkSFB4NFijooBBx6tpJdipOet88hBsxdgpgsC2GQwH7vZnWzX3AeDew1zQ2XNkx1BvrfAWoNiBIrPo9+3DZNJ4qCUwjYYqrI75kp1GALaOs+FEOPA/6glpMK2NUiID0ZpOWaJKSrHg+lEGX7LWqChO60bLRM2/vOTTOIRXBfe7j6GKZOikEPxGSnbAdwoU=;jmjkQTAgxBLGF69AYUMrzg=="
+secured: "R/IIZSIhoxCecrJjD9HLEb+orOa9vJzDVs1dp2du4llvkZMaT94LqiiUIhSjl/wr4ZXc2x8THgGP0fEbaJ6j1Aw/5grGXOpt45l7Kip39QZm6fxBIUJH+9V6U2Y2JpBUzI8dJDfa61MJA0m1gVN3n7WIl2V8D5tmn/xbIJ8fzXooTc7W2rV2O7NJ3SC1RV8pJK0C3/7hYgBPcNJ3uHwzzKxYY3JMSUCLnleaqx9eD796CzzXU936n/mvea8blZA4IJdcD/YdZCFCHZKoPKQc9FnN/UGquMjMuhyZwDXS0yp5rJo+mZ0U6iHYVFpyW6qLWOPib0aN6olBSmf5povXXX/dTouglIHU0jyMvvVGYo4=;SeuE0/gOVTVL9KYHb2gw0w=="
 ---
 

@@ -140,18 +140,18 @@ related:
         height: 315
         isCached: true
   - title: "Dassian Announces Collaboration with Microsoft Azure Government"
-    excerpt: "Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian’s deep industry expertise and standardized SAP ERP extension solutions with Azure’s scalable and secure government cloud platform to provide a fully integrated environment for high security customers in Federal,"
-    publishedDateTime: 2021-04-26T23:16:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
+    excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
+    publishedDateTime: 2021-04-26T23:19:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
+        width: 2084
+        height: 1090
         isCached: true
   - title: "Microsoft buys Linux distribution maker Kinvolk to boost Azure cloud services"
     excerpt: "Microsoft Corp. has bought Kinvolk GmbH, the Berlin-based startup behind a specialized Linux distribution used to power software container environments on Azure and other public clouds. The technology giant announced the deal today in a post on its Azure blog."
@@ -194,6 +194,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/47/0472fcbb-ae66-5a5a-a147-d2684c6c7aa8/6059f57676f45.image.jpg?resize=630%2C630"
         width: 630
         height: 630
+        isCached: true
+  - title: "IFI Techsolutions Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "IFI Techsolutions ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specia"
+    publishedDateTime: 2021-05-06T06:39:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-868474580.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/1458270/IFI_TECH_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
         isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "With the move into the cloud gathering pace today, the ACS represents a significant enabler of telco cloud adoption, proving that cloud-native platforms such as the ACS, together with Microsoft Azure, are recognized by the CSP community as the default ..."

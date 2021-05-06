@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Coursera and Microsoft launch Microsoft Azure Fundamentals specialization"
-excerpt: "Coursera has announced a new Microsoft Azure Fundamentals Specialization in collaboration with Microsoft to help learners kickstart their career in cloud Coursera has announced a collaboration with Microsoft to launch a new Microsoft Azure Fundamentals ..."
-publishedDateTime: 2021-04-27T10:55:00Z
-originalUrl: "https://www.dqindia.com/coursera-microsoft-launch-microsoft-azure-fundamentals-specialization/"
-webUrl: "https://www.dqindia.com/coursera-microsoft-launch-microsoft-azure-fundamentals-specialization/"
-ampWebUrl: "https://www.dqindia.com/coursera-microsoft-launch-microsoft-azure-fundamentals-specialization/amp/"
-cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/coursera-microsoft-launch-microsoft-azure-fundamentals-specialization/amp/"
+title: "IFI Techsolutions Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+excerpt: "IFI Techsolutions ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specia"
+publishedDateTime: 2021-05-06T06:39:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-868474580.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-868474580.html"
 type: article
-quality: 56
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Dataquest
-  domain: dqindia.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.dqindia.com/wp-content/uploads/2021/04/enable-digital-transformation-with-a-cloud-first-strategy-man-pointing-on-tab_opt.jpg"
-    width: 750
-    height: 454
+  - url: "https://mma.prnewswire.com/media/1458270/IFI_TECH_Logo.jpg?p=facebook"
+    width: 2696
+    height: 1414
     isCached: true
 
 related:
@@ -94,6 +92,22 @@ related:
       - url: "https://cdn.crn.in/wp-content/uploads/2018/06/04150829/Microsoft.jpg"
         width: 696
         height: 465
+        isCached: true
+  - title: "Coursera and Microsoft launch Microsoft Azure Fundamentals specialization"
+    excerpt: "Coursera has announced a new Microsoft Azure Fundamentals Specialization in collaboration with Microsoft to help learners kickstart their career in cloud Coursera has announced a collaboration with Microsoft to launch a new Microsoft Azure Fundamentals ..."
+    publishedDateTime: 2021-04-27T10:55:00Z
+    webUrl: "https://www.dqindia.com/coursera-microsoft-launch-microsoft-azure-fundamentals-specialization/"
+    ampWebUrl: "https://www.dqindia.com/coursera-microsoft-launch-microsoft-azure-fundamentals-specialization/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/coursera-microsoft-launch-microsoft-azure-fundamentals-specialization/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 56
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/enable-digital-transformation-with-a-cloud-first-strategy-man-pointing-on-tab_opt.jpg"
+        width: 750
+        height: 454
         isCached: true
   - title: "Microsoft Cloud Earns Big With $17 Billion In Revenue For Q3"
     excerpt: "Microsoft reported that its Microsoft Cloud solution has been a big earner for the tech giant in the third quarter ending March 21."
@@ -195,20 +209,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "IFI Techsolutions Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "IFI Techsolutions ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specia"
-    publishedDateTime: 2021-05-06T06:39:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-868474580.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/1458270/IFI_TECH_Logo.jpg?p=facebook"
-        width: 2696
-        height: 1414
-        isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "With the move into the cloud gathering pace today, the ACS represents a significant enabler of telco cloud adoption, proving that cloud-native platforms such as the ACS, together with Microsoft Azure, are recognized by the CSP community as the default ..."
     publishedDateTime: 2021-04-30T07:41:00Z
@@ -237,6 +237,6 @@ related:
       domain: gjsentinel.com
     quality: 2
 
-secured: "nv0INM6OLhRQtDxbnqDMxlxcC2LETg3l2f+cRWRLT7gXFYbo2anzeRHIeVzfgrTXbM57blK7tdREyEdk5UzstwgZjrCUAJVDRrkO8OJBcHamfiypCr2/4goaS2s6MLYRnSFS5pGx7E9jceQQmRcbD9mzCdvSsgbTyObYX1vOpV4bBVcIJdmyHDc53unWBfjfD9uX7UMsITs81R1iJcxET87kdcx31wXG0iPxgcWamWStZD4aRcVHfke07zlPOVxR4/apN9Oj30RYUjFLcEDaVg/LW1eATnTtSz35nFLsAcD2i1ECPNJ290gRpg/aMN75TRoeP/l6J7Xcn4a5y9DTD9nuiTNKAcb10AeN34mb5gI=;jKG8Ds/N7/LiaX4h2XZGaQ=="
+secured: "imO+c8mT/DXru3DhgFMOMXL025w2N1yrCNHG3pQQRxZmIXCiawYemm16LNR89Mvns96m+OsHxtUJeHQ/or+cXcponLKI6vVb62HJ2wZJeXE4qQYk8voR6ZEdvdeo6bv1QEvpfn24vLtfP0suPm/9wCJIfrhp4fhCoFmBjWF3Q4282Q3yiBa3TnE4KM3hLe925r1m5vwlEQgNVn3uP+FpmeS96IGqMtvP9wEIaoI7gHowI+7/ouTHHqvoDdvXCQLAG8ijWaDVEcXrtd3m8Knm/gE2N4X8AeMVjdoQtSvSk4LE59DdDsOTf/zebKU1T1ZG/jjSkEW19kicy3BDn4eygWJhplQXxxlMOqJHMO4XftU=;+gEryt7e446TAPaDfVSHXg=="
 ---
 
