@@ -4,6 +4,42 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
+      "title": "Create an Azure Storage account",
+      "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 8490,
+        "average": 4.776561
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage.md",
       "title": "Store application data with Azure Blob storage",
       "excerpt": "Discover how to build an app that stores user files with Azure Blob storage, use Blob storage in a web app, and use the Azure Storage SDK for .NET Core.",
@@ -11,8 +47,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 3939,
-        "average": 4.5463314
+        "count": 3940,
+        "average": 4.546193
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -46,8 +82,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 6063,
-        "average": 4.633515
+        "count": 6064,
+        "average": 4.633575
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -82,8 +118,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 4963,
-        "average": 4.7424946
+        "count": 4965,
+        "average": 4.742598
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -128,8 +164,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 3680,
-        "average": 4.564402
+        "count": 3681,
+        "average": 4.5645204
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -250,8 +286,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 3395,
-        "average": 4.6886597
+        "count": 3396,
+        "average": 4.6887517
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -401,44 +437,6 @@
         "Analytics",
         "Storage",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
-      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
-      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 1954,
-        "average": 4.283521
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Compute",
-        "Serverless",
-        "Databases"
       ]
     },
     {
@@ -595,8 +593,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 527,
-            "average": 4.4895635
+            "count": 528,
+            "average": 4.4905305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -807,8 +805,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ingest-data-streams-with-azure-stream-analytics/",
           "length": "PT54M",
           "ratings": {
-            "count": 37,
-            "average": 4.756757
+            "count": 38,
+            "average": 4.763158
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1063,8 +1061,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
           "length": "PT30M",
           "ratings": {
-            "count": 2057,
-            "average": 4.7034516
+            "count": 2058,
+            "average": 4.7035956
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1149,8 +1147,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10174,
-            "average": 4.672007
+            "count": 10176,
+            "average": 4.6720715
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1558,8 +1556,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
       "length": "PT30M",
       "ratings": {
-        "count": 2057,
-        "average": 4.7034516
+        "count": 2058,
+        "average": 4.7035956
       },
       "provider": {
         "name": "Microsoft Learn",

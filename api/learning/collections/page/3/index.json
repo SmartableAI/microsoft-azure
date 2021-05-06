@@ -4,6 +4,186 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-connect-your-services-together.md",
+      "title": "Connect your services together",
+      "excerpt": "Use Azure to create website front-ends, back-end services, and triggered functions that compute-on-demand and can also communicate with each other.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-connect-your-services-together/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-connect-your-services-together/",
+      "length": "PT3H31M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-choose-messaging-model.md",
+          "title": "Choose a messaging model in Azure to loosely connect your services",
+          "excerpt": "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-messaging-model/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 3993,
+            "average": 4.612071
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "IoT",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-implement-message-workflows-with-service-bus.md",
+          "title": "Implement message-based communication workflows with Azure Service Bus",
+          "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-message-workflows-with-service-bus/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
+          "length": "PT54M",
+          "ratings": {
+            "count": 2729,
+            "average": 4.63723
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage.md",
+          "title": "Communicate between applications with Azure Queue storage",
+          "excerpt": "Find out to use Azure Queue storage to handle high demand and improve resilience in your distributed applications.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
+          "length": "PT56M",
+          "ratings": {
+            "count": 2243,
+            "average": 4.5916185
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs.md",
+          "title": "Enable reliable messaging for Big Data applications using Azure Event Hubs",
+          "excerpt": "Learn to use Azure Event Hubs to reliably process high-volume data streams to enable you to code applications to send and receive messages through the hub.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
+          "length": "PT56M",
+          "ratings": {
+            "count": 2483,
+            "average": 4.466774
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 63,
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "IoT",
+        "Analytics",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-billing.md",
       "title": "Control Azure spending and manage bills with Azure Cost Management + Billing",
       "excerpt": "Learn how to monitor and control your Azure spending and optimize the use of Azure resources.",
@@ -34,8 +214,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1470,
-            "average": 4.7387757
+            "count": 1471,
+            "average": 4.738953
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -78,8 +258,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 5499,
-            "average": 4.7977815
+            "count": 5501,
+            "average": 4.797855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -248,8 +428,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
           "length": "PT28M",
           "ratings": {
-            "count": 5433,
-            "average": 4.701638
+            "count": 5434,
+            "average": 4.701693
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -283,8 +463,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6300,
-            "average": 4.627143
+            "count": 6301,
+            "average": 4.627202
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -707,8 +887,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 6189,
-            "average": 4.7371144
+            "count": 6191,
+            "average": 4.7367144
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1328,8 +1508,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
           "length": "PT20M",
           "ratings": {
-            "count": 2249,
-            "average": 4.6491776
+            "count": 2250,
+            "average": 4.6493335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1372,8 +1552,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3949,
-            "average": 4.5986323
+            "count": 3950,
+            "average": 4.5987344
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1502,8 +1682,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1779,
-            "average": 4.673974
+            "count": 1780,
+            "average": 4.674157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1588,8 +1768,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 527,
-            "average": 4.4895635
+            "count": 528,
+            "average": 4.4905305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1678,8 +1858,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 1264,
-            "average": 4.750791
+            "count": 1266,
+            "average": 4.751185
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1720,8 +1900,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/",
           "length": "PT36M",
           "ratings": {
-            "count": 303,
-            "average": 4.726073
+            "count": 304,
+            "average": 4.7269735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2102,8 +2282,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
           "length": "PT1H20M",
           "ratings": {
-            "count": 5323,
-            "average": 4.7433777
+            "count": 5324,
+            "average": 4.743426
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2145,8 +2325,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
           "length": "PT1H27M",
           "ratings": {
-            "count": 3868,
-            "average": 4.76758
+            "count": 3869,
+            "average": 4.76764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2187,8 +2367,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 3340,
-            "average": 4.734132
+            "count": 3341,
+            "average": 4.7342114
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2230,8 +2410,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scan-open-source/",
           "length": "PT38M",
           "ratings": {
-            "count": 1997,
-            "average": 4.7190785
+            "count": 1998,
+            "average": 4.7187185
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2610,8 +2790,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
           "length": "PT30M",
           "ratings": {
-            "count": 124,
-            "average": 4.870968
+            "count": 125,
+            "average": 4.84
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2824,8 +3004,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1779,
-            "average": 4.673974
+            "count": 1780,
+            "average": 4.674157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2867,8 +3047,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1284,
-            "average": 4.6970406
+            "count": 1286,
+            "average": 4.6975117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2949,8 +3129,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 8534,
-            "average": 4.7642374
+            "count": 8541,
+            "average": 4.764079
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2992,8 +3172,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3049,
-            "average": 4.6648083
+            "count": 3050,
+            "average": 4.664918
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3253,8 +3433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
           "length": "PT30M",
           "ratings": {
-            "count": 124,
-            "average": 4.870968
+            "count": 125,
+            "average": 4.84
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3772,8 +3952,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
           "length": "PT1H20M",
           "ratings": {
-            "count": 5323,
-            "average": 4.7433777
+            "count": 5324,
+            "average": 4.743426
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3815,8 +3995,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 3340,
-            "average": 4.734132
+            "count": 3341,
+            "average": 4.7342114
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3858,8 +4038,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-build-dependencies/",
           "length": "PT59M",
           "ratings": {
-            "count": 1934,
-            "average": 4.686143
+            "count": 1936,
+            "average": 4.686467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3901,8 +4081,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-build-agent/",
           "length": "PT59M",
           "ratings": {
-            "count": 1951,
-            "average": 4.719631
+            "count": 1952,
+            "average": 4.7197747
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3989,8 +4169,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 1264,
-            "average": 4.750791
+            "count": 1266,
+            "average": 4.751185
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4624,8 +4804,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-iot-central-app/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 843,
-            "average": 4.6156583
+            "count": 844,
+            "average": 4.6161137
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6066,217 +6246,6 @@
       ],
       "content": "\r\n",
       "type": "collection",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-accelerate-cloud-adoption-with-the-microsoft-cloud-adoption-framework-for-azure.md",
-      "title": "Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure",
-      "excerpt": "Do you need a clear path forward for your cloud journey? This learning path includes best practice guidance to help you create a cloud strategy, define a cloud adoption plan, prepare your cloud environment with proper governance, and implement cloud operations in alignment with your organizational needs.  Cloud architects and IT professionals will learn and engage with the proven best practices, tools, and documentation in the Cloud Adoption Framework for Azure to build the technical knowledge needed to help your organization successfully adopt the cloud and meet business goals.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-accelerate-cloud-adoption-with-the-microsoft-cloud-adoption-framework-for-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-accelerate-cloud-adoption-with-the-microsoft-cloud-adoption-framework-for-azure/",
-      "length": "PT9H32M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-cloud-adoption-framework-getting-started.md",
-          "title": "Getting started with the Microsoft Cloud Adoption Framework for Azure",
-          "excerpt": "CAF getting started. Use the Cloud Adoption Framework getting started guides to unblock your organization’s cloud adoption efforts",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-adoption-framework-getting-started/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-getting-started/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 66,
-            "average": 4.439394
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cloud-adoption-framework-getting-started-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-cloud-adoption-framework-strategy.md",
-          "title": "Prepare for successful cloud adoption with a well-defined strategy",
-          "excerpt": "Success in cloud adoption is predicated by a clear strategy that helps the team understand executive direction and regularly measure progress. This module will help capture the cloud adoption strategy needed to drive your success.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-adoption-framework-strategy/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-strategy/",
-          "length": "PT1H2M",
-          "ratings": {
-            "count": 4,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cloud-adoption-framework-strategy-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "DevOps",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-cloud-adoption-framework-plan.md",
-          "title": "CAF Plan: Prepare for cloud adoption with a data-driven plan.",
-          "excerpt": "Prepare for cloud adoption with a data driven, cloud adoption plan from CAF. For new innovations, learn from others who have used the target platforms. For migrations, understand how to evaluate your assets and plan the efforts required to move them to the cloud.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-adoption-framework-plan/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-plan/",
-          "length": "PT1H53M",
-          "ratings": {
-            "count": 5,
-            "average": 4.8
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cloud-adoption-framework-plan-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-cloud-adoption-framework-ready.md",
-          "title": "Choose the best Azure landing zone to support your cloud operations requirements",
-          "excerpt": "Azure landing zones help accelerate configuration of your environment to meet your operational requirements.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-adoption-framework-ready/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-ready/",
-          "length": "PT1H29M",
-          "ratings": {
-            "count": 21,
-            "average": 4.7619047
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cloud-adoption-framework-ready-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cloud-adoption-framework-getting-started-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
       "topics": [
         "Azure"
       ]

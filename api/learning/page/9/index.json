@@ -4,6 +4,177 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-process-and-translate-speech-with-azure-cognitive-speech-services.md",
+      "title": "Process and Translate Speech with Azure Cognitive Speech Services",
+      "excerpt": "Learn how to implement the Speech services found in Azure Cognitive Services by performing speech-to-text transcription, synthesize text input to speech, perform speech translation, and implement speaker recognition in your AI infused applications",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-process-and-translate-speech-with-azure-cognitive-speech-services/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-process-and-translate-speech-with-azure-cognitive-speech-services/",
+      "length": "PT1H3M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-transcribe-speech-input-text.md",
+          "title": "Transcribe speech input to text",
+          "excerpt": "Speech to text from the speech service, known as speech recognition, enables real time transcription of audio streams into text. Your applications, tools, or devices can consume, display, and take action on this text as command input.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-transcribe-speech-input-text/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 658,
+            "average": 4.7203646
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-translate-speech-speech-service.md",
+          "title": "Translate speech with the speech service",
+          "excerpt": "Perform speech translation tasks with the speech service to translate spoken text to different languages.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-speech-speech-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
+          "length": "PT18M",
+          "ratings": {
+            "count": 633,
+            "average": 4.6951027
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/translate-speech-speech-service-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analyze-receipts-form-recognizer.md",
+      "title": "Analyze receipts with the Form Recognizer service",
+      "excerpt": "Processing invoices and receipts is a common task in many business scenarios. Increasingly, organizations are turning to artificial intelligence (AI) to automate data extraction from scanned receipts.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-receipts-form-recognizer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 1253,
+        "average": 4.760575
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-receipts-form-recognizer-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-control-azure-services-with-cli.md",
       "title": "Control Azure services with the CLI",
       "excerpt": "Learn the steps to install the Azure CLI locally, create a website, and manage Azure resources using the CLI.",
@@ -11,8 +182,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
       "length": "PT34M",
       "ratings": {
-        "count": 5614,
-        "average": 4.7661204
+        "count": 5616,
+        "average": 4.766204
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -46,8 +217,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 8489,
-        "average": 4.7766523
+        "count": 8490,
+        "average": 4.776561
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -196,8 +367,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 4684,
-        "average": 4.725448
+        "count": 4685,
+        "average": 4.725507
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -406,8 +577,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
       "length": "PT33M",
       "ratings": {
-        "count": 2966,
-        "average": 4.729265
+        "count": 2968,
+        "average": 4.7291107
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -482,8 +653,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
       "length": "PT45M",
       "ratings": {
-        "count": 7558,
-        "average": 4.6721354
+        "count": 7559,
+        "average": 4.6720467
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -517,8 +688,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
       "length": "PT18M",
       "ratings": {
-        "count": 632,
-        "average": 4.697785
+        "count": 633,
+        "average": 4.6951027
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -602,8 +773,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
       "length": "PT29M",
       "ratings": {
-        "count": 1144,
-        "average": 4.7744756
+        "count": 1146,
+        "average": 4.772251
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -687,8 +858,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/",
       "length": "PT41M",
       "ratings": {
-        "count": 967,
-        "average": 4.7993793
+        "count": 968,
+        "average": 4.799587
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -729,8 +900,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/",
       "length": "PT33M",
       "ratings": {
-        "count": 1304,
-        "average": 4.8021474
+        "count": 1308,
+        "average": 4.8027525
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -771,8 +942,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
       "length": "PT25M",
       "ratings": {
-        "count": 4360,
-        "average": 4.6323395
+        "count": 4361,
+        "average": 4.632424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -900,8 +1071,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 3843,
-        "average": 4.721832
+        "count": 3845,
+        "average": 4.7219768
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -942,8 +1113,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 3939,
-        "average": 4.5463314
+        "count": 3940,
+        "average": 4.546193
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1127,170 +1298,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-export-your-resources-to-csv-using-the-azure-portal-azure-portal-series.md",
-      "title": "How to export your resources to CSV using the Azure Portal | Azure Portal Series",
-      "excerpt": "The Azure Portal allows you to customize the information you'd like to export. In this video of the Azure Portal \"How To\" Series, learn how to easily export your files to CSV.   Try out these features in the Azure portal: https://portal.azure.com     Keep connected on Twitter: https://twitter.com/AzurePortal",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-export-your-resources-to-csv-using-the-azure-portal-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-export-your-resources-to-csv-using-the-azure-portal-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=Kfrx0TpCgPc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kfrx0TpCgPc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M29S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-15T08:10:46-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Kfrx0TpCgPc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-describe-the-capabilities-of-microsoft-compliance-solutions.md",
-      "title": "Describe the capabilities of Microsoft compliance solutions",
-      "excerpt": "Describe the capabilities of Microsoft compliance solutions",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-describe-the-capabilities-of-microsoft-compliance-solutions/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-describe-the-capabilities-of-microsoft-compliance-solutions/",
-      "length": "PT2H54M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-describe-compliance-management-capabilities-microsoft.md",
-          "title": "Describe the compliance management capabilities in Microsoft",
-          "excerpt": "Describe the compliance management capabilities in Microsoft",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-compliance-management-capabilities-microsoft/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-compliance-management-capabilities-microsoft/",
-          "length": "PT31M",
-          "ratings": {
-            "count": 199,
-            "average": 4.7939696
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/describe-compliance-management-capabilities-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-describe-resource-governance-capabilities-azure.md",
-          "title": "Describe resource governance capabilities in Azure",
-          "excerpt": "Describe resource governance capabilities in Azure",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-resource-governance-capabilities-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-resource-governance-capabilities-azure/",
-          "length": "PT21M",
-          "ratings": {
-            "count": 79,
-            "average": 4.78481
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/describe-resource-governance-capabilities-in-azure-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-compliance-management-capabilities-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

@@ -4,6 +4,90 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-data-engineering-processes.md",
+      "title": "Identify the tasks of a data engineer in a cloud-hosted architecture",
+      "excerpt": "Learn about the responsibilities of a data engineer, how they relate to the jobs of other data and AI roles, and explore common data engineering practices.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-data-engineering-processes/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 5971,
+        "average": 4.726009
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/data-engineering-processes-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-concepts-of-non-relational-data.md",
+      "title": "Explore concepts of non-relational data",
+      "excerpt": "Explore concepts of non-relational data",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-concepts-of-non-relational-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 2213,
+        "average": 4.8138275
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-concepts-of-non-relational-data-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-use-automated-machine-learning.md",
       "title": "Use automated machine learning in Azure Machine Learning",
       "excerpt": "Training a machine learning model is an iterative process that requires time and compute resources. Automated machine learning can help make it easier.",
@@ -112,8 +196,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1779,
-            "average": 4.673974
+            "count": 1780,
+            "average": 4.674157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -198,8 +282,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 527,
-            "average": 4.4895635
+            "count": 528,
+            "average": 4.4905305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -288,8 +372,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 1264,
-            "average": 4.750791
+            "count": 1266,
+            "average": 4.751185
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -330,8 +414,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/",
           "length": "PT36M",
           "ratings": {
-            "count": 303,
-            "average": 4.726073
+            "count": 304,
+            "average": 4.7269735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -712,8 +796,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
           "length": "PT1H20M",
           "ratings": {
-            "count": 5323,
-            "average": 4.7433777
+            "count": 5324,
+            "average": 4.743426
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -755,8 +839,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
           "length": "PT1H27M",
           "ratings": {
-            "count": 3868,
-            "average": 4.76758
+            "count": 3869,
+            "average": 4.76764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -797,8 +881,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 3340,
-            "average": 4.734132
+            "count": 3341,
+            "average": 4.7342114
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -840,8 +924,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scan-open-source/",
           "length": "PT38M",
           "ratings": {
-            "count": 1997,
-            "average": 4.7190785
+            "count": 1998,
+            "average": 4.7187185
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1220,8 +1304,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
           "length": "PT30M",
           "ratings": {
-            "count": 124,
-            "average": 4.870968
+            "count": 125,
+            "average": 4.84
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1434,8 +1518,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1779,
-            "average": 4.673974
+            "count": 1780,
+            "average": 4.674157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1477,8 +1561,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1284,
-            "average": 4.6970406
+            "count": 1286,
+            "average": 4.6975117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1559,8 +1643,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 8534,
-            "average": 4.7642374
+            "count": 8541,
+            "average": 4.764079
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1602,8 +1686,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3049,
-            "average": 4.6648083
+            "count": 3050,
+            "average": 4.664918
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1863,8 +1947,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
           "length": "PT30M",
           "ratings": {
-            "count": 124,
-            "average": 4.870968
+            "count": 125,
+            "average": 4.84
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2169,8 +2253,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "PT58M",
       "ratings": {
-        "count": 6300,
-        "average": 4.627143
+        "count": 6301,
+        "average": 4.627202
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2534,8 +2618,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
           "length": "PT1H20M",
           "ratings": {
-            "count": 5323,
-            "average": 4.7433777
+            "count": 5324,
+            "average": 4.743426
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2577,8 +2661,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 3340,
-            "average": 4.734132
+            "count": 3341,
+            "average": 4.7342114
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2620,8 +2704,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-build-dependencies/",
           "length": "PT59M",
           "ratings": {
-            "count": 1934,
-            "average": 4.686143
+            "count": 1936,
+            "average": 4.686467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2663,8 +2747,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-build-agent/",
           "length": "PT59M",
           "ratings": {
-            "count": 1951,
-            "average": 4.719631
+            "count": 1952,
+            "average": 4.7197747
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2751,8 +2835,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 1264,
-            "average": 4.750791
+            "count": 1266,
+            "average": 4.751185
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3386,8 +3470,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-iot-central-app/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 843,
-            "average": 4.6156583
+            "count": 844,
+            "average": 4.6161137
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4864,85 +4948,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
-      "title": "Create a Linux virtual machine in Azure",
-      "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-linux-vm-in-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
-      "length": "PT1H26M",
-      "ratings": {
-        "count": 9851,
-        "average": 4.696173
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-users-and-groups-in-aad.md",
-      "title": "Manage users and groups in Azure Active Directory",
-      "excerpt": "Manage users and groups in Azure Active Directory",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-users-and-groups-in-aad/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 5451,
-        "average": 4.7213354
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],
