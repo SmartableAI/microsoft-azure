@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/an-invitation-to-innovate-and-tra
 webUrl: "https://azure.microsoft.com/blog/an-invitation-to-innovate-and-transform-your-business-on-azure-sql/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
