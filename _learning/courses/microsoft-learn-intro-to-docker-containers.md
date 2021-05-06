@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT32M
 ratings:
-  count: 4697
-  average: 4.6570153
+  count: 4698
+  average: 4.6570883
 heat: 56
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Containers
 
-secured: "rJnZtY4ycSVApkyxSMVZjwf7/OKl85fIFhPDva5jaK+Oq238AgvLuxFRfmn0jcxUaNGeUmVAn1ApRs6XEPFiyDMSIrTOq7s5B/EuORunW1XrAnW8Oow2dd3++0UVDq8oy6b2LiqJWZmG6mO3wVkb+Lfzt+TuIMZOT9NgBF9I7huFJMgTqzXQG+fwQ0VQwYmN1/T8PXV4TYRrExVv6PI6n5ySU/iky7SG/J2p8Wj2Ok8WLVnpR8UcLLWGDkk/oZdOf3otbKa6TkmdKFyuQaWs4rGUGmT/smFJpSxSzUgvdVRPCcB9h/l13UfaOkwn9N7xxLNsYpXHXcqVJOteIO0UUFhKA/MjyjVXl75aLjmwSuOb+tbtPz78/PKXzfH39mKUKDrZQBdiW15dLUOuFH9V6LlROqtcFKBWXTC5sQIrEi0=;WFD51l9mYm7WG9LCgrOWZg=="
+secured: "/6gOTugMRZrX5RxPxapTwwpD44Q5Mx6GoGJX+m16KMtoww7hjAJUJZCoNh6tZNwyaW15y06O2RTdePVu5OA26CgpJTQHaoeLjyNB48AQo9adcnv3+Bcr8Qb9BCwnHoPmnm7QaG+FoTNWFF3hVHGZWdkIQBn1ugszbtkHuZa4XuN2Nh16jIFva2cnLufvq8ucMn8emuD6hSyjbUjGGdkoPeRA5gawwxlTLT4gOtsCv6kCf0hDaIYi+N/598C3aYR1FcPifn2XjnSHSLSNd7AJZY0C7qdmj0TSVARGvJvT9nH6xGYg7tfM3Ly3zEmVex118dWamdfny907lqrpctiBxoIaW4npNWjNuF6EYUWxvTtgYDFDGw8ww/0D+DZKIbuZWqyIAYY0SLzZvkzkzm65RosrPjjMnrrUfR7p1A64e88=;qufuym68tysFr5+FxxwZcQ=="
 ---
 

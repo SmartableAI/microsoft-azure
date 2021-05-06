@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H26M
 ratings:
-  count: 9853
-  average: 4.696133
+  count: 9854
+  average: 4.695758
 heat: 61
 
 provider:
@@ -26,6 +26,6 @@ topics:
   - Management Tools
   - Compute
 
-secured: "tD18Vp33nbsGCrZQkyXzylf+5s8aFI1WOl20TxclDjIDdiJ54WL3mdNsrWd49+q30Nfa2RjP29u3o71FAEVZD68slqhmtbz2KxJHMzNsWAOLYGei/1kHBLATToVI6h9btt+wA5MBtnJ/uiV/1K+VqXBy+z4RDLH5J/Cg10Tgv8rpi9TuD4HRm5bbPu4xznK4k0ZnRTDVNacSX4T2wXsA2n8MaJHWP8rilgw8dsmvBovxLkdGh7qwtU/e+UmI25EY7p6fCZO0A0ejWjxC9/u+nnrKJSFB55xT8JIN+Zp0GSVsw3jxzJ/WW+zMVgaEtrE3Qbnjj33+1PUXtc/Zmw/iiR8/vGl9ZRmcvmTjUyffd/EIE++/SsTQKbzTrTBHMaO1M/7bpoWog+jMoMjldcUT+519bLKTIXxPlVstoFN9TS4=;crD21mBrv5xwDPi2iLrf5A=="
+secured: "E2SgQn2E/t+rQZJleyQqGD5FX22UucD+ZVuHOdBCQfE9S2w6Ncx4OEk4EJJa8SeB9nuHTSxzwnKTmjNoAKWHSXfKPBgtujsxb7aSSfTjyVdnpmUWx0cJ1DeXbSUMV44axtXYIKXuAbIfzeiRbL/zTpGx/sg4ifiw7e7XGnl5fUdNXDtlLqRzkEJ/AilesH3jzSO7j63B4/ZcALYUvkl0yDtMAGaPL56tSUuHK5xiFRlQOnmC/ywt+s6t2Hld2/X7GguJA2SagrWoYZbHK16EM30ozcfBPevFwbn6SmmtD90y+0zeGIJpE8idrw8HLNIgQOSClwu5ImIhcTwT+IsD5xr3LB1r/g1/kg/X1FsuU0gRPUifExEuijV/pnjjSe6w2A56he5TkTFfjsq9zK6VpdvqwIUm8J/Y+mvr8hq/o7w=;1kUFrpdXsxVYxdtosznmDA=="
 ---
 
