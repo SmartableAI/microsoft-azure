@@ -235,6 +235,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 7
+  - title: "IFI Techsolutions earns Modernisation of Web Applications to Microsoft Azure advanced specialisation"
+    excerpt: "IFI Techsolutions ( on Thursday announced it has earned the Modernisation of Web Applications to Microsoft Azure advanced specialsation, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-05-06T07:44:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20210506/3751517.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
 
 secured: "Nw1d8Bem589QHECxsnW+hGac114y2TK51skkIcqcXAAuN/X8dygOLA2Qcb/1fEcv+wuExCnf5E1r6ll592Pp7TByGHDVOAbJ9QwMzETIkH9NXFebB6Xy34Hk8MI3GSNNLjgsT0mnYS9TrAZzghSp/ZxpdXeDIhAMFQQUkgilL/3+jXSFcyC4+95AdVAnMWAVeX4+9LnEA7c7hNDyHR9oUTZ42axPiEjCD41Qm96fASXOqm7ZjqZdtvLczZEd7dC/7oL8zG74XkBsdMdYriMH6UUSzWFpj7tDalOEFpQRoW17LuJa2xJ6maZ7HU6vHI5ISPVe7pKJrF8Y4/e8r6nFgo6bUgFuTjf3+2sl3jTzdxY=;1LhDIwm96SPlS62gcUfeWg=="
 ---

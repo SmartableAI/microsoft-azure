@@ -236,7 +236,16 @@ related:
       name: The Grand Junction Daily Sentinel
       domain: gjsentinel.com
     quality: 2
+  - title: "IFI Techsolutions earns Modernisation of Web Applications to Microsoft Azure advanced specialisation"
+    excerpt: "IFI Techsolutions ( on Thursday announced it has earned the Modernisation of Web Applications to Microsoft Azure advanced specialsation, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-05-06T07:44:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20210506/3751517.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
 
-secured: "R/IIZSIhoxCecrJjD9HLEb+orOa9vJzDVs1dp2du4llvkZMaT94LqiiUIhSjl/wr4ZXc2x8THgGP0fEbaJ6j1Aw/5grGXOpt45l7Kip39QZm6fxBIUJH+9V6U2Y2JpBUzI8dJDfa61MJA0m1gVN3n7WIl2V8D5tmn/xbIJ8fzXooTc7W2rV2O7NJ3SC1RV8pJK0C3/7hYgBPcNJ3uHwzzKxYY3JMSUCLnleaqx9eD796CzzXU936n/mvea8blZA4IJdcD/YdZCFCHZKoPKQc9FnN/UGquMjMuhyZwDXS0yp5rJo+mZ0U6iHYVFpyW6qLWOPib0aN6olBSmf5povXXX/dTouglIHU0jyMvvVGYo4=;SeuE0/gOVTVL9KYHb2gw0w=="
+secured: "WPED5Ttaj3RRazxs4MJHGbJZCeVdseedfyeXah8jMRAr16eM2viN85vs89Rt+k96iowiRxPBqVTVXmb8DQUJAamO45yWvVe75dc5ma3D7PpDz146NXqdguiToSNlW2Y0oel7bOvFSPIJAdZU8c8/7pmkym5ReSsXafP12KgNO4C9rl47DOjvtlevGrx1B3u1n+gVjZH2cUmMn65i5ebf7WbtWFX8L6+QPuT0CO5HZkEDgK7h5fU1XcZZyLVsyOeMgpYUXjI4YEnNAyh4QQc9URyagx0BxFWWSAs5ASTABdct2EREwyyOG2ouPmgK6Z5Or+0mA18IABWUMOCEKc35XPtpCPlEAscyzI+DhUcyi98=;FaW2VdpHkWdQYCXrvzCg0A=="
 ---
 

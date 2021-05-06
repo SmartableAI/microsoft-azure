@@ -1,28 +1,21 @@
 ---
 category: news
-title: "Unisys Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "Unisys Corporation (NYSE: UIS) today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure"
-publishedDateTime: 2021-05-05T11:58:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/unisys-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301283853.html"
-webUrl: "https://www.prnewswire.com/news-releases/unisys-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301283853.html"
+title: "IFI Techsolutions earns Modernisation of Web Applications to Microsoft Azure advanced specialisation"
+excerpt: "IFI Techsolutions ( on Thursday announced it has earned the Modernisation of Web Applications to Microsoft Azure advanced specialsation, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+publishedDateTime: 2021-05-06T07:44:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Business/20210506/3751517.html"
+webUrl: "https://news.webindia123.com/news/Articles/Business/20210506/3751517.html"
 type: article
-quality: 40
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Azure
-  - Migration
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Microsoft previews Azure service for building WebSocket applications"
@@ -125,6 +118,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/microsoft-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Unisys Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Unisys Corporation (NYSE: UIS) today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure"
+    publishedDateTime: 2021-05-05T11:58:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/unisys-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301283853.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Dassian Announces Collaboration with Microsoft Azure Government"
     excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
@@ -237,16 +244,7 @@ related:
       name: The Grand Junction Daily Sentinel
       domain: gjsentinel.com
     quality: 2
-  - title: "IFI Techsolutions earns Modernisation of Web Applications to Microsoft Azure advanced specialisation"
-    excerpt: "IFI Techsolutions ( on Thursday announced it has earned the Modernisation of Web Applications to Microsoft Azure advanced specialsation, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-    publishedDateTime: 2021-05-06T07:44:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20210506/3751517.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 2
 
-secured: "ikmyNskskNmU8U8HjJH1U9jaIKZxSG1idAY4AYkTZqytWfSnxtFLRInEoq9fzgLLUwsKUKkyEiCgokktJjLRtJi2jy6gMzlD6fBE0+zSVFefHPJpFvy2QrgZjEN7/39V9WQIeo1r3+O2RyzDOHP5GjDcMXqJDCWZpeMv0Up+ADfey396s2veM7NA5YWFhJqwkrpbiHquRGqSWdtQMkWtJXmzZaFzGI2LDEFVLGAwvNy1F1gsUNcXRScJMRjZ7P3bDxq9CFTfuZk5V9v2h6zAihyosgmmE5+vC0ocds/i5j8ozpj3afimTrQ140hpWbxm3Hf7UZ7DsUC/WxyT+EQo9aROR06skgnOT3aiGlvauCQ=;ORxGZfRTBSC5vwDmCenKwg=="
+secured: "J1ucJSZy0xzbVZzgdKPQh/y0lzwa7LNTuDWrccN/zzIbgO22kariwmUJudSRe6rQYxQIHl1mgORUz7lq31m7Hr0zB2n0uuMoAxct8E9DTOmRP0VvzA18JaXXlfgYmo2vmssL3h/484Bdmfdf1RT+f2/Dd7u3ZUgGUAKlOLVoivOJazpRC5xYlqOrPtrG8fP2npDkUzkZ7KHU5Lfkh7COZvUdKoGCoTav5OsVdsTBbpaJ+ln5ZcjfXcVqlDEJDKLfuEXLAzmMSy2dTwJeah6zzMD/5H1opiQNQ5plLwhmSoV9qjLVytX7zJCu6Ib/eaXuj9Rc7aGLVvR0x4MubkhTTfY6MJPKg6PZjei51w0V3kw=;yl/paYIXZ/riGN9Bc4cCGQ=="
 ---
 

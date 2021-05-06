@@ -401,6 +401,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GlobalLogic Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
+    excerpt: "GlobalLogic Inc., a leader in Digital Product Engineering, today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge,"
+    publishedDateTime: 2021-05-05T12:30:00Z
+    webUrl: "https://www.financialbuzz.com/globallogic-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 29
   - title: "Microsoft Cloud for Healthcare Reaches General Availability"
     excerpt: "Six months after launching at Build 2020, the Microsoft Cloud for Healthcare vertical cloud solution is now generally available."
     publishedDateTime: 2020-10-29T15:18:00Z

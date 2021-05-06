@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Principled Technologies Releases Study Comparing Performance of Kubernetes Clusters Running on Microsoft Azure..."
-excerpt: "Newer D- and E-series VMs with Intel Xeon Cascade Lake processors supported more users than older VMs enabled by previous-generation Intel Xeon processors."
-publishedDateTime: 2021-04-30T07:01:00Z
-originalUrl: "https://www.pr.com/press-release/826386"
-webUrl: "https://www.pr.com/press-release/826386"
+title: "GlobalLogic Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
+excerpt: "GlobalLogic Inc., a leader in Digital Product Engineering, today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge,"
+publishedDateTime: 2021-05-05T12:30:00Z
+originalUrl: "https://www.financialbuzz.com/globallogic-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+webUrl: "https://www.financialbuzz.com/globallogic-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
 type: article
-quality: 33
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: PR
-  domain: pr.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Azure
   - Containers
-
-images:
-  - url: "https://img.pr.com/release/2104/416814/pressrelease_original_416814_1619714331.png"
-    width: 500
-    height: 647
-    isCached: true
 
 related:
   - title: "Microsoft Azure: This new technology allows you to manage Kubernetes containers across the hybrid cloud"
@@ -374,6 +368,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Principled Technologies Releases Study Comparing Performance of Kubernetes Clusters Running on Microsoft Azure..."
+    excerpt: "Newer D- and E-series VMs with Intel Xeon Cascade Lake processors supported more users than older VMs enabled by previous-generation Intel Xeon processors."
+    publishedDateTime: 2021-04-30T07:01:00Z
+    webUrl: "https://www.pr.com/press-release/826386"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 33
+    images:
+      - url: "https://img.pr.com/release/2104/416814/pressrelease_original_416814_1619714331.png"
+        width: 500
+        height: 647
+        isCached: true
   - title: "Microsoft Introduces Azure Space to Further Push the Boundaries of Cloud Computing"
     excerpt: "Recently Microsoft launched its Azure Space initiative as a further push of cloud computing towards space. This initiative by the public cloud vendor consists of several products and partnerships to position Azure as a critical player in the space- and ..."
     publishedDateTime: 2020-10-27T11:04:00Z
@@ -388,15 +396,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GlobalLogic Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
-    excerpt: "GlobalLogic Inc., a leader in Digital Product Engineering, today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge,"
-    publishedDateTime: 2021-05-05T12:30:00Z
-    webUrl: "https://www.financialbuzz.com/globallogic-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 29
   - title: "Analysis: In an epic pivot to the cloud, Microsoft makes Azure the linchpin of its future"
     excerpt: "Microsoft Corp.’s Azure cloud computing service is the linchpin of the tech giant’s innovation strategy. As we reported last week, we believe that in the next decade, changes in public policy will restrict the way in which big internet companies are able to appropriate user data."
     publishedDateTime: 2020-10-31T18:43:00Z
@@ -509,6 +508,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "R8g/QBH+/LlwCCjPPWKo9iai1QR7meh3+xHts+aSHouGdusYWztYXz0YDVNFrKIVTGX7GO2AErD8WGbPxt4Y7IuxO4/kAFLqqz9Rl0FA6AqzKJqSvcLJyunxUKMO8CUnNYe6Z3LiGL08k5qz6wdDt4YS1Vt4eEb7hDXgsrFjavnSnmBZvk7OjQdNs5CUtVLp8qW1QVorD5qTA2QVlA7VmsKQFYT9DUjOiLfFXLFSt/CRO0TLkZhE0COON3QqSWrP70GiT6GbRoDZDlJhhB27fafP/SMgfOEjO2zJqpjcEFxW5+TguegsKB3enI4NDgwbV8/Aj+KsU2HphvOm+lz1Utg2mBgmUYCxCOEEl08VmPIjv3gkkp7uVe1XxbltKcQ8qT2UD7cWX8y5GWD3B/rKA1b+6tuwFIlCqAVSPY3H4DvuTQsbHBHtnYiIroZFPuDpaR7X6tPV/WpUtgXpFaJVNgL8OwpthYBgJMHsHsU56Tazxprq7Es/+opKKzSHn/FBg65ncah1jRAHJL2xHKypJg==;dEonrlJTAMfUAqlZQBpnxA=="
+secured: "wap38k/qpOe5+wUamM2urQCjBo4v1eyN5wEGLpXAASR1m6KqqQ6Dsd5ByqEu5hJt6L9bonzIlGBrJfSlAWsRl0fw3Rlr63XcTf2R43OSvkD6U7y7JZP2DI8MRr3lUZaf/zQAEMG/tKBc1ChMOqjQqSEAk0V+fo3OdmFCT6A9AJ93gtmHhwBoVCp1ozERFD8YA4eFMkEmv8L0CEWgaCcj3s+EogN+D4P4v9ELeneOIuX0hbBEW5obikYhwYik+ta+Rv1wWRIT8jwGSZmlXZaXUb+4KAEcN9hdYYlyGJll9VVkw0fXxA+IvW9WcvMyT1hrg01KdRaNnGequkhPOVfima9CRecDTnH1Igips95rq54=;bGP7Oy6G/CbFW6TDTZHT3g=="
 ---
 

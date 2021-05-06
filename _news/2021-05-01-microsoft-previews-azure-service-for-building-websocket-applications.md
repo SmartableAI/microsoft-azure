@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3617113/microsoft-previews-azure-s
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html"
 type: article
 quality: 97
-heat: 418
+heat: 438
 published: true
 
 provider:
@@ -239,6 +239,15 @@ related:
     provider:
       name: The Grand Junction Daily Sentinel
       domain: gjsentinel.com
+    quality: 2
+  - title: "IFI Techsolutions earns Modernisation of Web Applications to Microsoft Azure advanced specialisation"
+    excerpt: "IFI Techsolutions ( on Thursday announced it has earned the Modernisation of Web Applications to Microsoft Azure advanced specialsation, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-05-06T07:44:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20210506/3751517.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 2
 
 secured: "ZRvXLOlEcNDYjT7Rjm3cV+DtL8YbIam4JMMERn/z3H8XXPAkEY8RGb9c+Ks/gqiOptOdZssepjtt2foOfyqHdaXX99Byq6aJ0VLXGo02/t2jy30WV2XN28dqktPmFCNjTWYybi7pMBM/gdJ97dB7BZUvTPluKug5FXp4bzDiU6UAtnl/qZTaJKx62B8zHQY6u3RzUIdXOmNbw1DJSPXLHDT9bLWGxsGigUbjp/QA2NAh6gVKi+l6PQ0VJUaG49MviRL/wqnjQLUDMjVyKOlhByPQq4w/M6kNHisG1aFOlqTAWT2H8b/hVdxN8imZ3w5p4JJsggQTPLUHAPWYCpErWBB53s/wg/DQHX8ual48QRg=;g/MvzUlMR6z96msoQZr7bw=="
