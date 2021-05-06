@@ -204,19 +204,14 @@ related:
         height: 450
         isCached: true
   - title: "Serenic Software Announces Release for Microsoft Cloud"
-    excerpt: "PRNewswire/ - Serenic Software Inc., a Sylogist Ltd. company, a leading provider of comprehensive enterprise resource planning (\"ERP\") solutions"
+    excerpt: "PRNewswire/ - Serenic Software Inc., a Sylogist Ltd. company, a leading provider of comprehensive enterprise resource planning (\"ERP\") solutions for non-profits and non-governmental organizations, has"
     publishedDateTime: 2021-05-04T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/serenic-software-announces-release-for-microsoft-cloud-301283072.html"
+    webUrl: "https://www.gjsentinel.com/news/colorado/serenic-software-announces-release-for-microsoft-cloud/article_4ce1cea6-22df-577e-bcea-b932cb88c401.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1502632/Serenic_Software_Inc__Serenic_Software_Announces_Release_for_Mic.jpg?p=facebook"
-        width: 596
-        height: 315
-        isCached: true
+      name: The Grand Junction Daily Sentinel
+      domain: gjsentinel.com
+    quality: 2
 
 secured: "zp2qRXw+2Xm1RS5XacVxyNgS3svtAmNk2DTAa4FYkX0ztqnqV8/M2X4UcfD7Wd2+W8Ba/oeYHYmJMuQg+RRwz7CAqUJsBKVtXctgdes5LtSxMuDm4ToM25iGCrsBkT5QPJUcEj5aNiVsq8BdFc8zYtHjBWFwwBNuxuvvV8+YA/0Zj7X74Pbe8C9rWtRvE/yraeq0/GsIAz+5YAoAc/xYmU4dhTOFj/EsmKUudMOmjFBLAeRn+C2TaFCtdxajemvavW/qenBGtnH/ViagFURxN4PJ/5RtZOI2JT9o5U4VD1iV4eU37defvHUQ/95Iu4SuCvpC7TA0O8JavKQk4zP+QstbZtbimHzTAupxdI4+c50=;FImtl7JLRgPbqd9fyxqwgg=="
 ---

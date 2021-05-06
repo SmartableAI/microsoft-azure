@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Serenic Software Announces Release for Microsoft Cloud"
-excerpt: "PRNewswire/ - Serenic Software Inc., a Sylogist Ltd. company, a leading provider of comprehensive enterprise resource planning (\"ERP\") solutions"
+excerpt: "PRNewswire/ - Serenic Software Inc., a Sylogist Ltd. company, a leading provider of comprehensive enterprise resource planning (\"ERP\") solutions for non-profits and non-governmental organizations, has"
 publishedDateTime: 2021-05-04T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/serenic-software-announces-release-for-microsoft-cloud-301283072.html"
-webUrl: "https://www.prnewswire.com/news-releases/serenic-software-announces-release-for-microsoft-cloud-301283072.html"
+originalUrl: "https://www.gjsentinel.com/news/colorado/serenic-software-announces-release-for-microsoft-cloud/article_4ce1cea6-22df-577e-bcea-b932cb88c401.html"
+webUrl: "https://www.gjsentinel.com/news/colorado/serenic-software-announces-release-for-microsoft-cloud/article_4ce1cea6-22df-577e-bcea-b932cb88c401.html"
 type: article
-quality: 22
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: The Grand Junction Daily Sentinel
+  domain: gjsentinel.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1502632/Serenic_Software_Inc__Serenic_Software_Announces_Release_for_Mic.jpg?p=facebook"
-    width: 596
-    height: 315
-    isCached: true
 
 related:
   - title: "Microsoft previews Azure service for building WebSocket applications"
@@ -219,6 +213,6 @@ related:
       domain: financialbuzz.com
     quality: 7
 
-secured: "rZxjux0EpLP2T9YWCLS3ewGFymAyzB/s+pk88UoF3fxdBp4PVJD3lpk3wHbbv08KS8kHYzpC6VZ3Znn1GBwzMtFUJeEoNpzCwr7WOYuH2Wu94wlrWxDVwrdNZh7vN2di4Pgq7RDjvY8A9jEkT6Zr0whJ9qvRoTfnn2GW18JBGBIPulDq6aobgpAuLQzKrqVu7WnmKS0j2PtaS/Ixr+BgqSzNQJ778TRc3lWAxPE32hZLF8jkXtT6k66jEZfo17Ry/bVDJTVF0RBYCcP1nu0Ako1cHpOp9NeecZ2VGaZjHQhn5eKIaDHoNhj+Cxi9g/o9U3Vmsc7AsUPgddUqLzc5Rrm7xZ+2pI0KZkVr3+2/LDItLyyDUYrmrj9T7iN5gs9qHrDqPl/XUiRiTvFgZwY1xBFoVBh20RE3QjqFCdtvZaJI6jnljcxAV3nwAmf8xsBuEyXQ3rCbtPnwtYvfRtFA0tKtbI6VmMib+UlbxFHg8XW18Nz0w6o15R5Lelk6GPscz1gVwdCHP3Gj4nTNmZSFWg==;1PeaEI+IIKK71RN6KdD1XA=="
+secured: "Nw1d8Bem589QHECxsnW+hGac114y2TK51skkIcqcXAAuN/X8dygOLA2Qcb/1fEcv+wuExCnf5E1r6ll592Pp7TByGHDVOAbJ9QwMzETIkH9NXFebB6Xy34Hk8MI3GSNNLjgsT0mnYS9TrAZzghSp/ZxpdXeDIhAMFQQUkgilL/3+jXSFcyC4+95AdVAnMWAVeX4+9LnEA7c7hNDyHR9oUTZ42axPiEjCD41Qm96fASXOqm7ZjqZdtvLczZEd7dC/7oL8zG74XkBsdMdYriMH6UUSzWFpj7tDalOEFpQRoW17LuJa2xJ6maZ7HU6vHI5ISPVe7pKJrF8Y4/e8r6nFgo6bUgFuTjf3+2sl3jTzdxY=;1LhDIwm96SPlS62gcUfeWg=="
 ---
 

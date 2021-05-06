@@ -199,20 +199,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Serenic Software Announces Release for Microsoft Cloud"
-    excerpt: "PRNewswire/ - Serenic Software Inc., a Sylogist Ltd. company, a leading provider of comprehensive enterprise resource planning (\"ERP\") solutions"
-    publishedDateTime: 2021-05-04T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/serenic-software-announces-release-for-microsoft-cloud-301283072.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1502632/Serenic_Software_Inc__Serenic_Software_Announces_Release_for_Mic.jpg?p=facebook"
-        width: 596
-        height: 315
-        isCached: true
   - title: "Data Theorems Modern AppSec SaaS Solutions Now Available in the Microsoft Azure Marketplace"
     excerpt: "Data Theorem, Inc., a leading provider of modern application security, today announced that its broad portfolio of modern AppSec products is now available in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure,"
     publishedDateTime: 2021-05-04T12:00:00Z
@@ -222,6 +208,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 7
+  - title: "Serenic Software Announces Release for Microsoft Cloud"
+    excerpt: "PRNewswire/ - Serenic Software Inc., a Sylogist Ltd. company, a leading provider of comprehensive enterprise resource planning (\"ERP\") solutions for non-profits and non-governmental organizations, has"
+    publishedDateTime: 2021-05-04T12:00:00Z
+    webUrl: "https://www.gjsentinel.com/news/colorado/serenic-software-announces-release-for-microsoft-cloud/article_4ce1cea6-22df-577e-bcea-b932cb88c401.html"
+    type: article
+    provider:
+      name: The Grand Junction Daily Sentinel
+      domain: gjsentinel.com
+    quality: 2
 
 secured: "dsWS6PkzbtVsUhZFKSUuk/tqirY/SslZMbucxeP9fkOCbG9Nlzw3zgYPb06F3jm5qK2+D+sJH19pr7vOgup8lpoxC8WzxmUVJ8dm6mDtBVl5/wGfClHAyuRemtzdCLZaVIMmMnHqxGNRG5ddWau+PTNaz9k44ZGptky5RO0Bh0uIu1nQ8nAB0iNoAaefcaMNAURN1dolMkG1hU2vR2xzC9e2rOiBtYXeE2RxNmnW9Wq7J0fn7TcxiAgbUFnjUYOCQmkm+eeSoaeEkXm19f0qY3DhWfcyvoeoRU7+1xo0oASBbkKwbgzxVvf0SfWykKtPaF/62Qv5eoORwvDGna79UfnKFsDx637k/zX8iFdAAJ4=;aQJVSWejZ6RcWxZJza5MBQ=="
 ---
