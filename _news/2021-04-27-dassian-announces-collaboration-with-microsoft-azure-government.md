@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Dassian Announces Collaboration with Microsoft Azure Government"
-excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
-publishedDateTime: 2021-04-26T23:19:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
-webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
+excerpt: "Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian’s deep industry expertise and standardized SAP ERP extension solutions with Azure’s scalable and secure government cloud platform to provide a fully integrated environment for high security customers in Federal,"
+publishedDateTime: 2021-04-26T23:16:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
+webUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
-    width: 2084
-    height: 1090
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -195,6 +195,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
+    excerpt: "With the move into the cloud gathering pace today, the ACS represents a significant enabler of telco cloud adoption, proving that cloud-native platforms such as the ACS, together with Microsoft Azure, are recognized by the CSP community as the default ..."
+    publishedDateTime: 2021-04-30T07:41:00Z
+    webUrl: "https://www.realwire.com/releases/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: realwire.com
+      domain: realwire.com
+    quality: 17
   - title: "Data Theorems Modern AppSec SaaS Solutions Now Available in the Microsoft Azure Marketplace"
     excerpt: "Data Theorem, Inc., a leading provider of modern application security, today announced that its broad portfolio of modern AppSec products is now available in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure,"
     publishedDateTime: 2021-05-04T12:00:00Z
@@ -214,6 +223,6 @@ related:
       domain: gjsentinel.com
     quality: 2
 
-secured: "n+bL0sunYlSRJHJWbxgZ1dpilPlrsPSqq0VTJEAdV8pHZ+MbCwi1dvjMz5yJQXo2GLpFFRNl6VmUmofgWbqhYc2Vtlz7CKuSEm8qXjfr0iR5B1YlHpzTned4pYfdwFiZc9JkKgdvZwsLrazn/ew/PoHXc3lRcJijPD8bd+HZspaCkwtpS31uV//wfOVziex9XVNP7n0Bi8saMInycSPCMNsH9n9Slo9hREWyj9rl1fMmFP0FXjUB4Nu5I3gLrMQ9mgGA3V10aqEkdo7mI0lSaTz2fQhcQeR/M/yHPnTqUGwoq01DRJkFJd77w7sZ/4YJRWO1ln5ykNHRU4xUupudjbTPxmK85R/5P74QmlF70RI=;OGZDK5ELIId8GG7AfYSNQw=="
+secured: "aHUpzN6ikDpH0ewYiRceRnLxtAp0F+mlHsXmziVmJlDHx7uU2TLIf7Rfuv0AOL8PWcIRc8uIiX1FxxyZ4YQH/DzTRSmgHkkWaN1j3dqAl5J/BzdL8vnZCX4bzODvS0dRuIM5P3+GqmPffpbHqpXp8bua5RElZg1iLq0aNqgedDHwmSkSFB4NFijooBBx6tpJdipOet88hBsxdgpgsC2GQwH7vZnWzX3AeDew1zQ2XNkx1BvrfAWoNiBIrPo9+3DZNJ4qCUwjYYqrI75kp1GALaOs+FEOPA/6glpMK2NUiID0ZpOWaJKSrHg+lEGX7LWqChO60bLRM2/vOTTOIRXBfe7j6GKZOikEPxGSnbAdwoU=;jmjkQTAgxBLGF69AYUMrzg=="
 ---
 

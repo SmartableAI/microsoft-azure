@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Serenic Software Announces Release for Microsoft Cloud"
-excerpt: "PRNewswire/ - Serenic Software Inc., a Sylogist Ltd. company, a leading provider of comprehensive enterprise resource planning (\"ERP\") solutions for non-profits and non-governmental organizations, has"
-publishedDateTime: 2021-05-04T12:00:00Z
-originalUrl: "https://www.gjsentinel.com/news/colorado/serenic-software-announces-release-for-microsoft-cloud/article_4ce1cea6-22df-577e-bcea-b932cb88c401.html"
-webUrl: "https://www.gjsentinel.com/news/colorado/serenic-software-announces-release-for-microsoft-cloud/article_4ce1cea6-22df-577e-bcea-b932cb88c401.html"
+title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
+excerpt: "With the move into the cloud gathering pace today, the ACS represents a significant enabler of telco cloud adoption, proving that cloud-native platforms such as the ACS, together with Microsoft Azure, are recognized by the CSP community as the default ..."
+publishedDateTime: 2021-04-30T07:41:00Z
+originalUrl: "https://www.realwire.com/releases/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+webUrl: "https://www.realwire.com/releases/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
 type: article
-quality: 2
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: The Grand Junction Daily Sentinel
-  domain: gjsentinel.com
+  name: realwire.com
+  domain: realwire.com
 
 topics:
   - Azure
@@ -203,15 +203,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
-    excerpt: "With the move into the cloud gathering pace today, the ACS represents a significant enabler of telco cloud adoption, proving that cloud-native platforms such as the ACS, together with Microsoft Azure, are recognized by the CSP community as the default ..."
-    publishedDateTime: 2021-04-30T07:41:00Z
-    webUrl: "https://www.realwire.com/releases/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: realwire.com
-      domain: realwire.com
-    quality: 17
   - title: "Data Theorems Modern AppSec SaaS Solutions Now Available in the Microsoft Azure Marketplace"
     excerpt: "Data Theorem, Inc., a leading provider of modern application security, today announced that its broad portfolio of modern AppSec products is now available in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure,"
     publishedDateTime: 2021-05-04T12:00:00Z
@@ -221,7 +212,16 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 7
+  - title: "Serenic Software Announces Release for Microsoft Cloud"
+    excerpt: "PRNewswire/ - Serenic Software Inc., a Sylogist Ltd. company, a leading provider of comprehensive enterprise resource planning (\"ERP\") solutions for non-profits and non-governmental organizations, has"
+    publishedDateTime: 2021-05-04T12:00:00Z
+    webUrl: "https://www.gjsentinel.com/news/colorado/serenic-software-announces-release-for-microsoft-cloud/article_4ce1cea6-22df-577e-bcea-b932cb88c401.html"
+    type: article
+    provider:
+      name: The Grand Junction Daily Sentinel
+      domain: gjsentinel.com
+    quality: 2
 
-secured: "Nw1d8Bem589QHECxsnW+hGac114y2TK51skkIcqcXAAuN/X8dygOLA2Qcb/1fEcv+wuExCnf5E1r6ll592Pp7TByGHDVOAbJ9QwMzETIkH9NXFebB6Xy34Hk8MI3GSNNLjgsT0mnYS9TrAZzghSp/ZxpdXeDIhAMFQQUkgilL/3+jXSFcyC4+95AdVAnMWAVeX4+9LnEA7c7hNDyHR9oUTZ42axPiEjCD41Qm96fASXOqm7ZjqZdtvLczZEd7dC/7oL8zG74XkBsdMdYriMH6UUSzWFpj7tDalOEFpQRoW17LuJa2xJ6maZ7HU6vHI5ISPVe7pKJrF8Y4/e8r6nFgo6bUgFuTjf3+2sl3jTzdxY=;1LhDIwm96SPlS62gcUfeWg=="
+secured: "vXm70Tt9EaoVzRlSo4/y2Qizewd6YOrfW3UmBlybCuFAEk0YZ9rHRZqV26OORdgw4n9Xmp3gdiViXrsDWSAocx0nGYS/fCe9q9Vzh0jseikKezUegY/kkz5i2VIxxZUZFwbnrlW2P2B9UV32jkEaXV+kqn1Z2eUQbKBZ7ujE2d3T7lGNk+VZAhvs39ii65Oa8GULVEzZYk7W5G0SA/WW3tPlCxtE3Xp1HfpD4F0ZqOt95FEHfAam0Sky8w/Tx9XbF3WXPkaxkhsSwR3k+CjeG5WhKp/T4e1uYYilZR/2/K5pCPpuTw/oc9QoMsOUbrFtu9UGXf+Qd1sPsniKOT74IbfvyTGr4l4LH8KUKGh+i5o=;oqCeCBta+WjMi11jDV/e0w=="
 ---
 
