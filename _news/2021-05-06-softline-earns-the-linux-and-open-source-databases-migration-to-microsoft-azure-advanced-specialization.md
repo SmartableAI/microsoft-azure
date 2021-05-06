@@ -1,25 +1,24 @@
 ---
 category: news
-title: "Microsoft Azure Web PubSub service now in public preview"
-excerpt: "Easily build large-scale real-time messaging applications with WebSockets without  the need to manage backend infrastructure."
-publishedDateTime: 2021-04-29T18:00:03Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-web-pubsub-service-now-in-public-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-web-pubsub-service-now-in-public-preview/"
+title: "Softline Earns the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
+excerpt: "LONDON United Kingdom May 06 2021 In March 2021 Softline received Linux and Open Source Databases Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and proven expertise in migrating workloads running"
+publishedDateTime: 2021-05-06T14:15:00Z
+originalUrl: "https://www.openpr.com/news/2280889/softline-earns-the-linux-and-open-source-databases-migration"
+webUrl: "https://www.openpr.com/news/2280889/softline-earns-the-linux-and-open-source-databases-migration"
+ampWebUrl: "https://www.openpr.com/amp/2280889/softline-earns-the-linux-and-open-source-databases-migration"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2280889/softline-earns-the-linux-and-open-source-databases-migration"
 type: article
-quality: 67
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - Azure
+  - Migration
 
 related:
   - title: "Microsoft previews Azure service for building WebSocket applications"
@@ -82,6 +81,15 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft Azure Web PubSub service now in public preview"
+    excerpt: "Easily build large-scale real-time messaging applications with WebSockets without  the need to manage backend infrastructure."
+    publishedDateTime: 2021-04-29T18:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-web-pubsub-service-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Softline earns the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Read Article In March 2021, Softline received Linux and Open Source Databases Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertise in migrating workloads running on Red Hat Enterprise Linux or SUSE virtual machines and/or utilizing MySQL,"
     publishedDateTime: 2021-05-05T09:54:00Z
@@ -158,17 +166,6 @@ related:
         width: 750
         height: 750
         isCached: true
-  - title: "Softline Earns the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "LONDON United Kingdom May 06 2021 In March 2021 Softline received Linux and Open Source Databases Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and proven expertise in migrating workloads running"
-    publishedDateTime: 2021-05-06T14:15:00Z
-    webUrl: "https://www.openpr.com/news/2280889/softline-earns-the-linux-and-open-source-databases-migration"
-    ampWebUrl: "https://www.openpr.com/amp/2280889/softline-earns-the-linux-and-open-source-databases-migration"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2280889/softline-earns-the-linux-and-open-source-databases-migration"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
   - title: "Dassian Announces Collaboration with Microsoft Azure Government"
     excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
     publishedDateTime: 2021-04-26T23:19:00Z
@@ -290,6 +287,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "hrTp1I38Pap/6AuQfiy6Ml5dlAgsKx/wRBDFlM2Ok90GN97VB0i/KXtn6Ezcrmi84zQh3B6D1NrgkktoDQlcQX2xJtrOeOXXoEk8J0kGtIMREeGNIveXCH4OICn4siFoHxXAyacG13rFxQ9LjZXjQ/VeDUEy5htPoX5iMCOAcI5B5ymIuMGXhqD17K4rE/MVYpvYA0mZQoKkMj8FZg/IxnhR5BCJUBElml24M6NohMUk6RcD8Tm5pJjwqef2Hi5BXpN2I0CWpNKXm79q7Q840mTSWgdcm8C5nbgUPVFUgMZTttz+jf6EHR323CcsTYxzoHR97CTCt0qxvmrqOqowTIgcX38BAOTey96aridKhRc=;/vsNqvfbQXk9zeSN5aypTw=="
+secured: "AreIumYiKe5Htu8/kTWCZSR7Hs8J3Uqr42zKePAVKsYeDV8uOUxZCzhu5UVcH7uhEcRh0mLqPWa1uRJiqD2i3FeRrlHc3XTkfVqdOmOLE0eVA9GH/EI/CbbOb16P9WO7QLfwbl1kmT5Sr4cPTEbxVsyBw4GsLxnwnXG4iR6izCjzeEaQ8GbeVBSfJJLwIndCNt5gYzwQUlxrK9ds2HIj5x147abZcKHE8FVeFom1Bd7b7c1BJx/LoPJgq0xaFyLSzxeUFmM8l+crHFN7VMktCr6AOHAEtj9FrFoJsxbCn8kUgrLxwvNRhTxKQNaEa2heWQa1Aow6dmfMWjbwOkjTJp0fEV3jhMNpulUBi03V5Js=;RnBDAdVwtntrUurQcWRwHg=="
 ---
 
