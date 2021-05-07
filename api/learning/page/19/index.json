@@ -4,48 +4,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-app-service-autoscale-rules.md",
-      "title": "Dynamically meet changing web app performance requirements with autoscale rules",
-      "excerpt": "Respond to periods of high activity by incrementally adding resources, and then removing these resources when activity drops, to reduce costs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-app-service-autoscale-rules/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-autoscale-rules/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 813,
-        "average": 4.619926
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/app-service-autoscale-rules-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-automate-model-selection-with-azure-automl.md",
       "title": "Automate machine learning model selection with Azure Machine Learning",
       "excerpt": "Learn how to use automated machine learning in Azure Machine Learning to find the best model for your data.",
@@ -561,8 +519,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3999,
-        "average": 4.612153
+        "count": 4000,
+        "average": 4.61225
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -897,8 +855,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "PT50M",
       "ratings": {
-        "count": 3507,
-        "average": 4.690334
+        "count": 3508,
+        "average": 4.690137
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -934,6 +892,51 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-create-azure-cognitive-search-solution.md",
+      "title": "Create an Azure Cognitive Search solution",
+      "excerpt": "Unlock the hidden insights in your data with Azure Cognitive Search.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-cognitive-search-solution/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-cognitive-search-solution/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 56,
+        "average": 4.857143
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-an-azure-cognitive-search-solution-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "AI",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-configure-manage-identities.md",
       "title": "Create, configure, and manage identities",
       "excerpt": "Create, configure, and manage identities",
@@ -941,8 +944,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-configure-manage-identities/",
       "length": "PT32M",
       "ratings": {
-        "count": 399,
-        "average": 4.8070173
+        "count": 400,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1164,8 +1167,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 287,
-        "average": 4.5783973
+        "count": 288,
+        "average": 4.579861
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1246,15 +1249,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-batch-inference-pipelines-with-azure-machine-learning.md",
-      "title": "Deploy batch inference pipelines with Azure Machine Learning",
-      "excerpt": "Machine learning models are often used to generate predictions from large numbers of observations in a batch process. To accomplish this, you can use Azure Machine Learning to publish a batch inference pipeline.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-batch-inference-pipelines-with-azure-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/",
-      "length": "PT44M",
+      "path": "_learning/courses/microsoft-learn-deploy-azure-sql-database.md",
+      "title": "Deploy Azure SQL Database",
+      "excerpt": "Provision and deploy Azure SQL Database and SQL Server Managed Instances. Select the appropriate options when performing a migration to the SQL PaaS platform.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-azure-sql-database/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
+      "length": "PT48M",
       "ratings": {
-        "count": 602,
-        "average": 4.714286
+        "count": 2176,
+        "average": 4.787684
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1274,7 +1277,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-batch-inference-pipelines-with-azure-machine-learning-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-azure-sql-database-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -1285,8 +1288,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools",
-        "AI"
+        "Databases"
       ]
     }
   ],

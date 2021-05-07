@@ -4,46 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/videos/microsoft-how-to-use-deployment-slots-on-azure-app-service-azure-portal-series.md",
-      "title": "How to use deployment slots on Azure App Service | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to set up staging environments in Azure App Service by using deployment slots.   Try out these features in the Azure portal: https://portal.azure.com    Keep connected on Twitter: https://twitter.com/AzurePortal      And make sure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-deployment-slots-on-azure-app-service-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-deployment-slots-on-azure-app-service-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=0cgy4GplC4I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0cgy4GplC4I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M14S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-14T08:00:54-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0cgy4GplC4I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-how-to-use-jupyter-notebooks-in-azure-data-studio-azure-friday.md",
       "title": "How to use Jupyter Notebooks in Azure Data Studio | Azure Friday",
       "excerpt": "Vicky Harp joins Scott Hanselman to show how Azure Data Studio combined the simple and robust SQL query editing experience of tools like SSMS with the flexibility and collaboration of Jupyter Notebooks. The November 2019 release of Azure Data Studio included SQL Server 2019 Guide as a Jupyter Book, which",
@@ -337,8 +297,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
       "length": "PT36M",
       "ratings": {
-        "count": 6196,
-        "average": 4.736766
+        "count": 6198,
+        "average": 4.7368507
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -467,8 +427,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 1958,
-        "average": 4.2849846
+        "count": 1959,
+        "average": 4.28535
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -582,8 +542,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
       "length": "PT53M",
       "ratings": {
-        "count": 843,
-        "average": 4.5385528
+        "count": 844,
+        "average": 4.5390997
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1036,8 +996,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "PT53M",
       "ratings": {
-        "count": 2269,
-        "average": 4.643455
+        "count": 2270,
+        "average": 4.643172
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1288,8 +1248,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-error-handling/",
       "length": "PT34M",
       "ratings": {
-        "count": 123,
-        "average": 4.8455286
+        "count": 124,
+        "average": 4.83871
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1330,8 +1290,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-understand-common-concepts/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 237,
-        "average": 4.8607593
+        "count": 240,
+        "average": 4.858333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1362,6 +1322,50 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-aad-users-with-mfa.md",
+      "title": "Secure Azure Active Directory users with Multi-Factor Authentication",
+      "excerpt": "Learn how to use multi-factor authentication with Azure AD to harden your user accounts.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-aad-users-with-mfa/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 2525,
+        "average": 4.7338614
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Identity"
       ]
     }
   ],
