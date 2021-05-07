@@ -254,6 +254,15 @@ related:
         width: 2696
         height: 1414
         isCached: true
+  - title: "Softline Earns the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Softline received Linux and Open Source Databases Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertise in migrating workloads running on Red Hat Enterprise Linux or SUSE virtual machines"
+    publishedDateTime: 2021-05-07T07:04:00Z
+    webUrl: "https://www.pr.com/press-release/835952"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 18
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "With the move into the cloud gathering pace today, the ACS represents a significant enabler of telco cloud adoption, proving that cloud-native platforms such as the ACS, together with Microsoft Azure, are recognized by the CSP community as the default ..."
     publishedDateTime: 2021-04-30T07:41:00Z

@@ -1,21 +1,22 @@
 ---
 category: news
-title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
-excerpt: "With the move into the cloud gathering pace today, the ACS represents a significant enabler of telco cloud adoption, proving that cloud-native platforms such as the ACS, together with Microsoft Azure, are recognized by the CSP community as the default ..."
-publishedDateTime: 2021-04-30T07:41:00Z
-originalUrl: "https://www.realwire.com/releases/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
-webUrl: "https://www.realwire.com/releases/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+title: "Softline Earns the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
+excerpt: "Softline received Linux and Open Source Databases Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertise in migrating workloads running on Red Hat Enterprise Linux or SUSE virtual machines"
+publishedDateTime: 2021-05-07T07:04:00Z
+originalUrl: "https://www.pr.com/press-release/835952"
+webUrl: "https://www.pr.com/press-release/835952"
 type: article
-quality: 17
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: realwire.com
-  domain: realwire.com
+  name: PR
+  domain: pr.com
 
 topics:
   - Azure
+  - Migration
 
 related:
   - title: "Microsoft previews Azure service for building WebSocket applications"
@@ -258,15 +259,15 @@ related:
         width: 2696
         height: 1414
         isCached: true
-  - title: "Softline Earns the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Softline received Linux and Open Source Databases Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertise in migrating workloads running on Red Hat Enterprise Linux or SUSE virtual machines"
-    publishedDateTime: 2021-05-07T07:04:00Z
-    webUrl: "https://www.pr.com/press-release/835952"
+  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
+    excerpt: "With the move into the cloud gathering pace today, the ACS represents a significant enabler of telco cloud adoption, proving that cloud-native platforms such as the ACS, together with Microsoft Azure, are recognized by the CSP community as the default ..."
+    publishedDateTime: 2021-04-30T07:41:00Z
+    webUrl: "https://www.realwire.com/releases/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
     type: article
     provider:
-      name: PR
-      domain: pr.com
-    quality: 18
+      name: realwire.com
+      domain: realwire.com
+    quality: 17
   - title: "Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers"
     excerpt: "Competition in Australia is heating up among Microsoft Azure providers, with local players challenging the global giants, ISG (Nasdaq:III) says."
     publishedDateTime: 2021-05-07T04:20:00Z
@@ -304,6 +305,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "vXm70Tt9EaoVzRlSo4/y2Qizewd6YOrfW3UmBlybCuFAEk0YZ9rHRZqV26OORdgw4n9Xmp3gdiViXrsDWSAocx0nGYS/fCe9q9Vzh0jseikKezUegY/kkz5i2VIxxZUZFwbnrlW2P2B9UV32jkEaXV+kqn1Z2eUQbKBZ7ujE2d3T7lGNk+VZAhvs39ii65Oa8GULVEzZYk7W5G0SA/WW3tPlCxtE3Xp1HfpD4F0ZqOt95FEHfAam0Sky8w/Tx9XbF3WXPkaxkhsSwR3k+CjeG5WhKp/T4e1uYYilZR/2/K5pCPpuTw/oc9QoMsOUbrFtu9UGXf+Qd1sPsniKOT74IbfvyTGr4l4LH8KUKGh+i5o=;oqCeCBta+WjMi11jDV/e0w=="
+secured: "ETzMWnOVxISnodOPBBuAgLJk1fvMOXTqfDWlWcDSd0bTmdG67NSWgmL1OjQdWpG0xGKR06CQXyLpRM5ORuuNygppMavR4JdRsjv3H0XvEoJUaZd9Tbhf46BtTLmHrXiSf3mmQwQl6880sNV7QeSaW9E8WBdCcutVtkrQmYwxG8xxHvsuoP02jw+alhJn+2ilnWI2/l+cdhqrxRbFkb0EIjDVacf+xGkJyQNG1lrKCSgwSEHPpqezagkrGl+sRNG0NRKppCW9H56VaRDhOvJOLlrUhPJUovjRCvG6fXbSm8vfLVzRBRsvX1vZzKRktoD3ASPIDABHRd+Z9UfJBvu0VhzeDdSehOwkBctQ/lRt8B4=;qdBBgRwOS1tM2sc5wwqOQg=="
 ---
 
