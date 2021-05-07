@@ -4,7 +4,7 @@ excerpt: "Data engineering with Azure Databricks"
 type: collection
 price: Free
 length: PT10H32M
-heat: 63
+heat: 62
 
 provider:
   name: Microsoft Learn
