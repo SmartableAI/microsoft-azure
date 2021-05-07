@@ -194,20 +194,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers"
-    excerpt: "Australia’s accelerating migration to the cloud is intensifying competition among Microsoft Azure service providers, with local players starting to challenge the global giants, according to a new report published today by Information Services Group ( ISG) (Nasdaq: III),"
-    publishedDateTime: 2021-05-07T00:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/australia-technology-236c0ab765834fe8ad935b2b12728011"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Single Sign On (SSO) Software Market including top key players Okta, OneLogin, Microsoft Azure"
     excerpt: "Enquiry Before Purchase @ jcmarketresearch.com/report-details/1297781/enquiry Company Overview: Okta, OneLogin, Microsoft Azure, Rippling, RSA Security, JumpCloud, AWS, Idaptive, Ping Identity, miniOrange,"
     publishedDateTime: 2021-05-01T14:56:00Z
@@ -273,6 +259,15 @@ related:
       name: realwire.com
       domain: realwire.com
     quality: 17
+  - title: "Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers"
+    excerpt: "Competition in Australia is heating up among Microsoft Azure providers, with local players challenging the global giants, ISG (Nasdaq:III) says."
+    publishedDateTime: 2021-05-07T04:20:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210506006308/en/Rising-Demand-in-Australia-Intensifying-Competition-Among-Microsoft-Azure-Providers"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
   - title: "Data Theorems Modern AppSec SaaS Solutions Now Available in the Microsoft Azure Marketplace"
     excerpt: "Data Theorem, Inc., a leading provider of modern application security, today announced that its broad portfolio of modern AppSec products is now available in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure,"
     publishedDateTime: 2021-05-04T12:00:00Z
@@ -301,6 +296,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "GHfarQ4jvYAo3eWMFjOJamwxNEqehoi1tghGAN6YV3NLWWZnyyGdt61lMBSsaoRnxPlz2QOBrzcx4J1Ts4T29XGChzmvvh/8MOSCrlEoC4FnpXtd/WxxrRhbOFAX5nzZ6D39I//btJNigTAAkyQTrXFud4NImxaWskAuAoNTSB3RYzfNbalJ7xHz3zbIt8BiFJQ15PujTA4WSxn9r6CeoEridToUh3P//7g/8CzIjY0FvZtcBqB2sgWij/MJV834dWnm4/cMoRVOP6SKdgeQtjqfM5IQCep6vE3joGKVv+lv9DyqwoqK8pmmUiOgYlZ7GdKKIt7agJE3aLT2pe5B/EVPkq4bOvf0VPqfmLXVMMk=;PIeZo24eMi5hEyH5hA5UOg=="
+secured: "+vqpSxGNHiCaf+G4+vx08kEYKHhNGqIt3TXNb3nj40J2MWx+6OuRPRh9CD2gpv6XyeJkkY+fV3MoaSzu9LAwdWb78DXytCKkM/lA9J8P9JSvGZ4Le64fSsH9GLFuHKQMdtfjFfTeZLSAZEMdEDYf7eTtzEdIaYvUPttOCOHhBn7IQM8pKseGyoUpYoGRplKs48LTWn+yc/Uu2HMwrwNDsSyjHiK66/dNaIh8tYI45TBeLUikA3rytgLj80DpISZ51sJVe2tJtnthmIoPTHaANG7hbHsJGIdcR7YYW6EgNA0/fkfhJ6nEYTw1llYWG6jwj39r2xc+t9rT72atQOfF19RgKFBSzfMrfMY7kfE62KM=;bqdSoLUMsT3BHoPERToXQA=="
 ---
 

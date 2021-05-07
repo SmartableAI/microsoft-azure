@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers"
-excerpt: "Australia’s accelerating migration to the cloud is intensifying competition among Microsoft Azure service providers, with local players starting to challenge the global giants, according to a new report published today by Information Services Group ( ISG) (Nasdaq: III),"
-publishedDateTime: 2021-05-07T00:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/australia-technology-236c0ab765834fe8ad935b2b12728011"
-webUrl: "https://apnews.com/press-release/business-wire/australia-technology-236c0ab765834fe8ad935b2b12728011"
+excerpt: "Competition in Australia is heating up among Microsoft Azure providers, with local players challenging the global giants, ISG (Nasdaq:III) says."
+publishedDateTime: 2021-05-07T04:20:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210506006308/en/Rising-Demand-in-Australia-Intensifying-Competition-Among-Microsoft-Azure-Providers"
+webUrl: "https://www.businesswire.com/news/home/20210506006308/en/Rising-Demand-in-Australia-Intensifying-Competition-Among-Microsoft-Azure-Providers"
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft previews Azure service for building WebSocket applications"
@@ -301,6 +295,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "g1alTLkUtSeBJwcVk8SNP5iiEsovb3dKdzJmRokhT3m0LCGLkKAj396xQpsbNQGWJg3rFDnrBBh5jF1o1/bsNqklNGNjm4BbQwomPeXDMih4oOC6Eo9R6RxadlB6qxZhcEDGeus8fuLYIO6Jfk2a9lSbN9G/oLo0Xm20nbnpnvRgNQmZUJy9flHKGuip74w+34YchACNB3SowdlgPyEcpHX1cZp2H9Hyrk+GF2s2ruPaCghJVXLK6itYWMV2LoiX98HI8bi67yWTUgZPKB+eyGJPoCxNfZ8QJxZScPFY/cu13dHEUiUiYLJ8ZGvzvO0kEpsjmOfre0XqJ4ZBtqPLZDcYS1dxJ/ZEO3nn2GWASXU=;AaGdjjjEV7rXYJqkBx950Q=="
+secured: "PSF8ZvSUMcAh94HKvOrF40rFWz15+elwkM8c//Q4iWEJ5MSrsogHaK6HVr4k3I6g/esQ1t0NYJJs2SyxsPHMWleX4MMB7PXy8sEicpnJP7QXzn0RiNZH3wjybldEJTOeFNN6Wsroc3RjlZQdI6N9L4FJUGwugIiAWC3rA/RkK7XfPZEMtVpTFrzx6oG5E9n/afh+HRVqDFzktFWjHzQ9uwuX4VKwHv6w/1y+wgis2RcrZyAJA8ubeP7WMzRHJVlgW28IHc7FN5dcGOu6l/0mdMJInZlGCes+2RtRJmmCTBFSGs85UOM//u7VgZcNPK+cE1EIxS2OVrdbmlNKyjUyXCwfBolB0ga3xN/WUfUShck=;POBtLuIzm9TkVSb47Apy0w=="
 ---
 
