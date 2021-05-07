@@ -4,7 +4,7 @@ excerpt: "In this edition of Azure Tips and Tricks, learn how you can create Azu
 originalUrl: https://youtube.com/watch?v=WOxjyJgw-ZY
 type: video
 price: Free
-length: PT4M1S
+length: PT4M
 publishedDateTime: 2019-05-21T15:30:37Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "PFCoSpgItLpKjN8ONp7siB98YHHW9qV+yEkPwuS7cpddl9Zc1XPL+nrw8LyO+M/4c2eRq0ZjgaJL+2OSK8vQ+d2pOdohsZnZnFTigzUqpVIDpECPTdo1u8rY2r1qrFQcgfezXiUFdG/GxMO5cEaRKrA3ooP7VAcpmRntFErRei0Xy1ZJnvrpS0srW12Ls530d4KaN5jaRbnfmOc4lr2qVs2fIo0hL4Eyc1tgSyJE2fI4NvukaiyC1zJ6KLRNDYjWq7ckoUnVEa78SqaQVxi6dVeC9bjrfMJqctqflnvSe1ZCFgZ2Z63taH5yQscDM1o2I5SPLSmExTl8eVN9dZ+MovuxRAs0gQy7s7GsVy6GFqhZpR1U5vNj6lvTv+R6g5ARnsPIOg7F1TK8ceG13Ej+4ETrr/yaUArhWxXnVOf7LvQ=;Wv2zRyI8T64gQY8qr5AdmQ=="
+secured: "wvcG4l3V7Of6jmv4u9MNmNYhmCI0PVcKmazQFipCLyhPMg8LYI7FZ04++PksF8GCPDmnIB83mpssTVTw0GiLDteft//Chml3KiSfNNKnabY45KGZ5Y74UyXBXV1mhh8UJfOnXWSFe4uCZIVwXuXIwgk58lT6GHMrlbibqDhYlse4uVTtBadXfZpixBc4vZEtVk5T2d91iUxzysfFm3wofiazBctXUbWlJeJWTfprXB6+me5Lc/Ip78HcXlbRGnySm0R3cpekq5BkkAYx8T6I9U5EXcngKnapKfO5BXkWZL2LjW8vTRUtvHT70nU6vRlS7ktv3nX3j4IB2tp3gsDGho3vF4LBugxufHJep6VflwHS0jjqXNrpTIB22X0RDPusu5oqpoctv357pAE0ZrbMiZcuoRnP0C/C7TQkGgB/Xf0=;c8i1l43BnJslG+uwdmADAg=="
 ---
 
