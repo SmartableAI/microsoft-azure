@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Dassian Announces Collaboration with Microsoft Azure Government"
-excerpt: "Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian’s deep industry expertise and standardized SAP ERP extension solutions with Azure’s scalable and secure government cloud platform to provide a fully integrated environment for high security customers in Federal,"
-publishedDateTime: 2021-04-26T23:16:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
-webUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
+excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
+publishedDateTime: 2021-04-26T23:19:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
+webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
+    width: 2084
+    height: 1090
     isCached: true
 
 related:
@@ -194,6 +194,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers"
+    excerpt: "Australia’s accelerating migration to the cloud is intensifying competition among Microsoft Azure service providers, with local players starting to challenge the global giants, according to a new report published today by Information Services Group ( ISG) (Nasdaq: III),"
+    publishedDateTime: 2021-05-07T00:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/australia-technology-236c0ab765834fe8ad935b2b12728011"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Single Sign On (SSO) Software Market including top key players Okta, OneLogin, Microsoft Azure"
     excerpt: "Enquiry Before Purchase @ jcmarketresearch.com/report-details/1297781/enquiry Company Overview: Okta, OneLogin, Microsoft Azure, Rippling, RSA Security, JumpCloud, AWS, Idaptive, Ping Identity, miniOrange,"
     publishedDateTime: 2021-05-01T14:56:00Z
@@ -287,6 +301,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "/W1g7y9o0lvN+yFMd+Fr7x6z+LODTIhc6ZQzNu2huiQi/QiHZnVTPA/24MFuhlFba/0kGM4k7EwD5GMsYTcFfiPmtHoCUJeY88hvvZphDmYqNt2/nhgxPMPIHl0vsiqsH9ks8Y/oxHJurOpV++ZKGaa3JBJl2V8HHAAVyEnoaNNjLcs5iV/XNyx61NQNiXmyUfgwbzdQGGqHpmcy78pXalVf1ZBdohCUj4pNb1Q2bm2JvVUhxqAKuswm1iPm5P2WaewIHewktilTHvz1497TzgmkhdwIP4JDcU9PauZIIXzGKkP0dsqU/TVqJ361G41aLLvbzK+QpDdnPRG/6qOglUYX/N+oi6KTpMbUeBEuknA=;HFgkYsv2MXMD7YrjyWeTPw=="
+secured: "yrDpRGFCp8uT2ckg2amAIjw33HDUVLbqmOARbxtdSlg/Qzv2+sFhPAphriW9aJLpYxGk/isS9l7eSkQBk/0EL6PZRC2fHaxQL6VMGzqcDTlrt/pjBMDe6C1gxCtOEoquT5pvQuJEe0oH3XJN6bnDEUvpFqEz7JpajUHDdhbIsQZ36Ascmf6mfI+plCzXwHhhcamfGIqtEMm6IPSu2YWZTgd+bcxK+Y1L6yF8nV0v66EX+nvRH3WNfrkrYxHMW4kAuGbgibDYx7hMh3vOL3jnoxn1dozbfEOAP28PmhZ5thn7IcTYEylJXx+j+NNdEKwO4tJC8KMKJaNA1tjTBS/QXETmlqzPSnAAB/pgcE5QYq0=;rZ4kyir4zD87Ha/bIZUmsA=="
 ---
 

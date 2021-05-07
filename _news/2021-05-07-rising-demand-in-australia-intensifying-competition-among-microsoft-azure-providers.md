@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Unisys Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "BLUE BELL, Pa., May 5, 2021 /PRNewswire/ -- (NYSE: UIS) today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a"
-publishedDateTime: 2021-05-05T11:58:00Z
-originalUrl: "https://www.dailylocal.com/news/state/unisys-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization/article_9c7af2e2-c949-511c-a19c-939a2a625bd4.html"
-webUrl: "https://www.dailylocal.com/news/state/unisys-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization/article_9c7af2e2-c949-511c-a19c-939a2a625bd4.html"
+title: "Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers"
+excerpt: "Australia’s accelerating migration to the cloud is intensifying competition among Microsoft Azure service providers, with local players starting to challenge the global giants, according to a new report published today by Information Services Group ( ISG) (Nasdaq: III),"
+publishedDateTime: 2021-05-07T00:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/australia-technology-236c0ab765834fe8ad935b2b12728011"
+webUrl: "https://apnews.com/press-release/business-wire/australia-technology-236c0ab765834fe8ad935b2b12728011"
 type: article
-quality: 40
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Daily Local News
-  domain: dailylocal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
-  - Migration
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/custom/image/2d4590ae-4fab-11e8-9727-cfe5c01d44d3.png"
-    width: 750
-    height: 750
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -156,6 +155,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Unisys Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "BLUE BELL, Pa., May 5, 2021 /PRNewswire/ -- (NYSE: UIS) today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a"
+    publishedDateTime: 2021-05-05T11:58:00Z
+    webUrl: "https://www.dailylocal.com/news/state/unisys-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization/article_9c7af2e2-c949-511c-a19c-939a2a625bd4.html"
+    type: article
+    provider:
+      name: Daily Local News
+      domain: dailylocal.com
+    quality: 40
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/custom/image/2d4590ae-4fab-11e8-9727-cfe5c01d44d3.png"
+        width: 750
+        height: 750
+        isCached: true
   - title: "Softline Earns the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
     excerpt: "LONDON United Kingdom May 06 2021 In March 2021 Softline received Linux and Open Source Databases Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and proven expertise in migrating workloads running"
     publishedDateTime: 2021-05-06T14:15:00Z
@@ -194,20 +207,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/microsoft2-1-1.png"
         width: 718
         height: 400
-        isCached: true
-  - title: "Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers"
-    excerpt: "Australia’s accelerating migration to the cloud is intensifying competition among Microsoft Azure service providers, with local players starting to challenge the global giants, according to a new report published today by Information Services Group ( ISG) (Nasdaq: III),"
-    publishedDateTime: 2021-05-07T00:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/australia-technology-236c0ab765834fe8ad935b2b12728011"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Single Sign On (SSO) Software Market including top key players Okta, OneLogin, Microsoft Azure"
     excerpt: "Enquiry Before Purchase @ jcmarketresearch.com/report-details/1297781/enquiry Company Overview: Okta, OneLogin, Microsoft Azure, Rippling, RSA Security, JumpCloud, AWS, Idaptive, Ping Identity, miniOrange,"
@@ -302,6 +301,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "/2Fg1wXenj4uTiZiHkyUtTh/voDfkd3AzHU8BoFluJ2203oc1xQgus9uH9Bm1WZgr6qfcIgvVeJvuuFaK0dW0Fl/LAx+ID59kXnX74j0rNMWQLBc9DB6hTQ8U6Ti6FKTIRuDb0wGAXPdSHL9FL5vqeQHXNTZv05DNJPW2Rx0AagYOdONRR+mi2BuGhAu/BDGyfJkJfbqrECyUDmcjBPKwMuMs/avjm3b4z2jG2eLhsr8iGGJrijLzmrUxomKv2qihr9rUphQYKjQAkN24f89HOEWA+s6YXjFx2mGcs1SJY/9V44rvaq2n+EktnyxF5c4nqAftKEoGOqK7IBFZGEJFkod2ynwcDxZnI+ksgsmiqw=;i365w3oL8S4M4bUiZJCk3A=="
+secured: "g1alTLkUtSeBJwcVk8SNP5iiEsovb3dKdzJmRokhT3m0LCGLkKAj396xQpsbNQGWJg3rFDnrBBh5jF1o1/bsNqklNGNjm4BbQwomPeXDMih4oOC6Eo9R6RxadlB6qxZhcEDGeus8fuLYIO6Jfk2a9lSbN9G/oLo0Xm20nbnpnvRgNQmZUJy9flHKGuip74w+34YchACNB3SowdlgPyEcpHX1cZp2H9Hyrk+GF2s2ruPaCghJVXLK6itYWMV2LoiX98HI8bi67yWTUgZPKB+eyGJPoCxNfZ8QJxZScPFY/cu13dHEUiUiYLJ8ZGvzvO0kEpsjmOfre0XqJ4ZBtqPLZDcYS1dxJ/ZEO3nn2GWASXU=;AaGdjjjEV7rXYJqkBx950Q=="
 ---
 
