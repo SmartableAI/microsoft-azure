@@ -98,6 +98,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 77
+  - title: "Microsoft Azure icon gets a Fluent Design makeover"
+    excerpt: "Microsoft Azure has received an icon update, courtesy of the company's Fluent Design System. The new icon will be rolling out across Azure services and the website in the coming weeks."
+    publishedDateTime: 2021-05-08T02:06:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-azure-icon-gets-a-fluent-design-makeover/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 77
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1620422430_azure_logo_new_2_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "How Microsoft Azure will play a crucial role in PUBG Mobile's India comeback"
     excerpt: "Microsoft Azure will be helping PUBG Mobile win a one-way-ticket back to India. With secure server hosting, players won't have to worry about their user data security and a repeated PUBG Mobile ban. The inevitable return of PUBG Mobile in India has sparked a lot of commotion amongst the community,"
     publishedDateTime: 2020-11-20T19:10:00Z

@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Microsoft Azure Databricks receives FedRAMP ATO"
-excerpt: "Microsoft Azure Databricks has received a Federal Risk and Authorization Management Program (FedRAMP) High Authority to Operate (ATO)."
-publishedDateTime: 2020-11-30T01:00:00Z
-originalUrl: "https://www.helpnetsecurity.com/2020/11/30/microsoft-azure-databricks/"
-webUrl: "https://www.helpnetsecurity.com/2020/11/30/microsoft-azure-databricks/"
+title: "Microsoft Azure icon gets a Fluent Design makeover"
+excerpt: "Microsoft Azure has received an icon update, courtesy of the company's Fluent Design System. The new icon will be rolling out across Azure services and the website in the coming weeks."
+publishedDateTime: 2021-05-08T02:06:00Z
+originalUrl: "https://www.neowin.net/news/microsoft-azure-icon-gets-a-fluent-design-makeover/"
+webUrl: "https://www.neowin.net/news/microsoft-azure-icon-gets-a-fluent-design-makeover/"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Help Net Security
-  domain: helpnetsecurity.com
+  name: Neowin
+  domain: neowin.net
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-    width: 1200
-    height: 627
+  - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1620422430_azure_logo_new_2_story.jpg"
+    width: 760
+    height: 428
     isCached: true
 
 related:
@@ -92,20 +96,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 77
-  - title: "Microsoft Azure icon gets a Fluent Design makeover"
-    excerpt: "Microsoft Azure has received an icon update, courtesy of the company's Fluent Design System. The new icon will be rolling out across Azure services and the website in the coming weeks."
-    publishedDateTime: 2021-05-08T02:06:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-azure-icon-gets-a-fluent-design-makeover/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 77
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1620422430_azure_logo_new_2_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Achieving 100 percent renewable energy with 24/7 monitoring in Microsoft Sweden"
     excerpt: "Today, we are announcing that Microsoft will be the first hyperscale cloud provider to track hourly energy consumption and renewable energy matching in a commercial product using the Vattenfall 24/7 Matching solution for our new datacenter regions in Sweden, which will be available in 2021. "
     publishedDateTime: 2020-11-24T03:10:32Z
@@ -443,6 +433,20 @@ related:
         width: 985
         height: 634
         isCached: true
+  - title: "Microsoft Azure Databricks receives FedRAMP ATO"
+    excerpt: "Microsoft Azure Databricks has received a Federal Risk and Authorization Management Program (FedRAMP) High Authority to Operate (ATO)."
+    publishedDateTime: 2020-11-30T01:00:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/11/30/microsoft-azure-databricks/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 37
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Mavenir’s RCS Business Messaging Solution Available in Microsoft Azure"
     excerpt: "today announced that its RCS Business Messaging Solution is available to deploy globally from Microsoft Azure. The current Covid-19 pandemic has forced businesses to accelerate their digital ..."
     publishedDateTime: 2020-12-01T14:46:00Z
@@ -693,6 +697,6 @@ related:
         height: 512
         isCached: true
 
-secured: "dsxJ3xSjwrN6tfCBbgGKjKXka+lL38evy6tjYp0Iiw/q3S7RBb4m3CjS+Q15kq1BvY1SMUeupZ/1THNzf4UMOKWU/G9o7hWh6DatQ2p5YqUOAT4DYw1hJw5NsYikdvK0zZA9uzLXRcyfi5hCgX5rlbIbQhik8huK0+XP0mnU0JPr+msLTr7a+iKpbruZwOliBos+O4qjiqmeUpkXGl+/GaxiE7PIg1wVu8vBos6FVEpYZ/xu9JdbqRRyn4pk7+u8E23uh3+8BA4XZKsxvKDBxFymdYG1+ZUlD8JhB+h02pCXDmR7DVlORzsUba6KhEUMZ0GabS1rymckmIY5B+Msr1aHES9n9eAgR7Em0YEACDQWfFVWqAcsEdA/nGcbXMftZXQd8FxFGJqO+Y7dzpjhwySL5wjMfnlLjBo/AzJRgIT5YBUnvz6ReRt8KOnq8AB5+WFPuE2LD1XIYhDHoU0PdRV2E5icstBq6VazzoY2DwJjvPR/GZbqlO/fwUeOO7n8F75p/PsTUeReA/pJ+aOUeA==;xBk5TeaJxOQFdgF0qQ5YDw=="
+secured: "Jc1pI3s2oP1Uw47QB10bijYInsvE4L6mlNqctQnHZTeF5Od8u605y3fHDA7K5DkYSvqSL5csw1CJ+Y3h/ndLzB8S5hJ3aHX9YjMgGAvoGPQGiW9se6QIc4A+ttujGFLTw+2MktMkhD/7SlTnrIj/nQ7WZoyNrTMJ0e+gL4OQMCpF8p2M1z5hwiLxY75g56OdUmGD37cmh9cgyMB2k4fa0RI0qWTek2I6bpbPAzE6ggGVJkzEP8sKvbZVgZi4XVgEnKGbxPwtlx3spOjmJsaoCaCF7F5WIC3DQUkud/p0/UrcrjXOeyrwIRSnhdFEiou1zevqpBjSeOkAz9qgNeFrrV7s6LTxlXwdZPh4ypeO/vg=;vMQdgnnQV4yaxrXC/VsiVw=="
 ---
 

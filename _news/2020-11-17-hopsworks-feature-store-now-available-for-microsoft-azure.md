@@ -81,6 +81,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Microsoft Azure icon gets a Fluent Design makeover"
+    excerpt: "Microsoft Azure has received an icon update, courtesy of the company's Fluent Design System. The new icon will be rolling out across Azure services and the website in the coming weeks."
+    publishedDateTime: 2021-05-08T02:06:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-azure-icon-gets-a-fluent-design-makeover/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 77
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1620422430_azure_logo_new_2_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Achieving 100 percent renewable energy with 24/7 monitoring in Microsoft Sweden"
     excerpt: "Today, we are announcing that Microsoft will be the first hyperscale cloud provider to track hourly energy consumption and renewable energy matching in a commercial product using the Vattenfall 24/7 Matching solution for our new datacenter regions in Sweden, which will be available in 2021. "
     publishedDateTime: 2020-11-24T03:10:32Z

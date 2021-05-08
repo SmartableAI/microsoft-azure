@@ -181,18 +181,18 @@ related:
       domain: openpr.com
     quality: 38
   - title: "Dassian Announces Collaboration with Microsoft Azure Government"
-    excerpt: "Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian’s deep industry expertise and standardized SAP ERP extension solutions with Azure’s scalable and secure government cloud platform to provide a fully integrated environment for high security customers in Federal,"
-    publishedDateTime: 2021-04-26T23:16:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
+    excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
+    publishedDateTime: 2021-04-26T23:19:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
+        width: 2084
+        height: 1090
         isCached: true
   - title: "This is Microsoft Azure's cool new \"A\" icon, inspired by Fluent Design"
     excerpt: "Microsoft revealed a new Fluent-design-inspired icon for Azure, now bringing it up to speed with the rest of Microsoft's product lineup."
@@ -221,20 +221,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/microsoft2-1-1.png"
         width: 718
         height: 400
-        isCached: true
-  - title: "Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers"
-    excerpt: "Australia’s accelerating migration to the cloud is intensifying competition among Microsoft Azure service providers, with local players starting to challenge the global giants, according to a new report published today by Information Services Group ( ISG) (Nasdaq: III),"
-    publishedDateTime: 2021-05-07T00:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/australia-technology-236c0ab765834fe8ad935b2b12728011"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Single Sign On (SSO) Software Market including top key players Okta, OneLogin, Microsoft Azure"
     excerpt: "Enquiry Before Purchase @ jcmarketresearch.com/report-details/1297781/enquiry Company Overview: Okta, OneLogin, Microsoft Azure, Rippling, RSA Security, JumpCloud, AWS, Idaptive, Ping Identity, miniOrange,"
@@ -296,6 +282,15 @@ related:
       name: realwire.com
       domain: realwire.com
     quality: 17
+  - title: "Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers"
+    excerpt: "Competition in Australia is heating up among Microsoft Azure providers, with local players challenging the global giants, ISG (Nasdaq:III) says."
+    publishedDateTime: 2021-05-07T04:20:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210506006308/en/Rising-Demand-in-Australia-Intensifying-Competition-Among-Microsoft-Azure-Providers"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
   - title: "Data Theorems Modern AppSec SaaS Solutions Now Available in the Microsoft Azure Marketplace"
     excerpt: "Data Theorem, Inc., a leading provider of modern application security, today announced that its broad portfolio of modern AppSec products is now available in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure,"
     publishedDateTime: 2021-05-04T12:00:00Z
