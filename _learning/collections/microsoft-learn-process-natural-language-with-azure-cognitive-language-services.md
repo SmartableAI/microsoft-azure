@@ -4,7 +4,7 @@ excerpt: "Process natural language with Azure Cognitive Language Services"
 type: collection
 price: Free
 length: PT2H51M
-heat: 62
+heat: 60
 
 provider:
   name: Microsoft Learn
