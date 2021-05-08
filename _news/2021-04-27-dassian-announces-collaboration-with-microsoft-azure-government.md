@@ -180,6 +180,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 38
+  - title: "This is Microsoft Azure's cool new \"A\" icon, inspired by Fluent Design"
+    excerpt: "Microsoft revealed a new Fluent-design-inspired icon for Azure, now bringing it up to speed with the rest of Microsoft's product lineup."
+    publishedDateTime: 2021-05-08T03:37:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-azure-gets-a-new-icon"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Azure-Icon.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft buys Linux distribution maker Kinvolk to boost Azure cloud services"
     excerpt: "Microsoft Corp. has bought Kinvolk GmbH, the Berlin-based startup behind a specialized Linux distribution used to power software container environments on Azure and other public clouds. The technology giant announced the deal today in a post on its Azure blog."
     publishedDateTime: 2021-04-29T20:49:00Z
@@ -305,6 +319,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "nsymUKUHun00IJ3LrgQA1RqrMm/cGerJbrzVsvFkLJYqwsCrtNjHsjh9kqaUUy3x0PAOO42MyV/LVsG3H3KLcVbMtTsx0bzFlY7JK3RYWxhNyTgdhWMEqpMHGHttndLgEwAewyE2MAP42MTU8WEorI3NTxzY3W0BnRnC77H9wc9BYta3MP4RnMcFyIUmykiBeuPhBnbwkyY1yvNLVXg7mCyx+rQ2+8UcjaOVWx3aGQkwMyx9hY+cUr4Bwprfp8vxGq6UksUZKp2nQdC0eJQKsr6dGf4H4tUDYZQC/PF6qsx+qlctkprEcBmhx2jXo1/f2n3g8GLsXhDW2/auTceMAvMMtnEaScz6L5ucaxHEK/U=;3Ip9acSGy2DPBhwveezv3A=="
+secured: "tshzHA8pbOM5R1KBPX4s7wE0qyB5HbS+sbi8wanIyaYc715w6lE1Qgay+ULySGfBFLB9gnJZ8wREpTead/EBjsiMMe4KZ0IP4fjF8OxvYaN6RPgDsntqzXpzwlrIeI8cjZk8igpL603IbxlWR3AQ/DQJsHk5LY5yX/yPdZn5ZmpVBvErxBMNQViUxc6giUMK2ydkla2mHlmmgS4A9RI5Ax27tjB8cAcqt+W3JFpxWL7Xw5k87Sm0Ehry5ldNuoGZ5eZg1gaS9ejyCdt38BWhIH9+mC3KHUcwFMrohbS3iiBxt1mtpwDqJQ+C3a5nNVpDwHO+k+Hm0nH8gdOJo8nAHgLkGiJ26Od0K+hb7SWnSak=;8JNqaBZk12FCvrDs90GR3A=="
 ---
 

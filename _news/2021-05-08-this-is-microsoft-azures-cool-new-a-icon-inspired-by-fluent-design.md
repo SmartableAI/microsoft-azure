@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Aqua Security Appoints Former Microsoft Azure Executive as Chief Customer Officer"
-excerpt: "Aqua Security, the pure-play cloud native security leader, today announced the appointment of Sharon Eilon as Chief Customer Officer to"
-publishedDateTime: 2021-05-06T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer-301285543.html"
-webUrl: "https://www.prnewswire.com/news-releases/aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer-301285543.html"
+title: "This is Microsoft Azure's cool new \"A\" icon, inspired by Fluent Design"
+excerpt: "Microsoft revealed a new Fluent-design-inspired icon for Azure, now bringing it up to speed with the rest of Microsoft's product lineup."
+publishedDateTime: 2021-05-08T03:37:00Z
+originalUrl: "https://www.onmsft.com/news/microsoft-azure-gets-a-new-icon"
+webUrl: "https://www.onmsft.com/news/microsoft-azure-gets-a-new-icon"
 type: article
-quality: 49
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: On MSFT
+  domain: onmsft.com
 
 topics:
   - Azure
-  - Security
 
 images:
-  - url: "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg?p=facebook"
-    width: 799
-    height: 419
+  - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Azure-Icon.png"
+    width: 1024
+    height: 768
     isCached: true
 
 related:
@@ -126,6 +125,20 @@ related:
         width: 750
         height: 454
         isCached: true
+  - title: "Aqua Security Appoints Former Microsoft Azure Executive as Chief Customer Officer"
+    excerpt: "Aqua Security, the pure-play cloud native security leader, today announced the appointment of Sharon Eilon as Chief Customer Officer to"
+    publishedDateTime: 2021-05-06T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer-301285543.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg?p=facebook"
+        width: 799
+        height: 419
+        isCached: true
   - title: "Microsoft Cloud Earns Big With $17 Billion In Revenue For Q3"
     excerpt: "Microsoft reported that its Microsoft Cloud solution has been a big earner for the tech giant in the third quarter ending March 21."
     publishedDateTime: 2021-04-27T22:04:00Z
@@ -180,20 +193,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
         width: 2084
         height: 1090
-        isCached: true
-  - title: "This is Microsoft Azure's cool new \"A\" icon, inspired by Fluent Design"
-    excerpt: "Microsoft revealed a new Fluent-design-inspired icon for Azure, now bringing it up to speed with the rest of Microsoft's product lineup."
-    publishedDateTime: 2021-05-08T03:37:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-azure-gets-a-new-icon"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 37
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Azure-Icon.png"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Microsoft buys Linux distribution maker Kinvolk to boost Azure cloud services"
     excerpt: "Microsoft Corp. has bought Kinvolk GmbH, the Berlin-based startup behind a specialized Linux distribution used to power software container environments on Azure and other public clouds. The technology giant announced the deal today in a post on its Azure blog."
@@ -320,6 +319,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "8Or/y6UjVM6dvel609mH/dwIf7c6H1QmEI7vspHlwHsKpzRq/lXQj8cYvS+8jyidomoXkK7WKZyzc3vKg0AwmRg2nbFP6q2aEytb8Wae4UIuyw/rc7fGEGzrPKQV9E1qiKo5Ukn5Vw63H8RcsX2mOCOpYzHOj2+jD/s6Mx7V0HfVqjggzuW0+cSDLpqyEHByfUzqC0Gdq5u/eBfsOPjT2MpUfM7AVBXjmO907ob5S0KWuD2UzF5M0DD++mSsVR/wV3rI5ChcFzVU0lXXHq3T6SfZJvtKFggcVrjfuwRdLNhez6tGiK7AjMJJdxZGndbLw585ufRWuy0urgnmQvKBomRz+PAE+C0P5ICmnCQLmeI=;RhVMW0q+DXZDMWLuiFeeDg=="
+secured: "vc/xYM9B5BA+LBDSgFvdOtjrDGS4rlB63M6zlrUtyG7go4pq9Vn1hTuxxgoqGMuu3Hw+8mIBnkBgcqK4sx2KN+1wY3oymX9Q1GNmBdUr9shWmfVz74fKWo3kY6g68+JuWfGGbsbA7U74niSZwf+aBFuXarpgCZc62fZQi6rOSjCnHrCuzHouy7+EUlkHeYcea93dRDXuVJQf2Vh2v+/tzq5zmd6eh8i9zJJsp0bMYWXxh5/NEQaJ1vWeMvoQaJ8M4oYV6VkuBUnaVmRBccoTfvqygqlpCNEOZHTOjanLg2kKEvZhP9C+kukkdFdnl6CYTdQzq4nafx9GVQhJnV4TqagxSFIw/CaQS5yjNUCL3gE=;oEYyJYm3kwsBg/Z4wghbzA=="
 ---
 

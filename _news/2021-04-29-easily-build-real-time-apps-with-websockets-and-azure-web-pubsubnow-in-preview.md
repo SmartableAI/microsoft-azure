@@ -186,6 +186,20 @@ related:
         width: 2084
         height: 1090
         isCached: true
+  - title: "This is Microsoft Azure's cool new \"A\" icon, inspired by Fluent Design"
+    excerpt: "Microsoft revealed a new Fluent-design-inspired icon for Azure, now bringing it up to speed with the rest of Microsoft's product lineup."
+    publishedDateTime: 2021-05-08T03:37:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-azure-gets-a-new-icon"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Azure-Icon.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft buys Linux distribution maker Kinvolk to boost Azure cloud services"
     excerpt: "Microsoft Corp. has bought Kinvolk GmbH, the Berlin-based startup behind a specialized Linux distribution used to power software container environments on Azure and other public clouds. The technology giant announced the deal today in a post on its Azure blog."
     publishedDateTime: 2021-04-29T20:49:00Z

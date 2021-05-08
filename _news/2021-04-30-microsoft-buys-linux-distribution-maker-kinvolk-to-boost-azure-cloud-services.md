@@ -194,6 +194,20 @@ related:
         width: 2084
         height: 1090
         isCached: true
+  - title: "This is Microsoft Azure's cool new \"A\" icon, inspired by Fluent Design"
+    excerpt: "Microsoft revealed a new Fluent-design-inspired icon for Azure, now bringing it up to speed with the rest of Microsoft's product lineup."
+    publishedDateTime: 2021-05-08T03:37:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-azure-gets-a-new-icon"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Azure-Icon.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Single Sign On (SSO) Software Market including top key players Okta, OneLogin, Microsoft Azure"
     excerpt: "Enquiry Before Purchase @ jcmarketresearch.com/report-details/1297781/enquiry Company Overview: Okta, OneLogin, Microsoft Azure, Rippling, RSA Security, JumpCloud, AWS, Idaptive, Ping Identity, miniOrange,"
     publishedDateTime: 2021-05-01T14:56:00Z
