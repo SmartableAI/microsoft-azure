@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
-excerpt: "April 26, 2021 /PRNewswire/ -- Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ..."
-publishedDateTime: 2021-04-26T08:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-301276352.html"
-webUrl: "https://www.prnewswire.com/news-releases/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-301276352.html"
+excerpt: "Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure"
+publishedDateTime: 2021-04-26T12:01:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html"
 type: article
 quality: 9
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg?p=facebook"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/d9/1d959af6-6d0e-5f96-ba18-7b61aae335fb/6059df86607f4.image.jpg?resize=800%2C522"
     width: 800
-    height: 419
+    height: 522
     isCached: true
 
 related:
@@ -247,6 +247,6 @@ related:
         height: 293
         isCached: true
 
-secured: "oRbbewr8mvamV/otM0q/K2twNOp1QfX+gs0kt3mwi1EQo27bttX5Ic2ACty6cVO056aG1BfAUS+Eep/XVa6iJw1YytdntHp9VTP7nplDi+RWmR47i6ZbUrACplQBHIpFppKu7IMRd6BO/E03Lnc0D/Fr/bgECizG6PaSQwYXrsNEJOK1pF2+g4DPYSD8FhQ/eC45Sq2I/Zkow12Ynn/9AFwVcf4TotiFOlP2lXiTwsC4Dj7ziPjIunatagVNJWCWMp/W0GpuEDKjzQttZyAAEqSVFs9axsfPnxC60TjdncGpJ1TjY9ivV79NkZxU5pNCMifdZ5xu71kT3zO6C2hVFSvVMrlDBhtwITclLDND1uE=;0hCnlHk7+kECUXYcH7toew=="
+secured: "NOI3V6pFwJDlqnqouoPjwknFUOXs6/1EwP2I8Ge9kWcsfRsd24c/Nx4nWOBxDc6ceJ3qpa0p8tNjsuGSX/mvFhYlY98z9/1uz4ZD8yg3ByFfqntelGuDx62CzS9mBfJO7hFp+yuxUdBXRLx0xVBqVjhK0nQatJTpGne4MoD96dyj4Yi3Vc7fESVfMkRafz3seSdh+4/V9OZwW+LmMxda9BxobPIr5vtrEKZXcBHSLkf/ktNEKfxSX8LMHOWanr9ScdP/vtfNzJsyvQ8sN33HbNqnX+O9CNCnZ+h1lUTK1dJuzeqCXKE4bBhLj586Nz54aLvjwT4BB9pFpw+bN1u0CivOhXDkOqDZwe1GIgt7B/0=;hQ4dqByntro8yx5BSpSVgg=="
 ---
 

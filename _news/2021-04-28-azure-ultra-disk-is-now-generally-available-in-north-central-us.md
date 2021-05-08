@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-is-now-
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-is-now-generally-available-in-north-central-us/"
 type: article
 quality: 67
-heat: 88
+heat: 87
 published: true
 
 provider:
