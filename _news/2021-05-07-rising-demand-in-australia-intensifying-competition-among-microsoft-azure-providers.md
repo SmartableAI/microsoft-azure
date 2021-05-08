@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers"
-excerpt: "Competition in Australia is heating up among Microsoft Azure providers, with local players challenging the global giants, ISG (Nasdaq:III) says."
-publishedDateTime: 2021-05-07T04:20:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210506006308/en/Rising-Demand-in-Australia-Intensifying-Competition-Among-Microsoft-Azure-Providers"
-webUrl: "https://www.businesswire.com/news/home/20210506006308/en/Rising-Demand-in-Australia-Intensifying-Competition-Among-Microsoft-Azure-Providers"
+excerpt: "Australia’s accelerating migration to the cloud is intensifying competition among Microsoft Azure service providers, with local players starting to challenge the global giants, according to a new report published today by Information Services Group ( ISG) (Nasdaq: III),"
+publishedDateTime: 2021-05-07T00:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/australia-technology-236c0ab765834fe8ad935b2b12728011"
+webUrl: "https://apnews.com/press-release/business-wire/australia-technology-236c0ab765834fe8ad935b2b12728011"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft previews Azure service for building WebSocket applications"
@@ -175,18 +181,18 @@ related:
       domain: openpr.com
     quality: 38
   - title: "Dassian Announces Collaboration with Microsoft Azure Government"
-    excerpt: "ATLANTA, April 26, 2021 /PRNewswire/ -- Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian's deep industry expertise and ..."
-    publishedDateTime: 2021-04-26T23:19:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dassian-announces-collaboration-with-microsoft-azure-government-301277212.html"
+    excerpt: "Dassian is pleased to announce a collaboration with Microsoft Azure Government. This relationship combines Dassian’s deep industry expertise and standardized SAP ERP extension solutions with Azure’s scalable and secure government cloud platform to provide a fully integrated environment for high security customers in Federal,"
+    publishedDateTime: 2021-04-26T23:16:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/d40ed313469f352adcb042c551561378"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
-        width: 2084
-        height: 1090
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "This is Microsoft Azure's cool new \"A\" icon, inspired by Fluent Design"
     excerpt: "Microsoft revealed a new Fluent-design-inspired icon for Azure, now bringing it up to speed with the rest of Microsoft's product lineup."
@@ -318,6 +324,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "PSF8ZvSUMcAh94HKvOrF40rFWz15+elwkM8c//Q4iWEJ5MSrsogHaK6HVr4k3I6g/esQ1t0NYJJs2SyxsPHMWleX4MMB7PXy8sEicpnJP7QXzn0RiNZH3wjybldEJTOeFNN6Wsroc3RjlZQdI6N9L4FJUGwugIiAWC3rA/RkK7XfPZEMtVpTFrzx6oG5E9n/afh+HRVqDFzktFWjHzQ9uwuX4VKwHv6w/1y+wgis2RcrZyAJA8ubeP7WMzRHJVlgW28IHc7FN5dcGOu6l/0mdMJInZlGCes+2RtRJmmCTBFSGs85UOM//u7VgZcNPK+cE1EIxS2OVrdbmlNKyjUyXCwfBolB0ga3xN/WUfUShck=;POBtLuIzm9TkVSb47Apy0w=="
+secured: "63c5/kv0GJ00gYceOCdj6SUsIRukup3TnVtPgOmRqNST6sc+iLfK7wDG4VyS/x929COZAGNViMBgOloG7rKeJAtb87Li6b9uIdJMdhlqPqthWHN2DSkhOPtbCiSIgdamQTpoP0DG935/NtzLEz01vxhL4wQ1T6JdzeDNbucrDati4XHWynGP0swuwW46j3YXQhpjB9afn5e+dUrjqu4KR4ZcxM1UbFQtNTPva+DwOpT5EPFT9Ct4hIvbykJdCaEBXfF2i5hKwDf/HNqviWof24YY+YDy9tIB/t/bBVL/NFO6J0ufOWljzGC42TjvRk6e4O+B896ySKYp2aNBQg5G4y/G/hoo/3RU8pdpJgb3u8I=;yzTQhdS2xv907BZpBEMxMw=="
 ---
 
