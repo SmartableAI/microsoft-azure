@@ -4,6 +4,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
+      "title": "Explore Azure database and analytics services",
+      "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 12412,
+        "average": 4.728166
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 188,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Analytics",
+        "AI",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-get-started-with-azure-cosmos-db-built-in-notebooks-azure-portal-series.md",
       "title": "How to get started with Azure Cosmos DB built-in notebooks | Azure Portal Series",
       "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to use Microsoft Azure Cosmos DB’s built-in C# and Python notebooks. We’ll show how to get started, use notebooks to visualize and analyze your data, and share your notebooks with others.     Try out these features in the Azure portal: https://portal.azure.com",
@@ -74,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 12409,
-            "average": 4.7281814
+            "count": 12412,
+            "average": 4.728166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -92,7 +138,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 108,
+          "heat": 188,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
@@ -120,8 +166,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 10969,
-            "average": 4.7593217
+            "count": 10972,
+            "average": 4.7592964
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +211,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 8757,
-            "average": 4.765331
+            "count": 8764,
+            "average": 4.76529
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -208,8 +254,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 9633,
-            "average": 4.6371846
+            "count": 9641,
+            "average": 4.637278
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -267,52 +313,6 @@
         "Analytics",
         "AI",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
-      "title": "Explore Azure database and analytics services",
-      "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 12409,
-        "average": 4.7281814
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 108,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Analytics",
-        "AI",
-        "Storage"
       ]
     },
     {
@@ -383,8 +383,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 13423,
-            "average": 4.5956197
+            "count": 13424,
+            "average": 4.5956497
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -584,8 +584,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 8647,
-            "average": 4.7646585
+            "count": 8653,
+            "average": 4.7647057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -705,8 +705,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10195,
-            "average": 4.672192
+            "count": 10197,
+            "average": 4.6720605
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -829,8 +829,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 12409,
-            "average": 4.7281814
+            "count": 12412,
+            "average": 4.728166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -847,7 +847,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 108,
+          "heat": 188,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
@@ -1035,8 +1035,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 6206,
-            "average": 4.7093134
+            "count": 6208,
+            "average": 4.7094073
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1302,8 +1302,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3403,
-            "average": 4.688804
+            "count": 3404,
+            "average": 4.688895
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1376,8 +1376,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6679,
-            "average": 4.6812396
+            "count": 6682,
+            "average": 4.6810837
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1800,8 +1800,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 914,
-            "average": 4.736324
+            "count": 915,
+            "average": 4.736612
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2110,8 +2110,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 6206,
-            "average": 4.7093134
+            "count": 6208,
+            "average": 4.7094073
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2777,8 +2777,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6312,
-            "average": 4.627535
+            "count": 6313,
+            "average": 4.627594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3812,8 +3812,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
       "length": "PT38M",
       "ratings": {
-        "count": 1114,
-        "average": 4.8025136
+        "count": 1115,
+        "average": 4.8026905
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3978,8 +3978,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
       "length": "PT50M",
       "ratings": {
-        "count": 593,
-        "average": 4.765599
+        "count": 595,
+        "average": 4.7647057
       },
       "provider": {
         "name": "Microsoft Learn",
