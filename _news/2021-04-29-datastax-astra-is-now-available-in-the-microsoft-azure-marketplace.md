@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
-excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
-publishedDateTime: 2021-04-20T18:36:00Z
-originalUrl: "https://www.ign.com/articles/become-a-certified-cloud-computing-pro-with-this-microsoft-azure-bootcamp"
-webUrl: "https://www.ign.com/articles/become-a-certified-cloud-computing-pro-with-this-microsoft-azure-bootcamp"
+title: "DataStax Astra Is Now Available in the Microsoft Azure Marketplace"
+excerpt: "DataStax today announced the availability of DataStax Astra, the industry’s first serverless Database-as-a-Service (DBaaS) for Apache Cassandra™ runni"
+publishedDateTime: 2021-04-28T19:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210428005276/en/"
+webUrl: "https://www.businesswire.com/news/home/20210428005276/en/"
 type: article
-quality: 36
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: IGN
-  domain: ign.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://assets1.ignimgs.com/2021/04/20/sale-149017-article-image-1618943765425.jpeg?width=1280"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "Utilize This 'Fast-Growing' Cloud Platform by Mastering Microsoft Azure"
@@ -139,6 +133,20 @@ related:
         width: 803
         height: 534
         isCached: true
+  - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
+    excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
+    publishedDateTime: 2021-04-20T18:36:00Z
+    webUrl: "https://www.ign.com/articles/become-a-certified-cloud-computing-pro-with-this-microsoft-azure-bootcamp"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 36
+    images:
+      - url: "https://assets1.ignimgs.com/2021/04/20/sale-149017-article-image-1618943765425.jpeg?width=1280"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
     publishedDateTime: 2021-04-20T12:57:00Z
@@ -223,15 +231,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "DataStax Astra Is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "DataStax today announced the availability of DataStax Astra, the industry’s first serverless Database-as-a-Service (DBaaS) for Apache Cassandra™ runni"
-    publishedDateTime: 2021-04-28T19:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210428005276/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "NEW YORK & PARIS--(BUSINESS WIRE)--Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take ..."
     publishedDateTime: 2021-04-22T06:42:00Z
@@ -251,6 +250,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "hsj4Uyxc3XQCe6JHks1OM/UxdJGQY8SE/7UfAEjVa1Q4rnZYTcZq5I/UgS9mrqonVzzmRqcKTcvNJUw5TGPVs5aWt4BBI8qGjJPq7mfBiFF7zMQxYCDK0gqDnXUmLa/doO4qHekAOGBlC8DugSsc+/vCt3AdWcxflvI7R9awdOmhz86LwYbIxPQKa3rqvp+En3AJxnJJFsqh5pAc8Z9V43f23GO8/Tc0HxLbh1ZoCbXTZHI4B6UVKAIaLAyePmWFQoPb3KZhUCDSOJE+PvkL1ZY3mw80xjdeyD/XBGazV7NeuNa86ZhWZtLqJXGsBv+FrJCx7/SLtqcwTZe2eECEL/c1jC6a3ThYmt4BtxvQZVLOtgjTQlBILKRGDmippgq4zJ6l356FNRwPRwp1vDvfPC61a0k9mgGudE63XW7wQf2HYSz+3d4ZEbLMhy6YWkdUB5vosM4iMEiABJZDYAlVreq7ca7VXwCRUKLsz8Zrojmc6koRsoBrcbge44t/5mXMq95FSD0jZsLIQhq5Y7psLQ==;7yiZtXIZzDlRAppydtlbOA=="
+secured: "xG5EYOPGk8oQR2X4dcdL+d7sraokM/U93xr/N9f+5Xq7uGyH+lV/ax4tVlm5zmZ9Xf+YMIHtWeeZqh9ZBAa4Nj4B9wMzrLtJxOn2L2Lhs5EAJpO9wNXDh8PUKLtOa1BhMBEWxydwTZcpFQEz96LQPITdR3Diqfr/MvZG3I1CnCfqRF8ZwMNBL283cHFb8Col/vhoYSEAZcCNLXGcbK1WBBbMdmfy9TFYa5qBT3G62JtFrrlKsBFZMBnkRRa0nIPSAu8NUv+JB1p+LcROhCJ9JfSL39CroifZDcdxkV+N5T2GnllFwC17c+Djt6XjP5OkSQQuISbUkloiPlQb2bDIjWKu5szE36Px4CNkVgk0pqeyNzL78na2rpf75MLzt765UCEIvaCv/P5jgyJXWEDbG8z8sI/4j04y+ZyI8m8cHPM6O7oM4gXU1Lc6ZRXObnDNDHqGic7NpRFgY/qb7uWn0/HZ9d4g/uIiHLLtBRXyVYJcYE2fUFbip6ZhRZynzLGHrzB8wY5s9DXnaFF+7asYiA==;wsswRW2EJlQ+ghYadsKghQ=="
 ---
 

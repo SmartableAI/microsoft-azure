@@ -231,6 +231,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "DataStax Astra Is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "DataStax today announced the availability of DataStax Astra, the industry’s first serverless Database-as-a-Service (DBaaS) for Apache Cassandra™ runni"
+    publishedDateTime: 2021-04-28T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210428005276/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
   - title: "Enreach buys Microsoft cloud specialist G2C"
     excerpt: "Enreach announced a new acquisition in the Netherlands, the Microsoft cloud service provider Go2the.cloud (G2C). Established in 2016, G2C is a high-growth enabler of digital transformation services through the provisioning, reselling and managing of ..."
     publishedDateTime: 2021-04-23T09:19:00Z

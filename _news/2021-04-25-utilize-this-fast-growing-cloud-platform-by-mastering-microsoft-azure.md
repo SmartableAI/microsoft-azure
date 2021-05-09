@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/369931"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369931"
 type: article
 quality: 97
-heat: 417
+heat: 437
 published: true
 
 provider:
@@ -227,6 +227,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "DataStax Astra Is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "DataStax today announced the availability of DataStax Astra, the industry’s first serverless Database-as-a-Service (DBaaS) for Apache Cassandra™ runni"
+    publishedDateTime: 2021-04-28T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210428005276/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "NEW YORK & PARIS--(BUSINESS WIRE)--Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take ..."
     publishedDateTime: 2021-04-22T06:42:00Z
