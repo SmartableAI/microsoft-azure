@@ -1,23 +1,33 @@
 ---
 category: news
-title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
-excerpt: "When it comes to cloud services, Microsoft Azure is a market leader and a favourite among enterprises – and is available in South Africa through leading ICT solutions provider Axiz. As a ..."
-publishedDateTime: 2020-11-17T05:17:00Z
-originalUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/"
-webUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/"
-ampWebUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
-cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
+title: "Discover how to use Microsoft titles like Azure and PowerShell like a pro for just $70"
+excerpt: "Covering everything from laptops to smartphones, from Windows 10 to productivity software, PCWorld delivers the information and expert advice you need to get the job done."
+publishedDateTime: 2021-05-09T14:05:00Z
+originalUrl: "https://www.pcworld.com/article/3617273/discover-how-to-use-microsoft-titles-like-azure-and-powershell-like-a-pro-for-just-70.html"
+webUrl: "https://www.pcworld.com/article/3617273/discover-how-to-use-microsoft-titles-like-azure-and-powershell-like-a-pro-for-just-70.html"
+ampWebUrl: "https://www.pcworld.com/article/3617273/discover-how-to-use-microsoft-titles-like-azure-and-powershell-like-a-pro-for-just-70.amp.html"
+cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3617273/discover-how-to-use-microsoft-titles-like-azure-and-powershell-like-a-pro-for-just-70.amp.html"
 type: article
-quality: 33
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: businesstech.co.za
-  domain: businesstech.co.za
+  name: PC World
+  domain: pcworld.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/pcworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://cdnp0.stackassets.com/0f4fab4b0a2e8dadfe4e7400882006fbf386ca5e/store/a12882a462b44a72230018c87c2ad1cf41e0afd1d4f2dca5c9cc1df4e882/sale_232555_primary_image.jpg"
+    width: 630
+    height: 473
+    isCached: true
 
 related:
   - title: "Microsoft announces Az Predictor to improve usability of Azure PowerShell"
@@ -51,22 +61,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/09/16/8ba15096-7e97-4c9d-9c92-fdfb3223d8cf/thumbnail/1200x675/230c7f7fa964a74175d8fc0ef350a100/microsoft-365-formerly-office-365-vs-g-s-5f4e5f4871c30002b05d39e4-1-sep-16-2020-15-40-44-poster.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Discover how to use Microsoft titles like Azure and PowerShell like a pro for just $70"
-    excerpt: "Covering everything from laptops to smartphones, from Windows 10 to productivity software, PCWorld delivers the information and expert advice you need to get the job done."
-    publishedDateTime: 2021-05-09T14:05:00Z
-    webUrl: "https://www.pcworld.com/article/3617273/discover-how-to-use-microsoft-titles-like-azure-and-powershell-like-a-pro-for-just-70.html"
-    ampWebUrl: "https://www.pcworld.com/article/3617273/discover-how-to-use-microsoft-titles-like-azure-and-powershell-like-a-pro-for-just-70.amp.html"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3617273/discover-how-to-use-microsoft-titles-like-azure-and-powershell-like-a-pro-for-just-70.amp.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 89
-    images:
-      - url: "https://cdnp0.stackassets.com/0f4fab4b0a2e8dadfe4e7400882006fbf386ca5e/store/a12882a462b44a72230018c87c2ad1cf41e0afd1d4f2dca5c9cc1df4e882/sale_232555_primary_image.jpg"
-        width: 630
-        height: 473
         isCached: true
   - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
     excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
@@ -265,6 +259,17 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
+    excerpt: "When it comes to cloud services, Microsoft Azure is a market leader and a favourite among enterprises – and is available in South Africa through leading ICT solutions provider Axiz. As a ..."
+    publishedDateTime: 2020-11-17T05:17:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 33
   - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
     excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
     publishedDateTime: 2020-11-03T12:00:00Z
@@ -289,6 +294,6 @@ related:
       domain: telecompaper.com
     quality: 16
 
-secured: "BdtKKi4NUVf+1xbtcG414JSzKrzSQ6Kwgh3h4I+PEwVatSQw2QkSWLsnFfiFHvvUH0AFly/L+8tJdZ/tFqG7PXXfin+0cQaaU9qgqrRTWMXhja2b8SJTy++4m6hGdewYHwActKINA2GGvTv3SgIXDtKQhzYXj+w6JPMdst3ZNlrPI4lEK+PaTfpB1m2VAemJD6NY6Ua7k4tQIGk/8811loFaiyWcA59581b4RfpGUb6ZGvgYk8EOHtrPDaKa/57pvLtXoHn+4kbqm4W3t2Bz1ypCCHyIOHuMUjU73fLiPvo4OfSg1WzIzIz8x1KqbQtIcslnY3GIzsOGrNGlc8McnPy+MfDO25A7rY2+qDMkIdw=;4PoR1Jpc0MGzf2gmi/sJjg=="
+secured: "R+WmwpBZMr9KVy3YrVi+Sb8jsKMvolbB0LO1TnsUYhPG3zL1SSDJnaVIxoCo4thrtKyznspPOgja50XfGXAwMjx5wBH2DSPONHyzGOd6KFIte1tQ//kgmFdk27rPfPo6NF7qv8oI6VzRhF/L8O+HVjsO3kvm4qTO2J+NCx3nUAYRkKdHQfPY+0drpzXaUIL4i1QKFMKdhER2JRwoTqpNWwPamWG7VZeabj6JklSEv/9mJbwfgnB7+NLMDWyMM3wDhEwvhcWJw+GZZ3+vQpvhjO9/3DZWV/HwEdKPUA0+0rWnO25+3R9ZkAgYIQYrbETcnZK3n6OLeRRr9BAX5tjRsG/fC7nWDEPxfsEEe1vfbmA=;PJm0yK4KGc2tNVJgrLhqfg=="
 ---
 

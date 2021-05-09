@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-az-predictor-to-impro
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-az-predictor-to-improve-usability-of-azure-powershell/"
 type: article
 quality: 96
-heat: 436
+heat: 456
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/09/16/8ba15096-7e97-4c9d-9c92-fdfb3223d8cf/thumbnail/1200x675/230c7f7fa964a74175d8fc0ef350a100/microsoft-365-formerly-office-365-vs-g-s-5f4e5f4871c30002b05d39e4-1-sep-16-2020-15-40-44-poster.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Discover how to use Microsoft titles like Azure and PowerShell like a pro for just $70"
+    excerpt: "Covering everything from laptops to smartphones, from Windows 10 to productivity software, PCWorld delivers the information and expert advice you need to get the job done."
+    publishedDateTime: 2021-05-09T14:05:00Z
+    webUrl: "https://www.pcworld.com/article/3617273/discover-how-to-use-microsoft-titles-like-azure-and-powershell-like-a-pro-for-just-70.html"
+    ampWebUrl: "https://www.pcworld.com/article/3617273/discover-how-to-use-microsoft-titles-like-azure-and-powershell-like-a-pro-for-just-70.amp.html"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3617273/discover-how-to-use-microsoft-titles-like-azure-and-powershell-like-a-pro-for-just-70.amp.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 89
+    images:
+      - url: "https://cdnp0.stackassets.com/0f4fab4b0a2e8dadfe4e7400882006fbf386ca5e/store/a12882a462b44a72230018c87c2ad1cf41e0afd1d4f2dca5c9cc1df4e882/sale_232555_primary_image.jpg"
+        width: 630
+        height: 473
         isCached: true
   - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
     excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."

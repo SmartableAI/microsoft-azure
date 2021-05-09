@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Discover how to use Microsoft titles like Azure and PowerShell like a pro for just $70"
+    excerpt: "Covering everything from laptops to smartphones, from Windows 10 to productivity software, PCWorld delivers the information and expert advice you need to get the job done."
+    publishedDateTime: 2021-05-09T14:05:00Z
+    webUrl: "https://www.pcworld.com/article/3617273/discover-how-to-use-microsoft-titles-like-azure-and-powershell-like-a-pro-for-just-70.html"
+    ampWebUrl: "https://www.pcworld.com/article/3617273/discover-how-to-use-microsoft-titles-like-azure-and-powershell-like-a-pro-for-just-70.amp.html"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3617273/discover-how-to-use-microsoft-titles-like-azure-and-powershell-like-a-pro-for-just-70.amp.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 89
+    images:
+      - url: "https://cdnp0.stackassets.com/0f4fab4b0a2e8dadfe4e7400882006fbf386ca5e/store/a12882a462b44a72230018c87c2ad1cf41e0afd1d4f2dca5c9cc1df4e882/sale_232555_primary_image.jpg"
+        width: 630
+        height: 473
+        isCached: true
   - title: "PUBG Mobile could return to India on Microsoft's Azure cloud services"
     excerpt: "With India's banning of various Chinese publishers in the country, PUBG Mobile has remained banned, but it could return to the country on Microsoft Azure's Cloud. As the political and military situation between India and China has remained intense ..."
     publishedDateTime: 2020-11-09T20:58:00Z
