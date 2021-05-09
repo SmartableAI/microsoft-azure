@@ -91,6 +91,20 @@ related:
         width: 1000
         height: 523
         isCached: true
+  - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
+    excerpt: "May 6, 2021 /PRNewswire/ -- Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-05-06T12:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "InfiniteIO Announces Integration with Microsoft Azure to Reduce Cloud Latency and Storage Costs"
     excerpt: "Metadata management innovator InfiniteIO today announced new support for Microsoft Azure to dramatically reduce the cost of primary file storage and minimize cloud latency to help enterprises lower capital and operational expenses and increase application performance."
     publishedDateTime: 2020-06-16T07:20:00Z
@@ -155,15 +169,6 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 17
-  - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
-    excerpt: "Vectra Cognito now available in the Microsoft Azure Marketplace Streamlined deployment of industry-leading threat d"
-    publishedDateTime: 2021-05-06T07:08:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
     quality: 17
   - title: "Cloud-based Database Market – Major Technology Giants in Buzz Again | Oracle, Microsoft Azure, IBM, Apache Cassandra"
     excerpt: "AMA Research have added latest edition of survey study on Global Cloud based Database Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
