@@ -4,41 +4,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-bastion.md",
-      "title": "Introduction to Azure Bastion",
-      "excerpt": "Describe how Azure Bastion provides secure and seamless connectivity to your VMs directly in the Azure portal. Determine whether Azure Bastion can replace your administrative jump boxes.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-bastion/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-bastion/",
-      "length": "PT26M",
-      "ratings": {
-        "count": 4,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-cache-for-redis.md",
       "title": "Introduction to Azure Cache for Redis",
       "excerpt": "Evaluate how Azure Cache for Redis can improve the performance and scalability of your apps. Describe how Redis provides a critical low-latency and high-throughput data storage solution to modern apps.",
@@ -691,8 +656,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
       "length": "PT31M",
       "ratings": {
-        "count": 590,
-        "average": 4.7067795
+        "count": 591,
+        "average": 4.707276
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -818,8 +783,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/",
       "length": "PT20M",
       "ratings": {
-        "count": 831,
-        "average": 4.7821903
+        "count": 832,
+        "average": 4.78125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1179,6 +1144,48 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-probability-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-python-using-datascience-library.md",
+      "title": "Introduction to Python using the datascience library",
+      "excerpt": "Learn about Python expressions, functions, basic data types(numbers, strings), and comparisons",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-python-using-datascience-library/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-using-datascience-library/",
+      "length": "PT1H28M",
+      "ratings": {
+        "count": 293,
+        "average": 4.648464
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-using-datascience-library-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
