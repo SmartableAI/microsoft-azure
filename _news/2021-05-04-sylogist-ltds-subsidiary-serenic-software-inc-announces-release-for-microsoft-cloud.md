@@ -41,19 +41,14 @@ related:
         height: 800
         isCached: true
   - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
-    excerpt: "May 6, 2021 /PRNewswire/ -- Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store ..."
-    publishedDateTime: 2021-05-06T12:10:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
+    excerpt: "Vectra Cognito now available in the Microsoft Azure Marketplace Streamlined deployment of industry-leading threat d"
+    publishedDateTime: 2021-05-06T07:08:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
 
 secured: "BWYybjdsCosJQidnDVNtqtk5HpRgfi7dqcXSE1XGB4sWD4jMy5CmqBoanV1lGnsIanzTD+nVCU+IAUN53u5x8eFam4bXaVPNWG1NJ3Xj0n6HVnV996W8F7aNye1HnIiLxJCSf8MLemcoKW3JZAZ6b9PW8M54BYlgGgB9++2j3nxhjW83eVUpWK7175jjldNb2bEytMAxr+Ce8q4+qJ2cxUIuyyW4GJ08KE0P2M4gimjvb7lldPLeIfFK9XhcR6VgJxIf6pPSAMDfWu9K8Fhk/jdbz6NGQIGKdHwRetUbYHTxFeI6grH9edmbCaTDMz+p2CLUHEyLA6GgwDAVlHiaiJ1diQ0WZaSgeqXs0iU1SSvEys1UX83cUXQokegFH/Vp3zO2p8geq+htsl0egKOhTDGRBTDg1fzgVD2SbSUka/21OJL1/vhOMf42Lg5+8I4QAueT0FmnHtkaGNNUbl6eo+ub8DzUCDBVuFoCm8g4gEeERKq8rfmYFq2ciUXmwQJY6w0B7NQOyEYus3r9rVeTZQ==;v3fSM/tOhRMqTu+nIlenpg=="
 ---
