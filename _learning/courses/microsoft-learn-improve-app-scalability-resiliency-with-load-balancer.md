@@ -8,7 +8,7 @@ length: PT47M
 ratings:
   count: 3733
   average: 4.763461
-heat: 54
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "rdBtatnUv2CR3k+d4Kf4CuoMwemslGRvmWHSOPmksWM3+ncbAUlij9KjN8OFJThG+4cE2mwk+Y9nzBsmyW+E8KgjiNEsZnFs0SnRZfr9gLlSrv4rIzAF0RbuTiV7Czn9ZWPuKFOZHu4F9hJtzExt3/CpsRgBtyIH/wPInzk0qChj842IF/v1WElJY4t90h7oyoWtFDPb/DGxD9c3SIeLXbcCbYC1ce9Fmf9ZFOxjjLJd0rU2sLkvg35cCDx5HGpWzGItKvYS7WWHUuFR1oJ0cUTj/gj9kirjD7XRvWqj8ANvDrJD5s7uYzcdDmbKwEOFZ7Ur8hj+v/JDx4pK7txMvi3DckPuaydTINbQ3oaqNfYFrgF/UFi+cSzVswkIAMjpzGXluWZUuuwO8NrKxrrYuKOPO85+bqy2F2Rc8yJM0f4=;3V1W3OVuDYGHjJf39X76ig=="
+secured: "eKs8TyeEUTjItRoyORWmDEKJQIoWbJtRnWYZxqVb4sQu0Tquml2s2FOZTdlfbcI9FIcU20Ip92eRuMcrtRgnGSBOq8E+oYXaTKroqDwTCYWMoN9Yy0iKMCUKcRsE5guhjgx9l/GNR+CVrMeJUM35HO5ZPzLk+NNxsFE+K+EwIpUK58/B+rmx+lA/VG0viz/SO4mknpF/mc20HyILXk6Be7eVVtHDi2bXSh25hcwrbPJzxPtmm6aO2uhhNdYio/jzAmvSjiuWTh3QXJDVQwBENASIB7rR3dRxSEPyN/fJoqjAzNb5vcjzRQRdwssHh7tZrIkipuy+iKZDkCICmImbnQWvmosPcqu67gb2fVwG3laikdPy7LfViDgXzvH4mMHj1xrVd4LLZOjSFBKXjfPg1/k0a0clp7lbyex4AHBm5J0=;NzG24CC6yRNMbRxDfgu17g=="
 ---
 
