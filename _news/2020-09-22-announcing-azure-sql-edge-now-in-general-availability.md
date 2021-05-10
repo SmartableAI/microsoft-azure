@@ -69,6 +69,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 73
+  - title: "General availability: Enable Azure Site Recovery (ASR) while creating Azure Virtual Machines "
+    excerpt: "With ASR, you can now protect your business-critical Azure virtual machines from regional outages at the time of VM creation."
+    publishedDateTime: 2021-05-10T16:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enable-asr-create-vm/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 73
   - title: "Microsoft Announces the General Availability of Azure Spring Cloud"
     excerpt: "Microsoft and VMWare both announced the general availability of Azure Spring Cloud, a fully-managed service for Spring Boot apps. The service allows enterprises to deploy JARs or code to it, and the service automates the process of wiring the apps to the Spring service runtime."
     publishedDateTime: 2020-09-09T11:11:00Z

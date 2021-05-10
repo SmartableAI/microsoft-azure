@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/announcing-the-general-availabili
 webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-spot-virtual-machines/"
 type: article
 quality: 104
-heat: 304
+heat: 324
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
     excerpt: "Today, we’re announcing the general availability of—enabling you to migrate your existing on-premises Windows and Linux-based clustered environments to Azure. We’re also announcing important new disk enhancements to provide you with more availability, security, and flexibility on Azure."
     publishedDateTime: 2020-07-16T09:00:39Z
     webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-shared-disks-and-new-azure-disk-storage-enhancements/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 73
+  - title: "General availability: Enable Azure Site Recovery (ASR) while creating Azure Virtual Machines "
+    excerpt: "With ASR, you can now protect your business-critical Azure virtual machines from regional outages at the time of VM creation."
+    publishedDateTime: 2021-05-10T16:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enable-asr-create-vm/"
     type: article
     provider:
       name: Microsoft

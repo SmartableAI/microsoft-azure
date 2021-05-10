@@ -79,6 +79,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 73
+  - title: "General availability: Enable Azure Site Recovery (ASR) while creating Azure Virtual Machines "
+    excerpt: "With ASR, you can now protect your business-critical Azure virtual machines from regional outages at the time of VM creation."
+    publishedDateTime: 2021-05-10T16:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enable-asr-create-vm/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 73
   - title: "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure"
     excerpt: "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating ..."
     publishedDateTime: 2020-05-13T12:33:00Z
