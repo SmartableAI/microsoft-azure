@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series
   - videos/microsoft-how-to-get-started-with-azure-cosmos-db-built-in-notebooks-azure-portal-series
   - videos/microsoft-how-to-find-an-image-for-your-virtual-machine-azure-portal-series
   - videos/microsoft-how-to-find-the-right-load-balancing-service-azure-portal-series
@@ -73,7 +74,7 @@ topics:
   - Management tools
 
 images:
-  - url: https://i.ytimg.com/vi/OrnZMkP5Eq4/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/pF0-KbgxUOQ/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
