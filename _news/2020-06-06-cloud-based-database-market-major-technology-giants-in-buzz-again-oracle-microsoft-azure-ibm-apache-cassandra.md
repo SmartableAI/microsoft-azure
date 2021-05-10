@@ -165,15 +165,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
-  - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
-    excerpt: "Vectra Cognito now available in the Microsoft Azure Marketplace Streamlined deployment of industry-leading threat d"
-    publishedDateTime: 2021-05-06T07:08:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
   - title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
     excerpt: "Parabole.ai today announced that TRAIN™ 3.0, its MACHINE TEACHING PLATFORM is now available on the Azure Marketplace. Parabole's unique"
     publishedDateTime: 2020-06-03T13:12:00Z

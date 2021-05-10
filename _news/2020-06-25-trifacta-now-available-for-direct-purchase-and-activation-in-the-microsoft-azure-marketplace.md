@@ -160,15 +160,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
-  - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
-    excerpt: "Vectra Cognito now available in the Microsoft Azure Marketplace Streamlined deployment of industry-leading threat d"
-    publishedDateTime: 2021-05-06T07:08:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
   - title: "Cloud-based Database Market – Major Technology Giants in Buzz Again | Oracle, Microsoft Azure, IBM, Apache Cassandra"
     excerpt: "AMA Research have added latest edition of survey study on Global Cloud based Database Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
     publishedDateTime: 2020-06-06T19:22:00Z

@@ -24,20 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "nDivision Announces a New Disruptive Microsoft Azure Cloud Enablement Solution"
-    excerpt: "DALLAS, TX / ACCESSWIRE / May 4, 2021 / nDivision Inc. (OTCQB:NDVN), a leader in providing cloud-based IT Managed Services using proprietary Intelligent Automation to replace human labor, announced today the release of a new service offering."
-    publishedDateTime: 2021-05-04T11:01:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/business-technology-39ed897713d8d9903fe246c86bdc653e"
+  - title: "Microsoft Azure Blob leak a lesson to CISOs about cloud security responsibility"
+    excerpt: "Microsoft's apparent misconfiguration of its own cloud bucket exposed third-party intellectual property. Here are the takeaways for CISOs."
+    publishedDateTime: 2021-05-10T09:00:00Z
+    webUrl: "https://www.csoonline.com/article/3617456/microsoft-azure-blob-leak-a-lesson-to-cisos-about-cloud-security-responsibility.html"
+    ampWebUrl: "https://www.csoonline.com/article/3617456/microsoft-azure-blob-leak-a-lesson-to-cisos-about-cloud-security-responsibility.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3617456/microsoft-azure-blob-leak-a-lesson-to-cisos-about-cloud-security-responsibility.amp.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
+      name: CSOonline
+      domain: csoonline.com
+    quality: 87
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://images.idgesg.net/images/article/2018/01/bucket-with-holes_breach_security_vulnerability-100747428-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
+    excerpt: "Vectra Cognito now available in the Microsoft Azure Marketplace Streamlined deployment of industry-leading threat d"
+    publishedDateTime: 2021-05-06T07:08:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
 
 secured: "BWYybjdsCosJQidnDVNtqtk5HpRgfi7dqcXSE1XGB4sWD4jMy5CmqBoanV1lGnsIanzTD+nVCU+IAUN53u5x8eFam4bXaVPNWG1NJ3Xj0n6HVnV996W8F7aNye1HnIiLxJCSf8MLemcoKW3JZAZ6b9PW8M54BYlgGgB9++2j3nxhjW83eVUpWK7175jjldNb2bEytMAxr+Ce8q4+qJ2cxUIuyyW4GJ08KE0P2M4gimjvb7lldPLeIfFK9XhcR6VgJxIf6pPSAMDfWu9K8Fhk/jdbz6NGQIGKdHwRetUbYHTxFeI6grH9edmbCaTDMz+p2CLUHEyLA6GgwDAVlHiaiJ1diQ0WZaSgeqXs0iU1SSvEys1UX83cUXQokegFH/Vp3zO2p8geq+htsl0egKOhTDGRBTDg1fzgVD2SbSUka/21OJL1/vhOMf42Lg5+8I4QAueT0FmnHtkaGNNUbl6eo+ub8DzUCDBVuFoCm8g4gEeERKq8rfmYFq2ciUXmwQJY6w0B7NQOyEYus3r9rVeTZQ==;v3fSM/tOhRMqTu+nIlenpg=="
 ---

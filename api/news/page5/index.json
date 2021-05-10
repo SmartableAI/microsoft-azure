@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-09-hybrid-cloud-tales-from-the-field-how-is-azure-arc-being-used.md",
+      "title": "Hybrid cloud tales from the field: How is Azure Arc being used?",
+      "excerpt": "Cloud migration, enterprise systems consolidation, and agility are among the big reasons that early adopters are looking at hybrid cloud. But “doing hybrid right” requires different approaches to architecture and development because you are working with a mirror image of the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/hybrid-cloud-tales-from-the-field-how-is-azure-arc-being-used/",
+      "originalUrl": "https://www.zdnet.com/article/hybrid-cloud-tales-from-the-field-how-is-azure-arc-being-used/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hybrid-cloud-tales-from-the-field-how-is-azure-arc-being-used/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hybrid-cloud-tales-from-the-field-how-is-azure-arc-being-used/",
+      "publishedDateTime": "2021-02-09T05:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-azure-defender-for-app-service-introduces-dangling-dns-protection.md",
       "title": "Azure Defender for App Service introduces dangling DNS protection",
       "excerpt": "Resources hosted on Azure App Service are at the forefront as attackers are constantly on the lookout for vulnerabilities in web applications. Dormant domains are a permanent resident on the checklist of both opportunistic and target-oriented attackers.",
@@ -1126,50 +1168,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service.md",
-      "title": "Public preview: Azure Key Vault CSI driver support in Azure Kubernetes Service",
-      "excerpt": "Azure Key Vault provider for Secrets Store CSI driver allows you to get secret contents stored in an Azure Key Vault instance. Azure Key Vault simplifies the task of securing and using cryptographic keys and other secrets with AKS. \nWith this new feature, you can use the Secrets Store CSI driver interface",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T09:01:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Containers",
-        "Security"
       ]
     }
   ],

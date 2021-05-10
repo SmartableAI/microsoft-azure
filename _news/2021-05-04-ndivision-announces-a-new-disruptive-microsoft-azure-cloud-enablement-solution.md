@@ -23,22 +23,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Sylogist Ltd.'s subsidiary, Serenic Software Inc. Announces Release for Microsoft Cloud"
-    excerpt: "CNW/ - Serenic Software Inc., a Sylogist Ltd. (TSX: SYZ) (\"Sylogist\") company, a leading provider of comprehensive enterprise resource planning"
-    publishedDateTime: 2021-05-04T12:00:00Z
-    webUrl: "https://www.newswire.ca/news-releases/sylogist-ltd-s-subsidiary-serenic-software-inc-announces-release-for-microsoft-cloud-807067261.html"
-    type: article
-    provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/1502634/Sylogist_Ltd__Sylogist_Ltd__s_subsidiary__Serenic_Software_Inc_.jpg?p=facebook"
-        width: 1500
-        height: 785
-        isCached: true
-
 secured: "III/txs9jzSSlkGJlTFucJ8zx3AgQt5Ja5tRxA0Z4XI80eMek6BRNAPkf6saDKr64r9LtbjTSg/kqIIazgquYOBE/dIYRfCb/ZmtLlRoENePC/IL7haVSmK01iHVAoOFA7PV9Ou6L2yniRPzzuKVx16+f9VtFszta3dQF/IScWZGgVkFDItkrauSwp/BHyPJepsj0qAyg8Wldxo6V+fK5r3JTKrTqzglwc3gAmujhYX3bLbyyHn9wqqP231CGX91ChKSerWfkeEu35yGrFEDU0RG1By0eUVdm+oGo5fruZN2oxgeJHbs6eTAQDx2OpA3QAWb5aqCGMXCZs259bNiRw7rIpPH02rAj44vPu0oFv8=;IE19cZDR77Ltt9cGuI57jA=="
 ---
 
