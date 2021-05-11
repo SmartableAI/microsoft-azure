@@ -1,10 +1,10 @@
 ---
 category: news
-title: "General availability: Azure Log Analytics UI updates May 2021"
-excerpt: "Azure Log Analytics for May 2021 include a new and updated experience for custom logs management and pinned parts filter integration."
-publishedDateTime: 2021-05-05T16:00:31Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-log-analytics-ui-updates-may-2021/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-log-analytics-ui-updates-may-2021/"
+title: "General availability: Azure DevOps updates for May 2021"
+excerpt: "There are several new announcements for May 2021 including repos as protected resource in YAML pipelines and updates to Delivery Plans 2.0."
+publishedDateTime: 2021-05-11T19:48:53Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-git-repositories-can-now-be-treated-as-protected-resources-in-yaml-pipelines/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-git-repositories-can-now-be-treated-as-protected-resources-in-yaml-pipelines/"
 type: article
 quality: 84
 heat: -1
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Analytics
+  - DevOps
 
 related:
   - title: "General availability: Azure Machine Learning updates for native terminal  "
@@ -32,10 +32,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 97
-  - title: "General availability: Azure DevOps updates for May 2021"
-    excerpt: "There are several new announcements for May 2021 including repos as protected resource in YAML pipelines and updates to Delivery Plans 2.0."
-    publishedDateTime: 2021-05-11T19:48:53Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-git-repositories-can-now-be-treated-as-protected-resources-in-yaml-pipelines/"
+  - title: "General availability: Azure Log Analytics UI updates May 2021"
+    excerpt: "Azure Log Analytics for May 2021 include a new and updated experience for custom logs management and pinned parts filter integration."
+    publishedDateTime: 2021-05-05T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-log-analytics-ui-updates-may-2021/"
     type: article
     provider:
       name: Microsoft
@@ -69,6 +69,6 @@ related:
       domain: microsoft.com
     quality: 57
 
-secured: "YVigc/gXaNfMkfdcUo1Auku3I3ivItZPJlEKkVLgIiCuSOQ6bpu1C45gOJj//2HoeCrPZ1IqpAV+xqxEoTsw52rlLudo1F496xTIB0rg5HSm9KpwE1PFIVgu5PZL2D7UJZUtigrH/OdY8TFSjUjD5p2TDTGYZFBnezAQlhDJF0eo+w5bkSvGNVzplgLRnuq583YK/I1ukSJUFLAHCRIzO6AoN+yxz8SSQ/P0JcS1WhlnTICXLAefkTDGA3rj7tyyfGZum8OW95SbYNgA3nSoXsZHvYSdqO9HhqUh19LvdhNPalPL6/BQwjXF7GNeLOl0KnmdNKNqoRIggqA4N5pCDSgvGgG4hfNcb70nQPlIlAM=;+9M9hlWGilNv027OyAkbSg=="
+secured: "uFo0d15AXrdaAa7C4WSrHg/+20tWckL8+G77KCgCJNdBAIPZxkPuEwnMWIfXslIYm5SvqJlHrPRtoRl+pqPx0e7pRsboattrD5HW0OpfGglgReB6mvjOyA2v8CAHhDJDvAqxLc43uZFAZfJM1tR/FwNTV9q5gWxgYTMEzXodg2Q6krWxF3dlNzIa4eESmNe0I75xrFZ8+Jd6+dJPCTNx3i8xGWopW5A5w7A684ayfk4KwXYJgXPhQvnoZi3hMxS+Nv5hP24yrbEV6Pwl4NuQJxfxXVxz6CPRivJ+Eq3rWti0AXGrIK6jqKjMaWghHErYUBiAHIfpjE4Clgi9HCMoeyl59+aFj5+7EME1NjsqBrI=;LUa/k6CwhlhrgdD+xP/5Kg=="
 ---
 

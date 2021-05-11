@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Azure DevOps updates for May 2021"
+    excerpt: "There are several new announcements for May 2021 including repos as protected resource in YAML pipelines and updates to Delivery Plans 2.0."
+    publishedDateTime: 2021-05-11T19:48:53Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-git-repositories-can-now-be-treated-as-protected-resources-in-yaml-pipelines/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: Azure Data Explorer (ADX) Performance Updates "
     excerpt: "The next version of Azure Data Explorer (ADX) with performance updates is now available.\n"
     publishedDateTime: 2021-03-17T16:00:25Z
