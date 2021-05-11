@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
-excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
-publishedDateTime: 2021-04-20T18:03:00Z
-originalUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
-webUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
+title: "Microsoft Using Mixed Reality for Remote Audits of Azure Data Centers"
+excerpt: "Microsoft has begun using its HoloLens mixed reality technology to provide remote auditors a detailed look inside Microsoft Azure data centers, enabling compliance audits to continue during the COVID-19 pandemic."
+publishedDateTime: 2021-04-30T16:17:00Z
+originalUrl: "https://datacenterfrontier.com/microsoft-using-mixed-reality-for-remote-audits-of-azure-data-centers/"
+webUrl: "https://datacenterfrontier.com/microsoft-using-mixed-reality-for-remote-audits-of-azure-data-centers/"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: datacenterfrontier.com
+  domain: datacenterfrontier.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
-    width: 960
-    height: 542
+  - url: "https://datacenterfrontier.com/wp-content/uploads/2021/04/hololens-demo.jpg"
+    width: 740
+    height: 402
     isCached: true
 
 related:
@@ -136,20 +136,6 @@ related:
         width: 803
         height: 534
         isCached: true
-  - title: "Microsoft Using Mixed Reality for Remote Audits of Azure Data Centers"
-    excerpt: "Microsoft has begun using its HoloLens mixed reality technology to provide remote auditors a detailed look inside Microsoft Azure data centers, enabling compliance audits to continue during the COVID-19 pandemic."
-    publishedDateTime: 2021-04-30T16:17:00Z
-    webUrl: "https://datacenterfrontier.com/microsoft-using-mixed-reality-for-remote-audits-of-azure-data-centers/"
-    type: article
-    provider:
-      name: datacenterfrontier.com
-      domain: datacenterfrontier.com
-    quality: 37
-    images:
-      - url: "https://datacenterfrontier.com/wp-content/uploads/2021/04/hololens-demo.jpg"
-        width: 740
-        height: 402
-        isCached: true
   - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
     excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
     publishedDateTime: 2021-04-20T18:36:00Z
@@ -177,6 +163,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Report: Microsoft is sharing Azure energy usage data with some cloud customers"
+    excerpt: "Microsoft Corp. has started sharing information about the electricity usage of Azure cloud regions with some customers, who it hopes will use the data to lower the carbon footprint of their Azure deployments."
+    publishedDateTime: 2021-04-20T18:03:00Z
+    webUrl: "https://siliconangle.com/2021/04/20/report-microsoft-sharing-azure-energy-usage-data-cloud-customers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/azure.jpg"
+        width: 960
+        height: 542
         isCached: true
   - title: "Ally partners with Microsoft Azure to prepare quantum computing-ready workforce"
     excerpt: "US fintech Ally Financial will collaborate with Microsoft on Azure Quantum solutions to develop quantum computing skills and explore how new algorithms and future quantum hardware could improve customer experience."
@@ -262,6 +262,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "Izmr19SG43gHmRt7Qh9NEUzR5h0dKtMDcO3uFxXBES0jADG9HZzkyJk7nyu4LLF4KZWFGOgqLNqeETz/JkWGD9he8iyG7O+mYhCUKWpIxVYFHhGavjfgtrGOg5Msrbne8NBstmwc8Rxq0kkSk0DApu18BIyX5aqH5dE6soZFrV0l+d5RTvYCMZf+svHyurEHq2Uotrb4AsJiPf5zWgRgynHP8yZDSjBLCemTmHa8VKOuCgmMiKQCQloq9zlY23jSfNQQJKhMIOAqky8E/ADGwuhZeLuWTkeXnueozOqY8NOZ74LThs6gizbwJcDEqLLiumz/Ed5YZcR7QnUOHmHiQyj1NuAjRjrmO6/UeGkIRRLg7mNLOL6rKRil85j2KHsOuF6DiER6Np8e/XX7TVbNODWDgxKHzpzTxvwXPv/uelztm+5IWAF47kKnj7Cf/ukhCcLdZBaULSWWxFIS8xB9j0kFritEVr467dyEvHwHUB1RyX3pZ7UGkMkKSct+7wDFDkGT5DzwMETSmQex42dLFQ==;vaJGtU7fMU+y5yfP2ap4eg=="
+secured: "F5GB92hgKNSxWYWD+FasX5xqrWIyA9e1PGF6KunV7e7/YPJkFi9M9bnUG59loNA6A3MEhrUh896u6+uvXDxLry6NUSwbJlXHXSckwbk+8KApjfaMMBqmdGbGnNAWr3n7F9SbWmW6FUzOdG/vZyVPBCxCLB25erZhffTWyoImWrov42YnuAM8o3fD9qQXDkRQ7IMXll0TXRd4H8SL8cTIQuKJyCqfmjOwiTwHpKalJp7hFX7vNgRdSwMhmDlL6QKwT+waaJMJqJ1LfgI5+u+BINTDqkxvh/oA+QN5VTEkD4eiHBiW/nOsD+nLm2IlwKNoD+aQUnCwYE2O3ffMggKdP1dC3iNFmfA9OZs7blseo6w=;rcrxEY5JkEREFzaIo2vX6g=="
 ---
 

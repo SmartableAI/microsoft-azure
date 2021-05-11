@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/369931"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369931"
 type: article
 quality: 97
-heat: 437
+heat: 457
 published: true
 
 provider:
@@ -125,6 +125,20 @@ related:
       - url: "https://blocksandfiles.com/wp-content/uploads/2018/10/Excelero-splash.jpg"
         width: 803
         height: 534
+        isCached: true
+  - title: "Microsoft Using Mixed Reality for Remote Audits of Azure Data Centers"
+    excerpt: "Microsoft has begun using its HoloLens mixed reality technology to provide remote auditors a detailed look inside Microsoft Azure data centers, enabling compliance audits to continue during the COVID-19 pandemic."
+    publishedDateTime: 2021-04-30T16:17:00Z
+    webUrl: "https://datacenterfrontier.com/microsoft-using-mixed-reality-for-remote-audits-of-azure-data-centers/"
+    type: article
+    provider:
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 37
+    images:
+      - url: "https://datacenterfrontier.com/wp-content/uploads/2021/04/hololens-demo.jpg"
+        width: 740
+        height: 402
         isCached: true
   - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
     excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"

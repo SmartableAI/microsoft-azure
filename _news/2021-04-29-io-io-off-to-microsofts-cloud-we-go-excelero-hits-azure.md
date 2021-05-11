@@ -122,6 +122,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
+  - title: "Microsoft Using Mixed Reality for Remote Audits of Azure Data Centers"
+    excerpt: "Microsoft has begun using its HoloLens mixed reality technology to provide remote auditors a detailed look inside Microsoft Azure data centers, enabling compliance audits to continue during the COVID-19 pandemic."
+    publishedDateTime: 2021-04-30T16:17:00Z
+    webUrl: "https://datacenterfrontier.com/microsoft-using-mixed-reality-for-remote-audits-of-azure-data-centers/"
+    type: article
+    provider:
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 37
+    images:
+      - url: "https://datacenterfrontier.com/wp-content/uploads/2021/04/hololens-demo.jpg"
+        width: 740
+        height: 402
+        isCached: true
   - title: "Become A Certified Cloud Computing Pro With This Microsoft Azure Bootcamp"
     excerpt: "Partner content b With cloud computing growing all the time, there’s never been a better time to become certified in Microsoft’s cloud platform, Azure. Whether"
     publishedDateTime: 2021-04-20T18:36:00Z

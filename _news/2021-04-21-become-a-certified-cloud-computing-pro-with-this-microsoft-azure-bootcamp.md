@@ -136,6 +136,20 @@ related:
         width: 803
         height: 534
         isCached: true
+  - title: "Microsoft Using Mixed Reality for Remote Audits of Azure Data Centers"
+    excerpt: "Microsoft has begun using its HoloLens mixed reality technology to provide remote auditors a detailed look inside Microsoft Azure data centers, enabling compliance audits to continue during the COVID-19 pandemic."
+    publishedDateTime: 2021-04-30T16:17:00Z
+    webUrl: "https://datacenterfrontier.com/microsoft-using-mixed-reality-for-remote-audits-of-azure-data-centers/"
+    type: article
+    provider:
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 37
+    images:
+      - url: "https://datacenterfrontier.com/wp-content/uploads/2021/04/hololens-demo.jpg"
+        width: 740
+        height: 402
+        isCached: true
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
     publishedDateTime: 2021-04-20T12:57:00Z
