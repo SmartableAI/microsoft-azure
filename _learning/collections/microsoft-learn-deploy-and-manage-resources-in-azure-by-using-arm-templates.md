@@ -4,7 +4,7 @@ excerpt: "Learn how ARM templates enable you to manage both basic and complex in
 type: collection
 price: Free
 length: PT3H5M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
