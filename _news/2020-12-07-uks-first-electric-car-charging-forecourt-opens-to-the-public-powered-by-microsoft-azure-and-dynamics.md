@@ -209,6 +209,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Vulnerability attacks weakness in Microsoft Azure virtual machine extensions"
+    excerpt: "The flaw, which Microsoft patched in March, would allow an attacker to escalate privileges and access sensitive user data."
+    publishedDateTime: 2021-05-11T14:00:00Z
+    webUrl: "https://www.scmagazine.com/home/security-news/cloud-security/vulnerability-attacks-weakness-in-microsoft-azure-virtual-machine-extensions/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 51
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/2021/04/GettyImages-1207074418-1.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Microsoft Azure partners with Sun Mobility to create EV batteries that connect to the cloud"
     excerpt: "New Delhi, Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to put the country on the road to the future."
     publishedDateTime: 2020-12-15T05:37:00Z

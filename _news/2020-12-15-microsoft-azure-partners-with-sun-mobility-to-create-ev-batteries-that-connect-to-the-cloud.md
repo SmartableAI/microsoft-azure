@@ -207,6 +207,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Vulnerability attacks weakness in Microsoft Azure virtual machine extensions"
+    excerpt: "The flaw, which Microsoft patched in March, would allow an attacker to escalate privileges and access sensitive user data."
+    publishedDateTime: 2021-05-11T14:00:00Z
+    webUrl: "https://www.scmagazine.com/home/security-news/cloud-security/vulnerability-attacks-weakness-in-microsoft-azure-virtual-machine-extensions/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 51
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/2021/04/GettyImages-1207074418-1.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "AirHop Communications brings real-time 5G network intelligence solution to Microsoft Azure 4G/5G"
     excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
     publishedDateTime: 2020-12-07T09:18:00Z
