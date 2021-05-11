@@ -4,6 +4,42 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
+      "title": "Connect an app to Azure Storage",
+      "excerpt": "Create a simple application and add configuration, client library references, and C# or JavaScript code to connect it to Azure Storage.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-app-to-azure-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
+      "length": "PT1H15M",
+      "ratings": {
+        "count": 6083,
+        "average": 4.633898
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-expressroute.md",
       "title": "Connect your on-premises network to the Microsoft global network by using ExpressRoute",
       "excerpt": "Connect your on-premises systems and users to Azure and Office 365 by using ExpressRoute for private, dedicated, and guaranteed throughput connectivity.",
@@ -132,8 +168,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
       "length": "PT54M",
       "ratings": {
-        "count": 1084,
-        "average": 4.7204795
+        "count": 1086,
+        "average": 4.7200737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -217,8 +253,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 12354,
-        "average": 4.763801
+        "count": 12355,
+        "average": 4.7637396
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -352,8 +388,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 6472,
-            "average": 4.7014832
+            "count": 6473,
+            "average": 4.701375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -648,8 +684,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-ai-technology/",
           "length": "PT37M",
           "ratings": {
-            "count": 2099,
-            "average": 4.6079087
+            "count": 2100,
+            "average": 4.6061907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -878,8 +914,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 919,
-        "average": 4.7377586
+        "count": 920,
+        "average": 4.7380433
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1215,8 +1251,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 2439,
-        "average": 4.6289463
+        "count": 2440,
+        "average": 4.6286883
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1260,8 +1296,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "PT28M",
       "ratings": {
-        "count": 6472,
-        "average": 4.7014832
+        "count": 6473,
+        "average": 4.701375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1302,8 +1338,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 4711,
-        "average": 4.7265973
+        "count": 4712,
+        "average": 4.7266555
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1339,8 +1375,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "PT53M",
       "ratings": {
-        "count": 2635,
-        "average": 4.6777987
+        "count": 2636,
+        "average": 4.6779213
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1383,8 +1419,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-ai-technology/",
       "length": "PT37M",
       "ratings": {
-        "count": 2099,
-        "average": 4.6079087
+        "count": 2100,
+        "average": 4.6061907
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1556,8 +1592,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/",
       "length": "PT42M",
       "ratings": {
-        "count": 3039,
-        "average": 4.655808
+        "count": 3040,
+        "average": 4.655921
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1581,48 +1617,6 @@
       "topics": [
         "Azure",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-rust-understand-common-concepts.md",
-      "title": "Understand common concepts in Rust",
-      "excerpt": "Learn about Rust concepts such as variables, data types, structs, enums, functions, indexing, hash maps, and flow control.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-rust-understand-common-concepts/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-understand-common-concepts/",
-      "length": "PT1H7M",
-      "ratings": {
-        "count": 250,
-        "average": 4.86
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/rust-understand-common-concepts-social.png",
-          "width": 1280,
-          "height": 640,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
