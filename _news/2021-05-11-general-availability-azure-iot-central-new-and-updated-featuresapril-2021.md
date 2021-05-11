@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure IoT Central new and updated features—November 2020"
-excerpt: "November updates include IoT Plug and Play support, new pricing tier, a preview of the jobs API, and documentation updates."
-publishedDateTime: 2020-12-11T20:00:17Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-november-2020/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-november-2020/"
+title: "General availability: Azure IoT Central new and updated features—April 2021"
+excerpt: "April updates include API general availability, new guidance articles, dashboard updates, IoT Edge updates, and device connectivity events."
+publishedDateTime: 2021-05-11T16:02:47Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-april-2021/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-april-2021/"
 type: article
-quality: 84
+quality: 102
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
   - IoT
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/7647d553-aad9-4c46-be50-490083188693.png"
+    width: 792
+    height: 418
+    isCached: true
 
 related:
   - title: "Azure IoT Central new and updated features—September 2020"
@@ -79,20 +85,6 @@ related:
         width: 1204
         height: 559
         isCached: true
-  - title: "General availability: Azure IoT Central new and updated features—April 2021"
-    excerpt: "April updates include API general availability, new guidance articles, dashboard updates, IoT Edge updates, and device connectivity events."
-    publishedDateTime: 2021-05-11T16:02:47Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-april-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 102
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/7647d553-aad9-4c46-be50-490083188693.png"
-        width: 792
-        height: 418
-        isCached: true
   - title: "Azure IoT Central new and updated features—August 2020"
     excerpt: "August updates include jobs improvements, a new file upload feature, a preview of the new data export feature, CLI updates, and documentation enhancements."
     publishedDateTime: 2020-09-14T19:00:14Z
@@ -106,6 +98,15 @@ related:
     excerpt: "Updates include improvements to the ARM template deployment experience, a variety of updates for Azure Blob Storage, and more."
     publishedDateTime: 2020-10-01T18:31:28Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-portal-september-2020-update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure IoT Central new and updated features—November 2020"
+    excerpt: "November updates include IoT Plug and Play support, new pricing tier, a preview of the jobs API, and documentation updates."
+    publishedDateTime: 2020-12-11T20:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-november-2020/"
     type: article
     provider:
       name: Microsoft
@@ -139,6 +140,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "KLa/Lurf/o/JsgC6S2Iqr6KZlI93qv08i38evu4+NW/zZKhVWLhdk+jRBrrwkJYXmPSBvgcvYJ5fnu3dTwwYStUfQv72xVSinAwR0HTA6txS0js/Wq+aOscZ27F+jAPD4mr5cDbIBcbsEfRloLXaKUifAbWxoh0fWwc5bJqwSAyGVr/5ga9Be4rpLtuOKbIduXbTd3bLUHNudLjbDjq0IXlfVIK+A7dvhI8tFKg2OB16msXfg5nWOa16dBFVHjf1SZ8YQVE4Ju18nt5Ozw5b0XcVSnOTNyTJkKX7GTwgZj6Bz6SrRxIYybtdOHdrnZdlgSVSxGt/WEZ6TNOZ40x6Nf8ZHka74QIa5qIwsCY2wPg=;/Pf45gZJDmdlmkItnu8tDQ=="
+secured: "4HYXvNYGavDdQNGBMbfKCuwwutiF81ZbIfv7fYBwjokTl/1x5G7avr5m857zsGTauawUn1sYxVa6dr7KKj7LKraOR67jdxcsDaHNMsVJrs8ZQi6vyJNikKGb94IzMxDr2itWu4xD8wfvQfhJW2hAI48OG4O7/D8c9Eml7P3NoTRIQ61iIbs+lOyaYi409lYEcPcv7CopoupJKGYB9BfUX9mH95Tydod74sr5oo0yLUe94DdTrhL6RGMU8mSuB71F1TyIcL5UoE3YPqKLjh7djd6Vn5ZOK/+FTm7bojsnx7b2iRmZGEsmfF9RBBD0UYBmf4HtVGkRt6aHOKz6zv/6tlFrz64W+v1rec44ocyvEGU=;+Blk/qHJqisFGT60m0PWXg=="
 ---
 

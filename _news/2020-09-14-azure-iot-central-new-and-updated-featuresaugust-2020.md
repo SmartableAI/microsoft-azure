@@ -79,6 +79,20 @@ related:
         width: 1204
         height: 559
         isCached: true
+  - title: "General availability: Azure IoT Central new and updated features—April 2021"
+    excerpt: "April updates include API general availability, new guidance articles, dashboard updates, IoT Edge updates, and device connectivity events."
+    publishedDateTime: 2021-05-11T16:02:47Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-april-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 102
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/7647d553-aad9-4c46-be50-490083188693.png"
+        width: 792
+        height: 418
+        isCached: true
   - title: "Azure portal September 2020 update"
     excerpt: "Updates include improvements to the ARM template deployment experience, a variety of updates for Azure Blob Storage, and more."
     publishedDateTime: 2020-10-01T18:31:28Z
