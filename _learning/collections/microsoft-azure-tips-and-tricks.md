@@ -20,6 +20,7 @@ items:
   - videos/microsoft-how-to-run-logic-apps-in-a-docker-container-azure-tips-and-tricks
   - videos/microsoft-how-to-use-blob-versioning-in-azure-storage-azure-tips-and-tricks
   - videos/microsoft-how-to-deploy-steeltoe-net-apps-to-azure-spring-cloud-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-azure-health-bot-azure-tips-and-tricks
   - videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks
   - videos/microsoft-how-to-create-faster-and-smarter-apps-with-net-5-azure-tips-and-tricks
   - videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks

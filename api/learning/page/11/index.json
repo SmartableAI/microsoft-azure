@@ -4,6 +4,78 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
+      "title": "Create an Azure Storage account",
+      "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 8525,
+        "average": 4.777009
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
+      "title": "Create a Linux virtual machine in Azure",
+      "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-linux-vm-in-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
+      "length": "PT1H26M",
+      "ratings": {
+        "count": 9902,
+        "average": 4.6946073
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-data-engineering-processes.md",
       "title": "Identify the tasks of a data engineer in a cloud-hosted architecture",
       "excerpt": "Learn about the responsibilities of a data engineer, how they relate to the jobs of other data and AI roles, and explore common data engineering practices.",
@@ -11,8 +83,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "PT25M",
       "ratings": {
-        "count": 6022,
-        "average": 4.7255063
+        "count": 6025,
+        "average": 4.725643
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +167,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
       "length": "PT29M",
       "ratings": {
-        "count": 1173,
-        "average": 4.7740836
+        "count": 1175,
+        "average": 4.774468
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -138,8 +210,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 2443,
-        "average": 4.628326
+        "count": 2444,
+        "average": 4.628478
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -183,8 +255,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "PT28M",
       "ratings": {
-        "count": 6477,
-        "average": 4.701405
+        "count": 6478,
+        "average": 4.7014513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -225,8 +297,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 4714,
-        "average": 4.7267714
+        "count": 4715,
+        "average": 4.726829
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -392,8 +464,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2163,
-        "average": 4.835876
+        "count": 2166,
+        "average": 4.8351803
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -435,8 +507,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "PT53M",
       "ratings": {
-        "count": 2282,
-        "average": 4.64461
+        "count": 2283,
+        "average": 4.644766
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -479,8 +551,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/",
       "length": "PT42M",
       "ratings": {
-        "count": 3040,
-        "average": 4.655921
+        "count": 3043,
+        "average": 4.6562605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -599,8 +671,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 3959,
-        "average": 4.54635
+        "count": 3961,
+        "average": 4.5465794
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -634,8 +706,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 53269,
-        "average": 4.7106385
+        "count": 53270,
+        "average": 4.710644
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -701,14 +773,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-go-serverless-event-driven-applications-with-azure-functions-azure-friday.md",
-      "title": "Go serverless: Event-driven applications with Azure Functions | Azure Friday",
-      "excerpt": "Jeff Hollan joins Scott Hanselman to show how you can quickly develop and deploy code to run in the cloud with Azure Functions. Functions can be written in a variety of languages, and will automatically trigger and scale based on your application needs.  1:53 - Demo  Quickstart: Create your first function",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-go-serverless-event-driven-applications-with-azure-functions-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-go-serverless-event-driven-applications-with-azure-functions-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=UFxQhszT450",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UFxQhszT450\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M14S",
+      "path": "_learning/videos/microsoft-go-serverless-big-data-processing-with-azure-event-hubs-for-apache-kafka-azure-friday.md",
+      "title": "Go serverless: Big data processing with Azure Event Hubs for Apache Kafka | Azure Friday",
+      "excerpt": "Working with Apache Kafka and want to simplify management of your infrastructure? Lena Hall joins Scott Hanselman to show you can keep using Apache Kafka libraries for hundreds of projects, and try Azure Event Hubs behind the scenes to focus on code instead of maintaining infrastructure.  4:44 - Demo",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-go-serverless-big-data-processing-with-azure-event-hubs-for-apache-kafka-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-go-serverless-big-data-processing-with-azure-event-hubs-for-apache-kafka-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=UE1WgB96_fc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UE1WgB96_fc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M9S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -721,11 +793,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-20T10:39:29-07:00",
+      "publishedDateTime": "2020-03-30T14:28:06-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/UFxQhszT450/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UE1WgB96_fc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1011,6 +1083,44 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-how-to-use-jupyter-notebooks-in-azure-data-studio-azure-friday.md",
+      "title": "How to use Jupyter Notebooks in Azure Data Studio | Azure Friday",
+      "excerpt": "Vicky Harp joins Scott Hanselman to show how Azure Data Studio combined the simple and robust SQL query editing experience of tools like SSMS with the flexibility and collaboration of Jupyter Notebooks. The November 2019 release of Azure Data Studio included SQL Server 2019 Guide as a Jupyter Book, which",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-jupyter-notebooks-in-azure-data-studio-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-jupyter-notebooks-in-azure-data-studio-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=pHuRj9ty9cI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pHuRj9ty9cI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M10S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-21T08:17:39-08:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pHuRj9ty9cI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-introducing-new-azure-api-management-capabilities-azure-friday.md",
       "title": "Introducing new Azure API Management capabilities | Azure Friday",
       "excerpt": "Miao Jiang joins Scott Hanselman discuss the API economy and how companies must master the challenges inherent in building, maintaining, managing, and exposing APIs to participate. That's where Azure API Management can help. Azure API Management is a solution for publishing APIs to external and internal",
@@ -1050,14 +1160,16 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-process-and-translate-speech-with-azure-cognitive-speech-services.md",
-      "title": "Process and Translate Speech with Azure Cognitive Speech Services",
-      "excerpt": "Learn how to implement the Speech services found in Azure Cognitive Services by performing speech-to-text transcription, synthesize text input to speech, perform speech translation, and implement speaker recognition in your AI infused applications",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-process-and-translate-speech-with-azure-cognitive-speech-services/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-process-and-translate-speech-with-azure-cognitive-speech-services/",
-      "length": "PT1H3M",
+      "path": "_learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday.md",
+      "title": "Optimizing your storage costs with Azure Blob Storage | Azure Friday",
+      "excerpt": "Klaas Langhout shows Scott Hanselman how to use Azure Blob Storage for a variety of cloud workloads while optimizing costs related to controlling capacity and tier, Premium tier for transaction cost savings, choosing the right redundancy, and routing preference.  0:00 – Introduction 0:52 – Presentation",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=dcSFOxBXxh4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dcSFOxBXxh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M32S",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
@@ -1068,235 +1180,22 @@
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-transcribe-speech-input-text.md",
-          "title": "Transcribe speech input to text",
-          "excerpt": "Speech to text from the speech service, known as speech recognition, enables real time transcription of audio streams into text. Your applications, tools, or devices can consume, display, and take action on this text as command input.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-transcribe-speech-input-text/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
-          "length": "PT27M",
-          "ratings": {
-            "count": 672,
-            "average": 4.723214
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-translate-speech-speech-service.md",
-          "title": "Translate speech with the speech service",
-          "excerpt": "Perform speech translation tasks with the speech service to translate spoken text to different languages.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-speech-speech-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
-          "length": "PT18M",
-          "ratings": {
-            "count": 650,
-            "average": 4.7
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/translate-speech-speech-service-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 53,
+      "publishedDateTime": "2021-04-23T09:00:20-07:00",
+      "heat": 54,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/dcSFOxBXxh4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "collection",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines.md",
-      "title": "Add and size disks in Azure virtual machines",
-      "excerpt": "Learn about your virtual machine storage options and how to choose between standard and premium, managed and unmanaged disks for your Azure virtual machine.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 2846,
-        "average": 4.6862264
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-allow-users-to-reset-their-password.md",
-      "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
-      "excerpt": "Learn how to allow users to reset their password with Azure Active Directory self-service password reset.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-allow-users-to-reset-their-password/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 3201,
-        "average": 4.7416434
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management.md",
-      "title": "Analyze costs and create budgets with Azure Cost Management",
-      "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 1832,
-        "average": 4.695415
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-costs-create-budgets-azure-cost-management-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
+        "Storage"
       ]
     }
   ],

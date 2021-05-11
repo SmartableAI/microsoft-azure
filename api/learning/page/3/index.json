@@ -4,6 +4,220 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-explore-computer-vision-in-microsoft-azure.md",
+      "title": "Explore computer vision in Microsoft Azure",
+      "excerpt": "Computer vision is an area of artificial intelligence (AI) in which software systems are designed to perceive the world visually, though cameras, images, and video. There are multiple specific types of computer vision problem that AI engineers and data scientists can solve using a mix of custom machine learning models and platform-as-a-service (PaaS) solutions - including many cognitive services in Microsoft Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-explore-computer-vision-in-microsoft-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-explore-computer-vision-in-microsoft-azure/",
+      "length": "PT2H53M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-analyze-images-computer-vision.md",
+          "title": "Analyze images with the Computer Vision service",
+          "excerpt": "The Computer Vision service enables software engineers to create intelligent solutions that extract information from images; a common task in many artificial intelligence (AI) scenarios.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-images-computer-vision/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
+          "length": "PT28M",
+          "ratings": {
+            "count": 1516,
+            "average": 4.6978893
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-classify-images-custom-vision.md",
+          "title": "Classify images with the Custom Vision service",
+          "excerpt": "Image classification is a common workload in artificial intelligence (AI) applications. It harnesses the predictive power of machine learning to enable AI systems to identify real-world items based on images.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-images-custom-vision/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 1233,
+            "average": 4.7234387
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/classify-images-custom-vision-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-detect-objects-images-custom-vision.md",
+          "title": "Detect objects in images with the Custom Vision service",
+          "excerpt": "Object detection is a form of computer vision in which artificial intelligence (AI) agents can identify and locate specific types of object in an image or camera feed.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-detect-objects-images-custom-vision/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 1132,
+            "average": 4.716431
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/detect-objects-images-custom-vision-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-detect-analyze-faces.md",
+          "title": "Detect and analyze faces with the Face service",
+          "excerpt": "Face detection, analysis, and recognition is an important capability for artificial intelligence (AI) solutions. The Face cognitive service in Azure makes it easy integrate these capabilities into your applications.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-detect-analyze-faces/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 1073,
+            "average": 4.7334576
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/detect-analyze-faces-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-manage-resources-in-azure.md",
       "title": "Manage resources in Azure",
       "excerpt": "Learn how to work with the Azure command line and web portal to create, manage, and control cloud based resources.",
@@ -34,8 +248,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
           "length": "PT35M",
           "ratings": {
-            "count": 7412,
-            "average": 4.7462225
+            "count": 7413,
+            "average": 4.7462564
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -68,8 +282,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
           "length": "PT34M",
           "ratings": {
-            "count": 5639,
-            "average": 4.7653837
+            "count": 5641,
+            "average": 4.765467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -103,8 +317,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
           "length": "PT1H11M",
           "ratings": {
-            "count": 6562,
-            "average": 4.7276745
+            "count": 6563,
+            "average": 4.727716
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -137,8 +351,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 5665,
-            "average": 4.798588
+            "count": 5668,
+            "average": 4.7986946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -222,8 +436,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 8758,
-            "average": 4.7654715
+            "count": 8761,
+            "average": 4.7654376
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -343,8 +557,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10227,
-            "average": 4.671751
+            "count": 10228,
+            "average": 4.6717834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -401,198 +615,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-azure-friday.md",
-      "title": "Azure Friday",
-      "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-friday/",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday.md",
-          "title": "Retro Game Translation with Azure Cognitive Services and IoT Edge | Azure Friday",
-          "excerpt": "Paul DeCarlo shows Scott Hanselman how Azure IoT Edge enables you to deploy cloud intelligence locally on edge devices.  By moving certain workloads to the edge of your network, your devices spend less time communicating with the cloud, can react more quickly to local changes, and operate reliably even",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=atga5uMsrYY",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/atga5uMsrYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT23M2S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-05-07T09:56:11-07:00",
-          "heat": 156,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/atga5uMsrYY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "IoT"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday.md",
-          "title": "Optimizing your storage costs with Azure Blob Storage | Azure Friday",
-          "excerpt": "Klaas Langhout shows Scott Hanselman how to use Azure Blob Storage for a variety of cloud workloads while optimizing costs related to controlling capacity and tier, Premium tier for transaction cost savings, choosing the right redundancy, and routing preference.  0:00 – Introduction 0:52 – Presentation",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=dcSFOxBXxh4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dcSFOxBXxh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT21M32S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-04-23T09:00:20-07:00",
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/dcSFOxBXxh4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-get-a-unified-network-monitoring-experience-with-network-insights-azure-friday.md",
-          "title": "Get a unified network monitoring experience with Network Insights | Azure Friday",
-          "excerpt": "Using Networks Insights to view health, metrics, alerts, and signals from all network monitoring tools in one place, Dalan Mendonca shows Scott Hanselman that there's no need to scramble across tools to troubleshoot your network issues in Azure.  0:00 – Intro to Network Insights 4:30 – Network health",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-get-a-unified-network-monitoring-experience-with-network-insights-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-get-a-unified-network-monitoring-experience-with-network-insights-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=8yZErhKpSxs",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8yZErhKpSxs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT14M45S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-04-19T09:44:09-07:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/8yZErhKpSxs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-diagnose-and-solve-problems-with-azure-api-management-azure-friday.md",
-          "title": "Diagnose and solve problems with Azure API Management | Azure Friday",
-          "excerpt": "Khaled Zayed joins Scott Hanselman to show how to troubleshoot availability, performance, and policy issues in your API Management service using API Management Diagnostics.  0:00 – Introduction 3:43 – Demo: Troubleshooting Availability and Performance 7:49 – Demo: Troubleshooting Gateway Performance",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-diagnose-and-solve-problems-with-azure-api-management-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-diagnose-and-solve-problems-with-azure-api-management-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=jkI57Pzd2zc",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jkI57Pzd2zc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT15M28S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-04-09T01:55:26-07:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/jkI57Pzd2zc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Integration"
-          ]
-        }
-      ],
-      "size": 260,
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/atga5uMsrYY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-architect-compute-infrastructure-in-azure.md",
       "title": "Architect compute infrastructure in Azure",
       "excerpt": "Learn how to architect compute infrastructure and solutions to automate your business processes in Azure.",
@@ -623,8 +645,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 11128,
-            "average": 4.757908
+            "count": 11137,
+            "average": 4.7580137
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -668,8 +690,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 7041,
-            "average": 4.712825
+            "count": 7045,
+            "average": 4.712988
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -746,8 +768,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
           "length": "PT37M",
           "ratings": {
-            "count": 9355,
-            "average": 4.667878
+            "count": 9356,
+            "average": 4.6679134
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -824,8 +846,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 9901,
-            "average": 4.6945763
+            "count": 9902,
+            "average": 4.6946073
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -860,8 +882,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 15433,
-            "average": 4.7199507
+            "count": 15434,
+            "average": 4.719969
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -903,8 +925,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 7041,
-            "average": 4.712825
+            "count": 7045,
+            "average": 4.712988
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1062,8 +1084,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 5507,
-            "average": 4.7223535
+            "count": 5509,
+            "average": 4.722454
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1148,8 +1170,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
           "length": "PT21M",
           "ratings": {
-            "count": 12356,
-            "average": 4.7636776
+            "count": 12357,
+            "average": 4.7636156
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1226,8 +1248,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 9901,
-            "average": 4.6945763
+            "count": 9902,
+            "average": 4.6946073
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1262,8 +1284,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 15433,
-            "average": 4.7199507
+            "count": 15434,
+            "average": 4.719969
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1305,8 +1327,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 7041,
-            "average": 4.712825
+            "count": 7045,
+            "average": 4.712988
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1422,8 +1444,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 6376,
-            "average": 4.7805834
+            "count": 6383,
+            "average": 4.780511
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1464,8 +1486,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 8462,
-            "average": 4.6549277
+            "count": 8466,
+            "average": 4.654855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1500,8 +1522,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 8793,
-            "average": 4.667008
+            "count": 8794,
+            "average": 4.6670456
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1674,8 +1696,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 5507,
-            "average": 4.7223535
+            "count": 5509,
+            "average": 4.722454
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1760,8 +1782,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
           "length": "PT21M",
           "ratings": {
-            "count": 12356,
-            "average": 4.7636776
+            "count": 12357,
+            "average": 4.7636156
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1838,8 +1860,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2417,
-            "average": 4.699214
+            "count": 2419,
+            "average": 4.6994624
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1881,8 +1903,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 42184,
-            "average": 4.7179027
+            "count": 42185,
+            "average": 4.7178855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2149,8 +2171,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 9901,
-            "average": 4.6945763
+            "count": 9902,
+            "average": 4.6946073
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2185,8 +2207,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 15433,
-            "average": 4.7199507
+            "count": 15434,
+            "average": 4.719969
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2479,8 +2501,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
           "length": "PT30M",
           "ratings": {
-            "count": 13888,
-            "average": 4.686276
+            "count": 13889,
+            "average": 4.6862984
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2515,8 +2537,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 8524,
-            "average": 4.776983
+            "count": 8525,
+            "average": 4.777009
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2551,8 +2573,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 6088,
-            "average": 4.634034
+            "count": 6090,
+            "average": 4.6339903
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2587,8 +2609,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10227,
-            "average": 4.671751
+            "count": 10228,
+            "average": 4.6717834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2650,8 +2672,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 2778,
-        "average": 4.827214
+        "count": 2784,
+        "average": 4.827227
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2692,8 +2714,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 4471,
-        "average": 4.847909
+        "count": 4474,
+        "average": 4.84734
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2757,8 +2779,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
           "length": "PT39M",
           "ratings": {
-            "count": 7751,
-            "average": 4.6307573
+            "count": 7753,
+            "average": 4.6307235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2800,8 +2822,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
           "length": "PT40M",
           "ratings": {
-            "count": 5535,
-            "average": 4.7136407
+            "count": 5536,
+            "average": 4.713692
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2843,8 +2865,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 8793,
-            "average": 4.667008
+            "count": 8794,
+            "average": 4.6670456
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2972,8 +2994,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
           "length": "PT30M",
           "ratings": {
-            "count": 13888,
-            "average": 4.686276
+            "count": 13889,
+            "average": 4.6862984
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3008,8 +3030,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 8524,
-            "average": 4.776983
+            "count": 8525,
+            "average": 4.777009
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3088,8 +3110,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 6088,
-            "average": 4.634034
+            "count": 6090,
+            "average": 4.6339903
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3353,8 +3375,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
       "length": "PT44M",
       "ratings": {
-        "count": 13461,
-        "average": 4.5953493
+        "count": 13464,
+        "average": 4.59544
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3395,8 +3417,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 18846,
-        "average": 4.699512
+        "count": 18853,
+        "average": 4.69957
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3420,6 +3442,198 @@
       "topics": [
         "Azure",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-azure-friday.md",
+      "title": "Azure Friday",
+      "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-friday/",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday.md",
+          "title": "Retro Game Translation with Azure Cognitive Services and IoT Edge | Azure Friday",
+          "excerpt": "Paul DeCarlo shows Scott Hanselman how Azure IoT Edge enables you to deploy cloud intelligence locally on edge devices.  By moving certain workloads to the edge of your network, your devices spend less time communicating with the cloud, can react more quickly to local changes, and operate reliably even",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=atga5uMsrYY",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/atga5uMsrYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT23M2S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-05-07T09:56:11-07:00",
+          "heat": 156,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/atga5uMsrYY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday.md",
+          "title": "Optimizing your storage costs with Azure Blob Storage | Azure Friday",
+          "excerpt": "Klaas Langhout shows Scott Hanselman how to use Azure Blob Storage for a variety of cloud workloads while optimizing costs related to controlling capacity and tier, Premium tier for transaction cost savings, choosing the right redundancy, and routing preference.  0:00 – Introduction 0:52 – Presentation",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=dcSFOxBXxh4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dcSFOxBXxh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT21M32S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-04-23T09:00:20-07:00",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/dcSFOxBXxh4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-get-a-unified-network-monitoring-experience-with-network-insights-azure-friday.md",
+          "title": "Get a unified network monitoring experience with Network Insights | Azure Friday",
+          "excerpt": "Using Networks Insights to view health, metrics, alerts, and signals from all network monitoring tools in one place, Dalan Mendonca shows Scott Hanselman that there's no need to scramble across tools to troubleshoot your network issues in Azure.  0:00 – Intro to Network Insights 4:30 – Network health",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-get-a-unified-network-monitoring-experience-with-network-insights-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-get-a-unified-network-monitoring-experience-with-network-insights-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=8yZErhKpSxs",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8yZErhKpSxs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT14M45S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-04-19T09:44:09-07:00",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/8yZErhKpSxs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-diagnose-and-solve-problems-with-azure-api-management-azure-friday.md",
+          "title": "Diagnose and solve problems with Azure API Management | Azure Friday",
+          "excerpt": "Khaled Zayed joins Scott Hanselman to show how to troubleshoot availability, performance, and policy issues in your API Management service using API Management Diagnostics.  0:00 – Introduction 3:43 – Demo: Troubleshooting Availability and Performance 7:49 – Demo: Troubleshooting Gateway Performance",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-diagnose-and-solve-problems-with-azure-api-management-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-diagnose-and-solve-problems-with-azure-api-management-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=jkI57Pzd2zc",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jkI57Pzd2zc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT15M28S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-04-09T01:55:26-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/jkI57Pzd2zc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration"
+          ]
+        }
+      ],
+      "size": 260,
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/atga5uMsrYY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -3453,8 +3667,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 8524,
-            "average": 4.776983
+            "count": 8525,
+            "average": 4.777009
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3576,8 +3790,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10227,
-            "average": 4.671751
+            "count": 10228,
+            "average": 4.6717834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3741,8 +3955,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2417,
-            "average": 4.699214
+            "count": 2419,
+            "average": 4.6994624
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3871,8 +4085,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 8524,
-            "average": 4.776983
+            "count": 8525,
+            "average": 4.777009
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3994,8 +4208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10227,
-            "average": 4.671751
+            "count": 10228,
+            "average": 4.6717834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4051,6 +4265,216 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-virtualization-sharing-cloud-resources.md",
+      "title": "Virtualization - Sharing cloud resources",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Dive deeper into how the cloud works by understanding virtualization. How are computing power, memory, input and output, networking, and storage virtualized?",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/",
+      "length": "PT3H22M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-share-cloud-resources.md",
+          "title": "Share cloud resources",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Get an introduction to virtualization, one of the many technologies that power the cloud. Learn what virtualization is, its benefits, and how cloud resources are shared.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-share-cloud-resources/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-share-cloud-resources/",
+          "length": "PT54M",
+          "ratings": {
+            "count": 174,
+            "average": 4.586207
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-virtualization.md",
+          "title": "Understand virtualization",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualization/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization-developer/",
+          "length": "PT21M",
+          "ratings": {
+            "count": 122,
+            "average": 4.557377
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-virtualize-computing-power.md",
+          "title": "Virtualize computing power",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about how computing power is virtualized using virtual CPUs. Covers different types of CPU virtualization.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-computing-power/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-computing-power/",
+          "length": "PT33M",
+          "ratings": {
+            "count": 87,
+            "average": 4.3103447
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-computing-power-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-virtualize-memory.md",
+          "title": "Virtualize memory",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how memory is virtualized to support cloud resources. Covers different types of memory mapping and related issues.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-memory/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-memory/",
+          "length": "PT19M",
+          "ratings": {
+            "count": 81,
+            "average": 4.4074073
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-memory-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
+          "width": 1000,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-concepts-of-non-relational-data.md",
       "title": "Explore concepts of non-relational data",
       "excerpt": "Explore concepts of non-relational data",
@@ -4058,8 +4482,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/",
       "length": "PT26M",
       "ratings": {
-        "count": 2285,
-        "average": 4.8148794
+        "count": 2288,
+        "average": 4.8138113
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4163,8 +4587,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 4728,
-            "average": 4.6577835
+            "count": 4729,
+            "average": 4.657856
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4337,8 +4761,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 8747,
-            "average": 4.664342
+            "count": 8749,
+            "average": 4.6644187
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4539,8 +4963,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 6312,
-            "average": 4.709601
+            "count": 6320,
+            "average": 4.7098103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4626,8 +5050,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
           "length": "PT59M",
           "ratings": {
-            "count": 1389,
-            "average": 4.5802736
+            "count": 1390,
+            "average": 4.579856
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4730,414 +5154,6 @@
         "Migration",
         "Web",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure.md",
-      "title": "Architect secure infrastructure in Azure",
-      "excerpt": "Learn about the tools and services available on Azure to ensure your resources are secure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure/",
-      "length": "PT6H37M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-resolve-threats-with-azure-security-center.md",
-          "title": "Resolve security threats with Azure Security Center",
-          "excerpt": "In this module, you’ll use the alert capabilities of Azure Security Center to watch for and respond to threats.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-resolve-threats-with-azure-security-center/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 1473,
-            "average": 4.600815
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
-          "title": "Secure your Azure virtual machine disks",
-          "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
-          "length": "PT1H1M",
-          "ratings": {
-            "count": 3412,
-            "average": 4.689625
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Storage",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault.md",
-          "title": "Manage secrets in your server apps with Azure Key Vault",
-          "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
-          "length": "PT46M",
-          "ratings": {
-            "count": 1872,
-            "average": 4.593483
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security",
-            "Compute",
-            "Web"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-azure-resources-with-rbac.md",
-          "title": "Secure your Azure resources with role-based access control (RBAC)",
-          "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-resources-with-rbac/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 6703,
-            "average": 4.6811876
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 57,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools",
-        "Networking",
-        "Security",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-az-104-configure-and-manage-virtual-networks-for-azure-administrators.md",
-      "title": "AZ-104: Configure and manage virtual networks for Azure administrators",
-      "excerpt": "Learn how to configure key Azure network capabilities and prepare for Exam AZ-104: Microsoft Azure Administrator.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-configure-and-manage-virtual-networks-for-azure-administrators/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-configure-and-manage-virtual-networks-for-azure-administrators/",
-      "length": "PT11H2M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
-          "title": "Configure the network for your virtual machines",
-          "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
-          "length": "PT1H34M",
-          "ratings": {
-            "count": 8462,
-            "average": 4.6549277
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 57,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Networking"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-design-ip-addressing-for-azure.md",
-          "title": "Design an IP addressing schema for your Azure deployment",
-          "excerpt": "In this module, you will learn how to plan and implement an IP addressing scheme for virtual networks and virtual machines in Azure.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-ip-addressing-for-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 3395,
-            "average": 4.7905746
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/design-ip-addressing-for-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering.md",
-          "title": "Distribute your services across Azure virtual networks and integrate them by using virtual network peering",
-          "excerpt": "Use virtual network peering to enable communication across virtual networks in a way that's secure and minimally complex.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
-          "length": "PT42M",
-          "ratings": {
-            "count": 5228,
-            "average": 4.7530603
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
-          "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
-          "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 8793,
-            "average": 4.667008
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking",
-            "Security"
-          ]
-        }
-      ],
-      "size": 13,
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-ip-addressing-for-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Networking"
       ]
     }
   ],
