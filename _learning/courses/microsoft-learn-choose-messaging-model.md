@@ -8,7 +8,7 @@ length: PT45M
 ratings:
   count: 4017
   average: 4.612895
-heat: 53
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - IoT
   - Analytics
 
-secured: "JaKz87VNwt5o1dJjfZrh/eOwTngqwwjJFZby0gayNO6EmGIoKqCdI1hIUM/0OjuFNXVWbiKO9FNLfFVYkICDV83Ay9TzS2kkSe1ecdEv2SBwGNjVE3a07hKWOZh0Ln8c5TZKaAgYzgi7o/Dkh7Rdw/sYmCswpxBSgwHKvrNzwmz4ewPPDs5UL16nWpUqbOOmBIAhZb7xPaP8if5dfV2GGynr90akbLzJuDyO8GBHodVxDY/Bo5ded6vZWEIe1g3y8y/Z4IvToYISlhYjnmukKz08+NY8G7t1VpRa8vTa4WrhM0cqgWp0qIcclYKVJkHmfNFF3vfcoM4IIlhz6Ge0yEQLomJaInFkt1Ywm0owtTDceYpBWuLPXJlECTFl4vNiqs0SPW1JtghtaxjSqu6ZfqYZ+N1vAyvPMJ2ihfzYV0E=;hEsDsx9YO8IBoDujZYvajA=="
+secured: "k4gTDUDJ2BVAY68M6SjLf5CnJ/NiexmrKriglL2PnEyCEYnpChjsv9xU5+Sur21DoWJYxYF0k/rrWwZPcyMI4B9nn0ut9H3UQk9UAZ58BEQC8VviaWQfX3h9UI5EJmpBUTkA/h/TNosSV4M1eSfkCY+6DqRfq//iTCo33yUqI4kjWCiPUY++0i+Uut/GveSky/KKQFg0eW6PdRCLBhvaB/+OCk2kT9BkG5nRO5NI+l9ueF8WL22RJMtvKbAy31wCeKYB9ntqU5LDasnLixDKbpPKXi+pO1Z6BKQrlhBLSIo6V//kU7Gnr0K2L5abIh/sVQhP3JHCPQTQlkZgEdrffGbt0bEpKIOpNGJZqSh7+e63QQs2YmptPeDx5n3cSTOyqHVezfF3rfTKIWr9TfeO8NF7Khbbtt5BZom8bmq8gKE=;+L13E+q2bKayIFevEGUhNA=="
 ---
 

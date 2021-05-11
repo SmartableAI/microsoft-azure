@@ -4,7 +4,7 @@ excerpt: "Learn how to architect a secure, flexible, network infrastructure in A
 type: collection
 price: Free
 length: PT8H59M
-heat: 66
+heat: 67
 
 provider:
   name: Microsoft Learn

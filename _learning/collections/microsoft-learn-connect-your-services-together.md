@@ -4,7 +4,7 @@ excerpt: "Use Azure to create website front-ends, back-end services, and trigger
 type: collection
 price: Free
 length: PT3H31M
-heat: 63
+heat: 66
 
 provider:
   name: Microsoft Learn
