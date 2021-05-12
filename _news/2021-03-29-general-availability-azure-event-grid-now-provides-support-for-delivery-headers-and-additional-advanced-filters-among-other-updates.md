@@ -343,6 +343,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 59
+  - title: "General availability: Announcing lower pricing for provisioned throughput on Azure Ultra Disks"
+    excerpt: "Provisioned throughput price on Azure Ultra Disks is reduced by 65% in all regions where Ultra Disks are available"
+    publishedDateTime: 2021-05-12T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-announcing-lower-pricing-for-provisioned-throughput-on-azure-ultra-disks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 55
   - title: "General availability: Virtual machine (VM) level disk bursting available on all Dsv3 and Esv3 families"
     excerpt: "Virtual machine (VM) level disk bursting enables your workloads to handle unforeseen disk traffic spikes smoothly without the need to overprovision your virtual machine. The feature is now enabled on all Dsv3-series and Esv3-series virtual machines."
     publishedDateTime: 2021-03-31T16:00:57Z

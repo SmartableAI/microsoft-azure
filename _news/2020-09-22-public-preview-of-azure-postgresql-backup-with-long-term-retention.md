@@ -58,6 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 88
+  - title: "The public preview of Azure Database for PostgreSQL – Flexible Server now supported in new regions"
+    excerpt: "Provision new Flexible Server deployments in France Central and Brazil South regions for Azure Database for PostgreSQL, a managed service running the open source Postgres database on Azure."
+    publishedDateTime: 2021-05-12T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/the-public-preview-of-azure-database-for-postgresql-flexible-server-now-supported-in-new-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 85
   - title: "Minimal TLS version setting is now available for Azure Database for PostgreSQL"
     excerpt: ""
     publishedDateTime: 2020-06-04T17:00:39Z

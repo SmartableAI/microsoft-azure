@@ -2,22 +2,65 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-28-azure-database-for-postgresql-flexible-server-public-preview-managed-pgbouncer-in-public-preview.md",
-      "title": "Azure Database for PostgreSQL – Flexible Server (public preview) managed PgBouncer in public preview",
-      "excerpt": "PgBouncer, a popular connection pooler for Postgres, is now part of the Azure Database for PostgreSQL - Flexible Server (preview) managed service.",
+      "path": "_news/2021-05-12-capacity-calculator-with-azure-cosmos-db-api-for-mongodb-now-generally-available.md",
+      "title": "Capacity calculator with Azure Cosmos DB API for MongoDB now generally available",
+      "excerpt": "Use the Azure Cosmos DB capacity calculator to estimate your RU/s for your API for MongoDB workloads.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-managed-pgbouncer-in-public-preview/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-managed-pgbouncer-in-public-preview/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/capacity-calculator-with-azure-cosmos-db-api-for-mongodb-now-generally-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/capacity-calculator-with-azure-cosmos-db-api-for-mongodb-now-generally-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T09:00:59-07:00",
+      "publishedDateTime": "2021-05-12T09:00:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-azure-database-for-postgresql-flexible-server-with-managed-pgbouncer-in-preview.md",
+      "title": "Azure Database for PostgreSQL – Flexible Server with managed PgBouncer in preview",
+      "excerpt": "PgBouncer, a popular connection pooler for Postgres, is now part of the Azure Database for PostgreSQL - Flexible Server managed service",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-with-managed-pgbouncer-in-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-with-managed-pgbouncer-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T09:00:18-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -1086,7 +1129,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/tdigest-extension-for-azure-database-for-postgresql-hyperscale-citus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 218,
+      "heat": 238,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1290,50 +1333,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-spring-data-azure-cosmos-db-sdk-v300-release-now-available.md",
-      "title": "Spring Data Azure Cosmos DB SDK v3.0.0 release now available",
-      "excerpt": "Now you can use the Spring Data framework with the Azure Cosmos DB Core (SQL) API. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/spring-data-azure-cosmos-db-sdk-v300-release-now-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/spring-data-azure-cosmos-db-sdk-v300-release-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T09:01:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases",
-        "Developer tools"
       ]
     }
   ],

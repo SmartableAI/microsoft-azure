@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/tdigest-extension-for-az
 webUrl: "https://azure.microsoft.com/en-us/updates/tdigest-extension-for-azure-database-for-postgresql-hyperscale-citus/"
 type: article
 quality: 98
-heat: 218
+heat: 238
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 97
+  - title: "Azure Database for PostgreSQL – Hyperscale (Citus) managed PgBouncer in public preview"
+    excerpt: "PgBouncer, a popular connection pooler for Postgres, is now part of the Azure Database for PostgreSQL - Hyperscale (Citus) managed service."
+    publishedDateTime: 2021-05-12T16:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-managed-pgbouncer-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
   - title: "Azure Database for PostgreSQL – Hyperscale (Citus) maintenance schedules in public preview"
     excerpt: "Now Hyperscale (Citus) supports custom schedules for maintenance – specify your preferred day of the week and 30-minute time window."
     publishedDateTime: 2021-04-14T16:00:46Z

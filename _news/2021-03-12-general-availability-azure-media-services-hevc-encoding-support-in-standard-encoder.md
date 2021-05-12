@@ -333,6 +333,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 61
+  - title: "General availability: Announcing lower pricing for provisioned throughput on Azure Ultra Disks"
+    excerpt: "Provisioned throughput price on Azure Ultra Disks is reduced by 65% in all regions where Ultra Disks are available"
+    publishedDateTime: 2021-05-12T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-announcing-lower-pricing-for-provisioned-throughput-on-azure-ultra-disks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 55
   - title: "General availability: Azure Event Grid now provides support for delivery headers and additional advanced filters among other updates"
     excerpt: "Azure Event Grid now supports additional advanced filters, setting customer headers on requests delivering events, configuring TTL on messages delivered to Azure Storage Queues, and setting system-assigned managed identities on regional System Topics."
     publishedDateTime: 2021-03-29T23:33:55Z

@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 97
+  - title: "Azure Database for PostgreSQL – Hyperscale (Citus) managed PgBouncer in public preview"
+    excerpt: "PgBouncer, a popular connection pooler for Postgres, is now part of the Azure Database for PostgreSQL - Hyperscale (Citus) managed service."
+    publishedDateTime: 2021-05-12T16:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-managed-pgbouncer-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
   - title: "Azure Database for PostgreSQL – Hyperscale (Citus) same region read replicas in public preview"
     excerpt: "Now you can create read replicas of your Hyperscale (Citus) server group for enhanced read scalability."
     publishedDateTime: 2021-04-14T16:01:07Z

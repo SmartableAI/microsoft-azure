@@ -22,15 +22,33 @@ topics:
   - Azure
 
 related:
-  - title: "Upgrade your infrastructure with the latest Dv5/Ev5 Azure VMs in preview"
-    excerpt: "On April 6, Microsoft participated in the launch of the 3rd Gen Intel® Xeon® Scalable processors. Intel and Microsoft announced the upcoming preview of Azure Confidential Computing and general-purpose Microsoft Azure Virtual Machines. "
-    publishedDateTime: 2021-04-26T11:00:12Z
-    webUrl: "https://azure.microsoft.com/blog/upgrade-your-infrastructure-with-the-latest-dv5ev5-azure-vms-in-preview/"
+  - title: "Azure Site Recovery now supports Azure Policy in public preview"
+    excerpt: "Leverage Azure Policy to enable Azure Site Recovery for your VMs at scale and ensure organizational standards."
+    publishedDateTime: 2021-04-29T15:43:58Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asr-policy-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 68
+    quality: 84
+  - title: "Azure Site Recovery now supports proximity placement groups"
+    excerpt: ""
+    publishedDateTime: 2020-05-29T01:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-now-supports-proximity-placement-groups/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Site Recovery now supports replication with private links"
+    excerpt: "Ensure a secure channel for replication of your Azure and on-premises workloads with the help of private links capability of Azure and Site Recovery."
+    publishedDateTime: 2020-07-14T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-now-supports-replication-with-private-links/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "jSkrXuxoPbOh3zj+9YXrgs8OgP09x2RLCo+k1boZ6+w0YptRHFeNiSiKg+sh38L2ueoBtj++CFKJU8GLX7qLbvFkcLYJthzpNT7C9Yw3tBUIUBDQQPbCEPaIr7YxgemBvaDgudzBMxi0hTPGwSyr4TBXhCAw7TH2dAY2WRVrl8vmTs11++9Aawxra2wdqEBxA99QPyVnqB3KDjunYQX/iIq3/lX5vH95/h85G2BVR3fW4eSeYcWkzRHIylqjVOG5hjkGPUp1h5Sl0pUY8xUHuX0Ce0ccM4DrfR0I/9ZNRhaohdN+wtYdNz2QNy0t/ZKfnygwF0ogit3u43iuMvmXmgUNtinxC7q0T1la2Sxa2NY=;V/2cGhVj16zjE0eEBGjZ+w=="
 ---

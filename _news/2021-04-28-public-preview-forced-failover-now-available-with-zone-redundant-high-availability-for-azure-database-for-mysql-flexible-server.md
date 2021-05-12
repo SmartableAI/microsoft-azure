@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Database for MySQL - Flexible Server: PowerShell Module in public preview"
+    excerpt: "Use PowerShell to manage dependent resources and Azure Database for MySQL-  Flexible Servers. "
+    publishedDateTime: 2021-05-12T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-powershell-module-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
   - title: "Public preview: Azure Database for PostgreSQL – Flexible Server intelligent performance"
     excerpt: "The latest preview release of intelligent performance on Azure Database for PostgreSQL – Flexible Server on Postgres 11 and 12 is now available."
     publishedDateTime: 2021-04-28T16:01:21Z
@@ -77,6 +86,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Public preview: Azure Database for MySQL– Flexible Server: Announcing SSL enforcement and minimum TLS version choice"
+    excerpt: "Now you can choose to enforce encrypted connection or Transport Layer Support version on Azure Database for MySQL - Flexible Server."
+    publishedDateTime: 2021-05-12T16:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-announcing-ssl-enforcement-and-minimum-tls-version-choice/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
   - title: "App-consistent backup for Oracle and MySQL DBs in preview"
     excerpt: "Pre-packaged script based solution to get application consistent snapshots for Oracle and MySQL DBs. Just provide connection information and workload name and leverage the instant restore benefit of Azure VM backups and minimize costs by selectively include/excluding relevant disks."
     publishedDateTime: 2020-09-22T16:03:18Z

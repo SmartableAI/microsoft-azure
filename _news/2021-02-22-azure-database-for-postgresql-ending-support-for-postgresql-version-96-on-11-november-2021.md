@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "The public preview of Azure Database for PostgreSQL – Flexible Server now supported in new regions"
+    excerpt: "Provision new Flexible Server deployments in France Central and Brazil South regions for Azure Database for PostgreSQL, a managed service running the open source Postgres database on Azure."
+    publishedDateTime: 2021-05-12T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/the-public-preview-of-azure-database-for-postgresql-flexible-server-now-supported-in-new-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 85
   - title: "Public preview of Azure PostgreSQL backup with long term retention "
     excerpt: "Now you can retain backups for up to 10 years by defining your own backup and retention policy for individual databases on PostgreSQL servers."
     publishedDateTime: 2020-09-22T16:03:01Z

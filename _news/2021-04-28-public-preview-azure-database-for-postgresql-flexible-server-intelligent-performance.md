@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Database for MySQL - Flexible Server: PowerShell Module in public preview"
+    excerpt: "Use PowerShell to manage dependent resources and Azure Database for MySQL-  Flexible Servers. "
+    publishedDateTime: 2021-05-12T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-powershell-module-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
   - title: "The public preview of Azure Database for MySQL – Flexible Server is available in two new regions"
     excerpt: "France Central and Brazil South regions are now available deployment options for the public preview of Azure Database for MySQL – Flexible Server."
     publishedDateTime: 2021-04-28T16:01:37Z
@@ -68,6 +77,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Public preview: Azure Database for MySQL– Flexible Server: Announcing SSL enforcement and minimum TLS version choice"
+    excerpt: "Now you can choose to enforce encrypted connection or Transport Layer Support version on Azure Database for MySQL - Flexible Server."
+    publishedDateTime: 2021-05-12T16:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-announcing-ssl-enforcement-and-minimum-tls-version-choice/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
   - title: "Public preview: Forced failover now available with zone redundant high availability for Azure Database for MySQL - Flexible Server"
     excerpt: "Flexible Server forced failover capability is now available in all zone redundant regions. "
     publishedDateTime: 2021-04-28T16:02:15Z
