@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public preview: Prevent Shared Key authorization on Azure Storage accounts "
-excerpt: "Enhance secure access to Azure Storage accounts with Prevent Shared Key authorization."
-publishedDateTime: 2021-01-21T17:02:50Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/prevent-shared-key-authorization-on-azure-storage-accounts/"
-webUrl: "https://azure.microsoft.com/en-us/updates/prevent-shared-key-authorization-on-azure-storage-accounts/"
+title: "Public preview: Application Gateway Mutual Authentication"
+excerpt: "Application Gateway now supports fronted mutual authentication and listener specific SSL policies."
+publishedDateTime: 2021-05-12T18:03:59Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-gateway-mutual-authentication/"
+webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-gateway-mutual-authentication/"
 type: article
-quality: 82
+quality: 69
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Storage
+  - Networking
 
 related:
   - title: "dPublic preview: Event Grid integration with AKS"
@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
+  - title: "Public preview: Prevent Shared Key authorization on Azure Storage accounts "
+    excerpt: "Enhance secure access to Azure Storage accounts with Prevent Shared Key authorization."
+    publishedDateTime: 2021-01-21T17:02:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/prevent-shared-key-authorization-on-azure-storage-accounts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
   - title: "Public preview: Automatic Cluster Upgrades in AKS"
     excerpt: "AKS simplifies the task of deploying new Kubernetes releases by enabling users to configure automatic cluster upgrades."
     publishedDateTime: 2021-01-21T17:03:14Z
@@ -63,15 +72,6 @@ related:
     excerpt: "Use Calico network policy with Windows Server on AKS."
     publishedDateTime: 2021-03-02T17:00:08Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-calico-windows-support-in-aks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-  - title: "Public preview: Application Gateway Mutual Authentication"
-    excerpt: "Application Gateway now supports fronted mutual authentication and listener specific SSL policies."
-    publishedDateTime: 2021-05-12T18:03:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-gateway-mutual-authentication/"
     type: article
     provider:
       name: Microsoft
@@ -150,6 +150,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "Boi3GSaBauGWiL/5ZGttaef0wYwWZvFkhoQaOhwCrBrPOlIHhdxknWgI5MgwLBewhLtFLgF5maaPStn2LPAl7WMZNEGWyJuw9ScYTSEF88zOiQsMTI2fBZ29HOr6igKed9qxxOBtW1rzv3DfeUPI/FqPH+ZA9qVC54WuaPTE2+dpTkLQa2QAgeJsQJrfE7vD9wx+cTSX97+1YmpLlnN986keSoDmJz9m2uBguixOESb6tqvlkafIQZwHUltXmxV1af0t4eGovRHA38vXnyWCjF/LlCcnDBx179tVuMFpWwzsrtkMlau9OIaIW1ONLZpaJ9rXAB8KMSNAekkUb1cTCu8j4nlozALvwb/iyIZJxPM=;4wMVy3L33Y97/iTGaGnTbQ=="
+secured: "N7XVlB1ouLzXpjvecbxtZZ5FMdKhH3ZlwgUgrKPJsoQFxrPpm4aB5ElBwpSFDFJDZGGuLs44CCO2x/bTTa8TuFeKgXv2EEDsQzg0GN5ADk7LUnhnCoxGR4cOF025n8Tn90cPxM5R2Wku98xac6TvSteDR/j1W0AU72TVTH631tLieBFrzal6W62Qn6GwQoAlKl/BrCBXl4S2Qnez+sMu9jTETz+j2UhH2ibxqgMCGCoGb2V9KWuqc+V1CVAKO4ZBosjUUAa5M+E+Y2kIr/MNg/dRkNjUxyGwNqmG/zx/DPMI803tINScuk7YxdJ/c8JeQW2crA84+K+SBU5RnJfXzyjY9O0vXN1UxWsJmNUCFzU=;fdTyQz1d6naOuSmRKO1eQQ=="
 ---
 

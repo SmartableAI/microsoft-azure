@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-gri
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-grid-integration-with-aks/"
 type: article
 quality: 101
-heat: 361
+heat: 381
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
     excerpt: "Use Calico network policy with Windows Server on AKS."
     publishedDateTime: 2021-03-02T17:00:08Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-calico-windows-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Public preview: Application Gateway Mutual Authentication"
+    excerpt: "Application Gateway now supports fronted mutual authentication and listener specific SSL policies."
+    publishedDateTime: 2021-05-12T18:03:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-gateway-mutual-authentication/"
     type: article
     provider:
       name: Microsoft

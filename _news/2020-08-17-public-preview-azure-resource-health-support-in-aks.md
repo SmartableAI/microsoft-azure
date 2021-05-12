@@ -75,6 +75,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Public preview: Application Gateway Mutual Authentication"
+    excerpt: "Application Gateway now supports fronted mutual authentication and listener specific SSL policies."
+    publishedDateTime: 2021-05-12T18:03:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-gateway-mutual-authentication/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Public preview: Azure Purview is now available in the Central India region"
     excerpt: "Azure Purview is now available in public preview in the Central India region. You can now provision Azure Purview accounts in these regions as a public preview offering. "
     publishedDateTime: 2021-04-08T19:11:56Z

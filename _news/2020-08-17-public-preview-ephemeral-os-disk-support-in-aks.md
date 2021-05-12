@@ -75,6 +75,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Public preview: Application Gateway Mutual Authentication"
+    excerpt: "Application Gateway now supports fronted mutual authentication and listener specific SSL policies."
+    publishedDateTime: 2021-05-12T18:03:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-gateway-mutual-authentication/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Public preview: Azure Resource Health support in AKS "
     excerpt: "You can now easily see when your AKS resources were unavailable due to any problems encountered as well as under any maintenance operation."
     publishedDateTime: 2020-08-17T23:01:22Z
