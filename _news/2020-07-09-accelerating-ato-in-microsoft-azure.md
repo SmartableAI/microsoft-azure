@@ -1387,6 +1387,20 @@ related:
         width: 2560
         height: 1840
         isCached: true
+  - title: "Check Point and Microsoft Azure Virtual WAN"
+    excerpt: "Microsoft and Check Point have partnered to bring simple and secure connectivity from Check Point branch gateways to the Microsoft Azure Virtual WAN."
+    publishedDateTime: 2021-05-03T13:34:00Z
+    webUrl: "https://www.checkpoint.com/cloudguard/microsoft-azure-security/wan/"
+    type: article
+    provider:
+      name: Check Point Software
+      domain: checkpoint.com
+    quality: 37
+    images:
+      - url: "https://www.checkpoint.com/wp-content/uploads/infinity_architecture-feature-image.png"
+        width: 352
+        height: 332
+        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z

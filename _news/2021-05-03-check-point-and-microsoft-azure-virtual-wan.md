@@ -1,30 +1,26 @@
 ---
 category: news
-title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
-excerpt: "CoreSite Realty Corporation (NYSE:COR) (“CoreSite,” or the “Company”), a premier provider of secure, reliable, high-performance data center, cloud access"
-publishedDateTime: 2021-03-16T19:52:00Z
-originalUrl: "https://www.marketwatch.com/press-release/coresite-boosts-hybrid-cloud-with-on-net-connectivity-in-chicago-to-microsoft-azure-expressroute-2021-03-16"
-webUrl: "https://www.marketwatch.com/press-release/coresite-boosts-hybrid-cloud-with-on-net-connectivity-in-chicago-to-microsoft-azure-expressroute-2021-03-16"
+title: "Check Point and Microsoft Azure Virtual WAN"
+excerpt: "Microsoft and Check Point have partnered to bring simple and secure connectivity from Check Point branch gateways to the Microsoft Azure Virtual WAN."
+publishedDateTime: 2021-05-03T13:34:00Z
+originalUrl: "https://www.checkpoint.com/cloudguard/microsoft-azure-security/wan/"
+webUrl: "https://www.checkpoint.com/cloudguard/microsoft-azure-security/wan/"
 type: article
-quality: 64
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Check Point Software
+  domain: checkpoint.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.checkpoint.com/wp-content/uploads/infinity_architecture-feature-image.png"
+    width: 352
+    height: 332
     isCached: true
 
 related:
@@ -439,6 +435,20 @@ related:
     quality: 69
     images:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
+    excerpt: "CoreSite Realty Corporation (NYSE:COR) (“CoreSite,” or the “Company”), a premier provider of secure, reliable, high-performance data center, cloud access"
+    publishedDateTime: 2021-03-16T19:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/coresite-boosts-hybrid-cloud-with-on-net-connectivity-in-chicago-to-microsoft-azure-expressroute-2021-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
@@ -1388,20 +1398,6 @@ related:
         width: 2560
         height: 1840
         isCached: true
-  - title: "Check Point and Microsoft Azure Virtual WAN"
-    excerpt: "Microsoft and Check Point have partnered to bring simple and secure connectivity from Check Point branch gateways to the Microsoft Azure Virtual WAN."
-    publishedDateTime: 2021-05-03T13:34:00Z
-    webUrl: "https://www.checkpoint.com/cloudguard/microsoft-azure-security/wan/"
-    type: article
-    provider:
-      name: Check Point Software
-      domain: checkpoint.com
-    quality: 37
-    images:
-      - url: "https://www.checkpoint.com/wp-content/uploads/infinity_architecture-feature-image.png"
-        width: 352
-        height: 332
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -1973,6 +1969,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "cmYnHU6kJiiR2Bw7c99pIoOnNv55QPAoFnI8mFa0Y1PTs2EnEw17zI4FjOBQFJHPZJsTmMxfKPyW51clb33NXMBIIH9atk/AAUtA8v00gYRiLKz+rh/pyit39VduZUP6WJa/+eXDxG0puvLmoHnsNdOkIR2uYAH6nnuU1pzJ6+IC6U2K64XFQD2e2RmLJWLoz0W62Zanhpyz85fYLgPqYIs91N2beNmbV9xvdZt+piFC+L522GAP+Ayjyzb0WzY3AjXlxYF7uaqXHmq22v5Qs/kmhZqYbbk0JPiPJpo3ETpSwqtcT1veYZu7U35pMmT/1gkQfJU74eMwcThFr+iomk++qQb1fRGCy/OQQaR1KKQ=;Cl0ZtYkFL8xy+9c6Uko7eQ=="
+secured: "TETD0WvJ9l5GZjywaNfWslYDwkL1IUPxwBawFYfh1wh8/2PmwTYH9m6fKbpDi4jqyjFO/Bn4TedjssTTVo44s7g76q7zHBtl4RtHKKn85LfTGmsYD8/XNlr8Sg0i4glaOrZma2wMab2GuIAevcILiKd7oknmsThWBlVM9ePNpBIp0/qR5G2KWV/76m5qwOu2qSOB9XFY5qKRdiEvP8RFYw7RpvOEEjMOGgrnpCkJiHMs5iZf4nQ06T4axHiar+0ZYPFAfF4MFCbNnwoIB2pIovuEocwCCCoKboXLJVcL6fRz05m/gd81CPGF0qK+I1hNTBob+aAQNR3N1BUaSQrBtf+PDAbkKdGSS1UAtmwlH70=;NCdpiykafhUvCY+qboGr6Q=="
 ---
 

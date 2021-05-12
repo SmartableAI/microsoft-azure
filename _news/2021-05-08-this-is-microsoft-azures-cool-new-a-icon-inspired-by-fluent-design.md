@@ -194,6 +194,20 @@ related:
         width: 2084
         height: 1090
         isCached: true
+  - title: "Microsoft Azure Monthly Update: May 2021, Episode 4"
+    excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
+    publishedDateTime: 2021-05-04T20:25:00Z
+    webUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-may-2021-episode-4"
+    type: article
+    provider:
+      name: Pluralsight
+      domain: pluralsight.com
+    quality: 37
+    images:
+      - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
+        width: 1280
+        height: 721
+        isCached: true
   - title: "Microsoft buys Linux distribution maker Kinvolk to boost Azure cloud services"
     excerpt: "Microsoft Corp. has bought Kinvolk GmbH, the Berlin-based startup behind a specialized Linux distribution used to power software container environments on Azure and other public clouds. The technology giant announced the deal today in a post on its Azure blog."
     publishedDateTime: 2021-04-29T20:49:00Z

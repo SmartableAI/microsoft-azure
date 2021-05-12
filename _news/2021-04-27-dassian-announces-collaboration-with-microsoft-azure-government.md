@@ -180,6 +180,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 38
+  - title: "Microsoft Azure Monthly Update: May 2021, Episode 4"
+    excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
+    publishedDateTime: 2021-05-04T20:25:00Z
+    webUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-may-2021-episode-4"
+    type: article
+    provider:
+      name: Pluralsight
+      domain: pluralsight.com
+    quality: 37
+    images:
+      - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
+        width: 1280
+        height: 721
+        isCached: true
   - title: "This is Microsoft Azure's cool new \"A\" icon, inspired by Fluent Design"
     excerpt: "Microsoft revealed a new Fluent-design-inspired icon for Azure, now bringing it up to speed with the rest of Microsoft's product lineup."
     publishedDateTime: 2021-05-08T03:37:00Z

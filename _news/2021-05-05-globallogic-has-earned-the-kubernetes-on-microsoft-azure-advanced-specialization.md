@@ -1,18 +1,18 @@
 ---
 category: news
 title: "GlobalLogic Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
-excerpt: "GlobalLogic Inc., a leader in Digital Product Engineering, today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge,"
-publishedDateTime: 2021-05-05T12:30:00Z
-originalUrl: "https://www.financialbuzz.com/globallogic-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
-webUrl: "https://www.financialbuzz.com/globallogic-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+excerpt: "GlobalLogic Inc., a leader in Digital Product Engineering, today announced it has earned the Kubernetes on Microsoft (News - Alert) Azure advanced specialization, a validation of a solution partner's deep knowledge,"
+publishedDateTime: 2021-05-05T12:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-globallogic-has-earned-kubernetes-microsoft-azure-advanced-specialization-/2021/05/05/9361943.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-globallogic-has-earned-kubernetes-microsoft-azure-advanced-specialization-/2021/05/05/9361943.htm"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -508,6 +508,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "wap38k/qpOe5+wUamM2urQCjBo4v1eyN5wEGLpXAASR1m6KqqQ6Dsd5ByqEu5hJt6L9bonzIlGBrJfSlAWsRl0fw3Rlr63XcTf2R43OSvkD6U7y7JZP2DI8MRr3lUZaf/zQAEMG/tKBc1ChMOqjQqSEAk0V+fo3OdmFCT6A9AJ93gtmHhwBoVCp1ozERFD8YA4eFMkEmv8L0CEWgaCcj3s+EogN+D4P4v9ELeneOIuX0hbBEW5obikYhwYik+ta+Rv1wWRIT8jwGSZmlXZaXUb+4KAEcN9hdYYlyGJll9VVkw0fXxA+IvW9WcvMyT1hrg01KdRaNnGequkhPOVfima9CRecDTnH1Igips95rq54=;bGP7Oy6G/CbFW6TDTZHT3g=="
+secured: "AOjFk8WPWyNqK8g/4E23QOIeQ0sVYM8tBBjldgA0+Ir2fTF5+PUtHKoOL/QLqYylfSXf7o2fnUQ9+BxVStRstGLedf6IfmoA4MDzxmKPaQakMwdDjjMAuzcpUes1PyY6Rgvzhrg3G1FAlE+dkmqxL/IpZlHewzsSxAGL1tzIarqhYDtLYNfzhtuL3M/33JkT7ssHsGlo5+0Vz8ZcNUYsPkcXjPI/T9CC36BPutx4DVoMeO0mhrKQGl2OwcFDM26bf2yZeLSdmVx+SA9IP+tSC+8wfvj6DQbo7T8qjSSHKZm0QBdWw3MOzkLrVKAVEx0SGMSadQH5BOLymFBgIKSvFUKwh5kll1ld8RGNe+1USU0=;WCqToW4doSejPB5TOYla/g=="
 ---
 

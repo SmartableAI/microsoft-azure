@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Unisys Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "BLUE BELL, Pa., May 5, 2021 /PRNewswire/ -- (NYSE: UIS) today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a"
-publishedDateTime: 2021-05-05T11:58:00Z
-originalUrl: "https://www.dailylocal.com/news/state/unisys-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization/article_9c7af2e2-c949-511c-a19c-939a2a625bd4.html"
-webUrl: "https://www.dailylocal.com/news/state/unisys-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization/article_9c7af2e2-c949-511c-a19c-939a2a625bd4.html"
+title: "Microsoft Azure Monthly Update: May 2021, Episode 4"
+excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
+publishedDateTime: 2021-05-04T20:25:00Z
+originalUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-may-2021-episode-4"
+webUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-may-2021-episode-4"
 type: article
-quality: 40
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Daily Local News
-  domain: dailylocal.com
+  name: Pluralsight
+  domain: pluralsight.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/pluralsight.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Migration
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/custom/image/2d4590ae-4fab-11e8-9727-cfe5c01d44d3.png"
-    width: 750
-    height: 750
+  - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
+    width: 1280
+    height: 721
     isCached: true
 
 related:
@@ -156,6 +159,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Unisys Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "BLUE BELL, Pa., May 5, 2021 /PRNewswire/ -- (NYSE: UIS) today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a"
+    publishedDateTime: 2021-05-05T11:58:00Z
+    webUrl: "https://www.dailylocal.com/news/state/unisys-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization/article_9c7af2e2-c949-511c-a19c-939a2a625bd4.html"
+    type: article
+    provider:
+      name: Daily Local News
+      domain: dailylocal.com
+    quality: 40
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/custom/image/2d4590ae-4fab-11e8-9727-cfe5c01d44d3.png"
+        width: 750
+        height: 750
+        isCached: true
   - title: "Softline Earns the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
     excerpt: "LONDON United Kingdom May 06 2021 In March 2021 Softline received Linux and Open Source Databases Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and proven expertise in migrating workloads running"
     publishedDateTime: 2021-05-06T14:15:00Z
@@ -180,20 +197,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
         width: 2084
         height: 1090
-        isCached: true
-  - title: "Microsoft Azure Monthly Update: May 2021, Episode 4"
-    excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
-    publishedDateTime: 2021-05-04T20:25:00Z
-    webUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-may-2021-episode-4"
-    type: article
-    provider:
-      name: Pluralsight
-      domain: pluralsight.com
-    quality: 37
-    images:
-      - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
-        width: 1280
-        height: 721
         isCached: true
   - title: "This is Microsoft Azure's cool new \"A\" icon, inspired by Fluent Design"
     excerpt: "Microsoft revealed a new Fluent-design-inspired icon for Azure, now bringing it up to speed with the rest of Microsoft's product lineup."
@@ -334,6 +337,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "/2Fg1wXenj4uTiZiHkyUtTh/voDfkd3AzHU8BoFluJ2203oc1xQgus9uH9Bm1WZgr6qfcIgvVeJvuuFaK0dW0Fl/LAx+ID59kXnX74j0rNMWQLBc9DB6hTQ8U6Ti6FKTIRuDb0wGAXPdSHL9FL5vqeQHXNTZv05DNJPW2Rx0AagYOdONRR+mi2BuGhAu/BDGyfJkJfbqrECyUDmcjBPKwMuMs/avjm3b4z2jG2eLhsr8iGGJrijLzmrUxomKv2qihr9rUphQYKjQAkN24f89HOEWA+s6YXjFx2mGcs1SJY/9V44rvaq2n+EktnyxF5c4nqAftKEoGOqK7IBFZGEJFkod2ynwcDxZnI+ksgsmiqw=;i365w3oL8S4M4bUiZJCk3A=="
+secured: "p2UW6fIUjcZEdFjK5FRIY+5DOuBNMdfG1DvxNvR/ALV3hxpoLReLPXlHdJWMR1hSyqQSAq7PJNIp4hahoTg19r4xyJMzQSjjGcZGJdnufIS9CvbrV/9VjV/9cRst19hZBlYUrzcN+xt/a46qLWAd+/+Tfe8biP18e9n+oGkqHUUyyoj4/QlGiQ1tiDrhKDy3U5zVI7jPSg4oE+pHW+HPSMlgYECilg2BsIOca8SIvROGOYatAqLiCwLHQPr2WF2LRGysfODpigXVRl0BAzX+/kbgqFKZqMMehTHzE9DLzU5qBC3O6I0ra6KcEZGakmaaDH/cChB2wf+jYGbUjvKF6znQePHr0jIQhV4ouBpY6Qo=;RUfW+BTvaG2dySkDSDw4Lw=="
 ---
 

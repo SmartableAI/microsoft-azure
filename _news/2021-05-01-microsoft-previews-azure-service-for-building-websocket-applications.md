@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3617113/microsoft-previews-azure-s
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html"
 type: article
 quality: 97
-heat: 557
+heat: 577
 published: true
 
 provider:
@@ -183,6 +183,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1230769/Dassian_Logo.jpg?p=facebook"
         width: 2084
         height: 1090
+        isCached: true
+  - title: "Microsoft Azure Monthly Update: May 2021, Episode 4"
+    excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
+    publishedDateTime: 2021-05-04T20:25:00Z
+    webUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-may-2021-episode-4"
+    type: article
+    provider:
+      name: Pluralsight
+      domain: pluralsight.com
+    quality: 37
+    images:
+      - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
+        width: 1280
+        height: 721
         isCached: true
   - title: "This is Microsoft Azure's cool new \"A\" icon, inspired by Fluent Design"
     excerpt: "Microsoft revealed a new Fluent-design-inspired icon for Azure, now bringing it up to speed with the rest of Microsoft's product lineup."
