@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
 type: article
 quality: 73
-heat: 313
+heat: 333
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1190637/Alex_Gregory.jpg?p=facebook"
         width: 1000
         height: 523
+        isCached: true
+  - title: "Datametica now available in the Microsoft Azure Marketplace"
+    excerpt: "Datametica today announced Pelican's availability on the Microsoft Azure Marketplace. Datametica's customers can now take advantage of"
+    publishedDateTime: 2021-05-12T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-301289535.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Microsoft Azure Data VP Rohan Kumar: ‘It's Not Just About The Innovation Piece’"
     excerpt: "Amid the coronavirus pandemic, discussions about the cloud and digital transformation have turned a lot more toward value creation and total cost of ownership, Kumar says."

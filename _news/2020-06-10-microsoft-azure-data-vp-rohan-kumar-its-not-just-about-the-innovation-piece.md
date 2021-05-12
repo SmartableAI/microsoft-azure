@@ -91,6 +91,20 @@ related:
         width: 1000
         height: 523
         isCached: true
+  - title: "Datametica now available in the Microsoft Azure Marketplace"
+    excerpt: "Datametica today announced Pelican's availability on the Microsoft Azure Marketplace. Datametica's customers can now take advantage of"
+    publishedDateTime: 2021-05-12T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-301289535.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "InfiniteIO Announces Integration with Microsoft Azure to Reduce Cloud Latency and Storage Costs"
     excerpt: "Metadata management innovator InfiniteIO today announced new support for Microsoft Azure to dramatically reduce the cost of primary file storage and minimize cloud latency to help enterprises lower capital and operational expenses and increase application performance."
     publishedDateTime: 2020-06-16T07:20:00Z
