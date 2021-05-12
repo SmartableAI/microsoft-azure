@@ -29,14 +29,19 @@ images:
 
 related:
   - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
-    excerpt: "Vectra Cognito now available in the Microsoft Azure Marketplace Streamlined deployment of industry-leading threat d"
-    publishedDateTime: 2021-05-06T07:08:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace"
+    excerpt: "May 6, 2021 /PRNewswire/ -- Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-05-06T12:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Sylogist Ltd.'s subsidiary, Serenic Software Inc. Announces Release for Microsoft Cloud"
     excerpt: "CNW/ - Serenic Software Inc., a Sylogist Ltd. (TSX: SYZ) (\"Sylogist\") company, a leading provider of comprehensive enterprise resource planning"
     publishedDateTime: 2021-05-04T12:00:00Z
