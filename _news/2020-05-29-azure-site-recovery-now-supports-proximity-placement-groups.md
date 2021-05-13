@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Purview now supports Private Endpoints in public preview"
+    excerpt: "Add a layer of security and network isolation to your Purview account."
+    publishedDateTime: 2021-05-13T19:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/purviewpe/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "New Azure VMs for general purpose and memory intensive workloads now in public preview"
     excerpt: "New Dv5, Dsv5, Ddv5, Ddsv5, and Ev5, Edv5 series Azure Virtual Machines deliver increased scalability and an upgraded CPU architecture, including better price to performance compared to the prior generation. The new VMs - now in public preview - run on the 3rd Generation Intel® Xeon® Platinum 8370C (Ice"
     publishedDateTime: 2021-04-26T18:00:12Z

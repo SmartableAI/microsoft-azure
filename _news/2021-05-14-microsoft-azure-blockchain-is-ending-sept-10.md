@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Microsoft to Shutter its Azure Blockchain Service This Autumn"
-excerpt: "Software giant Microsoft says its Azure Blockchain will soon be retired, but did not provide a reason for doing so."
-publishedDateTime: 2021-05-13T08:05:00Z
-originalUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close"
-webUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close"
-ampWebUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
-cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
+title: "Microsoft Azure Blockchain Is Ending Sept. 10"
+excerpt: "Microsoft is ending its Azure Blockchain Service in September, advising users to migrate to other offerings. The company gave no reason for ending Azure Blockchain Service, which according to its web site is still in preview."
+publishedDateTime: 2021-05-13T19:20:00Z
+originalUrl: "https://virtualizationreview.com/articles/2021/05/13/azure-blockchain.aspx"
+webUrl: "https://virtualizationreview.com/articles/2021/05/13/azure-blockchain.aspx"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: CoinDesk
-  domain: coindesk.com
+  name: Virtualization Review
+  domain: virtualizationreview.com
 
 topics:
   - Azure
   - Blockchain
 
 images:
-  - url: "https://static.coindesk.com/wp-content/uploads/2018/08/Microsoft-1-1200x628.jpg"
-    width: 1200
-    height: 628
+  - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN4HandsBreakingChain.jpg"
+    width: 647
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +38,22 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fa481dc8-7649-479a-a6bc-f9100faeae71.gif"
         width: 600
         height: 338
+        isCached: true
+  - title: "Microsoft to Shutter its Azure Blockchain Service This Autumn"
+    excerpt: "Software giant Microsoft says its Azure Blockchain will soon be retired, but did not provide a reason for doing so."
+    publishedDateTime: 2021-05-13T08:05:00Z
+    webUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close"
+    ampWebUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
+    type: article
+    provider:
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 74
+    images:
+      - url: "https://static.coindesk.com/wp-content/uploads/2018/08/Microsoft-1-1200x628.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Microsoft Does The Math On Azure Datacenter Switch Failures"
     excerpt: "As supercomputer centers have long known and as hyperscalers and cloud builders eventually learned, the larger the cluster, the greater the chance that on"
@@ -70,20 +84,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/blockchain_thumb800_1.2e16d0ba.fill-1200x630.jpg"
         width: 800
         height: 420
-        isCached: true
-  - title: "Microsoft Azure Blockchain Is Ending Sept. 10"
-    excerpt: "Microsoft is ending its Azure Blockchain Service in September, advising users to migrate to other offerings. The company gave no reason for ending Azure Blockchain Service, which according to its web site is still in preview."
-    publishedDateTime: 2021-05-13T19:20:00Z
-    webUrl: "https://virtualizationreview.com/articles/2021/05/13/azure-blockchain.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 54
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN4HandsBreakingChain.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
@@ -125,6 +125,6 @@ related:
         height: 1047
         isCached: true
 
-secured: "UbThWPp5C9DDoUccQ/aQStBdyKIQMaLSHvrST1TN0LyqYx+vh2V/8qf5GykQJIbOqFnUwANaocffnAc856X6+tcsYOSSHc4qR/NupjXZqC9oDKlHhtXXCePwWSHb7nm3rJKfBvw7WuXH6mLu2XQMiHi4Z1RfLF6a5twGd9e+ddIXWYvzHBYYWDm7k/AJkLuf5ibJFJcMeDcJ0oKNl2Zr8N1xCbw6MN/ARakBCE7EcCuCeukli4jIUv5Fso+2bMbEfBreJeSiuus05gxCZprgDgzxu4wr0WttYq/uBZZmlGCMHjBCwBq0Sx8XaPnyWUUPCHJbGhk9OK+UCvJyD+9r2wwEzZ8UbUEL7p44hTm3ptEgubZtUsbXmkIhl7JSsCdYdZyZj30cx00qwu+UZN1Pa/35s5jHHbrYNWJXIQHutkLEon4enZO9N3veyNcPiwfbIMIh7QEvcitFORP1tDyzV4qfZn/B5wKGHNJDsqcTW0toM9MWmE2JXycvJ/lItepD1+exwo7SlcLeWHPVGFFOaw==;UDdSdMWJANQ4KUCBvB2QOg=="
+secured: "77QminJ9kCylLy5sOudts1+0XCWgE2Y2fgVB+8nWBGe0PG8kCumKNTpVMOISMzWQ99AS5MXvtXm2FfCnY6pZy+W1SwFGm/X0Q/RQavNjLa7WHSk3t+rUY14VRF5hhw+O4CJErOzGO8ARuQ0trmfO0bYo+MoesF93Q7OyfDfEkO3m44Aix0R9xP28rAp2rKbktTh6qSAdOUUUEDHqxAqPXIxg9KeLoifrBxBa5NJY2K3rIOzRIrPqlR/hZHhEVlK+dM3fLQuSsDf7D7h5Jk09nhiYNvUPB6Elv1rYyasrDMgLtzAuoZVejJBVWEG0CxqnY9Y4nlpIkuWKF395cE0Rri29/4ZBkbruXSNVrODOpw4=;sq2VUytfQfuF3DSH2YA0ww=="
 ---
 

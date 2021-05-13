@@ -81,6 +81,20 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Microsoft Azure Blockchain Is Ending Sept. 10"
+    excerpt: "Microsoft is ending its Azure Blockchain Service in September, advising users to migrate to other offerings. The company gave no reason for ending Azure Blockchain Service, which according to its web site is still in preview."
+    publishedDateTime: 2021-05-13T19:20:00Z
+    webUrl: "https://virtualizationreview.com/articles/2021/05/13/azure-blockchain.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 54
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN4HandsBreakingChain.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
     publishedDateTime: 2021-05-13T03:50:00Z
@@ -110,6 +124,6 @@ related:
         height: 1047
         isCached: true
 
-secured: "Vfb1MAn9WXm2FoRw6r/QxsFj7JCU/hNvb5oeZBsfQJBJucIxpGZyAHRgq5kIMkr8HVgIgzlj4dGoBlb4BNL3aYoi/yaqhe8TdUyhYBlvb7kOgDBw7u/1OR6/8/vOwEdADLjF1BrduDy7aGpiyNl6mrWXbo+bdCqdXfSHMLcJMlVMjmS69UU9PsSS32TDH/04I53xDExDjddSqM1ps4wNiB0qqfIjVUQEFqySLG9m+1D9wQhh46tOZsV446tW4SuvRJ4ppD3AE9ljnmz5j2JLN9AVK9sDqwK4/bc6G8LWpvfhBt1m+sb59naZsZm4phWFRfE0Ekjmtsr0Tezyuq+hHQtYZT5GBXp9krHAaYpc7II=;wXZBbp97C8WEVZ+PE9c9gA=="
+secured: "NYFRrNk5FtMEzLY9JAMJxizBJc6fi3k9Jf/TnI8ZAef41prhQg0ttzSBO3oJmv07Oi9ryYsVQuJOKu1Gz7ou8NS774t9C+kVFH1ohn7FX2hLNKQhCaX1LARHDO/QpzfFx4Ekc28KFQad4+lhaXlkbuVzqHAZOozXBQtwbZwRBVybekEVoKFNQsnMMQLzgs4mDtuc3X5VO+DgzuGKG6LjYs/gCWTzQBza0p+YBvQRjx367+7QXTPeIsfymcoZhHDd4/+HyZ5TY/gOvifmnBokyb38dRncymBnuR5UQdh3n4PgfuT3NQgtPYOrYYT45H9LXOQ9buyOggdAiCYs9R+RZwsPzZH8YfkXMkr7g21gonA=;JA/DpM5DEBOczdzIvS6PRg=="
 ---
 

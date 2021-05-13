@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Purview now supports Private Endpoints in public preview"
+    excerpt: "Add a layer of security and network isolation to your Purview account."
+    publishedDateTime: 2021-05-13T19:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/purviewpe/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Site Recovery now supports proximity placement groups"
     excerpt: ""
     publishedDateTime: 2020-05-29T01:00:20Z

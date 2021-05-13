@@ -70,6 +70,20 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Microsoft Azure Blockchain Is Ending Sept. 10"
+    excerpt: "Microsoft is ending its Azure Blockchain Service in September, advising users to migrate to other offerings. The company gave no reason for ending Azure Blockchain Service, which according to its web site is still in preview."
+    publishedDateTime: 2021-05-13T19:20:00Z
+    webUrl: "https://virtualizationreview.com/articles/2021/05/13/azure-blockchain.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 54
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN4HandsBreakingChain.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
     publishedDateTime: 2021-05-13T03:50:00Z
