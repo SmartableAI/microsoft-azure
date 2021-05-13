@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
-excerpt: "May 6, 2021 /PRNewswire/ -- Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store ..."
-publishedDateTime: 2021-05-06T12:10:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
-webUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
+excerpt: "Vectra Cognito now available in the Microsoft Azure Marketplace Streamlined deployment of industry-leading threat d"
+publishedDateTime: 2021-05-06T07:08:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Microsoft Azure Blob leak a lesson to CISOs about cloud security responsibility"
@@ -55,6 +49,6 @@ related:
         height: 785
         isCached: true
 
-secured: "/EttcXwtB6+5gZt6aYLoz/hTQFSiuWhQCsbndvTUtcacj931ZaSrHqXQpxbbOii0f7uXO14S1Cvcs2dBbL2gofK5fxBvx+tNcbThG+Td5AKWoFHnr8W+bHzFsiRpem4RLZVuDnFJiX2JAlrbt0P1J7g7s7b9FFkBuMOKhrzzRmZWzoKcrAVmdu55/JFrtOCyzUQgKOI4dfWUHNKqLZbuqAlR4qosZr73XBJsVqLTvOju3qWery6Ebu+SEnYiycOFw/m/2aG8slKAx5o6RmtyqpUyQD/Au/cQcoMCbrpvTpW0n1pZVaour3v87efpaNHhLdAlWR09+SSPhzHeKozd86M0lvl0bX4owYPexR1f7OY=;qOZtfu7rYO6osfGdElxzYQ=="
+secured: "kiG0BphKy60K1zcW/0ilC2EFlEPmdVOzNAEiKk68pVdRJIKsaQdQz70G6o09XkwRjcKd+2x8uCv1203D/hYsbH8YEnv4bdQ8BqpV/m+kO88etbRO7j8Ati6zkTDn2FvBa8G7+7MVK1FwN+TlrTTz87ZSrUrckxz+euWNBls+RfLwQjblWWKqeYajUeb5JZfZwwj4CfiHTZxbaCuAPcI/hf25Sq9FAR66zT8Puy9aAaAAVhscGeeIDxivhEkhkfFfWXzqlFYeYycxnsH88zwcAlwYsPVXuxdRRNY9l+v2aEgQwvLCR6PreVF3MTQ1wyii7kke0egGVz9bweG0MyHH+lzXeW8K4xrPFA/Xq8IQwws=;TEggNDWxNsEbca5XrjA8hA=="
 ---
 

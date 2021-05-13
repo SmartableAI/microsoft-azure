@@ -1,27 +1,24 @@
 ---
 category: news
-title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
-excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and"
-publishedDateTime: 2021-05-13T15:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work-301290108.html"
-webUrl: "https://www.prnewswire.com/news-releases/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work-301290108.html"
+title: "Splunk and Carahsoft Work with Microsoft to Deliver Cloud-Based Data Analytics and Services for Government Agencies on Microsoft Azure"
+excerpt: "Carahsoft Technology Corp., The Trusted Government IT Solutions Provider ®, and Splunk, Inc., provider of the Data-to-Everything Platform, announced today the availability of Splunk ® Enterprise Transformation with Azure for public sector customers."
+publishedDateTime: 2021-05-13T16:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/05/g21109573/splunk-and-carahsoft-work-with-microsoft-to-deliver-cloud-based-data-analytics-and-services-for-go"
+webUrl: "https://www.benzinga.com/pressreleases/21/05/g21109573/splunk-and-carahsoft-work-with-microsoft-to-deliver-cloud-based-data-analytics-and-services-for-go"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21109573"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21109573"
 type: article
-quality: 11
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/633365/Infosys_Logo.jpg?p=facebook"
-    width: 1997
-    height: 1047
-    isCached: true
+  - Analytics
 
 related:
   - title: "Low-code development series: Modernize your IoT future with Azure and Microsoft Power Platform"
@@ -98,18 +95,21 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Splunk and Carahsoft Work with Microsoft to Deliver Cloud-Based Data Analytics and Services for Government Agencies on Microsoft Azure"
-    excerpt: "Carahsoft Technology Corp., The Trusted Government IT Solutions Provider ®, and Splunk, Inc., provider of the Data-to-Everything Platform, announced today the availability of Splunk ® Enterprise Transformation with Azure for public sector customers."
-    publishedDateTime: 2021-05-13T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21109573/splunk-and-carahsoft-work-with-microsoft-to-deliver-cloud-based-data-analytics-and-services-for-go"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21109573"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21109573"
+  - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
+    excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and"
+    publishedDateTime: 2021-05-13T15:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work-301290108.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/633365/Infosys_Logo.jpg?p=facebook"
+        width: 1997
+        height: 1047
+        isCached: true
 
-secured: "vdj63jEDlUZt+wPEQkkbmF8/Xa7e4mc8nFH6BSyGLLRVa+DQOZI4QofbpiCG99mOxE9DD3LaNFaJBmnAWeZMEzim/ONd7l5Y13Mu2TqPIWAQtr8Hu0PaG8d2cVIhx2vaUcySRz5fb/Y7FjW0JC544wnjStM7N28Y6tgLrz4Gev5XNWUYc6RF7cqBufv+jR+xwVViyo13AW4UGMi0xO1jxhIHQ7KhFcjbENjDrn0X7HHcmA/zKWpePGBph/II/FuZgvdMJGoR8IpJeqabIgq4F1yGNjMrWp393S7pPuVd1HvXwrr5FVu/Bhzjr3W8LEyI+ikqTk8sDmZV2ijSv8VgFNaghpsorqbkGJ2iqJkm5yUVD1VnrTL9DQgeT+kSZSrC4S7EiQsU/JkSEZwMTR4QNs7/Ft3Z1+zVgZluT7AoATkokdp8NvfCtRtYbX/wNOTsfoM2JFFUJfV9VPbdK+FGSDYSV3zueYt08UbjRnEYK68Zq+yWuWqR2ydiyVgat1KKkbRDdWxYzfFdcOpHslAilA==;prP2rjfM+OGuwiMtyZUayQ=="
+secured: "Vfb1MAn9WXm2FoRw6r/QxsFj7JCU/hNvb5oeZBsfQJBJucIxpGZyAHRgq5kIMkr8HVgIgzlj4dGoBlb4BNL3aYoi/yaqhe8TdUyhYBlvb7kOgDBw7u/1OR6/8/vOwEdADLjF1BrduDy7aGpiyNl6mrWXbo+bdCqdXfSHMLcJMlVMjmS69UU9PsSS32TDH/04I53xDExDjddSqM1ps4wNiB0qqfIjVUQEFqySLG9m+1D9wQhh46tOZsV446tW4SuvRJ4ppD3AE9ljnmz5j2JLN9AVK9sDqwK4/bc6G8LWpvfhBt1m+sb59naZsZm4phWFRfE0Ekjmtsr0Tezyuq+hHQtYZT5GBXp9krHAaYpc7II=;wXZBbp97C8WEVZ+PE9c9gA=="
 ---
 

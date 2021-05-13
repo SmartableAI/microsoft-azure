@@ -84,6 +84,17 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Splunk and Carahsoft Work with Microsoft to Deliver Cloud-Based Data Analytics and Services for Government Agencies on Microsoft Azure"
+    excerpt: "Carahsoft Technology Corp., The Trusted Government IT Solutions Provider ®, and Splunk, Inc., provider of the Data-to-Everything Platform, announced today the availability of Splunk ® Enterprise Transformation with Azure for public sector customers."
+    publishedDateTime: 2021-05-13T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21109573/splunk-and-carahsoft-work-with-microsoft-to-deliver-cloud-based-data-analytics-and-services-for-go"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21109573"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21109573"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
   - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
     excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and"
     publishedDateTime: 2021-05-13T15:30:00Z
