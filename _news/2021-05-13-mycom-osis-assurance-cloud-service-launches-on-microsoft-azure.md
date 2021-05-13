@@ -84,6 +84,20 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
+    excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and"
+    publishedDateTime: 2021-05-13T15:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work-301290108.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/633365/Infosys_Logo.jpg?p=facebook"
+        width: 1997
+        height: 1047
+        isCached: true
 
 secured: "fXT3EGusyJIoanfhaqJ4vQ+1S2rmIz+hZmVUJ+w/gDhTNznMoVGGX+W6CPrRd+qhkKN35q5hvhpG8lNxqA82N2R1/0ozGrCeYS6tbXlo29Vyx4fHuQzwKYhFfrYkIMTQ1J+mivfDxyYBclUMAQMtj7lYWc1+02rpiNEwbXOPZMqHD+Wvcf57fknIcLXJeGEYgixb1EdJBaZw+EUoRalFaEMLzEXpU7vwJh3PEMUJtPBfjWE2FpWeKrtWwAlOCeYs1Uc+L16Gy53u+6zL9/X0M41mHtBNRmsw/HIdRtVmrRUsJbiA1/vbIzNPlip/b7HOG/m+f1dHNXg0YbsgDBQwdJWHPiZY5W65T2ON7acqsHQ=;QvSlWT9WZL3JT5S86ZJhYQ=="
 ---

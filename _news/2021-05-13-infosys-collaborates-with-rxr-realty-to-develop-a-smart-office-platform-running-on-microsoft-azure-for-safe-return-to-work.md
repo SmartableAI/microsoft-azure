@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Microsoft to Shutter its Azure Blockchain Service This Autumn"
-excerpt: "Software giant Microsoft says its Azure Blockchain will soon be retired, but did not provide a reason for doing so."
-publishedDateTime: 2021-05-13T08:05:00Z
-originalUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close"
-webUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close"
-ampWebUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
-cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
+title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
+excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and"
+publishedDateTime: 2021-05-13T15:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work-301290108.html"
+webUrl: "https://www.prnewswire.com/news-releases/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work-301290108.html"
 type: article
-quality: 74
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: CoinDesk
-  domain: coindesk.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
-  - Blockchain
 
 images:
-  - url: "https://static.coindesk.com/wp-content/uploads/2018/08/Microsoft-1-1200x628.jpg"
-    width: 1200
-    height: 628
+  - url: "https://mma.prnewswire.com/media/633365/Infosys_Logo.jpg?p=facebook"
+    width: 1997
+    height: 1047
     isCached: true
 
 related:
@@ -40,6 +37,22 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fa481dc8-7649-479a-a6bc-f9100faeae71.gif"
         width: 600
         height: 338
+        isCached: true
+  - title: "Microsoft to Shutter its Azure Blockchain Service This Autumn"
+    excerpt: "Software giant Microsoft says its Azure Blockchain will soon be retired, but did not provide a reason for doing so."
+    publishedDateTime: 2021-05-13T08:05:00Z
+    webUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close"
+    ampWebUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
+    type: article
+    provider:
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 74
+    images:
+      - url: "https://static.coindesk.com/wp-content/uploads/2018/08/Microsoft-1-1200x628.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Microsoft Does The Math On Azure Datacenter Switch Failures"
     excerpt: "As supercomputer centers have long known and as hyperscalers and cloud builders eventually learned, the larger the cluster, the greater the chance that on"
@@ -85,21 +98,7 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
-    excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and"
-    publishedDateTime: 2021-05-13T15:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work-301290108.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/633365/Infosys_Logo.jpg?p=facebook"
-        width: 1997
-        height: 1047
-        isCached: true
 
-secured: "UbThWPp5C9DDoUccQ/aQStBdyKIQMaLSHvrST1TN0LyqYx+vh2V/8qf5GykQJIbOqFnUwANaocffnAc856X6+tcsYOSSHc4qR/NupjXZqC9oDKlHhtXXCePwWSHb7nm3rJKfBvw7WuXH6mLu2XQMiHi4Z1RfLF6a5twGd9e+ddIXWYvzHBYYWDm7k/AJkLuf5ibJFJcMeDcJ0oKNl2Zr8N1xCbw6MN/ARakBCE7EcCuCeukli4jIUv5Fso+2bMbEfBreJeSiuus05gxCZprgDgzxu4wr0WttYq/uBZZmlGCMHjBCwBq0Sx8XaPnyWUUPCHJbGhk9OK+UCvJyD+9r2wwEzZ8UbUEL7p44hTm3ptEgubZtUsbXmkIhl7JSsCdYdZyZj30cx00qwu+UZN1Pa/35s5jHHbrYNWJXIQHutkLEon4enZO9N3veyNcPiwfbIMIh7QEvcitFORP1tDyzV4qfZn/B5wKGHNJDsqcTW0toM9MWmE2JXycvJ/lItepD1+exwo7SlcLeWHPVGFFOaw==;UDdSdMWJANQ4KUCBvB2QOg=="
+secured: "3yXpZF9y3iy3+SKABAPl1lqKdQrT6ItZDYaxIW9rcmglGlDrY42t5rvtCvX2JJQtE2T4x5lkcYIuGK8iaoLza2rjbwOc4RZVupy5aTmdFMnfaNAzO4WxS2srf44yfei3dUXFPy3POKKLBYQmYe5Gfd+Xf1pfutW9+1haerx+1gEEQH3LELeTAAktXYjQsi4BjiKdjUz3IB7oT3vYxxPSKEWXd9nZaYk75PQM/1fR4GTC59a2WmG1FClpd9kL2BzK5tmyn+1uvse6qkOHoA2ZkLG92nb6TlCMiwLDIiar17TLwbjGBAVUgxrK1c6RTQl6bLKDYa3v8UCDF5mVAq4zY27nFXLpljuz7d4fZ4WtNOU=;ZE4wDWyowg7SYPMpoe8NBQ=="
 ---
 
