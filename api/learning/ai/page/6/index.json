@@ -4,15 +4,15 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
-      "title": "Work with Compute in Azure Machine Learning",
-      "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
-      "length": "PT45M",
+      "path": "_learning/courses/microsoft-learn-work-dataframes-columns-azure-databricks.md",
+      "title": "Work with DataFrames columns in Azure Databricks",
+      "excerpt": "Work with DataFrames columns in Azure Databricks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-columns-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-columns-azure-databricks/",
+      "length": "PT43M",
       "ratings": {
-        "count": 1029,
-        "average": 4.6783285
+        "count": 222,
+        "average": 4.6126127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,14 +27,23 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-columns-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
+        "Analytics",
         "AI"
       ]
     },

@@ -8,7 +8,7 @@ length: PT23M
 ratings:
   count: 22
   average: 4.9545455
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 641
     isCached: true
 
-secured: "i29ooKoBQEYiF5aq0YBmZXowM2ljUn0aaqolvmHj+Rdu3zJhSNdpmih+vTtt2RfQNW3vddl/iskcmdDraHCOC6znq/IR6M4gbQAp73zbwnqEa41L3MvCr3k6X2zQK3EyeePF4aPpc/DS69Lc9JADHpyyFtJrTh6KMD/GcD9dDSJuZlBOAAG2Q7zuRjN9Z2Vg9QM+1axSyOEMH2FSN96ysQrhY04ZI29GZ+ljtXDt6kEoEbZbAv1zzZo6V0Xh9EnSKlr7LXcCj2sjXERkaY9eNjqbYDU8hZag7NX0dLR3YXRYdyNMNgrAfnojzpermK/+P0CMBflNI0j5hoLePc9vSFu9C4O3lGxz/yKqOx4iK4mzNuj3kL3QksNwQn0tqVqK6HrMS4rYU5mETrvy7/3OHixLf3ufgN+po3zRYrdFx44=;6Mchtw7K1y6OSdeHhEHWfg=="
+secured: "7uzvY4q66Qjx9DzLShb/6e6bBHlHmSfBIoqFDKKxKk1vKclOl6FXLRkJiYvktHlniTpQxeZ+OTLvVcIK5qW/trjj6jMPvdhLROWUxRo/MJ8O5VUi5QcQLeWyuYpu0cwOqXxCr/NARGxR+GuopTP+Fpg5XGUt0Km7xcd+vAfPTO6OADhq5tCzWM3KMgXodyPi3DsMRhMsh6EpquCi+3oEODP1LYF6A/8L7y9i3Dm1M7DNi8kXSvkLXdWdFdxaMm8yOz/FPqPan0l+m75pW8Fy/myNi6ic7D4sD5lWzbI4IHh+Ykj0LBUUIKWfH5kWsJfVOOBBjk1aYt/uUHNZIo5PiDVEPCioiGuGyDY5+rYA7rrIeDTI2b3pm1730g7FWJGDIUJfSSMfSOzuMhcHYEMcXBbuRzDLMxBW4jKnhirhJQI=;G/3+1sSr45RakmU67MC3pQ=="
 ---
 
