@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/a-fluent-new-look-for-the-azure-i
 webUrl: "https://azure.microsoft.com/blog/a-fluent-new-look-for-the-azure-icon/"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

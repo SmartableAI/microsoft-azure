@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-abac-previ
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-abac-preview/"
 type: article
 quality: 79
-heat: 82
+heat: 79
 published: true
 
 provider:

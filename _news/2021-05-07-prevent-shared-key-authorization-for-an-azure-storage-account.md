@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/prevent-shared-key-autho
 webUrl: "https://azure.microsoft.com/en-us/updates/prevent-shared-key-authorization-for-an-azure-storage-account/"
 type: article
 quality: 84
-heat: 105
+heat: 104
 published: true
 
 provider:
