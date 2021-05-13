@@ -20,6 +20,7 @@ levels:
 items:
   - courses/microsoft-learn-publish-static-web-app-and-api
   - courses/microsoft-learn-publish-static-web-app-api-preview-url
+  - courses/microsoft-learn-publish-static-web-app-authentication
   - courses/microsoft-learn-publish-static-web-app-and-api-dotnet
   - courses/microsoft-learn-static-apps-gatsby
 
