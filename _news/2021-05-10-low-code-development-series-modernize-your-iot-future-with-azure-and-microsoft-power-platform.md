@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/lowcode-development-series-modern
 webUrl: "https://azure.microsoft.com/blog/lowcode-development-series-modernize-your-iot-future-with-azure-and-microsoft-power-platform/"
 type: article
 quality: 92
-heat: 112
+heat: 132
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/ab_datacenter-switch-scaled.jpg"
         width: 2560
         height: 1812
+        isCached: true
+  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
+    excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
+    publishedDateTime: 2021-05-13T03:50:00Z
+    webUrl: "https://www.totaltele.com/509480/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 37
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
+        width: 500
+        height: 500
         isCached: true
 
 secured: "ZtuMitf/VDdrIWnoGWNXZmCozQoWO5yFFxvlGPv9EWzFrbikr5tqec0QTz2ca7Mt/pM0yiSKa9EIqyo/4ffE8WwMF3kTA0gDxMM/rtmHr9Tlmti+qFw8xvn6hFSzG4VuSidZHPqWkocmHNtPcd+ZZfGu9hZpmg8T7FGeoEFjPXzXG/k4Qs/Yl1WsjMH718QLxWRfRSy56j2ufkowyTUCakb1xnDnBdtKqGUmmQ5Bn7q8nZ66YD/M+oOqsZpcWfhT3PYudjHHrFmnTrVQk5pqDdzSNOOEFQDqQ0W5vhl6j/lQt8VcjtrWwzmCAxrHMyUbgpyob+aC5RGp54TD4Ji78SeLBw45p6sGxXz5WP/rOk0=;e1hvKpbYP174cV21Hdfh8A=="

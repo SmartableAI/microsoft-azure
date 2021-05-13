@@ -40,6 +40,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
+    excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
+    publishedDateTime: 2021-05-13T03:50:00Z
+    webUrl: "https://www.totaltele.com/509480/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 37
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
+        width: 500
+        height: 500
+        isCached: true
 
 secured: "QYHFYPDddaKL7NoG0y89B2KvTJ5Fj06ts5dujXc6GSI2LC86uWLgaVNgLW9iAGTRxvhIUrkrAdgjBkYQanmXaIsvQF8wAX1NaZbJSX7/pxIDKKWU7jjtt4ghVq/QskZkqZkCuGrvv2sq2CsUi5ODCCdJMBf2WCULXMcWjcgzxELYROTb9yKZdAJ3IAnxBXp6XRqrdc9pmi/sqiCYAzmjRApHzH8pXZuBdS1ensvMgEjehPyF2Ww64r4PBURVQ42TlRGQvEUtYUZddRsD3lx1esq9lDSmaWjSMhoZyFcbGS8NHK9ANkm8PVGCI19zUByrBNNBRZiwq3VtDi02Ko1OVt/JwDYR1yQboQ6jU+1AZhDhbla6IUir7tP6Y6gfROGtE702MgIIudMUM5d1xiPIcawWBwITVu/31jtW7o5cGIK9PZWMiRi03KE4H3j7xOELQ0xJDDrOfNrDsvAW1OwVQwYoHi/6eBjl/UgS3qnluo6F3/RPuX76TLId5Vc9GkfZJ5dPwWOfkpcaD2IAVr9PsA==;cuiFJZZLKJgXO7Ol6oX7Hg=="
 ---

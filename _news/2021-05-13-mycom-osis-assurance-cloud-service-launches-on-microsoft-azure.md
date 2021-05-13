@@ -1,0 +1,60 @@
+---
+category: news
+title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
+excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
+publishedDateTime: 2021-05-13T03:50:00Z
+originalUrl: "https://www.totaltele.com/509480/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+webUrl: "https://www.totaltele.com/509480/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: Total Telecom
+  domain: totaltele.com
+
+topics:
+  - Azure
+
+images:
+  - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
+    width: 500
+    height: 500
+    isCached: true
+
+related:
+  - title: "Low-code development series: Modernize your IoT future with Azure and Microsoft Power Platform"
+    excerpt: "This month’s webinar is “Unlock the Future of Azure IoT through Power Platform.” In this blog, I will briefly recap LCAD on Azure, provide an overview of IoT on Azure and Azure Functions, how to pull an Azure Function into Power Automate, and how to integrate your Power Automate flow into Power Apps.\n"
+    publishedDateTime: 2021-05-10T09:00:10Z
+    webUrl: "https://azure.microsoft.com/blog/lowcode-development-series-modernize-your-iot-future-with-azure-and-microsoft-power-platform/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 92
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fa481dc8-7649-479a-a6bc-f9100faeae71.gif"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Microsoft Does The Math On Azure Datacenter Switch Failures"
+    excerpt: "As supercomputer centers have long known and as hyperscalers and cloud builders eventually learned, the larger the cluster, the greater the chance that on"
+    publishedDateTime: 2021-05-12T19:32:00Z
+    webUrl: "https://www.nextplatform.com/2021/05/12/microsoft-does-the-math-on-azure-datacenter-switch-failures/"
+    ampWebUrl: "https://www.nextplatform.com/2021/05/12/microsoft-does-the-math-on-azure-datacenter-switch-failures/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/12/microsoft-does-the-math-on-azure-datacenter-switch-failures/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/ab_datacenter-switch-scaled.jpg"
+        width: 2560
+        height: 1812
+        isCached: true
+
+secured: "fXT3EGusyJIoanfhaqJ4vQ+1S2rmIz+hZmVUJ+w/gDhTNznMoVGGX+W6CPrRd+qhkKN35q5hvhpG8lNxqA82N2R1/0ozGrCeYS6tbXlo29Vyx4fHuQzwKYhFfrYkIMTQ1J+mivfDxyYBclUMAQMtj7lYWc1+02rpiNEwbXOPZMqHD+Wvcf57fknIcLXJeGEYgixb1EdJBaZw+EUoRalFaEMLzEXpU7vwJh3PEMUJtPBfjWE2FpWeKrtWwAlOCeYs1Uc+L16Gy53u+6zL9/X0M41mHtBNRmsw/HIdRtVmrRUsJbiA1/vbIzNPlip/b7HOG/m+f1dHNXg0YbsgDBQwdJWHPiZY5W65T2ON7acqsHQ=;QvSlWT9WZL3JT5S86ZJhYQ=="
+---
+
