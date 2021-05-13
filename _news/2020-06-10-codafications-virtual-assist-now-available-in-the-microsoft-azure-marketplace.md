@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
 type: article
 quality: 73
-heat: 333
+heat: 353
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
     quality: 37
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Datametica now available in the Microsoft Azure Marketplace"
+    excerpt: "Datametica today announced Pelican's availability on the Microsoft Azure Marketplace. Datametica's customers can now take advantage of"
+    publishedDateTime: 2021-05-13T07:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-877551542.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
         isCached: true

@@ -2,9 +2,9 @@
 category: news
 title: "Datametica now available in the Microsoft Azure Marketplace"
 excerpt: "Datametica today announced Pelican's availability on the Microsoft Azure Marketplace. Datametica's customers can now take advantage of"
-publishedDateTime: 2021-05-12T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-301289535.html"
-webUrl: "https://www.prnewswire.com/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-301289535.html"
+publishedDateTime: 2021-05-13T07:00:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-877551542.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-877551542.html"
 type: article
 quality: 37
 heat: -1
@@ -12,13 +12,13 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+  - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
     width: 600
     height: 315
     isCached: true
@@ -93,15 +93,15 @@ related:
         isCached: true
   - title: "Datametica now available in the Microsoft Azure Marketplace"
     excerpt: "Datametica today announced Pelican's availability on the Microsoft Azure Marketplace. Datametica's customers can now take advantage of"
-    publishedDateTime: 2021-05-13T07:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-877551542.html"
+    publishedDateTime: 2021-05-12T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-301289535.html"
     type: article
     provider:
       name: PR Newswire
-      domain: prnewswire.co.uk
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
         isCached: true
@@ -210,6 +210,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "zq+Ahsno5D9h2atqRXymON0JR6oTI1uPMxgFsuUOZdnEF8kthGDqhZybhaAEvE4f6NNjWMDodTnhJcRJZ5tKn63jBAT12tmNslNcQyxXw8QZVwZyjgNjQWKyAVwpJ+3TGljR/aGv6m5i5PzDu4y8AcrC6vKwLvshHVKtmqimnmMvJC+XzE2slSblov+DM37gTfugTfDXBkE9o2R1Jyzf+UzEWLaQfY39qIeUQBxppHLuCnjXYa8gGIdVXlwiT8vwunG8qJlrEwX6t2eomR+Oft59ynh3Jf211YpJXF8ZRAN4dIRHa096QfR7HqZi5mzFKQRV4a7DrSD1/x4jRm8ykRB9Fh00qzwyhONu6qqtRvo=;TiRd9dtXfmZugFxXgG9ZAw=="
+secured: "EVq8oiCssZcO7F2XkUKQKNbVKsFcbfhbVV5jFfUDcVS+7S4vAg3iUBwJZ9RVc1gwxmDpXecfsdxFR8LXFtiHwQMYCs+qqQr3Httz3MT3MCtxrNQox1XZf4fClMOvPqsxM8SlMBmNsjG0uZotETR9XBT9mTVR8kVkrKOS7asKW37BbuKHMBZa7NwoWEZcIMgJ7UDvE6/+qzQuzLMSJpwOqqZ+md9apkCy1he1WJtHUJJ+6G09IRVAzX0s+1LxgWnKUqw2lW9croo09/PYXcLdbB+5WDbuVTB0hlcKR1mjKykw1aCdZRaBWoDE8WLAFz+XJYE1bfRfIasTcoCufqe/wADcjPoI8ZqejRayzHwvzaM=;RJ/MQHlWV3KLXqzM9qzg3g=="
 ---
 
