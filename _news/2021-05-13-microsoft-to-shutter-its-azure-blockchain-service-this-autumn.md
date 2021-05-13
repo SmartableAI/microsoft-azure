@@ -57,6 +57,20 @@ related:
         width: 2560
         height: 1812
         isCached: true
+  - title: "Microsoft to shut down Azure Blockchain Service"
+    excerpt: "Microsoft is shutting down Azure Blockchain Service. No new deployments or members are possible, but existing deployments have until September 10 to migrate to another platform. Microsoft first began offering blockchain technology on its cloud platform back in 2015,"
+    publishedDateTime: 2021-05-13T10:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-shut-down-azure-blockchain-service/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/blockchain_thumb800_1.2e16d0ba.fill-1200x630.jpg"
+        width: 800
+        height: 420
+        isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
     publishedDateTime: 2021-05-13T03:50:00Z
@@ -72,6 +86,6 @@ related:
         height: 500
         isCached: true
 
-secured: "0cWDP/mDBS/cDQVTrKNpe9t0pfWkHWvb2X3Bk/JkR5N59QLRZjs+PeKIUIy/NeFyq01peJuv7583XpGJRl/Tu3YJNYt7VNHelIorgd6PlFlxTaTKEU0X9BfeMhQ67KsAOVWRmciWL1bdjEO8c40x4ci6gXunSkub2vacVKZ/KT3Kd5LfoiLzW/13BLmpHfRPJXuQc60cZxfiIRS0Llcbg/v+CW5NFErGqFbOn8S5pxOLSeIfjaF39WoGSWf3UHWHwb9tm1fJAr3fvyF9d9OZa5y1ugrgf+GSRNoG5fs1TVYIMLPTLyVsZs7Qvzbbd4cEbmaFWLPKXQviAKhsu0dzhnc7ujpMmuUkuIvlTU2jbLM=;A4IEOQuEptHcqSptrW+LHQ=="
+secured: "UbThWPp5C9DDoUccQ/aQStBdyKIQMaLSHvrST1TN0LyqYx+vh2V/8qf5GykQJIbOqFnUwANaocffnAc856X6+tcsYOSSHc4qR/NupjXZqC9oDKlHhtXXCePwWSHb7nm3rJKfBvw7WuXH6mLu2XQMiHi4Z1RfLF6a5twGd9e+ddIXWYvzHBYYWDm7k/AJkLuf5ibJFJcMeDcJ0oKNl2Zr8N1xCbw6MN/ARakBCE7EcCuCeukli4jIUv5Fso+2bMbEfBreJeSiuus05gxCZprgDgzxu4wr0WttYq/uBZZmlGCMHjBCwBq0Sx8XaPnyWUUPCHJbGhk9OK+UCvJyD+9r2wwEzZ8UbUEL7p44hTm3ptEgubZtUsbXmkIhl7JSsCdYdZyZj30cx00qwu+UZN1Pa/35s5jHHbrYNWJXIQHutkLEon4enZO9N3veyNcPiwfbIMIh7QEvcitFORP1tDyzV4qfZn/B5wKGHNJDsqcTW0toM9MWmE2JXycvJ/lItepD1+exwo7SlcLeWHPVGFFOaw==;UDdSdMWJANQ4KUCBvB2QOg=="
 ---
 

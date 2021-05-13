@@ -1,26 +1,27 @@
 ---
 category: news
-title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
-excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
-publishedDateTime: 2021-05-13T03:50:00Z
-originalUrl: "https://www.totaltele.com/509480/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
-webUrl: "https://www.totaltele.com/509480/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+title: "Microsoft to shut down Azure Blockchain Service"
+excerpt: "Microsoft is shutting down Azure Blockchain Service. No new deployments or members are possible, but existing deployments have until September 10 to migrate to another platform. Microsoft first began offering blockchain technology on its cloud platform back in 2015,"
+publishedDateTime: 2021-05-13T10:50:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-shut-down-azure-blockchain-service/"
+webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-shut-down-azure-blockchain-service/"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Total Telecom
-  domain: totaltele.com
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
+  - Blockchain
 
 images:
-  - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
-    width: 500
-    height: 500
+  - url: "https://media.datacenterdynamics.com/media/images/blockchain_thumb800_1.2e16d0ba.fill-1200x630.jpg"
+    width: 800
+    height: 420
     isCached: true
 
 related:
@@ -70,21 +71,21 @@ related:
         width: 2560
         height: 1812
         isCached: true
-  - title: "Microsoft to shut down Azure Blockchain Service"
-    excerpt: "Microsoft is shutting down Azure Blockchain Service. No new deployments or members are possible, but existing deployments have until September 10 to migrate to another platform. Microsoft first began offering blockchain technology on its cloud platform back in 2015,"
-    publishedDateTime: 2021-05-13T10:50:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-shut-down-azure-blockchain-service/"
+  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
+    excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
+    publishedDateTime: 2021-05-13T03:50:00Z
+    webUrl: "https://www.totaltele.com/509480/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 37
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/blockchain_thumb800_1.2e16d0ba.fill-1200x630.jpg"
-        width: 800
-        height: 420
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
+        width: 500
+        height: 500
         isCached: true
 
-secured: "fXT3EGusyJIoanfhaqJ4vQ+1S2rmIz+hZmVUJ+w/gDhTNznMoVGGX+W6CPrRd+qhkKN35q5hvhpG8lNxqA82N2R1/0ozGrCeYS6tbXlo29Vyx4fHuQzwKYhFfrYkIMTQ1J+mivfDxyYBclUMAQMtj7lYWc1+02rpiNEwbXOPZMqHD+Wvcf57fknIcLXJeGEYgixb1EdJBaZw+EUoRalFaEMLzEXpU7vwJh3PEMUJtPBfjWE2FpWeKrtWwAlOCeYs1Uc+L16Gy53u+6zL9/X0M41mHtBNRmsw/HIdRtVmrRUsJbiA1/vbIzNPlip/b7HOG/m+f1dHNXg0YbsgDBQwdJWHPiZY5W65T2ON7acqsHQ=;QvSlWT9WZL3JT5S86ZJhYQ=="
+secured: "2iMuFaYbXs1oog9XcCl7DZMk2kEKV90kyUBCrDQQ9WoMmtTd5nfjsB1b7EJ4vc9OFrRL5Emoj1a1jmCOeaR8+yG/vaMomgnhU09se+bzcIPQcX5B9qtjJF1Op3DBN3gKdTmg4RJMn42lcfQDGAfJsisoetNhcOZsyo+QVpCT5e8f2zp3giPocmcEuNnURnEVCpAlfP61stCc7iiekiWVlkr8cl+43VeNtlT0R2/IS7fbrAtfeEuqmcrlcjPEuGSqNeoxwd+bTHP3o8NRyCYLUiOvJMzwy4Or9PanjgSQbqWs0/SUwA+i8y1uP8naiDORKSRL+CPD0DBnlZ2vJHLJOzfIl6HAuEEWZphicA+nDyY=;b55b4xV+vt3iiYFy8LH8kg=="
 ---
 

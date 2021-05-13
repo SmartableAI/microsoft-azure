@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft to shut down Azure Blockchain Service"
+    excerpt: "Microsoft is shutting down Azure Blockchain Service. No new deployments or members are possible, but existing deployments have until September 10 to migrate to another platform. Microsoft first began offering blockchain technology on its cloud platform back in 2015,"
+    publishedDateTime: 2021-05-13T10:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-shut-down-azure-blockchain-service/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/blockchain_thumb800_1.2e16d0ba.fill-1200x630.jpg"
+        width: 800
+        height: 420
+        isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
     publishedDateTime: 2021-05-13T03:50:00Z
