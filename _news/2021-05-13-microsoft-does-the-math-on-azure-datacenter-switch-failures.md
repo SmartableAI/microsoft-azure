@@ -40,6 +40,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Microsoft to Shutter its Azure Blockchain Service This Autumn"
+    excerpt: "Software giant Microsoft says its Azure Blockchain will soon be retired, but did not provide a reason for doing so."
+    publishedDateTime: 2021-05-13T08:05:00Z
+    webUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close"
+    ampWebUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
+    type: article
+    provider:
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 74
+    images:
+      - url: "https://static.coindesk.com/wp-content/uploads/2018/08/Microsoft-1-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
     publishedDateTime: 2021-05-13T03:50:00Z

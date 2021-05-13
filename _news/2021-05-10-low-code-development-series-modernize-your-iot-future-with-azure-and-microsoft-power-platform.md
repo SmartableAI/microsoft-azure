@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/lowcode-development-series-modern
 webUrl: "https://azure.microsoft.com/blog/lowcode-development-series-modernize-your-iot-future-with-azure-and-microsoft-power-platform/"
 type: article
 quality: 92
-heat: 132
+heat: 152
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft to Shutter its Azure Blockchain Service This Autumn"
+    excerpt: "Software giant Microsoft says its Azure Blockchain will soon be retired, but did not provide a reason for doing so."
+    publishedDateTime: 2021-05-13T08:05:00Z
+    webUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close"
+    ampWebUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
+    type: article
+    provider:
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 74
+    images:
+      - url: "https://static.coindesk.com/wp-content/uploads/2018/08/Microsoft-1-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft Does The Math On Azure Datacenter Switch Failures"
     excerpt: "As supercomputer centers have long known and as hyperscalers and cloud builders eventually learned, the larger the cluster, the greater the chance that on"
     publishedDateTime: 2021-05-12T19:32:00Z

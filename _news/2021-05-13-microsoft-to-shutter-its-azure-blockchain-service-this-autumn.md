@@ -1,26 +1,29 @@
 ---
 category: news
-title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
-excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
-publishedDateTime: 2021-05-13T03:50:00Z
-originalUrl: "https://www.totaltele.com/509480/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
-webUrl: "https://www.totaltele.com/509480/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+title: "Microsoft to Shutter its Azure Blockchain Service This Autumn"
+excerpt: "Software giant Microsoft says its Azure Blockchain will soon be retired, but did not provide a reason for doing so."
+publishedDateTime: 2021-05-13T08:05:00Z
+originalUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close"
+webUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close"
+ampWebUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
+cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
 type: article
-quality: 37
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Total Telecom
-  domain: totaltele.com
+  name: CoinDesk
+  domain: coindesk.com
 
 topics:
   - Azure
+  - Blockchain
 
 images:
-  - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
-    width: 500
-    height: 500
+  - url: "https://static.coindesk.com/wp-content/uploads/2018/08/Microsoft-1-1200x628.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -38,22 +41,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Microsoft to Shutter its Azure Blockchain Service This Autumn"
-    excerpt: "Software giant Microsoft says its Azure Blockchain will soon be retired, but did not provide a reason for doing so."
-    publishedDateTime: 2021-05-13T08:05:00Z
-    webUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close"
-    ampWebUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
-    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
-    type: article
-    provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 74
-    images:
-      - url: "https://static.coindesk.com/wp-content/uploads/2018/08/Microsoft-1-1200x628.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Microsoft Does The Math On Azure Datacenter Switch Failures"
     excerpt: "As supercomputer centers have long known and as hyperscalers and cloud builders eventually learned, the larger the cluster, the greater the chance that on"
     publishedDateTime: 2021-05-12T19:32:00Z
@@ -70,7 +57,21 @@ related:
         width: 2560
         height: 1812
         isCached: true
+  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
+    excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
+    publishedDateTime: 2021-05-13T03:50:00Z
+    webUrl: "https://www.totaltele.com/509480/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 37
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
+        width: 500
+        height: 500
+        isCached: true
 
-secured: "fXT3EGusyJIoanfhaqJ4vQ+1S2rmIz+hZmVUJ+w/gDhTNznMoVGGX+W6CPrRd+qhkKN35q5hvhpG8lNxqA82N2R1/0ozGrCeYS6tbXlo29Vyx4fHuQzwKYhFfrYkIMTQ1J+mivfDxyYBclUMAQMtj7lYWc1+02rpiNEwbXOPZMqHD+Wvcf57fknIcLXJeGEYgixb1EdJBaZw+EUoRalFaEMLzEXpU7vwJh3PEMUJtPBfjWE2FpWeKrtWwAlOCeYs1Uc+L16Gy53u+6zL9/X0M41mHtBNRmsw/HIdRtVmrRUsJbiA1/vbIzNPlip/b7HOG/m+f1dHNXg0YbsgDBQwdJWHPiZY5W65T2ON7acqsHQ=;QvSlWT9WZL3JT5S86ZJhYQ=="
+secured: "0cWDP/mDBS/cDQVTrKNpe9t0pfWkHWvb2X3Bk/JkR5N59QLRZjs+PeKIUIy/NeFyq01peJuv7583XpGJRl/Tu3YJNYt7VNHelIorgd6PlFlxTaTKEU0X9BfeMhQ67KsAOVWRmciWL1bdjEO8c40x4ci6gXunSkub2vacVKZ/KT3Kd5LfoiLzW/13BLmpHfRPJXuQc60cZxfiIRS0Llcbg/v+CW5NFErGqFbOn8S5pxOLSeIfjaF39WoGSWf3UHWHwb9tm1fJAr3fvyF9d9OZa5y1ugrgf+GSRNoG5fs1TVYIMLPTLyVsZs7Qvzbbd4cEbmaFWLPKXQviAKhsu0dzhnc7ujpMmuUkuIvlTU2jbLM=;A4IEOQuEptHcqSptrW+LHQ=="
 ---
 
