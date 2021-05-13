@@ -2179,7 +2179,7 @@
             ]
           },
           "publishedDateTime": "2020-06-30T08:05:33-07:00",
-          "heat": 50,
+          "heat": 47,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/OzqpxeD3fG0/maxresdefault.jpg",
@@ -2217,7 +2217,7 @@
             ]
           },
           "publishedDateTime": "2020-06-29T08:03:22-07:00",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/41vmzPdbfXM/maxresdefault.jpg",
@@ -2255,7 +2255,7 @@
             ]
           },
           "publishedDateTime": "2020-06-25T08:03:44-07:00",
-          "heat": 50,
+          "heat": 47,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/I1mefHptRgo/maxresdefault.jpg",
@@ -5083,12 +5083,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-scale-ai-in-your-organization.md",
-      "title": "Scale AI in your organization",
-      "excerpt": "Learn to manage AI organization to create business value in manufacturing, healthcare, financial services, retail, education, and Government.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-scale-ai-in-your-organization/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-scale-ai-in-your-organization/",
-      "length": "PT1H11M",
+      "path": "_learning/collections/microsoft-learn-safeguard-cloud-resources.md",
+      "title": "Safeguard cloud resources",
+      "excerpt": "The third and final learning path in a course on Cloud Administration from Carnegie Mellon University. Learn to monitor your cloud resources, keep them safe, and protect or recover them in the case of a disaster.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-safeguard-cloud-resources/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-safeguard-cloud-resources/",
+      "length": "PT2H40M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -5102,19 +5102,19 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-implement-ai-organization.md",
-          "title": "Implement AI in your organization",
-          "excerpt": "Learn enterprise AI management with our free open online course, including machine learning.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-ai-organization/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-ai-organization/",
-          "length": "PT41M",
+          "path": "_learning/courses/microsoft-learn-cmu-monitor-cloud-resources.md",
+          "title": "Monitor cloud resources",
+          "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Monitoring how your cloud resources are performing is crucial to building reliable cloud applications. This module covers what monitoring is, why you need to do it, and how you can about monitoring your resources.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-monitor-cloud-resources/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-monitor-cloud-resources/",
+          "length": "PT40M",
           "ratings": {
-            "count": 48,
-            "average": 4.8333335
+            "count": 412,
+            "average": 4.5752425
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5129,12 +5129,12 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Beginner"
           ],
           "heat": 51,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/implement-ai-organization-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-monitor-cloud-resources-social.png",
               "width": 800,
               "height": 400,
               "isCached": true
@@ -5144,20 +5144,19 @@
           "type": "course",
           "price": "Free",
           "topics": [
-            "Azure",
-            "AI"
+            "Azure"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-start-ml-lifecycle-mlops.md",
-          "title": "Start the machine learning lifecycle with MLOps",
-          "excerpt": "Learn enterprise AI management with our free open online course, including machine learning.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-start-ml-lifecycle-mlops/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/start-ml-lifecycle-mlops/",
-          "length": "PT30M",
+          "path": "_learning/courses/microsoft-learn-cmu-cloud-security.md",
+          "title": "Cloud security",
+          "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Keeping your cloud secure means more than just adding permissions to resources. Learn about what cloud security means, including threats, cryptography, and regulation.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-cloud-security/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-security/",
+          "length": "PT59M",
           "ratings": {
-            "count": 73,
-            "average": 4.767123
+            "count": 124,
+            "average": 4.814516
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5172,12 +5171,12 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Beginner"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/start-ml-lifecycle-mlops-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-cloud-security-social.png",
               "width": 800,
               "height": 400,
               "isCached": true
@@ -5188,15 +5187,57 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "AI"
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-disaster-recovery-backup.md",
+          "title": "Disaster recovery and backup",
+          "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. What do you do when something goes wrong with your resources on the cloud? How do you prepare for such an issue? Learn about disaster backup and recovery with this module.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-disaster-recovery-backup/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-disaster-recovery-backup/",
+          "length": "PT1H1M",
+          "ratings": {
+            "count": 129,
+            "average": 4.736434
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-disaster-recovery-backup-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
           ]
         }
       ],
-      "size": 2,
+      "size": 3,
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-ai-organization-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-monitor-cloud-resources-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -5206,8 +5247,7 @@
       "type": "collection",
       "price": "Free",
       "topics": [
-        "Azure",
-        "AI"
+        "Azure"
       ]
     }
   ],

@@ -2094,16 +2094,18 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-what-can-a-managed-identity-be-used-for-one-dev-question-arturo-lucatero.md",
-      "title": "What can a managed identity be used for? | One Dev Question: Arturo Lucatero",
-      "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on managed identities for Azure resources, explains what you can do with a managed identity.   For more information, visit: https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources   Try Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-can-a-managed-identity-be-used-for-one-dev-question-arturo-lucatero/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-can-a-managed-identity-be-used-for-one-dev-question-arturo-lucatero/",
-      "originalUrl": "https://youtube.com/watch?v=5lqayO_oeEo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5lqayO_oeEo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M17S",
+      "path": "_learning/courses/microsoft-learn-add-custom-domain-name-azure-active-directory.md",
+      "title": "Add custom domain name to Azure Active Directory",
+      "excerpt": "Learn how to add custom domain name to Azure Active Directory.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-custom-domain-name-azure-active-directory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-custom-domain-name-azure-active-directory/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 1807,
+        "average": 4.748755
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -2114,18 +2116,20 @@
           }
         ]
       },
-      "publishedDateTime": "2020-05-26T11:06:52-07:00",
-      "heat": 52,
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5lqayO_oeEo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/add-custom-domain-name-azure-active-directory-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
