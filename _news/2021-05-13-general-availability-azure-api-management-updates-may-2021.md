@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: AKS resources view"
-excerpt: "Azure portal now provides a Kubernetes resource view that improves the developer experience and simplifies dev/test scenarios."
-publishedDateTime: 2020-12-09T17:00:15Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-resources-view/"
-webUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-resources-view/"
+title: "General availability: Azure API Management updates - May 2021"
+excerpt: "A regular Azure API Management service update was started on May 5, 2021, and included the following new features, bug fixes, and other improvements."
+publishedDateTime: 2021-05-13T20:00:02Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-may-2021/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-may-2021/"
 type: article
-quality: 69
+quality: 84
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Containers
+  - Integration
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -163,15 +163,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "General availability: Azure API Management updates - May 2021"
-    excerpt: "A regular Azure API Management service update was started on May 5, 2021, and included the following new features, bug fixes, and other improvements."
-    publishedDateTime: 2021-05-13T20:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-may-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "General availability: ExpressRoute monitoring in Azure Monitor network insights"
     excerpt: "Network insights in Azure Monitor now supports monitoring Azure ExpressRoute resources out of the box without any additional configuration or setup."
     publishedDateTime: 2021-03-31T16:01:57Z
@@ -208,6 +199,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 71
+  - title: "General availability: AKS resources view"
+    excerpt: "Azure portal now provides a Kubernetes resource view that improves the developer experience and simplifies dev/test scenarios."
+    publishedDateTime: 2020-12-09T17:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-resources-view/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "General availability: Soft delete for Azure file shares is now on by default for new storage accounts"
     excerpt: "Soft delete, which protects Azure file shares from accidental deletion, is now on by default for new storage accounts created after January 31st. "
     publishedDateTime: 2021-02-08T18:02:36Z
@@ -380,6 +380,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "jlhA5NBVsiWxyq3lMDwriFfOFq/YjqEfyFg6HRwGbmnc59rE1vADwPUVjBWVOEYXzkSZUJ1IslI6Mi4ZbVsoiWnz9JPqWrPozouo7QEV+XirGjJ9RLlJGhY9Ef5S7PWswu0umeUj4+e2qonD4qcFGq3gK6L633ORIp++EQQ17g0iJhraAZnDQYG7MVR1g8JgX4BvIuHUlBGWMzKrBRnqkl/8xu33MFWryQFYOfTw+6V6ayiac9/+qc1lCV6TJe64dsajAal7LA47yrCgYtKf7sgEpfQaEIT/5D7aaI1eE/6um8jyuzhM5F2RExnqMm7U4DitGaUFvE2UvZdjJp3d7Yns9f128UxXfog7xF2LiW0=;vNnFgz5pL1HmH5/gsC/iww=="
+secured: "bKrCcgOOdJD/LsD5+r2wgQOYnsTGWq5b+Slw10OAfttzJUBB4981f7s4l1Z617tihBrb4vt4LlO8HPQUkmAo+kmd3fcYjZrvl116gtQAuRn+5ylbHoFWg8fKi8+AJZtl69uVUjqOc0j6/64BBdJac7E/p3y6y3JnFiuh0I/yNIdDc0SnfsT9oOLjWfPZQOhXst7Iz9d7Emtajb6VZuo0RDnlyd485eWaCsmMeVzrWgpvb+6U8r4+Fo+7iQiLOwS08E70SLH84puiT8Y5cnoVndVxHZ0ztr3R2AIjirOs+FsbBUwAzULCjTNi1DAV0DIDguAuS9JJS1K8dLD/OiMublPmHY1cQSe6lA65tDMVzho=;O9nQMQPfdiSbktsMZwdGOA=="
 ---
 

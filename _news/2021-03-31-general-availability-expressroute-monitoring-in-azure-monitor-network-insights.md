@@ -163,6 +163,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Azure API Management updates - May 2021"
+    excerpt: "A regular Azure API Management service update was started on May 5, 2021, and included the following new features, bug fixes, and other improvements."
+    publishedDateTime: 2021-05-13T20:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-may-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: Azure Backup supports backup and restore of Azure Dedicated Host "
     excerpt: "To protect your valuable resources, Azure Backup now supports backup & restore of Azure Virtual Machines with dedicated host. \n\n\n"
     publishedDateTime: 2021-04-01T15:56:14Z

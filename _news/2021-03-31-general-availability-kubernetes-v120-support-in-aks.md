@@ -154,6 +154,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Azure API Management updates - May 2021"
+    excerpt: "A regular Azure API Management service update was started on May 5, 2021, and included the following new features, bug fixes, and other improvements."
+    publishedDateTime: 2021-05-13T20:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-may-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: ExpressRoute monitoring in Azure Monitor network insights"
     excerpt: "Network insights in Azure Monitor now supports monitoring Azure ExpressRoute resources out of the box without any additional configuration or setup."
     publishedDateTime: 2021-03-31T16:01:57Z

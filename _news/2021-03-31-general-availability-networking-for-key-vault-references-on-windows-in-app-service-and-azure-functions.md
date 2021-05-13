@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 879
+heat: 899
 published: true
 
 provider:
@@ -152,6 +152,15 @@ related:
     excerpt: "Take advantage of multiple new enhancements and features that are now generally available in Azure VPN Gateway."
     publishedDateTime: 2021-05-05T16:24:34Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-multiple-new-features-for-azure-vpn-gateway/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Azure API Management updates - May 2021"
+    excerpt: "A regular Azure API Management service update was started on May 5, 2021, and included the following new features, bug fixes, and other improvements."
+    publishedDateTime: 2021-05-13T20:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-may-2021/"
     type: article
     provider:
       name: Microsoft
