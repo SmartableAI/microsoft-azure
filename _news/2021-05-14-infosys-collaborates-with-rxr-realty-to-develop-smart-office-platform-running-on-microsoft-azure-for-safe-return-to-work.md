@@ -1,31 +1,26 @@
 ---
 category: news
-title: "Splunk and Carahsoft Work with Microsoft to Deliver Cloud-Based Data Analytics and Services for Government Agencies on Microsoft Azure"
-excerpt: "Splunk Enterprise Transformation with Azure is designed to help agencies deliver new services faster with increased performance and reliability. This scalable solution supports the collection of hundreds of terabytes of data per day from workloads residing on-premises,"
-publishedDateTime: 2021-05-13T16:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/splunk-and-carahsoft-work-with-microsoft-to-deliver-cloud-based-data-analytics-and-services-for-government-agencies-on-microsoft-azure-2021-05-13"
-webUrl: "https://www.marketwatch.com/press-release/splunk-and-carahsoft-work-with-microsoft-to-deliver-cloud-based-data-analytics-and-services-for-government-agencies-on-microsoft-azure-2021-05-13"
+title: "Infosys collaborates with RXR Realty to develop smart office platform running on Microsoft Azure for safe return to work"
+excerpt: "It major, Infosys said that company has collaborated with RXR Realty to build and deploy a comprehensive, award-winning smart building health and wellness solution running on Microsoft Azure."
+publishedDateTime: 2021-05-14T06:38:00Z
+originalUrl: "https://www.uniindia.com/~/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/Business Economy/news/2395131.html"
+webUrl: "https://www.uniindia.com/~/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/Business Economy/news/2395131.html"
 type: article
-quality: 62
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: United News of India
+  domain: uniindia.com
 
 topics:
   - Azure
-  - Analytics
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "http://www.uniindia.com/cms/gall_content/2021/5/2021_5$largeimg14_May_2021_120833073.jpg"
+    width: 595
+    height: 350
     isCached: true
 
 related:
@@ -58,6 +53,20 @@ related:
       - url: "https://static.coindesk.com/wp-content/uploads/2018/08/Microsoft-1-1200x628.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Splunk and Carahsoft Work with Microsoft to Deliver Cloud-Based Data Analytics and Services for Government Agencies on Microsoft Azure"
+    excerpt: "Splunk Enterprise Transformation with Azure is designed to help agencies deliver new services faster with increased performance and reliability. This scalable solution supports the collection of hundreds of terabytes of data per day from workloads residing on-premises,"
+    publishedDateTime: 2021-05-13T16:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/splunk-and-carahsoft-work-with-microsoft-to-deliver-cloud-based-data-analytics-and-services-for-government-agencies-on-microsoft-azure-2021-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft Does The Math On Azure Datacenter Switch Failures"
     excerpt: "As supercomputer centers have long known and as hyperscalers and cloud builders eventually learned, the larger the cluster, the greater the chance that on"
@@ -133,20 +142,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Infosys collaborates with RXR Realty to develop smart office platform running on Microsoft Azure for safe return to work"
-    excerpt: "It major, Infosys said that company has collaborated with RXR Realty to build and deploy a comprehensive, award-winning smart building health and wellness solution running on Microsoft Azure."
-    publishedDateTime: 2021-05-14T06:38:00Z
-    webUrl: "https://www.uniindia.com/~/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/Business Economy/news/2395131.html"
-    type: article
-    provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 12
-    images:
-      - url: "http://www.uniindia.com/cms/gall_content/2021/5/2021_5$largeimg14_May_2021_120833073.jpg"
-        width: 595
-        height: 350
-        isCached: true
   - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
     excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and deploy a comprehensive,"
     publishedDateTime: 2021-05-13T15:30:00Z
@@ -162,6 +157,6 @@ related:
         height: 420
         isCached: true
 
-secured: "wcuZyVtVWFw/Cr2zFpsIY8N/EWSauKD797R6zUTdx2acOmQ36NYyYG+lnB/seKS9+qq9R6vOoteCN7bxnVnhsF2I7KXmKqoJVLCXI1oiq+VOOkaLTRjjOc+sGidpjgthaZSPoj2xsTn48/zJxhZevQ0bVQeXr4rkixgt4+1mL4JoH2BTPeN7791EoyePShr0P6waHFEYNdNdYWfAd6yZsZzE2o5rIAAcfBQhBNeJuDs1jSENe5smarfSqkgfx6aJViujsfzDt+ZvO50lYFduhME9UQUIaHXmZOTdW1Ty1yV2L4QZuY/8Y2Nvp37gwdFQFf3v7RVXlecSYO2/ZaQPKNzt5u/+FGxRUzc5ybgHswY=;dYvex2Xq1x+od3SInHDMZg=="
+secured: "xsefuBC3UosDdDIpAzni4JU+9IyiShDwLMEYMyYyqejW9HRDRNQs7b0TtQaK0elXbmBuGk8IxEGlVeCOInejzKPZlV24Q2q5CS+ftKk3n+CNgjOFGvvhAdFe/GGXDJb8BkW418YSWTkx1QN0YqEerk1dlpM3+mc3HnrTyQNUGwTVSe3tDpZ6/Bwnv6vu1A9CZRUUTKZfH6V9lDlzaYUzhIsjcXx69hSzd17CNNDUcK4jx9dvWJ5Q0fqMbcp2ig5RQCkcl+B6enNldin9NHydjlF8dV6a+ogbLu3VLPSsX7y3gFYqiRUL9qj4aZCUrTD3xsQD/Qal+ll8HcPj4k+C3f6p+0KdiaSO24zqI46kA48=;sJUYp4/geT3M+b4ppank8Q=="
 ---
 

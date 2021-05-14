@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Splunk and Carahsoft Work with Microsoft to Deliver Cloud-Based Data Analytics and Services for Government Agencies on Microsoft Azure"
+    excerpt: "Splunk Enterprise Transformation with Azure is designed to help agencies deliver new services faster with increased performance and reliability. This scalable solution supports the collection of hundreds of terabytes of data per day from workloads residing on-premises,"
+    publishedDateTime: 2021-05-13T16:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/splunk-and-carahsoft-work-with-microsoft-to-deliver-cloud-based-data-analytics-and-services-for-government-agencies-on-microsoft-azure-2021-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Orbbec is developing 3D cameras on Microsoft's Azure Depth Platform"
     excerpt: "Orbbec and Microsoft team up to develop advanced time-of-flight 3D cameras for computer vision and AI developers for 2022 launch."
     publishedDateTime: 2021-05-14T04:37:00Z
@@ -114,17 +128,20 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Splunk and Carahsoft Work with Microsoft to Deliver Cloud-Based Data Analytics and Services for Government Agencies on Microsoft Azure"
-    excerpt: "Carahsoft Technology Corp., The Trusted Government IT Solutions Provider ®, and Splunk, Inc., provider of the Data-to-Everything Platform, announced today the availability of Splunk ® Enterprise Transformation with Azure for public sector customers."
-    publishedDateTime: 2021-05-13T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21109573/splunk-and-carahsoft-work-with-microsoft-to-deliver-cloud-based-data-analytics-and-services-for-go"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21109573"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21109573"
+  - title: "Infosys collaborates with RXR Realty to develop smart office platform running on Microsoft Azure for safe return to work"
+    excerpt: "It major, Infosys said that company has collaborated with RXR Realty to build and deploy a comprehensive, award-winning smart building health and wellness solution running on Microsoft Azure."
+    publishedDateTime: 2021-05-14T06:38:00Z
+    webUrl: "https://www.uniindia.com/~/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/Business Economy/news/2395131.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
+      name: United News of India
+      domain: uniindia.com
+    quality: 12
+    images:
+      - url: "http://www.uniindia.com/cms/gall_content/2021/5/2021_5$largeimg14_May_2021_120833073.jpg"
+        width: 595
+        height: 350
+        isCached: true
   - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
     excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and deploy a comprehensive,"
     publishedDateTime: 2021-05-13T15:30:00Z
