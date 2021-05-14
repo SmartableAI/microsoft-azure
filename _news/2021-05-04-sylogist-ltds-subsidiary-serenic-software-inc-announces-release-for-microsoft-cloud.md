@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Is Closing Down Its Azure Blockchain Service In September"
+    excerpt: "Microsoft is shutting down its Azure Blockchain Service on September 10, 2021, after being in service for around six years."
+    publishedDateTime: 2021-05-14T07:16:00Z
+    webUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html"
+    ampWebUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 74
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2021/05/azure-blockchain-technology.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
     excerpt: "May 6, 2021 /PRNewswire/ -- Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2021-05-06T12:10:00Z

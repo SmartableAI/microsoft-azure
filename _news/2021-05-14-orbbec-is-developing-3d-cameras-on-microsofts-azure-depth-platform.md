@@ -128,20 +128,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Infosys collaborates with RXR Realty to develop smart office platform running on Microsoft Azure for safe return to work"
-    excerpt: "It major, Infosys said that company has collaborated with RXR Realty to build and deploy a comprehensive, award-winning smart building health and wellness solution running on Microsoft Azure."
-    publishedDateTime: 2021-05-14T06:38:00Z
-    webUrl: "https://www.uniindia.com/~/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/Business Economy/news/2395131.html"
-    type: article
-    provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 12
-    images:
-      - url: "http://www.uniindia.com/cms/gall_content/2021/5/2021_5$largeimg14_May_2021_120833073.jpg"
-        width: 595
-        height: 350
-        isCached: true
   - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
     excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and deploy a comprehensive,"
     publishedDateTime: 2021-05-13T15:30:00Z
@@ -156,6 +142,15 @@ related:
         width: 1200
         height: 420
         isCached: true
+  - title: "Infosys collaborates with RXR Realty to develop smart office platform running on Microsoft Azure for safe return to work"
+    excerpt: "It major, Infosys said that company has collaborated with RXR Realty to build and deploy a comprehensive, award-winning smart building health and wellness solution running on Microsoft Azure."
+    publishedDateTime: 2021-05-14T06:38:00Z
+    webUrl: "https://www.uniindia.com/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/business-economy/news/2395131.html"
+    type: article
+    provider:
+      name: United News of India
+      domain: uniindia.com
+    quality: 0
 
 secured: "WBAS7XH8mrNn/MIjRNlS1vjhyBP71wBlhWXBgw95QZEdnXMDhWqK2gQ0ADC2AXZHd1ujyMI/GlL7NBOZdJt5XdnEKV1EntM7NsvqjW9cjdr5Dd5j6zTh6p1zrcnXb5nyZidmmbXOTf+bM9T0OrXoTuPrF1wCmbWc3fwQ4HhsqsoiKnpuuRXhB8X3LO/vW8PDUO/EXNCqrKBOFXHqJS8wG7fXUfG57ODIfVO3vlBM76ImRh416XQ6M8ip9moSr0zep5T7JxolDRprMHVuXcEjOeAXtifn1ppGAvzmeLnS82jLg56p1QNI55z2TRoC4+3rS2UXdhEOXeOZeJdX4gngZncIjd8ZhjSiDGuamOOUgII=;G9Z5PdPm+6fbtxit33aM0Q=="
 ---

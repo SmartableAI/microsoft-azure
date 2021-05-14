@@ -1,26 +1,29 @@
 ---
 category: news
-title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
-excerpt: "May 6, 2021 /PRNewswire/ -- Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store ..."
-publishedDateTime: 2021-05-06T12:10:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
-webUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
+title: "Microsoft Is Closing Down Its Azure Blockchain Service In September"
+excerpt: "Microsoft is shutting down its Azure Blockchain Service on September 10, 2021, after being in service for around six years."
+publishedDateTime: 2021-05-14T07:16:00Z
+originalUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html"
+webUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html"
+ampWebUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html/amp"
+cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html/amp"
 type: article
-quality: 37
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: techworm.net
+  domain: techworm.net
 
 topics:
   - Azure
+  - Blockchain
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://www.techworm.net/wp-content/uploads/2021/05/azure-blockchain-technology.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -40,21 +43,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft Is Closing Down Its Azure Blockchain Service In September"
-    excerpt: "Microsoft is shutting down its Azure Blockchain Service on September 10, 2021, after being in service for around six years."
-    publishedDateTime: 2021-05-14T07:16:00Z
-    webUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html"
-    ampWebUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html/amp"
+  - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
+    excerpt: "May 6, 2021 /PRNewswire/ -- Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-05-06T12:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
     type: article
     provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 74
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
     images:
-      - url: "https://www.techworm.net/wp-content/uploads/2021/05/azure-blockchain-technology.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Sylogist Ltd.'s subsidiary, Serenic Software Inc. Announces Release for Microsoft Cloud"
     excerpt: "CNW/ - Serenic Software Inc., a Sylogist Ltd. (TSX: SYZ) (\"Sylogist\") company, a leading provider of comprehensive enterprise resource planning"
@@ -71,6 +72,6 @@ related:
         height: 785
         isCached: true
 
-secured: "pWVj6As0JuuaYP4lpoXdlI0J9VJSlji7PJxhbpbqCp+ivR0Xe47umFehNBzJQ/Ai2vonWxhYBPhqqEr5pmIyeV/pw7047pEIDtnxs8gmN8K9SyYTprMwNmK3i86bJpz1+KQixEuK5qSFqm+J8VTt9U4JCjZ0j/Y5/VLvevNEngbD4HMfVkthszcVmHkwXzt5wwhEWcE8x6DTmAPuk8u072QBMQ9V3zDbHBNLr8XL33c4sUP7wGQ2ilztJFEd9/wNsRFLxJH+kz+oi/nE7Ph6y5jdTcf9q7tbd77RpRMGbea5OZSeoKBRF+SVvVa52ByfxPwjsci9aKojhR2AO24+47yecy6fxciMp4EB/wP/bLI=;AuUcSJDgLOuhJt+atdsB3Q=="
+secured: "9xWFb/1zSZHfkr5P40sYEQiKs4EIB+/xSdE382Ii91m4bCW92cuJwg9QMh3eFhOQCE8gzYnOVMhBzO5gk45UljIIN5GweTYhCysVRrSjZ7iAUOUSw8MMe3/fr8cNsc9SvxCXALYx9z0sLZuo98p8KkmojLpbgl9h87xA8wetBTjkApuiMHcXoY9eqbipNnsYQ/v0/nQO6HyvBJtgPHArUOwn4mLhikNeKdqbB5onQMUDpoaxB6zbDvoOyKDzSGJCjIQhNyJsNh385cGR61j5nuS8nJGNg2JWGM6qMNRUX1R4qrTu4bz0SINhRsOtmq8QV0ZiQFkyHz5Iz4K+9YBb6lwP1lEDkXnTst6QZooGCmM=;HTbHjz825Fkj8UKxUN1Yzg=="
 ---
 

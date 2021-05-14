@@ -3,10 +3,10 @@ category: news
 title: "Infosys collaborates with RXR Realty to develop smart office platform running on Microsoft Azure for safe return to work"
 excerpt: "It major, Infosys said that company has collaborated with RXR Realty to build and deploy a comprehensive, award-winning smart building health and wellness solution running on Microsoft Azure."
 publishedDateTime: 2021-05-14T06:38:00Z
-originalUrl: "https://www.uniindia.com/~/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/Business Economy/news/2395131.html"
-webUrl: "https://www.uniindia.com/~/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/Business Economy/news/2395131.html"
+originalUrl: "https://www.uniindia.com/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/business-economy/news/2395131.html"
+webUrl: "https://www.uniindia.com/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/business-economy/news/2395131.html"
 type: article
-quality: 12
+quality: 0
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 
 topics:
   - Azure
-
-images:
-  - url: "http://www.uniindia.com/cms/gall_content/2021/5/2021_5$largeimg14_May_2021_120833073.jpg"
-    width: 595
-    height: 350
-    isCached: true
 
 related:
   - title: "Low-code development series: Modernize your IoT future with Azure and Microsoft Power Platform"
@@ -157,6 +151,6 @@ related:
         height: 420
         isCached: true
 
-secured: "xsefuBC3UosDdDIpAzni4JU+9IyiShDwLMEYMyYyqejW9HRDRNQs7b0TtQaK0elXbmBuGk8IxEGlVeCOInejzKPZlV24Q2q5CS+ftKk3n+CNgjOFGvvhAdFe/GGXDJb8BkW418YSWTkx1QN0YqEerk1dlpM3+mc3HnrTyQNUGwTVSe3tDpZ6/Bwnv6vu1A9CZRUUTKZfH6V9lDlzaYUzhIsjcXx69hSzd17CNNDUcK4jx9dvWJ5Q0fqMbcp2ig5RQCkcl+B6enNldin9NHydjlF8dV6a+ogbLu3VLPSsX7y3gFYqiRUL9qj4aZCUrTD3xsQD/Qal+ll8HcPj4k+C3f6p+0KdiaSO24zqI46kA48=;sJUYp4/geT3M+b4ppank8Q=="
+secured: "0vBGWZbR9T9pD20QsbA0Bmp7AFDU/oA3QIbmSgQ1SfxCWxyRWID6M2aV1xEJiZYoKJ7qLGy06gw2KKzF2uZwvUxKif9gUMeLPkIFMblU1UQ6m1LAZ4b5EpTjDx5a4aQkHtpjAnlrtMkMoVvCw0nSQwPHgKlJ1Y15dQJoVejI9FbdqjVLGYhM6AHavc4z8DcH62PNlH7m6PYJ/JOSmC4Xt+uk3XFFrFTQyqo9JwCuAIWyFUmBOel5YEwxvokdkS3NzrVRWO/KgFJ6V45FcBktX/yXXqIv92yMgeJ74xJCjWaIAxWDMvQcs0dj1AM+NNAU3BRSfq7Twxq52IClWf8z22szq46Glp0zLz9xNZgYYFqxyX6VA9fGddiifslLKdba4mk4WHaCZkjcK4a3X792wybCh5tOd/sNn6nWYnzA9xLE6472xpJNNB1D/Y5FqOuuk/QAOXcy9bJiAhtdoe0A6ZXYFYJx8nN0icq0qBvQ4Zq2vJIBumDrSTJzzOTyF5HRe86qK1tNTtUbB+OlKoUuuQ==;CbhK+xs4ZjnsUXE7TfyUMA=="
 ---
 

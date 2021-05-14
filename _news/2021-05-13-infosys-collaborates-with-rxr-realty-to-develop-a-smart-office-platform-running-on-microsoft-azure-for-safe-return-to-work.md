@@ -145,17 +145,12 @@ related:
   - title: "Infosys collaborates with RXR Realty to develop smart office platform running on Microsoft Azure for safe return to work"
     excerpt: "It major, Infosys said that company has collaborated with RXR Realty to build and deploy a comprehensive, award-winning smart building health and wellness solution running on Microsoft Azure."
     publishedDateTime: 2021-05-14T06:38:00Z
-    webUrl: "https://www.uniindia.com/~/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/Business Economy/news/2395131.html"
+    webUrl: "https://www.uniindia.com/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/business-economy/news/2395131.html"
     type: article
     provider:
       name: United News of India
       domain: uniindia.com
-    quality: 12
-    images:
-      - url: "http://www.uniindia.com/cms/gall_content/2021/5/2021_5$largeimg14_May_2021_120833073.jpg"
-        width: 595
-        height: 350
-        isCached: true
+    quality: 0
 
 secured: "ZX0JiTZSsRASj34a2FGgqIcVKQ2RjkD5zKupqXlAJr+xnbfI8di/yCLeSqeOFu29RL3jijsUKRbercfrizbKtixbgxbbVvU621eZ535CMVx4YN4PT92sJMNKP04cXp4Zc2OMp0Ps+338+O7qgoWh53EBQs0Favv6ZbJv0dm9DeLr1zvdSuBL/YYFyC0NSDNkp21IaRoqeupancY5RIhi6FtHnLROHFcMU9NHObBeuHuyIlEJFgSvU1rctddfh9yYRRycXDuWJfTC5Ziu7kw7MXSmJvbQQx4T1i+J/uSFq+H/k+UGh6grh2LUFSbd7TDFGhGqjOJIbXJW8R75b8mhEli1siNfUDC7Xt+ivv8VjPrsededDhMylrEXAjuW8e5K+IEpTywDwoMGvgLKz8Et62vBK3mj4+3CCMChEv/919YeLakjJbZaJ8uK/EhG9IJTPBdJKrOx45q5T+oFl88hALb5A8AurhDB71b3XRD7TEB8y3HVclNyjjgujiTWq6WVFp5/rEktg0m+UqUYgiSRuw==;9GuRQA8s62Q4Rs7lBWwCtg=="
 ---
