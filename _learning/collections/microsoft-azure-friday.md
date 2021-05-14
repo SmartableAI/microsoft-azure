@@ -2,7 +2,7 @@
 title: "Azure Friday"
 excerpt: "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights."
 type: collection
-heat: 62
+heat: 63
 
 provider:
   name: Microsoft
@@ -112,6 +112,7 @@ items:
   - videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday
   - videos/microsoft-azure-cosmos-db-update-for-august-2019-azure-friday
   - videos/microsoft-how-to-identify-web-app-changes-to-triage-and-root-cause-live-site-issues-azure-friday
+  - videos/microsoft-protect-your-web-applications-using-waf-with-azure-front-door-azure-friday
   - videos/microsoft-protect-your-web-applications-using-waf-with-azure-front-door-azure-friday
   - videos/microsoft-azure-api-management-updates-serverless-schemas-and-a-new-dev-portal-azure-friday
   - videos/microsoft-an-introduction-to-azure-dedicated-hosts-azure-friday

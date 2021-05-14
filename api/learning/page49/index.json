@@ -4,14 +4,14 @@
   "page": 49,
   "value": [
     {
-      "path": "_learning/videos/microsoft-azure-friday-virtual-machine-planned-maintenance.md",
-      "title": "Azure Friday | Virtual Machine Planned Maintenance",
-      "excerpt": "Ziv Rafalovich joins Scott Hanselman to talk about improvements to the planned maintenance experience in Azure, including better visibility and control of maintenance events that impact virtual machine availability. Learn how to create alerts, discover which virtual machines are scheduled for maintenance,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-virtual-machine-planned-maintenance/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-virtual-machine-planned-maintenance/",
-      "originalUrl": "https://youtube.com/watch?v=TXXzFp2TJEQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TXXzFp2TJEQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M3S",
+      "path": "_learning/videos/microsoft-azure-friday-visually-build-pipelines-for-azure-data-factory-v2.md",
+      "title": "Azure Friday | Visually build pipelines for Azure Data Factory V2",
+      "excerpt": "Gaurav Malhotra shows Donovan Brown how you can now visually build pipelines for Azure Data Factory V2 and be more productive by getting pipelines up & running quickly without writing any code.  For more information, see:  ADF v2: Visual Tools enabled in public preview (blog) - https://azure.microsoft.com/en-us/blog/adf-v2-visual-tools-enabled-in-public-preview/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-visually-build-pipelines-for-azure-data-factory-v2/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-visually-build-pipelines-for-azure-data-factory-v2/",
+      "originalUrl": "https://youtube.com/watch?v=uS8xyqHql5I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uS8xyqHql5I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M32S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -24,11 +24,11 @@
           }
         ]
       },
-      "publishedDateTime": "2017-09-18T18:05:58-07:00",
+      "publishedDateTime": "2018-01-16T12:02:38-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/TXXzFp2TJEQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/uS8xyqHql5I/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -38,8 +38,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Compute"
+        "Azure"
       ]
     },
     {
@@ -701,46 +700,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-stream-analytics-managing-timelines-and-coding-on-iot-edge-azure-friday.md",
-      "title": "Azure Stream Analytics: Managing timelines and coding on IoT Edge | Azure Friday",
-      "excerpt": "Jean-Sébastien Brunner joins Lara Rubbelke to discuss new features that enable you to implement the intelligent cloud, intelligent edge vision for streaming analytics: Stream Analytics running real-time analytics with custom code on IoT Edge. We also discuss substreams, which is a new time management",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-stream-analytics-managing-timelines-and-coding-on-iot-edge-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-stream-analytics-managing-timelines-and-coding-on-iot-edge-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=Ip6WCymLm18",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ip6WCymLm18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M29S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-08-14T14:02:12-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ip6WCymLm18/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-azure-tips-and-tricks-for-visual-studio-2019-azure-friday.md",
       "title": "Azure Tips and Tricks for Visual Studio 2019 | Azure Friday",
       "excerpt": "Learn Michael Crump's latest Azure tips and tricks that will help you be more productive working with Azure in Visual Studio 2019. [00:40] Demo Start   Azure Tips and Tricks project https://aka.ms/azfr/554/01  Azure Tips and Tricks videos https://aka.ms/azfr/554/02  Tip 130: Visual Studio app settings",
@@ -1163,6 +1122,44 @@
       "topics": [
         "Azure",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-build-real-time-liveops-into-games-with-playfab-azure-friday.md",
+      "title": "Build real-time LiveOps into games with PlayFab | Azure Friday",
+      "excerpt": "Modern games require more powerful development tools, global and flexible multiplayer support, and new revenue models. PlayFab is a complete back-end platform for live games and a powerful way for independent studios to get started. Boost revenue, engagement, and retention—while cutting costs—with game",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-build-real-time-liveops-into-games-with-playfab-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-build-real-time-liveops-into-games-with-playfab-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=3v5UlSuGjdY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3v5UlSuGjdY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M17S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-27T16:57:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3v5UlSuGjdY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

@@ -4,7 +4,7 @@ excerpt: "In this edition of Azure Tips and Tricks, learn how to Deploy Steeltoe
 originalUrl: https://youtube.com/watch?v=_RGvAQXz4-Q
 type: video
 price: Free
-length: PT3M53S
+length: PT3M54S
 publishedDateTime: 2021-03-22T15:00:05Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JeXmeW4u7I5qC9nb4vaJnxhRpvBpTsuDSsfoagaNDRk6T+Dic674wGj+1CqcMs2UfrNTNCl514cndUeAxoicw6IRodfrt8JId45xrc/Gn42WBvNJkTTz+OuQVzcubiVLqK0NE6sFCXgBnBwWCODn62VdjYYbOCgim4e9NoYvZmu4slehP8JQv8bowEATJ2jn1b4a56VyDoFeoHvZYopk0VINdhMUHc8oJk6t/+qvRBlqxM4QVjbUYqKmBsv5z9iIpRcdlVZZhwb84Hp2qu+gEeQya6UpUnm0SQr9q1zvJ31ZfTSjlgkcN1IkmNgb6iqNJ/0D3co93wp0fVzEup9l8B+sYL6EXWBZJS22F50aIGnHB/fNXIEaZ5dUVTqsgZchj+mOM9zbhAzvTbjuss4C/94Gw4GvNBUuFS8yAP8wGsM=;v9UbwhRu0qLNzBIYkNlf2w=="
+secured: "O9g0mJEL/9DzVyxOzGLT7eAzkJysfek7CHxPwSbTg03eqzJhnja8Hos/NSMqGrfSB9IRHIccMu+7TszDWMy/Omyby1GSdLkIbE6M0QfYgfP5wxKejRWnejGQ6ZGCrwXqjYZN6Pqa2WM4hkCQBki+vE5Qj2jIK96B8xGWThNxycCXq/6Frwe+ZcBLyLmcw0UlYJIxJ/f8ryplrGfGPpJPk+dFJErv9aFC3jxh1bmdli+0d+IbnvTaexannGWefULlqajRokDlN7VaD8pLSF/T+wX2fatHHTvgwgBM2Snkc3n7bUWlSxg0hir+/bDaGx/+c5f4MGe7yzP+wafqTiKVNfP4N6l7XpIWStzWi8AzkH+QRrXk0kgzgdLso3uaR8UMXiuh7VodeSRQ8i4hoF4eWH6S6gaUjNvM9eFSzGCchSg=;x0NP0qu8EHTYtkB7MH3ouw=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Ingest Data into Azure Digital Twins"
 excerpt: "Learn the different ways to ingest data into Azure Digital Twins."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/develop-with-azure-digital-twins/ingest-data-into-azure-digital-twins/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/ingest-data-into-azure-digital-twins/
 type: course
 price: Free
 length: PT36M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "QlunBhQKNPBD5tbvCsi+vgcvErzG86/oncylz8EiIQ+jPQ8Ha6d/KTjLfIZQTygXbWksC0BO6rHQ1CSHF73CZRflCwpc0sFIYC7EY8t6kFqY3O7fKE/f4zNepF3QHOJn34m9kD55RWRb3B4fNImKrqBGF7QJsUc1JW+sGvdipdwQ4mrg3WBQ7Xv8uII/bP4BDofO5R02o5Zjyvf/bYz784CMuooUCbg2EFZ5eJFczciCwkfWnHPVX2GBFQTUp2J6PSTid/GHWNlN5WdDXnhK1mUjpWc+FMJArTnnd6Cd9aYJSt7N9vLJdjoNNXN8x9oHDK5IyvyqcIi45MGVPePlAH5ooj5+80baOS/T5e8xGvDSkobUufMWQbj+RXXXpY22TA2OcfecgWrtKjoZKth2Wu3EsGmGlQc7HDQerFnd0kI=;8Agi96A10waiedt4y4mGlg=="
+secured: "pCdX6EuHAJ+cdw3XncRnFGUabOX3iqxqHa7z4O9XK02cDBJ3oL3X2JSLbFbsJq4YBEYmniHVMcJlQg84unQNn5fLVgiM1OAH3pNh6cn6OA6iakD9vdr9kAGRa5T5QTJA9oMp7W+7Lww1uH3Ximqt+SOD+wtAQsB0/xJLyBugXSjAB6Or9piNxHnyLn9BcV5kJu6/LfuyaDmwXu8SjuKTxKz6yAnAkzPRQb4imxIkuSl5XuhsqcjWlmcHoEmU5N2WV1ox6Eo5doZ9WCWWKY6dlxJs4zMDDMLRH8Lt9wpkWu2q73qd6s/JzpT3nZybSYiQQ19kcRR1vUc3jtQoA1CL8bPaPP+KsS6FQzhDr/JP4WVfbPa78jCgKkRYHHVdmi/a4y0L3CSeAWRp8B8BlKVo8w==;VDuBbL4tKzWxbjEp0freRw=="
 ---
 
