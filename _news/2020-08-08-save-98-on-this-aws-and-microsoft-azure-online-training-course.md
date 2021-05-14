@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/uk/shopping/aug-8-cloud-certification-training.
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/aug-8-cloud-certification-training.amp"
 type: article
 quality: 97
-heat: 737
+heat: 757
 published: true
 
 provider:
@@ -54,6 +54,22 @@ related:
     quality: 90
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft Azure is gaining on AWS. Get all the training now to be a full Azure expert for under $40."
+    excerpt: "Yes, the major public clouds offer a lot. But what you may not know are the limitations, and how open clouds make the difference. Join Transform 2021 this July 12-16. Register fo r the AI event of ..."
+    publishedDateTime: 2021-05-14T16:42:00Z
+    webUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/"
+    ampWebUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/sale_25748_article_image.jpg?w=1200&strip=all"
         width: 1200
         height: 800
         isCached: true

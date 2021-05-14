@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 899
+heat: 919
 published: true
 
 provider:
@@ -305,6 +305,15 @@ related:
     excerpt: "Get new Azure Maps features and potential cost savings with Gen2 pricing."
     publishedDateTime: 2021-05-03T16:00:13Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-maps-new-gen2-pricing-model-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability:  VNET peering support for Azure Bastion"
+    excerpt: "You can now deploy Azure Bastion in a peered Virtual Network (VNet), enabling RDP/SSH connectivity to virtual machines deployed in a peered Virtual network (VNet)"
+    publishedDateTime: 2021-05-14T17:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vnet-peering-support-for-azure-bastion/"
     type: article
     provider:
       name: Microsoft

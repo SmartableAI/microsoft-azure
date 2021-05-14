@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Microsoft Windows and Azure can be a business lifeline. This training shows you how."
-excerpt: "With the training in The Complete 2021 Microsoft, Windows and Azure Bundle, IT experts can earn a firm grounding in all things Microsoft, including the ways Microsoft hardware, software ..."
-publishedDateTime: 2021-05-04T16:00:00Z
-originalUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/"
-webUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/"
-ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
+title: "Microsoft Azure is gaining on AWS. Get all the training now to be a full Azure expert for under $40."
+excerpt: "Yes, the major public clouds offer a lot. But what you may not know are the limitations, and how open clouds make the difference. Join Transform 2021 this July 12-16. Register fo r the AI event of ..."
+publishedDateTime: 2021-05-14T16:42:00Z
+originalUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/"
+webUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/"
+ampWebUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
 type: article
-quality: 90
+quality: 82
 heat: -1
 published: false
 
@@ -24,7 +24,7 @@ topics:
   - Azure
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all"
+  - url: "https://venturebeat.com/wp-content/uploads/2021/05/sale_25748_article_image.jpg?w=1200&strip=all"
     width: 1200
     height: 800
     isCached: true
@@ -62,19 +62,19 @@ related:
         width: 824
         height: 517
         isCached: true
-  - title: "Microsoft Azure is gaining on AWS. Get all the training now to be a full Azure expert for under $40."
-    excerpt: "Yes, the major public clouds offer a lot. But what you may not know are the limitations, and how open clouds make the difference. Join Transform 2021 this July 12-16. Register fo r the AI event of ..."
-    publishedDateTime: 2021-05-14T16:42:00Z
-    webUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/"
-    ampWebUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
+  - title: "Microsoft Windows and Azure can be a business lifeline. This training shows you how."
+    excerpt: "With the training in The Complete 2021 Microsoft, Windows and Azure Bundle, IT experts can earn a firm grounding in all things Microsoft, including the ways Microsoft hardware, software ..."
+    publishedDateTime: 2021-05-04T16:00:00Z
+    webUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/"
+    ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 82
+    quality: 90
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/sale_25748_article_image.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all"
         width: 1200
         height: 800
         isCached: true
@@ -475,6 +475,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "ScM366p7yRscoVaTK+7AqzrBSqz8C/GjSwpnoFwVZtxQP39kA0lIgVXu9xMfnSfo2ujpdKw2Kuv3afMuTKZIJlkPqudVjlncdd+rt98c/6gKTOgIXn4kcskapkCsLFC8/PyrrBbRK9Yi4M61BhcY2ITZ4WCwzMpS6YzsngY7Zik6wfoO/on2FZnDO1sttG/16Aho+qczCQRVDD7aUk6e/GcJXQiYkluTll+mcRFZv2rAv4iVedGe1KDvh3zphvkxW5Xx+BizC7rqehNHkBV0Mgca0sN4J4XhSsOAbw/ZC8Gm3t+ciIweAAIVXgxaW4FXdPXCkh3FO3bodNyeLNhBG9tnkGEpnk8cIprynIioto0e+4Z7yY7oygBSpVqxgORq9e3SHwRXKKMa4Fhvtb64Cz8lJU2hT8BXkj4TOuQqdkl+cdPCpiXFToNq3sN8mgNQ07Z2r/qclgbTp7apgnOWZCceOYN7x0N5FLs6hzWxOGRZ9WLkyxL+R0pGnrrXGAlvB01ljyhYdROpwTnq4WKLhg==;R/+8iTSSwlnAIAJioiEFWw=="
+secured: "a/FXbHJc5y7IzUvzrOtBZFDcMXy/vpkc1222jj4kKKcajYNYvj4IBXy7iupX44jvjfFRLSjK/0l8/3+LG20L93LpQUHsWA3GxFJOAHf06qqG6Lb6f8+YMO6CqGmKL2jOLpiPKCpbg1G9sKoOGXdDMml9P2AgnjxRgTS8Qoz081RasNlUKC5myFcr55GNI4FYswZXoH9VWJmr4AuXcyYEiPEGYgi17Ah5Wtb0d2tduJTX2/vAzKGGnnK4yfAAx+aEMEPAUuuctVZbVjMPgO6RgYVwE79MMyTCuhEh8QMOHhLEPsmeq3MufTe8WgqoWIeJAHifZczZqu5kESNlfP153yT/RJ8vSkrH5J3whgtyinA=;Ipg7iGnslbWp8o4ua4SS9g=="
 ---
 

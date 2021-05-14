@@ -316,6 +316,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability:  VNET peering support for Azure Bastion"
+    excerpt: "You can now deploy Azure Bastion in a peered Virtual Network (VNet), enabling RDP/SSH connectivity to virtual machines deployed in a peered Virtual network (VNet)"
+    publishedDateTime: 2021-05-14T17:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vnet-peering-support-for-azure-bastion/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: App Service Managed Certificates now supports apex domains"
     excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
     publishedDateTime: 2021-03-17T16:00:26Z

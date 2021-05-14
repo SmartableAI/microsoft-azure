@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Kubernetes v1.20 support in AKS"
-excerpt: "Benefit from the new features in Kubernetes 1.20, now supported by AKS in general availability."
-publishedDateTime: 2021-03-31T16:01:42Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-kubernetes-v120-support-in-aks/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-kubernetes-v120-support-in-aks/"
+title: "General availability:  VNET peering support for Azure Bastion"
+excerpt: "You can now deploy Azure Bastion in a peered Virtual Network (VNet), enabling RDP/SSH connectivity to virtual machines deployed in a peered Virtual network (VNet)"
+publishedDateTime: 2021-05-14T17:00:25Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vnet-peering-support-for-azure-bastion/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vnet-peering-support-for-azure-bastion/"
 type: article
-quality: 84
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Containers
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -131,6 +130,15 @@ related:
     excerpt: "Use Azure Private Link to connect to an Azure Cache for Redis instance from your virtual network via a private endpoint to eliminate data exposure to the public internet."
     publishedDateTime: 2021-03-31T16:01:57Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-cache-for-redis-in-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Kubernetes v1.20 support in AKS"
+    excerpt: "Benefit from the new features in Kubernetes 1.20, now supported by AKS in general availability."
+    publishedDateTime: 2021-03-31T16:01:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-kubernetes-v120-support-in-aks/"
     type: article
     provider:
       name: Microsoft
@@ -307,15 +315,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability:  VNET peering support for Azure Bastion"
-    excerpt: "You can now deploy Azure Bastion in a peered Virtual Network (VNet), enabling RDP/SSH connectivity to virtual machines deployed in a peered Virtual network (VNet)"
-    publishedDateTime: 2021-05-14T17:00:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vnet-peering-support-for-azure-bastion/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Updated App Service Authentication portal experience is now generally available"
     excerpt: "The new Authentication portal experience for App Service and Azure Functions, improving usability, initial setup, and increased security, is now available.”"
     publishedDateTime: 2021-04-01T21:02:34Z
@@ -389,6 +388,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "q9vBBdC7uGs2/rbWzSaQHmwXeorSQCknebHj3MblfWS9XEivCuxn7vwxIfp2OpN3lqyd+58GiXAulR3rNVYY7gWut6AnTgYooL8/5BWhAafLdhrlrogcCe/GWoBB5TdNxXNNhxhYFkvg9NySv/xTRv2PSXwoWD5rp13TYI1345oxM2jaV9Wbi4+JQGei0FY8iqyqeV6Fp+3XVAiYmfGxsGo6Igtpq+euqW0upyI2LiGGlwGCDtB2zSlv0ptQE6CPUDF4+tkxA03coFODXBncbVOEhmqkHCzA/4XO06pNToxy6U3pPWVJoACfWY58wvKH3FQ7PgSydJyOHLQiZH03AQLi2vsZSAGRYZN3ib5/m9g=;ZVgDypR5LIsk6RuT16iSWg=="
+secured: "fvt6UK+rvdKa17tse41tN2AsqRcVDH5gpO6PhJGQgUytWC2ti2CWrJedT4XZidF0duFFILxwghCcFJDgc/HCZP7BiRsOmT6jwMutOyzakF32XEaocoAeVX67olWLziYpX4K7rF9qC6eTWx0jNFtlhNs0VLSEHSKJimoONa7zaAzM+AEadRwsu+ogo6aMDiMytM3FDh4lYF4LGxYT+LXF4YLcH0UjebLkH/HvLU1k4qR7zEjya2k8135BknJNUsDJTvPjhdCuflwvquqQpKnz/MK9dXBPAHdsO/VWcDEv4QSUWSF2cvIQz9Ez9PZze2f2i8wFpFMdzCqjr6rhqSZEZPt0rRLeeIqTD19+H7oevKw=;0aV0OMqJmJiAQqITwqLU9A=="
 ---
 
