@@ -1,7 +1,7 @@
 ---
 title: "Output from Azure Digital Twins to downstream services"
 excerpt: "In this module, you'll learn about how Azure Digital Twins uses event routes to send data to consumers outside the service."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/develop-with-azure-digital-twins/route-output-from-azure-digital-twins-to-downstream-services/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/route-output-from-azure-digital-twins-to-downstream-services/
 type: course
 price: Free
 length: PT52M
@@ -25,6 +25,12 @@ topics:
   - Azure
   - IoT
 
-secured: "FlxoWQVYhbXyTBio5oeSXPy/cJMYOMqvo4VY7ef+3PFHN4slmHKjxl7Go4lmcZm/cxjZH3qKPuaWPbQlGaqZsOAyT6pq01jFZ01gZC5V2UDXy5aSNV05nI1cUed4hCaQetATqId6Gj8Cr1neRnyusVHhF8qqujaCegXmU2uUfbiqIGYw1snufUxL317uuX9AfBj+hVuR4EmVmUzlf2LdZdntfaeXfgg1VbHVkJ03i7AnqrEXqZZrYP+M44dbw0O/3lAJcgw8WLjsiKiaAdy5vbkRD7PuSysc9JEtcFt5IqZ7j+xXn/mIw2ozOpe4gb7gbeFE6Ztcl0KpFy41NxpFrQn4Rl9RN0IuGNsPKzxWBnNPdvJ0LiCgtmTqbqKLxtyWDDEd2B1ZElpLGB/7sVK/BQ==;IAm4t2jtXfCQQSYgKy9/LA=="
+images:
+  - url: https://docs.microsoft.com/learn/achievements/iot/output-from-adt-to-downstream-services-social.png
+    width: 640
+    height: 320
+    isCached: true
+
+secured: "D14w6fT+T97+bRQyRJ5om4VatrddSVSZAEfnh51zhlY2F4D4pH3ozqH+jefPKsBMyF+g0e+ecofOjFl+jlsHjCwGkS4OLLZykVhlWhCm0QHQwmJMdsoVczUdxetcmpKq8Y/tH/rbfJQYp1XVRS/4t8ETDv4KAZg7RCGzqQwrlcEIvGpgDbq8qHPgk9IVioXQ6lpWQtlL9eQzJFE+kgUjsaORbuC0lxcWVgltEY9YfwWMCHkNYsJZlfaVcmGgCHCJUeYdfWq6kYvRFZ9nDDKEwRpmxFXv2j0Ui7jWiZ7X6iP9bPZqFwxJ/C20/YK4ivOi9RQJYQJlWeKc7dH9/D0BIJ/7MtiEE0IJZhyZfPfA01cdiCUmSSQndFkNOMsn9/koRlNC3DhyuTDOolV7zza6JQ==;QavZjucI7O5ymrvBVJxLsQ=="
 ---
 

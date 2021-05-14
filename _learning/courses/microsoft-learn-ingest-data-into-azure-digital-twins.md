@@ -1,7 +1,7 @@
 ---
 title: "Ingest Data into Azure Digital Twins"
 excerpt: "Learn the different ways to ingest data into Azure Digital Twins."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/develop-with-azure-digital-twins/ingest-data-into-azure-digital-twins/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/ingest-data-into-azure-digital-twins/
 type: course
 price: Free
 length: PT36M
@@ -25,6 +25,12 @@ topics:
   - Azure
   - IoT
 
-secured: "uom6NUjtA4Kze7LNvLkqy/bcwWF+ZTbuKey+564lya+kiX5ZwnF271K05sqsIhP7A354Ae81gRvfLmnfXwEmP1agp0lkleoFTXt9NjeDwdPl2Uvji1Q6VPkXzwwKzqBoIPM2n8y695R0FTmjogYtAHj705tC8bS6/EP8mbOU6emNR30JvMRNlDCjibwikGLx3AAo73n1o/Po5JZRwgZMF8SKvM2/IczgOLzOKzAaLitreHwt5rHDdqMN3IY7FDCMMS4eBhHmPngFdb9JFL0MdejSwWGN5gIwlAztT/H9uAbu2qGF032GNMaqHfqQSygrIL1hbn66wy4Az2i7/fEL0/dWw4t9RLqo/mhQgWHBAtVL/7LcrRhBuUAJWyjOKskMgIHPrdumcy3WeCV+dar0KA==;rQpxbcFw5dxgIiXq9TZysg=="
+images:
+  - url: https://docs.microsoft.com/learn/achievements/iot/connect-input-to-azure-digital-twins-social.png
+    width: 640
+    height: 320
+    isCached: true
+
+secured: "y2/0sAKVKeX6uQOvGd8bpBBPuxxUwaItNN3vSnPCfn64Dium6nAhzFxq5+xprV2IBjZ7ecFFKl8s0JFrtnPR/nxr27QnRH8cLfFzf/OlouoBxgdayZFL9vpD9z73mAwIbzJK7tEEdskJA5iSH6vsNsKbuloui8etBiydm6pUxnGqfkdc0TjpmbF/q8jvPL6AwvkpSerSb+zngSBZN+BXVpgJUYgQ67E5KeCNkfbC4YNpqSvgkrDTX2s/ixJbwcmpQ2NgYdLKDaEiED8Lf/EGipsRrc+ZSHm2veeLQq/ZrL4B6Gy8XLQC0ZiUjqk0hHAPvlv84RBlHTtxcQPEzqCaLPH3r5RVMunbWQdAzqCfcVJ/75/NrNb/Ol2i50fm8BALfYpxPylaXH1dcHjTaRmw1A==;qrcXrdoMgRG/bzgu4QTdNQ=="
 ---
 

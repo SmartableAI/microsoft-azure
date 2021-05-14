@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Azure Digital Twins"
 excerpt: "This module provides an overview of Azure Digital Twins and describes Microsoft tools, services, and infrastructure. This knowledge can help bring digital twins to life for your organization and customers."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/develop-with-azure-digital-twins/introduction-to-azure-digital-twins/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-digital-twins/
 type: course
 price: Free
 length: PT44M
@@ -25,6 +25,12 @@ topics:
   - Azure
   - IoT
 
-secured: "61Nh05oJbxuw71xmoSFkHDqlR2SKnC3yh/2KoRjeafFmUE5QMkMICRDi9fxCXo8jcmEwAaF8otEXmtlZmlA7Y0h4ptdNRoLCTn0GoDF2vmKuj2C9kLfGOrQQx+RJrUAJF3bmNe9yinUggjZf23DpE1DhBM9VQHBALJHdtfge3Fe/KriWih2SEb26HyxsOZgD/BQiaxhMSz1HuSlAYAGcyTAD/H8x7reRFMJoiNYRDyGeirNWqJdyxehrH62c2uzPjQOMU0qXGnVip/CB36ueHpg7JvmNF4qXQngU5VJ6B4LrimV4MFFC9ApIPY+3k3BIxlZGAhYEp1/axqQojk3bM0LemUlXNjBms7S+RWboImxrdzqFOj5pMJR8p5Om0ZFhbY9xCqEP44Kk1bjxRFoTHw==;nwJaGEYRdrmJ8Qeilk58HQ=="
+images:
+  - url: https://docs.microsoft.com/learn/achievements/iot/introduction-to-azure-digital-twins-social.png
+    width: 640
+    height: 320
+    isCached: true
+
+secured: "CrQOVSYGrO4nDT2ocQd1AyYDeYVG/gnmOOxsMeSJI0FDhBmhucoBUixfhXk3iVNLZ24j6ZDNPB9arnmwSnhpAEIKZcjJgL+vIPwgup35FgQHzPGl3a2VZ59k+qzIuCWEm+J9M/KeSrTNwNptHPsgfNqPFUSTGeoX3RnQlRwjSEB6pkwY9ZiOvC/kQgQW/hkIlc/RDnForOStPOtewLnsY0hC1YrL/knBHzGDu60slvq4OYvXK8VOeiJ8pB1Vdu855ka2KSSdjGB6/Q0deE07wm/3/71UIA5LF8nd7c+HG19x7kJUVi7pP6oBEpNUUA+7aJT4HuQ1rzPVTnclsqEihiHBXS6ZG5WFDMirip5gT6Odmnb0OMTagP/QwwxDXZQdeNZeokUsbN6c/AVYzoePPQ==;RY+KNjE/wUtcph1LxziuRA=="
 ---
 
