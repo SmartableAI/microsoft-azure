@@ -1,7 +1,7 @@
 ---
 title: "Build an Azure Digital Twins graph for a chocolate factory production line"
 excerpt: "This module covers the first steps in building an Azure Digital Twins solution. The units cover making an instance of Azure Digital Twins, and learning about, creating, and visualizing, DTDL models. You will create, validate, graph, and query, models for a chocolate factory production line."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/build-azure-digital-twins-graph-for-chocolate-factory/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/develop-with-azure-digital-twins/build-azure-digital-twins-graph-for-chocolate-factory/
 type: course
 price: Free
 length: PT1H26M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "+cAQEYOktpwaO+ENYO9JfgzYMAVTANi2WJ8bXXEytCFwPUW2bFuxXwRO0AzO/1oDBxOyxICWXq+iw7tlvgyWvfdUE13wx+qf4NLPgn098HYi3hhbGyzi2ly/kkYjXKdFIlZFXMuE9A/xhgUMVsXt1akDIf0Dq7IDFTMVzmPQYCi5mNU6S/AvXw/v8zXoXZvkqyH2Om4Ta3ANlPyDSdIpL44HV6EJun9Zvfq5UBIWiyCZGDaXfHW6c/4qoKp2kuc7l9KmJM36/qyE+KSpXvYZJJFz68OLfeKpMYKK3qcrggJMtZ0WdNaYKvBLjQhG1hzaR0KuAveoQFHxEuEQMsQmMSWPjhiSaiD+efhsEyhyUBhlTpHhqr+S5dE/AU0KqSarsTjdPnZ8o/GJXxjcXIR1Ew==;6dM2YT21cUe66sXTAgHQag=="
+secured: "niakfWjeiSI924/8fJK+uznNQSnFJOdCrIMHzpO6CAO6GMVfK0m4vbumWR+v921czkRdcijct9yucKFL2U7WDJvpsZwZpA/EwH9MvVE5hnhvF1st8O3ftNdzSZ1H1adZu8F00/dI+QPhGsJ2a9dOv5gc9hp13XcRBviHzRXi7jaWkL9cCTHsH+J+DiRnYAK6X8oO6WMq4sl+CdklHjAZSx35VMCpNjKs03VHXDZALD0LE7FImpq2Ra9CoAGqCw8r8zydYrrMM8aF7YOq3No8jlFiRqdOu9AR3zJIdb0bAuCM5KTQegyLjSdwEkDe839HXwt/qZqZ28k1pi3iyZPlUlXcW/w7Y2gUs0qPdxTMh3dx7UN/AeWuQqh/KJFWXjstFuT7NlCLmKg2PHHZByp7qA==;wgT0AZ4YEcZ/L1+AnaRSKA=="
 ---
 

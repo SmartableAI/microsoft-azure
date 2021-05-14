@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Azure Digital Twins"
 excerpt: "This module provides an overview of Azure Digital Twins and describes Microsoft tools, services, and infrastructure. This knowledge can help bring digital twins to life for your organization and customers."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-digital-twins/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/develop-with-azure-digital-twins/introduction-to-azure-digital-twins/
 type: course
 price: Free
 length: PT44M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "CrQOVSYGrO4nDT2ocQd1AyYDeYVG/gnmOOxsMeSJI0FDhBmhucoBUixfhXk3iVNLZ24j6ZDNPB9arnmwSnhpAEIKZcjJgL+vIPwgup35FgQHzPGl3a2VZ59k+qzIuCWEm+J9M/KeSrTNwNptHPsgfNqPFUSTGeoX3RnQlRwjSEB6pkwY9ZiOvC/kQgQW/hkIlc/RDnForOStPOtewLnsY0hC1YrL/knBHzGDu60slvq4OYvXK8VOeiJ8pB1Vdu855ka2KSSdjGB6/Q0deE07wm/3/71UIA5LF8nd7c+HG19x7kJUVi7pP6oBEpNUUA+7aJT4HuQ1rzPVTnclsqEihiHBXS6ZG5WFDMirip5gT6Odmnb0OMTagP/QwwxDXZQdeNZeokUsbN6c/AVYzoePPQ==;RY+KNjE/wUtcph1LxziuRA=="
+secured: "8kA3ka9VX8BasL5mP54z/2BqKhbtnbELV4P1Jh2oVw7opsj085faSFSB69digJPSLZ8t4qUxJ9BXdfIt6r9KLoRpPr5Als6JE0nrjUOvehNR2yhA58cysEJ6OZGcjVi6P8aikylOWmVr5rc9DvMujUp3HhxQyse2PnwJArNbGVLWaN2t9Jc+ibRgDmgWbEWDXTi9xfT0CJngM2vQePHhVHR+aAO8+wm9j5b+qKeGuFIFkRn+7mFCXeD05Ip3sCoArcnh2XGanlcw3wRcTNmQUAKmDvryfKAP80EqQ9mzeNXSDmmza6UOHRZcV0Q51GgqdoHQ4gCXmtX5wEGNFAYwslP9P7tNH0PTxDoLMAj5f2RXQ19uxcEOX/gx7V5QamH3E7m06Kqh8NPSKa9YDEcu5Q==;qPtPEAOF+ikrnIURAyp28g=="
 ---
 
