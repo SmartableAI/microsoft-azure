@@ -67,6 +67,22 @@ related:
         width: 2560
         height: 1812
         isCached: true
+  - title: "Orbbec is developing 3D cameras on Microsoft's Azure Depth Platform"
+    excerpt: "Orbbec and Microsoft team up to develop advanced time-of-flight 3D cameras for computer vision and AI developers for 2022 launch."
+    publishedDateTime: 2021-05-14T04:37:00Z
+    webUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 57
+    images:
+      - url: "https://static.tweaktown.com/news/7/9/79363_01_orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform.png"
+        width: 620
+        height: 348
+        isCached: true
   - title: "Microsoft to shut down Azure Blockchain Service"
     excerpt: "Microsoft is shutting down Azure Blockchain Service. No new deployments or members are possible, but existing deployments have until September 10 to migrate to another platform. Microsoft first began offering blockchain technology on its cloud platform back in 2015,"
     publishedDateTime: 2021-05-13T10:50:00Z

@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Microsoft Azure Blockchain Is Ending Sept. 10"
-excerpt: "Microsoft is ending its Azure Blockchain Service in September, advising users to migrate to other offerings. The company gave no reason for ending Azure Blockchain Service, which according to its web site is still in preview."
-publishedDateTime: 2021-05-13T19:20:00Z
-originalUrl: "https://virtualizationreview.com/articles/2021/05/13/azure-blockchain.aspx"
-webUrl: "https://virtualizationreview.com/articles/2021/05/13/azure-blockchain.aspx"
+title: "Orbbec is developing 3D cameras on Microsoft's Azure Depth Platform"
+excerpt: "Orbbec and Microsoft team up to develop advanced time-of-flight 3D cameras for computer vision and AI developers for 2022 launch."
+publishedDateTime: 2021-05-14T04:37:00Z
+originalUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/index.html"
+webUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/index.html"
+ampWebUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
+cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
 type: article
-quality: 54
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Virtualization Review
-  domain: virtualizationreview.com
+  name: TweakTown
+  domain: tweaktown.com
 
 topics:
   - Azure
-  - Blockchain
 
 images:
-  - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN4HandsBreakingChain.jpg"
-    width: 647
-    height: 450
+  - url: "https://static.tweaktown.com/news/7/9/79363_01_orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform.png"
+    width: 620
+    height: 348
     isCached: true
 
 related:
@@ -71,22 +72,6 @@ related:
         width: 2560
         height: 1812
         isCached: true
-  - title: "Orbbec is developing 3D cameras on Microsoft's Azure Depth Platform"
-    excerpt: "Orbbec and Microsoft team up to develop advanced time-of-flight 3D cameras for computer vision and AI developers for 2022 launch."
-    publishedDateTime: 2021-05-14T04:37:00Z
-    webUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 57
-    images:
-      - url: "https://static.tweaktown.com/news/7/9/79363_01_orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform.png"
-        width: 620
-        height: 348
-        isCached: true
   - title: "Microsoft to shut down Azure Blockchain Service"
     excerpt: "Microsoft is shutting down Azure Blockchain Service. No new deployments or members are possible, but existing deployments have until September 10 to migrate to another platform. Microsoft first began offering blockchain technology on its cloud platform back in 2015,"
     publishedDateTime: 2021-05-13T10:50:00Z
@@ -100,6 +85,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/blockchain_thumb800_1.2e16d0ba.fill-1200x630.jpg"
         width: 800
         height: 420
+        isCached: true
+  - title: "Microsoft Azure Blockchain Is Ending Sept. 10"
+    excerpt: "Microsoft is ending its Azure Blockchain Service in September, advising users to migrate to other offerings. The company gave no reason for ending Azure Blockchain Service, which according to its web site is still in preview."
+    publishedDateTime: 2021-05-13T19:20:00Z
+    webUrl: "https://virtualizationreview.com/articles/2021/05/13/azure-blockchain.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 54
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN4HandsBreakingChain.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
@@ -141,6 +140,6 @@ related:
         height: 420
         isCached: true
 
-secured: "lny+31BrwnwZ/quK5eLtR2o0XyJ7FsITHoKN+OG3TrWEyeRZBQ6Sj2Opbs58nZ6/wHcNXYiCTMyG+PYqT4ESR876E7lm7s06o/BxyNbYYJDAtjo4HNpMcBgdH8iRUcAgWQs1RwxtdJh5S2pIpTw5FCGsKRF50hF7AGYLV27IO6ifnt02fcc9V6EUXTQ1+9QZBiY9ch9//fqwuj+oiFk0nnA4CVZEuluLaITc9WXeoxGW3C7p5IFQBZ8Gopg5ZEZKzlAuG/mO3w4T41gdzfJ3Bso88VHEnveIzWJ2lsXI9n2q5lISSgDUvg0TrGYvzF/CoIGqnmRJjK/YdDKQpzcTEa6bPD0GuSPAZh+rIAS8JV5faALgBq5OWlKEmn5V2/bEHIU3OaIm6baU940QVNol0i3IF2MGdCZ/edoFhLYvy4GidL8f45MNjQIVGvaH0az3sv1WKm3ZlyVR2Xlo7DwiQs8wvJX6843ArEls9h+Cx872YcVG5aHryHLePFzAt8Itl1wdUp4mgZlJ3wJNv2jp8w==;RDW/cz70xt5D43r6b30gqw=="
+secured: "WBAS7XH8mrNn/MIjRNlS1vjhyBP71wBlhWXBgw95QZEdnXMDhWqK2gQ0ADC2AXZHd1ujyMI/GlL7NBOZdJt5XdnEKV1EntM7NsvqjW9cjdr5Dd5j6zTh6p1zrcnXb5nyZidmmbXOTf+bM9T0OrXoTuPrF1wCmbWc3fwQ4HhsqsoiKnpuuRXhB8X3LO/vW8PDUO/EXNCqrKBOFXHqJS8wG7fXUfG57ODIfVO3vlBM76ImRh416XQ6M8ip9moSr0zep5T7JxolDRprMHVuXcEjOeAXtifn1ppGAvzmeLnS82jLg56p1QNI55z2TRoC4+3rS2UXdhEOXeOZeJdX4gngZncIjd8ZhjSiDGuamOOUgII=;G9Z5PdPm+6fbtxit33aM0Q=="
 ---
 
