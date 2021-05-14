@@ -1,7 +1,7 @@
 ---
 title: "Output from Azure Digital Twins to downstream services"
 excerpt: "In this module, you'll learn about how Azure Digital Twins uses event routes to send data to consumers outside the service."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/develop-with-azure-digital-twins/route-output-from-azure-digital-twins-to-downstream-services/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/route-output-from-azure-digital-twins-to-downstream-services/
 type: course
 price: Free
 length: PT52M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "0kJpjU2/NFSSYsw8aviyLK+t6oZNaWGTvPbufXfM83Eb5U28s7307eD3ni5yD0rSmDgfgeVZscpCnHNPC7oOBslzO8L1TjZ69cnEZ7segk/SJwGFFllFWHDC3z+Xb0AmmKw1xhN61oPL/HLoBDwotDf+laURENIbao5MGeTUkNZjK5Fj53OCXWU3N4wS6vPupQAs9/NxlfTGO23OCaRT4pjv18GhmLvJSiG0u2caWgLkr2rBZytaBzSIOQs8B81dSjwA7hrbufkS0UbZK2wEZzpfpejpIJJXiWmrFKzcBGKZ9V9N8UUFUR3NJBarqiPfG2fL8ODhXM1k3UDi7zpRJNvrRuTsWBAyk0/f5QmZoKAV8vRXzheoC3kGVo4BE71zeq9O039AOvZEE0Gi+uwkoQ==;QMN/ILblLpHm8d75gle6Wg=="
+secured: "3W7PpX3o5kEA5cfR8+Pm7Uv19s9khUyzy6+TM3QfenV5Orgi/DM9BumfTpTwypsdVZonpdTicTb7gd9Dnod079oe1dHPQ391BsSFXv2DEdjrK7GsCvTQZKiUpHS5tanJWExmEm/vkoZhiKGmebnP/l/cabwKBmBL8KZSl9fQD1z2Zvaayi041SrnMgb19BX8fijFbX/gqVN6f4QitxV/mNMOCJiFd7BKo3UIeEjznUVfSyMNJnm49ddXuZPiBYZuFN11jeeYvAeUzhgOPco9YFLWyxveW7K3STjCORyfQrpd5O0DJLAZ2+0ggrn5nsqncRqC8P9Xgq4SksOddjqx59IKNHLa2G6S3ujLWwJpK/1Jr0SkT/i3buHGZtInshuoozKbjWDtgiyYzVzv2mcihw==;+fvyenC01sIU3W10ARfRuw=="
 ---
 
