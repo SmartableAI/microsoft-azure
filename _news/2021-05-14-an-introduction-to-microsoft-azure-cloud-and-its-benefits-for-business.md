@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
-excerpt: "May 6, 2021 /PRNewswire/ -- Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store ..."
-publishedDateTime: 2021-05-06T12:10:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
-webUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
+title: "An Introduction to Microsoft Azure Cloud and Its Benefits for Business!"
+excerpt: "We all know Azure is an open and flexible cloud platform from Microsoft. An innovative platform that businesses can leverage to quickly build, deploy and manage applications and services. But it doesn’t end there, Azure comes with many associated ..."
+publishedDateTime: 2021-05-14T11:23:00Z
+originalUrl: "https://www.finextra.com/blogposting/20305/an-introduction-to-microsoft-azure-cloud-and-its-benefits-for-business"
+webUrl: "https://www.finextra.com/blogposting/20305/an-introduction-to-microsoft-azure-cloud-and-its-benefits-for-business"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Finextra
+  domain: finextra.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Microsoft Azure Blob leak a lesson to CISOs about cloud security responsibility"
@@ -56,15 +50,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "An Introduction to Microsoft Azure Cloud and Its Benefits for Business!"
-    excerpt: "We all know Azure is an open and flexible cloud platform from Microsoft. An innovative platform that businesses can leverage to quickly build, deploy and manage applications and services. But it doesn’t end there, Azure comes with many associated ..."
-    publishedDateTime: 2021-05-14T11:23:00Z
-    webUrl: "https://www.finextra.com/blogposting/20305/an-introduction-to-microsoft-azure-cloud-and-its-benefits-for-business"
+  - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
+    excerpt: "May 6, 2021 /PRNewswire/ -- Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-05-06T12:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Sylogist Ltd.'s subsidiary, Serenic Software Inc. Announces Release for Microsoft Cloud"
     excerpt: "CNW/ - Serenic Software Inc., a Sylogist Ltd. (TSX: SYZ) (\"Sylogist\") company, a leading provider of comprehensive enterprise resource planning"
     publishedDateTime: 2021-05-04T12:00:00Z
@@ -80,6 +79,6 @@ related:
         height: 785
         isCached: true
 
-secured: "3Y/HTvKrv4GbhrNAuVhp0czig9z8UcD33veFRYlqfiSq3cOiOlx+v3XO8uwivyn4UOjNZP0BGwvuD66natxsOv7XZz57eGGKxrNqxiwpFc+aC/VELEPzWmV3xy1fJIIRHtUMPW4H6Z4v28yjG91JIdGQI3qb0lwU2hrTzD8IJ9OynWwWsE7MHQLXAnFoOygXnAH2G1P4Bpo4pYEf82foqqAYflWXq1PypugrYIlzWf3qSdsBSghdNcupnwUugD73MqEZwFHqHzwxiY9/97/jMoNQcyV4iEPpeh2usilRZN1FyAX2PJ37P22HszIXNcUfB2NAXT3Q1VvVWDnrXomwxIlzzCrj8lkHLCY6mlAFzOo=;FW6Cx8cmgOJGaxPEPpZtWg=="
+secured: "592AeyX/IaOvgj1p+lz8U9y/jBE1hlYJwFGfkGORIAxFwcX5VfAT6LilQBeAEug62lH7VyuO0/th9dMciQ5cn4K86Pmaa4w5sIf2VW7t2z24GG6m8GIO7NCXewy1X2q+yfK/Lgq8rfuhWHgo9IZHDDUvoJZanKNKpJEt6w6ltlnIa+CPwxpvTVVOYJFt4udLDqACQ1gYa16CqKpyLp2sV/bQ3CE1fgWBQNncciPiGSnO/fYhPi7mcGTnr7Oyl/pwB1XfB4rP8tsDLe+5lgvmAHSVcdQSpuHPEWrOdlZ1AebWzUdxE00Pu2Il+4yAyE/oIpFroemKXZrF+ezwEFR6ZHvBO9wpIFmb0TxXqn+YBsw=;Lp0jPz67x26vD2Yt+VF7gQ=="
 ---
 

@@ -70,6 +70,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "An Introduction to Microsoft Azure Cloud and Its Benefits for Business!"
+    excerpt: "We all know Azure is an open and flexible cloud platform from Microsoft. An innovative platform that businesses can leverage to quickly build, deploy and manage applications and services. But it doesn’t end there, Azure comes with many associated ..."
+    publishedDateTime: 2021-05-14T11:23:00Z
+    webUrl: "https://www.finextra.com/blogposting/20305/an-introduction-to-microsoft-azure-cloud-and-its-benefits-for-business"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
 
 secured: "BWYybjdsCosJQidnDVNtqtk5HpRgfi7dqcXSE1XGB4sWD4jMy5CmqBoanV1lGnsIanzTD+nVCU+IAUN53u5x8eFam4bXaVPNWG1NJ3Xj0n6HVnV996W8F7aNye1HnIiLxJCSf8MLemcoKW3JZAZ6b9PW8M54BYlgGgB9++2j3nxhjW83eVUpWK7175jjldNb2bEytMAxr+Ce8q4+qJ2cxUIuyyW4GJ08KE0P2M4gimjvb7lldPLeIfFK9XhcR6VgJxIf6pPSAMDfWu9K8Fhk/jdbz6NGQIGKdHwRetUbYHTxFeI6grH9edmbCaTDMz+p2CLUHEyLA6GgwDAVlHiaiJ1diQ0WZaSgeqXs0iU1SSvEys1UX83cUXQokegFH/Vp3zO2p8geq+htsl0egKOhTDGRBTDg1fzgVD2SbSUka/21OJL1/vhOMf42Lg5+8I4QAueT0FmnHtkaGNNUbl6eo+ub8DzUCDBVuFoCm8g4gEeERKq8rfmYFq2ciUXmwQJY6w0B7NQOyEYus3r9rVeTZQ==;v3fSM/tOhRMqTu+nIlenpg=="
 ---

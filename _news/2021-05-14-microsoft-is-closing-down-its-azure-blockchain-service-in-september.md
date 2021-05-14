@@ -57,6 +57,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "An Introduction to Microsoft Azure Cloud and Its Benefits for Business!"
+    excerpt: "We all know Azure is an open and flexible cloud platform from Microsoft. An innovative platform that businesses can leverage to quickly build, deploy and manage applications and services. But it doesn’t end there, Azure comes with many associated ..."
+    publishedDateTime: 2021-05-14T11:23:00Z
+    webUrl: "https://www.finextra.com/blogposting/20305/an-introduction-to-microsoft-azure-cloud-and-its-benefits-for-business"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
   - title: "Sylogist Ltd.'s subsidiary, Serenic Software Inc. Announces Release for Microsoft Cloud"
     excerpt: "CNW/ - Serenic Software Inc., a Sylogist Ltd. (TSX: SYZ) (\"Sylogist\") company, a leading provider of comprehensive enterprise resource planning"
     publishedDateTime: 2021-05-04T12:00:00Z
