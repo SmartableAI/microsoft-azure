@@ -1,28 +1,33 @@
 ---
 category: news
-title: "Accelerating Growth for Microsoft Azure Bodes Well for Cloud Software Sector"
-excerpt: "Microsoft (ticker: MSFT) simply blew away Wall Street’s expectations for the quarter, driven in part by the dramatic growth of its cloud business overall and by the Azure public cloud service in ..."
-publishedDateTime: 2021-01-27T17:15:00Z
-originalUrl: "https://www.barrons.com/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695?refsec=hp_INTERESTS_technology"
-webUrl: "https://www.barrons.com/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695?refsec=hp_INTERESTS_technology"
-ampWebUrl: "https://www.barrons.com/amp/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695"
+title: "Microsoft set to close Azure Blockchain Service"
+excerpt: "Microsoft has announced that it will shutter its Azure Blockchain service later this year, allowing users to migrate their ledger data by September 10, 2021. Blockchain is the technology popularized by its use in cryptocurrencies."
+publishedDateTime: 2021-05-14T18:53:00Z
+originalUrl: "https://www.techradar.com/nz/news/microsoft-set-to-close-azure-blockchain-service"
+webUrl: "https://www.techradar.com/nz/news/microsoft-set-to-close-azure-blockchain-service"
+ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-set-to-close-azure-blockchain-service"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-set-to-close-azure-blockchain-service"
 type: article
-quality: 54
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+  - Blockchain
 
 images:
-  - url: "https://images.barrons.com/im-291021/social"
-    width: 1280
-    height: 640
+  - url: "https://cdn.mos.cms.futurecdn.net/2FExrMAYEyCeJ37tztx2X6-480-80.jpg"
+    width: 480
+    height: 270
     isCached: true
 
 related:
@@ -41,22 +46,6 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/r/2020/10/27/6f243821-b6da-4a8c-967e-de7654891543/thumbnail/1200x675/6c5bd02248d7e74a487a2dfbd682b463/20201027-pure-larry.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft set to close Azure Blockchain Service"
-    excerpt: "Microsoft has announced that it will shutter its Azure Blockchain service later this year, allowing users to migrate their ledger data by September 10, 2021. Blockchain is the technology popularized by its use in cryptocurrencies."
-    publishedDateTime: 2021-05-14T18:53:00Z
-    webUrl: "https://www.techradar.com/nz/news/microsoft-set-to-close-azure-blockchain-service"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-set-to-close-azure-blockchain-service"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-set-to-close-azure-blockchain-service"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 114
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2FExrMAYEyCeJ37tztx2X6-480-80.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
     excerpt: "With the reality of working from home, more people and devices are now accessing corporate data across home networks."
@@ -590,6 +579,22 @@ related:
       - url: "https://www.cmswire.com/-/media/80ae800a4aae4fed8d9beae1edf83e7b.ashx?mw=1024"
         width: 640
         height: 480
+        isCached: true
+  - title: "Accelerating Growth for Microsoft Azure Bodes Well for Cloud Software Sector"
+    excerpt: "Microsoft (ticker: MSFT) simply blew away Wall Street’s expectations for the quarter, driven in part by the dramatic growth of its cloud business overall and by the Azure public cloud service in ..."
+    publishedDateTime: 2021-01-27T17:15:00Z
+    webUrl: "https://www.barrons.com/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695?refsec=hp_INTERESTS_technology"
+    ampWebUrl: "https://www.barrons.com/amp/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
+    images:
+      - url: "https://images.barrons.com/im-291021/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Guide to Microsoft Azure Cloud Storage"
     excerpt: "Microsoft's Azure cloud storage provides a robust set of storage options, a menu of offerings that can be overwhelming to the uninitiated at first glance. Storage on Azure isn't a single service or even just a single type of account. Rather, what Microsoft ..."
@@ -1985,6 +1990,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "/oXz6J8s/K2/DeL/+E27AXaBAt7sOzyHRJVW7gM2NqaCZbvM4wzoh/cbu8Y2tUh8H3uwUTMeAtvsVISOFxz7/M9I12JgIB6DBRd1+6Bhc/n//ds/k9NP42W6v79THWVAqDcqy9KcpY/AliX20Sc6B9ji3ODVu5DEQUKLAETs4aeT3mYfcepiiLO8X01NE5DqhrvMHZl4xRQZLHnmCkQhAYcQl5bfL4UM6a5JDltqHn/hr1urxGcJOZpNHzFT4t9O5LWdIskAhOrr8XOeF013+LFD23iUg2LcXEMZ2X4l1cGNrc0VifjF9u8P4hA6aK/6J0ONts8Q4yO4X7QZ6dIX3WWSn5CK/bY9F82gLUmbT9s=;dg+GLs5KkI5afm+EAO5quQ=="
+secured: "q8eC4BQDjeZPMVkWpuVwQfF7KBmfZG1mohd76Uc4tH8qh4SZPsYbAfO00Zcx5rjioQLO3S/pbEZPL87DD4Hvx0Mb6uDcLe8g6SS0VIfWmEB5Mtzkz/2mhJ5l6YQ9820dWad0rA5KzaJxhmj/mEcTIjmiBwZ4KabU5NpmGnyXeJcmses6hWKM1ki7An72/d2dvYbhDKS4+KiC82Q4pKsmZ1TLisJkBC/z7YUFCyd9Pm0oP4Lc1bj5xVrmGN2NnzGn/jDH2UjpkMoZNKDRkJidXpGBQdjoVvShjZ46sHeGaeWWisywoRWnloBbdYB5hL+SjY1eIKQ3IYGSDSn5bzL3bkfRwXfq+CWPXvoz69Q5MVw=;L88S/PN+34/hzcgHAfSy/g=="
 ---
 

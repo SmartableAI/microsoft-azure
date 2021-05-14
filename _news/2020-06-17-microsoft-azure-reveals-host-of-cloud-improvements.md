@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft set to close Azure Blockchain Service"
+    excerpt: "Microsoft has announced that it will shutter its Azure Blockchain service later this year, allowing users to migrate their ledger data by September 10, 2021. Blockchain is the technology popularized by its use in cryptocurrencies."
+    publishedDateTime: 2021-05-14T18:53:00Z
+    webUrl: "https://www.techradar.com/nz/news/microsoft-set-to-close-azure-blockchain-service"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-set-to-close-azure-blockchain-service"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-set-to-close-azure-blockchain-service"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 114
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2FExrMAYEyCeJ37tztx2X6-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
     excerpt: "With the reality of working from home, more people and devices are now accessing corporate data across home networks."
     publishedDateTime: 2021-03-10T09:00:09Z
