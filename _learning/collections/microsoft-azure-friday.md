@@ -113,7 +113,6 @@ items:
   - videos/microsoft-azure-cosmos-db-update-for-august-2019-azure-friday
   - videos/microsoft-how-to-identify-web-app-changes-to-triage-and-root-cause-live-site-issues-azure-friday
   - videos/microsoft-protect-your-web-applications-using-waf-with-azure-front-door-azure-friday
-  - videos/microsoft-protect-your-web-applications-using-waf-with-azure-front-door-azure-friday
   - videos/microsoft-azure-api-management-updates-serverless-schemas-and-a-new-dev-portal-azure-friday
   - videos/microsoft-an-introduction-to-azure-dedicated-hosts-azure-friday
   - videos/microsoft-an-introduction-to-decentralized-identities-azure-friday
