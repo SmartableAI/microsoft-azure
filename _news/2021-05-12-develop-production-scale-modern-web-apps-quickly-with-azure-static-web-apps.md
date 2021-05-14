@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/develop-production-scale-modern-w
 webUrl: "https://azure.microsoft.com/blog/develop-production-scale-modern-web-apps-quickly-with-azure-static-web-apps/"
 type: article
 quality: 102
-heat: 123
+heat: 122
 published: true
 
 provider:

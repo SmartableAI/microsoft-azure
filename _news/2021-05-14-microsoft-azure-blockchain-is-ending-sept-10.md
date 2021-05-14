@@ -111,18 +111,18 @@ related:
       domain: benzinga.com
     quality: 22
   - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
-    excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and"
+    excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and deploy a comprehensive,"
     publishedDateTime: 2021-05-13T15:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work-301290108.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 11
     images:
-      - url: "https://mma.prnewswire.com/media/633365/Infosys_Logo.jpg?p=facebook"
-        width: 1997
-        height: 1047
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ac/0ac3f198-43ca-5076-9e7d-e9b16cf0b43a/606edb659a4b1.image.jpg?resize=1200%2C420"
+        width: 1200
+        height: 420
         isCached: true
 
 secured: "lny+31BrwnwZ/quK5eLtR2o0XyJ7FsITHoKN+OG3TrWEyeRZBQ6Sj2Opbs58nZ6/wHcNXYiCTMyG+PYqT4ESR876E7lm7s06o/BxyNbYYJDAtjo4HNpMcBgdH8iRUcAgWQs1RwxtdJh5S2pIpTw5FCGsKRF50hF7AGYLV27IO6ifnt02fcc9V6EUXTQ1+9QZBiY9ch9//fqwuj+oiFk0nnA4CVZEuluLaITc9WXeoxGW3C7p5IFQBZ8Gopg5ZEZKzlAuG/mO3w4T41gdzfJ3Bso88VHEnveIzWJ2lsXI9n2q5lISSgDUvg0TrGYvzF/CoIGqnmRJjK/YdDKQpzcTEa6bPD0GuSPAZh+rIAS8JV5faALgBq5OWlKEmn5V2/bEHIU3OaIm6baU940QVNol0i3IF2MGdCZ/edoFhLYvy4GidL8f45MNjQIVGvaH0az3sv1WKm3ZlyVR2Xlo7DwiQs8wvJX6843ArEls9h+Cx872YcVG5aHryHLePFzAt8Itl1wdUp4mgZlJ3wJNv2jp8w==;RDW/cz70xt5D43r6b30gqw=="
