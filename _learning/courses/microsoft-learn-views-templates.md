@@ -1,7 +1,7 @@
 ---
 title: "Create views and templates in Django"
 excerpt: "Learn about the templating engine in Django to create dynamic HTML. In this module, you'll create views and use template variables, inheritance, and tags."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/django/4-views-templates/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/django-views-templates/
 type: course
 price: Free
 length: PT38M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "QwRDDnsXpE6iaBce8CV2FdwJJRgYTr66nPjOM8U/0kMXa7ByyviBF4MsjT91zqipsnsHFLIYO76k0aFhYedx5pMk2ThN2yhzLrIe+esvIu9EQXxvk2eOlC1LPMK1HGSyTnWhPk8Mq0s5QDDUzftwd30BKr9XvtmpboUIUM6DUXbnuw1Nttp+NwvE0DGTggQKvE/zydwJsAhTUlVkiafNjp0onLnJw4Mxh9x0CFHcwWVIkHLB1KJy6zgDu41AYiucNKdV4KCcBWxtGZIAmkTh1H//x/cx+/DYAlaWuvEH49CP55QmrqoDZ7KYSk/kUHeH7v5XMk2N8qNbjyJOJeJSkVmn5V7GQIkJHnujqfk/l2cOOlc8awvqsmAUM+WNXlTs9uMzc8dAuPA9BTLm7507hg==;k28smVcesu757WrwgE+BnA=="
+secured: "cwEQhEfuUlu0O9xCjMFPHAoo18i2s1wiboV9FBWI2ac75HGKkULagDvDqyYaPW015JeIslxy0WKPVxTdmjWDM+bW8QycyMEJ8w/PArk+O/7It9wM1r/W0NM2r35i1N0BACCP4/ng5QM+SKSlVsdOgQB1aLEIej6zdZYcYbekOPp5+aukZMMibId4FqcQXISU3SsL3T+ToJeW/+F+Z6DERvL9d8pX+YLgahYqV2y6IY5/45DgcrBwIIZUPiJWlSi+eNfej39ZbNajAIvJAhM+o5j9E1DVF/UMqMV91wo0Et48GWooDoyBefx7b9oKHolZ8BIq9/p0TBYjCCuYVHKo37T5FXSMZuQSLMqAcgQESeUVRc1HhAWRSJGwz29jRWBAbxhc3wPNwvepsY585lvzxg==;zIBEBflyUuGmwVTUZAxAPw=="
 ---
 

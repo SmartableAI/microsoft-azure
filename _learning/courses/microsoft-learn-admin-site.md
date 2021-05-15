@@ -1,7 +1,7 @@
 ---
 title: "Work with the Django admin site"
 excerpt: "Learn how to set up the built-in Django admin site and configure users for the site."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/django/3-admin-site/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/django-admin-site/
 type: course
 price: Free
 length: PT38M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "Av1eg6QHILKGWjOkXcJooIgO+Bw09JIJPJ2oq40K4Cii0JjDLlrcGCZ5o0AkOY1OI4G4Z2OO7mNynl4W8TCZ+H9y3cWhcYuLFYrhrfDxCHtJkbk0gcxIR+zv7jaWX5byJD2+70Z1AUYUGKKmgf8Kmcr51jfSkZ23soLBw6OcPokJsoiAIK53ndPOu2p1m7nJSUvPrp2AMGx/v12sOIkfeN9yZSAPg4nSAx8ivJXIGP4xeWgdV3ONLOi92rL1Bvfo5WxPgG90HBGtiM+ub/VzyAHHTLm5eLQlAYMNoVgN6rFOscjYxY/4O2XEFGCW0klVgGCu8+nnX5ZpV24ir1JCsdbh6qiCg7LegEE7us77FoJjWQXlVGZ+cM9HYnQqe30ySJyVZJP/2sL/xNFGMsSy4A==;RB53lvSchiqpr8YUIp/5xg=="
+secured: "agufn4YX8ZVVB8uHMhMEqu4UR1mUv5ixZBS9yvY9g584LSqN/DFIxFwJx5zFIfV45Kf8T3NQwVXDLDqX95oKRJ8VHCfn40Af6oF/7hTCE1prucOEMkySJ8eIyhktCuGWphewWzNrbfxH6VK87uFiqc4HFmf0JCgAYcBXTuR9UlEE35RoLxOROIhR+lOquaZXANW96z5kYq7e2Wod3DXIJFva8UmLhkKWptaEJP+6f9dyquMTHZmOVfBb4zl0prI2+TAeqdNNwIIN4yZGqHkQnvRso5PzRCzGWMqjHkNUqrxFHYW/BzU8DjORotxJaCTyJOWpRfO4aKGh7Sg/LkJeyRTrbRh7FszkcQpbheKXHbwIhBcVByipgQOgCrx38/JtGCUP+7skSnS4bDG40u79aw==;OD/W2sUosrmcDHaF3fAQGA=="
 ---
 
