@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Microsoft to Shutter its Azure Blockchain Service This Autumn"
-excerpt: "Software giant Microsoft says its Azure Blockchain will soon be retired, but did not provide a reason for doing so."
-publishedDateTime: 2021-05-13T08:05:00Z
-originalUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close"
-webUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close"
-ampWebUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
-cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
+title: "Get started with Microsoft Azure using this $50 training bundle"
+excerpt: "Microsoft Azure is one of the two most popular cloud computing solutions right now. For any aspiring developer or IT professional, learning about the service makes a lot of sense. The 2021 ..."
+publishedDateTime: 2021-05-09T11:45:00Z
+originalUrl: "https://www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/"
+webUrl: "https://www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/"
+ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/amp/"
+cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/amp/"
 type: article
-quality: 74
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: CoinDesk
-  domain: coindesk.com
+  name: Bleeping Computer
+  domain: bleepingcomputer.com
 
 topics:
   - Azure
-  - Blockchain
 
 images:
-  - url: "https://static.coindesk.com/wp-content/uploads/2018/08/Microsoft-1-1200x628.jpg"
-    width: 1200
-    height: 628
+  - url: "https://www.bleepstatic.com/content/hl-images/2021/01/10/microsoft-azure.png"
+    width: 1600
+    height: 800
     isCached: true
 
 related:
@@ -41,6 +40,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Microsoft to Shutter its Azure Blockchain Service This Autumn"
+    excerpt: "Software giant Microsoft says its Azure Blockchain will soon be retired, but did not provide a reason for doing so."
+    publishedDateTime: 2021-05-13T08:05:00Z
+    webUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close"
+    ampWebUrl: "https://www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/microsoft-azure-service-blockchain-close?amp=1"
+    type: article
+    provider:
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 74
+    images:
+      - url: "https://static.coindesk.com/wp-content/uploads/2018/08/Microsoft-1-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Splunk and Carahsoft Work with Microsoft to Deliver Cloud-Based Data Analytics and Services for Government Agencies on Microsoft Azure"
     excerpt: "Splunk Enterprise Transformation with Azure is designed to help agencies deliver new services faster with increased performance and reliability. This scalable solution supports the collection of hundreds of terabytes of data per day from workloads residing on-premises,"
     publishedDateTime: 2021-05-13T16:00:00Z
@@ -54,22 +69,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Get started with Microsoft Azure using this $50 training bundle"
-    excerpt: "Microsoft Azure is one of the two most popular cloud computing solutions right now. For any aspiring developer or IT professional, learning about the service makes a lot of sense. The 2021 ..."
-    publishedDateTime: 2021-05-09T11:45:00Z
-    webUrl: "https://www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/"
-    ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 57
-    images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2021/01/10/microsoft-azure.png"
-        width: 1600
-        height: 800
         isCached: true
   - title: "Microsoft Does The Math On Azure Datacenter Switch Failures"
     excerpt: "As supercomputer centers have long known and as hyperscalers and cloud builders eventually learned, the larger the cluster, the greater the chance that on"
@@ -169,6 +168,6 @@ related:
       domain: uniindia.com
     quality: 0
 
-secured: "UbThWPp5C9DDoUccQ/aQStBdyKIQMaLSHvrST1TN0LyqYx+vh2V/8qf5GykQJIbOqFnUwANaocffnAc856X6+tcsYOSSHc4qR/NupjXZqC9oDKlHhtXXCePwWSHb7nm3rJKfBvw7WuXH6mLu2XQMiHi4Z1RfLF6a5twGd9e+ddIXWYvzHBYYWDm7k/AJkLuf5ibJFJcMeDcJ0oKNl2Zr8N1xCbw6MN/ARakBCE7EcCuCeukli4jIUv5Fso+2bMbEfBreJeSiuus05gxCZprgDgzxu4wr0WttYq/uBZZmlGCMHjBCwBq0Sx8XaPnyWUUPCHJbGhk9OK+UCvJyD+9r2wwEzZ8UbUEL7p44hTm3ptEgubZtUsbXmkIhl7JSsCdYdZyZj30cx00qwu+UZN1Pa/35s5jHHbrYNWJXIQHutkLEon4enZO9N3veyNcPiwfbIMIh7QEvcitFORP1tDyzV4qfZn/B5wKGHNJDsqcTW0toM9MWmE2JXycvJ/lItepD1+exwo7SlcLeWHPVGFFOaw==;UDdSdMWJANQ4KUCBvB2QOg=="
+secured: "78LKS6h8coKcPiO/yiVlSysrK9mnsMZX6uQMmekOQIyJOqkoYrSfLaIiUL5OAVjdp2bRxrzjEXF/FqmJ8Gh9LYlFo/TulHahJhPKLTHlgJ4OCLasO8fVR0BdLV6BSyQMsrpfL4oNPHVHDMW2bYsgTzMgsmaKjpdE2qxQ6F1XBU/oRUaPosPOUynAeW+Pk4MOzrLZJfAjmbGWInA0iI3KBbdrEcIsmtQgaEimAQ9K6gonK+JIQxFaDSIgQ/UaOBfbfOA8ZsJLOhaa2EL1GcZ+7d16KktjSoPd1S11c9jdvXh1+ZDIoL+b1hRhheUG6ZUl/dSkgoXtvexbjaIMnMcloMnOGbJFaNlKytuXE8wUs+I=;Lw3yrNWUuT5fyFvA2FtBDg=="
 ---
 

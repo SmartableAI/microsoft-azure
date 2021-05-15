@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/lowcode-development-series-modern
 webUrl: "https://azure.microsoft.com/blog/lowcode-development-series-modernize-your-iot-future-with-azure-and-microsoft-power-platform/"
 type: article
 quality: 92
-heat: 272
+heat: 292
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Get started with Microsoft Azure using this $50 training bundle"
+    excerpt: "Microsoft Azure is one of the two most popular cloud computing solutions right now. For any aspiring developer or IT professional, learning about the service makes a lot of sense. The 2021 ..."
+    publishedDateTime: 2021-05-09T11:45:00Z
+    webUrl: "https://www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/"
+    ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 57
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2021/01/10/microsoft-azure.png"
+        width: 1600
+        height: 800
         isCached: true
   - title: "Microsoft Does The Math On Azure Datacenter Switch Failures"
     excerpt: "As supercomputer centers have long known and as hyperscalers and cloud builders eventually learned, the larger the cluster, the greater the chance that on"
