@@ -1,7 +1,7 @@
 ---
 title: "Work with models and data in Django"
 excerpt: "Explore models and data in Django. Learn about the object-relational mapper, create your own models, and set up a database."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/django-models-data/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/django/2-models-data/
 type: course
 price: Free
 length: PT20M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "m3WZ5nnfIKW8v3QfLI3yHo/TU77hF581bYH67yfXo/mPK6M+gYv1kX5VLAWCiOZptzdMGky/9gfKYPt7Z5fQBR6nPCrpCJbqjqRzy6t7mAIr2dDAwfSLfp/61xWd4JydWz5HEbY6yUuVVVzLWbNQ1FvdXUrq7LufVLNX/iB/tvAFFeZ/38EdLNsNXxc2QhWcQBH+2m3Z8vFAfrHrpxbEl48FYpbvjfHPXtJNbXFXpyyFizb8mIOVarQPcaFAQcG7M3kEarGcfE3SLhpnkWfm5YWUXhCy0FamIETIbfOQccwzbT0gj/IlX6GSFsoWt7B9dHNj6HIWMjfbPWwNKboSQXc889qP0mBSvmMivbcn0M7Ul/k7LLn1TPvzdH2oYV/+WmDOlZqi8+BgoEObvxYWZg==;OnN4jfrcJSmLLy/D+cwYqg=="
+secured: "li6TjkCvj4Y6b45YavpyjChdEJW0shZ9oDK5lkmbWtIsk1pt9gw9ZQdXmyvpn+FQ55VsyX+UXWU5nrpgyFTqcbUv3XnoFYQbSquyhS7vdsY/+R57txl6VmXbV+JLqqxVKoVVuBteb/Zf7vLHtLLv0FqV2ZLYEKqaAJH6ugxSFVzH/gJZncwfqRQUXKwIeBMyC/bZHR2+6X+iHPlx8qfhEwXqwaEtBHnyZH8tN9U+8qJa13J1HIhX13lKUFnZj1s7LZpCyuGQbJ1Sy/UkN34u3B/0lLi97NdbvDdDSpEjvY333l7nbuQPYhhqBxFNwbP5/N9Lp5kJW9L/0cgPiAV7UOcsCUYcZR9IntKeqtW88E/jSHygmenLOQw7X1nw1K3TgXtW/6x4/oBXOZW+mjnj0w==;ApQKH9gDfbq4WyVCAQx8zA=="
 ---
 
