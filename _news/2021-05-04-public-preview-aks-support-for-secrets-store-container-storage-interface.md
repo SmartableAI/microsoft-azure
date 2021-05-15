@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-suppo
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-secrets-store-container-storage-interface/"
 type: article
 quality: 84
-heat: 124
+heat: 125
 published: true
 
 provider:
