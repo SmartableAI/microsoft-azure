@@ -4,7 +4,7 @@ excerpt: "Azure Digital Twins is the new wave of innovation that helps unlock ad
 type: collection
 price: Free
 length: PT3H33M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
