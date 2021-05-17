@@ -4,7 +4,7 @@ excerpt: "In this edition of Azure Tips and Tricks, learn how to modify an exist
 originalUrl: https://youtube.com/watch?v=M99wMqOvRGM
 type: video
 price: Free
-length: PT1M7S
+length: PT1M6S
 publishedDateTime: 2018-11-27T16:12:46Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "AWIjE7EcSomILHNNwKBUav+M6qfxKsWuUILkct8BXATekWHpUASZ6kmi2plSFibjCvM5dJDZHncZszlAsHMxN90ZIG5bmxNKlT4KUcsjqVMSBN2AHVS2jz7yNwfdekZ34q4LBNRUrc50Va/LR1zPhaGstkvvsBwol6c+u+cMtY4akrKwZKFa+1Tpuxj464vciQ6x57GkLDPWTcJars5KxJyzSvmlX3xNUKMB/onzGA23ds8PL5NVDsJ2wHzNjepgjhiVUzR+zutKMT7tnju1OnDofYLsm+OxJROzKXYyTnrgm8Pdj+1AZXiGjaWHF8w9g1XYj2E7xhp6qnGtHO8Od5pDd1Q4AHflvqminTPC70nVCvlbaCcrHpsEx1eAtO87RtN2QLHeOHm6iIyGxlPr6MguNM0LWEmNDeVIyBJjULs=;sAsOLsArUmJgCaJ9u33C0w=="
+secured: "lmQAQcAtCaoEm2mczCaab0Vi1Xl6NqU4cQkIaRp8gEc2r3V0HyudLiMhAcEbSiJEQTQ3JJpn+fAM5EgKOqTWNB08BJP5oBQPNLvVcXxZKuwtFUcH4PldMXqQ9n61M7rTFGVn+k9G4k+4c5pMhiw/xqi4dWe6BX2jhFTKCO/96BpTDyqlM1Qo5Ks6ddOirxveYQA2eZY7EEWbMTCIUwqe+WVk0EMU/XVbUZ70MFqV1H/yceIcPwIDRUJeA5AkseUMtBcTmHveIS9fqNfhlh4cUZgF7Ao0ETGIGCUDKry7bcQ/z93AZAcRVYYc6hDvUjc+jLT6XpKBgDLBP1XV4kYH0pbTr+5kkKxhNwj9BxcVDZwqz6rnUdmU94RKPUZFRSyS2PzjPyZZzby1lHq0RhPhh5wEgLpuoaDGP+yTbxxDk/E=;ezdp8Xun/GQybACmPVPs3Q=="
 ---
 
