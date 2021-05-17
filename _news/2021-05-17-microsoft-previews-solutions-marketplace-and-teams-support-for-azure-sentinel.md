@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Get started with Microsoft Azure using this $50 training bundle"
-excerpt: "Microsoft Azure is one of the two most popular cloud computing solutions right now. For any aspiring developer or IT professional, learning about the service makes a lot of sense. The 2021 ..."
-publishedDateTime: 2021-05-09T11:45:00Z
-originalUrl: "https://www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/"
-webUrl: "https://www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/"
-ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/amp/"
-cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/amp/"
+title: "Microsoft Previews Solutions Marketplace and Teams Support for Azure Sentinel"
+excerpt: "Microsoft last week announced a bunch of Azure Sentinel enhancements, which are at the preview stage right now."
+publishedDateTime: 2021-05-17T16:51:00Z
+originalUrl: "https://redmondmag.com/articles/2021/05/17/azure-sentinel-solutions-marketplace.aspx"
+webUrl: "https://redmondmag.com/articles/2021/05/17/azure-sentinel-solutions-marketplace.aspx"
 type: article
-quality: 57
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Bleeping Computer
-  domain: bleepingcomputer.com
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.bleepstatic.com/content/hl-images/2021/01/10/microsoft-azure.png"
-    width: 1600
-    height: 800
+  - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/Marketplace.jpg"
+    width: 647
+    height: 450
     isCached: true
 
 related:
@@ -69,6 +67,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Get started with Microsoft Azure using this $50 training bundle"
+    excerpt: "Microsoft Azure is one of the two most popular cloud computing solutions right now. For any aspiring developer or IT professional, learning about the service makes a lot of sense. The 2021 ..."
+    publishedDateTime: 2021-05-09T11:45:00Z
+    webUrl: "https://www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/"
+    ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/get-started-with-microsoft-azure-using-this-50-training-bundle/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 57
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2021/01/10/microsoft-azure.png"
+        width: 1600
+        height: 800
         isCached: true
   - title: "Microsoft Does The Math On Azure Datacenter Switch Failures"
     excerpt: "As supercomputer centers have long known and as hyperscalers and cloud builders eventually learned, the larger the cluster, the greater the chance that on"
@@ -144,20 +158,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Microsoft Previews Solutions Marketplace and Teams Support for Azure Sentinel"
-    excerpt: "Microsoft last week announced a bunch of Azure Sentinel enhancements, which are at the preview stage right now."
-    publishedDateTime: 2021-05-17T16:51:00Z
-    webUrl: "https://redmondmag.com/articles/2021/05/17/azure-sentinel-solutions-marketplace.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 34
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/Marketplace.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
     excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and deploy a comprehensive,"
     publishedDateTime: 2021-05-13T15:30:00Z
@@ -182,6 +182,6 @@ related:
       domain: uniindia.com
     quality: 0
 
-secured: "78LKS6h8coKcPiO/yiVlSysrK9mnsMZX6uQMmekOQIyJOqkoYrSfLaIiUL5OAVjdp2bRxrzjEXF/FqmJ8Gh9LYlFo/TulHahJhPKLTHlgJ4OCLasO8fVR0BdLV6BSyQMsrpfL4oNPHVHDMW2bYsgTzMgsmaKjpdE2qxQ6F1XBU/oRUaPosPOUynAeW+Pk4MOzrLZJfAjmbGWInA0iI3KBbdrEcIsmtQgaEimAQ9K6gonK+JIQxFaDSIgQ/UaOBfbfOA8ZsJLOhaa2EL1GcZ+7d16KktjSoPd1S11c9jdvXh1+ZDIoL+b1hRhheUG6ZUl/dSkgoXtvexbjaIMnMcloMnOGbJFaNlKytuXE8wUs+I=;Lw3yrNWUuT5fyFvA2FtBDg=="
+secured: "ccxqWREnoRWvmt1rRmgsAMDVzKd5j5DW93AUatk1JnzMRB8s6li0ytBH9SyudUML6RyWDqcn/b0dDaqRAcDXr/2NNJRzqjjcJTGp9TtB8reQJhsZHHViJFMuFipGvaDuaN7GO91KMoIFckHuzo5WsbS28AnsEyD/uKdJQz9qcmDZAMlNxAvSgVPhzZlg+zTgQNW1aTXwxNfad45nB5ylFdpAqNAPvqUzQIteVnGA+qH3wKOgQlmBiXQtpt81BMsMXjn+h6YOlGXR/5K/Jux245kFXUmQCWhndRByV8wphZF6k/b/acaSbx26JAm+GubO0BwThfunQLeyXIOkMcUUko/3JcmDPBTXQhX1/QkHJ50=;p7ab9ylbWg2iaVTH0D3qxA=="
 ---
 

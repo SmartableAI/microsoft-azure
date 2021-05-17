@@ -158,6 +158,20 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Microsoft Previews Solutions Marketplace and Teams Support for Azure Sentinel"
+    excerpt: "Microsoft last week announced a bunch of Azure Sentinel enhancements, which are at the preview stage right now."
+    publishedDateTime: 2021-05-17T16:51:00Z
+    webUrl: "https://redmondmag.com/articles/2021/05/17/azure-sentinel-solutions-marketplace.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 34
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/Marketplace.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Infosys collaborates with RXR Realty to develop smart office platform running on Microsoft Azure for safe return to work"
     excerpt: "It major, Infosys said that company has collaborated with RXR Realty to build and deploy a comprehensive, award-winning smart building health and wellness solution running on Microsoft Azure."
     publishedDateTime: 2021-05-14T06:38:00Z
