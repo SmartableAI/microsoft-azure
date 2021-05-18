@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/3617456/microsoft-azure-blob-leak-
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3617456/microsoft-azure-blob-leak-a-lesson-to-cisos-about-cloud-security-responsibility.amp.html"
 type: article
 quality: 87
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "France says Google, Microsoft cloud services are OK for sensitive data"
+    excerpt: "France said its state and corporate data can be stored on Google and Microsoft's cloud services which have been licensed to French companies."
+    publishedDateTime: 2021-05-17T21:58:00Z
+    webUrl: "https://venturebeat.com/2021/05/17/france-says-google-microsoft-cloud-services-are-ok-for-sensitive-data/"
+    ampWebUrl: "https://venturebeat.com/2021/05/17/france-says-google-microsoft-cloud-services-are-ok-for-sensitive-data/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/17/france-says-google-microsoft-cloud-services-are-ok-for-sensitive-data/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/04/cloud-data-2.shutterstock_228273733-1-e1558054686834.jpg?w=1200&strip=all"
+        width: 1200
+        height: 730
+        isCached: true
   - title: "Microsoft Is Closing Down Its Azure Blockchain Service In September"
     excerpt: "Microsoft is shutting down its Azure Blockchain Service on September 10, 2021, after being in service for around six years."
     publishedDateTime: 2021-05-14T07:16:00Z

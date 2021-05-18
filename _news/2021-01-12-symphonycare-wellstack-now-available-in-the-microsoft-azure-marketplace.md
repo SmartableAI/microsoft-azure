@@ -33,13 +33,13 @@ related:
         height: 450
         isCached: true
   - title: "CoreStack Cloud Governance and Compliance Now Available in the Microsoft Azure Marketplace"
-    excerpt: "CoreStack, a global cloud governance provider, today announced the availability of its CoreStack AI-powered, multi-cloud compliance and governance solution in the Microsoft (News - Alert) Azure Marketplace,"
-    publishedDateTime: 2021-05-17T15:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-corestack-cloud-governance-compliance-now-available-the-microsoft-/2021/05/17/9370837.htm"
+    excerpt: "Microsoft Azure customers worldwide can now gain access to CoreStack Cloud Compliance and Governance to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies CoreStack,"
+    publishedDateTime: 2021-05-17T15:08:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210517005303/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 7
 
 secured: "An3Vk2vcqVOEFwR0lb80r9y25MhDe+OWahPX/dwaJ0Qnk8WcaO27tk9xWcXuhEUv7542op7cTyOxXBK6FqPVBRlC6LSg5OgEXCi8tws+xp5gpQ9zWK31MieoPUiAVNnfPKHv39MJTKFYq3DzPhZNbT7EoGtkUymurtk2coGEE7K9/4uQVNoXHd5N+0YC+YfTMdmxvCScaxy7m/RcA1/fVHwnmm0IHdDWlta4W75HNTAdU4YZ8nS1imC4tpdVjwrj4hdVRCJ+JJUDfNxbkon+U+XEkU/5UVaH2cumXJlj50EfiVrUReS4aTrBg6BxIwa2sEDvc/dqAmXe5i0eTmnkxEFyFlCC6cW+38tozrSXOws=;PODUiDhTS1UWiFjC03Ovgg=="

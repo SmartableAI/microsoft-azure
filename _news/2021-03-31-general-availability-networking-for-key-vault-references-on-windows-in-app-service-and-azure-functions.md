@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 919
+heat: 939
 published: true
 
 provider:
@@ -161,6 +161,15 @@ related:
     excerpt: "A regular Azure API Management service update was started on May 5, 2021, and included the following new features, bug fixes, and other improvements."
     publishedDateTime: 2021-05-13T20:00:02Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-may-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: 99.99% availability for Azure Key Vault"
+    excerpt: " Key Vault is now being offered at a 99.99% availability SLA, an improvement over our previous 99.9% SLA. "
+    publishedDateTime: 2021-05-17T22:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/9999-uptime-for-azure-key-vault/"
     type: article
     provider:
       name: Microsoft

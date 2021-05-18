@@ -1,29 +1,32 @@
 ---
 category: news
-title: "Microsoft Is Closing Down Its Azure Blockchain Service In September"
-excerpt: "Microsoft is shutting down its Azure Blockchain Service on September 10, 2021, after being in service for around six years."
-publishedDateTime: 2021-05-14T07:16:00Z
-originalUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html"
-webUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html"
-ampWebUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html/amp"
-cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html/amp"
+title: "France says Google, Microsoft cloud services are OK for sensitive data"
+excerpt: "France said its state and corporate data can be stored on Google and Microsoft's cloud services which have been licensed to French companies."
+publishedDateTime: 2021-05-17T21:58:00Z
+originalUrl: "https://venturebeat.com/2021/05/17/france-says-google-microsoft-cloud-services-are-ok-for-sensitive-data/"
+webUrl: "https://venturebeat.com/2021/05/17/france-says-google-microsoft-cloud-services-are-ok-for-sensitive-data/"
+ampWebUrl: "https://venturebeat.com/2021/05/17/france-says-google-microsoft-cloud-services-are-ok-for-sensitive-data/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/17/france-says-google-microsoft-cloud-services-are-ok-for-sensitive-data/amp/"
 type: article
-quality: 74
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: techworm.net
-  domain: techworm.net
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Blockchain
 
 images:
-  - url: "https://www.techworm.net/wp-content/uploads/2021/05/azure-blockchain-technology.jpg"
+  - url: "https://venturebeat.com/wp-content/uploads/2016/04/cloud-data-2.shutterstock_228273733-1-e1558054686834.jpg?w=1200&strip=all"
     width: 1200
-    height: 675
+    height: 730
     isCached: true
 
 related:
@@ -43,21 +46,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "France says Google, Microsoft cloud services are OK for sensitive data"
-    excerpt: "France said its state and corporate data can be stored on Google and Microsoft's cloud services which have been licensed to French companies."
-    publishedDateTime: 2021-05-17T21:58:00Z
-    webUrl: "https://venturebeat.com/2021/05/17/france-says-google-microsoft-cloud-services-are-ok-for-sensitive-data/"
-    ampWebUrl: "https://venturebeat.com/2021/05/17/france-says-google-microsoft-cloud-services-are-ok-for-sensitive-data/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/17/france-says-google-microsoft-cloud-services-are-ok-for-sensitive-data/amp/"
+  - title: "Microsoft Is Closing Down Its Azure Blockchain Service In September"
+    excerpt: "Microsoft is shutting down its Azure Blockchain Service on September 10, 2021, after being in service for around six years."
+    publishedDateTime: 2021-05-14T07:16:00Z
+    webUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html"
+    ampWebUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
+      name: techworm.net
+      domain: techworm.net
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/04/cloud-data-2.shutterstock_228273733-1-e1558054686834.jpg?w=1200&strip=all"
+      - url: "https://www.techworm.net/wp-content/uploads/2021/05/azure-blockchain-technology.jpg"
         width: 1200
-        height: 730
+        height: 675
         isCached: true
   - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
     excerpt: "May 6, 2021 /PRNewswire/ -- Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store ..."
@@ -97,6 +100,6 @@ related:
         height: 785
         isCached: true
 
-secured: "s63IBKPSPZenTQQAjHgfxr7jh8NJLLG7H17DvRJK1ZmGeafZW/Wrhf0JiLYuNWw+BGsZBk29vJfHnMZHQdxgmJFZwQwllR+iPrkT91wDZIWfBQewsX6t/6TK9l3T8jWO1GjToU+mZltZyg2KxDBvRCQkKM/QgbRu2ALwzkSwko2e/1ZkY+DjJ6y0X4cZMhjhoMzSwIK9iKLWSfg3S34GDVPYzHkCGJF8XpxJyn+hqnmnX7eM5OXBJPohSrhRvQZKSDyBkTynai9dPgfTU6vAr+UtvlXLiVF5ZC+2KGAhtQ2kX5bDKgqGBV6aB4oEeHiQavXZ9Pyt8tpwWfgR3mBMk5Zo+8nbtv6hiMpNSzM+uaIQwm16IGg9HGxHBQ/YxyOAtydNFJxai0d1t+75U8oB3RM+D1B1/lq+Dq9XDsAA4u2kKLY5DiE4d9o4/3eiM0uySFxa+eHehJDOsmdsgXsBtyeYqbqyqHW4WdUFF+hJdlXYDBofOizLNxQA9JjOYPc6lzENWcIJ39QZl30bhoX8GA==;1iY5GhKwkAzshWBbELGZYQ=="
+secured: "iadkCDy5CGwpTtvsS5GUNwqApVwFR9casipjWoZ5J1FlDc4w1x8QM8A0Hemwjyerofb0so56AWY174kp3XCS6c11xSbGyq0i2VfWebDAhl8nB3kamSu9sExkjtvMlx9edBJn5Tz0mGPmCBbRWQFENwO8rjZYOi4ukPX7m7cRr3GTBjJt+3PPSMnySaCNzR5tp6srNZT8gBDJjK/1/DWbm3R4a4CXMC6HOYgwmQQ3+IW3mt/x9pwobLdcXXS2ufY4Jg/mIDih1Dgk4r41UpoZBM/wc9c45qWZPRjG4686Kk6XYtzAb2SiKw6c4Ef1elxz9iJOgbxCWU8rArWGpy/JbXQ+3lmECr/RYwMlhkj39sk=;INEWsTKS4wuNrfGk9RgmBA=="
 ---
 

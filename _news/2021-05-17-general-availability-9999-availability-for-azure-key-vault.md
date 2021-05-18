@@ -1,10 +1,10 @@
 ---
 category: news
-title: "General availability: Stream Analytics runs on Azure Stack Hub "
-excerpt: "Stream Analytics now is available on Azure Stack Hub as an IoT Edge module, supporting native input and output adapters, such as Event Hub and IoT Hub. It allows customer to build truly hybrid data solutions."
-publishedDateTime: 2021-03-26T16:00:13Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/asaonstackhub/"
-webUrl: "https://azure.microsoft.com/en-us/updates/asaonstackhub/"
+title: "General availability: 99.99% availability for Azure Key Vault"
+excerpt: " Key Vault is now being offered at a 99.99% availability SLA, an improvement over our previous 99.9% SLA. "
+publishedDateTime: 2021-05-17T22:00:08Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/9999-uptime-for-azure-key-vault/"
+webUrl: "https://azure.microsoft.com/en-us/updates/9999-uptime-for-azure-key-vault/"
 type: article
 quality: 84
 heat: -1
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Analytics
+  - Security
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -109,6 +109,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Stream Analytics runs on Azure Stack Hub "
+    excerpt: "Stream Analytics now is available on Azure Stack Hub as an IoT Edge module, supporting native input and output adapters, such as Event Hub and IoT Hub. It allows customer to build truly hybrid data solutions."
+    publishedDateTime: 2021-03-26T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asaonstackhub/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: Changes coming to Azure Pipelines free grants"
     excerpt: "With this update, we are including temporary changes that will impact the process to acquire Azure Pipelines free grants. New users will have to send an email and provide additional information to get free CI/CD."
     publishedDateTime: 2021-03-29T23:36:20Z
@@ -158,15 +167,6 @@ related:
     excerpt: "A regular Azure API Management service update was started on May 5, 2021, and included the following new features, bug fixes, and other improvements."
     publishedDateTime: 2021-05-13T20:00:02Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-may-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "General availability: 99.99% availability for Azure Key Vault"
-    excerpt: " Key Vault is now being offered at a 99.99% availability SLA, an improvement over our previous 99.9% SLA. "
-    publishedDateTime: 2021-05-17T22:00:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/9999-uptime-for-azure-key-vault/"
     type: article
     provider:
       name: Microsoft
@@ -398,6 +398,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "wYAQRJ/UnfaCk0dO+TkkYeu/qtdtlA4ByVT8SXdCIDrjZ7RCQ0SPfEgSWbjxExILHuWD3cljmUEmCUcQY+AArJQs4SnaPf9Yht4VPbQx3ADr5IZFX+wnOXwGNeDe5QpFl2ze+VcO7wlMH7mldlxc+/TWaDn6ocwUDDeUlYP4e2Z0LdBh/xKT3wizKKSeMlj/m3NywDJY+rSfffbvtGlDpeS9l/1rZAbYHKnwBxw7Thiau2dKmu3VcZPHoTu7WldpTrvtLs8PL+rxupjIHn3N4I5O5dT24fdcOEQyyx7dPzlE6uqRvuxg6zA669a0EpjS+aM83z43YdXtOPjF267eXTqE0F5vWl/D3nd4fAIojJ4=;jjXVa+h8G5xSNYIMaPMaxA=="
+secured: "u+VF1SWrhjtA6/EYhysl3NyqBFjKUCendXEGhFJcPKBzHxyeQVWGgdn2uGfbVf+iKbNf+UJ6ImpuSnj51lhtGn6NuQkip7ubU8SOsqhQfIuRxH2ZPlOD/NO0GpWQPr4TlZD/9EAt4UJBSVL0LwHZFy8sW1D3TcPiYuECT46EXq487wOmn1kIEkiov4dENxwLW0KONFCBW07t5CmJvnPV9tGsrv3/vpGhiXSKSI9xiZBr0e0vJuK3VO1Q7EpH1gLDciHgHm/r6oQgFka3VM/8YLV9xAbcdS0Ji4oOdbkXfZUoTpUX8nTrz0HM1x8u3RMOykZqidLscBHDLsGp+OGpw/bsUGypEmGsBbboaXJxpfs=;w2WEPdkPyJ66VLzKeOo8iw=="
 ---
 
