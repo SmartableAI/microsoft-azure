@@ -1,28 +1,23 @@
 ---
 category: news
-title: "Actual Microsoft DP-300 Exam Dumps [2021] Azure Database Administrator Associate Questions"
-excerpt: "The ultimate gateway to pass the Microsoft DP-300 exam with ITExamQuestions DP-300 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-300 Administering Relational Databases on Microsoft Azure Exam?"
-publishedDateTime: 2021-04-20T23:11:00Z
-originalUrl: "https://www.madinamerica.com/author/download-microsoft-dp-300-exam-dumps/"
-webUrl: "https://www.madinamerica.com/author/download-microsoft-dp-300-exam-dumps/"
+title: "Mars teams with Microsoft Azure for its digital transformation program"
+excerpt: "The collaboration aims to optimise Mars’ operational speed in confectionaries and pet foods and build intelligent manufacturing supply chains"
+publishedDateTime: 2021-05-18T19:39:00Z
+originalUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program"
+webUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program"
+ampWebUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
+cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
 type: article
-quality: 44
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Mad in America
-  domain: madinamerica.com
+  name: GDPR fines
+  domain: itp.net
 
 topics:
   - Azure
-  - Databases
-
-images:
-  - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-    width: 300
-    height: 285
-    isCached: true
 
 related:
   - title: "Amdocs to Accelerate M1's Digital Transformation on Microsoft Azure"
@@ -96,17 +91,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Mars teams with Microsoft Azure for its digital transformation program"
-    excerpt: "The collaboration aims to optimise Mars’ operational speed in confectionaries and pet foods and build intelligent manufacturing supply chains"
-    publishedDateTime: 2021-05-18T19:39:00Z
-    webUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program"
-    ampWebUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
+  - title: "Actual Microsoft DP-300 Exam Dumps [2021] Azure Database Administrator Associate Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft DP-300 exam with ITExamQuestions DP-300 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-300 Administering Relational Databases on Microsoft Azure Exam?"
+    publishedDateTime: 2021-04-20T23:11:00Z
+    webUrl: "https://www.madinamerica.com/author/download-microsoft-dp-300-exam-dumps/"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 37
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 44
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
   - title: "Download Microsoft AZ-303 Exam Dumps (2021) Azure Solutions Architect Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-303 exam with ITExamQuestions AZ-303 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-303 Microsoft Azure Architect Technologies Exam?"
     publishedDateTime: 2021-04-20T04:15:00Z
@@ -259,6 +257,6 @@ related:
         height: 293
         isCached: true
 
-secured: "4ssGqoIA+4cMbe3C0YubTohkbHcI80QmMzmkn2iX5xkL8vF4P14zn/dRGygLULwhggSvKyZabp1p3wyEhmr7sjMURLMEsCUWMpKvqx6AGvYCtgLcMsR07ypKvdNmpOKsR5mWT+PLgxBXfLwyf8EhA4ai80s9T9wB/v4Rq4i6UBbq2fTNDuEGixbbN/+jY/HQc4z9AU5MatHzt2F5y6b/9s5TK1m76ddrXvtSX6cj8goXifJOsSEqI/1Xh/DbW3jwbjy5UAU0Z8ZoGGhhOJeQyd0PLYyAN8GwiOaPJGf3RklmVSWNnuRdxUq4IuYkSPbsUcTTH/hACWYNTcOFLU7FRhPnwjSYI6RdIGeryvp8dLBiXe4q/SAtVACkCXUTa1ap0p20vzTBCUo1NlQ4dRMWWwrQo/B6zSgF2mG7Fs05Sk0KdyyaEUFGNii1hTgBX1Pfik2KCuuu0LXEoet8ylU7U/lDtYLZmueRjSig+RFH66MRYQg33UjPb+zroFlTfKS8Cr2mHNoWofhjUwTMw0uVlw==;GMqd+vx/tKRnIDKqttw8iw=="
+secured: "zt+MVXHgvKI4/iVrP+yUvIoNb8r4q2yjmnTohj/lMCj0zpioJydsWd2DSVotPTEhdJQgcTSatRyzRD5WJWftTggVaAbwTRzX6Uuj36KhLuPQaZt21bLnkW3TP8HZ9xdSnaZbv7GW3/Lii3hRF+zvTWEHLwOrKTGF5S073qCMzN/WI6x8JsOiinkk9JF8MRkOuogmqYV7l6NPFAjXodm2SPxge+IpqkP6FfCPkKcUCsSEWVk4wtXFuFEaQyK+hjOUFxMZpcXmxjHwsE4OdPuXTS/vckSSa4IXQVA+1GKLzWNlWQBgW2ahx1BHx8/cyl75uGI5wfyuUMzxSbRXicqGeLfrG9DShm+4apK3DW5iHAc=;l1AkvE6V8CS10Q2Gh7xWsA=="
 ---
 

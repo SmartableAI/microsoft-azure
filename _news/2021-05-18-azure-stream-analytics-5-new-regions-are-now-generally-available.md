@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Event Hubs on Azure Stack Hub for disconnected scenarios is now generally available"
-excerpt: "Supports streaming events via Event Hubs for disconnected scenarios on Azure Stack Hub. "
-publishedDateTime: 2021-03-01T17:00:04Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/event-hubs-on-azure-stack-hub-for-disconnected-scenarios-is-now-generally-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/event-hubs-on-azure-stack-hub-for-disconnected-scenarios-is-now-generally-available/"
+title: "Azure Stream Analytics: 5 new regions are now generally available"
+excerpt: "Azure Stream Analytics is a fully managed, real-time analytics service designed to help you analyze and process fast moving streams of data that can be used to get insights, build reports, or trigger alerts and actions. The service is now available in 5 new regions."
+publishedDateTime: 2021-05-18T17:56:59Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/2021regions/"
+webUrl: "https://azure.microsoft.com/en-us/updates/2021regions/"
 type: article
-quality: 61
+quality: 84
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Analytics
 
 related:
   - title: "Azure SQL auditing to Log Analytics and Event Hub are now generally available"
@@ -49,15 +50,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 92
-  - title: "Azure Stream Analytics: 5 new regions are now generally available"
-    excerpt: "Azure Stream Analytics is a fully managed, real-time analytics service designed to help you analyze and process fast moving streams of data that can be used to get insights, build reports, or trigger alerts and actions. The service is now available in 5 new regions."
-    publishedDateTime: 2021-05-18T17:56:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/2021regions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Log Analytics Agent for Windows August 2020 release is now available"
     excerpt: "The August 2020 release contains bug fixes and improvements to stability and reliability."
     publishedDateTime: 2020-09-02T16:00:03Z
@@ -103,6 +95,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 66
+  - title: "Event Hubs on Azure Stack Hub for disconnected scenarios is now generally available"
+    excerpt: "Supports streaming events via Event Hubs for disconnected scenarios on Azure Stack Hub. "
+    publishedDateTime: 2021-03-01T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/event-hubs-on-azure-stack-hub-for-disconnected-scenarios-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
   - title: "Backup Center is now generally available"
     excerpt: "Backup Center enables centralized backup management allowing you to monitor, operate, govern, and optimize data protection at scale. \n"
     publishedDateTime: 2021-03-02T17:00:06Z
@@ -122,6 +123,6 @@ related:
       domain: microsoft.com
     quality: 0
 
-secured: "SKxCWHdhbgZQNJU8OHuSHqV/FxeKXZFsR7fEuCJhlPzaF7/da2F8AclxmunsGg4eFtKnGsfsum9B3xAIbwlQH1OHK6G8gOz+ZeHLJr8V8uOXzrMroeuNO/gFXGI7I5zyaJ8oFPr5ZnlKmZAchVhc5PqRJlF1GSIu0tiYOChdmAZW6FI9L6mbG2/vZbUawDgPbn1/N5vf8JeYJmpuhYOlwX5OgKCRYknjxWkTa/kUd3SYDYmz5zn3jFFSnO9GaXa8f7uJLq86BiLbYLv1QcS9yPDbeVPjSrAPj2jbKxXWoQrsuaBZ9OdfFlFzMH365hbgX2B7Qd2pgGOX8wwcBSEZnozuVedrM1H0hMMiSzomn4s=;5r4YEFyzk3fUhRpBt2Nh9g=="
+secured: "A9wva5CSiv9nuTrgQY/oDp5YRS5L2EOUUm9CrZL/IqorbiINz2Qdf4RFPzZeSSuajTssFpGbrzg9DVj6ZhXeH4Gd25kPPIAtSUlb8phcAW5/AB4tv07PFfgIlzBjuwLw9xAWARzaGWt8/qmo2p7iD8JL31CMqACaW1tebvAfJwpEyf/GQ3+/fxHl6LlzK3aWqSEfJQq5dcA647oZSWr588URN1rVgwVAO/JiVoMu1z+vuL0gL4ecgQwAxjy++0ZToU3gPzTylAjgAxquUmDIgC9TQARbOSq2jfiyeNGZ/OV8IkpW1gEDBjOP7giQYNUpNbI25sF975sdc5RMQH6LTi/UMpLxxG7wWDtVHEpKFgM=;ZLM6BLpGqcyEE22HzvlyEw=="
 ---
 

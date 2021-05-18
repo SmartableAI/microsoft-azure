@@ -181,6 +181,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Azure Key Vault SLA raised to 99.99%"
+    excerpt: " Key Vault is now being offered at a 99.99% availability SLA, an improvement over our previous 99.9% SLA. "
+    publishedDateTime: 2021-05-17T22:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/akv-sla-raised-to-9999/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: Azure Backup supports backup and restore of Azure Dedicated Host "
     excerpt: "To protect your valuable resources, Azure Backup now supports backup & restore of Azure Virtual Machines with dedicated host. \n\n\n"
     publishedDateTime: 2021-04-01T15:56:14Z

@@ -180,6 +180,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Azure Key Vault SLA raised to 99.99%"
+    excerpt: " Key Vault is now being offered at a 99.99% availability SLA, an improvement over our previous 99.9% SLA. "
+    publishedDateTime: 2021-05-17T22:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/akv-sla-raised-to-9999/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: ExpressRoute monitoring in Azure Monitor network insights"
     excerpt: "Network insights in Azure Monitor now supports monitoring Azure ExpressRoute resources out of the box without any additional configuration or setup."
     publishedDateTime: 2021-03-31T16:01:57Z

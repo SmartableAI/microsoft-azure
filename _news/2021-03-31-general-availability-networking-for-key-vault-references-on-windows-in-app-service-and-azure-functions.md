@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 939
+heat: 959
 published: true
 
 provider:
@@ -170,6 +170,15 @@ related:
     excerpt: " Key Vault is now being offered at a 99.99% availability SLA, an improvement over our previous 99.9% SLA. "
     publishedDateTime: 2021-05-17T22:00:08Z
     webUrl: "https://azure.microsoft.com/en-us/updates/9999-uptime-for-azure-key-vault/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Azure Key Vault SLA raised to 99.99%"
+    excerpt: " Key Vault is now being offered at a 99.99% availability SLA, an improvement over our previous 99.9% SLA. "
+    publishedDateTime: 2021-05-17T22:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/akv-sla-raised-to-9999/"
     type: article
     provider:
       name: Microsoft

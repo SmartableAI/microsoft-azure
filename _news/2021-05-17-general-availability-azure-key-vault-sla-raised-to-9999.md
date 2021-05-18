@@ -1,10 +1,10 @@
 ---
 category: news
-title: "General availability: Azure API Management updates - May 2021"
-excerpt: "A regular Azure API Management service update was started on May 5, 2021, and included the following new features, bug fixes, and other improvements."
-publishedDateTime: 2021-05-13T20:00:02Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-may-2021/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-may-2021/"
+title: "General availability: Azure Key Vault SLA raised to 99.99%"
+excerpt: " Key Vault is now being offered at a 99.99% availability SLA, an improvement over our previous 99.9% SLA. "
+publishedDateTime: 2021-05-17T22:00:08Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/akv-sla-raised-to-9999/"
+webUrl: "https://azure.microsoft.com/en-us/updates/akv-sla-raised-to-9999/"
 type: article
 quality: 84
 heat: -1
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Integration
+  - Security
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -163,19 +163,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "General availability: 99.99% availability for Azure Key Vault"
-    excerpt: " Key Vault is now being offered at a 99.99% availability SLA, an improvement over our previous 99.9% SLA. "
-    publishedDateTime: 2021-05-17T22:00:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/9999-uptime-for-azure-key-vault/"
+  - title: "General availability: Azure API Management updates - May 2021"
+    excerpt: "A regular Azure API Management service update was started on May 5, 2021, and included the following new features, bug fixes, and other improvements."
+    publishedDateTime: 2021-05-13T20:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-may-2021/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "General availability: Azure Key Vault SLA raised to 99.99%"
+  - title: "General availability: 99.99% availability for Azure Key Vault"
     excerpt: " Key Vault is now being offered at a 99.99% availability SLA, an improvement over our previous 99.9% SLA. "
     publishedDateTime: 2021-05-17T22:00:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/akv-sla-raised-to-9999/"
+    webUrl: "https://azure.microsoft.com/en-us/updates/9999-uptime-for-azure-key-vault/"
     type: article
     provider:
       name: Microsoft
@@ -407,6 +407,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "bKrCcgOOdJD/LsD5+r2wgQOYnsTGWq5b+Slw10OAfttzJUBB4981f7s4l1Z617tihBrb4vt4LlO8HPQUkmAo+kmd3fcYjZrvl116gtQAuRn+5ylbHoFWg8fKi8+AJZtl69uVUjqOc0j6/64BBdJac7E/p3y6y3JnFiuh0I/yNIdDc0SnfsT9oOLjWfPZQOhXst7Iz9d7Emtajb6VZuo0RDnlyd485eWaCsmMeVzrWgpvb+6U8r4+Fo+7iQiLOwS08E70SLH84puiT8Y5cnoVndVxHZ0ztr3R2AIjirOs+FsbBUwAzULCjTNi1DAV0DIDguAuS9JJS1K8dLD/OiMublPmHY1cQSe6lA65tDMVzho=;O9nQMQPfdiSbktsMZwdGOA=="
+secured: "6Dbm8NmwbG4EokCpQ0mqATtNioqqpTY4CHMIixp6UP+09iRCVFp/GewzjIdMhNS4NyG8xoBLPRlwJ/GWtjQQcuf18gHYSMBue0fS0Db0bvLfLSah/IquUF+/qLnuK92aBULfPibg4n7vlsHElc+VNoUvkz6P+w/VNuhqkBvGX91MTBtmBRkdcAPaECLC5D1dBd8O86GKL4k5ONoamQO0Vju4hoaD5xjPGfkUq4/NkSaJtYxgLXo/Z13GlDJQBFrFd+X0IhzeSlKjxn4cRTVoo64PQ6tuwcWwcOatxidpRk/Icd4T/TEZafknIA+P7YtgGh4a+X1xFIN+Sw/KlQ+Yj971OV/pKJvmUOLtliaO6Ks=;oNbhKGozGbeUWqi4lNLG2g=="
 ---
 
