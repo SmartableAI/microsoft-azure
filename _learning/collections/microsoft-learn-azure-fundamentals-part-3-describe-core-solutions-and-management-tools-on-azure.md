@@ -18,12 +18,12 @@ levels:
   - Beginner
 
 items:
-  - courses/microsoft-learn-ai-machine-learning-fundamentals
-  - courses/microsoft-learn-azure-devops-devtest-labs
-  - courses/microsoft-learn-monitoring-fundamentals
-  - courses/microsoft-learn-management-fundamentals
-  - courses/microsoft-learn-serverless-fundamentals
   - courses/microsoft-learn-iot-fundamentals
+  - courses/microsoft-learn-ai-machine-learning-fundamentals
+  - courses/microsoft-learn-serverless-fundamentals
+  - courses/microsoft-learn-azure-devops-devtest-labs
+  - courses/microsoft-learn-management-fundamentals
+  - courses/microsoft-learn-monitoring-fundamentals
 
 topics:
   - Azure
