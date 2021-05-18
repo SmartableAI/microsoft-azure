@@ -154,15 +154,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-security-dashboard.md",
-      "title": "Explore the Security Dashboard",
-      "excerpt": "Explore the Security Dashboard",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-security-dashboard/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-security-dashboard/",
-      "length": "PT34M",
+      "path": "_learning/courses/microsoft-learn-introduction-to-microsoft-defender-for-office-365.md",
+      "title": "Examine Microsoft Defender for Office 365",
+      "excerpt": "Examine Microsoft Defender for Office 365",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-microsoft-defender-for-office-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-microsoft-defender-for-office-365/",
+      "length": "PT27M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 7,
+        "average": 4.857143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -193,20 +193,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Identity",
-        "Security"
+        "Identity"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-microsoft-cloud-adoption-framework-for-azure-v1-1.md",
-      "title": "Microsoft Cloud Adoption Framework for Azure",
-      "excerpt": "Learn how to use the Cloud Adoption Framework to develop best practices for cloud adoption in real-world scenarios.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microsoft-cloud-adoption-framework-for-azure-v1-1/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/",
-      "length": "PT50M",
+      "path": "_learning/courses/microsoft-learn-maintain-azure-sap-workloads.md",
+      "title": "Maintain Azure for SAP workloads",
+      "excerpt": "Maintain Azure for SAP workloads",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-maintain-azure-sap-workloads/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/maintain-azure-sap-workloads/",
+      "length": "PT48M",
       "ratings": {
-        "count": 2323,
-        "average": 4.746879
+        "count": 206,
+        "average": 4.786408
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -221,12 +220,12 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Advanced"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/microsoft-cloud-adoption-framework-for-azure-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/maintain-azure-sap-workloads-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -240,14 +239,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-use-azure-orbital-to-communicate-with-your-satellites-azure-friday.md",
-      "title": "How to use Azure Orbital to communicate with your satellites | Azure Friday",
-      "excerpt": "Azure Orbital is a fully managed cloud-based ground station as a service that enables you to communicate with your spacecraft or satellite constellations, downlink and uplink data, process your data in the cloud, chain services with Azure services in unique scenarios, and generate products for your customers.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-orbital-to-communicate-with-your-satellites-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-orbital-to-communicate-with-your-satellites-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=MqgjSBKAxIg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MqgjSBKAxIg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M25S",
+      "path": "_learning/videos/microsoft-azure-purview-new-connectors-synapse-integration-enhanced-business-glossary-etc-azure-friday.md",
+      "title": "Azure Purview: New connectors, Synapse integration, enhanced business glossary, etc. | Azure Friday",
+      "excerpt": "Gaurav Malhotra joins Scott Hanselman to show him what's new in Azure Purview since it was released in public preview in December 2020. Azure Purview is a unified data governance service that helps you manage and govern your on-premises, multicloud, and software-as-a-service (SaaS) data. Easily create",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-purview-new-connectors-synapse-integration-enhanced-business-glossary-etc-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-purview-new-connectors-synapse-integration-enhanced-business-glossary-etc-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=cLl7g7RP8Bo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cLl7g7RP8Bo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M19S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -260,11 +259,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-03-19T13:04:04-07:00",
+      "publishedDateTime": "2021-03-12T09:14:47-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/MqgjSBKAxIg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/cLl7g7RP8Bo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -275,7 +274,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking"
+        "Analytics",
+        "Integration"
       ]
     },
     {
