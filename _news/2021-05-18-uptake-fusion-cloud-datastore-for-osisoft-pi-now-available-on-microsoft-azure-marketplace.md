@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
-excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on"
-publishedDateTime: 2021-05-18T15:33:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace-301287926.html"
-webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace-301287926.html"
+excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."
+publishedDateTime: 2021-05-18T16:41:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-science-426db6015c117211b515f3d7b8cec529"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-science-426db6015c117211b515f3d7b8cec529"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -219,6 +219,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "yxKvqq4vGN+p/sr9ty0zO5fjXUGwHOFMy6w/rN6EguzSZJVPPLJ0juun26/wE5xITZy0CWJJSZ7q0KvEveEudH1+K/Hh1o22Z5SGGSB9mpd7Z+RruE1qAjoxeoyYDDIo3FwmeDsS9zikCUnPSOd/o5tDRS+KdrRtjOy9udZhI4xugAuwv59uuzHLJt77Wuvl0Ct01vNpgiUabQTH3TI9vaH8OQh4Aju+zFqwMeOVFAGVJY7X0Zc9wUYCqpYmh1GkCfHdXcEIhanJWca7wWF2+ckuy62B/XsmN/U8mnKdPeDP6jxPb0IwQguonTVl8bNXUrRbmJu8+3VIUVzwSMrn0kmyd+1GiNfS/dJvlKLFH5k=;NiMQtedfKr6oV8djcrHm2g=="
+secured: "1A8uoBVEmUq7VOV3Zb+L1MeY7N/8yUzID7bxxVKujZ2SgToMg9WPDA0FCutqv7Rts2BwsydCFhvEoAUHs5XhwostRuTUxsrMUu26GfYd4xSF3LFcMgREMQDlVMUX1AVSN9qcSzNQ1UxV0DjKMEwygbqdDhrd6AxefpNk73IpCvFwAkGeF/SzrfcQMMXpjKnUw4ohzOUQrY6zyMvQvNKo4yBL4HFP1Ekv8H6iXYigfeS43C/X4Ef02rbfE7DoL/IFxQks5uH4fsm9deG28XQ/ZxE1avi0VCK/D7apdzFJTC89/6/QAwDPdfPE8cOMODP0n+ECB4a6Rcc1rBoYnJW7MEincU56LiyvTh8Rrip703Y=;0/Bjyem/Dy++Txd6GnHeiA=="
 ---
 

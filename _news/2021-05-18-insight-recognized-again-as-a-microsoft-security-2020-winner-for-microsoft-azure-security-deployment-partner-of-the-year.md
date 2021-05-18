@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Insight Recognized Again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
-excerpt: "Cloud + Data Center Transformation at Insight. At the second annual Microsoft Security 20/20 Awards held May 12, Microsoft announced award winners in 18 categories spanning security, compliance ..."
-publishedDateTime: 2021-05-18T12:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year-1030441138"
-webUrl: "https://markets.businessinsider.com/news/stocks/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year-1030441138"
+excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced"
+publishedDateTime: 2021-05-18T16:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210518005654/en/Insight-Recognized-Again-as-a-Microsoft-Security-2020-Winner-for-Microsoft-Azure-Security-Deployment-Partner-of-the-Year"
+webUrl: "https://www.businesswire.com/news/home/20210518005654/en/Insight-Recognized-Again-as-a-Microsoft-Security-2020-Winner-for-Microsoft-Azure-Security-Deployment-Partner-of-the-Year"
 type: article
-quality: 49
-heat: 49
+quality: 9
+heat: 9
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -37,6 +33,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Stratodesk is First to Globally Deliver a Thin Endpoint Management Solution, NoTouch Center, within the Microsoft Azure Marketplace"
+    excerpt: "Stratodesk, the fastest growing EUC endpoint company, today announced the availability of NoTouch Center in the Microsoft Azure Marketplace. A historic achievement,"
+    publishedDateTime: 2021-05-14T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/stratodesk-is-first-to-globally-deliver-a-thin-endpoint-management-solution-notouch-center-within-the/article_edb61a7b-082d-5c24-8a40-11b1187f21e3.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 7
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Governance experts Rencore and Alight partner to offer a complete governance solution for the Microsoft Cloud"
     excerpt: "Rencore, the provider of award-winning software essential for governing Microsoft 365, announced their partnership with Microsoft technology consultants Alight. The partnership combines Rencore's"
     publishedDateTime: 2021-05-18T13:00:00Z
@@ -52,6 +62,6 @@ related:
         height: 720
         isCached: true
 
-secured: "JOoGZuSJy1a4YORciWh+Lzg22G3goGCgquj90GoOJBB+2D14fcu8Vd3PXVOeA9jG8khu4PWktEuMV5/nfdV1js3YWfb44f0QzzPy4FA/KiXGiroA8RHbca9lqx2R/6TyFvD/4ah9C1+6GMAUHJ/Nds6UfJlbf8t8YSJaIrtCcEbGgCkxneIkn8dUlW5S6Ehug8M3ijG72oXnLoCRiLhgIapLbu0qGbW7nteDqz2oqGFbgz+FoMNu7uVInnuLxWPGLqxc/RXmp1aOswkjaf6zI8UTjuoWh1mKYN0QJMtLjvTU/RdPmIgvcyEnSn933STZGIi/cS+B6XEYek0+6eMaXOTihFz8bZmsi6WZXBHQ3uc=;VyY4z+swSK7EG3fVHQJ4lg=="
+secured: "Nlcc+XgvF3WKLu1E7SOh+p5pBxEzK+X4/VPzinsCUd8+4/8TDq8F6Pa79AaH2QvZzH3ZeKdH8UZIy9G5LVSd1kgIq38YJsLpkwKlRB1WHl7CqMxb35GTD4HyZoQmf+19DJSSvUC/i6KnRqT0RLqE1hwVvHOxhghP1tM/BHvPfwocNQY38DN86mMmnZzVvWuRo3n1S9izwFHISrbIfP5Na0Ouobk/ygQLsqC5CT6NpBMsHHb8l/GsN5scrMUDWfgWSo1/Oi0FYViTG6832tU1T+3FBlMjF6q2NFTxQLqSita9ujHnmsxVnyiQFBv+HRGd2+ND3+p8Wq6PWDkaAxx8Ln0aR3XsdCVvmJ+wnNmDueA=;w/NLApbrrQeABUbYLziDbg=="
 ---
 
