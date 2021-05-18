@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/05/15/cloud-computer-market-is-expect
 webUrl: "https://ksusentinel.com/2021/05/15/cloud-computer-market-is-expected-to-rise-over-the-projected-horizon-between-2021-and-2027-amazon-web-services-microsoft-azure/"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 2560
     height: 1707
     isCached: true
+
+related:
+  - title: "Insight Recognized Again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
+    excerpt: "Cloud + Data Center Transformation at Insight. At the second annual Microsoft Security 20/20 Awards held May 12, Microsoft announced award winners in 18 categories spanning security, compliance ..."
+    publishedDateTime: 2021-05-18T12:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year-1030441138"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "vsc6wpBAQgOf475RQVJK54b0Rx6ibRydMu9DANM5AZRCOrrFyHqWoCV5Z/0Ie9HfvtrRYhRMDMf65nxgVw1zu/d6j4YJPm1J37T91UC877JhZbAXQ7oBbIo2Vt9/ixF4P/vrdpNkP2W4Gaq25aLrIlQVCbsYmpq9gUtNuFD2qK/Fq6JcWC/Qdv0qAw4HwFE7A0KzJsVEJ50BJnwAXQETH+WATiMFXiT8uZU6+qArU7W20Jc5J6vAW7AxKsvoWehujAAzARfkTaBBydGPYrgooJMbdLuErdNZqgUHEHQp51CBF39Eo95ylfTJdZ7IBJCEn14aZs1jghNYA90en75IjfNJvANoSI++Je9mu+uYG9K0DXLP7yxxQ7n6coLNksgP6AeWnzAtqibQZV9OL/6uJlhHYnHbcpGbw0WWufBTRS4bL3xCeSX2MKzrN3YrZS0nwyOsBflnPIDzwPEHZr7L2V6SbNFYrvBxtGkeMt7l2Gdn8M76UnLIf5Zv3uhl3aJxVxgHZAjHFb74E8qqQQ5yTw==;YSCsUKQzLMjOtwGv4UORbg=="
 ---
