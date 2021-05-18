@@ -37,6 +37,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Governance experts Rencore and Alight partner to offer a complete governance solution for the Microsoft Cloud"
+    excerpt: "Rencore, the provider of award-winning software essential for governing Microsoft 365, announced their partnership with Microsoft technology consultants Alight. The partnership combines Rencore's"
+    publishedDateTime: 2021-05-18T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/governance-experts-rencore-and-alight-partner-to-offer-a-complete-governance-solution-for-the-microsoft/article_0326597c-3227-5aa5-b0f3-3d38d12f38ec.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 3
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "JOoGZuSJy1a4YORciWh+Lzg22G3goGCgquj90GoOJBB+2D14fcu8Vd3PXVOeA9jG8khu4PWktEuMV5/nfdV1js3YWfb44f0QzzPy4FA/KiXGiroA8RHbca9lqx2R/6TyFvD/4ah9C1+6GMAUHJ/Nds6UfJlbf8t8YSJaIrtCcEbGgCkxneIkn8dUlW5S6Ehug8M3ijG72oXnLoCRiLhgIapLbu0qGbW7nteDqz2oqGFbgz+FoMNu7uVInnuLxWPGLqxc/RXmp1aOswkjaf6zI8UTjuoWh1mKYN0QJMtLjvTU/RdPmIgvcyEnSn933STZGIi/cS+B6XEYek0+6eMaXOTihFz8bZmsi6WZXBHQ3uc=;VyY4z+swSK7EG3fVHQJ4lg=="
 ---

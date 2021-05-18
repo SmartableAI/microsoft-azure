@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Datametica now available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the scalability, reliability and agility of Azure to shape"
-publishedDateTime: 2021-05-13T07:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/datametica-now-available-in-the-microsoft-azure-marketplace-1030424788"
-webUrl: "https://markets.businessinsider.com/news/stocks/datametica-now-available-in-the-microsoft-azure-marketplace-1030424788"
+title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
+excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on"
+publishedDateTime: 2021-05-18T15:33:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace-301287926.html"
+webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace-301287926.html"
 type: article
-quality: 57
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -61,6 +63,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Datametica now available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the scalability, reliability and agility of Azure to shape"
+    publishedDateTime: 2021-05-13T07:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/datametica-now-available-in-the-microsoft-azure-marketplace-1030424788"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "KlariVis Now Available in the Microsoft Azure Marketplace"
     excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
     publishedDateTime: 2020-06-09T12:09:00Z
@@ -116,20 +127,6 @@ related:
       - url: "https://www.crn.com/resources/025e-0f9e7f014024-ea501a6b983f-1000/rohan_kumar.jpg"
         width: 499
         height: 499
-        isCached: true
-  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on"
-    publishedDateTime: 2021-05-18T15:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace-301287926.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
         isCached: true
   - title: "InfiniteIO Announces Integration with Microsoft Azure to Reduce Cloud Latency and Storage Costs"
     excerpt: "Metadata management innovator InfiniteIO today announced new support for Microsoft Azure to dramatically reduce the cost of primary file storage and minimize cloud latency to help enterprises lower capital and operational expenses and increase application performance."
@@ -222,6 +219,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "4MkHzoQPxjhYDUiMNYgOP38z3S17oa0Th1JGmAuiq+5yT1oCGc3/a2lWu1mc1jIt6jDA5mJEr1F6UnTZPQVyF/0+dWuhTtr6PghBjg3c3uHzvTOX5orJ+C7QLaXdzyPWbrWmSdCJdo434reXCvKjgvMlRkx0SqHVQ9znlgB3gFDSpSt+6rZOEYsVtdEhWqa16GNfd52UjmIhPlJ8XeknG8GkQWWO3DtPsn9LaL2CD31agMAW/Qt4GbnJs0GzrllzksDLsf+4tU8t81w7Rji5xOp4ONPtIZEJcOeHmtWCePKkydZ2AEUWkypJqtq2kqh44WL5/MV4IKvgh+4ZG+ZnanD25hAoyzNYOqZeFBSqYQM=;WvY4Q0Jjy/0vYAfaxpOFtg=="
+secured: "yxKvqq4vGN+p/sr9ty0zO5fjXUGwHOFMy6w/rN6EguzSZJVPPLJ0juun26/wE5xITZy0CWJJSZ7q0KvEveEudH1+K/Hh1o22Z5SGGSB9mpd7Z+RruE1qAjoxeoyYDDIo3FwmeDsS9zikCUnPSOd/o5tDRS+KdrRtjOy9udZhI4xugAuwv59uuzHLJt77Wuvl0Ct01vNpgiUabQTH3TI9vaH8OQh4Aju+zFqwMeOVFAGVJY7X0Zc9wUYCqpYmh1GkCfHdXcEIhanJWca7wWF2+ckuy62B/XsmN/U8mnKdPeDP6jxPb0IwQguonTVl8bNXUrRbmJu8+3VIUVzwSMrn0kmyd+1GiNfS/dJvlKLFH5k=;NiMQtedfKr6oV8djcrHm2g=="
 ---
 

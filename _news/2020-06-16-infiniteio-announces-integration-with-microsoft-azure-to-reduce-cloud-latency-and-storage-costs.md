@@ -128,6 +128,20 @@ related:
         width: 499
         height: 499
         isCached: true
+  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on"
+    publishedDateTime: 2021-05-18T15:33:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace-301287926.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Claro Enterprise Solutions Designated as a Microsoft Azure ExpressRoute Partner for Miami Peering Location"
     excerpt: "Claro Enterprise Solutions, a leading technology services company, today announced that it has been named a Microsoft Azure"
     publishedDateTime: 2020-06-16T13:00:00Z
