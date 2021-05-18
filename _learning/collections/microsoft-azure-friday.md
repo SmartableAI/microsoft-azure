@@ -69,13 +69,10 @@ items:
   - videos/microsoft-azure-cosmos-db-free-tier-and-autopilot-azure-friday
   - videos/microsoft-using-api-server-authorized-ip-ranges-to-secure-your-cluster-azure-friday
   - videos/microsoft-end-to-end-iot-device-security-with-azure-sphere-azure-friday
-  - videos/microsoft-a-quick-intro-to-the-azure-stack-portfolio-azure-friday
   - videos/microsoft-how-to-use-jupyter-notebooks-in-azure-data-studio-azure-friday
   - videos/microsoft-how-to-use-http-overrides-on-azure-cdn-from-microsoft-azure-friday
   - videos/microsoft-how-to-manage-platform-updates-with-maintenance-control-in-azure-azure-friday
   - videos/microsoft-how-to-connect-and-deliver-services-privately-on-azure-with-azure-private-link-azure-friday
-  - videos/microsoft-intro-to-rudr-a-kubernetes-implementation-of-the-open-application-model-azure-friday
-  - videos/microsoft-learn-all-about-open-application-model-oam-azure-friday
   - videos/microsoft-how-to-publish-your-apis-with-the-new-developer-portal-in-azure-api-management-azure-friday
   - videos/microsoft-how-to-get-started-with-azure-using-azure-quickstart-center-azure-friday
   - videos/microsoft-microsoft-cloud-adoption-framework-for-azure-part-2-azure-friday
@@ -273,7 +270,6 @@ items:
   - videos/microsoft-azure-friday-documentdb-stored-procedures-best-practices
   - videos/microsoft-azure-friday-azure-government
   - videos/microsoft-using-and-maintaining-a-kubernetes-cluster-in-azure-azure-friday
-  - videos/microsoft-azure-friday-documentdb-loves-xamarin
 
 topics:
   - Azure
