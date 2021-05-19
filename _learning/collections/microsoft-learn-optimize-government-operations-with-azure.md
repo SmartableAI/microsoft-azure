@@ -4,7 +4,7 @@ excerpt: "Learn to develop a cloud computing digital transformation solution for
 type: collection
 price: Free
 length: PT1H26M
-heat: 50
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -19,6 +19,7 @@ levels:
 
 items:
   - courses/microsoft-learn-discover-azure-government
+  - courses/microsoft-learn-introduction-data-protection-privacy
   - courses/microsoft-learn-safeguard-data-sector
   - courses/microsoft-learn-support-hybrid-clouds
 
