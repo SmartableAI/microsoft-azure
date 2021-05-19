@@ -24,6 +24,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Three more years: Government renews Microsoft cloud, software and services deal"
+    excerpt: "The government has signed a three-year renewal for the second term of the Microsoft cloud, software and services agreement."
+    publishedDateTime: 2021-05-19T00:34:00Z
+    webUrl: "https://www.reseller.co.nz/article/688473/three-more-years-government-renews-microsoft-cloud-software-services-deal/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 18
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/img_20190327_063139.jpg"
+        width: 800
+        height: 546
+        isCached: true
+
 secured: "CRxvdx2GxLrDJn7B5hxEHGf5Pr8cOEBkSVlzn5QfE6FO7M9hqUWiVxVugGl/gyszsLLLfB8h7aVQP+YpUsNJwIi8FGvKN7Nz4cirFV2VsEk6Bp0ghKrmXs/mVh9reGQSyRLz5w9oQ4ZvRw+f9twg0ofBfF2TkPVaf0mv0FYfOpG4dc/qfNCT+0iIaexQ4jEMsIzJuR9J0vHfAWZIuNtMQOue+S/nGOXpfacmDoGIknvHcnnpAGOpDBwktl+prekn14KE4sMfR6e1lf42t3Q69zQqodmldtAjF/ZeD/KvRo9l4nyQEPu2fFHHsLYkACmyRs3kXx/pxUgxphJ6dIHJdij4XUUY5VxH9f1qddHcOvovxQ9mxftWh1ep3jgKv8ysVc0VFfaFtWHpBEH3NHxfrT15LaJ3MoQh+1sDDUkNUdUHOjpBDXF1C4FDMb8nk6roEBmFJCf5CoHIRswyQaih+QzdlGE+SkLB/8DneivHQ5yVhLx5uE0Uj3toWs4NGZ7aLIz6fsBG04rTzNvYCKKZHw==;nXUn2JHY4m4iGMiVZr4JXA=="
 ---
 
