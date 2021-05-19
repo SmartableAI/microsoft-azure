@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3617113/microsoft-previews-azure-s
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html"
 type: article
 quality: 97
-heat: 577
+heat: 597
 published: true
 
 provider:
@@ -98,6 +98,22 @@ related:
       - url: "https://cdn.crn.in/wp-content/uploads/2018/06/04150829/Microsoft.jpg"
         width: 696
         height: 465
+        isCached: true
+  - title: "This huge 17-course bundle helps you master Microsoft Azure, Windows 10"
+    excerpt: "Microsoft is one of the biggest players in cloud computing right now, with Windows Server and Azure powering many top companies. The Complete 2021 Microsoft, Windows, & Azure Bundle helps you ..."
+    publishedDateTime: 2021-05-05T16:09:00Z
+    webUrl: "https://www.bleepingcomputer.com/offer/deals/this-huge-17-course-bundle-helps-you-master-microsoft-azure-windows-10/"
+    ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/this-huge-17-course-bundle-helps-you-master-microsoft-azure-windows-10/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/this-huge-17-course-bundle-helps-you-master-microsoft-azure-windows-10/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 57
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2021/05/05/cloud-security.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Coursera and Microsoft launch Microsoft Azure Fundamentals specialization"
     excerpt: "Coursera has announced a new Microsoft Azure Fundamentals Specialization in collaboration with Microsoft to help learners kickstart their career in cloud Coursera has announced a collaboration with Microsoft to launch a new Microsoft Azure Fundamentals ..."

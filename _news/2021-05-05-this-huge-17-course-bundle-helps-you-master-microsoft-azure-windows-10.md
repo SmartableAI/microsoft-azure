@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Single Sign On (SSO) Software Market including top key players Okta, OneLogin, Microsoft Azure"
-excerpt: "Enquiry Before Purchase @ jcmarketresearch.com/report-details/1297781/enquiry Company Overview: Okta, OneLogin, Microsoft Azure, Rippling, RSA Security, JumpCloud, AWS, Idaptive, Ping Identity, miniOrange,"
-publishedDateTime: 2021-05-01T14:56:00Z
-originalUrl: "https://ksusentinel.com/2021/05/01/single-sign-on-sso-software-market-including-top-key-players-okta-onelogin-microsoft-azure/"
-webUrl: "https://ksusentinel.com/2021/05/01/single-sign-on-sso-software-market-including-top-key-players-okta-onelogin-microsoft-azure/"
+title: "This huge 17-course bundle helps you master Microsoft Azure, Windows 10"
+excerpt: "Microsoft is one of the biggest players in cloud computing right now, with Windows Server and Azure powering many top companies. The Complete 2021 Microsoft, Windows, & Azure Bundle helps you ..."
+publishedDateTime: 2021-05-05T16:09:00Z
+originalUrl: "https://www.bleepingcomputer.com/offer/deals/this-huge-17-course-bundle-helps-you-master-microsoft-azure-windows-10/"
+webUrl: "https://www.bleepingcomputer.com/offer/deals/this-huge-17-course-bundle-helps-you-master-microsoft-azure-windows-10/"
+ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/this-huge-17-course-bundle-helps-you-master-microsoft-azure-windows-10/amp/"
+cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/this-huge-17-course-bundle-helps-you-master-microsoft-azure-windows-10/amp/"
 type: article
-quality: 25
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Sentinel
-  domain: ksusentinel.com
+  name: Bleeping Computer
+  domain: bleepingcomputer.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Global-Single-Sign-On-SSO-Software-Market-780x470.jpg"
-    width: 780
-    height: 470
+  - url: "https://www.bleepstatic.com/content/hl-images/2021/05/05/cloud-security.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -108,22 +110,6 @@ related:
       - url: "https://cdn.crn.in/wp-content/uploads/2018/06/04150829/Microsoft.jpg"
         width: 696
         height: 465
-        isCached: true
-  - title: "This huge 17-course bundle helps you master Microsoft Azure, Windows 10"
-    excerpt: "Microsoft is one of the biggest players in cloud computing right now, with Windows Server and Azure powering many top companies. The Complete 2021 Microsoft, Windows, & Azure Bundle helps you ..."
-    publishedDateTime: 2021-05-05T16:09:00Z
-    webUrl: "https://www.bleepingcomputer.com/offer/deals/this-huge-17-course-bundle-helps-you-master-microsoft-azure-windows-10/"
-    ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/this-huge-17-course-bundle-helps-you-master-microsoft-azure-windows-10/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/this-huge-17-course-bundle-helps-you-master-microsoft-azure-windows-10/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 57
-    images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2021/05/05/cloud-security.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Coursera and Microsoft launch Microsoft Azure Fundamentals specialization"
     excerpt: "Coursera has announced a new Microsoft Azure Fundamentals Specialization in collaboration with Microsoft to help learners kickstart their career in cloud Coursera has announced a collaboration with Microsoft to launch a new Microsoft Azure Fundamentals ..."
@@ -266,6 +252,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Single Sign On (SSO) Software Market including top key players Okta, OneLogin, Microsoft Azure"
+    excerpt: "Enquiry Before Purchase @ jcmarketresearch.com/report-details/1297781/enquiry Company Overview: Okta, OneLogin, Microsoft Azure, Rippling, RSA Security, JumpCloud, AWS, Idaptive, Ping Identity, miniOrange,"
+    publishedDateTime: 2021-05-01T14:56:00Z
+    webUrl: "https://ksusentinel.com/2021/05/01/single-sign-on-sso-software-market-including-top-key-players-okta-onelogin-microsoft-azure/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 25
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Global-Single-Sign-On-SSO-Software-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
   - title: "PrivaceraCloud Achieves SOC 2 Certification - Latest Offering Now Available on Microsoft Azure"
     excerpt: "Privacera, the cloud data governance and security leader founded by the creators of Apache Ranger™, today announced its successful completion of System and"
     publishedDateTime: 2021-05-03T13:30:00Z
@@ -354,6 +354,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "G0m2qnh4M6EwykUtviYhb6za/rMsg+S/t41/WI4y0RYVWGdRX3WFADxA2GzZON8Of9sJpvPm2iX3sWxuFgp1udv6W0vA+Yjpy8r94MfDD/Ua3npElRqXmzOE3wQF/wdeN4sva/ewJnAlNIP8DY4MALpNDsX/4S2ID5xvjkKZEBEnzLFMYi57+126b9jqMAzS7oOuCxpkuKwoMTQhmWdPgcNpqJYuiIzkIDLPHcfkcKqIRC5nb5Lyt+p1CPNJNTHw0V0dzR4q8IZzlWQ0sNm5khLrOE1WLo64kTxMSZqvt/bNTY89U+20vV5OWK1iJ1yRqqmbzh/za7fmTRBi2IsJSJE8yUM7cTl9GZzFygA3PjKpB4cp9zWKHVzA7XLZLZUFc6b6zuzEfQ6sN0DT8B7N1faSYTKLEPHCmDNc54ur/ihN4rtgQBr8ckACEBZLeI3K1NRf+/TIH8fBL7tyfNxnPYyDY6TQhoORP6SmuLoXEygllE6jNpEB+6/2Vv0tqFvlwTIM0h2aJatJbVgrckqm1g==;W/lg3TbgECodNl0uvdOIXw=="
+secured: "JMgRNKMN5NeljKjHmn/KnUBQcLMWsWjYsJhEUv8sckyayc2RA+PPg7pUi4QPd2AbQC/KsnJOSMnTSfM7aw5Id7u7GJT4wxZvCuGny6a4N6899c/E4F1XDoI70jS00RaxOClAuriRFGkK1a3nZ/jq/5nvUKF4dW3odY5to/FNwq4y/tkCBQjCVBIv7lPDknG+AvE1Fq4jzYxmMVUBshFu56yEF+6VCOYsZnydNsBHUc4kG52od07oS3WgEFaBg6nGTUrIQSsz8uwdZixtJQ+AJC8YTtwwN+bLTf0qCGqCcV3GO4E70QSrxCAbth583s6/1flfWfBK5SJhzkDXSKsG2dAbatG+9baG6bazcmjwpiM=;6ZmOAAz/Mzge7/m1WbDHKA=="
 ---
 
