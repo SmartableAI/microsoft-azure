@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-19-ground-processing-with-space-data-5x-faster-with-azure.md",
+      "title": "Ground processing with space data 5x faster with Azure",
+      "excerpt": "Over the past year, Microsoft has teamed with Ball Aerospace to develop the prototype for the Commercially Augmented Space Inter Networked Operations (CASINO) Program Office demonstrating agile cloud processing capabilities in support of the United States Space Force. For increasingly distributed mission",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/ground-processing-with-space-data-5x-faster-with-azure/",
+      "originalUrl": "https://azure.microsoft.com/blog/ground-processing-with-space-data-5x-faster-with-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7598202d-3b1f-408c-a320-51e1b0b7f440.png",
+          "width": 1028,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T23:00:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-general-availability-iot-hub-service-api-support-for-azure-active-directory-based-access-control.md",
       "title": "General availability: IoT Hub service API support for Azure Active Directory based access control",
       "excerpt": "IoT Hub support for Azure Active Directory (Azure AD) and Role-Based Access Control (RBAC) is now generally available for service APIs. This means you can secure your service connections to IoT Hub with much more flexibility and granularity.\n\n",
@@ -1110,57 +1162,6 @@
       "topics": [
         "Azure",
         "Management tools"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-azure-purview-resource-set-pattern-rules-available-in-public-preview.md",
-      "title": "Azure Purview resource set pattern rules available in public preview",
-      "excerpt": "Azure Purview is announcing the public preview of resource set pattern rules. A resource set is a single object in the data catalog that represents a large number of assets in storage.  Resource set pattern rules allow you to customize or override how Azure Purview detects which assets are grouped as resource sets and how they are displayed within the catalog.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-purview-resource-set-pattern-rules-available-in-public-preview/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-purview-resource-set-pattern-rules-available-in-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/efbbf127-6217-4b47-bab5-88af99d166f2.png",
-          "width": 1664,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T11:28:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
       ]
     }
   ],
