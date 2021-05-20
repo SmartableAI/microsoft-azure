@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Insight Recognized Again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
-    excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced"
-    publishedDateTime: 2021-05-18T16:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210518005654/en/Insight-Recognized-Again-as-a-Microsoft-Security-2020-Winner-for-Microsoft-Azure-Security-Deployment-Partner-of-the-Year"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
   - title: "Cloud Computer Market Is Expected To Rise Over The Projected Horizon Between 2021 And 2027 | Amazon Web Services, Microsoft Azure"
     excerpt: "A new research study has been presented by Stratagem Market Insights offering a comprehensive analysis on the Cloud Computer Marke t where users can benefit from the complete mark"
     publishedDateTime: 2021-05-15T05:08:00Z
@@ -47,20 +38,15 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Stratodesk is First to Globally Deliver a Thin Endpoint Management Solution, NoTouch Center, within the Microsoft Azure Marketplace"
-    excerpt: "Stratodesk, the fastest growing EUC endpoint company, today announced the availability of NoTouch Center in the Microsoft Azure Marketplace. A historic achievement,"
-    publishedDateTime: 2021-05-14T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/stratodesk-is-first-to-globally-deliver-a-thin-endpoint-management-solution-notouch-center-within-the/article_edb61a7b-082d-5c24-8a40-11b1187f21e3.html"
+  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace | Morningstar"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."
+    publishedDateTime: 2021-05-18T15:33:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210518sf62378/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 7
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 1
 
 secured: "P568iig7e5gQbCl+UY4WBX91GON840BVV7/+KD5iYAJDFOv5A0jhQWCQSsTHmhOwzV9v6lbj+LCQwFuvrVhczwGV3SFp5zaBwWQLdRpgwi6siaVdpqaIkTmLWwjnNVYQRo5FEIvlQym7tkYwuwSR2+LRVy2bjPxCpqK1FFcdwyXxk3WT134Uo+1ldSsXh8QBVnzbNsrJfMtiG+dirjbkrctEQenUre8pBoS5+QluQpR2mg9dgnQV9KRM9tivlHf/kEDAAyzl4EI46oFgZjlFEgu7045h6mTdCBpgcQLTky8sXk8vTC8IZgK9RpdVWIe5D8+cf8pEFEQ7DB3dv9KfPLr0FV2A+ZH5JQa4U+88gfk=;ARmpp7Nde7ZG+dSdiB7H0w=="
 ---
