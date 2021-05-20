@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3617113/microsoft-previews-azure-s
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html"
 type: article
 quality: 97
-heat: 597
+heat: 598
 published: true
 
 provider:
