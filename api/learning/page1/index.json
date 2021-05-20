@@ -116,15 +116,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-expressroute.md",
-      "title": "Connect your on-premises network to the Microsoft global network by using ExpressRoute",
-      "excerpt": "Connect your on-premises systems and users to Azure and Office 365 by using ExpressRoute for private, dedicated, and guaranteed throughput connectivity.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-on-premises-network-with-expressroute/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
-      "length": "PT40M",
+      "path": "_learning/courses/microsoft-learn-branch-merge-git.md",
+      "title": "Edit code through branching and merging in Git",
+      "excerpt": "Level up your Git knowledge by learning about how to keep code separate using branches and how to merge them later",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-branch-merge-git/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/branch-merge-git/",
+      "length": "PT50M",
       "ratings": {
-        "count": 5536,
-        "average": 4.713692
+        "count": 610,
+        "average": 4.6688523
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -144,7 +144,7 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-expressroute-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/branch-merge-git-badge-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -154,20 +154,19 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Networking"
+        "Azure"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-power-virtual-agents.md",
-      "title": "Explore Power Virtual Agents",
-      "excerpt": "Explore Power Virtual Agents",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-power-virtual-agents/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-virtual-agents/",
-      "length": "PT29M",
+      "path": "_learning/courses/microsoft-learn-explore-solutions-for-external-access.md",
+      "title": "Explore solutions for external access",
+      "excerpt": "Explore solutions for external access",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-solutions-for-external-access/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-solutions-for-external-access/",
+      "length": "PT40M",
       "ratings": {
-        "count": 6,
-        "average": 4.3333335
+        "count": 2,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -187,7 +186,7 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/power-virtual-agents-explore-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-active-directory-external-access-social.png",
           "width": 1280,
           "height": 641,
           "isCached": true
@@ -202,15 +201,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-rust-get-started.md",
-      "title": "Get started with Rust",
-      "excerpt": "Learn how to get started with Rust - set up the environment, write a program, and use the Cargo build system.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-rust-get-started/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-get-started/",
-      "length": "PT41M",
+      "path": "_learning/courses/microsoft-learn-modify-data-with-transact-sql.md",
+      "title": "Modify data with T-SQL",
+      "excerpt": "Modify data with T-SQL",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-modify-data-with-transact-sql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modify-data-with-transact-sql/",
+      "length": "PT56M",
       "ratings": {
-        "count": 517,
-        "average": 4.8568664
+        "count": 6,
+        "average": 4.5
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -230,9 +229,9 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/rust-get-started-social.png",
-          "width": 641,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -240,7 +239,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Databases"
       ]
     },
     {
