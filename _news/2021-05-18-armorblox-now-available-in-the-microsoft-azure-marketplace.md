@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Datametica now available in the Microsoft Azure Marketplace"
-excerpt: "Datametica today announced Pelican's availability on the Microsoft Azure Marketplace. Datametica's customers can now take advantage of"
-publishedDateTime: 2021-05-12T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-301289535.html"
-webUrl: "https://www.prnewswire.com/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-301289535.html"
+title: "Armorblox Now Available in the Microsoft Azure Marketplace"
+excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+publishedDateTime: 2021-05-18T13:00:00Z
+originalUrl: "https://www.financialbuzz.com/armorblox-now-available-in-the-microsoft-azure-marketplace/"
+webUrl: "https://www.financialbuzz.com/armorblox-now-available-in-the-microsoft-azure-marketplace/"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -99,6 +93,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1190637/Alex_Gregory.jpg?p=facebook"
         width: 1000
         height: 523
+        isCached: true
+  - title: "Datametica now available in the Microsoft Azure Marketplace"
+    excerpt: "Datametica today announced Pelican's availability on the Microsoft Azure Marketplace. Datametica's customers can now take advantage of"
+    publishedDateTime: 2021-05-12T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-301289535.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Microsoft Azure Data VP Rohan Kumar: ‘It's Not Just About The Innovation Piece’"
     excerpt: "Amid the coronavirus pandemic, discussions about the cloud and digital transformation have turned a lot more toward value creation and total cost of ownership, Kumar says."
@@ -193,15 +201,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
-  - title: "Armorblox Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
-    publishedDateTime: 2021-05-18T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/armorblox-now-available-in-the-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 17
   - title: "Cloud-based Database Market – Major Technology Giants in Buzz Again | Oracle, Microsoft Azure, IBM, Apache Cassandra"
     excerpt: "AMA Research have added latest edition of survey study on Global Cloud based Database Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
     publishedDateTime: 2020-06-06T19:22:00Z
@@ -228,6 +227,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "zq+Ahsno5D9h2atqRXymON0JR6oTI1uPMxgFsuUOZdnEF8kthGDqhZybhaAEvE4f6NNjWMDodTnhJcRJZ5tKn63jBAT12tmNslNcQyxXw8QZVwZyjgNjQWKyAVwpJ+3TGljR/aGv6m5i5PzDu4y8AcrC6vKwLvshHVKtmqimnmMvJC+XzE2slSblov+DM37gTfugTfDXBkE9o2R1Jyzf+UzEWLaQfY39qIeUQBxppHLuCnjXYa8gGIdVXlwiT8vwunG8qJlrEwX6t2eomR+Oft59ynh3Jf211YpJXF8ZRAN4dIRHa096QfR7HqZi5mzFKQRV4a7DrSD1/x4jRm8ykRB9Fh00qzwyhONu6qqtRvo=;TiRd9dtXfmZugFxXgG9ZAw=="
+secured: "AHgaNV5ovoyUo8GlznMsqwguhbwjaTe5PUaTOGNweAg96YMV8kMAMDyqnCI+u716zn8Enzd2wtl1/voKZf6/NEWNgZKqIwQXui3xL+sB4ROSVmpwT/LfFIRR/L4Q73l8/TK2Gru3K/LMWGBFbdnG4hu66BKJeQqECyTvan/ffuktb9vWIS6m+LHSHPdojhSz75O3gCMQvIIb3N5GZS8NRJu+/IRKbsUgQoPMiu2FPIhbArOJ7r7kq71hHYuz3IZbkeMFfaoakWpKm+ZxiImBKgqivPGN2qPOQfVG+UvAWONVh3dpA1VxFcC9APBvvafRpMii1/Z5ZJuUEZSJJ/EnAVHCFnC8/FKvCXjUXX0Bm2g=;DJLxVOncpR3dr3IVGpVdhw=="
 ---
 
