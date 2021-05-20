@@ -1,22 +1,33 @@
 ---
 category: news
-title: "GlobalLogic Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
-excerpt: "GlobalLogic Inc., a leader in Digital Product Engineering, today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge,"
-publishedDateTime: 2021-05-05T12:30:00Z
-originalUrl: "https://www.financialbuzz.com/globallogic-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
-webUrl: "https://www.financialbuzz.com/globallogic-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+title: "Microsoft Azure: This new tool makes it easier to manage virtual machines in the cloud"
+excerpt: "Microsoft's automated system management tools help businesses keep their Azure virtual infrastructures secure."
+publishedDateTime: 2021-05-20T10:30:00Z
+originalUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
+webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
 type: article
-quality: 29
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Containers
+
+images:
+  - url: "https://www.techrepublic.com/a/hub/i/r/2021/05/20/c5095494-b0d0-403b-bb51-ee4a5d603916/resize/1200x/741502e9088de4e6ade36f79a2481cd8/azure-automanage-diagram.jpg"
+    width: 1200
+    height: 842
+    isCached: true
 
 related:
   - title: "Microsoft Azure: This new technology allows you to manage Kubernetes containers across the hybrid cloud"
@@ -82,22 +93,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/27/f2859367-767a-4846-80ad-7c79912555ab/msft-commercial-cloud-q1-2021.png"
         width: 863
         height: 491
-        isCached: true
-  - title: "Microsoft Azure: This new tool makes it easier to manage virtual machines in the cloud"
-    excerpt: "Microsoft's automated system management tools help businesses keep their Azure virtual infrastructures secure."
-    publishedDateTime: 2021-05-20T10:30:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/05/20/c5095494-b0d0-403b-bb51-ee4a5d603916/resize/1200x/741502e9088de4e6ade36f79a2481cd8/azure-automanage-diagram.jpg"
-        width: 1200
-        height: 842
         isCached: true
   - title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
     excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."
@@ -412,6 +407,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GlobalLogic Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
+    excerpt: "GlobalLogic Inc., a leader in Digital Product Engineering, today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge,"
+    publishedDateTime: 2021-05-05T12:30:00Z
+    webUrl: "https://www.financialbuzz.com/globallogic-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 29
   - title: "Analysis: In an epic pivot to the cloud, Microsoft makes Azure the linchpin of its future"
     excerpt: "Microsoft Corp.’s Azure cloud computing service is the linchpin of the tech giant’s innovation strategy. As we reported last week, we believe that in the next decade, changes in public policy will restrict the way in which big internet companies are able to appropriate user data."
     publishedDateTime: 2020-10-31T18:43:00Z
@@ -524,6 +528,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "kKJWQrWqLdA2AoApTaUOOOE/YxQ427TcjRpE3Vkeu5KLnBf3nspmXiCeUWfAQnaK8Rm1m7LYRaQWI2tad3bPAw8fQ6flwuuQqtLk12gjp+e1ZJyqimI5Hubk6jKaXxFlCcto6tpmMH4MoNVCGgiAAQt5AnvTGusN1f9bMfDb8AM+YOVSROMOjqnd4Q4+OTfDXH9I5bbwXztbb/NR8YuBCEfIhEOOdGZ8n+7GfwnPGgCmpIij4H6nfx5LlVFddd02kUwi0RIjONJagcHj083jMaWECV3h1dFsQuG3LrSoQas0/6V6m/S7pTUaYS0egi8Ci96qEqqVv7AuLalYj8/We1g6xmrQTQT5vQtLaokdXD4=;rxkdm0xXV+/IoYDt2oupCQ=="
+secured: "6HaQArfdmFM1inF1el6uxZv8v+bk/Lz5RMhZMArSTnJtw2W5H3xF9hTlctnzVcis+AycJRGQWcFmu2cuq+JedNqP3QLvlhLtDenlrBkPNLEhH83bSHnJG7KdlIFnv3ptCxBwb35FBsChxGvb4EkpXF/hxpEbibtfAZCC1Lk1qMj/kxBae2X9xtl4gGE6O9fr8GZbfKV0N+P2XkzNdZt6RK/qVh+l85t3pVb275sSTlNayLqlu/1sxmvRrQtiLgAEa0nd+xW8p2b4bQx+kDh/WZMS1QdESkEzgJcTo9ODPgK8Satgv/12sxU2QDVsRQcTPwE7ku1uX753f2VL3aLhJCnju2L37Qdg1gW0b6bV24c=;Qg4a4IU4IE/pDAmkL7v13g=="
 ---
 

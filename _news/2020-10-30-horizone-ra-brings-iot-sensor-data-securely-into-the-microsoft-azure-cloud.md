@@ -89,6 +89,22 @@ related:
         width: 863
         height: 491
         isCached: true
+  - title: "Microsoft Azure: This new tool makes it easier to manage virtual machines in the cloud"
+    excerpt: "Microsoft's automated system management tools help businesses keep their Azure virtual infrastructures secure."
+    publishedDateTime: 2021-05-20T10:30:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/05/20/c5095494-b0d0-403b-bb51-ee4a5d603916/resize/1200x/741502e9088de4e6ade36f79a2481cd8/azure-automanage-diagram.jpg"
+        width: 1200
+        height: 842
+        isCached: true
   - title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
     excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."
     publishedDateTime: 2020-10-20T21:14:00Z
