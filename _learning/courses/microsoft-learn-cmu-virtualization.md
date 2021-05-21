@@ -24,12 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png
-    width: 1000
-    height: 500
-    isCached: true
-
-secured: "Hj4S4b8Vbc9CqSsDodTBugsSmkd+lqu6QFrvwuuQ7t6kOz78rRNqMx7V/qWe4EkPAzFbyQZ2D5eMGpTP5mKzki4o+ygOuprRghN8bjsTW2yAv43QEI6XJK6VBaHDFaQndTnOqGgJTqqTDHPfnlGS3AHkJNkZ05W4DB5rBPkzNIFcQgPMaMbhFX+QX4tI7AckW5MsA5CDf79dS7q4dGgVZfd6m+PivHNG63Mp/RRC3cs8cDhd/5HcLoT4QxvrNLUXmoILjuY18xYGjE+kPlAqXKw09yRkzZLKJzG8VYPcI9NvozQbqgTRKVtp5w9GEsUEwmsljBnQbgWQ2CbqwEW5YEMGnEXNw8XFbCNAmyV7w6A+2Wmw0M12raHnCeUbxBwXxEPnrrsFQKNiNYuTTjCDYA==;dG1QXmPoxqG/RNDj7l9WBQ=="
+secured: "IJIKKOfioXubbH8ijsbLBS2IEchdqk3Q9lklviDeuC7g40GXYoMTzWNqVHxORa5jT6fVLirAnskvzzkL4ZPdTX4kH/DmOlENxfR9DWArEv9iUI3Q1dTulprvICb7UP8psvNxqkdM4xXBvZjABa2UCxDBFUWAHj5dnFigK6Qa3PVJO6orpj0QrdDl+3TwaATCWi9ifndmy2LDNIwGhBUdeyiYcbmtt+FvmDyQ2MGXjY8bAbUodrU5QcExO6F+T48Ju9S0ouyRlhKbd7IjpNajNK5ZIha97c5D7ei2UT5I4rdPJKBmUSSh7Uz5indcNGgDPFjymdGGBkNX2KP3CC8i8dSdtHB5LvNFd82nUVku9DmSrsg5TrkK3rNQME+fSVrHv4D/lWVex6wY6mi0vALw1w==;V+cCNqREFPjqtrrgNqKhHQ=="
 ---
 
