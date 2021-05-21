@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Insight Recognized Again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
-    excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced"
-    publishedDateTime: 2021-05-18T16:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210518005654/en/Insight-Recognized-Again-as-a-Microsoft-Security-2020-Winner-for-Microsoft-Azure-Security-Deployment-Partner-of-the-Year"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
 
 secured: "eW9u18EsNY0u+E1RARye9lT2/+3gt6+2W43fS4DVhvqshs/okwl+PeNNloK+2lNf0ZyuG0ZFfyeWJbilZfWTcLwATAWHLyNxQjqfvs14n8tJReytmCr7Re4zGJYnuckHaDcuI0ETbiLRxyiBZWk340qPI2sLSf4YAf0w2RDxOwd4WGxoaZu3Y+Z5GTwW4AMokRo2eff/aFu7l4Gf+9MHtgB/ZUaKOp1oUtt60AvZebLZz192CEyA7KYxsBP7OGmZt5EJHC3jfFHBa1z7Fad9oiProCktBzOWPT4Khv7xMZAU6Y/L+xh1vh0MA51gy1X03d3yHZfhWjt+mj+IKmIvW5wYvbozZ9P9bJXaltVJDqaCHf3KMwguTV+p623vnOTEG1DBhpM10hfPdrpODGhYUSwyGiaPp6Ugz7jgUUEZKeBbxBjFi0lw3jIkGAlx0WrPmzg7fMPxH68A87v45G93gZ3JJYQh8GEZeprKuhcTrCBydrGO22fXmw1FeHxvA5xVPDi2u7OidHT+rhmS86KT5Q==;04OIFHNn1PDl9sJNWy4z6w=="
 ---

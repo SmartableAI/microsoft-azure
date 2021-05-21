@@ -1,45 +1,31 @@
 ---
 category: news
-title: "Cloud Computer Market Is Expected To Rise Over The Projected Horizon Between 2021 And 2027 | Amazon Web Services, Microsoft Azure"
-excerpt: "A new research study has been presented by Stratagem Market Insights offering a comprehensive analysis on the Cloud Computer Marke t where users can benefit from the complete mark"
-publishedDateTime: 2021-05-15T05:08:00Z
-originalUrl: "https://ksusentinel.com/2021/05/15/cloud-computer-market-is-expected-to-rise-over-the-projected-horizon-between-2021-and-2027-amazon-web-services-microsoft-azure/"
-webUrl: "https://ksusentinel.com/2021/05/15/cloud-computer-market-is-expected-to-rise-over-the-projected-horizon-between-2021-and-2027-amazon-web-services-microsoft-azure/"
+title: "Matthews Joins Microsoft as Azure Solutions Specialist"
+excerpt: "I’m beyond excited to have joined the Microsoft SLG team as an Azure Solution specialist,” Sara Matthews told Techwire. “I am eager to help my fellow citizens of California by guiding our state towards a digital transformation to support this amazing state."
+publishedDateTime: 2021-05-20T22:34:00Z
+originalUrl: "https://www.techwire.net/news/matthews-joins-microsoft-as-azure-solutions-specialist"
+webUrl: "https://www.techwire.net/news/matthews-joins-microsoft-as-azure-solutions-specialist"
+ampWebUrl: "https://www.techwire.net/news/matthews-joins-microsoft-as-azure-solutions-specialist?_amp=true"
+cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/matthews-joins-microsoft-as-azure-solutions-specialist?_amp=true"
 type: article
-quality: 8
-heat: -1
-published: false
+quality: 57
+heat: 257
+published: true
 
 provider:
-  name: The Sentinel
-  domain: ksusentinel.com
+  name: California Techwire
+  domain: techwire.net
 
 topics:
   - Azure
 
 images:
-  - url: "https://jumbonews.co.uk/wp-content/uploads/2021/03/1_14Jop-0sYOZ-fbK1iiOgFQ-scaled.jpeg"
-    width: 2560
-    height: 1707
+  - url: "https://erepublic.brightspotcdn.com/dims4/default/dccbcb4/2147483647/strip/true/crop/386x512+0+0/resize/840x1114!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F72%2Fdd%2F0f049aed419f99654704f1719571%2Fsara-matthews-cropped.jpg"
+    width: 840
+    height: 1114
     isCached: true
 
 related:
-  - title: "Matthews Joins Microsoft as Azure Solutions Specialist"
-    excerpt: "I’m beyond excited to have joined the Microsoft SLG team as an Azure Solution specialist,” Sara Matthews told Techwire. “I am eager to help my fellow citizens of California by guiding our state towards a digital transformation to support this amazing state."
-    publishedDateTime: 2021-05-20T22:34:00Z
-    webUrl: "https://www.techwire.net/news/matthews-joins-microsoft-as-azure-solutions-specialist"
-    ampWebUrl: "https://www.techwire.net/news/matthews-joins-microsoft-as-azure-solutions-specialist?_amp=true"
-    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/matthews-joins-microsoft-as-azure-solutions-specialist?_amp=true"
-    type: article
-    provider:
-      name: California Techwire
-      domain: techwire.net
-    quality: 57
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/dccbcb4/2147483647/strip/true/crop/386x512+0+0/resize/840x1114!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F72%2Fdd%2F0f049aed419f99654704f1719571%2Fsara-matthews-cropped.jpg"
-        width: 840
-        height: 1114
-        isCached: true
   - title: "Tesla Crashes Bitcoin, Microsoft Azure Ditches Blockchain And More In This Week’s Top News"
     excerpt: "Bitcoin peaked following this news. Elon Musk became a messiah for the crypto community. His tweets had the potential."
     publishedDateTime: 2021-05-16T04:30:00Z
@@ -105,6 +91,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 9
+  - title: "Cloud Computer Market Is Expected To Rise Over The Projected Horizon Between 2021 And 2027 | Amazon Web Services, Microsoft Azure"
+    excerpt: "A new research study has been presented by Stratagem Market Insights offering a comprehensive analysis on the Cloud Computer Marke t where users can benefit from the complete mark"
+    publishedDateTime: 2021-05-15T05:08:00Z
+    webUrl: "https://ksusentinel.com/2021/05/15/cloud-computer-market-is-expected-to-rise-over-the-projected-horizon-between-2021-and-2027-amazon-web-services-microsoft-azure/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 8
+    images:
+      - url: "https://jumbonews.co.uk/wp-content/uploads/2021/03/1_14Jop-0sYOZ-fbK1iiOgFQ-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Stratodesk is First to Globally Deliver a Thin Endpoint Management Solution, NoTouch Center, within the Microsoft Azure Marketplace"
     excerpt: "Stratodesk, the fastest growing EUC endpoint company, today announced the availability of NoTouch Center in the Microsoft Azure Marketplace. A historic achievement,"
     publishedDateTime: 2021-05-14T12:00:00Z
@@ -152,6 +152,6 @@ related:
       domain: morningstar.com
     quality: 1
 
-secured: "vsc6wpBAQgOf475RQVJK54b0Rx6ibRydMu9DANM5AZRCOrrFyHqWoCV5Z/0Ie9HfvtrRYhRMDMf65nxgVw1zu/d6j4YJPm1J37T91UC877JhZbAXQ7oBbIo2Vt9/ixF4P/vrdpNkP2W4Gaq25aLrIlQVCbsYmpq9gUtNuFD2qK/Fq6JcWC/Qdv0qAw4HwFE7A0KzJsVEJ50BJnwAXQETH+WATiMFXiT8uZU6+qArU7W20Jc5J6vAW7AxKsvoWehujAAzARfkTaBBydGPYrgooJMbdLuErdNZqgUHEHQp51CBF39Eo95ylfTJdZ7IBJCEn14aZs1jghNYA90en75IjfNJvANoSI++Je9mu+uYG9K0DXLP7yxxQ7n6coLNksgP6AeWnzAtqibQZV9OL/6uJlhHYnHbcpGbw0WWufBTRS4bL3xCeSX2MKzrN3YrZS0nwyOsBflnPIDzwPEHZr7L2V6SbNFYrvBxtGkeMt7l2Gdn8M76UnLIf5Zv3uhl3aJxVxgHZAjHFb74E8qqQQ5yTw==;YSCsUKQzLMjOtwGv4UORbg=="
+secured: "4eiOyav7Icr8MHs4b2fg3kqx+3GatsSQChwiDQ/vsvmFBOfgExAfUwE8j7JVNZfvu5a506BL5sL859OJmiB4ue0fmdvzsc4zHmtwtQjlLawZrq4YvYTBpXeNckkA6b2SJ8c2lVqZi3H8BUoIcqvDYJ1wKEqPtziS+kC38dK/K++8lArRWoA1Z8Vf5n3ly3U9/Bt5z3hHLQluuXsWjhrbtOBoMzdRh1y7MPXXz07XLhkwgSlAmQDcFgymSUgf9AKvsivPsSKIYln28YDI6DhC6N1fiHy+eB1awoKZUhl99CUDF3Nmzh/WKKLzbxuWJ7IvfScUzvGvgzaawRU8hXMYfWsQPSNjN0eMGmLzh8QO7Ig=;iRsz9j+lAIwICCIVEOdQqg=="
 ---
 
