@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Datametica now available in the Microsoft Azure Marketplace"
+    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net - Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the ..."
+    publishedDateTime: 2021-05-13T07:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/datametica-now-available-in-the-microsoft-azure-marketplace-1030424788"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "KlariVis Now Available in the Microsoft Azure Marketplace"
     excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
     publishedDateTime: 2020-06-09T12:09:00Z
@@ -192,15 +201,6 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 17
-  - title: "Datametica now available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the scalability, reliability and agility of Azure to shape business strategies - Pelican empowers customers to ..."
-    publishedDateTime: 2021-05-13T07:05:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52862512-datametica-now-available-in-the-microsoft-azure-marketplace-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
     quality: 17
   - title: "Armorblox Now Available in the Microsoft Azure Marketplace"
     excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."

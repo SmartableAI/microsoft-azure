@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-service-azure-ad
 webUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-service-azure-ad-rbac/"
 type: article
 quality: 88
-heat: 88
+heat: 108
 published: true
 
 provider:
@@ -22,6 +22,17 @@ topics:
   - Azure
   - IoT
   - Identity
+
+related:
+  - title: "General availability: Azure ExpressRoute: 5 New Peering Locations Available"
+    excerpt: "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. The service is now available in 5 new peering locations."
+    publishedDateTime: 2021-05-21T16:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/erlocations/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
 
 secured: "EbkRqvHBcBZAIcSA9gc0pz16VPE2FMk+oYZg3QAOmJVr8pbYgGp8nipxtQB57t/MtQNZCQaxAoG7BmJ1lX2Gu42hBVNEKwKEdZZXKKjsGXmX7KIiLtWGqXX9SdABhiJqr/ownjYut7Nhy3obrzf+iClgAC3xvKo8AxZz10sfyozSObilCgZjy6s0v2Woejrp1a0j4dOrg29YGDUsVcY/4hnhSqMz9BzOagB48+9BPziPXQ9Cxx6QPBiwUgP7l+wUGQ55EXpvF660eUSS3DB+zYbcSUbwtRXZAX72kuIQJXcn/+/3nUXxOxSbym0CEQXH7bB0mplBaw4EN7WksWc3JeAi5c964uujov2G0wO0rrE=;7/OOKXe94bQdoYfjbO4FYQ=="
 ---
