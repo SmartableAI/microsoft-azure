@@ -1,18 +1,18 @@
 ---
 category: news
 title: "CoreStack Cloud Governance and Compliance Now Available in the Microsoft Azure Marketplace"
-excerpt: "CoreStack, a global cloud governance provider, today announced the availability of its CoreStack AI-powered, multi-cloud compliance and governance solution in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+excerpt: "Microsoft Azure customers worldwide can now gain access to CoreStack Cloud Compliance and Governance to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies CoreStack,"
 publishedDateTime: 2021-05-17T15:08:00Z
-originalUrl: "https://www.financialbuzz.com/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace/"
-webUrl: "https://www.financialbuzz.com/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace/"
+originalUrl: "https://www.morningstar.com/news/business-wire/20210517005303/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.morningstar.com/news/business-wire/20210517005303/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace"
 type: article
 quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -151,6 +151,6 @@ related:
       domain: morningstar.com
     quality: 1
 
-secured: "Czvndb8L4SAW72+5yoPGA6aleL+9qZr+5FP+XJSsbtgjS8QqjoK8uK+8n6TZ067Jqm1OGfSvveUAL8xGeX/8X6tSDiTYMllpLVWjHwSY2BfSvIEFB18boHIH+rcW7sauHMDYqGDuVKL3xKEDQOMGPtLr0NTN2LtgNN7d38z6eVSOemZWBe+n4/ajb7iSpqstcPiplTzZtDZx27tPkxBouJYa8XzrVyaWpTS6CbLm79LBU7ElLdqdeLsi+tPO5dgMk2vVhVKRvr/lAIIA8b+RLCv3HzP5nZzUemHZ2BHvrBQNZlhpvjyPMFKg6te3jOHDGKfIwxZqb5qmHCwc1nCFGtmhanXs3Ola1OrTfI/d3uE=;LOsg1ZgKwQbP3a1FUYSz7A=="
+secured: "CfZpBUKfjt32qTS+QtIYvMuvrBAJVqURwnbdT41oy4vaFqzZxO8isARe/QXFrJo4gHr9pCbB3yngypdSI3Wl5wb9q5lB2aijYuymT7YrM+AM5Syatu7cKQ6W2m1uuTv6eNoqNXWvMe4dLto/IS8IgkYGXovyJlCy/rBGNujp5hTl0RQ5uIS+qGUJYKBS2gZuLnQuyGkjsnvYuby5Y7fd+Q7hZGsJbNPA2cijApRfh+/zx22V4fhNpOyXC9E/MLAgTMEEN1/CBFrdh9PjQ6WmQ/Bnan4maaBROk/l3ZsvgLo4QWv3VosmUMKE2n+8guIO7V/fke+3z6GkTmbs30t0G0uQOXnAJEP7q+7PWyaQov0=;YYGcoDhtuj2paPGh6h1Xsg=="
 ---
 

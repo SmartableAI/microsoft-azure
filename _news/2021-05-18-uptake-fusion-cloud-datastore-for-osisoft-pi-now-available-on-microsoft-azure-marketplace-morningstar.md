@@ -128,13 +128,13 @@ related:
         height: 720
         isCached: true
   - title: "CoreStack Cloud Governance and Compliance Now Available in the Microsoft Azure Marketplace"
-    excerpt: "CoreStack, a global cloud governance provider, today announced the availability of its CoreStack AI-powered, multi-cloud compliance and governance solution in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    excerpt: "Microsoft Azure customers worldwide can now gain access to CoreStack Cloud Compliance and Governance to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies CoreStack,"
     publishedDateTime: 2021-05-17T15:08:00Z
-    webUrl: "https://www.financialbuzz.com/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace/"
+    webUrl: "https://www.morningstar.com/news/business-wire/20210517005303/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 7
   - title: "Governance experts Rencore and Alight partner to offer a complete governance solution for the Microsoft Cloud"
     excerpt: "Rencore, the provider of award-winning software essential for governing Microsoft 365, announced their partnership with Microsoft technology consultants Alight. The partnership combines Rencore's"
