@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Microsoft Is Closing Down Its Azure Blockchain Service In September"
-excerpt: "Microsoft is shutting down its Azure Blockchain Service on September 10, 2021, after being in service for around six years."
-publishedDateTime: 2021-05-14T07:16:00Z
-originalUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html"
-webUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html"
-ampWebUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html/amp"
-cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html/amp"
+title: "Microsoft calls time on Azure blockchain-as-a-service"
+excerpt: "A notice in the documentation for Microsoft’s Azure Blockchain Service announces that the service will be retired on 10 September 2021. The support documentation from Microsoft guides users ..."
+publishedDateTime: 2021-05-13T09:01:00Z
+originalUrl: "https://www.siliconrepublic.com/enterprise/microsoft-azure-blockchain-as-a-service-consensys-quorum-ethereum"
+webUrl: "https://www.siliconrepublic.com/enterprise/microsoft-azure-blockchain-as-a-service-consensys-quorum-ethereum"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: techworm.net
-  domain: techworm.net
+  name: SiliconRepublic
+  domain: siliconrepublic.com
 
 topics:
   - Azure
   - Blockchain
 
 images:
-  - url: "https://www.techworm.net/wp-content/uploads/2021/05/azure-blockchain-technology.jpg"
-    width: 1200
-    height: 675
+  - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/05/AdobeStock_280230556.jpeg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -59,19 +57,21 @@ related:
         width: 1200
         height: 730
         isCached: true
-  - title: "Microsoft calls time on Azure blockchain-as-a-service"
-    excerpt: "A notice in the documentation for Microsoft’s Azure Blockchain Service announces that the service will be retired on 10 September 2021. The support documentation from Microsoft guides users ..."
-    publishedDateTime: 2021-05-13T09:01:00Z
-    webUrl: "https://www.siliconrepublic.com/enterprise/microsoft-azure-blockchain-as-a-service-consensys-quorum-ethereum"
+  - title: "Microsoft Is Closing Down Its Azure Blockchain Service In September"
+    excerpt: "Microsoft is shutting down its Azure Blockchain Service on September 10, 2021, after being in service for around six years."
+    publishedDateTime: 2021-05-14T07:16:00Z
+    webUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html"
+    ampWebUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html/amp"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
+      name: techworm.net
+      domain: techworm.net
+    quality: 74
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/05/AdobeStock_280230556.jpeg"
-        width: 800
-        height: 600
+      - url: "https://www.techworm.net/wp-content/uploads/2021/05/azure-blockchain-technology.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
     excerpt: "May 6, 2021 /PRNewswire/ -- Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store ..."
@@ -111,6 +111,6 @@ related:
         height: 785
         isCached: true
 
-secured: "s63IBKPSPZenTQQAjHgfxr7jh8NJLLG7H17DvRJK1ZmGeafZW/Wrhf0JiLYuNWw+BGsZBk29vJfHnMZHQdxgmJFZwQwllR+iPrkT91wDZIWfBQewsX6t/6TK9l3T8jWO1GjToU+mZltZyg2KxDBvRCQkKM/QgbRu2ALwzkSwko2e/1ZkY+DjJ6y0X4cZMhjhoMzSwIK9iKLWSfg3S34GDVPYzHkCGJF8XpxJyn+hqnmnX7eM5OXBJPohSrhRvQZKSDyBkTynai9dPgfTU6vAr+UtvlXLiVF5ZC+2KGAhtQ2kX5bDKgqGBV6aB4oEeHiQavXZ9Pyt8tpwWfgR3mBMk5Zo+8nbtv6hiMpNSzM+uaIQwm16IGg9HGxHBQ/YxyOAtydNFJxai0d1t+75U8oB3RM+D1B1/lq+Dq9XDsAA4u2kKLY5DiE4d9o4/3eiM0uySFxa+eHehJDOsmdsgXsBtyeYqbqyqHW4WdUFF+hJdlXYDBofOizLNxQA9JjOYPc6lzENWcIJ39QZl30bhoX8GA==;1iY5GhKwkAzshWBbELGZYQ=="
+secured: "Hbn77LROY2k3T5zALOmBC7J+DECeVmsurgXhhGJBi5DXmomZJ2XglWRJFzYlj1mT0gXLDUS8HqTfIQg+dcuJBYd69jyw/z8NplsUHwmKv/q3KBOVlJK9e+dYnqN/vEhmKS56Emy9UYLTfLH8g3/1KRZdYImPwVG+2siDy/B2IpMaJ2K1f1lbzvqeNwqBIFQs2hwaVFTunCZfOfZGfq7ZlEvZ2ijTfaVFbLxS9kwzNqipqoJ9poRGGcqhpaQowU7eme67mliqPAwDlNZFL6Pa8U289/IzlBCjmNOtkaC2G9iWA48bt89iwS+PHJyjuGC795OtHyjN3jtN8GaeA/tlkh30bWlyl8gS9Gy0+98Hhog=;7WDttOerBSqdTBNFr1ajxw=="
 ---
 

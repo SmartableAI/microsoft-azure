@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft calls time on Azure blockchain-as-a-service"
+    excerpt: "A notice in the documentation for Microsoft’s Azure Blockchain Service announces that the service will be retired on 10 September 2021. The support documentation from Microsoft guides users ..."
+    publishedDateTime: 2021-05-13T09:01:00Z
+    webUrl: "https://www.siliconrepublic.com/enterprise/microsoft-azure-blockchain-as-a-service-consensys-quorum-ethereum"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/05/AdobeStock_280230556.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "An Introduction to Microsoft Azure Cloud and Its Benefits for Business!"
     excerpt: "We all know Azure is an open and flexible cloud platform from Microsoft. An innovative platform that businesses can leverage to quickly build, deploy and manage applications and services. But it doesn’t end there, Azure comes with many associated ..."
     publishedDateTime: 2021-05-14T11:23:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/3617456/microsoft-azure-blob-leak-
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3617456/microsoft-azure-blob-leak-a-lesson-to-cisos-about-cloud-security-responsibility.amp.html"
 type: article
 quality: 87
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.techworm.net/wp-content/uploads/2021/05/azure-blockchain-technology.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft calls time on Azure blockchain-as-a-service"
+    excerpt: "A notice in the documentation for Microsoft’s Azure Blockchain Service announces that the service will be retired on 10 September 2021. The support documentation from Microsoft guides users ..."
+    publishedDateTime: 2021-05-13T09:01:00Z
+    webUrl: "https://www.siliconrepublic.com/enterprise/microsoft-azure-blockchain-as-a-service-consensys-quorum-ethereum"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/05/AdobeStock_280230556.jpeg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
     excerpt: "May 6, 2021 /PRNewswire/ -- Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store ..."
