@@ -4,50 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-security.md",
-      "title": "Microsoft Azure Well-Architected Framework - Security",
-      "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-security/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 4108,
-        "average": 4.750487
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-backup-restore-azure-sql.md",
       "title": "Back up and restore your Azure SQL database",
       "excerpt": "Protect the data in your Azure SQL database and recover from data loss or corruption with backup and restore.",
@@ -1169,48 +1125,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-build-web-api-nodejs-express.md",
-      "title": "Build a web API with Node.js and Express",
-      "excerpt": "Use Express for Node.js to build RESTful APIs. Create and configure middleware to add things like logging and authentication/authorization. Use JavaScript/TypeScript with Express to create a Node.js web server with Visual Studio Code.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-web-api-nodejs-express/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-web-api-nodejs-express/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 208,
-        "average": 4.7403846
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-web-api-nodejs-express-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-build-web-app-blazor-webassembly-vscode.md",
       "title": "Build a web app with Blazor WebAssembly and Visual Studio Code",
       "excerpt": "Learn how to set up your development environment and build your first WebAssembly app with Blazor, Visual Studio Code, and C#.",
@@ -1251,6 +1165,85 @@
       "topics": [
         "Azure",
         "Developer tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-webapp-java-tomcat.md",
+      "title": "Deploy a Java web app to Azure",
+      "excerpt": "You'll learn how to create a Java web application and deploy it to Azure App Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-webapp-java-tomcat/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-java-webapp-to-app-service-linux/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 32,
+        "average": 4.71875
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-caching-and-performance-azure-storage-and-disks.md",
+      "title": "Caching and performance in Azure storage disks",
+      "excerpt": "Learn about Azure VM disk performance and how to enable caching to help optimize read and write access to storage.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-caching-and-performance-azure-storage-and-disks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/caching-and-performance-azure-storage-and-disks/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 2006,
+        "average": 4.7033896
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Storage"
       ]
     }
   ],

@@ -117,15 +117,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-azure-functions.md",
-      "title": "Automate Azure Functions deployments with Azure Pipelines",
-      "excerpt": "Implement a CI/CD pipeline for Azure Functions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-azure-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-functions/",
-      "length": "PT46M",
+      "path": "_learning/courses/microsoft-learn-build-web-api-nodejs-express.md",
+      "title": "Build a web API with Node.js and Express",
+      "excerpt": "Use Express for Node.js to build RESTful APIs. Create and configure middleware to add things like logging and authentication/authorization. Use JavaScript/TypeScript with Express to create a Node.js web server with Visual Studio Code.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-web-api-nodejs-express/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-web-api-nodejs-express/",
+      "length": "PT39M",
       "ratings": {
-        "count": 398,
-        "average": 4.6834173
+        "count": 208,
+        "average": 4.7403846
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -145,9 +145,9 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-azure-functions-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/build-web-api-nodejs-express-social.png",
+          "width": 642,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -155,21 +155,19 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "DevOps",
-        "Serverless"
+        "Azure"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-office-365-message-encryption.md",
-      "title": "Explore Office 365 Message Encryption",
-      "excerpt": "Explore Office 365 Message Encryption",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-office-365-message-encryption/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-office-365-message-encryption/",
-      "length": "PT32M",
+      "path": "_learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture.md",
+      "title": "Describe Azure Databricks Delta Lake architecture",
+      "excerpt": "Describe Azure Databricks Delta Lake architecture",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-delta-lake-architecture/",
+      "length": "PT33M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 166,
+        "average": 4.572289
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -189,7 +187,7 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-delta-lake-architecture-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -200,19 +198,20 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Identity"
+        "Analytics",
+        "AI"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-mixed-reality.md",
-      "title": "Introduction to Mixed Reality",
-      "excerpt": "Mixed Reality is transforming the nature of on-the-job training, game development, and consumer application development. Build a foundation in the core concepts, terminology, and design processes unique to the augmented reality, virtual reality, and Mixed Reality development space. Get familiar with HoloLens, Windows Mixed Reality immersive headsets, bodystorming prototypes, and the most common use-cases for Mixed Reality content.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-mixed-reality/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-mixed-reality/",
-      "length": "PT41M",
+      "path": "_learning/courses/microsoft-learn-explore-power-apps.md",
+      "title": "Explore Power Apps",
+      "excerpt": "Explore Power Apps",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-power-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-apps/",
+      "length": "PT31M",
       "ratings": {
-        "count": 208,
-        "average": 4.8221154
+        "count": 7,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -227,14 +226,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/power-apps-explore-social.png",
+          "width": 1280,
+          "height": 641,
           "isCached": true
         }
       ],
@@ -243,7 +242,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
+        "Identity"
       ]
     },
     {
