@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Datametica now available in the Microsoft Azure Marketplace"
+    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net - Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the ..."
+    publishedDateTime: 2021-05-13T07:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/datametica-now-available-in-the-microsoft-azure-marketplace-1030424788"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "KlariVis Now Available in the Microsoft Azure Marketplace"
     excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
     publishedDateTime: 2020-06-09T12:09:00Z
@@ -191,15 +200,6 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 17
-  - title: "Datametica now available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the scalability, reliability and agility of Azure to shape business strategies - Pelican empowers customers to ..."
-    publishedDateTime: 2021-05-13T09:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52862512-datametica-now-available-in-the-microsoft-azure-marketplace-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
     quality: 17
   - title: "Cloud-based Database Market – Major Technology Giants in Buzz Again | Oracle, Microsoft Azure, IBM, Apache Cassandra"
     excerpt: "AMA Research have added latest edition of survey study on Global Cloud based Database Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
