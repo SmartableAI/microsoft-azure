@@ -1,26 +1,28 @@
 ---
 category: news
-title: "NHS Scotland’s track and trace system utilises Microsoft Azure"
-excerpt: "User information is fully encrypted in NHS Scotland's data lake and only available to contact tracers who have the right digital key."
-publishedDateTime: 2021-05-19T06:56:00Z
-originalUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
-webUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
+title: "Why Microsoft Azure is backing hybrid cloud as the best choice for businesses"
+excerpt: "With Azure, Microsoft provides the most comprehensive, open, scalable, and trusted intelligent cloud tailored to requirements of businesses. Edited by Teja Lele Desai Please login to continue reading"
+publishedDateTime: 2021-05-20T17:20:00Z
+originalUrl: "https://yourstory.com/2021/05/why-micrsoft-azure-says-hybrid-cloud-is-the-best-c/amp"
+webUrl: "https://yourstory.com/2021/05/why-micrsoft-azure-says-hybrid-cloud-is-the-best-c/amp"
+ampWebUrl: "https://yourstory.com/2021/05/why-micrsoft-azure-says-hybrid-cloud-is-the-best-c/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/05/why-micrsoft-azure-says-hybrid-cloud-is-the-best-c/amp"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Cloud Computing
-  domain: cloudcomputing-news.net
+  name: Your Story
+  domain: yourstory.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/dan-gold-E6HjQaB7UEA-unsplash-1.jpg"
-    width: 1920
-    height: 1440
+  - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/shivir1-1621432680596.png "
+    width: 800
+    height: 400
     isCached: true
 
 related:
@@ -40,22 +42,6 @@ related:
         width: 840
         height: 1114
         isCached: true
-  - title: "Why Microsoft Azure is backing hybrid cloud as the best choice for businesses"
-    excerpt: "With Azure, Microsoft provides the most comprehensive, open, scalable, and trusted intelligent cloud tailored to requirements of businesses. Edited by Teja Lele Desai Please login to continue reading"
-    publishedDateTime: 2021-05-20T17:20:00Z
-    webUrl: "https://yourstory.com/2021/05/why-micrsoft-azure-says-hybrid-cloud-is-the-best-c/amp"
-    ampWebUrl: "https://yourstory.com/2021/05/why-micrsoft-azure-says-hybrid-cloud-is-the-best-c/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/05/why-micrsoft-azure-says-hybrid-cloud-is-the-best-c/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 54
-    images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/shivir1-1621432680596.png "
-        width: 800
-        height: 400
-        isCached: true
   - title: "Tesla Crashes Bitcoin, Microsoft Azure Ditches Blockchain And More In This Week’s Top News"
     excerpt: "Bitcoin peaked following this news. Elon Musk became a messiah for the crypto community. His tweets had the potential."
     publishedDateTime: 2021-05-16T04:30:00Z
@@ -69,6 +55,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/top-news-may-2021.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "NHS Scotland’s track and trace system utilises Microsoft Azure"
+    excerpt: "User information is fully encrypted in NHS Scotland's data lake and only available to contact tracers who have the right digital key."
+    publishedDateTime: 2021-05-19T06:56:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 37
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/dan-gold-E6HjQaB7UEA-unsplash-1.jpg"
+        width: 1920
+        height: 1440
         isCached: true
   - title: "La Liga expands Microsoft Azure partnership for OTT services and ML enhancements"
     excerpt: "La Liga, the foremost Spanish football league, has expanded its partnership with Microsoft Azure to focus on machine learning and OTT services."
@@ -168,6 +168,6 @@ related:
       domain: morningstar.com
     quality: 1
 
-secured: "GwuyW7ZUMt7U8Dopy5hHQkovSJktAJSXar3h5gj0iENCQWYidPSxnN411dQU0/VwV6P7eEcZUMuiWQ0snQdte6MMGUqUwEhplWkpNnr46BRyxiDieO0BOV2jcJPxMlSudL1J84azQ4Aw0fMf6nJKm87l1lP8qc4sXQd4wBBsx0A3tB4q4SFA4Kap8W9mxATjMAM9/NhD0PGG7/4imRbHDpHs2BnqMfSQnl6IDb7p3nkwl51azDTf3HnpLn8iwUIJEtt76FpDEoaI9Yopzcf87GLbXqOslDPLWesTX7JKkuVtHX/MHReMXKpwzoec4L370ncwWHg+gGW5Nb7D1aVv1b1QMc+1qeAME4TyRyOXKLc=;PPX8lpwx7ILSQfMVGW5Y2Q=="
+secured: "8u9SnsssxMtzlpYlaQ2lxJTM/CojuSvIDjiBfwWa4JiJ8qO8CvvLsZlrW5hn4/yNdT7xaroYct7kt8IBfYd3aoUwJYWW5GC5JE+ZxseXTW+HBD333toQmu+h4qOq9ihEdIBOD2UrVfEZsTk9ClCguowyxojEq1DLoad/YghE3uNEnnlP1B6tu5K7LKchUc3dTOYoTm5xuISWStSb8VQ91tWsAboYq9YwTlX+5lUy8q14D8pLVc7wTpE1dPnuw/H8lfYMk73mY/mJFD1ne2/Wm6lzAwWfOrXfn7XT8IFvZ61tfquY+wGro1xdOUYAdzr5grdQcY2+SV2jFYhCkBK8d6vMK6rbtMz8CYkHAmGXoAU=;whjoEo1B0nSMo4+yq7z1fg=="
 ---
 

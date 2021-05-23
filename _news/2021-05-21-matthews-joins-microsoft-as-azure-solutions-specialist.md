@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techwire.net/news/matthews-joins-microsoft-as-azure-solu
 cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/matthews-joins-microsoft-as-azure-solutions-specialist?_amp=true"
 type: article
 quality: 57
-heat: 258
+heat: 278
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Microsoft Azure is backing hybrid cloud as the best choice for businesses"
+    excerpt: "With Azure, Microsoft provides the most comprehensive, open, scalable, and trusted intelligent cloud tailored to requirements of businesses. Edited by Teja Lele Desai Please login to continue reading"
+    publishedDateTime: 2021-05-20T17:20:00Z
+    webUrl: "https://yourstory.com/2021/05/why-micrsoft-azure-says-hybrid-cloud-is-the-best-c/amp"
+    ampWebUrl: "https://yourstory.com/2021/05/why-micrsoft-azure-says-hybrid-cloud-is-the-best-c/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/05/why-micrsoft-azure-says-hybrid-cloud-is-the-best-c/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 54
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/shivir1-1621432680596.png "
+        width: 800
+        height: 400
+        isCached: true
   - title: "Tesla Crashes Bitcoin, Microsoft Azure Ditches Blockchain And More In This Week’s Top News"
     excerpt: "Bitcoin peaked following this news. Elon Musk became a messiah for the crypto community. His tweets had the potential."
     publishedDateTime: 2021-05-16T04:30:00Z
