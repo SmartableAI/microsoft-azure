@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Datametica now available in the Microsoft Azure Marketplace"
-excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net - Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the ..."
-publishedDateTime: 2021-05-13T07:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/datametica-now-available-in-the-microsoft-azure-marketplace-1030424788"
-webUrl: "https://markets.businessinsider.com/news/stocks/datametica-now-available-in-the-microsoft-azure-marketplace-1030424788"
+excerpt: "Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the scalability, reliability and agility of Azure to shape business strategies - Pelican empowers customers to ..."
+publishedDateTime: 2021-05-13T09:04:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52862512-datametica-now-available-in-the-microsoft-azure-marketplace-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52862512-datametica-now-available-in-the-microsoft-azure-marketplace-008.htm"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Azure
@@ -231,6 +227,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "+BvQWrjKk5muSx1lXL3ZYp+5+Gz61JQQe+BPM98XPH9Oawh0E1VLg6D0KVC4KM3Sp6bGvyXSry2R7/0w0ka+TMw3nu7Y6OyRsfhoWODHP3a4nfonNKT2y2b4A3mCiIsBfkaRbFyTShzTFF4kv3S58GpfqZHrV/dPdaWLc0olhMUcIW5DBlSNXGS9yuG5WeeCr6TuNSXLHVLOim1756awL4jQ45p2WSBgQ+jpTbDW/5zmarEwtl66V0ZUsEyR0RiZ2w+phm3RHPCfH9BQykmoRmI812B1HwhESXlalmP8mG/JdbXu8veLEPmA3xqRsFSfrXhr7fI2z7sKEADPbnSk/BgjiXtQUdG7Zdi+QTH6Zsg=;ezWmTkjVnEs2O+9mRt2mgw=="
+secured: "IKuDirPrvJ7DDhvZ8IjI94PTftNgCPZYaDmUHGdHb/3MHwfKeiacNvK7dgbL1ePk77sTm1vWs+5n7kX1DQ7Oow3s5DQrTMbR4zxVrpuXJHWBpEOhEK8jQtH0LxJgeAUp1Fxh4WSgRPn+jo8wip0iPhe4/XhKNt2KwoI2+E3VGrxc7z0ZSM/I1ddEJsYPKoTR7qGDgFC8barpjv8az+g/oAJbnqZ99QRNW5BXFYOlFD+DkiHiLyKylN4TGOpSpi1sIxezbK7gYCWD9fn8uk2nvyiCbahgbv/3Y1mRwCFTS2+wun28eoS9aiR7BpSlMs5795Rk7pUyLOMyNEj/vjidRwGaOkSOiyYnz9criNZh30o=;fRY6zEvRTlY1I1hC41cZnw=="
 ---
 
