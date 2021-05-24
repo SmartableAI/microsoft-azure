@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Microsoft Windows and Azure can be a business lifeline. This training shows you how."
-excerpt: "With the training in The Complete 2021 Microsoft, Windows and Azure Bundle, IT experts can earn a firm grounding in all things Microsoft, including the ways Microsoft hardware, software ..."
-publishedDateTime: 2021-05-04T16:00:00Z
-originalUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/"
-webUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/"
-ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
+title: "Master Microsoft Azure with this prep courses and mock exams bundle"
+excerpt: "TL;DR: The Ultimate Microsoft Azure Administrator Bundle is on sale for £21.21 as of May 23, saving you 94% on list price. Just a few years ago, if you wanted an IT cloud systems expert position ..."
+publishedDateTime: 2021-05-23T04:42:00Z
+originalUrl: "https://mashable.com/uk/shopping/may-23-microsoft-certification-bundle/"
+webUrl: "https://mashable.com/uk/shopping/may-23-microsoft-certification-bundle/"
+ampWebUrl: "https://mashable.com/uk/shopping/may-23-microsoft-certification-bundle.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/may-23-microsoft-certification-bundle.amp"
 type: article
-quality: 90
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all"
+  - url: "https://mondrian.mashable.com/2021%252F05%252F23%252F60%252Fb4bac1a702aa47a1846932e61f1d0d0f.51a25.jpg%252F1200x630.jpg?signature=o-Qaes3GL02Ji6mwRe-bJvnNHiI="
     width: 1200
-    height: 800
+    height: 630
     isCached: true
 
 related:
@@ -46,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Master Microsoft Azure with this prep courses and mock exams bundle"
-    excerpt: "TL;DR: The Ultimate Microsoft Azure Administrator Bundle is on sale for £21.21 as of May 23, saving you 94% on list price. Just a few years ago, if you wanted an IT cloud systems expert position ..."
-    publishedDateTime: 2021-05-23T04:42:00Z
-    webUrl: "https://mashable.com/uk/shopping/may-23-microsoft-certification-bundle/"
-    ampWebUrl: "https://mashable.com/uk/shopping/may-23-microsoft-certification-bundle.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/may-23-microsoft-certification-bundle.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 97
-    images:
-      - url: "https://mondrian.mashable.com/2021%252F05%252F23%252F60%252Fb4bac1a702aa47a1846932e61f1d0d0f.51a25.jpg%252F1200x630.jpg?signature=o-Qaes3GL02Ji6mwRe-bJvnNHiI="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft readies its AWS Outposts hybrid competitor: Azure Stack 'Fiji'"
     excerpt: "Microsoft is working on a new member of the Azure Stack family, which will provide Azure hardware managed via the Azure public cloud, for customers to install in their own datacenters."
     publishedDateTime: 2020-08-07T13:10:00Z
@@ -77,6 +57,22 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/08/07/fec90584-c1b3-4417-91ff-0216a73113da/azurestackfijiracks.jpg"
         width: 824
         height: 517
+        isCached: true
+  - title: "Microsoft Windows and Azure can be a business lifeline. This training shows you how."
+    excerpt: "With the training in The Complete 2021 Microsoft, Windows and Azure Bundle, IT experts can earn a firm grounding in all things Microsoft, including the ways Microsoft hardware, software ..."
+    publishedDateTime: 2021-05-04T16:00:00Z
+    webUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/"
+    ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 90
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft Azure is gaining on AWS. Get all the training now to be a full Azure expert for under $40."
     excerpt: "Yes, the major public clouds offer a lot. But what you may not know are the limitations, and how open clouds make the difference. Join Transform 2021 this July 12-16. Register fo r the AI event of ..."
@@ -502,6 +498,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "ScM366p7yRscoVaTK+7AqzrBSqz8C/GjSwpnoFwVZtxQP39kA0lIgVXu9xMfnSfo2ujpdKw2Kuv3afMuTKZIJlkPqudVjlncdd+rt98c/6gKTOgIXn4kcskapkCsLFC8/PyrrBbRK9Yi4M61BhcY2ITZ4WCwzMpS6YzsngY7Zik6wfoO/on2FZnDO1sttG/16Aho+qczCQRVDD7aUk6e/GcJXQiYkluTll+mcRFZv2rAv4iVedGe1KDvh3zphvkxW5Xx+BizC7rqehNHkBV0Mgca0sN4J4XhSsOAbw/ZC8Gm3t+ciIweAAIVXgxaW4FXdPXCkh3FO3bodNyeLNhBG9tnkGEpnk8cIprynIioto0e+4Z7yY7oygBSpVqxgORq9e3SHwRXKKMa4Fhvtb64Cz8lJU2hT8BXkj4TOuQqdkl+cdPCpiXFToNq3sN8mgNQ07Z2r/qclgbTp7apgnOWZCceOYN7x0N5FLs6hzWxOGRZ9WLkyxL+R0pGnrrXGAlvB01ljyhYdROpwTnq4WKLhg==;R/+8iTSSwlnAIAJioiEFWw=="
+secured: "WDVkdOdzEnByNBeqGaMl33GSIblNCrH7rD+lPLQq4LK+tudIHDc9NvHpnimrN/gBFIE7zfznX2SQ9/ZtKacHGvGttqPUVGPIRyA5l6ruf43+qo0zvTgTQb5RAfNt/q72l+vKXC87R616U3aw90zRWjqNU4SL5GsSeEauyW3LUiJGhkQgWbv83+i1P98biiuBfL1Wi/rZ0HJh/YmkTreX3br2s07Ch7V4V2JySbQWFcxUET/RX61X4FDfEb6OllQKkzihW4cyWqIwOSg7f1tgeXaepSYFdwIzAHc1P7gtapqr/WyI+LUzberNJElUo7oimUdAOhuhUzioPDL53mGBBYbyRNNl1VLzw7Eoo94JTB4=;CrbDeuZG1yJz0+Ppauqsyg=="
 ---
 
