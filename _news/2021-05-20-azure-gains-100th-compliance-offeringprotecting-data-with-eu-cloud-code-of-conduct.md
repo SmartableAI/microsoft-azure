@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-gains-100th-compliance-offe
 webUrl: "https://azure.microsoft.com/blog/azure-gains-100th-compliance-offering-protecting-data-with-eu-cloud-code-of-conduct/"
 type: article
 quality: 83
-heat: 83
+heat: 84
 published: true
 
 provider:
