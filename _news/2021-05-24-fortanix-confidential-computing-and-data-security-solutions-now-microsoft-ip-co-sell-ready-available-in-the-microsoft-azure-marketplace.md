@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Fortanix Confidential Computing and Data Security Solutions Now Microsoft IP Co-sell Ready, Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Fortanix to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
-publishedDateTime: 2021-05-24T08:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210524005079/fortanix-confidential-computing-and-data-security-solutions-now-microsoft-ip-co-sell-ready-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.morningstar.com/news/business-wire/20210524005079/fortanix-confidential-computing-and-data-security-solutions-now-microsoft-ip-co-sell-ready-available-in-the-microsoft-azure-marketplace"
+excerpt: "Fortanix® Inc., the data-first multi-cloud security company, today announced new and expanded security offerings available in the Microsoft Azure Mark"
+publishedDateTime: 2021-05-24T13:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210524005079/en/Fortanix-Confidential-Computing-and-Data-Security-Solutions-Now-Microsoft-IP-Co-sell-Ready-Available-in-the-Microsoft-Azure-Marketplace"
+webUrl: "https://www.businesswire.com/news/home/20210524005079/en/Fortanix-Confidential-Computing-and-Data-Security-Solutions-Now-Microsoft-IP-Co-sell-Ready-Available-in-the-Microsoft-Azure-Marketplace"
 type: article
 quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -177,6 +177,6 @@ related:
       domain: morningstar.com
     quality: 1
 
-secured: "AdqI5hU4hjrAqyWYIwD3y/9JLjp4KOWOeT86miB+Qk/xkaH8VCd2ZHuqJAOxCuMdPfm08zTUh4p2UxDo6F9xNdrvx1weePhfdR7KECNLP0YwHSkHRTmJBPkrOtqDVvhgWelR8zUovDed/6hiB3eRp9inUXWHZYHMODHBqT5meCmoBS2vQaXSTaglvshZIsjGzeKjvRGW07+0wXEOsTJV5TMcXOKQUwl6/xc+MSsM5dwMeudEwSrYFxfFQZ5jTyD4KctkW1IamTE3LWCZfXPaoP/1M4l4WNDA+W/gleInPFyK8sZoenwLbCfZQY2fIC2ddIGcqxSj83mV+OLPxUnWMfkmSbL5/SrZi/sjgP4MS1Q=;8xR04CG3zB1lLYKyjK0U8A=="
+secured: "45nX54EfLlNM9nxSYPCUKvAv0e+z7ZgDJ093LJtGbPRB38Qi9HQBM4LTsHSV1lD8CDI+nU3sMK1R4S6svmmz9mtv2LdYdcxsUyCytR1gKD1h748tML1wTbOidkaTGvb24XAQFVrry9yDVKTMlGMzzGYY37gjIfsGcbgDhE+YbXiDwUgtuyiqp6WozvTHZRGhdvJJUvdLf9GDyQrEXKaUQvLhMK0kLw+sxdUj9KepSI28ZmQHBw76NGLoKo5nYx6NpI8185teES7XSOnz1vH6GGe6X4wQaK+0ttPr1+8dMfJmMnv843SGZG3oLuwLEeTY85yU3mudhNaeIC8srz/SXNEaS41jVeNNqzj/n3iaW6w=;jTAJHC9mLrBRHaXwvJcPhA=="
 ---
 

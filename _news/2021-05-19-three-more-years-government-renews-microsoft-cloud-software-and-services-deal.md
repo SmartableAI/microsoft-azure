@@ -168,13 +168,13 @@ related:
       domain: morningstar.com
     quality: 1
   - title: "Fortanix Confidential Computing and Data Security Solutions Now Microsoft IP Co-sell Ready, Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Fortanix to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
-    publishedDateTime: 2021-05-24T08:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210524005079/fortanix-confidential-computing-and-data-security-solutions-now-microsoft-ip-co-sell-ready-available-in-the-microsoft-azure-marketplace"
+    excerpt: "Fortanix® Inc., the data-first multi-cloud security company, today announced new and expanded security offerings available in the Microsoft Azure Mark"
+    publishedDateTime: 2021-05-24T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210524005079/en/Fortanix-Confidential-Computing-and-Data-Security-Solutions-Now-Microsoft-IP-Co-sell-Ready-Available-in-the-Microsoft-Azure-Marketplace"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 1
 
 secured: "p5VOtutGIrr0uCfz761tHEPbxGiJ1GjcDLR9hq8glHcgckXX/nEF2RjS7PklE6b9rL80p9A+TZIUh3j/TbpBGfKO8u0LYgIpT1QI7MEzEPZ5QP+bBblaBlZXUljQdnm2Xolch8VG7zKPCGhihxIkYoYB13q9HEBjcqcZlmX6Y8JXI/s4s40IVT2arckh80yYkm/+IOAnwcCMwM1lskaQSRW++/mJlsy6xolbmyiHI0LhFaYMPuFa6roKeIdYo+QrvnrwiD3tgfq41Cim5Mlc8viLHMsAqzB2VaLF+pvfBh+mk5noeFmtPoQvwYJ37jSYG1S6smOJSDojE3gSa7iUD27L7rs+O1sx86FuI4xzgvD3EYcZIWAyKTEPTyEYf+wD9JPQgvvPa6ZYoXMmzt8XMqLfReW5fG8wnSWdGnoNkMLdnQoTua9nXwIOs/s+opCejm8DL/83QoBMLeawLLHWtIzcWGc8FLIVBwEXGRjNgmNzX+K9S61S31SEOxHzAh8JJl1GdaA4k4f3Z1uhXDvk8g==;xKLgXph/U2o8rgIXVR1qPw=="
