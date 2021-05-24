@@ -1,27 +1,27 @@
 ---
 category: news
-title: "First AWS, Now Microsoft Cloud, Who Is Next"
-excerpt: "Microsoft Cloud, Who Is Next By Ashwin Krishnan, SVP, Product Management and Strategy, HyTrust - So, there we have it—within a window of a month, the top two public cloud providers on the planet—AWS"
-publishedDateTime: 2021-02-19T04:20:00Z
-originalUrl: "https://www.cioreview.com/cxoinsight/first-aws-now-microsoft-cloud-who-is-next-nid-24091-cid-50.html"
-webUrl: "https://www.cioreview.com/cxoinsight/first-aws-now-microsoft-cloud-who-is-next-nid-24091-cid-50.html"
+title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
+excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
+publishedDateTime: 2021-05-21T23:03:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/18502/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+webUrl: "https://www.zdnet.com/index.php/category/18502/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
 type: article
-quality: 22
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.cioreview.com/ck_images/9r7q4fDs.jpeg"
-    width: 300
-    height: 300
-    isCached: true
 
 related:
   - title: "Save 98% on this AWS and Microsoft Azure online training course"
@@ -102,17 +102,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
-    excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
-    publishedDateTime: 2021-05-21T23:03:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/18502/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 73
   - title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
     excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
     publishedDateTime: 2020-08-05T11:41:00Z
@@ -392,6 +381,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 28
+  - title: "First AWS, Now Microsoft Cloud, Who Is Next"
+    excerpt: "Microsoft Cloud, Who Is Next By Ashwin Krishnan, SVP, Product Management and Strategy, HyTrust - So, there we have it—within a window of a month, the top two public cloud providers on the planet—AWS"
+    publishedDateTime: 2021-02-19T04:20:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/first-aws-now-microsoft-cloud-who-is-next-nid-24091-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 22
+    images:
+      - url: "https://www.cioreview.com/ck_images/9r7q4fDs.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "TekLink International Inc. Is Now A Microsoft Gold Partner For Azure Cloud Analytics And Data Analytics"
     excerpt: "TekLink International Inc., a respected leader in Cloud Platforms, Business and Financial Planning Solutions, and"
     publishedDateTime: 2020-08-07T18:00:00Z
@@ -482,6 +485,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "EbFIM5PPjmUhKcSuAWNwmxePVTKsP4Gh50/3M5RQ+QmNZDt/Rk+9rNbMAeJDm+M2sUpGVLPREuRGcW1Xhgez+ohJ6xsutjglSm2PL/entXrqMPfTF7EdZgF0FIFNeR8cPJBBUY5Lv/bA9dKJAv+AZq3kFNz7mNPvaG9/YjQv9C0z6b9bkbNljVd9mpztETR1ivSD8TtQRUVTwpMHmyN+JHjyBjgsmUCkq271JDD8qnMpbY/L8nntO/AfEaBXz0T21yhSSYPYbCdTEy1jeACfZPMCrcMSNXe87O74gJCHso8a3AIDRq4c/9I5SpqEy84zsd4chZQtPX293wHqc5j/X2ixSPF5PLwhYlkVyji/OgY=;1XZiGb0TBZwoJNNiIlJ16Q=="
+secured: "Zc0yeKhiwNwblsDcZ86GRIhCzlA1xZYgy2+ThKcWKjjNOzcfBGgytFXSQAY5qDT+8c4mwM2tzDIhM5twCN7ROOVpCp/1LemzYJT5U/hOdhb/UQ7Wnu+VzRFNHXO95F1q+Um6GoRkPqZFodtLJgf+wuRdzKR/Y3p2pL2hhqUjVBIVP8vvDcrmPLeupa++ktkOc3bYnEgr4x1RSRXIc8D71sV2+f8GMViyEm2KLuoy7v7v4JPwuQ0beRAYIOpemK/l/AM42jzdJpDtA66xtl/tC5YWyOydssLvKeQanRvIKpyxqwp45FIHsz5+UsZv8mXq6Cd4i319fPXrgXzbWiuI7bnqp6uIO5/1CsLhrz1N5hk=;JDV0OXerXcRDyJUgyBRc5A=="
 ---
 
