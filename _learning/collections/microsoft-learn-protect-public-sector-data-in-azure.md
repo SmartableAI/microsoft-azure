@@ -4,7 +4,7 @@ excerpt: "Learn to design conceptual architecture for data classifications using
 type: collection
 price: Free
 length: PT41M
-heat: 50
+heat: 130
 
 provider:
   name: Microsoft Learn
