@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q3 Earnings"
-excerpt: "Microsoft MSFT is scheduled to report third-quarter fiscal 2021 results on Apr 27. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
-publishedDateTime: 2021-04-22T13:51:00Z
-originalUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings-2021-04-22"
-webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings-2021-04-22"
+title: "Amdocs to put BSS/OSS solutions onto Microsoft's Azure"
+excerpt: "The collaboration will enable service providers to accelerate their move to the cloud by using Amdocs' cloud-native BSS/OSS solutions and services and our unique delivery accountability model while benefiting from the cloud capabilities of Azure to build,"
+publishedDateTime: 2021-05-24T16:00:00Z
+originalUrl: "https://www.lightreading.com/service-provider-cloud/amdocs-to-put-bssoss-solutions-onto-microsofts-azure/d/d-id/769730"
+webUrl: "https://www.lightreading.com/service-provider-cloud/amdocs-to-put-bssoss-solutions-onto-microsofts-azure/d/d-id/769730"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Light Reading
+  domain: lightreading.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+    width: 600
+    height: 600
+    isCached: true
 
 related:
   - title: "Amdocs to Accelerate M1's Digital Transformation on Microsoft Azure"
@@ -71,6 +77,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
+  - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q3 Earnings"
+    excerpt: "Microsoft MSFT is scheduled to report third-quarter fiscal 2021 results on Apr 27. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
+    publishedDateTime: 2021-04-22T13:51:00Z
+    webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings-2021-04-22"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 57
   - title: "Microsoft acquires Kinvolk to accelerate container-optimized innovation"
     excerpt: "The ability to run Kubernetes anywhere, whether in the cloud or on-premises, has been a high priority for Azure customers looking to rapidly innovate, with increasing customer focus on the benefits of container-optimized workloads and operating systems, lean application modernization, easier operations,"
     publishedDateTime: 2021-04-29T06:00:01Z
@@ -105,20 +120,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 37
-  - title: "Amdocs to put BSS/OSS solutions onto Microsoft's Azure"
-    excerpt: "The collaboration will enable service providers to accelerate their move to the cloud by using Amdocs' cloud-native BSS/OSS solutions and services and our unique delivery accountability model while benefiting from the cloud capabilities of Azure to build,"
-    publishedDateTime: 2021-05-24T16:00:00Z
-    webUrl: "https://www.lightreading.com/service-provider-cloud/amdocs-to-put-bssoss-solutions-onto-microsofts-azure/d/d-id/769730"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 37
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Download Microsoft AZ-303 Exam Dumps (2021) Azure Solutions Architect Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-303 exam with ITExamQuestions AZ-303 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-303 Microsoft Azure Architect Technologies Exam?"
     publishedDateTime: 2021-04-20T04:15:00Z
@@ -271,6 +272,6 @@ related:
         height: 293
         isCached: true
 
-secured: "oYvZf6FMd876dk03XPNOk7oxTcQD5/0gUbrzS+Qn+T3flS/WnKbrlJ+guOtFpdmh6bzdcBzZCz2LUK8YEjqLxIJZeZ9kYgh4udbiutqepwO05lboDMwpOCCTLG+Q7w929oI3IfwkE7piAp2Zc2zytBVKrgJNkcM03s/6y9aePO2VUJPMYP/R9eePOoIUL7bc7Eafp+H3gmIUjjvIORMcS7BI/y0kxCC+Gvlzxkrr3PPhPTg1SjxZuvjju5SuurPIPzQlk1DUW6fGCDr9Ab0pmUdpUsLeA6AwtJet93vL62JFDJl/z2NrzjucxBg1IiEfYmAStp5hhvY2mMI3dbvobCdLjfIDdUdj54wMTsR+WQU=;gAFJRyBXOn8eOWFJTf6rig=="
+secured: "dWa7GAlE1raUq20HhZHNZsFUcSxQ1TAMV3RRtqZAu7HlTnJqhkMhn80mnyNv0U5bDdaucDLtlToCtsiireoqkPdmzzNhrFVMEKce/BgAcL7SD+r9me1vyUSDMvGWJ7ye3VsvyxcwU+JBumkvBZO3lWz4QGrWkbOH3jTfJGyI8o4/SfZDVMriqn67342TzFEfhkW/nuoh69JBJMB6PlqO9OE59wNuxgCQpjAcZGZQc52alvy4OudBH1Rn67h0YnsQK8CLKy3zScwmMgjX/vHqN1diZhdmE6bmgrqxe/OBc3oZimRuNo3fKA0w4x8o17y4UV1o3NgiA/qDLr+d6mSCBCmXuItWbS+cDVeX9PMnPhc=;8Rp8SUFrwg8g/vxkA80jCw=="
 ---
 

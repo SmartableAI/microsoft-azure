@@ -105,6 +105,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 37
+  - title: "Amdocs to put BSS/OSS solutions onto Microsoft's Azure"
+    excerpt: "The collaboration will enable service providers to accelerate their move to the cloud by using Amdocs' cloud-native BSS/OSS solutions and services and our unique delivery accountability model while benefiting from the cloud capabilities of Azure to build,"
+    publishedDateTime: 2021-05-24T16:00:00Z
+    webUrl: "https://www.lightreading.com/service-provider-cloud/amdocs-to-put-bssoss-solutions-onto-microsofts-azure/d/d-id/769730"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 37
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Download Microsoft AZ-303 Exam Dumps (2021) Azure Solutions Architect Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AZ-303 exam with ITExamQuestions AZ-303 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-303 Microsoft Azure Architect Technologies Exam?"
     publishedDateTime: 2021-04-20T04:15:00Z
