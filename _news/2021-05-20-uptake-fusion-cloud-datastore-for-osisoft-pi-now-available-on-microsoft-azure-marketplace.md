@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Armorblox Now Available in the Microsoft Azure Marketplace"
-excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
-publishedDateTime: 2021-05-18T13:00:00Z
-originalUrl: "https://www.financialbuzz.com/armorblox-now-available-in-the-microsoft-azure-marketplace/"
-webUrl: "https://www.financialbuzz.com/armorblox-now-available-in-the-microsoft-azure-marketplace/"
+title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
+excerpt: "CHICAGO, May 18, 2021 /PRNewswire/ -- Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure ..."
+publishedDateTime: 2021-05-19T22:29:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace-301287926.html"
+webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace-301287926.html"
 type: article
-quality: 17
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -136,20 +142,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
-    excerpt: "CHICAGO, May 18, 2021 /PRNewswire/ -- Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure ..."
-    publishedDateTime: 2021-05-19T22:29:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace-301287926.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
   - title: "InfiniteIO Announces Integration with Microsoft Azure to Reduce Cloud Latency and Storage Costs"
     excerpt: "Metadata management innovator InfiniteIO today announced new support for Microsoft Azure to dramatically reduce the cost of primary file storage and minimize cloud latency to help enterprises lower capital and operational expenses and increase application performance."
     publishedDateTime: 2020-06-16T07:20:00Z
@@ -215,6 +207,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
+  - title: "Armorblox Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+    publishedDateTime: 2021-05-18T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/armorblox-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 17
   - title: "Cloud-based Database Market – Major Technology Giants in Buzz Again | Oracle, Microsoft Azure, IBM, Apache Cassandra"
     excerpt: "AMA Research have added latest edition of survey study on Global Cloud based Database Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
     publishedDateTime: 2020-06-06T19:22:00Z
@@ -241,6 +242,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "AHgaNV5ovoyUo8GlznMsqwguhbwjaTe5PUaTOGNweAg96YMV8kMAMDyqnCI+u716zn8Enzd2wtl1/voKZf6/NEWNgZKqIwQXui3xL+sB4ROSVmpwT/LfFIRR/L4Q73l8/TK2Gru3K/LMWGBFbdnG4hu66BKJeQqECyTvan/ffuktb9vWIS6m+LHSHPdojhSz75O3gCMQvIIb3N5GZS8NRJu+/IRKbsUgQoPMiu2FPIhbArOJ7r7kq71hHYuz3IZbkeMFfaoakWpKm+ZxiImBKgqivPGN2qPOQfVG+UvAWONVh3dpA1VxFcC9APBvvafRpMii1/Z5ZJuUEZSJJ/EnAVHCFnC8/FKvCXjUXX0Bm2g=;DJLxVOncpR3dr3IVGpVdhw=="
+secured: "WZbb9P+rbl/3/V9QpIeDy80WVlzO6QcIRQhzClDTKJuCzw9XYMRnRvHaArxjJqOvvSzchwfhS/UPgBr6JIqfz+WJMU1LfMVTA1OfKaAUK4zI8ULdZxBmrzNvGir948+6AK+qPeEFOFAFokXLOVlpCChyxHI51yCndOovhDoxDjFRrAOTTqR/uEsPpx9WgXy8gCEQTFe4LM5z6tuPEgmG2i+CuEQsH23YFrLQXVMIhflEsdZYWY0R5kCUo1MzEkhMFZWgoS6gosCE2yE0NI9XtXHThrlXAI1+gYheo+caBz/OELdpQxd9V9iuzwClFpBasT2H7R/qDuY2BBRXwcHIuLU7Qq56hH8JFQdPpuvDVbU=;IoHAPvgU8V5f8nLsg430fA=="
 ---
 
