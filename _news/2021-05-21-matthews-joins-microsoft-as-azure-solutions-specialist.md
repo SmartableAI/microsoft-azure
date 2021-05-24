@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techwire.net/news/matthews-joins-microsoft-as-azure-solu
 cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/matthews-joins-microsoft-as-azure-solutions-specialist?_amp=true"
 type: article
 quality: 57
-heat: 279
+heat: 299
 published: true
 
 provider:
@@ -162,6 +162,15 @@ related:
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."
     publishedDateTime: 2021-05-18T15:33:00Z
     webUrl: "https://www.morningstar.com/news/pr-newswire/20210518sf62378/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 1
+  - title: "Fortanix Confidential Computing and Data Security Solutions Now Microsoft IP Co-sell Ready, Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Fortanix to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
+    publishedDateTime: 2021-05-24T08:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210524005079/fortanix-confidential-computing-and-data-security-solutions-now-microsoft-ip-co-sell-ready-available-in-the-microsoft-azure-marketplace"
     type: article
     provider:
       name: Morningstar, Inc.

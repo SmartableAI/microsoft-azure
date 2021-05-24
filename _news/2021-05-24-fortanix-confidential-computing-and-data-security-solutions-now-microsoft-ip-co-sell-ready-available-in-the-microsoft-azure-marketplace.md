@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Tesla Crashes Bitcoin, Microsoft Azure Ditches Blockchain And More In This Week’s Top News"
-excerpt: "Bitcoin peaked following this news. Elon Musk became a messiah for the crypto community. His tweets had the potential."
-publishedDateTime: 2021-05-16T04:30:00Z
-originalUrl: "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/"
-webUrl: "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/"
+title: "Fortanix Confidential Computing and Data Security Solutions Now Microsoft IP Co-sell Ready, Available in the Microsoft Azure Marketplace"
+excerpt: "Microsoft Azure customers worldwide now gain access to Fortanix to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
+publishedDateTime: 2021-05-24T08:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210524005079/fortanix-confidential-computing-and-data-security-solutions-now-microsoft-ip-co-sell-ready-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.morningstar.com/news/business-wire/20210524005079/fortanix-confidential-computing-and-data-security-solutions-now-microsoft-ip-co-sell-ready-available-in-the-microsoft-azure-marketplace"
 type: article
-quality: 44
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Analytics India Magazine
-  domain: analyticsindiamag.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
-  - Blockchain
-
-images:
-  - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/top-news-may-2021.jpg"
-    width: 1600
-    height: 900
-    isCached: true
+  - Security
 
 related:
   - title: "Matthews Joins Microsoft as Azure Solutions Specialist"
@@ -56,6 +50,20 @@ related:
       - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/shivir1-1621432680596.png "
         width: 800
         height: 400
+        isCached: true
+  - title: "Tesla Crashes Bitcoin, Microsoft Azure Ditches Blockchain And More In This Week’s Top News"
+    excerpt: "Bitcoin peaked following this news. Elon Musk became a messiah for the crypto community. His tweets had the potential."
+    publishedDateTime: 2021-05-16T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 44
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/top-news-may-2021.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "NHS Scotland’s track and trace system utilises Microsoft Azure"
     excerpt: "User information is fully encrypted in NHS Scotland's data lake and only available to contact tracers who have the right digital key."
@@ -168,16 +176,7 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 1
-  - title: "Fortanix Confidential Computing and Data Security Solutions Now Microsoft IP Co-sell Ready, Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Fortanix to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
-    publishedDateTime: 2021-05-24T08:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210524005079/fortanix-confidential-computing-and-data-security-solutions-now-microsoft-ip-co-sell-ready-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 1
 
-secured: "CRxvdx2GxLrDJn7B5hxEHGf5Pr8cOEBkSVlzn5QfE6FO7M9hqUWiVxVugGl/gyszsLLLfB8h7aVQP+YpUsNJwIi8FGvKN7Nz4cirFV2VsEk6Bp0ghKrmXs/mVh9reGQSyRLz5w9oQ4ZvRw+f9twg0ofBfF2TkPVaf0mv0FYfOpG4dc/qfNCT+0iIaexQ4jEMsIzJuR9J0vHfAWZIuNtMQOue+S/nGOXpfacmDoGIknvHcnnpAGOpDBwktl+prekn14KE4sMfR6e1lf42t3Q69zQqodmldtAjF/ZeD/KvRo9l4nyQEPu2fFHHsLYkACmyRs3kXx/pxUgxphJ6dIHJdij4XUUY5VxH9f1qddHcOvovxQ9mxftWh1ep3jgKv8ysVc0VFfaFtWHpBEH3NHxfrT15LaJ3MoQh+1sDDUkNUdUHOjpBDXF1C4FDMb8nk6roEBmFJCf5CoHIRswyQaih+QzdlGE+SkLB/8DneivHQ5yVhLx5uE0Uj3toWs4NGZ7aLIz6fsBG04rTzNvYCKKZHw==;nXUn2JHY4m4iGMiVZr4JXA=="
+secured: "AdqI5hU4hjrAqyWYIwD3y/9JLjp4KOWOeT86miB+Qk/xkaH8VCd2ZHuqJAOxCuMdPfm08zTUh4p2UxDo6F9xNdrvx1weePhfdR7KECNLP0YwHSkHRTmJBPkrOtqDVvhgWelR8zUovDed/6hiB3eRp9inUXWHZYHMODHBqT5meCmoBS2vQaXSTaglvshZIsjGzeKjvRGW07+0wXEOsTJV5TMcXOKQUwl6/xc+MSsM5dwMeudEwSrYFxfFQZ5jTyD4KctkW1IamTE3LWCZfXPaoP/1M4l4WNDA+W/gleInPFyK8sZoenwLbCfZQY2fIC2ddIGcqxSj83mV+OLPxUnWMfkmSbL5/SrZi/sjgP4MS1Q=;8xR04CG3zB1lLYKyjK0U8A=="
 ---
 
