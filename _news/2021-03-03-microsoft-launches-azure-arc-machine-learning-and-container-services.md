@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 129
-heat: 2469
+heat: 2489
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/20/95073367-3a24-4e17-8461-3e833f4f66e3/azurestackhybridignite.jpg"
         width: 980
         height: 597
+        isCached: true
+  - title: "Microsoft adds more services to its Azure Arc multi-cloud management stack"
+    excerpt: "Microsoft has launched a set of new Azure services that organizations can now run on any CNCF-conformant Kubernetes cluster using its Azure Arc multiple-cloud service. At its virtual Build 2021 event,"
+    publishedDateTime: 2021-05-25T18:53:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359669/microsoft-adds-more-services-to-its-azure-arc-multi-cloud-management"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359669/microsoft-adds-more-services-to-its-azure-arc-multi-cloud-management?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/359669/microsoft-adds-more-services-to-its-azure-arc-multi-cloud-management?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 95
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1581677441/itpro/Azure.jpg"
+        width: 1260
+        height: 710
         isCached: true
   - title: "VMware offers SD-WAN integration with Microsoft Azure Virtual WAN Hub"
     excerpt: "The integration is the latest piece of VMware's strong partnership with Microsoft, and it comes at a time when dispersed workforces are making WAN access more valuable"

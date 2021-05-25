@@ -254,6 +254,22 @@ related:
         width: 980
         height: 597
         isCached: true
+  - title: "Microsoft adds more services to its Azure Arc multi-cloud management stack"
+    excerpt: "Microsoft has launched a set of new Azure services that organizations can now run on any CNCF-conformant Kubernetes cluster using its Azure Arc multiple-cloud service. At its virtual Build 2021 event,"
+    publishedDateTime: 2021-05-25T18:53:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359669/microsoft-adds-more-services-to-its-azure-arc-multi-cloud-management"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359669/microsoft-adds-more-services-to-its-azure-arc-multi-cloud-management?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/359669/microsoft-adds-more-services-to-its-azure-arc-multi-cloud-management?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 95
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1581677441/itpro/Azure.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "VMware offers SD-WAN integration with Microsoft Azure Virtual WAN Hub"
     excerpt: "The integration is the latest piece of VMware's strong partnership with Microsoft, and it comes at a time when dispersed workforces are making WAN access more valuable"
     publishedDateTime: 2021-03-03T15:18:00Z

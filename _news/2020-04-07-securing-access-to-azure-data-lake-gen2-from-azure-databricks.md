@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-07T11:46:00Z
 webUrl: "https://medium.com/microsoftazure/securing-access-to-azure-data-lake-gen2-from-azure-databricks-8580ddcbdc6"
 type: article
 quality: 77
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Spot Virtual Machines are now generally available on Azure Databricks"
+    excerpt: "Access unused Azure compute capacity at discounted rates using Spot VMs on Azure Databricks"
+    publishedDateTime: 2021-05-25T18:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/spot-virtual-machines-are-now-generally-available-on-azure-databricks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "3rlOWwPCvjSrRWjcR/+8kt1kugwTpeugTBf/tIH1Z3+JJkSTbi/ZhgHWQwiLVeBqW52idobMAchpa6cMEHqyyeCYtrqvwLn718RqyyhzYLMyQEjOEr8kGknj+ocUkdlZkiykBa4ZS1o+aJjSEeQNXxPEwHQJS95L+JVzxKoUi2Tp379It4BM8vowSzXIDl+61YrVeqQUUZQulFpDrji4GXWXamUYsIoVYQku5sb49+Z1cz/CNODMLvtwcO0h8iE40I4GdQ5e91QuoeZznVIP3UxspFfHoTaZHwExYyCrPzyBlTLHbTw+hzal/G/2H+Ni;OuLfoSRCQCV4d/LxrNY5iw=="
 ---

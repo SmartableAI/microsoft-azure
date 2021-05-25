@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Public preview: Run App Service on Kubernetes or anywhere with Azure Arc"
-excerpt: "You can now run Web Apps against a range of fully managed App Service plans or choose to deploy against Azure Kubernetes Service or your own Kubernetes clusters connected through Azure Arc that are running on-premises, at the edge, or in other clouds."
-publishedDateTime: 2021-05-25T16:00:16Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-run-app-service-on-kubernetes-or-anywhere-with-azure-arc/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-run-app-service-on-kubernetes-or-anywhere-with-azure-arc/"
+title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
+publishedDateTime: 2021-05-25T18:08:00Z
+originalUrl: "https://www.bio-itworld.com/pressreleases/2021/05/25/sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure"
+webUrl: "https://www.bio-itworld.com/pressreleases/2021/05/25/sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure"
 type: article
-quality: 100
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Bio IT World
+  domain: bio-itworld.com
 
 topics:
   - Azure
-  - Compute
-  - Containers
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -56,6 +50,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Public preview: Run App Service on Kubernetes or anywhere with Azure Arc"
+    excerpt: "You can now run Web Apps against a range of fully managed App Service plans or choose to deploy against Azure Kubernetes Service or your own Kubernetes clusters connected through Azure Arc that are running on-premises, at the edge, or in other clouds."
+    publishedDateTime: 2021-05-25T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-run-app-service-on-kubernetes-or-anywhere-with-azure-arc/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 100
   - title: "Master Microsoft Azure with this prep courses and mock exams bundle"
     excerpt: "TL;DR: The Ultimate Microsoft Azure Administrator Bundle is on sale for £21.21 as of May 23, saving you 94% on list price. Just a few years ago, if you wanted an IT cloud systems expert position ..."
     publishedDateTime: 2021-05-23T04:42:00Z
@@ -435,15 +438,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
-    publishedDateTime: 2021-05-25T18:08:00Z
-    webUrl: "https://www.bio-itworld.com/pressreleases/2021/05/25/sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 13
   - title: "Governance experts Rencore and Alight partner to offer a complete governance solution for the Microsoft Cloud"
     excerpt: "Rencore, the provider of award-winning software essential for governing Microsoft 365, announced their partnership with Microsoft technology consultants Alight. The partnership combines Rencore's"
     publishedDateTime: 2021-05-18T13:00:00Z
@@ -500,6 +494,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "mrEL/YRwTlYr7mJoJMskzkMUFr2lxhdTORtLyc6bjMUPMii60F0apXC8wy2joTkhl9gHiqYQiyN9knB5mExttzTK8Sa5yn99tignSbgPjK95RH99+LkWAlnkMlVLN4zrDpxiArlRfoKEBpLVcMAAk8NBC7+VtHxYxsCblI0rDBD/uDBk0Sx/VCWe85Hu+5G4teW3bAV7Pps9INulLNAF2+uROTuKRvWNjRvdTtmJLLNEZjfwAvvUQm7DZego/7NX4M1Ikzrpk0O7+fxqgra0Mn8J9a1WCtx0uF7JzrK3RS8ndPYu2io4o96nJuvAh8AIY5dCfAWg34q5owSdMEdXf6j1SHdurE1V/kAAtAgdIF0=;b1Srs5xHgnd9vohbxYCnug=="
+secured: "lGzXH/I5V64VvV3itAnyo9kCdWhsMT65cLJWKdkAimr3vpehA2XFeMUnPM8T9G8dtMEDCXDJ7hmhcnfKwqdQsTUW1Jjp/I/Qx4kBrayDHGn9tZCcGSE4WW+fEmx6ZyAUwggsTVCJXF2ocWwp+syWW7wlpLbP+7dsfy18909iDn/uFpzkmDLzQkNxSA18ysiic/HaPmPzeuZklkOS+Gb2tyd2btTBgSU99cF4e0fwjL9/d6p6G0aL3PNZDXFYpld08q7o5PwQQJW4WyFLxKfIEAAkEqZNCw9aBfyBUU+aKvlmErlmMU4Xq5gLawEHNFaV7lLMrOWDDX8qa+r8eoC9dGD9I1jPwjSnIaDvkcBEST8=;mj5CpoHc5+P9BuKHpsYsKA=="
 ---
 

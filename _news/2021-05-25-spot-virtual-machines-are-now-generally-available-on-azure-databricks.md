@@ -1,12 +1,12 @@
 ---
 category: news
-title: "5 reasons Databricks runs best on Azure"
-excerpt: "For any organization running big data workloads in the cloud, exceptional scale, performance, and optimization are essential. Databricks customers have multiple choices for their cloud destination. Azure Databricks is the only first-party service offering for Databricks, which provides customers with"
-publishedDateTime: 2021-03-25T07:00:31Z
-originalUrl: "https://azure.microsoft.com/blog/5-reasons-databricks-runs-best-on-azure/"
-webUrl: "https://azure.microsoft.com/blog/5-reasons-databricks-runs-best-on-azure/"
+title: "Spot Virtual Machines are now generally available on Azure Databricks"
+excerpt: "Access unused Azure compute capacity at discounted rates using Spot VMs on Azure Databricks"
+publishedDateTime: 2021-05-25T18:00:16Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/spot-virtual-machines-are-now-generally-available-on-azure-databricks/"
+webUrl: "https://azure.microsoft.com/en-us/updates/spot-virtual-machines-are-now-generally-available-on-azure-databricks/"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Analytics
 
 related:
   - title: "Securing access to Azure Data Lake gen2 from Azure Databricks"
@@ -46,16 +45,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Spot Virtual Machines are now generally available on Azure Databricks"
-    excerpt: "Access unused Azure compute capacity at discounted rates using Spot VMs on Azure Databricks"
-    publishedDateTime: 2021-05-25T18:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/spot-virtual-machines-are-now-generally-available-on-azure-databricks/"
+  - title: "5 reasons Databricks runs best on Azure"
+    excerpt: "For any organization running big data workloads in the cloud, exceptional scale, performance, and optimization are essential. Databricks customers have multiple choices for their cloud destination. Azure Databricks is the only first-party service offering for Databricks, which provides customers with"
+    publishedDateTime: 2021-03-25T07:00:31Z
+    webUrl: "https://azure.microsoft.com/blog/5-reasons-databricks-runs-best-on-azure/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 69
 
-secured: "SSLdHEBcuHsWMnUWWt53EvZ5sxLGZEql3/PAGCzl9ZCX6aPIFvPdeBbV4+pc+uVDouIfirc/cvohWftvxiKPgeTMi4DfjtzN4RHHkq3NRN48ujdyIv1cO7KC4/JpzUeFVEazk9XbcMgBIU587elRf6mbpHBG2IM+UmtEL2PuUxrJ5KJ3VxKl/XG2Nn/njKVf8R3GKybHtIz0tQj+HOn8681VMQf0gChOzZ5ncXv25ltjTxztw18ih8JOdSvAtpD6mbe+w5jb1mOCX/ZcI3mtEUKqYMd4CG6Cx7agl/kltoRUhOftYK3oGYScLOvcpUMC8KVH7/Js5kY2kRnNizrXfKvuImkY/NITFBRh9EeEA30=;IMv+9F+b1Xewe7uU4ooCzw=="
+secured: "MmP9r7/pTeqHxihQKVFLUhEc9u/fC9MjTvc//Z0GUTLkM+Y1syl2argr+Qd8SXRngLOusq7BJs32arcsHSwKCzf6cDY4HIt9VLXOziWgc5GmqVTrptcZdcnBxAnGKCI/Es8rKNfvCjvIB60QVzSdBdig5V9FfAbm9mPBxqwBza6GQBoIG7mQHwQWihsauDTgPR5AndobDWMfB67uLryxLq0U+j4Nl8q6qwUAVCC09HvyFxzJluXWpJnpHbxLB1Z2fhwiCHInnR6uO8R11Qw9Z9HINcvzWbK70MAY33a67Y2kokFfcUZn6UP6QDfNbTAphK/fCjEU8rTSYACO4I4Fq50cZH94mdhU/xdKae6Lx5M=;orQ8KTjG8U5cIpUoCd/dSg=="
 ---
 

@@ -46,6 +46,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Spot Virtual Machines are now generally available on Azure Databricks"
+    excerpt: "Access unused Azure compute capacity at discounted rates using Spot VMs on Azure Databricks"
+    publishedDateTime: 2021-05-25T18:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/spot-virtual-machines-are-now-generally-available-on-azure-databricks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "3fKWX+afk/mjzeNPz7pLxrzYzhGKmQsOE29BnazIih3+3mDQFhccPS4qz27994UAY48uvU4rFpNvhldY2FMgWGFQ5y2SECUXuzCZR+fsba9ku9KGelIG4SPjh+P/zEy5iSdkuaWmM/8JSucwkc5I//0WoGZrODFb6P3Jyf6AlNd/CMx4G8URxNnEsvpxsM3WGNHxFwUBVZn5FaFKQSw5y6GCJdmvzaWSPza1tBWsxEnAkgQWQtLi0ruIUCVcSn+tV5+D+HIUfcUcouqkSQdW+B3vpE4wDoHtZpmSjG84FK5Wg1/uHlaFPOND791rkS8LI4cal8aLyoorDtXae5FdPSmlT2J13+csy+zLJgS4DKo=;KzEyG9POShtjhtd5pUVbjA=="
 ---

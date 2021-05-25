@@ -26,13 +26,13 @@ topics:
 
 related:
   - title: "Red Hat Brings JBoss Enterprise Application Platform to Microsoft Azure, Easing Shift to the Cloud for Traditional Java Applications"
-    excerpt: "Offering enables the migration of Java applications to cloud environments Red Hat, Inc., the world's leading provider of open source solutions, today announced Red Hat JBoss Enterprise Application Platform (JBoss EAP) on Microsoft Azure,"
-    publishedDateTime: 2021-05-25T10:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210525005305/red-hat-brings-jboss-enterprise-application-platform-to-microsoft-azure-easing-shift-to-the-cloud-for-traditional-java-applications"
+    excerpt: "Inc., the world's leading provider of open source solutions, today announced Red Hat JBoss Enterprise Application Platform (JBoss EAP) on Microsoft Azure, enabling organizations to tap into the benefits of a cloud-based architecture for modernizing their existing Jakarta EE (previously Java EE) applications and building new ones on Azure."
+    publishedDateTime: 2021-05-25T15:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9377449.htm"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "FBaxXwSmxbmWTaY3b1B/ch+0aWL5xBUPtiuA+9z2fVBJhkTzaAQam6gLdNXVDejcfj+/aNUQzfo68fJ1zgMaq1cTb646qW8vp6sQ9PvtSCCr3xNa4EHGb2j991no8nCyJdF1wr0qvzTo5s8+6RQViDp0YyfEUMwAKxmr9pXSZgZUII8J6urrqJnLWpbgK6eUkQqsrOic3iANOmWe/5Wf+af5mSxTYbQZmaAAzQOauVrMNs6DC/DhuBwcutJoU47xm+N2TuoS30NM9eTA9p/6t24E0GqFsqJHT1MkDpIhE6BTtdW5zziQdUkPi9J8hVSlXd4pB02Msv/9TVQ4KQxLMAY24oxAu1Wi8jGJDaR6RJi4eC8Uta68A+Y12AIWNZaeHs/XPUQqTbQvdXOKkUBs3fECPHuZo+0YT9ZgQQ5BKAbED+0KKzs+FHoJYWKOMNOfmhqR0dZvuZ4mpKzuTH7eG5SCdN9XsPGSCqwbMDdWjpSsriu+dV4gKxG8uWKkdR4TjIAmrtqImSZfAwFl0V2KWA==;MgFQ8TmhbxNp8gFRkUlLzg=="

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Public preview: Run App Service on Kubernetes or anywhere with Azure Arc"
-excerpt: "You can now run Web Apps against a range of fully managed App Service plans or choose to deploy against Azure Kubernetes Service or your own Kubernetes clusters connected through Azure Arc that are running on-premises, at the edge, or in other clouds."
-publishedDateTime: 2021-05-25T16:00:16Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-run-app-service-on-kubernetes-or-anywhere-with-azure-arc/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-run-app-service-on-kubernetes-or-anywhere-with-azure-arc/"
+title: "Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
+excerpt: "Banks, Digital Lenders, and Wealth Management Firms Can Now Acquire Industry-Leading Glance for Financial Services Guided CX Offering Through the Azure Marketplace WAKEFIELD, MA / ACCESSWIRE / May 25,"
+publishedDateTime: 2021-05-25T17:00:00Z
+originalUrl: "https://www.pr-inside.com/glance-signs-isv-partner-agreement-for-microsoft-azure-marketplace-r4831717.htm"
+webUrl: "https://www.pr-inside.com/glance-signs-isv-partner-agreement-for-microsoft-azure-marketplace-r4831717.htm"
 type: article
-quality: 100
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR-Inside
+  domain: pr-inside.com
 
 topics:
   - Azure
-  - Compute
-  - Containers
+
+images:
+  - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Public preview: Run App Service on Kubernetes or anywhere with Azure Arc"
+    excerpt: "You can now run Web Apps against a range of fully managed App Service plans or choose to deploy against Azure Kubernetes Service or your own Kubernetes clusters connected through Azure Arc that are running on-premises, at the edge, or in other clouds."
+    publishedDateTime: 2021-05-25T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-run-app-service-on-kubernetes-or-anywhere-with-azure-arc/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 100
   - title: "Master Microsoft Azure with this prep courses and mock exams bundle"
     excerpt: "TL;DR: The Ultimate Microsoft Azure Administrator Bundle is on sale for £21.21 as of May 23, saving you 94% on list price. Just a few years ago, if you wanted an IT cloud systems expert position ..."
     publishedDateTime: 2021-05-23T04:42:00Z
@@ -319,20 +328,6 @@ related:
         width: 500
         height: 375
         isCached: true
-  - title: "Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
-    excerpt: "Banks, Digital Lenders, and Wealth Management Firms Can Now Acquire Industry-Leading Glance for Financial Services Guided CX Offering Through the Azure Marketplace WAKEFIELD, MA / ACCESSWIRE / May 25,"
-    publishedDateTime: 2021-05-25T17:00:00Z
-    webUrl: "https://www.pr-inside.com/glance-signs-isv-partner-agreement-for-microsoft-azure-marketplace-r4831717.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 37
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Principled Technologies Releases Study Comparing Performance of Kubernetes Clusters Running on Microsoft Azure..."
     excerpt: "Newer D- and E-series VMs with Intel Xeon Cascade Lake processors supported more users than older VMs enabled by previous-generation Intel Xeon processors."
     publishedDateTime: 2021-04-30T07:01:00Z
@@ -500,6 +495,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "mrEL/YRwTlYr7mJoJMskzkMUFr2lxhdTORtLyc6bjMUPMii60F0apXC8wy2joTkhl9gHiqYQiyN9knB5mExttzTK8Sa5yn99tignSbgPjK95RH99+LkWAlnkMlVLN4zrDpxiArlRfoKEBpLVcMAAk8NBC7+VtHxYxsCblI0rDBD/uDBk0Sx/VCWe85Hu+5G4teW3bAV7Pps9INulLNAF2+uROTuKRvWNjRvdTtmJLLNEZjfwAvvUQm7DZego/7NX4M1Ikzrpk0O7+fxqgra0Mn8J9a1WCtx0uF7JzrK3RS8ndPYu2io4o96nJuvAh8AIY5dCfAWg34q5owSdMEdXf6j1SHdurE1V/kAAtAgdIF0=;b1Srs5xHgnd9vohbxYCnug=="
+secured: "zVCEnmq5Ty5LT5IuipdXEyK6XYisiPh3oPGgvXurCNmPtolZuwMy9joaG79uUbwIYrVBBC4sS1NydKVrVYI8uviq1Pkb8c07mn2jyzQVlhRWTG65hIrzH28VwQmPMFQGbe0jwPd9Bu0lKxWlBpGozkqBrZ7p2uNcaE1I+YWWBQTAPV6/nA7KqNcpCyEdE9UBas3IIvfwzjMIYc2DeJH5qQ+8zchxz2xe9MoX/NDSNH+C1inm4+0iMC1tHgIVAgN1WjIoTcpXtkxlq7Fo8cuUbIj0kmNYTN1Nw8bpvjSSl8dDO7rixHAM8JkBMpYhnHKHMKW6u4UmwWeLGG49Q8D2jtVXTHZfM1YqgM/rjfBnN3s=;uTGYyd84ijzIwypbHE9VsQ=="
 ---
 

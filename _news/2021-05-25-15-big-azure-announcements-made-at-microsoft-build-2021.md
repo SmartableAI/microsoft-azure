@@ -3,8 +3,8 @@ category: news
 title: "15 Big Azure Announcements Made At Microsoft Build 2021"
 excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
 publishedDateTime: 2021-05-25T15:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/7"
+webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/7"
 type: article
 quality: 37
 heat: -1
@@ -167,10 +167,10 @@ related:
     quality: 84
   - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
     excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
-    publishedDateTime: 2021-05-21T21:40:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+    publishedDateTime: 2021-05-21T23:03:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/18502/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
     type: article
     provider:
       name: ZDNet
@@ -248,18 +248,18 @@ related:
         height: 720
         isCached: true
   - title: "3Cloud Partners with Databricks to Help Companies Build Modern Data + AI Platforms in Microsoft Azure"
-    excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to"
+    excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value by"
     publishedDateTime: 2021-05-25T15:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/3cloud-partners-with-databricks-to-help-companies-build-modern-data--ai-platforms-in-microsoft-azure-301298982.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/3cloud-partners-with-databricks-to-help-companies-build-modern-data-ai-platforms-in-microsoft-azure/article_2ccbb6d3-dd87-5a73-9562-be208df5bd3b.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/1518026/Databricks_Partner_Award_Rising_Star_3Cloud.jpg?p=facebook"
-        width: 2699
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/ad/cad42c19-020e-580f-b646-2286a31c0b26/60ad1c0bd2933.image.jpg?resize=1119%2C630"
+        width: 1119
+        height: 630
         isCached: true
   - title: "Microsoft beefs up Azure’s Kubernetes features and Red Hat integrations"
     excerpt: "Microsoft Corp. today introduced two updates for Azure, one focused on its managed Kubernetes service and another on Red Hat workloads, that should allow the cloud platform to better accommodate enterprises running a variety of different application types."
@@ -313,6 +313,20 @@ related:
       - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
         width: 600
         height: 600
+        isCached: true
+  - title: "Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
+    excerpt: "Banks, Digital Lenders, and Wealth Management Firms Can Now Acquire Industry-Leading Glance for Financial Services Guided CX Offering Through the Azure Marketplace WAKEFIELD, MA / ACCESSWIRE / May 25,"
+    publishedDateTime: 2021-05-25T17:00:00Z
+    webUrl: "https://www.pr-inside.com/glance-signs-isv-partner-agreement-for-microsoft-azure-marketplace-r4831717.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 37
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Principled Technologies Releases Study Comparing Performance of Kubernetes Clusters Running on Microsoft Azure..."
     excerpt: "Newer D- and E-series VMs with Intel Xeon Cascade Lake processors supported more users than older VMs enabled by previous-generation Intel Xeon processors."
@@ -416,6 +430,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
+    publishedDateTime: 2021-05-25T18:08:00Z
+    webUrl: "https://www.bio-itworld.com/pressreleases/2021/05/25/sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 13
   - title: "Governance experts Rencore and Alight partner to offer a complete governance solution for the Microsoft Cloud"
     excerpt: "Rencore, the provider of award-winning software essential for governing Microsoft 365, announced their partnership with Microsoft technology consultants Alight. The partnership combines Rencore's"
     publishedDateTime: 2021-05-18T13:00:00Z
@@ -472,6 +495,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "MjkgcWq+qVrRtVUwnV3LvNJT8Q3cpR2SjWMBXLNAB0Bh40S9LTIz2lSeIF0i+g69pktXDoP14kB3bAkcKWYdkJkbjEz/wUrFGgefNiJG5g9FrNI9ZIJfagAzzYpi2XuHyx7odvotOe6X1m2PgSiBptMm7r3UH0Rj2Rv1zZMdbf1lEkhGyRHOqO1Dx2pUhvspbxaJiSRDLz9Zpb1EyBLZnZ91P/O1sDF8OMuRudvVdRHnrmTWNVlaaf6rThnYVSAZh3lSNw6L5zborWS03L55hCL41gHxCMdijsYyKpgUstou8VHs4YUhtsJnaoJBoQZh7KEBABdo6AuQA2ot5HqwCx56N2FGUZHk0+NG3zSjyncS0JTWTQkpwtB2yXEsyFYTbvlHtRqsdKD3HSD4H6RBrsj+NM9hydUtCdI7VC3inrcmeBl82iKaTXobagihb+pJ563rUeXc8ODhnihI+rc5DLKLiK3m3dVyGC2MkEtxP8jgwxfuFSsNfR2hcc58hsfFq+oNwVbhz2LqAt77KHR5HA==;uR/ieqgUPzp1rlmsYrp38A=="
+secured: "nhP9Q/YE/aqlT2g//ySeBPP1zl2hN9A5oSLUWUVmLp4clI1JQZfyNAQNbgKZdVopsoKfalsn9SIBULyCIibB7WRbTjh+x6P3NUS6ConClZXBs0Glam2NP8hNao6Cso9oUqGAGmJsG9ZtPkSp4yq0/aM2U9l+Y6Cc6BvFvMQMH0CfiL5old6Z4VujSqBwnUnAYq9sM6ZaDf4JhkyzApIU66o50bKkZiMd+KRXSluJ1bVpi94ccFD2fgmao1OtRUp86/COFrTC+ofoaaN+8fGPD6q371CvvIKT8cp54MIhkXvT3TUqmRdT38P/Mmv7jToSYp+dFRvzRFfO+YPkdbWk6PPh1bYWGce3HLSXd3k5g/k=;V8C23dAC7Eeg+H1h5zlp8g=="
 ---
 

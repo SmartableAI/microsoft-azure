@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Smile CDR Now Available Worldwide in the Microsoft Azure Marketplace"
-excerpt: "Smile CDR, an enterprise-class FHIR-based data platform that solves persistent healthcare data collection and sharing challenges, today announced the availability of its solution on Microsoft Marketplace,"
-publishedDateTime: 2021-02-25T14:21:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-32b700eb75c66e06ea5123104fe0a2f6"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-32b700eb75c66e06ea5123104fe0a2f6"
+title: "Microsoft adds more services to its Azure Arc multi-cloud management stack"
+excerpt: "Microsoft has launched a set of new Azure services that organizations can now run on any CNCF-conformant Kubernetes cluster using its Azure Arc multiple-cloud service. At its virtual Build 2021 event,"
+publishedDateTime: 2021-05-25T18:53:00Z
+originalUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359669/microsoft-adds-more-services-to-its-azure-arc-multi-cloud-management"
+webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359669/microsoft-adds-more-services-to-its-azure-arc-multi-cloud-management"
+ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359669/microsoft-adds-more-services-to-its-azure-arc-multi-cloud-management?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/359669/microsoft-adds-more-services-to-its-azure-arc-multi-cloud-management?amp"
 type: article
-quality: 37
+quality: 95
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1581677441/itpro/Azure.jpg"
+    width: 1260
+    height: 710
     isCached: true
 
 related:
@@ -247,22 +253,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/20/95073367-3a24-4e17-8461-3e833f4f66e3/azurestackhybridignite.jpg"
         width: 980
         height: 597
-        isCached: true
-  - title: "Microsoft adds more services to its Azure Arc multi-cloud management stack"
-    excerpt: "Microsoft has launched a set of new Azure services that organizations can now run on any CNCF-conformant Kubernetes cluster using its Azure Arc multiple-cloud service. At its virtual Build 2021 event,"
-    publishedDateTime: 2021-05-25T18:53:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359669/microsoft-adds-more-services-to-its-azure-arc-multi-cloud-management"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359669/microsoft-adds-more-services-to-its-azure-arc-multi-cloud-management?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/359669/microsoft-adds-more-services-to-its-azure-arc-multi-cloud-management?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 95
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1581677441/itpro/Azure.jpg"
-        width: 1260
-        height: 710
         isCached: true
   - title: "VMware offers SD-WAN integration with Microsoft Azure Virtual WAN Hub"
     excerpt: "The integration is the latest piece of VMware's strong partnership with Microsoft, and it comes at a time when dispersed workforces are making WAN access more valuable"
@@ -1069,6 +1059,20 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Smile CDR Now Available Worldwide in the Microsoft Azure Marketplace"
+    excerpt: "Smile CDR, an enterprise-class FHIR-based data platform that solves persistent healthcare data collection and sharing challenges, today announced the availability of its solution on Microsoft Marketplace,"
+    publishedDateTime: 2021-02-25T14:21:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-32b700eb75c66e06ea5123104fe0a2f6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
     excerpt: "Microsoft Azure revenue grew 50% year-over-year in fiscal Q2, 2021, contributing to a 26% increase in Server products and cloud services revenue. According to the latest earnings call, more than 1,000 Microsoft customers now use Azure Arc to simplify ..."
     publishedDateTime: 2021-02-26T00:00:00Z
@@ -1642,6 +1646,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "jf4UemOYMDlCZ25QeUGgqhGN+QtKLYjJgzmynmYZ7XwhHC0UGlbrDw9VYcR79B6AJaWs6Rnj0tLa/LWGw8ydy4ZRyom9qSVttu6BS6qp5d4CWTJf7SPthXJIp9Oy+EjGRhabv2UwcQtbECseXTdw9EiYCs8c9tH4B7SSGZO0YdPBzzgbaamYze8W+qtQ1JT/P5JheMSnSn8HV7pzbekkM3WovhqM/CE3M4qXhGJ535TGmZv+uGzMwVmqDq36fcl1GCjuKgq/BLsori+QTWtRwqwMazpG9AzsEIwiIS30N2naI+McazTVHhHAhgWRt3uHKi30qncMBFbOnNaBKoHQTaMQuAyu8/HLha6x2oS1EJQ=;bsfwwXl46JZw1VF5eGMhGA=="
+secured: "r/l0x8pFV78arkagaSbkxQl91OwtNU9b4MrlnFzJxfgQPQuq5Ms8L0QrXEu4NTbCxFydQNhtFenWcrg7aI2OAKf6YfioymuG0Sk1Ttov+L5TU3T1/5jcm8xKTvPuogfHVMA7tmORGzPp+W9Ho5hvRquW35HjVg/E4MrcFpnTLEoEcbU2AKIgpGNMOLZbqjveX2bQI3SlWVslFTUJtR2H2GEdgD4ZU8VgOmKvHNj5/bjSCU5k6pt2LklOeHO3J0MKX1raTxohx6ai22cXKn2Ngw59xraIIJTIX2+PsXW0nlt9Crcl7jBMrEHO17DNgWf20wAF7AwiZXGAEoag7pXuaIhvADDgqm62EdtjgURz+Ec=;XybPb1l2Pj++BvbNtOQvNg=="
 ---
 

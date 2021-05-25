@@ -249,6 +249,22 @@ related:
         width: 980
         height: 597
         isCached: true
+  - title: "Microsoft adds more services to its Azure Arc multi-cloud management stack"
+    excerpt: "Microsoft has launched a set of new Azure services that organizations can now run on any CNCF-conformant Kubernetes cluster using its Azure Arc multiple-cloud service. At its virtual Build 2021 event,"
+    publishedDateTime: 2021-05-25T18:53:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359669/microsoft-adds-more-services-to-its-azure-arc-multi-cloud-management"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359669/microsoft-adds-more-services-to-its-azure-arc-multi-cloud-management?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/359669/microsoft-adds-more-services-to-its-azure-arc-multi-cloud-management?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 95
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1581677441/itpro/Azure.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Microsoft Azure updates allow businesses to maximize the potential of hybrid cloud"
     excerpt: "Microsoft today announced new capabilities for its Azure Arc service that will make it useful for what it hopes are a wide number of various cloud computing use cases. Azure Arc allows users to manage their servers and Kubernetes clusters across on-premises,"
     publishedDateTime: 2021-03-02T16:48:00Z
