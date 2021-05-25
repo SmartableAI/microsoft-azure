@@ -48,6 +48,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "43mYpJl3Ex8/Zk7R4i+JK44jF4lBxXo+oXm9XyAHsJPqSytOZDWyFWWPoR3wHC21yERtAsoWRGx/9a/gJw5buZwvt/hxgOcRox26X6VVWAOOMKwRqNdb+FzHklRN8obvyGcsC+XkO4eLluCjO4oJ0WDD1IoAsehSRXM+vTntrDxStWSL0lV+OWLl2dg8O363ubhGUwKhEs5dgkU/msBctR+ZAcHsKj4gqrxsspfPGdYBoC5zq16503yfaMUhCfMpYR8erq4fiVdrbvCI04wqtQ+66qfl+lztH6k5BJNWDd85U06bJVfZKOdm+O1c0HIKYppTh0v9EMXqoBgXGRXaVkF74n+3A/pAsL/dTQohfJw=;/Rql7SDAT221wvu3w8MNFw=="
+secured: "ErQMCyp/LpqnLr84mITnmOSZJgfsL66nY8JH2XiaRvcg3KRJJ0zcnBOL3rw0bUnfyALkf8nVl1/yRsadGhMDRgUzeff6r0r4coZ1b+JB9LeZ5P+ZK/HFcxKY/F/AtIm8to1IQDas4xCqPn4qMfYGJaHhJB72KF2n1s6G+iYz7odFZtqB3T+gf1KiEQC7mAh9vtr7vLyHgqskNG6x0/x6QWTnMJCFr4hW8kVLUJWChumH6nqLZJwsX/slv7vyzRnXV6rhCCN11eADaOhI8Mb7MGVFmTBWYS2BPVxv5VhUraqVbclIbVJEHTcExnOvE8V53pQ2gM0Y4tNJI3Fi4mwKjrlvj6pPLXJOqB6GiOXkKTI=;Dfats2tkXc2folF5RRXnRA=="
 ---
 
