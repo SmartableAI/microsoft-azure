@@ -4,6 +4,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
+      "title": "Explore Azure database and analytics services",
+      "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 14371,
+        "average": 4.728481
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Analytics",
+        "AI",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-introduction-to-azure-search.md",
       "title": "Introduction to Azure Cognitive Search",
       "excerpt": "Explore Azure Cognitive Search to discover how to create an index, import data, and query the index for better search results.",
@@ -11,8 +57,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-search/",
       "length": "PT53M",
       "ratings": {
-        "count": 242,
-        "average": 4.607438
+        "count": 246,
+        "average": 4.613821
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -55,8 +101,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
       "length": "PT49M",
       "ratings": {
-        "count": 1172,
-        "average": 4.7414675
+        "count": 1197,
+        "average": 4.744361
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -98,8 +144,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-chat-bot-azure-portal/",
       "length": "PT20M",
       "ratings": {
-        "count": 80,
-        "average": 4.7375
+        "count": 93,
+        "average": 4.774194
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -142,8 +188,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 3503,
-        "average": 4.7170997
+        "count": 3704,
+        "average": 4.7046437
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -228,8 +274,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-query-delta-lake/",
       "length": "PT43M",
       "ratings": {
-        "count": 204,
-        "average": 4.6666665
+        "count": 210,
+        "average": 4.6761904
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -272,8 +318,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-text-with-azure-content-moderator/",
       "length": "PT31M",
       "ratings": {
-        "count": 2049,
-        "average": 4.6612983
+        "count": 2081,
+        "average": 4.6665063
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -316,8 +362,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 1241,
-        "average": 4.7252216
+        "count": 1369,
+        "average": 4.706355
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -359,8 +405,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/",
       "length": "PT37M",
       "ratings": {
-        "count": 1567,
-        "average": 4.666879
+        "count": 1582,
+        "average": 4.669406
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -395,8 +441,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1773,
-        "average": 4.6288776
+        "count": 1807,
+        "average": 4.6330934
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -483,8 +529,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
       "length": "PT54M",
       "ratings": {
-        "count": 1902,
-        "average": 4.66877
+        "count": 1934,
+        "average": 4.67425
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -527,8 +573,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-cognitive-search-solution/",
       "length": "PT46M",
       "ratings": {
-        "count": 58,
-        "average": 4.8448277
+        "count": 70,
+        "average": 4.8428574
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -572,8 +618,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-bot-with-bot-framework-composer/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 76,
-        "average": 4.6973686
+        "count": 85,
+        "average": 4.7294116
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -615,8 +661,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-computer-vision-service-to-classify-images/",
       "length": "PT32M",
       "ratings": {
-        "count": 1476,
-        "average": 4.6544714
+        "count": 1492,
+        "average": 4.656166
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -651,8 +697,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-enrichment-pipeline-azure-cognitive-search/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 41,
-        "average": 4.707317
+        "count": 56,
+        "average": 4.785714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -698,8 +744,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-knowledge-store-azure-cognitive-search/",
       "length": "PT48M",
       "ratings": {
-        "count": 52,
-        "average": 4.75
+        "count": 61,
+        "average": 4.7868853
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -743,8 +789,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 1156,
-        "average": 4.779412
+        "count": 1271,
+        "average": 4.758458
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -830,8 +876,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-cognitive-services/",
       "length": "PT44M",
       "ratings": {
-        "count": 38,
-        "average": 4.6842103
+        "count": 40,
+        "average": 4.7
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -874,8 +920,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/",
       "length": "PT55M",
       "ratings": {
-        "count": 892,
-        "average": 4.6737666
+        "count": 906,
+        "average": 4.669978
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -909,8 +955,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/",
       "length": "PT33M",
       "ratings": {
-        "count": 200,
-        "average": 4.56
+        "count": 207,
+        "average": 4.574879
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1035,8 +1081,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deep-learning-with-horovod-distributed-training/",
       "length": "PT36M",
       "ratings": {
-        "count": 48,
-        "average": 4.4166665
+        "count": 51,
+        "average": 4.45098
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1079,8 +1125,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/",
       "length": "PT44M",
       "ratings": {
-        "count": 606,
-        "average": 4.7161717
+        "count": 619,
+        "average": 4.7124395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1123,8 +1169,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connecting-iot-devices-cognitive-services-azure-functions/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 120,
-        "average": 4.525
+        "count": 134,
+        "average": 4.5597014
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1168,8 +1214,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-best-practices/",
       "length": "PT38M",
       "ratings": {
-        "count": 174,
-        "average": 4.7356324
+        "count": 180,
+        "average": 4.7444444
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1212,8 +1258,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-delta-lake-architecture/",
       "length": "PT33M",
       "ratings": {
-        "count": 166,
-        "average": 4.572289
+        "count": 178,
+        "average": 4.601124
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1234,50 +1280,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-delta-lake-architecture-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-describe-azure-databricks.md",
-      "title": "Describe Azure Databricks",
-      "excerpt": "Describe Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 849,
-        "average": 4.540636
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
           "width": 640,
           "height": 320,
           "isCached": true

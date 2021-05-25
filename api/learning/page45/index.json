@@ -4,48 +4,6 @@
   "page": 45,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-support-hybrid-clouds.md",
-      "title": "Support data classification with private and hybrid clouds",
-      "excerpt": "Discussion of the private and hybrid cloud solutions for government customers to enforce data sovereignty, meet compliance requirements, and protect sensitive data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-support-hybrid-clouds/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/support-hybrid-clouds/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 3,
-        "average": 4.6666665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-survey-components-of-azure-synapse-analytics.md",
       "title": "Survey the Components of Azure Synapse Analytics",
       "excerpt": "Survey the Components of Azure Synapse Analytics",
@@ -53,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-components-of-azure-synapse-analytics/",
       "length": "PT1H5M",
       "ratings": {
-        "count": 103,
-        "average": 4.5436893
+        "count": 114,
+        "average": 4.5350876
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -96,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
       "length": "PT58M",
       "ratings": {
-        "count": 5745,
-        "average": 4.6962576
+        "count": 5864,
+        "average": 4.6988406
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -139,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/",
       "length": "PT33M",
       "ratings": {
-        "count": 122,
-        "average": 4.795082
+        "count": 130,
+        "average": 4.8076925
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -296,8 +254,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/threat-response-sentinel-playbooks/",
       "length": "PT52M",
       "ratings": {
-        "count": 81,
-        "average": 4.740741
+        "count": 7,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -338,8 +296,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
       "length": "PT8M",
       "ratings": {
-        "count": 315,
-        "average": 4.730159
+        "count": 322,
+        "average": 4.726708
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -382,8 +340,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
       "length": "PT42M",
       "ratings": {
-        "count": 365,
-        "average": 4.7260275
+        "count": 380,
+        "average": 4.726316
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -426,8 +384,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
       "length": "PT27M",
       "ratings": {
-        "count": 545,
-        "average": 4.7394495
+        "count": 567,
+        "average": 4.740741
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -463,6 +421,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-tm-prioritize-your-issues-and-apply-security-controls.md",
+      "title": "Prioritize your issues and apply security controls",
+      "excerpt": "Threat modeling provides you with a list of threats and ways to reduce or eliminate risk, but it doesn't prioritize them for you. Also, there are no layered security control recommendations based on their type and function.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-prioritize-your-issues-and-apply-security-controls/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-prioritize-your-issues-and-apply-security-controls/",
+      "length": "PT14M",
+      "ratings": {
+        "count": 291,
+        "average": 4.7250857
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/prioritize-your-issues-and-apply-security-controls-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer.md",
       "title": "Provide context with the right depth layer",
       "excerpt": "Threat models can get complex if all parties involved cannot agree on a data-flow diagram depth layer that provides enough context to satisfy requirements",
@@ -470,8 +472,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
       "length": "PT26M",
       "ratings": {
-        "count": 296,
-        "average": 4.7466216
+        "count": 304,
+        "average": 4.7401314
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -506,8 +508,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk/",
       "length": "PT57M",
       "ratings": {
-        "count": 262,
-        "average": 4.7137403
+        "count": 266,
+        "average": 4.7105265
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -550,8 +552,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-use-recommended-tools-to-create-a-data-flow-diagram/",
       "length": "PT18M",
       "ratings": {
-        "count": 294,
-        "average": 4.7040815
+        "count": 302,
+        "average": 4.6986756
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -594,8 +596,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
       "length": "PT45M",
       "ratings": {
-        "count": 7598,
-        "average": 4.672677
+        "count": 7664,
+        "average": 4.6737995
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -629,8 +631,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 53275,
-        "average": 4.7106333
+        "count": 23,
+        "average": 4.869565
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -665,8 +667,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
       "length": "PT40M",
       "ratings": {
-        "count": 3,
-        "average": 4.6666665
+        "count": 27,
+        "average": 4.4444447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -708,8 +710,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-machine-learning-model/",
       "length": "PT53M",
       "ratings": {
-        "count": 50,
-        "average": 4.82
+        "count": 53,
+        "average": 4.8301888
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -752,8 +754,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-package-module-iot-edge/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 218,
-        "average": 4.472477
+        "count": 235,
+        "average": 4.510638
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -796,8 +798,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
       "length": "PT27M",
       "ratings": {
-        "count": 676,
-        "average": 4.724852
+        "count": 723,
+        "average": 4.7316737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -882,8 +884,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transform-data-with-dataframes-apache-spark-pools-azure-synapse-analytics/",
       "length": "PT29M",
       "ratings": {
-        "count": 39,
-        "average": 4.6923075
+        "count": 46,
+        "average": 4.7391305
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -925,8 +927,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
       "length": "PT18M",
       "ratings": {
-        "count": 656,
-        "average": 4.702744
+        "count": 709,
+        "average": 4.7150917
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -968,8 +970,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 878,
-        "average": 4.712984
+        "count": 964,
+        "average": 4.69917
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1056,8 +1058,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "PT37M",
       "ratings": {
-        "count": 3825,
-        "average": 4.616732
+        "count": 3911,
+        "average": 4.618256
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1099,8 +1101,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
       "length": "PT1H38M",
       "ratings": {
-        "count": 1583,
-        "average": 4.74542
+        "count": 1626,
+        "average": 4.7423124
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1186,8 +1188,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tune-hyperparameters-with-azure-machine-learning/",
       "length": "PT46M",
       "ratings": {
-        "count": 570,
-        "average": 4.768421
+        "count": 582,
+        "average": 4.768041
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1230,8 +1232,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/typescript-declare-instantiate-classes/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 16,
-        "average": 4.6875
+        "count": 31,
+        "average": 4.645161
       },
       "provider": {
         "name": "Microsoft Learn",

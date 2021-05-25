@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/pillars-of-a-great-azure-
 type: course
 price: Free
 length: 54 mins
-heat: 50
+heat: 130
 
 provider:
   name: Microsoft Learn
