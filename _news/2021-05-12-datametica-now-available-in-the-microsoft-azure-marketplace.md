@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Datametica now available in the Microsoft Azure Marketplace"
-    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net - Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the ..."
-    publishedDateTime: 2021-05-13T07:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/datametica-now-available-in-the-microsoft-azure-marketplace-1030424788"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "KlariVis Now Available in the Microsoft Azure Marketplace"
     excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
     publishedDateTime: 2020-06-09T12:09:00Z
@@ -100,6 +91,20 @@ related:
         width: 1000
         height: 523
         isCached: true
+  - title: "Datametica now available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the scalability, reliability and agility of Azure to shape business strategies Dr Phil Shelley, Co-founder ..."
+    publishedDateTime: 2021-05-13T07:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-877551542.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Microsoft Azure Data VP Rohan Kumar: ‘It's Not Just About The Innovation Piece’"
     excerpt: "Amid the coronavirus pandemic, discussions about the cloud and digital transformation have turned a lot more toward value creation and total cost of ownership, Kumar says."
     publishedDateTime: 2020-06-10T16:02:00Z
@@ -113,34 +118,6 @@ related:
       - url: "https://www.crn.com/resources/025e-0f9e7f014024-ea501a6b983f-1000/rohan_kumar.jpg"
         width: 499
         height: 499
-        isCached: true
-  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."
-    publishedDateTime: 2021-05-18T16:41:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-science-426db6015c117211b515f3d7b8cec529"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
-    excerpt: "CHICAGO, May 18, 2021 /PRNewswire/ -- Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure ..."
-    publishedDateTime: 2021-05-19T22:29:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace-301287926.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
         isCached: true
   - title: "InfiniteIO Announces Integration with Microsoft Azure to Reduce Cloud Latency and Storage Costs"
     excerpt: "Metadata management innovator InfiniteIO today announced new support for Microsoft Azure to dramatically reduce the cost of primary file storage and minimize cloud latency to help enterprises lower capital and operational expenses and increase application performance."
@@ -206,15 +183,6 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 17
-  - title: "Armorblox Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft (News - Alert) Azure."
-    publishedDateTime: 2021-05-18T13:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-armorblox-now-available-the-microsoft-azure-marketplace-/2021/05/18/9371955.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 17
   - title: "Cloud-based Database Market – Major Technology Giants in Buzz Again | Oracle, Microsoft Azure, IBM, Apache Cassandra"
     excerpt: "AMA Research have added latest edition of survey study on Global Cloud based Database Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"

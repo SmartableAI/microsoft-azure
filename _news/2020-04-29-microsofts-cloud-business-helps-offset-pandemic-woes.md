@@ -1290,20 +1290,6 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "Microsoft Services is now a Kubernetes Certified Service Provider"
-    excerpt: "Modern applications are increasingly built using containers, which are microservices packaged with their dependencies and configurations. For this reason, many companies are either containerizing their existing applications or creating new complex applications that are composed of multiple containers.\r\n\r\nAs"
-    publishedDateTime: 2020-04-28T11:00:41Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-services-is-now-a-kubernetes-certified-service-provider/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 22
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/087e96ea-eb9f-4dcb-9d8b-22fa817b94bc.png"
-        width: 1024
-        height: 586
-        isCached: true
   - title: "Clumio Adds Microsoft 365 SaaS Data Protection"
     excerpt: "Hot cloud-native data protection startup Clumio Wednesday expanded into Software-as-a-Service data protection with the unveiling of secure backup capabilities for Microsoft 365 da"
     publishedDateTime: 2020-04-29T15:45:00Z

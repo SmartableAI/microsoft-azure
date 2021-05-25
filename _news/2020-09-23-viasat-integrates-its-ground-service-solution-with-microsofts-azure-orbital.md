@@ -722,6 +722,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft teams up with SpaceX to launch Azure Space to bring cloud computing into the final frontier"
+    excerpt: "Microsoft has teamed up with SpaceX and SES to launch the tech giant's new cloud computing business for space Azure Space, Microsoft's cloud computing platform Azure, aims to offer mobile cloud ..."
+    publishedDateTime: 2020-10-21T11:28:00Z
+    webUrl: "https://www.space.com/microsoft-launches-azure-space-cloud-computing"
+    ampWebUrl: "https://www.space.com/amp/microsoft-launches-azure-space-cloud-computing"
+    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/microsoft-launches-azure-space-cloud-computing"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 42
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/a7CuabArsbSLoEURsCbF8j-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AMERGINT Collaborates with Microsoft on Microsoft Azure Orbital Satellite Ground Station Service"
     excerpt: "AMERGINT Technologies announced it is working with Microsoft on their new Microsoft Azure Orbital, a new cloud service for connecting users to their satellites. AMERGINT is supporting Azure ..."
     publishedDateTime: 2020-09-23T15:06:00Z
@@ -1015,6 +1031,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/33eccaa6-33be-4f9c-af26-ae497b69c520.png"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Microsoft Introduces Azure Space to Further Push the Boundaries of Cloud Computing"
+    excerpt: "Recently Microsoft launched its Azure Space initiative as a further push of cloud computing towards space. This initiative by the public cloud vendor consists of several products and partnerships to position Azure as a critical player in the space- and ..."
+    publishedDateTime: 2020-10-27T11:04:00Z
+    webUrl: "https://www.infoq.com/news/2020/10/microsoft-introduce-azure-space/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 31
+    images:
+      - url: "https://res.infoq.com/news/2020/10/microsoft-introduce-azure-space/en/headerimage/croppted-MS+Azure+Space-1603626900569.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft debuts Azure Orbital to power satellite downlinks for space sector clients"
     excerpt: "Microsoft Corp. is building a global network of antennas co-located with its cloud data centers that will enable satellite operators to download data from orbit more easily. The antennas, or ground stations,"

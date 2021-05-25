@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kube
 webUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/"
 type: article
 quality: 106
-heat: 366
+heat: 326
 published: true
 
 provider:
@@ -112,20 +112,6 @@ related:
         width: 748
         height: 768
         isCached: true
-  - title: "Azure Arc Manages Kubernetes Clusters Anywhere, Brings ML on Premises"
-    excerpt: "At the virtual version of its Ignite developers’ conference Tuesday, Microsoft released into general availability a key function of Azure Arc that gives the service something resembling a genuine purpose: the ability to manage ordinary Kubernetes ..."
-    publishedDateTime: 2021-03-05T18:29:00Z
-    webUrl: "https://www.datacenterknowledge.com/microsoft/azure-arc-manages-kubernetes-clusters-anywhere-brings-ml-premises"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 54
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/jeremy%20winter%20microsoft.jpg"
-        width: 827
-        height: 693
-        isCached: true
   - title: "Azure Arc enabled Kubernetes preview and new ecosystem partners"
     excerpt: "In November 2019, we announced the preview of Azure Arc, a set of technologies that unlocks new hybrid scenarios for customers by bringing Azure services and management to any infrastructure across datacenters, edge, and multi-cloud. Based on the feedback and excitement of all the customers in the private"
     publishedDateTime: 2020-05-20T08:30:28Z
@@ -157,15 +143,6 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 0
-  - title: "Netreo Announces Release of Microsoft Azure Kubernetes Service (AKS) Monitoring and Management Functionality"
-    excerpt: "Netreo, the award-winning platform for IT infrastructure monitoring and management leveraging AIOps, today announced the release of its Microsoft Azure Kubernetes Service (AKS) monitoring and management functionality."
-    publishedDateTime: 2020-07-23T18:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/7964710/netreo-announces-release-of-microsoft-azure-kubernetes-service-aks-monitoring-and-management-functionality"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
     quality: 0
 
 secured: "Gp4o8xraCEwBs1HpcL+a5/OvYzEbiLqjVmeCtNt6jn/7dfsmVXN61zV8b31q1Bzra+glCiYuvaShfJpUNR0MXSEH9C+ZZs5ITxkEYtWAYALjr1nEvkI1WMYI9O9IlW6fe2ELEGkpkWzF9A/zgLTVgfFnd7/Pz49+ZVQhkMNro8m86+jgSHeTIXGH6NbtuMhEobRhUoNFDWpPAb8+TCZD16V6MzBrzhj924xRosSJLZExlffdy3KGJl9Ac243sxf7WRIJN8Ptrx7YS9DZey/K5pQBROOR/esYCpSnZM/9hgNT7IsClr2H8oMhwf1JF2/sR7hXIHcpvPGokEaeZvI4BLLo2P/w3/ydB0Z0wyZicQY=;ssS5Zd4KfY84mPIrvsUvyg=="

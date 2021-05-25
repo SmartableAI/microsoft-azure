@@ -44,6 +44,22 @@ related:
         width: 630
         height: 479
         isCached: true
+  - title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
+    excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."
+    publishedDateTime: 2020-10-20T21:14:00Z
+    webUrl: "https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106689529-1599138903852-starlink_satellites_screenshot.png?v=1599138942"
+        width: 1494
+        height: 889
+        isCached: true
   - title: "Microsoft debuts Azure Space to cater to the space industry, partners with SpaceX for Starlink datacenter broadband"
     excerpt: "Microsoft is taking its Azure cloud computing platform to the final frontier – space. It now has a dedicated business unit called Azure Space for that purpose, made up of industry heavyweights and engineers who are focused on space-sector services including simulation of space missions,"
     publishedDateTime: 2020-10-20T13:13:00Z
@@ -59,6 +75,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/10/AzureSpace_3D2.png?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Unisys CloudForte® for Microsoft Azure: Ease Complex Cloud Adoption for Governments"
+    excerpt: "Learn how Unisys and Microsoft improve and optimize government services in the cloud through their digital transformation partnership."
+    publishedDateTime: 2020-10-27T00:17:00Z
+    webUrl: "https://www.infoworld.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 71
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Microsoft Announces Azure Space And Partnership With SpaceX Starlink"
     excerpt: "With Microsoft and SpaceX working together, Azure could become “the platform and ecosystem of choice for the mission needs of the space community.”"

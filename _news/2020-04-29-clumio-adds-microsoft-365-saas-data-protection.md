@@ -1297,20 +1297,6 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "Microsoft Services is now a Kubernetes Certified Service Provider"
-    excerpt: "Modern applications are increasingly built using containers, which are microservices packaged with their dependencies and configurations. For this reason, many companies are either containerizing their existing applications or creating new complex applications that are composed of multiple containers.\r\n\r\nAs"
-    publishedDateTime: 2020-04-28T11:00:41Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-services-is-now-a-kubernetes-certified-service-provider/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 22
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/087e96ea-eb9f-4dcb-9d8b-22fa817b94bc.png"
-        width: 1024
-        height: 586
-        isCached: true
   - title: "DHS Shares Cloud, Microsoft Office 365 Insights for COVID-19 Telework"
     excerpt: "The latest COVID-19 telework cybersecurity guidance comes from DHS CISA, urging organizations to ensure their Microsoft O365 and other cloud services are secured and using multi-factor authentication."
     publishedDateTime: 2020-04-30T16:09:00Z

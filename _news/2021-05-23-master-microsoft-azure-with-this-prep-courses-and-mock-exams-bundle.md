@@ -26,83 +26,85 @@ images:
     isCached: true
 
 related:
-  - title: "Save 98% on this AWS and Microsoft Azure online training course"
-    excerpt: "Amazon Web Services (AWS) and Microsoft Azure are currently the most popular cloud services on the market, and this Complete 2020 Cloud Certification Training bundle can teach you how to use these ..."
-    publishedDateTime: 2020-08-08T06:20:00Z
-    webUrl: "https://mashable.com/uk/shopping/aug-8-cloud-certification-training/"
-    ampWebUrl: "https://mashable.com/uk/shopping/aug-8-cloud-certification-training.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/aug-8-cloud-certification-training.amp"
+  - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
+    excerpt: "At its Build developer conference today, Microsoft announced a new set of Azure services (in preview) that businesses can now run on virtually any CNCF-conformant Kubernetes cluster with the help of its Azure Arc multi-cloud service."
+    publishedDateTime: 2021-05-25T15:00:00Z
+    webUrl: "https://techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster/"
+    ampWebUrl: "https://techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster/amp/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 114
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-495666121.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Microsoft Azure: This new technology allows you to manage Kubernetes containers across the hybrid cloud"
+    excerpt: "Kubernetes applications can now exploit the cluster and virtualisation technologies that power Azure Stack HCI while still respecting local data. Microsoft is a firm believer in the idea of a hybrid cloud, one that spans everything from microcontrollers at ..."
+    publishedDateTime: 2020-10-26T12:52:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 113
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/10/21/b3efc5c0-cb29-4978-996c-ee0369b1ddde/thumbnail/1200x675/29928a2a0d592f1e74b89a88e9dee284/oculus-quest2.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft Azure is now smarter and more powerful than ever"
+    excerpt: "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as a launchpad for the upgrades,"
+    publishedDateTime: 2021-05-25T15:10:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
     quality: 97
     images:
-      - url: "https://mondrian.mashable.com/2020%252F08%252F08%252F45%252F03d3beecd37447d68430a283b419a811.8788c.jpg%252F1200x630.jpg?signature=FJFBs3rLvmztuasZ4mEpKtYfwGM="
+      - url: "https://cdn.mos.cms.futurecdn.net/rSTmCmeoaSTmeNWWL8GZ8T-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Microsoft Azure launches enterprise support for PyTorch"
+    excerpt: "Microsoft today announced PyTorch Enterprise, a new Azure service that provides developers with additional support when using PyTorch on Azure. It’s basically Microsoft’s commercial support offering for PyTorch PyTorch is a Python-centric open-source machine learning framework with a"
+    publishedDateTime: 2021-05-25T15:00:00Z
+    webUrl: "https://techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/"
+    ampWebUrl: "https://techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-951875250.jpg?w=1024"
+        width: 1024
+        height: 685
+        isCached: true
+  - title: "Microsoft Azure: This new tool makes it easier to manage virtual machines in the cloud"
+    excerpt: "Microsoft's automated system management tools help businesses keep their Azure virtual infrastructures secure."
+    publishedDateTime: 2021-05-20T10:30:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/05/20/c5095494-b0d0-403b-bb51-ee4a5d603916/resize/1200x/741502e9088de4e6ade36f79a2481cd8/azure-automanage-diagram.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft readies its AWS Outposts hybrid competitor: Azure Stack 'Fiji'"
-    excerpt: "Microsoft is working on a new member of the Azure Stack family, which will provide Azure hardware managed via the Azure public cloud, for customers to install in their own datacenters."
-    publishedDateTime: 2020-08-07T13:10:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-readies-its-aws-outposts-hybrid-competitor-azure-stack-fiji/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-readies-its-aws-outposts-hybrid-competitor-azure-stack-fiji/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-readies-its-aws-outposts-hybrid-competitor-azure-stack-fiji/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 96
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/08/07/fec90584-c1b3-4417-91ff-0216a73113da/azurestackfijiracks.jpg"
-        width: 824
-        height: 517
-        isCached: true
-  - title: "Microsoft Windows and Azure can be a business lifeline. This training shows you how."
-    excerpt: "With the training in The Complete 2021 Microsoft, Windows and Azure Bundle, IT experts can earn a firm grounding in all things Microsoft, including the ways Microsoft hardware, software ..."
-    publishedDateTime: 2021-05-04T16:00:00Z
-    webUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/"
-    ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 90
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft Azure is gaining on AWS. Get all the training now to be a full Azure expert for under $40."
-    excerpt: "Yes, the major public clouds offer a lot. But what you may not know are the limitations, and how open clouds make the difference. Join Transform 2021 this July 12-16. Register fo r the AI event of ..."
-    publishedDateTime: 2021-05-14T16:42:00Z
-    webUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/"
-    ampWebUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/sale_25748_article_image.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Save 98% off this Complete 2021 Microsoft, Windows, & Azure Bundle"
-    excerpt: "Deliver smooth, secure, and configured process to users and organizations with 17 hands-on courses on the top 3 cloud service platforms with today's highlighted deal that includes certification."
-    publishedDateTime: 2021-04-29T14:00:00Z
-    webUrl: "https://www.neowin.net/news/save-98-off-this-complete-2021-microsoft-windows--azure-bundle/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 77
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619700240_sale_232555_primary_image_story.jpg"
-        width: 760
-        height: 428
+        height: 842
         isCached: true
   - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
     excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
@@ -115,387 +117,314 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 73
-  - title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
-    excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
-    publishedDateTime: 2020-08-05T11:41:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab16940078/newly-launched-microsoft-azure-az-303-dumps-as-pdf-and-practice-test-august-2020"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16940078"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16940078"
+  - title: "Matthews Joins Microsoft as Azure Solutions Specialist"
+    excerpt: "I’m beyond excited to have joined the Microsoft SLG team as an Azure Solution specialist,” Sara Matthews told Techwire. “I am eager to help my fellow citizens of California by guiding our state towards a digital transformation to support this amazing state."
+    publishedDateTime: 2021-05-20T22:34:00Z
+    webUrl: "https://www.techwire.net/news/matthews-joins-microsoft-as-azure-solutions-specialist"
+    ampWebUrl: "https://www.techwire.net/news/matthews-joins-microsoft-as-azure-solutions-specialist?_amp=true"
+    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/matthews-joins-microsoft-as-azure-solutions-specialist?_amp=true"
+    type: article
+    provider:
+      name: California Techwire
+      domain: techwire.net
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/dccbcb4/2147483647/strip/true/crop/386x512+0+0/resize/840x1114!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F72%2Fdd%2F0f049aed419f99654704f1719571%2Fsara-matthews-cropped.jpg"
+        width: 840
+        height: 1114
+        isCached: true
+  - title: "Banyan Security Expands Secure Access to Hybrid Environments With Microsoft Azure Active Directory"
+    excerpt: "Banyan Security today announced an integration between Banyan Security Zero Trust Remote Access and Microsoft Azure"
+    publishedDateTime: 2021-05-25T12:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21274665/banyan-security-expands-secure-access-to-hybrid-environments-with-microsoft-azure-active-directory"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21274665"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21274665"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 51
-    images:
-      - url: "https://www.abnewswire.com/uploads/b9311731db8bd72c3326b1c9fca19038.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "SimCorp A/S: SimCorp completes next phase in cloud transformation, offering SimCorp Dimension as a Service on Microsoft Azure"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2020-08-12T08:08:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-08-12/simcorp-a-s-simcorp-completes-next-phase-in-cloud-transformation-offering-simcorp-dimension-as-a-service-on-microsoft-azure"
+    quality: 57
+  - title: "Azure Arc Manages Kubernetes Clusters Anywhere, Brings ML on Premises"
+    excerpt: "At the virtual version of its Ignite developers’ conference Tuesday, Microsoft released into general availability a key function of Azure Arc that gives the service something resembling a genuine purpose: the ability to manage ordinary Kubernetes ..."
+    publishedDateTime: 2021-03-05T18:29:00Z
+    webUrl: "https://www.datacenterknowledge.com/microsoft/azure-arc-manages-kubernetes-clusters-anywhere-brings-ml-premises"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 50
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 54
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/jeremy%20winter%20microsoft.jpg"
+        width: 827
+        height: 693
         isCached: true
-  - title: "Cloud Market Share 2020: Amazon AWS, Microsoft Azure, Google, IBM"
-    excerpt: "In the cloud infrastructure services market, Amazon Web Services (AWS) continues to be the market share leader, followed by Microsoft Azure and Google Cloud Platform (GCP), according to Q2 2020 research from Synergy Research Group. Not by coincidence ..."
-    publishedDateTime: 2020-08-03T13:54:00Z
-    webUrl: "https://www.channele2e.com/channel-partners/csps/cloud-market-share-2020-amazon-aws-microsoft-azure-google-ibm/"
+  - title: "Why Microsoft Azure is backing hybrid cloud as the best choice for businesses"
+    excerpt: "With Azure, Microsoft provides the most comprehensive, open, scalable, and trusted intelligent cloud tailored to requirements of businesses. Edited by Teja Lele Desai Please login to continue reading"
+    publishedDateTime: 2021-05-20T17:20:00Z
+    webUrl: "https://yourstory.com/2021/05/why-micrsoft-azure-says-hybrid-cloud-is-the-best-c/amp"
+    ampWebUrl: "https://yourstory.com/2021/05/why-micrsoft-azure-says-hybrid-cloud-is-the-best-c/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/05/why-micrsoft-azure-says-hybrid-cloud-is-the-best-c/amp"
     type: article
     provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 37
+      name: Your Story
+      domain: yourstory.com
+    quality: 54
     images:
-      - url: "https://www.channele2e.com/wp-content/uploads/2020/08/CIS_Q220.jpg"
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/shivir1-1621432680596.png "
         width: 800
-        height: 381
+        height: 400
         isCached: true
-  - title: "Microsoft Introduces the Azure Well-Architected Framework"
-    excerpt: "Architected Framework, which provides customers with a set of Azure architecture best practices to help them build and deliver well-designed solutions."
-    publishedDateTime: 2020-08-04T11:10:00Z
-    webUrl: "https://www.infoq.com/news/2020/08/azure-well-architected-framework/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 37
-    images:
-      - url: "https://res.infoq.com/news/2020/08/azure-well-architected-framework/en/headerimage/Azure+Well+Architected+Framework-1596364025620.jpg"
-        width: 1505
-        height: 1585
-        isCached: true
-  - title: "Portwell Joins Microsoft Azure Certified for IoT Collaboration"
-    excerpt: "Portwell announced it has joined Microsoft Azure Certified for Internet of Things (IoT), assisting customers to get solutions running with pre-tested and verified hardware and software."
-    publishedDateTime: 2020-08-05T17:34:00Z
-    webUrl: "https://www.embedded-computing.com/news/portwell-joins-microsoft-azure-certified-for-iot-collaboration"
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 37
-    images:
-      - url: "https://s3.amazonaws.com/files.formstack.com/uploads/3411018/76219803/641625953/76219803_portwell_collaborates_microsoft_azure.jpg"
-        width: 1663
-        height: 1120
-        isCached: true
-  - title: "Dubai Tourism taps Microsoft Azure for information sharing platforms"
-    excerpt: "Dubai Tourism has migrated multiple online dashboards to Microsoft Azure, including a dashboard that regularly tracks and provides data on visitor arrivals from key source markets. These ..."
-    publishedDateTime: 2020-08-09T15:28:00Z
-    webUrl: "https://gulfbusiness.com/dubai-tourism-taps-microsoft-azure-for-information-sharing-platforms/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 37
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2020/08/Dubai-tourism-pic.jpg"
-        width: 768
-        height: 513
-        isCached: true
-  - title: "SimCorp Offers ‘Dimension as a Service’ on Microsoft Azure"
-    excerpt: "Scott Guthrie, executive vice president, Cloud + AI, Microsoft Corp adds: “By bringing SimCorp Dimension as a Service to Azure, institutional investors in the Financial Services Industry will better serve their customers. SimCorp and Microsoft will ..."
-    publishedDateTime: 2020-08-12T18:09:00Z
-    webUrl: "https://www.tradersmagazine.com/xtra/simcorp-offers-dimension-as-a-service-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 37
-    images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2020/04/Depositphotos_10301431_s-2019.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Telit’s Modules Certified by Microsoft Azure for IoT Device Catalog"
-    excerpt: "Telit announced a collection of its module families are now certified by Microsoft as part of its Azure Certified for IoT device catalog."
-    publishedDateTime: 2020-08-12T21:13:00Z
-    webUrl: "https://www.embedded-computing.com/news/telit-s-modules-certified-by-microsoft-azure-for-iot-device-catalog"
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 37
-    images:
-      - url: "http://share.opsy.st/5f3459587a6d9-19b62c4b-54c0-4648-9572-9c9e39e319b8_786a7002-65d7-4ec7-8b7e-4f3ea869f726_productImage.png"
-        width: 687
-        height: 473
-        isCached: true
-  - title: "Microsoft's Azure revenue quietly passes AWS and Google Cloud, again"
-    excerpt: "With all the quarterly earnings reported and accounted for, it appears Microsoft's Azure cloud revenue has once again outperformed AWS and Google Cloud combined. Despite the simulated perception of Amazon's AWS goliath like stature,"
-    publishedDateTime: 2021-05-05T18:14:00Z
-    webUrl: "https://www.onmsft.com/news/azure-revenue-beats-aws-and-google-cloud-again"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 37
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Azure-clou-AWS-Google-Cloud.png"
-        width: 1024
-        height: 442
-        isCached: true
-  - title: "WANdisco Launched As A First-Party Service On Microsoft's Azure Platform"
-    excerpt: "There are very few companies that are selected to be first-party services on the Azure platform. Since the launch in June, the company has signed on 11 new customers."
-    publishedDateTime: 2020-08-03T19:19:00Z
-    webUrl: "https://seekingalpha.com/article/4363903-wandisco-launched-first-party-service-on-microsofts-azure-platform"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 36
-    images:
-      - url: "https://static3.seekingalpha.com/images/marketing_images/banks_credit_cards/sacl_financials_pen_statistics_data_sheet_paper_coins_money.jpeg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "SimCorp launches Dimension platform as a service on Microsoft Azure cloud"
-    excerpt: "With Microsoft Azure, SimCorp has rolled out its Dimension platform for buy-side firms as a service in latest cloud technology development."
-    publishedDateTime: 2020-08-12T11:57:00Z
-    webUrl: "https://www.thetradenews.com/simcorp-launches-dimension-platform-as-a-service-on-microsoft-azure-cloud/"
-    type: article
-    provider:
-      name: The TRADE
-      domain: thetradenews.com
-    quality: 36
-    images:
-      - url: "https://www.thetradenews.com/wp-content/uploads/2019/02/iStock-966932508-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
-  - title: "Azure NetApp Files now available to government agencies in Microsoft Azure"
-    excerpt: "NetApp announced the availability of Azure NetApp Files in the government region data centers on Microsoft Azure. This expansion of Azure NetApp Files, one of the only Azure native, high ..."
-    publishedDateTime: 2020-08-04T23:01:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/08/05/azure-netapp-files/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 35
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
-        isCached: true
-  - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
-    excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
-    publishedDateTime: 2020-08-04T00:15:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-863201932.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
-    excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook ..."
-    publishedDateTime: 2020-08-05T07:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-05-08-2020/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 33
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle-1.jpg"
-        width: 700
-        height: 526
-        isCached: true
-  - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
-    excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook ..."
-    publishedDateTime: 2020-08-10T09:02:00Z
-    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-10-08-2020/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 33
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle-1.jpg"
-        width: 700
-        height: 526
-        isCached: true
-  - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
-    excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook ..."
-    publishedDateTime: 2020-08-13T06:52:00Z
-    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-13-08-2020/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 33
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle-1.jpg"
-        width: 700
-        height: 526
-        isCached: true
-  - title: "Signal Sciences Announces Advanced Protection for Applications on Microsoft Azure"
-    excerpt: "Signal Sciences, the fastest growing web application security company in the world, today announced an integration with Microsoft Azure App Service for the Signal Sciences next-gen Web Application ..."
-    publishedDateTime: 2020-08-04T14:46:00Z
-    webUrl: "https://www.oaoa.com/news/business/signal-sciences-announces-advanced-protection-for-applications-on-microsoft-azure/article_03283fdf-d27b-5f05-92c6-d90c2a0945ad.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 32
-    images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
-        isCached: true
-  - title: "Telit's Comprehensive IoT Portfolio is Microsoft Azure Certified for IoT Device Catalog"
-    excerpt: "Telit, a global enabler of the Internet of Things (IoT), today announced that several of its module families have been certified by Microsoft as"
-    publishedDateTime: 2020-08-12T13:37:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/telits-comprehensive-iot-portfolio-is-microsoft-azure-certified-for-iot-device-catalog/article_0a2f2a9c-4e2d-573c-a5ce-abfefb58b1bd.html"
+  - title: "2bcloud Achieves its Third Advanced Specialization, for Kubernetes on Azure"
+    excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be"
+    publishedDateTime: 2021-05-20T12:36:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure/article_d03550ed-0386-5f28-ad4b-460dde83d954.html"
     type: article
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 29
+    quality: 52
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/d1/2d13a01e-75f6-58d5-9811-61261eb5fa94/5f33ef747e9d5.image.jpg?resize=400%2C232"
-        width: 400
-        height: 232
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Telit's Comprehensive IoT Portfolio is Microsoft Azure Certified for IoT Device Catalog"
-    excerpt: "\"The new Azure IoT capabilities in Telit's industry-leading modules for 4G LTE, Bluetooth and Wi-Fi enables customers to rapidly integrate their devices with the Microsoft Azure ecosystem,\" said ..."
-    publishedDateTime: 2020-08-15T03:12:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/telits-comprehensive-iot-portfolio-is-microsoft-azure-certified-for-iot-device-catalog-301110436.html"
+  - title: "3Cloud Partners with Databricks to Help Companies Build Modern Data + AI Platforms in Microsoft Azure"
+    excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to"
+    publishedDateTime: 2021-05-25T15:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/3cloud-partners-with-databricks-to-help-companies-build-modern-data--ai-platforms-in-microsoft-azure-301298982.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 29
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/519755/Telit_Logo.jpg?p=facebook"
+      - url: "https://mma.prnewswire.com/media/1518026/Databricks_Partner_Award_Rising_Star_3Cloud.jpg?p=facebook"
         width: 2699
         height: 1414
         isCached: true
-  - title: "Verizon Business to accelerate IoT solution creation and deployment with Microsoft Azure"
-    excerpt: "Verizon has teamed up with Microsoft to enable the simple and quick creation and deployment of complete end-to-end IoT solutions Verizon's ThingSpace"
-    publishedDateTime: 2020-08-02T00:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16750169/verizon-business-to-accelerate-iot-solution-creation-and-deployment-with-microsoft-azure"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16750169"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16750169"
+  - title: "Microsoft beefs up Azure’s Kubernetes features and Red Hat integrations"
+    excerpt: "Microsoft Corp. today introduced two updates for Azure, one focused on its managed Kubernetes service and another on Red Hat workloads, that should allow the cloud platform to better accommodate enterprises running a variety of different application types."
+    publishedDateTime: 2020-04-28T20:09:00Z
+    webUrl: "https://siliconangle.com/2020/04/28/microsoft-beefs-azures-kubernetes-features-red-hat-integrations/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/microsoft2-1-1.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "Mars teams with Microsoft Azure for its digital transformation program"
+    excerpt: "The collaboration aims to optimise Mars’ operational speed in confectionaries and pet foods and build intelligent manufacturing supply chains"
+    publishedDateTime: 2021-05-18T19:39:00Z
+    webUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program"
+    ampWebUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 37
+  - title: "NHS Scotland’s track and trace system utilises Microsoft Azure"
+    excerpt: "User information is fully encrypted in NHS Scotland's data lake and only available to contact tracers who have the right digital key."
+    publishedDateTime: 2021-05-19T06:56:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 37
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/dan-gold-E6HjQaB7UEA-unsplash-1.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
+  - title: "Amdocs to put BSS/OSS solutions onto Microsoft's Azure"
+    excerpt: "The collaboration will enable service providers to accelerate their move to the cloud by using Amdocs' cloud-native BSS/OSS solutions and services and our unique delivery accountability model while benefiting from the cloud capabilities of Azure to build,"
+    publishedDateTime: 2021-05-24T16:00:00Z
+    webUrl: "https://www.lightreading.com/service-provider-cloud/amdocs-to-put-bssoss-solutions-onto-microsofts-azure/d/d-id/769730"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 37
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
+    excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
+    publishedDateTime: 2021-05-25T15:00:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0269-125c74ee81ff-25ae23038fad-1000/microsoft-azure-sign-2.jpg"
+        width: 500
+        height: 375
+        isCached: true
+  - title: "Principled Technologies Releases Study Comparing Performance of Kubernetes Clusters Running on Microsoft Azure..."
+    excerpt: "Newer D- and E-series VMs with Intel Xeon Cascade Lake processors supported more users than older VMs enabled by previous-generation Intel Xeon processors."
+    publishedDateTime: 2021-04-30T07:01:00Z
+    webUrl: "https://www.pr.com/press-release/826386"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 33
+    images:
+      - url: "https://img.pr.com/release/2104/416814/pressrelease_original_416814_1619714331.png"
+        width: 500
+        height: 647
+        isCached: true
+  - title: "La Liga expands Microsoft Azure partnership for OTT services and ML enhancements"
+    excerpt: "La Liga, the foremost Spanish football league, has expanded its partnership with Microsoft Azure to focus on machine learning and OTT services."
+    publishedDateTime: 2021-05-20T15:09:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/may/20/la-liga-expands-microsoft-azure-partnership-for-ott-services-and-ml-enhancements/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 32
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/tim-roosjen-jLUSUUUbZeE-unsplash.jpg"
+        width: 1920
+        height: 1292
+        isCached: true
+  - title: "GlobalLogic Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
+    excerpt: "GlobalLogic Inc., a leader in Digital Product Engineering, today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge,"
+    publishedDateTime: 2021-05-05T12:30:00Z
+    webUrl: "https://www.financialbuzz.com/globallogic-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 29
+  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."
+    publishedDateTime: 2021-05-18T16:41:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-science-426db6015c117211b515f3d7b8cec529"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
     quality: 28
-  - title: "First AWS, Now Microsoft Cloud, Who Is Next"
-    excerpt: "Microsoft Cloud, Who Is Next By Ashwin Krishnan, SVP, Product Management and Strategy, HyTrust - So, there we have it—within a window of a month, the top two public cloud providers on the planet—AWS"
-    publishedDateTime: 2021-02-19T04:20:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/first-aws-now-microsoft-cloud-who-is-next-nid-24091-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 22
     images:
-      - url: "https://www.cioreview.com/ck_images/9r7q4fDs.jpeg"
-        width: 300
-        height: 300
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "TekLink International Inc. Is Now A Microsoft Gold Partner For Azure Cloud Analytics And Data Analytics"
-    excerpt: "TekLink International Inc., a respected leader in Cloud Platforms, Business and Financial Planning Solutions, and"
-    publishedDateTime: 2020-08-07T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/n16992431/teklink-international-inc-is-now-a-microsoft-gold-partner-for-azure-cloud-analytics-and-data-analy"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16992431"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16992431"
+  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
+    excerpt: "CHICAGO, May 18, 2021 /PRNewswire/ -- Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure ..."
+    publishedDateTime: 2021-05-19T22:29:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace-301287926.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
-  - title: "New Recorded Future and Microsoft Azure Partnership Brings Security Intelligence to Cloud Environments"
-    excerpt: "BOSTON, Aug. 11, 2020 /PRNewswire/ -- Recorded Future, the largest global security intelligence provider, today announced that it has partnered with Microsoft Azure to support security operations ..."
-    publishedDateTime: 2020-08-11T14:00:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20200811ne88035/new-recorded-future-and-microsoft-azure-partnership-brings-security-intelligence-to-cloud-environments"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 21
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
     images:
-      - url: "https://mma.prnewswire.com/media/705622/Recorded_Future_Logo.jpg"
-        width: 400
-        height: 225
+      - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
-  - title: "Cloud Services improves Delivery Auto operations and realizes 30% infrastructure savings with Microsoft Azure"
-    excerpt: "With over 400 warehouses, Delivery Auto provides domestic and international shipping logistics across Ukraine. The company retained Cloud Services to optimize and scale its existing Microsoft Azure implementation."
-    publishedDateTime: 2020-08-07T22:11:00Z
-    webUrl: "https://news.microsoft.com/en-cee/2020/08/07/cloud-services-improves-delivery-auto-operations-and-realizes-30-infrastructure-savings-with-microsoft-azure/"
+  - title: "Microsoft Services is now a Kubernetes Certified Service Provider"
+    excerpt: "Modern applications are increasingly built using containers, which are microservices packaged with their dependencies and configurations. For this reason, many companies are either containerizing their existing applications or creating new complex applications that are composed of multiple containers.\r\n\r\nAs"
+    publishedDateTime: 2020-04-28T11:00:41Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-services-is-now-a-kubernetes-certified-service-provider/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
+    quality: 22
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/087e96ea-eb9f-4dcb-9d8b-22fa817b94bc.png"
+        width: 1024
+        height: 586
+        isCached: true
+  - title: "Three more years: Government renews Microsoft cloud, software and services deal"
+    excerpt: "The government has signed a three-year renewal for the second term of the Microsoft cloud, software and services agreement."
+    publishedDateTime: 2021-05-19T00:34:00Z
+    webUrl: "https://www.reseller.co.nz/article/688473/three-more-years-government-renews-microsoft-cloud-software-services-deal/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
     quality: 18
     images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/566/2020/08/1270085408941310155_1270085408941310155-1600x842.png"
-        width: 1600
-        height: 842
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/img_20190327_063139.jpg"
+        width: 800
+        height: 546
         isCached: true
-  - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
-    excerpt: "Insight Digital Innovation services demonstrate deep knowledge across Windows/SQL Server migration, Kubernetes, data warehouse migration and web application modernization Insight Enterprises (NASDAQ:NSIT),"
-    publishedDateTime: 2020-08-08T18:57:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20200728005589/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure"
+  - title: "Armorblox Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft (News - Alert) Azure."
+    publishedDateTime: 2021-05-18T13:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-armorblox-now-available-the-microsoft-azure-marketplace-/2021/05/18/9371955.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+  - title: "Governance experts Rencore and Alight partner to offer a complete governance solution for the Microsoft Cloud"
+    excerpt: "Rencore, the provider of award-winning software essential for governing Microsoft 365, announced their partnership with Microsoft technology consultants Alight. The partnership combines Rencore's"
+    publishedDateTime: 2021-05-18T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/governance-experts-rencore-and-alight-partner-to-offer-a-complete-governance-solution-for-the-microsoft/article_0326597c-3227-5aa5-b0f3-3d38d12f38ec.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 3
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace | Morningstar"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."
+    publishedDateTime: 2021-05-18T15:33:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210518sf62378/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace"
     type: article
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
-    quality: 17
-  - title: "Microsoft Azure Peering Service goes live on BBIX platform"
-    excerpt: "SoftBank's subsidiary BBIX has introduced the 'BBIX for Microsoft Azure Peering Service', which is compatible with the Azure Peering Service. The Azure Peering Service can be used as if users are connected using a closed connection via the public internet when accessing Microsoft cloud services,"
-    publishedDateTime: 2020-08-09T03:58:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-azure-peering-service-goes-live-on-bbix-platform--1349685"
+    quality: 1
+  - title: "Epsagon Expands its Applied Observability Platform with Azure Kubernetes Service Support and Microsoft Azure Partnership to Meet the Needs of Modern Enterprises"
+    excerpt: "Epsagon expands its applied observability core platform and announces Azure partnership and Azure Kubernetes Service support."
+    publishedDateTime: 2020-06-22T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200622005085/en/Epsagon-Expands-Applied-Observability-Platform-Azure-Kubernetes"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: "https://mms.businesswire.com/media/20200622005085/en/799855/23/Positive_RGB_Logo_Vertical.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Netreo Announces Release of Microsoft Azure Kubernetes Service (AKS) Monitoring and Management Functionality"
+    excerpt: "Netreo, the award-winning platform for IT infrastructure monitoring and management leveraging AIOps, today announced the release of its Microsoft Azure Kubernetes Service (AKS) monitoring and management functionality."
+    publishedDateTime: 2020-07-23T18:00:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/7964710/netreo-announces-release-of-microsoft-azure-kubernetes-service-aks-monitoring-and-management-functionality"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
+  - title: "Cybercom declares status as Microsoft Cloud Adoption Framework Ready partner"
+    excerpt: "Cybercom, a specialist in agile software development and public cloud for business-critical systems, said that. Microsoft has granted it official Cloud Adoption Framework (CAF) Ready partner status. Cybercom said this ensures that it operates with the best practices,"
+    publishedDateTime: 2021-05-25T12:13:00Z
+    webUrl: "https://www.telecompaper.com/news/cybercom-declares-status-as-microsoft-cloud-adoption-framework-ready-partner--1384290"
     type: article
     provider:
       name: Telecompaper
       domain: telecompaper.com
-    quality: 17
-  - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
-    excerpt: "SEATTLE, Aug. 3, 2020 /PRNewswire/ -- MSRCosmos (www.msrcosmos.com), today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a services partner's deep ..."
-    publishedDateTime: 2020-08-03T15:08:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20200803la79280/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 13
-  - title: "Community Brands Announces NetForum Enterprise Cloud, a New Version of NetForum Enterprise Built for Microsoft Azure Cloud Services"
-    excerpt: "Community Brands, the leading provider of software solutions for associations and nonprofits, today announced the upcoming release of"
-    publishedDateTime: 2020-08-10T11:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/community-brands-announces-netforum-enterprise-cloud-a-new-version-of-netforum-enterprise-built-for-microsoft-azure-cloud-services-301108867.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 7
-    images:
-      - url: "https://mma.prnewswire.com/media/550289/communitybrands_stacked_Logo.jpg?p=facebook"
-        width: 597
-        height: 314
-        isCached: true
-  - title: "SimCorp completes next phase in cloud transformation, offering SimCorp Dimension as a Service, on Microsoft Azure"
-    excerpt: "SimCorp, a leading provider of integrated, front-to-back, multi-asset investment management solutions and services to the world’s largest buy-side institutions, today announces a new integration of its front-to-back investment management platform,"
-    publishedDateTime: 2020-08-12T11:41:00Z
-    webUrl: "https://www.bobsguide.com/guide/news/2020/Aug/12/simcorp-completes-next-phase-in-cloud-transformation-offering-simcorp-dimension-as-a-service-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Bobs Guide
-      domain: bobsguide.com
     quality: 0
 
 secured: "WDVkdOdzEnByNBeqGaMl33GSIblNCrH7rD+lPLQq4LK+tudIHDc9NvHpnimrN/gBFIE7zfznX2SQ9/ZtKacHGvGttqPUVGPIRyA5l6ruf43+qo0zvTgTQb5RAfNt/q72l+vKXC87R616U3aw90zRWjqNU4SL5GsSeEauyW3LUiJGhkQgWbv83+i1P98biiuBfL1Wi/rZ0HJh/YmkTreX3br2s07Ch7V4V2JySbQWFcxUET/RX61X4FDfEb6OllQKkzihW4cyWqIwOSg7f1tgeXaepSYFdwIzAHc1P7gtapqr/WyI+LUzberNJElUo7oimUdAOhuhUzioPDL53mGBBYbyRNNl1VLzw7Eoo94JTB4=;CrbDeuZG1yJz0+Ppauqsyg=="

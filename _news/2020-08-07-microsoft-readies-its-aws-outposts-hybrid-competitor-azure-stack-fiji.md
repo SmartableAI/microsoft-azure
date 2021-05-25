@@ -45,21 +45,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Master Microsoft Azure with this prep courses and mock exams bundle"
-    excerpt: "TL;DR: The Ultimate Microsoft Azure Administrator Bundle is on sale for £21.21 as of May 23, saving you 94% on list price. Just a few years ago, if you wanted an IT cloud systems expert position ..."
-    publishedDateTime: 2021-05-23T04:42:00Z
-    webUrl: "https://mashable.com/uk/shopping/may-23-microsoft-certification-bundle/"
-    ampWebUrl: "https://mashable.com/uk/shopping/may-23-microsoft-certification-bundle.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/may-23-microsoft-certification-bundle.amp"
+  - title: "This Microsoft Azure training is just $30 today"
+    excerpt: "Save hundreds on six eBooks and over 15 hours of video instruction that make it easy to learn Azure on your schedule. Microsoft Azure is a leading cloud computing platform in today's business world, and it looks like it might even become the cloud solution ..."
+    publishedDateTime: 2020-11-01T18:56:00Z
+    webUrl: "https://www.engadget.com/microsoft-azure-training-185539651.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-training-185539651.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-training-185539651.html"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
+      name: Engadget
+      domain: engadget.com
     quality: 97
     images:
-      - url: "https://mondrian.mashable.com/2021%252F05%252F23%252F60%252Fb4bac1a702aa47a1846932e61f1d0d0f.51a25.jpg%252F1200x630.jpg?signature=o-Qaes3GL02Ji6mwRe-bJvnNHiI="
-        width: 1200
-        height: 630
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F47c223f0-1a30-11eb-bfcc-397b6cf949f5&client=amp-blogside-v2&signature=6bd3014097453f6d1cd13d03fdfc05b682bb5fe2"
+        width: 600
+        height: 350
         isCached: true
   - title: "Microsoft Windows and Azure can be a business lifeline. This training shows you how."
     excerpt: "With the training in The Complete 2021 Microsoft, Windows and Azure Bundle, IT experts can earn a firm grounding in all things Microsoft, including the ways Microsoft hardware, software ..."
@@ -107,17 +107,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
-    excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
-    publishedDateTime: 2021-05-21T21:40:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 73
   - title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
     excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
     publishedDateTime: 2020-08-05T11:41:00Z

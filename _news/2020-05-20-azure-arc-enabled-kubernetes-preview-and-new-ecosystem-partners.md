@@ -124,20 +124,6 @@ related:
         width: 748
         height: 768
         isCached: true
-  - title: "Azure Arc Manages Kubernetes Clusters Anywhere, Brings ML on Premises"
-    excerpt: "At the virtual version of its Ignite developers’ conference Tuesday, Microsoft released into general availability a key function of Azure Arc that gives the service something resembling a genuine purpose: the ability to manage ordinary Kubernetes ..."
-    publishedDateTime: 2021-03-05T18:29:00Z
-    webUrl: "https://www.datacenterknowledge.com/microsoft/azure-arc-manages-kubernetes-clusters-anywhere-brings-ml-premises"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 54
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/jeremy%20winter%20microsoft.jpg"
-        width: 827
-        height: 693
-        isCached: true
   - title: "Azure Kubernetes Service upgrade improvements are now in preview"
     excerpt: "Two new AKS upgrade capabilities that will improve the granularity and efficiency of regular Kubernetes upgrade operations are now in preview."
     publishedDateTime: 2020-06-10T16:00:24Z
@@ -155,15 +141,6 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 0
-  - title: "Netreo Announces Release of Microsoft Azure Kubernetes Service (AKS) Monitoring and Management Functionality"
-    excerpt: "Netreo, the award-winning platform for IT infrastructure monitoring and management leveraging AIOps, today announced the release of its Microsoft Azure Kubernetes Service (AKS) monitoring and management functionality."
-    publishedDateTime: 2020-07-23T18:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/7964710/netreo-announces-release-of-microsoft-azure-kubernetes-service-aks-monitoring-and-management-functionality"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
     quality: 0
 
 secured: "UufNiZ9g3pt1xnN2zTftYO/Jh4g2cIK3Wg3EBbHwc9FQ3lf3F7ujHueIH4K1erwCsRMvaog4DvybeRrTG2S+joAWZDSQpplQ6GAo/H9t9KXXD2qyfh42tQGzWo6Yq6vbPsVFM1W1MG7LEQRCAPNot9TznNyECD58FuQHmUr7AuVQEx40Lv8IGgq2isisi9NhKHn0QJWzi01XRbe7B3qHjFJ80bo1u7RpRyMS4eg6a6tYBVlQp2Iu27LrdMEno99ETpyEhKxlRRr27gkEIYuPhONOl6GFFIFr2nejk/3clwu25kO30gXBjOffQ4zZ6kdSPWSmR+jqUJsJHcTGFo8rhQ==;Oscet7nmgFdHIBPBVc9zpA=="

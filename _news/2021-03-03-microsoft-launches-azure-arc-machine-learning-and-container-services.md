@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 129
-heat: 2449
+heat: 2469
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/03/05/99e36411-961a-4105-b72c-00fcc4f6867b/public-cloud-growth-2021-flexera.png"
         width: 626
         height: 386
+        isCached: true
+  - title: "Microsoft enables more Azure services to run anywhere via Azure Arc"
+    excerpt: "Microsoft is filling out and repositioning some of its key Azure services, including its Azure Application Services, Azure Applied AI Services and Azure Communication Services."
+    publishedDateTime: 2021-05-25T08:01:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-enables-more-azure-services-to-run-anywhere-via-azure-arc/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-enables-more-azure-services-to-run-anywhere-via-azure-arc/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-enables-more-azure-services-to-run-anywhere-via-azure-arc/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/05/24/687574ae-057e-489c-ba4b-5ac60b9a1f2a/arcenabledkubernetes.jpg"
+        width: 997
+        height: 734
         isCached: true
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."

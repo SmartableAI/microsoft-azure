@@ -109,31 +109,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Mars teams with Microsoft Azure for its digital transformation program"
-    excerpt: "The collaboration aims to optimise Mars’ operational speed in confectionaries and pet foods and build intelligent manufacturing supply chains"
-    publishedDateTime: 2021-05-18T19:39:00Z
-    webUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program"
-    ampWebUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 37
-  - title: "Amdocs to put BSS/OSS solutions onto Microsoft's Azure"
-    excerpt: "The collaboration will enable service providers to accelerate their move to the cloud by using Amdocs' cloud-native BSS/OSS solutions and services and our unique delivery accountability model while benefiting from the cloud capabilities of Azure to build,"
-    publishedDateTime: 2021-05-24T16:00:00Z
-    webUrl: "https://www.lightreading.com/service-provider-cloud/amdocs-to-put-bssoss-solutions-onto-microsofts-azure/d/d-id/769730"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 37
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Equinix Expands Private Network Access to Microsoft Azure via Azure ExpressRoute"
     excerpt: "Equinix announced that it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix"
     publishedDateTime: 2021-04-30T01:47:00Z

@@ -38,20 +38,6 @@ related:
         width: 880
         height: 494
         isCached: true
-  - title: "Epsagon Expands its Applied Observability Platform with Azure Kubernetes Service Support and Microsoft Azure Partnership to Meet the Needs of Modern Enterprises"
-    excerpt: "Epsagon expands its applied observability core platform and announces Azure partnership and Azure Kubernetes Service support."
-    publishedDateTime: 2020-06-22T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200622005085/en/Epsagon-Expands-Applied-Observability-Platform-Azure-Kubernetes"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200622005085/en/799855/23/Positive_RGB_Logo_Vertical.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "SvPceAmwUJuMOwARKhF+iLsmJh2Yv4YwH/TZyD9GrosyuC5FJovt8QVKO2UI3BELC2NknYqM1hL5qfJj8KvY5inVl1H2ekqUtDpABt1xotk2C7rh7kDFcsiK7cjYLuLuTTbDzG/Zxty1bkV2MOGHeUtnvax++HKkcNfyYSwb3IXNt885H2mZOjrZgV5snarrt8SQ6x1k9jg19EWcryiJLuh5gOasfefy+vYL8pzlrfbJHObqon3Uv/Qq6SYVjO84klBuZ06AjeG/7Mw4lNsWwToj8lM/RbdRPIzjmviugyIOY5iOE9rka1wgRX0+h2wofKDPW5jf5DwbUf8FL2gZYc8iXMCNtjvKxzpPFP+fYdXkANLHz+FCW5UkpnTSrTYd5RsePX8gnuoAgYPa+fkLCUCQc/N0vMgND+umVI/N1HbpqohUnm+KBRg7Xj5goeXZ/fQLVtryJ58SsX60W9nHTaOnb49l7vGNg5OPqr7qMlqAUjuq0osHyRNDPK5LoErOCSxWO4O9d9QUG+7FaIeH7w==;gFc/iPk5gJsn2oMnNh/7Mw=="
 ---

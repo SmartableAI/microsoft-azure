@@ -1805,6 +1805,15 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "SAP partners with Microsoft Azure in the UAE"
+    excerpt: "The statement was made at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to boost the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
+    publishedDateTime: 2020-10-27T12:46:00Z
+    webUrl: "https://www.telecompaper.com/news/sap-partners-with-microsoft-azure-in-the-uae--1359243"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Microsoft wins multiyear cloud and AI deal with FedEx to improve package deliveries"
     excerpt: "Microsoft Corp. and FedEx Corp. today unveiled a multiyear partnership that will see the logistics giant use Azure to build a machine learning-powered platform for predicting package delivery delays."
     publishedDateTime: 2020-05-18T17:12:00Z

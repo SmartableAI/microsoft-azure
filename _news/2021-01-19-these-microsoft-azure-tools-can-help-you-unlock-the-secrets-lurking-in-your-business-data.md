@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 1137
         isCached: true
+  - title: "Microsoft launches Azure Applied AI Services toolkit for enterprise"
+    excerpt: "At Build, Microsoft launched Azure Applied AI Services, a suite of AI tools designed specifically for enterprise scenarios."
+    publishedDateTime: 2021-05-20T20:33:00Z
+    webUrl: "https://venturebeat.com/2021/05/25/microsoft-launches-azure-applied-ai-services-toolkit-for-enterprise/"
+    ampWebUrl: "https://venturebeat.com/2021/05/25/microsoft-launches-azure-applied-ai-services-toolkit-for-enterprise/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/microsoft-launches-azure-applied-ai-services-toolkit-for-enterprise/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 114
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Extending the power of Azure AI to Microsoft 365 users"
     excerpt: "Today, Yusuf Mehdi, Corporate Vice President of Modern Life and Devices, announced the availability of new Microsoft 365 Personal and Family subscriptions. In his blog, he shared a few examples of how Microsoft 365 is innovating to deliver experiences powered by artificial intelligence (AI) to billions"
     publishedDateTime: 2020-03-30T08:30:32Z

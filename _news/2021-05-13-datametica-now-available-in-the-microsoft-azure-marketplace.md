@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Datametica now available in the Microsoft Azure Marketplace"
-excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net - Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the ..."
-publishedDateTime: 2021-05-13T07:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/datametica-now-available-in-the-microsoft-azure-marketplace-1030424788"
-webUrl: "https://markets.businessinsider.com/news/stocks/datametica-now-available-in-the-microsoft-azure-marketplace-1030424788"
+excerpt: "Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the scalability, reliability and agility of Azure to shape business strategies Dr Phil Shelley, Co-founder ..."
+publishedDateTime: 2021-05-13T07:00:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-877551542.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-877551542.html"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -117,34 +119,6 @@ related:
         width: 499
         height: 499
         isCached: true
-  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."
-    publishedDateTime: 2021-05-18T16:41:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-science-426db6015c117211b515f3d7b8cec529"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
-    excerpt: "CHICAGO, May 18, 2021 /PRNewswire/ -- Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure ..."
-    publishedDateTime: 2021-05-19T22:29:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace-301287926.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
   - title: "InfiniteIO Announces Integration with Microsoft Azure to Reduce Cloud Latency and Storage Costs"
     excerpt: "Metadata management innovator InfiniteIO today announced new support for Microsoft Azure to dramatically reduce the cost of primary file storage and minimize cloud latency to help enterprises lower capital and operational expenses and increase application performance."
     publishedDateTime: 2020-06-16T07:20:00Z
@@ -210,15 +184,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
-  - title: "Armorblox Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft (News - Alert) Azure."
-    publishedDateTime: 2021-05-18T13:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-armorblox-now-available-the-microsoft-azure-marketplace-/2021/05/18/9371955.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Cloud-based Database Market – Major Technology Giants in Buzz Again | Oracle, Microsoft Azure, IBM, Apache Cassandra"
     excerpt: "AMA Research have added latest edition of survey study on Global Cloud based Database Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
     publishedDateTime: 2020-06-06T19:22:00Z
@@ -245,6 +210,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "j5mwKB0ueeCdLpXXndx17jot4+fqFIreaiPiyCBV+xorcIvYCejqml6gaUdn+FLm3tCTFOFruJ4bT7IRkkZjKCFzXwxvucaj/APSopqeHTG2d7JFQY7SUGBiKckxVEioJIZNJ9BoNw/zKj6GpEUgomhlA0XcTPYkVvLEnUAz9jn48Y6R6AW3LkdRgOFGaBuvdEijYu4Gq5TqnrOZbe6io2t0pHjf10xyMwyLI57xkan5WSUCeK5rUxqsEJfYmHVhYegTaV0CepH+Xx+Au72jl6jPHBTwRDfMhINbhHXDfrcMwqC3d1v/LYsSMHrofghNhbzU2M8ZKZAdyBKV5PISfxkUG0iV/D3juF082FQ7LPI=;hcwp8xyLyS22p4fxlgvS6g=="
+secured: "eAkhzq70vm9y8Rf2WQ/cocnUtvHlEty5uwgvsHcj/sAv2B5z3cytgrfZmQ98nvQv+OmZpBuYkeIvnTjdV03X4P3wj5Nx8bB0n9OKoBTyZH5L4wV4YZ28KDbhUKhtZTEAhBeXU0V721Jukiq2FI0uL4PfHA5UVzcvQSlnAgV1lcARicii5/gAZ7eJqssvtFXolXA5fCDbjeE4+Mvz4FM2GG7rNk5Ha/WgeMbP4D1EPASN33FKPCqkgd/S/ICHbrTjiV7mzqarjcpyYcpBbxYw/pkclbQtInMQUECqKbjbxZ0Hb3V9GuXU44AJSJnLhAkK7BPNsUq5/VIvitr720dyKBmKGyaEcx1vvKmYuKuPJcE=;1FGnHiMhBfWU+an7RAgu8A=="
 ---
 

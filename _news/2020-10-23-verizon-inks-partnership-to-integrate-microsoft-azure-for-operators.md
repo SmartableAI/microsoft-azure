@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure: This new technology allows you to manage Kubernetes containers across the hybrid cloud"
-    excerpt: "Kubernetes applications can now exploit the cluster and virtualisation technologies that power Azure Stack HCI while still respecting local data. Microsoft is a firm believer in the idea of a hybrid cloud, one that spans everything from microcontrollers at ..."
-    publishedDateTime: 2020-10-26T12:52:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
+  - title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
+    excerpt: "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored."
+    publishedDateTime: 2020-10-22T19:16:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 113
+      name: Neowin
+      domain: neowin.net
+    quality: 97
     images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/10/21/b3efc5c0-cb29-4978-996c-ee0369b1ddde/thumbnail/1200x675/29928a2a0d592f1e74b89a88e9dee284/oculus-quest2.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1603393938_microsoft_honeywell_logo_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Microsoft announces its first Azure data center region in Taiwan"
     excerpt: "After announcing its latest data center region in Austria earlier this month and an expansion of its footprint in Brazil, Microsoft today unveiled its plans to open a new region in Taiwan. This new region will augment its existing presence in East Asia,"
@@ -56,22 +56,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "This Microsoft Azure training is just $30 today"
-    excerpt: "Save hundreds on six eBooks and over 15 hours of video instruction that make it easy to learn Azure on your schedule. Microsoft Azure is a leading cloud computing platform in today's business world, and it looks like it might even become the cloud solution ..."
-    publishedDateTime: 2020-11-01T18:56:00Z
-    webUrl: "https://www.engadget.com/microsoft-azure-training-185539651.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-training-185539651.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-training-185539651.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 97
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F47c223f0-1a30-11eb-bfcc-397b6cf949f5&client=amp-blogside-v2&signature=6bd3014097453f6d1cd13d03fdfc05b682bb5fe2"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Microsoft's commercial cloud continues to hum with Azure sales up 48% in Q1"
     excerpt: "Microsoft's first quarter sales fell short of expectations, but earnings were well ahead. Commercial cloud revenue was $15.2 billion, up 31% from a year ago. Commercial cloud reve"
     publishedDateTime: 2020-10-27T20:27:00Z
@@ -88,38 +72,17 @@ related:
         width: 863
         height: 491
         isCached: true
-  - title: "Microsoft Azure: This new tool makes it easier to manage virtual machines in the cloud"
-    excerpt: "Microsoft's automated system management tools help businesses keep their Azure virtual infrastructures secure."
-    publishedDateTime: 2021-05-20T10:30:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
+  - title: "Honeywell, Microsoft partner on industrial apps, Dynamics, Azure integration"
+    excerpt: "The two companies will combine that artificial intelligence in Honeywell Forge performance management software with Microsoft Dynamics Field Service."
+    publishedDateTime: 2020-10-22T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/05/20/c5095494-b0d0-403b-bb51-ee4a5d603916/resize/1200x/741502e9088de4e6ade36f79a2481cd8/azure-automanage-diagram.jpg"
-        width: 1200
-        height: 842
-        isCached: true
-  - title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
-    excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."
-    publishedDateTime: 2020-10-20T21:14:00Z
-    webUrl: "https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106689529-1599138903852-starlink_satellites_screenshot.png?v=1599138942"
-        width: 1494
-        height: 889
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 91
   - title: "Microsoft cloud business gathers steam as pandemic boosts growth"
     excerpt: "(Reuters) - Microsoft Corp's MSFT.O cloud computing business slightly re-accelerated and its Teams messaging and collaboration software won new users, as a pandemic-driven shift to working from ..."
     publishedDateTime: 2020-10-28T06:41:00Z
@@ -136,19 +99,58 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Unisys CloudForte® for Microsoft Azure: Ease Complex Cloud Adoption for Governments"
-    excerpt: "Learn how Unisys and Microsoft improve and optimize government services in the cloud through their digital transformation partnership."
-    publishedDateTime: 2020-10-27T00:17:00Z
-    webUrl: "https://www.infoworld.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
+  - title: "Public preview: Auditing of Microsoft support operations in Azure SQL DB and Azure SQL MI"
+    excerpt: "The auditing of Microsoft support operations capability enables the audit of Microsoft support operations when accessing servers and/or databases during a support request to an audit logs destination. The use of this capability, along with auditing, enables more transparency into the workforce and allows"
+    publishedDateTime: 2020-10-28T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/auditing-of-microsoft-support-operations-in-azure-sql-db-and-azure-sql-mi/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 71
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
+  - title: "Microsoft unlocks the full potential of the smart building ecosystem"
+    excerpt: "It is impossible to understate the profound impact 2020 events have had on the real estate industry. Buildings of all kinds, from commercial offices to retail, hospitals, manufacturing plants, and more, remain in need of transformative solutions that will enable employees to return to work safely. In"
+    publishedDateTime: 2020-10-26T06:00:00Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-unlocks-the-full-potential-of-the-smart-building-ecosystem/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 74
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2ab0444a-0df7-4672-a9ea-74857e3070d6.png"
+        width: 1024
+        height: 463
+        isCached: true
+  - title: "Microsoft reports strong growth for LinkedIn and cloud platform Azure in Q3 2020"
+    excerpt: "Microsoft reported strong Q3 2020 growth for LinkedIn and Azure, with the former seeing record engagement as people spent time searching for work."
+    publishedDateTime: 2020-10-29T13:08:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-shows-strong-growth-for-linkedin-azure-in-q3-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5f9ab8a469331a0011bc5fc2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Microsoft and SpaceX partner to use Azure with Starlink satellite"
+    excerpt: "We’ve seen Microsoft look to expand its services out into space, as the company recently announced Azure Orbital, a service that connects satellites via cloud. On the other hand, SpaceX has been using its Starlink satellites to offer internet around the globe."
+    publishedDateTime: 2020-10-20T19:10:00Z
+    webUrl: "https://www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite"
+    ampWebUrl: "https://www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/20/spacex-satellite_feature.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
     excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"
@@ -198,22 +200,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Microsoft to Expand Azure Kinect’s Computer Vision Tech to Commercial Market"
-    excerpt: "The technology behind Microsoft’s enterprise-focused computer vision camera, the Azure Kinect developer kit, will soon find its way into commercial products. Microsoft is collaborating with two companies,"
-    publishedDateTime: 2020-11-02T13:26:00Z
-    webUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/"
-    ampWebUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
-    cdnAmpWebUrl: "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
-    type: article
-    provider:
-      name: Road to VR
-      domain: roadtovr.com
-    quality: 54
-    images:
-      - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/11/azure-kinect.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft Cloud for Healthcare is now generally available "
     excerpt: "Microsoft Cloud for Healthcare will make it easier for healthcare organizations to remain agile and focus on what they do best—delivering better experiences, insights, and care."
     publishedDateTime: 2020-10-28T17:00:28Z
@@ -237,6 +223,17 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Rigado Announces Safe Workplace Monitoring Solutions for Microsoft Azure IoT"
+    excerpt: "New devices and displays enable plug and play data collection and automation for Microsoft Azure IoT, helping companies quickly create safer commercial spaces. PORTLAND, Ore."
+    publishedDateTime: 2020-10-22T14:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/p18016063/rigado-announces-safe-workplace-monitoring-solutions-for-microsoft-azure-iot"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18016063"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18016063"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
   - title: "Wayve chooses Microsoft Azure to scale AI-based autonomous driving technology"
     excerpt: "Wayve, the London-based company that’s developing artificial intelligence software for self-driving cars, has signed a deal with Microsoft to use Azure. The UK business, which is at the cutting-edge of autonomous development and is seeing strong growth ..."
     publishedDateTime: 2020-10-22T08:49:00Z
@@ -262,22 +259,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 48
-  - title: "Microsoft teams up with SpaceX to launch Azure Space to bring cloud computing into the final frontier"
-    excerpt: "Microsoft has teamed up with SpaceX and SES to launch the tech giant's new cloud computing business for space Azure Space, Microsoft's cloud computing platform Azure, aims to offer mobile cloud ..."
-    publishedDateTime: 2020-10-21T11:28:00Z
-    webUrl: "https://www.space.com/microsoft-launches-azure-space-cloud-computing"
-    ampWebUrl: "https://www.space.com/amp/microsoft-launches-azure-space-cloud-computing"
-    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/microsoft-launches-azure-space-cloud-computing"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 42
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/a7CuabArsbSLoEURsCbF8j-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
     excerpt: "NORWELL, Mass., Oct. 22, 2020 /PRNewswire/ -- Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an online ..."
     publishedDateTime: 2020-10-22T13:00:00Z
@@ -291,6 +272,20 @@ related:
       - url: "https://mma.prnewswire.com/media/522775/Congruity360_Logo.jpg?p=facebook"
         width: 2695
         height: 1414
+        isCached: true
+  - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
+    excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
+    publishedDateTime: 2020-10-22T00:51:00Z
+    webUrl: "https://redmondmag.com/articles/2020/10/21/azure-modular-datacenter.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AzureModularBig.jpg"
+        width: 1665
+        height: 1158
         isCached: true
   - title: "SAP Solutions and Microsoft Azure partner in UAE"
     excerpt: "Microsoft has announced the availability of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to propel the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
@@ -345,6 +340,34 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Touting Azure for Operators, Microsoft Joins SDN Standards Group"
+    excerpt: "As part of its Azure for Operators program, Microsoft this week joined a nonprofit standards association that focuses on software-defined networking (SDN) technologies used by enterprises and ..."
+    publishedDateTime: 2020-10-27T23:18:00Z
+    webUrl: "https://rcpmag.com/articles/2020/10/27/microsoft-joins-sdn-standards-group.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 37
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1PurpleandWhiteLightsCircles.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "The Migros community relies on Microsoft Azure for its „Journey to the Cloud“"
+    excerpt: "In addition to Microsoft 365, the Swiss retail company will use Azure Services from the Microsoft Cloud in Switzerland in the future, thus accelerating the already advanced digitisation of the entire group of companies. Patrick Mosberger, Head of IT ..."
+    publishedDateTime: 2020-10-18T11:02:00Z
+    webUrl: "https://news.microsoft.com/de-ch/2020/10/18/the-migros-community-relies-on-microsoft-azure-for-its-journey-to-the-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 34
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/418/2020/10/mgb-hochhaus_w915_h515-768x432.jpg"
+        width: 768
+        height: 432
+        isCached: true
   - title: "SAP Solutions and Microsoft Azure Combine Efforts To Drive Forward Business Growth Across the Middle East and Africa"
     excerpt: "... of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and ..."
     publishedDateTime: 2020-10-26T09:47:00Z
@@ -361,6 +384,15 @@ related:
         width: 960
         height: 502
         isCached: true
+  - title: "Flood Prediction Project Powered by SAS IoT Analytics and Microsoft Azure Earns National Innovation Award"
+    excerpt: "One of the first joint projects of the partnership, the Town of Cary’s flood prediction solution demonstrates how customers can take advantage of the vast amount of data generated by the Internet of Things (IoT) by combining Microsoft Azure IoT platform ..."
+    publishedDateTime: 2020-10-30T06:52:00Z
+    webUrl: "https://www.newswiretoday.com/news/174030/Flood-Prediction-Project-Powered-by-SAS-IoT-Analytics-and-Microsoft-Azure-Earns-National-Innovation-Award/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 34
   - title: "Qualys Extends Integration with Microsoft Azure Defender to On-Premises and Multi-Cloud with Microsoft Azure Arc"
     excerpt: "(NASDAQ: QLYS), a pioneer and one of the leading providers of disruptive cloud-based IT, security and compliance solutions, today announced it is expanding its integration of Qualys Vulnerability Management to Microsoft Azure Arc,"
     publishedDateTime: 2020-10-27T13:00:00Z
@@ -374,57 +406,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Principled Technologies Releases Study Comparing Performance of Kubernetes Clusters Running on Microsoft Azure..."
-    excerpt: "Newer D- and E-series VMs with Intel Xeon Cascade Lake processors supported more users than older VMs enabled by previous-generation Intel Xeon processors."
-    publishedDateTime: 2021-04-30T07:01:00Z
-    webUrl: "https://www.pr.com/press-release/826386"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 33
-    images:
-      - url: "https://img.pr.com/release/2104/416814/pressrelease_original_416814_1619714331.png"
-        width: 500
-        height: 647
-        isCached: true
-  - title: "Microsoft Introduces Azure Space to Further Push the Boundaries of Cloud Computing"
-    excerpt: "Recently Microsoft launched its Azure Space initiative as a further push of cloud computing towards space. This initiative by the public cloud vendor consists of several products and partnerships to position Azure as a critical player in the space- and ..."
-    publishedDateTime: 2020-10-27T11:04:00Z
-    webUrl: "https://www.infoq.com/news/2020/10/microsoft-introduce-azure-space/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 31
-    images:
-      - url: "https://res.infoq.com/news/2020/10/microsoft-introduce-azure-space/en/headerimage/croppted-MS+Azure+Space-1603626900569.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "GlobalLogic Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
-    excerpt: "GlobalLogic Inc., a leader in Digital Product Engineering, today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge,"
-    publishedDateTime: 2021-05-05T12:30:00Z
-    webUrl: "https://www.financialbuzz.com/globallogic-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 29
-  - title: "Analysis: In an epic pivot to the cloud, Microsoft makes Azure the linchpin of its future"
-    excerpt: "Microsoft Corp.’s Azure cloud computing service is the linchpin of the tech giant’s innovation strategy. As we reported last week, we believe that in the next decade, changes in public policy will restrict the way in which big internet companies are able to appropriate user data."
-    publishedDateTime: 2020-10-31T18:43:00Z
-    webUrl: "https://siliconangle.com/2020/10/31/analysis-epic-pivot-cloud-microsoft-makes-azure-linchpin-future/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 28
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/AdobeStock_321471082_Editorial_Use_Only-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Microsoft Cloud for Healthcare Reaches General Availability"
     excerpt: "Six months after launching at Build 2020, the Microsoft Cloud for Healthcare vertical cloud solution is now generally available."
@@ -440,20 +421,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Panasonic Expands Cloud Capabilities for Public Safety Professionals with Microsoft Azure Government Cloud"
-    excerpt: "Microsoft Azure Government cloud provides platform services for IDguard – Panasonic’s web-based identity redaction solution. This announcement further builds on the strategic relationship ..."
-    publishedDateTime: 2020-10-23T14:52:00Z
-    webUrl: "https://www.thedailytimes.com/business/panasonic-expands-cloud-capabilities-for-public-safety-professionals-with-microsoft-azure-government-cloud/article_829870a5-2185-5b5a-91fc-111ad2097567.html"
-    type: article
-    provider:
-      name: thedailytimes.com
-      domain: thedailytimes.com
-    quality: 19
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Giacom adds Microsoft Azure cost reporting template to provide richer reporting for customer cost management"
     excerpt: "Giacom’s latest feature addition to its portfolio is the Microsoft Azure Cost Reporting Template. This solution lets Giacom’s partners manage and track cost reporting with the addition of the Azure Cost Reporting Template. This is being descibed as a s ..."
     publishedDateTime: 2020-10-29T15:17:00Z
@@ -467,38 +434,6 @@ related:
       - url: "https://www.pcr-online.biz/wp-content/uploads/Lenovo-1-660x330.jpg"
         width: 660
         height: 330
-        isCached: true
-  - title: "Microsoft Azure: The Winning Formula"
-    excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
-    publishedDateTime: 2020-05-28T12:36:00Z
-    webUrl: "https://seekingalpha.com/article/4350303-microsoft-azure-winning-formula"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
-  - title: "SAP partners with Microsoft Azure in the UAE"
-    excerpt: "The statement was made at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to boost the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
-    publishedDateTime: 2020-10-27T12:46:00Z
-    webUrl: "https://www.telecompaper.com/news/sap-partners-with-microsoft-azure-in-the-uae--1359243"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
-  - title: "SAP Solutions and Microsoft Azure combine efforts to drive forward business growth across the Middle East and Africa"
-    excerpt: "Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to propel the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
-    publishedDateTime: 2020-10-31T18:38:00Z
-    webUrl: "https://menafn.com/1101047490/SAP-Solutions-and-Microsoft-Azure-combine-efforts-to-drive-forward-business-growth-across-the-Middle-East-and-Africa&source=29"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 14
-    images:
-      - url: "https://menafn.com/updates/pr/2020-10/31/pr_2288_69ab30c5_image_story.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
@@ -523,6 +458,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 2
+  - title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
+    excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure. This SaaS-based, scalable offering"
+    publishedDateTime: 2020-10-26T04:11:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable/article_a85c3d82-fdb3-51fc-8c2d-ac3875a44bfa.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "QuFjNrztEQUH+ufQyninaVlQbFum5nhgxC06eSQEQghNudyKs9MLH+oLKEBnmhaaeIeS2WS501YMCfjRZdEWwJxYfo0AMs79a2VyzhbR1E8sj9dx0BRMC0r6B5ROn5dN9rigCDpc69OvXHt/HHwaKjW6YXV1Qlqiu314d2OVPOZHDXjdCVo3K4kdSTslrjiZxSC3CgMNVgF27whh0YRAXIbubAkpCA6BGqidsqiXQzEDBcEUKDzlkZjwvQ8v7qXjT/NCIPcBUf73VbXYKvsTxSEpBsHFPYsUVO9msR22wDNqpqSwisA5lq/Us+l/IQcSQh8icb0LqMK1f9kJMo3DV/c+FLqj+jTefuNH4goO31zbFt2yOBHN76Aw9k4dC2PvwB+W9Tf1KJJuQm69G8j62d8WdhwRcDtRfinbHDdpgbcXdVz7TvqKVCrMOeI7wgWVfPZ/2CUVE+YR8wfTg0rvOmz9k+tXlo/9750KobTDPSReRBhgB2AZM40EapQ0doPpQKK2y3U23Raob9VkQPz93w==;YjZvcQsw2cWJ/l5qTYJELw=="
 ---

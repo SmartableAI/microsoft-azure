@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 1137
         isCached: true
+  - title: "Microsoft launches Azure Applied AI Services toolkit for enterprise"
+    excerpt: "At Build, Microsoft launched Azure Applied AI Services, a suite of AI tools designed specifically for enterprise scenarios."
+    publishedDateTime: 2021-05-20T20:33:00Z
+    webUrl: "https://venturebeat.com/2021/05/25/microsoft-launches-azure-applied-ai-services-toolkit-for-enterprise/"
+    ampWebUrl: "https://venturebeat.com/2021/05/25/microsoft-launches-azure-applied-ai-services-toolkit-for-enterprise/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/microsoft-launches-azure-applied-ai-services-toolkit-for-enterprise/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 114
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft promises huge improvements in Azure uptime"
     excerpt: "Microsoft is making an ambitious availability commitment for its Azure Active Directory (AD) platform, promising to raise its Service Level Agreement (SLA) from 99.9% uptime to 99.99% uptime from April 1,"
     publishedDateTime: 2021-01-07T15:06:00Z

@@ -46,6 +46,36 @@ related:
         width: 630
         height: 479
         isCached: true
+  - title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
+    excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."
+    publishedDateTime: 2020-10-20T21:14:00Z
+    webUrl: "https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106689529-1599138903852-starlink_satellites_screenshot.png?v=1599138942"
+        width: 1494
+        height: 889
+        isCached: true
+  - title: "Unisys CloudForte® for Microsoft Azure: Ease Complex Cloud Adoption for Governments"
+    excerpt: "Learn how Unisys and Microsoft improve and optimize government services in the cloud through their digital transformation partnership."
+    publishedDateTime: 2020-10-27T00:17:00Z
+    webUrl: "https://www.infoworld.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 71
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Microsoft partners with SpaceX to launch Azure Space—Here's what to know about the initiative"
     excerpt: "Tom Keane, Microsoft Corporate vice president in charge of Azure Global, joins 'Squawk Alley' to discuss the company's partnership with SpaceX to bring worldwide satellite connectivity to cloud services."
     publishedDateTime: 2020-10-20T16:50:00Z

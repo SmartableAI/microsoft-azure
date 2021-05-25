@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "SAP Solutions and Microsoft Azure combine efforts to drive forward business growth across the Middle East and Africa"
+    excerpt: "Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to propel the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
+    publishedDateTime: 2020-10-31T18:38:00Z
+    webUrl: "https://menafn.com/1101047490/SAP-Solutions-and-Microsoft-Azure-combine-efforts-to-drive-forward-business-growth-across-the-Middle-East-and-Africa&source=29"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/updates/pr/2020-10/31/pr_2288_69ab30c5_image_story.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Device Authority’s KeyScaler IoT Security Platform Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers now gain access to Device Authority’s KeyScaler to take advantage of the scalability, reliability, and agility of Azure."
     publishedDateTime: 2020-06-23T11:50:00Z

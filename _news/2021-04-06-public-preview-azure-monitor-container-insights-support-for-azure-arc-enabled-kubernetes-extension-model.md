@@ -112,20 +112,6 @@ related:
         width: 748
         height: 768
         isCached: true
-  - title: "Azure Arc Manages Kubernetes Clusters Anywhere, Brings ML on Premises"
-    excerpt: "At the virtual version of its Ignite developers’ conference Tuesday, Microsoft released into general availability a key function of Azure Arc that gives the service something resembling a genuine purpose: the ability to manage ordinary Kubernetes ..."
-    publishedDateTime: 2021-03-05T18:29:00Z
-    webUrl: "https://www.datacenterknowledge.com/microsoft/azure-arc-manages-kubernetes-clusters-anywhere-brings-ml-premises"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 54
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/jeremy%20winter%20microsoft.jpg"
-        width: 827
-        height: 693
-        isCached: true
   - title: "Azure Arc enabled Kubernetes preview and new ecosystem partners"
     excerpt: "In November 2019, we announced the preview of Azure Arc, a set of technologies that unlocks new hybrid scenarios for customers by bringing Azure services and management to any infrastructure across datacenters, edge, and multi-cloud. Based on the feedback and excitement of all the customers in the private"
     publishedDateTime: 2020-05-20T08:30:28Z
@@ -157,15 +143,6 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 0
-  - title: "Netreo Announces Release of Microsoft Azure Kubernetes Service (AKS) Monitoring and Management Functionality"
-    excerpt: "Netreo, the award-winning platform for IT infrastructure monitoring and management leveraging AIOps, today announced the release of its Microsoft Azure Kubernetes Service (AKS) monitoring and management functionality."
-    publishedDateTime: 2020-07-23T18:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/7964710/netreo-announces-release-of-microsoft-azure-kubernetes-service-aks-monitoring-and-management-functionality"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
     quality: 0
 
 secured: "DzjdoDpgT3R0UBZv51cCHP00Zpfuzb2SZOriUbFy9OVHdw4o8GvE7OmS9RvDWC8ZY6/mgTbko3OX/2aSSTETTxTMOkaOmj7CPx0W/2ZbVm8Fl9S7AAlwZ7lWDzy+GkMuag0Z1bHZudH4hEGKna9bVGkp8zZ8c1Rwdd3ADdzHi2tptlHnbGv+HPHYlUK6CKjwmMy3q9tHQLbrlVM1KYri63lwTA/V3N6mZ+kVq4rBjcj6wcwDKUXbgzJeGjVMJe5d4WGBPfVXB9q2ZE+X4QShxTgIIDL6sxcKI8/vdGN+EkMqjlpipZUfaM+E6oe8JyEThK09ObNOQb1OpDfRZ4fLBlODw5Ev+hc2k81/tfAqG1M=;sIppwEGEji/W6Iq1d5GDKA=="

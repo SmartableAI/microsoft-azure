@@ -20,90 +20,225 @@ topics:
   - Azure
 
 related:
-  - title: "Amdocs to Accelerate M1's Digital Transformation on Microsoft Azure"
-    excerpt: "\"Leveraging Microsoft Azure for M1's digital transformation, we are honored to partner with them to accelerate their journey to the cloud. With Amdocs Openet charging and data management products, M1 will be able to harness the power of 5G by managing and ..."
-    publishedDateTime: 2021-04-23T03:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/amdocs-to-accelerate-m1s-digital-transformation-on-microsoft-azure-2021-04-22"
+  - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
+    excerpt: "At its Build developer conference today, Microsoft announced a new set of Azure services (in preview) that businesses can now run on virtually any CNCF-conformant Kubernetes cluster with the help of its Azure Arc multi-cloud service."
+    publishedDateTime: 2021-05-25T15:00:00Z
+    webUrl: "https://techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster/"
+    ampWebUrl: "https://techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 114
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-495666121.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Microsoft Azure: This new technology allows you to manage Kubernetes containers across the hybrid cloud"
+    excerpt: "Kubernetes applications can now exploit the cluster and virtualisation technologies that power Azure Stack HCI while still respecting local data. Microsoft is a firm believer in the idea of a hybrid cloud, one that spans everything from microcontrollers at ..."
+    publishedDateTime: 2020-10-26T12:52:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 113
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/10/21/b3efc5c0-cb29-4978-996c-ee0369b1ddde/thumbnail/1200x675/29928a2a0d592f1e74b89a88e9dee284/oculus-quest2.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Master Microsoft Azure with this prep courses and mock exams bundle"
+    excerpt: "TL;DR: The Ultimate Microsoft Azure Administrator Bundle is on sale for £21.21 as of May 23, saving you 94% on list price. Just a few years ago, if you wanted an IT cloud systems expert position ..."
+    publishedDateTime: 2021-05-23T04:42:00Z
+    webUrl: "https://mashable.com/uk/shopping/may-23-microsoft-certification-bundle/"
+    ampWebUrl: "https://mashable.com/uk/shopping/may-23-microsoft-certification-bundle.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/may-23-microsoft-certification-bundle.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 97
+    images:
+      - url: "https://mondrian.mashable.com/2021%252F05%252F23%252F60%252Fb4bac1a702aa47a1846932e61f1d0d0f.51a25.jpg%252F1200x630.jpg?signature=o-Qaes3GL02Ji6mwRe-bJvnNHiI="
         width: 1200
         height: 630
         isCached: true
-  - title: "Datawiza Automates Application Integration for Microsoft Azure Active Directory"
-    excerpt: "Datawiza, one of the first companies to offer cloud-delivered Access Management as a Service (AMaaS), today announced Datawiza One-Click for Microsoft Azure Active Directory (Azure AD), enabling IT teams using Azure AD for identity management to rapidly integrate new applications into the Azure AD environment without sacrificing security."
-    publishedDateTime: 2021-04-20T13:32:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-ef7afbbddc5d712071466b9a0909da92"
+  - title: "Microsoft Azure is now smarter and more powerful than ever"
+    excerpt: "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as a launchpad for the upgrades,"
+    publishedDateTime: 2021-05-25T15:10:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 67
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cdn.mos.cms.futurecdn.net/rSTmCmeoaSTmeNWWL8GZ8T-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "FileCoin: Decentralized Cloud Storage Competitor To AWS, Microsoft Azure, And Google Cloud"
-    excerpt: "I provide three valuation metrics for FileCoin which illustrate that it could see an intense growth period comparable to Bitcoin. Despite its large recent run-up, the Coin looks inexpensive."
-    publishedDateTime: 2021-04-17T06:29:00Z
-    webUrl: "https://seekingalpha.com/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419553-filecoin-decentralized-cloud-storage-competitor-aws-microsoft-google"
+  - title: "Microsoft Azure launches enterprise support for PyTorch"
+    excerpt: "Microsoft today announced PyTorch Enterprise, a new Azure service that provides developers with additional support when using PyTorch on Azure. It’s basically Microsoft’s commercial support offering for PyTorch PyTorch is a Python-centric open-source machine learning framework with a"
+    publishedDateTime: 2021-05-25T15:00:00Z
+    webUrl: "https://techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/"
+    ampWebUrl: "https://techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/amp/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 64
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
     images:
-      - url: "https://static.seekingalpha.com/uploads/2021/1/18/510561-1610992717787594_origin.png"
-        width: 704
-        height: 552
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-951875250.jpg?w=1024"
+        width: 1024
+        height: 685
         isCached: true
-  - title: "Amdocs to Accelerate M1’s Digital Transformation on Microsoft Azure"
-    excerpt: "Amdocs, a leading provider of software and services to communications and media companies, today announced that M1 Limited, a leading digital network operator in Singapore, has selected its Openet charging and data management products to accelerate the digital transformation programmes on Microsoft Azure."
-    publishedDateTime: 2021-04-22T10:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/amdocs-to-accelerate-m1s-digital-transformation-on-microsoft-azure-2021-04-22"
+  - title: "Microsoft Azure: This new tool makes it easier to manage virtual machines in the cloud"
+    excerpt: "Microsoft's automated system management tools help businesses keep their Azure virtual infrastructures secure."
+    publishedDateTime: 2021-05-20T10:30:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-tool-makes-it-easier-to-manage-virtual-machines-in-the-cloud/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/05/20/c5095494-b0d0-403b-bb51-ee4a5d603916/resize/1200x/741502e9088de4e6ade36f79a2481cd8/azure-automanage-diagram.jpg"
+        width: 1200
+        height: 842
+        isCached: true
+  - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
+    excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
+    publishedDateTime: 2021-05-21T21:40:00Z
+    webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 73
+  - title: "Matthews Joins Microsoft as Azure Solutions Specialist"
+    excerpt: "I’m beyond excited to have joined the Microsoft SLG team as an Azure Solution specialist,” Sara Matthews told Techwire. “I am eager to help my fellow citizens of California by guiding our state towards a digital transformation to support this amazing state."
+    publishedDateTime: 2021-05-20T22:34:00Z
+    webUrl: "https://www.techwire.net/news/matthews-joins-microsoft-as-azure-solutions-specialist"
+    ampWebUrl: "https://www.techwire.net/news/matthews-joins-microsoft-as-azure-solutions-specialist?_amp=true"
+    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/matthews-joins-microsoft-as-azure-solutions-specialist?_amp=true"
+    type: article
+    provider:
+      name: California Techwire
+      domain: techwire.net
     quality: 57
-  - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q3 Earnings"
-    excerpt: "Microsoft MSFT is scheduled to report third-quarter fiscal 2021 results on Apr 27. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
-    publishedDateTime: 2021-04-22T13:51:00Z
-    webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings-2021-04-22"
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/dccbcb4/2147483647/strip/true/crop/386x512+0+0/resize/840x1114!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F72%2Fdd%2F0f049aed419f99654704f1719571%2Fsara-matthews-cropped.jpg"
+        width: 840
+        height: 1114
+        isCached: true
+  - title: "Banyan Security Expands Secure Access to Hybrid Environments With Microsoft Azure Active Directory"
+    excerpt: "Banyan Security today announced an integration between Banyan Security Zero Trust Remote Access and Microsoft Azure"
+    publishedDateTime: 2021-05-25T12:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21274665/banyan-security-expands-secure-access-to-hybrid-environments-with-microsoft-azure-active-directory"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21274665"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21274665"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 57
-  - title: "Microsoft acquires Kinvolk to accelerate container-optimized innovation"
-    excerpt: "The ability to run Kubernetes anywhere, whether in the cloud or on-premises, has been a high priority for Azure customers looking to rapidly innovate, with increasing customer focus on the benefits of container-optimized workloads and operating systems, lean application modernization, easier operations,"
-    publishedDateTime: 2021-04-29T06:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/"
+  - title: "Azure Arc Manages Kubernetes Clusters Anywhere, Brings ML on Premises"
+    excerpt: "At the virtual version of its Ignite developers’ conference Tuesday, Microsoft released into general availability a key function of Azure Arc that gives the service something resembling a genuine purpose: the ability to manage ordinary Kubernetes ..."
+    publishedDateTime: 2021-03-05T18:29:00Z
+    webUrl: "https://www.datacenterknowledge.com/microsoft/azure-arc-manages-kubernetes-clusters-anywhere-brings-ml-premises"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 54
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/jeremy%20winter%20microsoft.jpg"
+        width: 827
+        height: 693
+        isCached: true
+  - title: "Why Microsoft Azure is backing hybrid cloud as the best choice for businesses"
+    excerpt: "With Azure, Microsoft provides the most comprehensive, open, scalable, and trusted intelligent cloud tailored to requirements of businesses. Edited by Teja Lele Desai Please login to continue reading"
+    publishedDateTime: 2021-05-20T17:20:00Z
+    webUrl: "https://yourstory.com/2021/05/why-micrsoft-azure-says-hybrid-cloud-is-the-best-c/amp"
+    ampWebUrl: "https://yourstory.com/2021/05/why-micrsoft-azure-says-hybrid-cloud-is-the-best-c/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/05/why-micrsoft-azure-says-hybrid-cloud-is-the-best-c/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 54
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/shivir1-1621432680596.png "
+        width: 800
+        height: 400
+        isCached: true
+  - title: "2bcloud Achieves its Third Advanced Specialization, for Kubernetes on Azure"
+    excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be"
+    publishedDateTime: 2021-05-20T12:36:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure/article_d03550ed-0386-5f28-ad4b-460dde83d954.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 52
-  - title: "Actual Microsoft DP-300 Exam Dumps [2021] Azure Database Administrator Associate Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft DP-300 exam with ITExamQuestions DP-300 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-300 Administering Relational Databases on Microsoft Azure Exam?"
-    publishedDateTime: 2021-04-20T23:11:00Z
-    webUrl: "https://www.madinamerica.com/author/download-microsoft-dp-300-exam-dumps/"
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "3Cloud Partners with Databricks to Help Companies Build Modern Data + AI Platforms in Microsoft Azure"
+    excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to"
+    publishedDateTime: 2021-05-25T15:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/3cloud-partners-with-databricks-to-help-companies-build-modern-data--ai-platforms-in-microsoft-azure-301298982.html"
     type: article
     provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 44
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
     images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
+      - url: "https://mma.prnewswire.com/media/1518026/Databricks_Partner_Award_Rising_Star_3Cloud.jpg?p=facebook"
+        width: 2699
+        height: 1414
+        isCached: true
+  - title: "Microsoft beefs up Azure’s Kubernetes features and Red Hat integrations"
+    excerpt: "Microsoft Corp. today introduced two updates for Azure, one focused on its managed Kubernetes service and another on Red Hat workloads, that should allow the cloud platform to better accommodate enterprises running a variety of different application types."
+    publishedDateTime: 2020-04-28T20:09:00Z
+    webUrl: "https://siliconangle.com/2020/04/28/microsoft-beefs-azures-kubernetes-features-red-hat-integrations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/microsoft2-1-1.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "NHS Scotland’s track and trace system utilises Microsoft Azure"
+    excerpt: "User information is fully encrypted in NHS Scotland's data lake and only available to contact tracers who have the right digital key."
+    publishedDateTime: 2021-05-19T06:56:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 37
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/dan-gold-E6HjQaB7UEA-unsplash-1.jpg"
+        width: 1920
+        height: 1440
         isCached: true
   - title: "Amdocs to put BSS/OSS solutions onto Microsoft's Azure"
     excerpt: "The collaboration will enable service providers to accelerate their move to the cloud by using Amdocs' cloud-native BSS/OSS solutions and services and our unique delivery accountability model while benefiting from the cloud capabilities of Azure to build,"
@@ -119,157 +254,177 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Download Microsoft AZ-303 Exam Dumps (2021) Azure Solutions Architect Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft AZ-303 exam with ITExamQuestions AZ-303 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-303 Microsoft Azure Architect Technologies Exam?"
-    publishedDateTime: 2021-04-20T04:15:00Z
-    webUrl: "https://www.madinamerica.com/author/download-microsoft-az-303-exam-dumps/"
+  - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
+    excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
+    publishedDateTime: 2021-05-25T15:00:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
     type: article
     provider:
-      name: Mad in America
-      domain: madinamerica.com
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0269-125c74ee81ff-25ae23038fad-1000/microsoft-azure-sign-2.jpg"
+        width: 500
+        height: 375
+        isCached: true
+  - title: "Principled Technologies Releases Study Comparing Performance of Kubernetes Clusters Running on Microsoft Azure..."
+    excerpt: "Newer D- and E-series VMs with Intel Xeon Cascade Lake processors supported more users than older VMs enabled by previous-generation Intel Xeon processors."
+    publishedDateTime: 2021-04-30T07:01:00Z
+    webUrl: "https://www.pr.com/press-release/826386"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
     quality: 33
     images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
+      - url: "https://img.pr.com/release/2104/416814/pressrelease_original_416814_1619714331.png"
+        width: 500
+        height: 647
         isCached: true
-  - title: "Equinix Expands Private Network Access to Microsoft Azure via Azure ExpressRoute"
-    excerpt: "Equinix announced that it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix"
-    publishedDateTime: 2021-04-30T01:47:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/19650-equinix-expands-private-network-access-to-microsoft-azure-via-azure-expressroute"
+  - title: "La Liga expands Microsoft Azure partnership for OTT services and ML enhancements"
+    excerpt: "La Liga, the foremost Spanish football league, has expanded its partnership with Microsoft Azure to focus on machine learning and OTT services."
+    publishedDateTime: 2021-05-20T15:09:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/may/20/la-liga-expands-microsoft-azure-partnership-for-ott-services-and-ml-enhancements/"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
     quality: 32
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/86fd78bde616b05a3c2c5f5efcd2123f.jpg?t=20210430_014141"
-        width: 752
-        height: 408
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/tim-roosjen-jLUSUUUbZeE-unsplash.jpg"
+        width: 1920
+        height: 1292
         isCached: true
-  - title: "Updated Microsoft AZ-300 Exam Dumps (2021) Azure Solutions Architect Expert Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft AZ-300 exam with ITExamQuestions AZ-300 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-300 Microsoft Azure Architect Technologies exam?"
-    publishedDateTime: 2021-04-20T22:39:00Z
-    webUrl: "https://www.madinamerica.com/author/download-real-az-300-exam-dumps/"
+  - title: "GlobalLogic Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
+    excerpt: "GlobalLogic Inc., a leader in Digital Product Engineering, today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge,"
+    publishedDateTime: 2021-05-05T12:30:00Z
+    webUrl: "https://www.financialbuzz.com/globallogic-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
     type: article
     provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 30
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Actual Microsoft AZ-600 Exam Dumps (2021) Azure Stack Hub Operator Associate Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft AZ-600 exam with ITExamQuestions AZ-600 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-600 Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta) Exam?"
-    publishedDateTime: 2021-04-16T22:11:00Z
-    webUrl: "https://www.madinamerica.com/author/download-real-az-600-exam-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 29
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Download AZ-120 Exam Dumps [2021] Microsoft Azure For SAP Workloads Specialty Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft AZ-120 exam with ITExamQuestions AZ-120 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-120 Planning and Administering Microsoft Azure for SAP Workloads exam?"
-    publishedDateTime: 2021-04-18T12:00:00Z
-    webUrl: "https://www.madinamerica.com/author/download-real-az-120-exam-dumps/"
+  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."
+    publishedDateTime: 2021-05-18T16:41:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-science-426db6015c117211b515f3d7b8cec529"
     type: article
     provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 29
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
     images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour"
-    excerpt: "Microsoft is offering end-users the opportunity to take a virtual tour of a typical Azure datacentre so they can get a behind-the-scenes look at the technology powering the public cloud services ..."
-    publishedDateTime: 2021-04-20T14:14:00Z
-    webUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour"
-    ampWebUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 27
-  - title: "Download Microsoft DP-100 Exam Dumps (2021) Microsoft Azure Data Scientist Associate Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft DP-100 exam with ITExamQuestions DP-100 dumps pdf. Do you want to bring your IT career to a new level by taking the DP-100 Designing and Implementing a Data Science Solution on Azure exam?"
-    publishedDateTime: 2021-04-20T23:55:00Z
-    webUrl: "https://www.madinamerica.com/author/download-real-dp-100-exam-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 25
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Download Microsoft AZ-900 Dumps Free Updates for Microsoft Azure Fundamentals Exam Questions [2021]"
-    excerpt: "Pass you Microsoft AZ-900 exam in just one go with DumpsArchive AZ-900 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
-    publishedDateTime: 2021-04-17T20:31:00Z
-    webUrl: "https://www.madinamerica.com/author/try-az-900-dumps-2021/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 23
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Accela Migrates Over 200 Data Center Customers to Microsoft Azure to Accelerate Digital Transformation"
-    excerpt: "PRNewswire/ -- Accela®, a leading provider of cloud-based solutions for government, today announced it successfully completed over 200 customer"
-    publishedDateTime: 2020-11-12T10:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-301171615.html"
+  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
+    excerpt: "CHICAGO, May 18, 2021 /PRNewswire/ -- Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure ..."
+    publishedDateTime: 2021-05-19T22:29:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace-301287926.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 21
+    quality: 28
     images:
-      - url: "https://mma.prnewswire.com/media/1008788/Accela_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
+      - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
-  - title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
-    excerpt: "Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure"
-    publishedDateTime: 2021-04-26T12:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html"
+  - title: "Microsoft Services is now a Kubernetes Certified Service Provider"
+    excerpt: "Modern applications are increasingly built using containers, which are microservices packaged with their dependencies and configurations. For this reason, many companies are either containerizing their existing applications or creating new complex applications that are composed of multiple containers.\r\n\r\nAs"
+    publishedDateTime: 2020-04-28T11:00:41Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-services-is-now-a-kubernetes-certified-service-provider/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 9
+      name: Microsoft
+      domain: microsoft.com
+    quality: 22
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/d9/1d959af6-6d0e-5f96-ba18-7b61aae335fb/6059df86607f4.image.jpg?resize=800%2C522"
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/087e96ea-eb9f-4dcb-9d8b-22fa817b94bc.png"
+        width: 1024
+        height: 586
+        isCached: true
+  - title: "Three more years: Government renews Microsoft cloud, software and services deal"
+    excerpt: "The government has signed a three-year renewal for the second term of the Microsoft cloud, software and services agreement."
+    publishedDateTime: 2021-05-19T00:34:00Z
+    webUrl: "https://www.reseller.co.nz/article/688473/three-more-years-government-renews-microsoft-cloud-software-services-deal/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 18
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/img_20190327_063139.jpg"
         width: 800
-        height: 522
+        height: 546
         isCached: true
-  - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
-    excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"
-    publishedDateTime: 2020-11-04T23:06:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/innovaccers-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their/article_9501b847-092e-5f93-b914-c0b84926deda.html"
+  - title: "Armorblox Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft (News - Alert) Azure."
+    publishedDateTime: 2021-05-18T13:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-armorblox-now-available-the-microsoft-azure-marketplace-/2021/05/18/9371955.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+  - title: "Governance experts Rencore and Alight partner to offer a complete governance solution for the Microsoft Cloud"
+    excerpt: "Rencore, the provider of award-winning software essential for governing Microsoft 365, announced their partnership with Microsoft technology consultants Alight. The partnership combines Rencore's"
+    publishedDateTime: 2021-05-18T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/governance-experts-rencore-and-alight-partner-to-offer-a-complete-governance-solution-for-the-microsoft/article_0326597c-3227-5aa5-b0f3-3d38d12f38ec.html"
     type: article
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 2
+    quality: 3
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/5e/05ee89ea-2eac-51e4-86fe-a186902e6de3/5fa3306b000dd.image.jpg?resize=400%2C293"
-        width: 400
-        height: 293
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace | Morningstar"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."
+    publishedDateTime: 2021-05-18T15:33:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210518sf62378/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 1
+  - title: "Epsagon Expands its Applied Observability Platform with Azure Kubernetes Service Support and Microsoft Azure Partnership to Meet the Needs of Modern Enterprises"
+    excerpt: "Epsagon expands its applied observability core platform and announces Azure partnership and Azure Kubernetes Service support."
+    publishedDateTime: 2020-06-22T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200622005085/en/Epsagon-Expands-Applied-Observability-Platform-Azure-Kubernetes"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: "https://mms.businesswire.com/media/20200622005085/en/799855/23/Positive_RGB_Logo_Vertical.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Netreo Announces Release of Microsoft Azure Kubernetes Service (AKS) Monitoring and Management Functionality"
+    excerpt: "Netreo, the award-winning platform for IT infrastructure monitoring and management leveraging AIOps, today announced the release of its Microsoft Azure Kubernetes Service (AKS) monitoring and management functionality."
+    publishedDateTime: 2020-07-23T18:00:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/7964710/netreo-announces-release-of-microsoft-azure-kubernetes-service-aks-monitoring-and-management-functionality"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
+  - title: "Cybercom declares status as Microsoft Cloud Adoption Framework Ready partner"
+    excerpt: "Cybercom, a specialist in agile software development and public cloud for business-critical systems, said that. Microsoft has granted it official Cloud Adoption Framework (CAF) Ready partner status. Cybercom said this ensures that it operates with the best practices,"
+    publishedDateTime: 2021-05-25T12:13:00Z
+    webUrl: "https://www.telecompaper.com/news/cybercom-declares-status-as-microsoft-cloud-adoption-framework-ready-partner--1384290"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 0
 
 secured: "zt+MVXHgvKI4/iVrP+yUvIoNb8r4q2yjmnTohj/lMCj0zpioJydsWd2DSVotPTEhdJQgcTSatRyzRD5WJWftTggVaAbwTRzX6Uuj36KhLuPQaZt21bLnkW3TP8HZ9xdSnaZbv7GW3/Lii3hRF+zvTWEHLwOrKTGF5S073qCMzN/WI6x8JsOiinkk9JF8MRkOuogmqYV7l6NPFAjXodm2SPxge+IpqkP6FfCPkKcUCsSEWVk4wtXFuFEaQyK+hjOUFxMZpcXmxjHwsE4OdPuXTS/vckSSa4IXQVA+1GKLzWNlWQBgW2ahx1BHx8/cyl75uGI5wfyuUMzxSbRXicqGeLfrG9DShm+4apK3DW5iHAc=;l1AkvE6V8CS10Q2Gh7xWsA=="
 ---

@@ -222,6 +222,22 @@ related:
         width: 626
         height: 386
         isCached: true
+  - title: "Microsoft enables more Azure services to run anywhere via Azure Arc"
+    excerpt: "Microsoft is filling out and repositioning some of its key Azure services, including its Azure Application Services, Azure Applied AI Services and Azure Communication Services."
+    publishedDateTime: 2021-05-25T08:01:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-enables-more-azure-services-to-run-anywhere-via-azure-arc/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-enables-more-azure-services-to-run-anywhere-via-azure-arc/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-enables-more-azure-services-to-run-anywhere-via-azure-arc/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/05/24/687574ae-057e-489c-ba4b-5ac60b9a1f2a/arcenabledkubernetes.jpg"
+        width: 997
+        height: 734
+        isCached: true
   - title: "VMware offers SD-WAN integration with Microsoft Azure Virtual WAN Hub"
     excerpt: "The integration is the latest piece of VMware's strong partnership with Microsoft, and it comes at a time when dispersed workforces are making WAN access more valuable"
     publishedDateTime: 2021-03-03T15:18:00Z

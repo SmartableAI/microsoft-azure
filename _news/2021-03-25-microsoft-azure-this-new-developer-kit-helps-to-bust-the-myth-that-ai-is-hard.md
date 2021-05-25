@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
 type: article
 quality: 110
-heat: 330
+heat: 350
 published: true
 
 provider:
@@ -176,6 +176,15 @@ related:
         width: 762
         height: 398
         isCached: true
+  - title: "Microsoft Azure: The Winning Formula"
+    excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
+    publishedDateTime: 2020-05-28T12:36:00Z
+    webUrl: "https://seekingalpha.com/article/4350303-microsoft-azure-winning-formula"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
 secured: "U8hu+yZnok6RlFE20/lP7Ch+4U4yDzaT7UAL+wnO8IRjpp2s7+FNk0F3ENJCyVRarByeja1DvHjds4lywOW0OmVhOHyo337WM2spcwuCyqAC8zGarFGE2Hd7QLQUFXU6Uof+cmdEgI48qFmyxDotx5VsKrg0HHymV0Tbnf51zggTibjAJ7Q6msMlsA9zymcENvsc6LXI1iRTDYfihNFwjiFghJ8RiBJyKfGVbkpCaKRFD1jmwvFsTZiCmsOj/FZQdLRJFfqYFK+Yedf1LL6MqV74yYP6U9NDfkA+0kV+c6+BMWrbCqr6bBR3UKaXyWmUFc5Ed4XCTvkulc7N1FbsrJQVXO8tAR8zQiW511b3tcGPhuBx6GWeWK878lQzmFXUVHP8bTkh3meEdQbxnoID0FFK8GePWxRWrAZLi8AhYF0As+pzZtWdQxgsynJI44Hr9nevYdtYd7Pk4l/YL+4a+WyeGvWrVOgb/UE4t0CziO2E3PtoFgwAuRJyfdLef2m0tom7f5Ubx2YiLj6tIoBh9A==;4XXMTqilQ76fozZJc5Kdnw=="
 ---

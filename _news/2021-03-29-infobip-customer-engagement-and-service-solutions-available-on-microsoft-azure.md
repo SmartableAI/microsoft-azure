@@ -171,6 +171,15 @@ related:
         width: 762
         height: 398
         isCached: true
+  - title: "Microsoft Azure: The Winning Formula"
+    excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
+    publishedDateTime: 2020-05-28T12:36:00Z
+    webUrl: "https://seekingalpha.com/article/4350303-microsoft-azure-winning-formula"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
 secured: "qjeg5Y3mMwflxnupEyc5cIFJT6J2ESzJCriyCpbgJE0M9Sw2ELDlc0vjAZU+qSyeJIUF5ehIquUGe9Jyo5IgqDrT7EWTwxH1p01GJTg+2aAPv4zU6+0hiSxZgzUFG3927e8/skDPDNLYonFyHDg3nlinuZHqkH5PuD1TDD8O91QAbRPlZ9IkS5BcsJP5OAgN8mXTJW2UjqUXgKAS8gqAhZUz6B2sfRWy3h3miyfWlIT6DBixr/HCygT9EbPtf8gnmXmRnPhSWsiWD21madjrGRLi3laWzf96g0BFCWtWhME9yffe8cNfrnRg1HPdDTxwANugzl51iJsLi9G/Ee9s5hsDtwZUKJjb1v4fGNh0MoG7UJnXvMRIioWrUYAEuxLA/0MjZpQVumZ7pP1AKaTxYLc+5asqHmmKBiYffmQjJIU5vhzTZEg4a59g0mdg+cUO2ViXCHImxNMuB+gW176EeSLnacdUUKI50HpwfbKS0lRjUvoJC1wYCJnhpaYm6DNtw+Pc6cSCvmkMxGR/TI2u7w==;h6QGNekePc39W1blgJYbPA=="
 ---
