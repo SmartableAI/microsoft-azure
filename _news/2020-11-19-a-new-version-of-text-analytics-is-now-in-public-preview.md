@@ -145,6 +145,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 83
+  - title: "Public preview: Scan and view lineage of data stored in Hive Metastore Database using Azure Purview"
+    excerpt: "Azure Purview now supports automated scanning from a Hive Metastore Database to extract schema and lineage between data. "
+    publishedDateTime: 2021-05-25T20:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/scan-and-view-lineage-of-data-stored-in-hive-metastore-database-using-azure-purview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
   - title: "Public Preview: Azure Percept DK May (2105) software update is available"
     excerpt: "Azure Percept DK May (2105) SW update is available. The Azure Percept May update includes improvements for example to security, log rotation fixes, and provisioning experience."
     publishedDateTime: 2021-05-20T17:00:07Z

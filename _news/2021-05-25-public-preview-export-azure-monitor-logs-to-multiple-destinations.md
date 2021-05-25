@@ -136,6 +136,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 83
+  - title: "Public preview: Scan and view lineage of data stored in Hive Metastore Database using Azure Purview"
+    excerpt: "Azure Purview now supports automated scanning from a Hive Metastore Database to extract schema and lineage between data. "
+    publishedDateTime: 2021-05-25T20:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/scan-and-view-lineage-of-data-stored-in-hive-metastore-database-using-azure-purview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
   - title: "A new version of Text Analytics is now in public preview"
     excerpt: "Text Analytics new API version supports batch processing and healthcare scenarios."
     publishedDateTime: 2020-11-19T17:00:33Z

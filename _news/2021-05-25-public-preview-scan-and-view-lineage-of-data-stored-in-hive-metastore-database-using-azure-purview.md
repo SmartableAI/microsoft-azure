@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public preview: Save and share log analytics queries with new query packs in Azure Monitor"
-excerpt: "Query packs are a new capability within log analytics intended to make creating, saving, managing, and discovering log analytics queries simpler and more efficient."
-publishedDateTime: 2021-05-25T16:00:25Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-save-and-share-log-analytics-queries-with-new-query-packs-in-azure-monitor/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-save-and-share-log-analytics-queries-with-new-query-packs-in-azure-monitor/"
+title: "Public preview: Scan and view lineage of data stored in Hive Metastore Database using Azure Purview"
+excerpt: "Azure Purview now supports automated scanning from a Hive Metastore Database to extract schema and lineage between data. "
+publishedDateTime: 2021-05-25T20:00:18Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/scan-and-view-lineage-of-data-stored-in-hive-metastore-database-using-azure-purview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/scan-and-view-lineage-of-data-stored-in-hive-metastore-database-using-azure-purview/"
 type: article
-quality: 91
+quality: 70
 heat: -1
 published: false
 
@@ -20,8 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Analytics
-  - DevOps
+  - Databases
 
 related:
   - title: "Public preview: Log Analytics workspace insights from Azure Monitor"
@@ -51,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 93
+  - title: "Public preview: Save and share log analytics queries with new query packs in Azure Monitor"
+    excerpt: "Query packs are a new capability within log analytics intended to make creating, saving, managing, and discovering log analytics queries simpler and more efficient."
+    publishedDateTime: 2021-05-25T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-save-and-share-log-analytics-queries-with-new-query-packs-in-azure-monitor/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
   - title: "Public preview: Announcing the new Power BI embedded analytics playground "
     excerpt: "Check out the new Power BI embedded analytics playground (public preview). You can find in the new playground experiences for developer and non-developers to get first-hand experience of Power BI embedded analytics."
     publishedDateTime: 2021-03-25T15:00:32Z
@@ -137,15 +145,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 83
-  - title: "Public preview: Scan and view lineage of data stored in Hive Metastore Database using Azure Purview"
-    excerpt: "Azure Purview now supports automated scanning from a Hive Metastore Database to extract schema and lineage between data. "
-    publishedDateTime: 2021-05-25T20:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/scan-and-view-lineage-of-data-stored-in-hive-metastore-database-using-azure-purview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 70
   - title: "A new version of Text Analytics is now in public preview"
     excerpt: "Text Analytics new API version supports batch processing and healthcare scenarios."
     publishedDateTime: 2020-11-19T17:00:33Z
@@ -183,6 +182,6 @@ related:
       domain: microsoft.com
     quality: 48
 
-secured: "YpJ5Kj5DLdK3LudvaPROQfmSQMEcPDCE0HkFrzMCfZIBGs7BJmGWHUkoCG4oRmRdMYmngnGo09JR4XkGvqcmS2IPoHg/LeYovd8sX+g5Y47zP1a4zMc31zddgBaPpYGJsQbvDskTZC33GvAZhR/khu1aPcAeMa0Uc7wD8mBx+diM+KVEj7lr7xe+ttySgRv15vk3fvFZWZoaUhtTZRcnvN26BVnvs1u/V/sHOrzZzeeuhI5xrtMqNi9IjvM/KnCswBVIt1gt7qMsbQoFOftAcdFBCKjDd7sII5YBAd4v2xukPwb+YitP4tjebKIEBcX6WnUnx5noDCe1oeWh7SmlRER3ZM/gGk2gKEkbIDe5y/4=;GDwg3LxSykn/R6/Y7Ue4vQ=="
+secured: "JkN6BSNB05ranrq0YPqVQMwgsx5ERHpka/FlMWtyryX1YXKm8bcV/MIB3/18Jq9FWtpD9bDw5Ms1q5qjHZfOt+r0AkxsNlSNkPJfjFboTXO8taIVOIkSxZl8Ya5mlE71qj92R0bN0K7RD+TQqeAiW1uJrI+JHxf+qpyn11JHSWja5Rnt+Z3SgxUkwpUvz3yjhrNLv94yvOizAA7kFAyWBc9gaEnKuR/Pq8kCefX7ngUGQhNWQnWzGQRs3tS0DgSYJ8ZbJuf6gF+Jt9zHWsbKhTh4rPcJ4Xa1YOiayzcR3G6YGtv7YVAFIN091x99jWLbpeg/ZrKpyFspZhNlYh4UhPyF9OTptxiJM8BF4BbOQMg=;Y/M9V2RH7erQ6MHgKyHsyA=="
 ---
 
