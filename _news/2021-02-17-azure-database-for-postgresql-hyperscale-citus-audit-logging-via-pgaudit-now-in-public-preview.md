@@ -50,6 +50,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 91
+  - title: "Public preview: Azure Database for PostgreSQL – Hyperscale (Citus) columnar compression"
+    excerpt: "Included with Citus 10, columnar compression is now supported in the Hyperscale (Citus) option in Azure Database for PostgreSQL, a managed service running the open source Postgres database on Azure."
+    publishedDateTime: 2021-05-25T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-hyperscale-citus-columnar-compression/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
+  - title: "Public preview: Azure Database for PostgreSQL – Hyperscale (Citus) support for Citus 10"
+    excerpt: "With the support of Citus 10, columnar storage, and more are now included in Azure Database for PostgreSQL – Hyperscale (Citus), a managed service running the open source Postgres database on Azure."
+    publishedDateTime: 2021-05-25T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-hyperscale-citus-support-for-citus-10/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
   - title: "Azure Database for PostgreSQL – Hyperscale (Citus) maintenance schedules in public preview"
     excerpt: "Now Hyperscale (Citus) supports custom schedules for maintenance – specify your preferred day of the week and 30-minute time window."
     publishedDateTime: 2021-04-14T16:00:46Z
@@ -68,6 +86,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 87
+  - title: "Public preview: Azure Database for PostgreSQL – Hyperscale (Citus) support for PostgreSQL 12 and 13"
+    excerpt: "Create Azure Database for PostgreSQL - Hyperscale (Citus) server groups with Postgres 12 and Postgres 13, in addition to previously supported Postgres 11."
+    publishedDateTime: 2021-05-25T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-hyperscale-citus-support-for-postgresql-12-and-13/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 85
   - title: "New regions for Azure Database for PostgreSQL—Hyperscale (Citus)"
     excerpt: ""
     publishedDateTime: 2020-06-01T16:00:14Z

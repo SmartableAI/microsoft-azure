@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/asr-policy-preview/"
 webUrl: "https://azure.microsoft.com/en-us/updates/asr-policy-preview/"
 type: article
 quality: 84
-heat: 164
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -23,42 +23,51 @@ topics:
   - Migration
 
 related:
-  - title: "Azure Purview now supports Private Endpoints in public preview"
-    excerpt: "Add a layer of security and network isolation to your Purview account."
-    publishedDateTime: 2021-05-13T19:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/purviewpe/"
+  - title: "Azure Database for PostgreSQL – Flexible Server (public preview) managed PgBouncer in public preview"
+    excerpt: "PgBouncer, a popular connection pooler for Postgres, is now part of the Azure Database for PostgreSQL - Flexible Server (preview) managed service."
+    publishedDateTime: 2021-04-28T16:00:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-managed-pgbouncer-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "New Azure VMs for general purpose and memory intensive workloads now in public preview"
-    excerpt: "New Dv5, Dsv5, Ddv5, Ddsv5, and Ev5, Edv5 series Azure Virtual Machines deliver increased scalability and an upgraded CPU architecture, including better price to performance compared to the prior generation. The new VMs - now in public preview - run on the 3rd Generation Intel® Xeon® Platinum 8370C (Ice"
-    publishedDateTime: 2021-04-26T18:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-vms-for-general-purpose-and-memory-intensive-workloads-now-in-public-preview/"
+    quality: 84
+  - title: "Public preview: AKS support for Secrets Store Container Storage Interface "
+    excerpt: "Access your secrets securely via the container's file system."
+    publishedDateTime: 2021-05-04T16:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-secrets-store-container-storage-interface/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 59
-  - title: "Azure Site Recovery now supports proximity placement groups"
-    excerpt: ""
-    publishedDateTime: 2020-05-29T01:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-now-supports-proximity-placement-groups/"
+    quality: 84
+  - title: "Public preview: Enhancements to encryption using customer managed keys for Azure Backup"
+    excerpt: "Encryption of backup data in Recovery Services vaults using customer managed keys has enhancements in public preview."
+    publishedDateTime: 2021-04-22T16:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-enhancements-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Azure Site Recovery now supports replication with private links"
-    excerpt: "Ensure a secure channel for replication of your Azure and on-premises workloads with the help of private links capability of Azure and Site Recovery."
-    publishedDateTime: 2020-07-14T17:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-now-supports-replication-with-private-links/"
+    quality: 76
+  - title: "QnA Maker introduces deep learning (Public Preview)"
+    excerpt: "The next version of QnA Maker introduces state-of-art deep learning technologies and advances several core capabilities like better relevance and precise answering."
+    publishedDateTime: 2020-11-09T18:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
+    quality: 52
+  - title: "Public preview: Application Insight in South India and West Central US "
+    excerpt: "Application Insight is now in public preview for customers to start collecting telemetry and analyzing their services for health in the following list of regions South India West Central US."
+    publishedDateTime: 2021-04-28T23:14:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-norway-west-south-india-and-france-south-and-west-central-us/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "SP8OL/w08vBwy9wahzklmeSzesPM0mzdLDQFRcbEUWyL+t4H09vsTyWWKpLW2FLmdcZTYI5uVB8sunjJj88axPHU9VMlt1WDxdAqRHdgVl4J/oO+9nkQTT/oSq6vDIjz+S52yOnjNJY0qvRGs1ypTe+hgHkiG6ee9H490u7e/UtTVoHnoEgiKKjMdQYGyflyFLiPZ2iN7qCD8DgATwb9jLvyAftyUOL7MyeUHa7HlAqkXaTbwUf0soDM8NWCdcm7vICA6GwH785rizjeyb9jB3drKh0Qp8Ar41sh853O0doAfyRipJQ++BnIjmbJJmhu8b/0JSILakcC+oDX7Naqo36d2BWfzvnlmhNw5R5VZuw=;4RGgPiBCidEapR6d6jkqeA=="
 ---

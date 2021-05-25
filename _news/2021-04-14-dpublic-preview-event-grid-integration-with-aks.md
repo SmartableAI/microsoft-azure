@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-gri
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-grid-integration-with-aks/"
 type: article
 quality: 101
-heat: 381
+heat: 401
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
     excerpt: "You can now easily see when your AKS resources were unavailable due to any problems encountered as well as under any maintenance operation."
     publishedDateTime: 2020-08-17T23:01:22Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Public preview: Azure Confidential Ledger"
+    excerpt: "Create a managed service built on top of the Confidential Consortium Framework that spins up a permissioned blockchain network of nodes within Azure confidential computing."
+    publishedDateTime: 2021-05-25T16:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-confidential-ledger/"
     type: article
     provider:
       name: Microsoft

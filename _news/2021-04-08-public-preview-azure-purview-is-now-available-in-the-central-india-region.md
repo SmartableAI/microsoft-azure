@@ -94,6 +94,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Public preview: Azure Confidential Ledger"
+    excerpt: "Create a managed service built on top of the Confidential Consortium Framework that spins up a permissioned blockchain network of nodes within Azure confidential computing."
+    publishedDateTime: 2021-05-25T16:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-confidential-ledger/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Public preview: Announcing Azure STIG solution templates to accelerate compliance for DoD"
     excerpt: "Announcing the availability of Security Technical Implementation Guide (STIG) solution templates for both Windows and Linux on the Azure Marketplace (commercial) and Azure Government Marketplace."
     publishedDateTime: 2021-04-09T17:14:51Z

@@ -51,6 +51,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Event Hubs Premium now available in public preview"
+    excerpt: "Event Hubs Premium is a new product SKU that is tailor-made for high-end event streaming scenarios that require elastic, superior performance with predictable latency."
+    publishedDateTime: 2021-05-25T16:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/event-hubs-premium-now-available-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Azure Monitor Logs—New experience for agents is now available"
     excerpt: ""
     publishedDateTime: 2020-05-26T18:00:22Z

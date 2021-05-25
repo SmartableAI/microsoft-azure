@@ -62,6 +62,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Public preview: Run App Service on Kubernetes or anywhere with Azure Arc"
+    excerpt: "You can now run Web Apps against a range of fully managed App Service plans or choose to deploy against Azure Kubernetes Service or your own Kubernetes clusters connected through Azure Arc that are running on-premises, at the edge, or in other clouds."
+    publishedDateTime: 2021-05-25T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-run-app-service-on-kubernetes-or-anywhere-with-azure-arc/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 100
   - title: "Master Microsoft Azure with this prep courses and mock exams bundle"
     excerpt: "TL;DR: The Ultimate Microsoft Azure Administrator Bundle is on sale for £21.21 as of May 23, saving you 94% on list price. Just a few years ago, if you wanted an IT cloud systems expert position ..."
     publishedDateTime: 2021-05-23T04:42:00Z
@@ -94,6 +103,24 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Azure Kubernetes Service (AKS) on Azure Stack HCI is now generally available"
+    excerpt: "AKS on Azure Stack HCI is a Kubernetes based platform that developers and administrators can use to build, deploy and manage containerized applications in their datacenters and edge locations. "
+    publishedDateTime: 2021-05-25T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-on-azure-stack-hci-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 96
+  - title: "Public preview: Run Event Grid on Kubernetes in Azure or anywhere with Azure Arc"
+    excerpt: "You can now run Event Grid on Kubernetes clusters anywhere to manage routing of all your events from any source to any destination."
+    publishedDateTime: 2021-05-25T16:00:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-run-event-grid-on-kubernetes-in-azure-or-anywhere-with-azure-arc/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 96
   - title: "Microsoft Azure: This new tool makes it easier to manage virtual machines in the cloud"
     excerpt: "Microsoft's automated system management tools help businesses keep their Azure virtual infrastructures secure."
     publishedDateTime: 2021-05-20T10:30:00Z
@@ -110,6 +137,24 @@ related:
         width: 1200
         height: 842
         isCached: true
+  - title: "Azure Applied AI Services public preview updates for Build 2021"
+    excerpt: "Azure AI is introducing a new category of services called Azure Applied AI Services. These services accelerate time-to-value in building AI solutions for common business processes. Within this category, Azure Video Analyzer is now in public preview. The service brings Live Video Analytics and Video Indexer"
+    publishedDateTime: 2021-05-25T16:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-applied-ai-services-public-preview-updates-for-build-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Public preview: Kubernetes 1.21 support in AKS"
+    excerpt: "AKS customers can now benefit from new features in Kubernetes 1.21"
+    publishedDateTime: 2021-05-25T16:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-kubernetes-121-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
     excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
     publishedDateTime: 2021-05-21T21:40:00Z
@@ -431,6 +476,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "ncpSeB49F9dkY4SXwns7G+RmzlkOjK1xVpQjgLI/OE5avw/9VDQOz7DSJknY6cUjinD3zfW6bV4DA57892nKS9ZaY81K3yGeFl7744wus8ehl/AqT3vUZOvksNVxRU1o3XD0cwaw8dBlfitQoqYNrOUvBqhX6V8cLIjebOnwyc1ejrK81Sz47KayvqHDrpjotVRGewl2/LxkIF8U5MWNbAGo/ri5Xk1eNU/67Woh2JI55EE2X4N9Xl4YhlLd6c06o1DtTF4rw8m5LsqqrfFdaj8Dhca8L6GqMcS/nUoIqubTYBb4GutsMXRd83WOCYuExDojGpSmapMZGKCbijOCT7D4R6i03oEkjjeRxeMJtZ0=;yOII03S72nQh1Snca14iUg=="
+secured: "RG4hN0DdD9MFE5EYvYle/VV7vomFmX5hnEIKv48xROe2NzTBuwRFv1i+AYkOej7PLGH2kbY2zFkApjoR70hi6yfIadEWUYr/v+W8qV0jtHY/Vv+1gZnAFsmOTdEdsJalQKlqrZr28u6eBdA95nCBE2oJUwwO9nl3Rv8ftPzxgCUcAmY2O/c+cbHD7FVGVbo+c9ggQ9hgpTqPesqsx2+qdykk7GPsue5mOB2XE8ut+M/wF/Jky94S+ndqSQEqLZIN/MQHs9kOgxJ8AMrDplsRIJfv7LBEfAFXO3L9lvNMSkmuAKNGTw7OMP9ma8ci2yG2cGk0jwQz+Cp+eIbWUyRh1z+NdQXMhT6ljS2n1YMdfol1ypuXX2Z45BTedmt9pVwTBf77Gp6lhhbzqx7nxa8af2kePO8fGeORGKoa4e7imf6Rny64S7Uz79RGfVof7MNR+AIL89LtfXJehtK97l2wxxr0shwPMQNgqO4dN9Q4dqtel1NaE7Aym8uqhUSWsi0WBcQv1xSGuOwS/9f2vfCOSA==;ttpapY/W6Ni4WqY7VE+OCQ=="
 ---
 

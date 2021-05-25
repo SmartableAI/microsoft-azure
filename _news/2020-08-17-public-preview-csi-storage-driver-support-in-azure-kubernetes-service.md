@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 97
-  - title: "Public preview: Azure Log Analytics in UAE Central & Japan West"
-    excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in UAE Central & Japan West."
-    publishedDateTime: 2021-01-21T17:03:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-uae-central-japan-west/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Public preview: Azure Machine Learning Data Labeling – Image Instance Segmentation "
     excerpt: "Data Labeling in Azure Machine learning gives you a central place to create, manage, and monitor labeling projects."
     publishedDateTime: 2021-01-28T23:43:18Z

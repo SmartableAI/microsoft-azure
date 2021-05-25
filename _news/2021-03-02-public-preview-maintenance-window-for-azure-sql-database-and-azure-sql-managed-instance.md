@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 114
+  - title: "Azure SQL Database ledger available in public preview"
+    excerpt: "Use Azure SQL Database ledger (preview) to eliminate the additional cost, complexity, and performance overhead of decentralized blockchain technology and enable tamper-evidence through cryptographic verification of your centralized data store."
+    publishedDateTime: 2021-05-25T16:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-ledger-available-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 114
   - title: "Azure Monitor SQL insights for Azure SQL in public preview "
     excerpt: "Get a single monitoring experience for all your cloud-based SQL deployments with Azure Monitor SQL insights "
     publishedDateTime: 2021-03-17T16:00:24Z

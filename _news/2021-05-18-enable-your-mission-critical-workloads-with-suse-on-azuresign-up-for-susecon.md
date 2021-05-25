@@ -37,6 +37,15 @@ related:
         width: 1462
         height: 1056
         isCached: true
+  - title: "Azure Cosmos DB integrated cache now in public preview"
+    excerpt: "Optimize read costs in Azure Cosmos DB by enabling an integrated cache, an in-memory cache that is easy to configure and requires only minimal application code changes.\n"
+    publishedDateTime: 2021-05-25T16:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-integrated-cache-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "X9sYCbIkSfnY6BnZeGV4/uD1t0qeiszchvbf594E7oA2nzhHvRXjP/0jc4ZRhULDKOS2A0vV1KUtElNCuoJeMrEJ5Ga7p6sxsJrMNuOB8c9rZ0BuLeBQrl0gxCMHOI9ZnJ+Sf9DLP+wGlgxpalSkxaGGPha1MBhxyqcVf9MrZ6+/LAFuZUkl9Lkb3tr3H7nenjKW801sECAlAbcSrKbqidKd9sKHj0Fd4TIrUR4w2K+asF5X2tJRQ82/m0PspWp7Igk7+dr+VABgoXUSmWEqYlqClMv21xx+mNJ9Fj0HGgD3Jw+pRPQlh6dO26WlUr9Q5T3X7Qp52VwawR92yoRaWfGzzmJ7J+R4kjk0RtlzKhw=;ZRoz2vswBNTdY/Q3nG0ISA=="
 ---

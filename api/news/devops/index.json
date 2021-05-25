@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-25-public-preview-log-analytics-workspace-insights-from-azure-monitor.md",
+      "title": "Public preview: Log Analytics workspace insights from Azure Monitor",
+      "excerpt": "A new workbooks-based insights experience for all log analytics workspaces available per resource, and at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-log-analytics-workspace-insights-from-azure-monitor/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-log-analytics-workspace-insights-from-azure-monitor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 421,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T09:00:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Analytics",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-azure-is-the-home-for-your-enterprise-java-applications.md",
       "title": "Azure is the home for your enterprise Java applications",
       "excerpt": "Microservice architectures are becoming more prevalent, and developers are building more applications on cloud platforms using containers and managed services. The Java ecosystem is complex and running Java applications in the cloud at an enterprise scale can be challenging. Our customers are asking",
@@ -10,7 +54,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/azure-is-the-home-for-your-enterprise-java-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -27,6 +71,49 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-25T01:00:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-public-preview-stateful-and-1-minute-frequency-log-alerts-in-azure-monitor.md",
+      "title": "Public preview: Stateful and 1-minute frequency log alerts in Azure Monitor",
+      "excerpt": "Log search based alerts can now be automatically resolved, and query can be evaluated every minute for faster time to fire.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-stateful-and-1minute-frequency-log-alerts-in-azure-monitor/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-stateful-and-1minute-frequency-log-alerts-in-azure-monitor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T09:02:01-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -1318,60 +1405,7 @@
         "Databases",
         "DevOps"
       ]
-    },
-    {
-      "path": "_news/2020-04-08-using-azure-monitor-source-map-support-to-debug-javascript-errors.md",
-      "title": "Using Azure Monitor source map support to debug JavaScript errors",
-      "excerpt": "Azure Monitor’s new source map support expands a growing list of tools that empower developers to observe, diagnose, and debug their JavaScript applications.\r\n\r\nDifficult to debug\r\n\r\nAs organizations rapidly adopt modern JavaScript frontend frameworks such as React, Angular, and Vue, they are left with",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/using-azure-monitor-source-map-support-to-debug-javascript-errors/",
-      "originalUrl": "https://azure.microsoft.com/blog/using-azure-monitor-source-map-support-to-debug-javascript-errors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/afb741b8-1eff-4f60-b6fa-c280efd22d1a.gif",
-          "width": 852,
-          "height": 453,
-          "title": "Using Azure Monitor source map support to debug JavaScript errors",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Management tools",
-        "DevOps"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 2
 }

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-is-the-home-for-your-enterp
 webUrl: "https://azure.microsoft.com/blog/azure-is-the-home-for-your-enterprise-java-applications/"
 type: article
 quality: 89
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 88
-  - title: "Red Hat Brings JBoss Enterprise Application Platform to Microsoft Azure, Easing Shift to the Cloud for Traditional Java Applications"
-    excerpt: "Offering enables the migration of Java applications to cloud environments Red Hat, Inc., the world's leading provider of open source solutions, today announced Red Hat JBoss Enterprise Application Platform (JBoss EAP) on Microsoft Azure,"
-    publishedDateTime: 2021-05-25T10:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210525005305/red-hat-brings-jboss-enterprise-application-platform-to-microsoft-azure-easing-shift-to-the-cloud-for-traditional-java-applications"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "ErQMCyp/LpqnLr84mITnmOSZJgfsL66nY8JH2XiaRvcg3KRJJ0zcnBOL3rw0bUnfyALkf8nVl1/yRsadGhMDRgUzeff6r0r4coZ1b+JB9LeZ5P+ZK/HFcxKY/F/AtIm8to1IQDas4xCqPn4qMfYGJaHhJB72KF2n1s6G+iYz7odFZtqB3T+gf1KiEQC7mAh9vtr7vLyHgqskNG6x0/x6QWTnMJCFr4hW8kVLUJWChumH6nqLZJwsX/slv7vyzRnXV6rhCCN11eADaOhI8Mb7MGVFmTBWYS2BPVxv5VhUraqVbclIbVJEHTcExnOvE8V53pQ2gM0Y4tNJI3Fi4mwKjrlvj6pPLXJOqB6GiOXkKTI=;Dfats2tkXc2folF5RRXnRA=="
 ---

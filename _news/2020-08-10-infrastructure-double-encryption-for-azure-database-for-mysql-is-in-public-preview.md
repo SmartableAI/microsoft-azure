@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Database for MySQL – Flexible Server: Azure Free offer coming soon"
+    excerpt: "Beginning in June 2021, enjoy the Azure Database for MySQL - Flexible Server B1ms compute SKU and 32GB storage free offer for the first 12 months."
+    publishedDateTime: 2021-05-25T16:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-azure-free-offer-coming-soon/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 98
   - title: "Azure Database for MySQL - Flexible Server: PowerShell Module in public preview"
     excerpt: "Use PowerShell to manage dependent resources and Azure Database for MySQL-  Flexible Servers. "
     publishedDateTime: 2021-05-12T16:00:20Z

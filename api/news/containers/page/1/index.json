@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-25-public-preview-aks-support-for-containerd-for-windows-server-containers.md",
+      "title": "Public preview: AKS support for containerd for Windows server containers",
+      "excerpt": "Benefit from enhanced pod creation speed and stability when creating Windows server containers in AKS.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-containerd-for-windows-server-containers/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-containerd-for-windows-server-containers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T09:00:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster.md",
       "title": "Microsoft brings more of its Azure services to any Kubernetes cluster",
       "excerpt": "At its Build developer conference today, Microsoft announced a new set of Azure services (in preview) that businesses can now run on virtually any CNCF-conformant Kubernetes cluster with the help of its Azure Arc multi-cloud service.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 714,
+      "heat": 814,
       "tags": null,
       "images": [
         {
@@ -54,50 +97,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-04-public-preview-aks-support-for-secrets-store-container-storage-interface.md",
-      "title": "Public preview: AKS support for Secrets Store Container Storage Interface ",
-      "excerpt": "Access your secrets securely via the container's file system.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-secrets-store-container-storage-interface/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-secrets-store-container-storage-interface/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T09:00:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage",
-        "Containers"
-      ]
-    },
-    {
       "path": "_news/2021-04-14-dpublic-preview-event-grid-integration-with-aks.md",
       "title": "dPublic preview: Event Grid integration with AKS",
       "excerpt": "Automate AKS operations by subscribing to events and handling them.",
@@ -106,7 +105,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-event-grid-integration-with-aks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 381,
+      "heat": 401,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -194,50 +193,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-02-public-preview-containerize-and-migrate-apps-to-azure-kubernetes-service-with-azure-migrate-app-containerization.md",
-      "title": "Public preview: Containerize and migrate apps to Azure Kubernetes Service with Azure Migrate: App Containerization ",
-      "excerpt": "The new app containerization feature will allow you to migrate your applications to containers on AKS. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-containerize-and-migrate-apps-to-azure-kubernetes-service-with-azure-migrate-app-containerization/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-containerize-and-migrate-apps-to-azure-kubernetes-service-with-azure-migrate-app-containerization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T09:00:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Containers",
-        "Migration"
-      ]
-    },
-    {
       "path": "_news/2021-03-02-general-availability-deploy-weblogic-on-azure-kubernetes-service-aks-using-custom-docker-images.md",
       "title": "General availability: Deploy WebLogic on Azure Kubernetes Service (AKS) using custom Docker images",
       "excerpt": "You can now deploy Oracle WebLogic Server (WLS) domains to Azure in a Kubernetes native fashion using custom Docker images and Azure Container Registry (ACR).",
@@ -246,7 +201,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/general-availability-deploy-weblogic-on-azure-kubernetes-service-aks-using-custom-docker-images/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -342,7 +297,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 197,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -375,49 +330,6 @@
         "Azure",
         "Containers",
         "Security"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-public-preview-support-of-azure-container-registry-across-availability-zones.md",
-      "title": "Public preview: Support of Azure Container Registry across Availability Zones",
-      "excerpt": "Announcing the public preview support of Azure Container Registry across Availability Zones",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-support-of-azure-container-registry-across-availability-zones/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-support-of-azure-container-registry-across-availability-zones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-28T09:00:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     },
     {

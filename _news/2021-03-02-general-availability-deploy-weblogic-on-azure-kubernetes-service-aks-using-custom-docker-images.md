@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-dep
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-deploy-weblogic-on-azure-kubernetes-service-aks-using-custom-docker-images/"
 type: article
 quality: 105
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 798
         height: 449
         isCached: true
+  - title: "General availability: Azure RBAC for Kubernetes Authorization in AKS"
+    excerpt: "Achieve unified management and access control across Azure and AKS resources."
+    publishedDateTime: 2021-05-25T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-rbac-for-kubernetes-authorization-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "General availability: Azure monitor for containers now supports Pods & Replica set live logs in AKS resource view"
     excerpt: "View live logs of your pods & replica-sets in Azure Kubernetes Service(AKS) resource view. Filter, search, and troubleshoot your pods and replica-sets."
     publishedDateTime: 2021-03-05T21:00:08Z

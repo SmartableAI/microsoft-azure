@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 82
+  - title: "Python Durable Functions support in Azure Functions is now generally available"
+    excerpt: "Python developers can now create serverless workflows to orchestrate complex data processing and data science workloads in Azure Functions."
+    publishedDateTime: 2020-12-16T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/python-durable-functions-support-in-azure-functions-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "Azure HDInsight --Autoscale for Interactive Query with HDInsight 4.0 is now generally available"
     excerpt: "Enable HDInsight Autoscale to drive higher utilization of your clusters. "
     publishedDateTime: 2020-09-29T16:39:04Z
@@ -72,6 +81,15 @@ related:
     excerpt: "Using the Selective disks backup feature, you get an option to backup subset of the data disks in an Azure Virtual Machine.\n\n"
     publishedDateTime: 2020-09-22T16:05:23Z
     webUrl: "https://azure.microsoft.com/en-us/updates/selective-disks-backup-for-azure-virtual-machine/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Private Link support for Azure Automation is now generally available"
+    excerpt: "Ensure a secure channel to connect to your Automation Accounts resources with the help of Private Links in Automation."
+    publishedDateTime: 2020-12-11T22:19:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-private-link/"
     type: article
     provider:
       name: Microsoft

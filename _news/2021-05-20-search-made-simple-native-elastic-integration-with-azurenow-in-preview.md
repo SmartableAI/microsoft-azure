@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/search-made-simple-native-elastic
 webUrl: "https://azure.microsoft.com/blog/search-made-simple-native-elastic-integration-with-azure-now-in-preview/"
 type: article
 quality: 103
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Azure Cosmos DB integrated cache now in public preview"
+    excerpt: "Optimize read costs in Azure Cosmos DB by enabling an integrated cache, an in-memory cache that is easy to configure and requires only minimal application code changes.\n"
+    publishedDateTime: 2021-05-25T16:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-integrated-cache-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Enable your mission-critical workloads with SUSE on Azure—sign up for SUSECON"
     excerpt: "Microsoft is participating in SUSECON and bringing the latest technical integrations and support to SUSE Linux users. We will share the latest innovation that enables mission-critical SUSE workloads to migrate and operate in Azure during the event. We will cover the latest advancement of SAP on Azure"
     publishedDateTime: 2021-05-18T09:00:20Z

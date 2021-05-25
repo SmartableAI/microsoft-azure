@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postg
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-with-managed-pgbouncer-in-preview/"
 type: article
 quality: 94
-heat: 154
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -23,6 +23,15 @@ topics:
   - Databases
 
 related:
+  - title: "Azure Database for PostgreSQL – Flexible Server: Azure Free offer coming soon"
+    excerpt: "Utilize the B1ms compute SKU and 32GB storage free offer (coming June 2021) on Azure Database for PostgreSQL – Flexible Server, a managed service running the open source Postgres database."
+    publishedDateTime: 2021-05-25T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-azure-free-offer-coming-soon/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 96
   - title: "Azure Database for PostgreSQL – Flexible Server (public preview) support for PostgreSQL 13"
     excerpt: "PostgreSQL 13 for Azure Database for Postgres – Flexible Server includes multiple enhancements now in preview."
     publishedDateTime: 2021-05-12T16:00:17Z
@@ -32,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 89
+  - title: "Azure Database for PostgreSQL - Single Server: logical decoding feature is now generally available"
+    excerpt: "With logical decoding and wal2json support, unlock change data capture scenarios with Azure Database for PostgreSQL - Single Server. "
+    publishedDateTime: 2020-12-09T17:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-logical-decoding-feature/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 85
   - title: "Azure Database for PostgreSQL – Flexible Server (public preview) supports PostgreSQL minor versions"
     excerpt: "The latest PostgreSQL minor versions 13.2, 12.6, and 11.11 are now supported by Azure Database for PostgreSQL – Flexible Server (in preview) and include security and bug fixes."
     publishedDateTime: 2021-05-12T16:00:17Z
@@ -41,15 +59,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 85
-  - title: "Azure Database for PostgreSQL – Flexible Server (public preview) managed PgBouncer in public preview"
-    excerpt: "PgBouncer, a popular connection pooler for Postgres, is now part of the Azure Database for PostgreSQL - Flexible Server (preview) managed service."
-    publishedDateTime: 2021-04-28T16:00:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-managed-pgbouncer-in-public-preview/"
+  - title: "Data encryption for Azure Database for PostgreSQL—single server"
+    excerpt: ""
+    publishedDateTime: 2020-06-10T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-for-azure-database-for-postgresql-single-server/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
+    quality: 17
 
 secured: "DkDNFxDLGob9bfljXuDC21WfFPNpW1SMuv1MNAu3VCtPDGDvm3Sc8rfYgS8GfSY1URm8N1MBGWzkEuBQ7luPYVNe2SeaubSWVqYn6pJVHIItfOuTl6ARc//aa8qQrEnxp9S7ortQrrNd5W3vUCl1THgGaw3ZE+oOL0b6TELKnx8Kh2CusC95cLgJAnvZw+RmVRclRTu9Ic3h5e5PP752I6TgYBIi6wk5nxylRdMzSmO9Evvmy4FUrHN4tGloHJ/4oKhRgnsIUmeY22v0y7DN+h08nBhJcA2XtqZBwKnJMRWbURRB4teYcHM+8Jz2bK4BssDOGjskAXHwaHKGPhbQuD2SRrvihvMOJH0pgRT47dM=;/heD3fbE3Z1JehqA3hB0gw=="
 ---

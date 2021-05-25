@@ -66,6 +66,15 @@ related:
         width: 798
         height: 449
         isCached: true
+  - title: "General availability: Azure RBAC for Kubernetes Authorization in AKS"
+    excerpt: "Achieve unified management and access control across Azure and AKS resources."
+    publishedDateTime: 2021-05-25T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-rbac-for-kubernetes-authorization-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "General availability: Conditional Access feature integration with AKS"
     excerpt: "Azure Kubernetes Service(AKS) now supports the Azure Active Directory(AAD) Conditional Access feature."
     publishedDateTime: 2021-03-02T17:00:07Z

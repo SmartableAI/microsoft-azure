@@ -23,6 +23,15 @@ topics:
   - Databases
 
 related:
+  - title: "Azure Database for PostgreSQL – Flexible Server: Azure Free offer coming soon"
+    excerpt: "Utilize the B1ms compute SKU and 32GB storage free offer (coming June 2021) on Azure Database for PostgreSQL – Flexible Server, a managed service running the open source Postgres database."
+    publishedDateTime: 2021-05-25T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-azure-free-offer-coming-soon/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 96
   - title: "Azure Database for PostgreSQL – Flexible Server with managed PgBouncer in preview"
     excerpt: "PgBouncer, a popular connection pooler for Postgres, is now part of the Azure Database for PostgreSQL - Flexible Server managed service"
     publishedDateTime: 2021-05-12T16:00:18Z
@@ -41,15 +50,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 89
-  - title: "Azure Database for PostgreSQL – Flexible Server (public preview) managed PgBouncer in public preview"
-    excerpt: "PgBouncer, a popular connection pooler for Postgres, is now part of the Azure Database for PostgreSQL - Flexible Server (preview) managed service."
-    publishedDateTime: 2021-04-28T16:00:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-managed-pgbouncer-in-public-preview/"
+  - title: "Azure Database for PostgreSQL - Single Server: logical decoding feature is now generally available"
+    excerpt: "With logical decoding and wal2json support, unlock change data capture scenarios with Azure Database for PostgreSQL - Single Server. "
+    publishedDateTime: 2020-12-09T17:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-logical-decoding-feature/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
+    quality: 85
+  - title: "Data encryption for Azure Database for PostgreSQL—single server"
+    excerpt: ""
+    publishedDateTime: 2020-06-10T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-for-azure-database-for-postgresql-single-server/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "yyoE/7HmI8t3j0NX3tFneo/feYZIcGsF8uYoJU93NhlYvGFvlhN/HuvrvkGTRcvB7yJ9BSK0BTNA2yabE3elJlX+Y30+tkgxySgJlsirzc4SD5Pg1VqhuOIGXyAlbkueo2i6qbb8al/hiDCQabMeV8NGfHrAs7kkU/xXn8ho51nUxJSj7yqlEXjXWnsPq+4+PTJwDx2xWBIoTyhl5FDLoZe9COh2i+fcyYOYoFufoBP0nZaAOL4+WjZyNsYsu8Y1hi2b79FA5Q6XpqQhhmnHLWSUcGd2gGVGePpAB9oBdxJExKToRuSUmfwsNDNOUL2eTZsKPHegHGYa7g/RsesvtIR4gFAXlf+vuveznb+T3wE=;vR6VgTrh7nrP1f8MfEq+mA=="
 ---

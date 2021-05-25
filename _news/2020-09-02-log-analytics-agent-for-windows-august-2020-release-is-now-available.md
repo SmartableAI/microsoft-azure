@@ -50,15 +50,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 92
-  - title: "Azure Stream Analytics: 5 new regions are now generally available"
-    excerpt: "Azure Stream Analytics is a fully managed, real-time analytics service designed to help you analyze and process fast moving streams of data that can be used to get insights, build reports, or trigger alerts and actions. The service is now available in 5 new regions."
-    publishedDateTime: 2021-05-18T17:56:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/2021regions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Log Analytics Windows Agent for Winter 2021 now generally available"
     excerpt: "Update to the newest Windows Agent. Now available with support fixes and a new troubleshooting tool."
     publishedDateTime: 2021-04-12T16:00:37Z

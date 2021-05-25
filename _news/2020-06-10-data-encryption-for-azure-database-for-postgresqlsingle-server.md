@@ -21,6 +21,33 @@ topics:
   - Azure
 
 related:
+  - title: "Azure Database for PostgreSQL – Flexible Server: Azure Free offer coming soon"
+    excerpt: "Utilize the B1ms compute SKU and 32GB storage free offer (coming June 2021) on Azure Database for PostgreSQL – Flexible Server, a managed service running the open source Postgres database."
+    publishedDateTime: 2021-05-25T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-azure-free-offer-coming-soon/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 96
+  - title: "Azure Database for PostgreSQL – Flexible Server with managed PgBouncer in preview"
+    excerpt: "PgBouncer, a popular connection pooler for Postgres, is now part of the Azure Database for PostgreSQL - Flexible Server managed service"
+    publishedDateTime: 2021-05-12T16:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-with-managed-pgbouncer-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 94
+  - title: "Azure Database for PostgreSQL – Flexible Server (public preview) support for PostgreSQL 13"
+    excerpt: "PostgreSQL 13 for Azure Database for Postgres – Flexible Server includes multiple enhancements now in preview."
+    publishedDateTime: 2021-05-12T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-support-for-postgresql-13/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 89
   - title: "Azure Database for PostgreSQL - Single Server: logical decoding feature is now generally available"
     excerpt: "With logical decoding and wal2json support, unlock change data capture scenarios with Azure Database for PostgreSQL - Single Server. "
     publishedDateTime: 2020-12-09T17:00:18Z
@@ -30,60 +57,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 85
-  - title: "Python Durable Functions support in Azure Functions is now generally available"
-    excerpt: "Python developers can now create serverless workflows to orchestrate complex data processing and data science workloads in Azure Functions."
-    publishedDateTime: 2020-12-16T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/python-durable-functions-support-in-azure-functions-is-now-generally-available/"
+  - title: "Azure Database for PostgreSQL – Flexible Server (public preview) supports PostgreSQL minor versions"
+    excerpt: "The latest PostgreSQL minor versions 13.2, 12.6, and 11.11 are now supported by Azure Database for PostgreSQL – Flexible Server (in preview) and include security and bug fixes."
+    publishedDateTime: 2021-05-12T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-supports-postgresql-minor-versions/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 80
-  - title: "Infrastructure Encryption for Azure Monitor dedicated clusters now generally available"
-    excerpt: "Customers using Azure Monitor dedicated cluster get high level of assurance that their data is secure with additional 256-bit AES encryption at the Azure Storage infrastructure level."
-    publishedDateTime: 2020-12-09T17:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-encryption-for-azure-monitor-dedicated-clusters-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
-  - title: "Azure Stack HCI is now generally available"
-    excerpt: "Flexible HCI delivered as an Azure Hybrid Service"
-    publishedDateTime: 2020-12-10T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-hci-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Event hubs on Azure Stack Hub is now generally available"
-    excerpt: "The GA version of Event Hubs is now available on Azure Stack Hub. This will allow you to realize cloud and on-premises scenarios that use streaming and event-based architectures."
-    publishedDateTime: 2020-12-11T18:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/event-hubs-on-azure-stack-hub-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Private Link support for Azure Automation is now generally available"
-    excerpt: "Ensure a secure channel to connect to your Automation Accounts resources with the help of Private Links in Automation."
-    publishedDateTime: 2020-12-11T22:19:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-private-link/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Database for PostgreSQL—Single Server now available in the France South region"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-now-available-in-the-france-south-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
+    quality: 85
 
 secured: "e+HxBAR9MQDMRF/bhjNEFwbD126ezLE1jfOGmR39yMbWFGh62emFVAVwFTMCe+9T9XbpP9BKGzGIkksyHXQRlXdiUiomn4Yijv5jdnem6HokXUJaere2VKm8O4W+qGFCRunTWvkCY0yuIsSzsDcBi2YvdiH56CZ4w9u5Gn0sKJS8SZPsLcGkeXyF6Gb5ms4myT1RvQODXIohPo4eBP0A8E/gHIYC//LOZxk1BSlTg1R0uf7DU+v7gWF4bvmdbDXD++FxvslGLVu4E61GMzWILmGiYAudtEV+GXIkBkxv/wFC06jbquQW8Ac+CNtMYcu7yDsGHvFrpDq4CYANOGnbVA==;ylOvkJNs5FGpOzU/bvoXCg=="
 ---

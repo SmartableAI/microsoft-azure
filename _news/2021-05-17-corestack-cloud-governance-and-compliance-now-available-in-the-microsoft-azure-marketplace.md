@@ -1,18 +1,18 @@
 ---
 category: news
 title: "CoreStack Cloud Governance and Compliance Now Available in the Microsoft Azure Marketplace"
-excerpt: "CoreStack, a global cloud governance provider, today announced the availability of its CoreStack AI-powered, multi-cloud compliance and governance solution in the Microsoft (News - Alert) Azure Marketplace,"
-publishedDateTime: 2021-05-17T15:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/17/9370837.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/17/9370837.htm"
+excerpt: "Microsoft Azure customers worldwide can now gain access to CoreStack Cloud Compliance and Governance to take advantage of the scalability, reliability, and agility of Azure to drive application ..."
+publishedDateTime: 2021-05-17T16:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210517005303/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.morningstar.com/news/business-wire/20210517005303/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace"
 type: article
 quality: 7
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -42,6 +42,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "tb7b1oT4gL6yyfeXQoPz/jvqGVLWJLUIfXyGElhoCRCMrDCnYYYybG5gARG92oippVKte31FLpKnm6W9TmMtUV34ymT4VAqR3GsDEDwq8MJHsoHIcJyhVGXOUvsJjx6h+QbcsfFkSr25HLPllUgHqaVMlQv7MK/XDIoveTpFfQRGSAWmwHEOT/jmzQ/CSHmmyggxJcVT1N2+YO9bbwTM47v2wxfVE7Qwry3VGXIg7iUXeRpIOZvZD3O79klG74PrF4kqMa2m4CviOnCU/cJH6wkYc6F9xMoV7Wv0w2wY78PBwxDg7k4gHxgU06N7c12MCIgiSmg4YVtPjqE6FFqwDwbeS9aGuPuG7+I+u5Q+0CE=;x10AsnKe+O1rWhAxtmOl8g=="
+secured: "Wg08Bl/sjrzuQIwCnjIurf25M15YlI87corrh3xCpkiEFn5MkSR8DbMO5r1mwtNJlf99DccjHsBTZkS8Ci/jw0FvDkU89iEofTnFDd8U/sRCHIsleNnFs+Dp7F00m4hJtLsfnQO9+xLo+ppUJBJRCFApOP9JSZoMfTMDRzPm54s6BQc+DZJzmdU4LfY4EYd79C6mFyiNPQjVZzR7pw9xhdECzeXu2kqWxgp18N9xBQ/FRn5k6t0wqAynKGHiWWWk/MWeoKMJGV1MG6UvWD465OGND8WOaJUrOfuUIJAtDJ+KzOydcqnA/r9T5W2XvVLAol1j09MPhXLT8DTw67jZiBCoLTpm94zMG073umfNex8=;gU5qwQhxZl3zLnr8/kXhPg=="
 ---
 

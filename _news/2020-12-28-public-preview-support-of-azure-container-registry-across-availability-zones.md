@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-support-o
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-support-of-azure-container-registry-across-availability-zones/"
 type: article
 quality: 81
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -23,15 +23,33 @@ topics:
   - Containers
 
 related:
-  - title: "Public preview: Automated deployment of Always On availability groups through the Azure portal"
-    excerpt: "Simplify configuring Always On availability groups and improve availability for SQL Server on Azure Virtual Machines"
-    publishedDateTime: 2020-09-02T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automated-deployment-of-always-on-availability-groups-through-the-azure-portal/"
+  - title: "Public preview: AKS support for containerd for Windows server containers"
+    excerpt: "Benefit from enhanced pod creation speed and stability when creating Windows server containers in AKS."
+    publishedDateTime: 2021-05-25T16:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-containerd-for-windows-server-containers/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 72
+    quality: 83
+  - title: "Preview: AKS support for FIPS compliant nodes "
+    excerpt: "Azure Kubernetes Service makes it easier for you to achieve FedRAMP compliance by supporting FIPS compliant nodes "
+    publishedDateTime: 2021-05-25T16:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/preview-aks-support-for-fips-compliant-nodes/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Support for Windows containers Azure Container Networking Interface on Azure Stack Hub coming soon in private preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T16:05:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/support-for-windows-containers-azure-container-networking-interface-on-azure-stack-hub-coming-soon-in-private-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 0
 
 secured: "MHlvJrKnvXIqqP57riSeOWTt4rI8TenaotaSKu7At01QFjvvmzCxIwG2j2BV7B7F9u5fwl9RKNygrydSpXDjxjXjiS9g1iv1p0LAlLsINbgGJdVgdY+2svyldDKuEkTO4zfETK3d4+uycZ3L2keQbiU+kfDLtTtXJsROa2+1eZcCnZQqtuR4MR2p7O6bt0oluolPbnn9tKIbN1nDIMf3TdZ9CDWfWBeD2N7oHJsIp4kwt44YxU22RPTV0+5pqcJki4TLAEvB0GfsXkR5iCa030N+O/VZd+XnIqY1d+53l+5MFg4ewKfk1ag9/qM7DGXZlifYf3fjrofLYRioJtVb+qrLalHyiHy6j2Cqg5DRwNY=;Ov/Y8tYnJ9/6W3IQmYnbJQ=="
 ---

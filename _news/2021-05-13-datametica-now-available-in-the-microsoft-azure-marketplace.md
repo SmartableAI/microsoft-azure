@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Datametica now available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the scalability, reliability and agility of Azure to shape business strategies Dr Phil Shelley, Co-founder ..."
-publishedDateTime: 2021-05-13T07:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-877551542.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-877551542.html"
+excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net - Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the ..."
+publishedDateTime: 2021-05-13T07:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/datametica-now-available-in-the-microsoft-azure-marketplace-1030424788"
+webUrl: "https://markets.businessinsider.com/news/stocks/datametica-now-available-in-the-microsoft-azure-marketplace-1030424788"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -210,6 +208,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "eAkhzq70vm9y8Rf2WQ/cocnUtvHlEty5uwgvsHcj/sAv2B5z3cytgrfZmQ98nvQv+OmZpBuYkeIvnTjdV03X4P3wj5Nx8bB0n9OKoBTyZH5L4wV4YZ28KDbhUKhtZTEAhBeXU0V721Jukiq2FI0uL4PfHA5UVzcvQSlnAgV1lcARicii5/gAZ7eJqssvtFXolXA5fCDbjeE4+Mvz4FM2GG7rNk5Ha/WgeMbP4D1EPASN33FKPCqkgd/S/ICHbrTjiV7mzqarjcpyYcpBbxYw/pkclbQtInMQUECqKbjbxZ0Hb3V9GuXU44AJSJnLhAkK7BPNsUq5/VIvitr720dyKBmKGyaEcx1vvKmYuKuPJcE=;1FGnHiMhBfWU+an7RAgu8A=="
+secured: "rIHguPR1Y93E7FDZSbHzvJib/wGg4sXJ5lBvDTibIPy8tStQ/AYZ6tLGKwtxszsI2SuKpz1roChkpdTYsGFryQtPppVliZvH6CFlQo9Msu2BJelVORHokryr2934ZAIZEB8cxDZyi62tLcVR5PgM9Qkr6kjppvwu7p+dMv+nzxabHgykYRvlNzRlPI3AebADlT1wFPpxRwPL2xbVcE1MlIwkpV0xxeFzsSW1Gl7o9bg+f+w0ja4DUhmwnSQ5bdfN6+MpzYGdhsTy5X4uV1Ex/er76HKd+AEnIkin61AwNtGJoS1wwl7jSqqm20QXK3wV1gxePGX2TLrnXS6EN6tTsWeaMJKQ2LFOJWuT0FnGJLs=;gqG30b7lHM5B4C11SVM6/A=="
 ---
 

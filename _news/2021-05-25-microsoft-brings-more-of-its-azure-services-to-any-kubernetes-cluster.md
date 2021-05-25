@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster/amp/"
 type: article
 quality: 114
-heat: 714
+heat: 814
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Public preview: Run App Service on Kubernetes or anywhere with Azure Arc"
+    excerpt: "You can now run Web Apps against a range of fully managed App Service plans or choose to deploy against Azure Kubernetes Service or your own Kubernetes clusters connected through Azure Arc that are running on-premises, at the edge, or in other clouds."
+    publishedDateTime: 2021-05-25T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-run-app-service-on-kubernetes-or-anywhere-with-azure-arc/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 100
   - title: "Master Microsoft Azure with this prep courses and mock exams bundle"
     excerpt: "TL;DR: The Ultimate Microsoft Azure Administrator Bundle is on sale for £21.21 as of May 23, saving you 94% on list price. Just a few years ago, if you wanted an IT cloud systems expert position ..."
     publishedDateTime: 2021-05-23T04:42:00Z
@@ -95,6 +104,24 @@ related:
         width: 1024
         height: 685
         isCached: true
+  - title: "Azure Kubernetes Service (AKS) on Azure Stack HCI is now generally available"
+    excerpt: "AKS on Azure Stack HCI is a Kubernetes based platform that developers and administrators can use to build, deploy and manage containerized applications in their datacenters and edge locations. "
+    publishedDateTime: 2021-05-25T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-on-azure-stack-hci-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 96
+  - title: "Public preview: Run Event Grid on Kubernetes in Azure or anywhere with Azure Arc"
+    excerpt: "You can now run Event Grid on Kubernetes clusters anywhere to manage routing of all your events from any source to any destination."
+    publishedDateTime: 2021-05-25T16:00:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-run-event-grid-on-kubernetes-in-azure-or-anywhere-with-azure-arc/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 96
   - title: "Microsoft Azure: This new tool makes it easier to manage virtual machines in the cloud"
     excerpt: "Microsoft's automated system management tools help businesses keep their Azure virtual infrastructures secure."
     publishedDateTime: 2021-05-20T10:30:00Z
@@ -111,6 +138,24 @@ related:
         width: 1200
         height: 842
         isCached: true
+  - title: "Azure Applied AI Services public preview updates for Build 2021"
+    excerpt: "Azure AI is introducing a new category of services called Azure Applied AI Services. These services accelerate time-to-value in building AI solutions for common business processes. Within this category, Azure Video Analyzer is now in public preview. The service brings Live Video Analytics and Video Indexer"
+    publishedDateTime: 2021-05-25T16:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-applied-ai-services-public-preview-updates-for-build-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Public preview: Kubernetes 1.21 support in AKS"
+    excerpt: "AKS customers can now benefit from new features in Kubernetes 1.21"
+    publishedDateTime: 2021-05-25T16:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-kubernetes-121-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
     excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
     publishedDateTime: 2021-05-21T21:40:00Z
@@ -432,6 +477,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "x6XevGidi24QFZTsxAjzf98mP7oiS7R2OyNXdmhy5JTqrPt8to/E/8Atd/9zJ0NEuLM9BdB/0m41mwSqx3MDsZsFbm9ZU/CnUiMnBDFONPYSmMmE1ECPDsQVj9hS7pQBo1aNwNXKVYtbfv4iYugFOiciDp1eYp1g6r35VTe9LzuqihwqzoJ2Vo83WCfvlTADpz1VDPzm3N2uS9vGP3DP5wxykFw8tcq9YQRKPgrU9Hu3ozvOkTC0OCMTzPN3dgZyIz02z0ALQlMebztGV1HAS2t+LTaQ3fTPzlRTqUlAfgrpvmcuGY2g6ZjvPaPlMc1Racno8gvXloGHImOMbqMLjYBpDyPGLo5GkRr5tsES7YE=;1em2ReBKKbb7aasZnQ6NOA=="
+secured: "xWWy30I3gfLJrLQ8+eLm0OVTuDYoxSzTHf+XNb1mYPXf4g5HL6tHVkvw498g6jMZ8W5FCYIAdJZf93sEhDncbI90irrg3ylHOxu2sieKj6LnAFEuD0aBAliuN9PMlTbF5wZ92Zq3s/dEk/1CclwX4gLVp5OeTPA2PwGkoKCIGLZ2EU2zNOiBBZ2nWwtfs6o0pMDbXfDQ+TjzG1lnWSpONDIWkmoHciaIc1GxNctNeyRJ+bcUJSi98v7Je/dBudq6pBzhEcbrHDHuyegJu99NhIjPn0JvJTzA9oIuOlfXSGd1Kv2MMHT4FfEXnXTOa2UJXkqTG607ULdabjmkHsLXecm6Q6k7FhtHZ9rn1G8ciW12VT5//4xgTQbYQFhGsyxd6HkLqR2EaA4RylFNmChCZlVP4aaqpZT7KdxtMZHOU5hN6+WBDfb8SbQTkAmeKKYIzNOBCRbWbPhFBzB6+qwQ2h2xvlecN7vm/LTm2lJiUwo+Bf4pvFkomq8pGd3o6gMlz7/muAZBi7ekmfW74WRD6g==;pQ8IYJtCQiob12sf1cHKhA=="
 ---
 

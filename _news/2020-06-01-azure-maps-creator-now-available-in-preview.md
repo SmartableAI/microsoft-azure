@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-
 webUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/"
 type: article
 quality: 93
-heat: 333
+heat: 353
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Event Hubs Premium now available in public preview"
+    excerpt: "Event Hubs Premium is a new product SKU that is tailor-made for high-end event streaming scenarios that require elastic, superior performance with predictable latency."
+    publishedDateTime: 2021-05-25T16:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/event-hubs-premium-now-available-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Azure Monitor Logs IntelliSense improvements are now available"
     excerpt: ""
     publishedDateTime: 2020-05-26T16:00:03Z

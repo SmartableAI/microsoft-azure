@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 119
+  - title: "General availability: Azure Cognitive Services Text Analytics for Health"
+    excerpt: "Now generally available, use Text Analytics for Health to detect words and phrases mentioned in unstructured text as entities in the healthcare and biomedical domain. "
+    publishedDateTime: 2021-05-25T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-cognitive-services-text-analytics-for-health/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 115
   - title: "General availability: Azure mobile app now supports Azure Government"
     excerpt: "You can now manage and monitor you Azure Government subscriptions with the Azure mobile app."
     publishedDateTime: 2021-02-09T23:45:23Z
@@ -91,6 +100,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 92
+  - title: "General availability: Azure Cognitive Services Translator Document Translation feature"
+    excerpt: "Now generally available, use Document Translation to translate documents at scale."
+    publishedDateTime: 2021-05-25T16:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-cognitive-services-translator-document-translation-feature/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
   - title: "General Availability: Azure Spot on Azure Kubernetes Service"
     excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
     publishedDateTime: 2020-10-28T16:00:28Z
@@ -176,6 +194,15 @@ related:
     excerpt: " Key Vault is now being offered at a 99.99% availability SLA, an improvement over our previous 99.9% SLA. "
     publishedDateTime: 2021-05-17T22:00:08Z
     webUrl: "https://azure.microsoft.com/en-us/updates/9999-uptime-for-azure-key-vault/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Azure Applied AI Services "
+    excerpt: "Azure AI is introducing a new category of services called Azure Applied AI Services. These services accelerate time-to-value in building AI solutions for common business processes. Within this category, there are important enhancements and status updates for Azure Bot Service and Azure Metrics Advisor."
+    publishedDateTime: 2021-05-25T16:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-applied-ai-services/"
     type: article
     provider:
       name: Microsoft
@@ -401,6 +428,15 @@ related:
     excerpt: "Application Insight, a part of Azure Monitor,  is now generally available in the UK West region for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2020-09-29T15:23:28Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uk-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "General availability: Logic Apps with new hosting options"
+    excerpt: "Logic Apps has been updated with new hosting options, improved performance, and developer workflows."
+    publishedDateTime: 2021-05-25T16:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-logic-apps-with-new-hosting-options/"
     type: article
     provider:
       name: Microsoft

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T17:00:14Z
 webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-now-supports-replication-with-private-links/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -21,37 +21,10 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Site Recovery now supports Azure Policy in public preview"
-    excerpt: "Leverage Azure Policy to enable Azure Site Recovery for your VMs at scale and ensure organizational standards."
-    publishedDateTime: 2021-04-29T15:43:58Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asr-policy-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Azure Purview now supports Private Endpoints in public preview"
-    excerpt: "Add a layer of security and network isolation to your Purview account."
-    publishedDateTime: 2021-05-13T19:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/purviewpe/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "New Azure VMs for general purpose and memory intensive workloads now in public preview"
-    excerpt: "New Dv5, Dsv5, Ddv5, Ddsv5, and Ev5, Edv5 series Azure Virtual Machines deliver increased scalability and an upgraded CPU architecture, including better price to performance compared to the prior generation. The new VMs - now in public preview - run on the 3rd Generation Intel® Xeon® Platinum 8370C (Ice"
-    publishedDateTime: 2021-04-26T18:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-vms-for-general-purpose-and-memory-intensive-workloads-now-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 59
-  - title: "Azure Site Recovery now supports proximity placement groups"
-    excerpt: ""
-    publishedDateTime: 2020-05-29T01:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-now-supports-proximity-placement-groups/"
+  - title: "Azure Monitor for Containers now supports recommended alerts"
+    excerpt: "Azure Monitor for Containers now includes recommended alerts. Use this feature to enable alerts in one click on your Azure Kubernetes Service (AKS) clusters. These preconfigured metrics alerts enable you to monitor your system resource when it's running on peak capacity or hitting failure rates. This"
+    publishedDateTime: 2020-07-15T23:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ci-recommended-alerts/"
     type: article
     provider:
       name: Microsoft

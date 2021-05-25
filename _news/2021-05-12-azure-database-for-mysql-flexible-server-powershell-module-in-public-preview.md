@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Database for MySQL – Flexible Server: Azure Free offer coming soon"
+    excerpt: "Beginning in June 2021, enjoy the Azure Database for MySQL - Flexible Server B1ms compute SKU and 32GB storage free offer for the first 12 months."
+    publishedDateTime: 2021-05-25T16:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-azure-free-offer-coming-soon/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 98
   - title: "Public preview: Azure Database for PostgreSQL – Flexible Server intelligent performance"
     excerpt: "The latest preview release of intelligent performance on Azure Database for PostgreSQL – Flexible Server on Postgres 11 and 12 is now available."
     publishedDateTime: 2021-04-28T16:01:21Z

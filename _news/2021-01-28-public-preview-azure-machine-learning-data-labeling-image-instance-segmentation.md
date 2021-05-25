@@ -32,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 97
-  - title: "Public preview: Azure Log Analytics in UAE Central & Japan West"
-    excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in UAE Central & Japan West."
-    publishedDateTime: 2021-01-21T17:03:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-uae-central-japan-west/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Public preview: Dynamic IP allocation and enhanced subnet support in AKS"
     excerpt: "AKS users now have more flexible network configuration options via dynamic IP allocation and support for subnets."
     publishedDateTime: 2021-01-20T17:00:17Z

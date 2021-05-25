@@ -31,10 +31,37 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Infrastructure Encryption for Azure Monitor dedicated clusters now generally available"
+    excerpt: "Customers using Azure Monitor dedicated cluster get high level of assurance that their data is secure with additional 256-bit AES encryption at the Azure Storage infrastructure level."
+    publishedDateTime: 2020-12-09T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-encryption-for-azure-monitor-dedicated-clusters-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
   - title: "Azure Databricks now generally available in the Azure China region"
     excerpt: "The availability of Azure Databricks in China enables global enterprises to provide a consistent experience for customers in this region."
     publishedDateTime: 2020-12-10T17:00:12Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-generally-available-in-the-azure-china-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Stack HCI is now generally available"
+    excerpt: "Flexible HCI delivered as an Azure Hybrid Service"
+    publishedDateTime: 2020-12-10T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-hci-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Event hubs on Azure Stack Hub is now generally available"
+    excerpt: "The GA version of Event Hubs is now available on Azure Stack Hub. This will allow you to realize cloud and on-premises scenarios that use streaming and event-based architectures."
+    publishedDateTime: 2020-12-11T18:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/event-hubs-on-azure-stack-hub-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

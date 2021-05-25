@@ -49,6 +49,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 82
+  - title: "Python Durable Functions support in Azure Functions is now generally available"
+    excerpt: "Python developers can now create serverless workflows to orchestrate complex data processing and data science workloads in Azure Functions."
+    publishedDateTime: 2020-12-16T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/python-durable-functions-support-in-azure-functions-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "Python Durable Functions support in Azure Functions is now generally available "
     excerpt: "Python developers can now create serverless workflows to orchestrate complex data processing and data science workloads in Azure Functions. "
     publishedDateTime: 2021-03-10T17:00:21Z
@@ -71,6 +80,15 @@ related:
     excerpt: "Azure Ultra Disks now support 512 sector sizes."
     publishedDateTime: 2020-09-22T16:05:21Z
     webUrl: "https://azure.microsoft.com/en-us/updates/512-sector-size-support-on-azure-ultra-disks-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Private Link support for Azure Automation is now generally available"
+    excerpt: "Ensure a secure channel to connect to your Automation Accounts resources with the help of Private Links in Automation."
+    publishedDateTime: 2020-12-11T22:19:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-private-link/"
     type: article
     provider:
       name: Microsoft

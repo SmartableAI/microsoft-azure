@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Public preview: Log Analytics workspace insights from Azure Monitor"
+    excerpt: "A new workbooks-based insights experience for all log analytics workspaces available per resource, and at scale."
+    publishedDateTime: 2021-05-25T16:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-log-analytics-workspace-insights-from-azure-monitor/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "Public preview: Azure Purview powered search in Azure Synapse Analytics workspaces"
     excerpt: "Enable effortless discovery of trustworthy, valuable data with an Azure Purview powered search within Synapse Studio. "
     publishedDateTime: 2021-03-02T17:00:19Z
@@ -38,15 +47,33 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 93
-  - title: "Public preview: Announcing Azure Synapse Pathway: Accelerate your data warehouse migration"
-    excerpt: "Azure Synapse Pathway is a point-and-click solution that simplifies and accelerates migration for both on-premises and cloud data warehouses to Azure Synapse Analytics."
-    publishedDateTime: 2021-03-02T17:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-synapse-pathway-accelerate-your-data-warehouse-migration/"
+  - title: "Public preview: Azure Cognitive Services Text Analytics Adds Question Answering Feature"
+    excerpt: "The new, standard Question Answering feature provides users the capability to answer questions over a passage of text without having to create knowledgebases and manage additional storage"
+    publishedDateTime: 2021-05-25T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-cognitive-services-text-analytics-adds-question-answering-feature/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 93
+  - title: "Public preview: Save and share log analytics queries with new query packs in Azure Monitor"
+    excerpt: "Query packs are a new capability within log analytics intended to make creating, saving, managing, and discovering log analytics queries simpler and more efficient."
+    publishedDateTime: 2021-05-25T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-save-and-share-log-analytics-queries-with-new-query-packs-in-azure-monitor/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 91
+  - title: "Public preview: Azure Log Analytics in UAE Central & Japan West"
+    excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in UAE Central & Japan West."
+    publishedDateTime: 2021-01-21T17:03:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-uae-central-japan-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Public preview: Azure Log Analytics in Australia Central 2 "
     excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2."
     publishedDateTime: 2021-02-03T17:00:03Z
@@ -65,15 +92,87 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Public preview: Automatic key rotation of customer-managed keys for encrypting Azure managed disks"
-    excerpt: "Azure Disk Storage now enables you to automatically update keys for encryption of your data. "
-    publishedDateTime: 2021-03-02T17:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automatic-key-rotation-of-customermanaged-keys-for-encrypting-azure-managed-disks/"
+  - title: "Azure Stream Analytics: 5 new regions are now generally available"
+    excerpt: "Azure Stream Analytics is a fully managed, real-time analytics service designed to help you analyze and process fast moving streams of data that can be used to get insights, build reports, or trigger alerts and actions. The service is now available in 5 new regions."
+    publishedDateTime: 2021-05-18T17:56:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/2021regions/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 53
+    quality: 84
+  - title: "Public preview: Export Azure Monitor logs to multiple destinations"
+    excerpt: "Logs export can be separated between multiple destinations to overcome destination rate limit and to maintain access control in destinations."
+    publishedDateTime: 2021-05-25T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-export-azure-monitor-logs-to-multiple-destinations/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Public Preview: Azure Log Analytics in Brazil Southeast and Norway East "
+    excerpt: "Brazil Southeast and Norway East are now in public preview for customers to start collecting telemetry and analyze their services for health and usage using Azure Log Analytics."
+    publishedDateTime: 2020-10-28T16:45:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-brazil-south-east-and-norway-east/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
+  - title: "Cost-optimized diagnostics feature for Azure Cosmos DB in public preview"
+    excerpt: "Improve ingestion latency, query performance, and discoverability by setting up resource-specific diagnostics in log analytics with Azure Cosmos DB cost-optimized diagnostics."
+    publishedDateTime: 2021-05-25T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/costoptimized-diagnostics-feature-for-azure-cosmos-db-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
+  - title: "Public preview: Native support for WebSocket APIs in Azure API Management"
+    excerpt: "Azure API Management announces native support for WebSocket APIs."
+    publishedDateTime: 2021-05-25T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-native-support-for-websocket-apis-in-azure-api-management/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
+  - title: "A new version of Text Analytics is now in public preview"
+    excerpt: "Text Analytics new API version supports batch processing and healthcare scenarios."
+    publishedDateTime: 2020-11-19T17:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Public Preview: Azure Percept DK May (2105) software update is available"
+    excerpt: "Azure Percept DK May (2105) SW update is available. The Azure Percept May update includes improvements for example to security, log rotation fixes, and provisioning experience."
+    publishedDateTime: 2021-05-20T17:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/apdk2105update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 66
+  - title: "Public preview: Easily onboard Application Insights for Java apps on Azure App Services"
+    excerpt: "Customers writing Java apps on Azure App Services can now onboard to application insights for application monitoring, without making any code changes. App Service Linux, both code-based and custom containers, and App Service Windows code-based are supported. "
+    publishedDateTime: 2021-05-25T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-easily-onboard-application-insights-for-java-apps-on-azure-app-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
+  - title: "Public preview: Cluster auto-upgrade now respects planned maintenance windows "
+    excerpt: "Use cluster auto-upgrade feature while minimizing interruptions. "
+    publishedDateTime: 2021-05-25T16:00:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-cluster-autoupgrade-now-respects-planned-maintenance-windows/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 48
 
 secured: "ZBSnSbCdDwvfZPnlT+VyLYlhVnO0+rj4wh3iIXe6a0HcqR23qcGseKGsmiBqXMk4C0X5QYWGCtifbDMc7jZhku2rqhzl79x1vaivoyo9RwcDQdd6fJWTim42CLkHDEsIbK/sE0OhwHnFERePt83JzWsuL/CGnaLgMoaLAreSg8FmCwcHBBV39gd/He5sG8WGKa7neYJTj1XM2KN0dtU6HkKeDGaFkrTM+eExu0TYNoVdfozo+LeRF/+t1gJGLD6ms7mPQ8vqDxlL0A6TUGvQDhBwpMMfgBH3jshUol0uWIm3lg3IOaGW8FEZPsZ08f2qcnkKxylKxvfikfy8LwQzwh1HYQqrnFceS7gXIfr06QU=;Wx02hm3ClvXZwIUUGc7z/Q=="
 ---

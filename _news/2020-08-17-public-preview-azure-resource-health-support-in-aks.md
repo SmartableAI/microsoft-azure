@@ -84,6 +84,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Public preview: Azure Confidential Ledger"
+    excerpt: "Create a managed service built on top of the Confidential Consortium Framework that spins up a permissioned blockchain network of nodes within Azure confidential computing."
+    publishedDateTime: 2021-05-25T16:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-confidential-ledger/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Public preview: Azure Purview is now available in the Central India region"
     excerpt: "Azure Purview is now available in public preview in the Central India region. You can now provision Azure Purview accounts in these regions as a public preview offering. "
     publishedDateTime: 2021-04-08T19:11:56Z
