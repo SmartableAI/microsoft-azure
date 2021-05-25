@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Armorblox Now Available in the Microsoft Azure Marketplace"
-excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
-publishedDateTime: 2021-05-18T13:00:00Z
-originalUrl: "https://www.financialbuzz.com/armorblox-now-available-in-the-microsoft-azure-marketplace/"
-webUrl: "https://www.financialbuzz.com/armorblox-now-available-in-the-microsoft-azure-marketplace/"
+excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft (News - Alert) Azure."
+publishedDateTime: 2021-05-18T13:22:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-armorblox-now-available-the-microsoft-azure-marketplace-/2021/05/18/9371955.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-armorblox-now-available-the-microsoft-azure-marketplace-/2021/05/18/9371955.htm"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -241,6 +241,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "AHgaNV5ovoyUo8GlznMsqwguhbwjaTe5PUaTOGNweAg96YMV8kMAMDyqnCI+u716zn8Enzd2wtl1/voKZf6/NEWNgZKqIwQXui3xL+sB4ROSVmpwT/LfFIRR/L4Q73l8/TK2Gru3K/LMWGBFbdnG4hu66BKJeQqECyTvan/ffuktb9vWIS6m+LHSHPdojhSz75O3gCMQvIIb3N5GZS8NRJu+/IRKbsUgQoPMiu2FPIhbArOJ7r7kq71hHYuz3IZbkeMFfaoakWpKm+ZxiImBKgqivPGN2qPOQfVG+UvAWONVh3dpA1VxFcC9APBvvafRpMii1/Z5ZJuUEZSJJ/EnAVHCFnC8/FKvCXjUXX0Bm2g=;DJLxVOncpR3dr3IVGpVdhw=="
+secured: "2JPF8TD17ILlBE5hoHQkQHqcGwZgecDYH0mPQC9clnQGBHKxFNZOg0ozE9vbt2eC0njvsBvFLt5ZulKSbrmTSLcP9OC+jijUGjwFtT4M+lNOPofj5JN5Sz3UHj4Cf3H6xR3CY2rT+dL2u/7R8Pte8SHcH7Bve1UXQwFuWUPJzfmHo/Q0C+ASokgMx/HUEcJUL4af+vK/4Hj/tp0P8o04QQE+6/SgbRazciqnLR94RboyixyHghwomkq7T4e+GFEh37AcGgMFwYD7UCM6/efz09iYg1F7sFoVFRS1PKRt0vYpv5cJptHhuy6rRtdIF9qFH8ylH7FIE1ogTmPpzE4XMRXVR9183uZ8BIJIvAQNJfs=;hzVK8tqo7BG8ex0zbJbp+w=="
 ---
 
