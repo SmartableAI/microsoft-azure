@@ -4,42 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration.md",
-      "title": "Analyze DevOps Continuous Planning and Continuous Integration",
-      "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
-      "length": "PT22M",
-      "ratings": {
-        "count": 2106,
-        "average": 4.72792
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-administer-infrastructure-resources-in-azure.md",
       "title": "Administer infrastructure resources in Azure",
       "excerpt": "This learning path teaches how to create and customize Windows and Linux virtual machines, connect them to virtual networks, and keep them updated.",
@@ -1583,7 +1547,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -3347,7 +3311,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -4589,6 +4553,42 @@
         "Identity",
         "Security",
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration.md",
+      "title": "Analyze DevOps Continuous Planning and Continuous Integration",
+      "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 2106,
+        "average": 4.72792
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Integration"
       ]
     },
     {
