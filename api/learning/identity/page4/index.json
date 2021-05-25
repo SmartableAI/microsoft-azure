@@ -4,6 +4,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-explore-sharepoint-online.md",
+      "title": "Explore SharePoint Online",
+      "excerpt": "Explore SharePoint Online",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-sharepoint-online/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-sharepoint-online/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 13,
+        "average": 4.8461537
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/sharepoint-explore-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-solutions-for-external-access.md",
       "title": "Explore solutions for external access",
       "excerpt": "Explore solutions for external access",
@@ -11,7 +54,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-solutions-for-external-access/",
       "length": "PT40M",
       "ratings": {
-        "count": 2,
+        "count": 3,
         "average": 5.0
       },
       "provider": {
@@ -54,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/getting-started-identity/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 341,
-        "average": 4.671554
+        "count": 351,
+        "average": 4.6723647
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -89,8 +132,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-application-types/",
       "length": "PT50M",
       "ratings": {
-        "count": 185,
-        "average": 4.5945945
+        "count": 190,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -132,8 +175,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-permissions-consent/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 154,
-        "average": 4.714286
+        "count": 158,
+        "average": 4.71519
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -175,8 +218,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-secure-custom-api/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 142,
-        "average": 4.7042255
+        "count": 146,
+        "average": 4.6986303
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -210,8 +253,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-users-groups-approles/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 180,
-        "average": 4.766667
+        "count": 182,
+        "average": 4.769231
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -245,8 +288,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/",
       "length": "PT54M",
       "ratings": {
-        "count": 234,
-        "average": 4.7350426
+        "count": 236,
+        "average": 4.737288
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -331,8 +374,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-azure-ad-connect/",
       "length": "PT28M",
       "ratings": {
-        "count": 10,
-        "average": 4.7
+        "count": 13,
+        "average": 4.5384617
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -374,8 +417,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-compliance-solutions/",
       "length": "PT29M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 1,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -462,8 +505,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-initial-configuration-of-azure-active-directory/",
       "length": "PT53M",
       "ratings": {
-        "count": 605,
-        "average": 4.7768593
+        "count": 617,
+        "average": 4.776337
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -505,8 +548,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
       "length": "PT60M",
       "ratings": {
-        "count": 322,
-        "average": 4.7298136
+        "count": 326,
+        "average": 4.733129
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -548,8 +591,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-hybrid-identity/",
       "length": "PT59M",
       "ratings": {
-        "count": 460,
-        "average": 4.776087
+        "count": 467,
+        "average": 4.775161
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -591,7 +634,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-microsoft-cloud-application-security/",
       "length": "PT34M",
       "ratings": {
-        "count": 6,
+        "count": 9,
         "average": 5.0
       },
       "provider": {
@@ -635,8 +678,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-microsoft-defender-for-identity/",
       "length": "PT31M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 4,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -678,8 +721,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/",
       "length": "PT38M",
       "ratings": {
-        "count": 179,
-        "average": 4.793296
+        "count": 181,
+        "average": 4.7900553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -765,8 +808,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-policy-tips-for-dlp-policies/",
       "length": "PT36M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 1,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -852,8 +895,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 2970,
-        "average": 4.70303
+        "count": 3005,
+        "average": 4.7018304
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -981,8 +1024,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-exchange-online-protection/",
       "length": "PT32M",
       "ratings": {
-        "count": 4,
-        "average": 4.5
+        "count": 6,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1067,8 +1110,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-microsoft-365-threat-intelligence/",
       "length": "PT49M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 4,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1110,8 +1153,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-microsoft-defender-for-office-365/",
       "length": "PT27M",
       "ratings": {
-        "count": 7,
-        "average": 4.857143
+        "count": 9,
+        "average": 4.888889
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1229,50 +1272,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-security-solutions-microsoft-365.md",
-      "title": "Explore security solutions in Microsoft 365",
-      "excerpt": "Explore security solutions in Microsoft 365",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security-solutions-microsoft-365/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-security-solutions-microsoft-365/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 2,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/m365-introduction-security-solutions-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Security"
       ]
     }
   ],

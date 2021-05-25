@@ -4,6 +4,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory.md",
+      "title": "Create Azure users and groups in Azure Active Directory",
+      "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 5495,
+        "average": 4.743585
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-data-classification-and-data-protection.md",
+      "title": "Intro to Microsoft data classification and data protection",
+      "excerpt": "Learners will be able to describe Microsoft Information Protection and Azure Information Protection as well as how to use sensitivity labels to classify and protect data. Learners should also be able to describe technologies such as unified labeling scanners, Cloud App Security, service encryption and Office 365 Message Encryption.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-data-classification-and-data-protection/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-microsoft-data-classification-data-protection/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 17,
+        "average": 4.882353
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure.md",
       "title": "Deploy and manage Azure IaaS Active Directory domain controllers in Azure",
       "excerpt": "Deploy and manage Azure IaaS active directory domain controllers in Azure",
@@ -56,8 +142,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-microsoft-365-apps-for-enterprise/",
       "length": "PT46M",
       "ratings": {
-        "count": 7,
-        "average": 4.428571
+        "count": 8,
+        "average": 4.5
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -99,8 +185,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
       "length": "PT29M",
       "ratings": {
-        "count": 21,
-        "average": 4.857143
+        "count": 52,
+        "average": 4.7115383
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -142,8 +228,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
       "length": "PT20M",
       "ratings": {
-        "count": 208,
-        "average": 4.875
+        "count": 217,
+        "average": 4.875576
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -185,8 +271,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-protection-governance-capabilities/",
       "length": "PT29M",
       "ratings": {
-        "count": 196,
-        "average": 4.8010206
+        "count": 207,
+        "average": 4.7971015
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -228,8 +314,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-external-access-with-b2c/",
       "length": "PT16M",
       "ratings": {
-        "count": 99,
-        "average": 4.6262627
+        "count": 100,
+        "average": 4.63
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -397,50 +483,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-examine-zero-trust-approach-to-security-microsoft-365.md",
-      "title": "Explore the Zero Trust approach to security in Microsoft 365",
-      "excerpt": "Explore the Zero Trust approach to security in Microsoft 365",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-examine-zero-trust-approach-to-security-microsoft-365/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-zero-trust-approach-to-security-microsoft-365/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 4,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/m365-zero-trust-security-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-explore-access-management-capabilities-of-azure-ad.md",
       "title": "Explore the access management capabilities of Azure AD",
       "excerpt": "Explore the access management capabilities of Azure AD",
@@ -448,8 +490,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
       "length": "PT15M",
       "ratings": {
-        "count": 145,
-        "average": 4.7724137
+        "count": 154,
+        "average": 4.785714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -491,8 +533,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-archiving-microsoft-365/",
       "length": "PT28M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 3,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -534,8 +576,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
       "length": "PT30M",
       "ratings": {
-        "count": 170,
-        "average": 4.8058825
+        "count": 178,
+        "average": 4.803371
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -577,8 +619,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/",
       "length": "PT26M",
       "ratings": {
-        "count": 171,
-        "average": 4.8245616
+        "count": 180,
+        "average": 4.827778
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -620,8 +662,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-loss-prevention-microsoft-365/",
       "length": "PT45M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 3,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -663,8 +705,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-exchange-online/",
       "length": "PT37M",
       "ratings": {
-        "count": 9,
-        "average": 4.888889
+        "count": 12,
+        "average": 4.9166665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -706,8 +748,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-information-rights-management/",
       "length": "PT39M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 3,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -749,8 +791,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-microsoft-teams/",
       "length": "PT42M",
       "ratings": {
-        "count": 10,
-        "average": 4.9
+        "count": 14,
+        "average": 4.928571
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -792,8 +834,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-office-365-message-encryption/",
       "length": "PT32M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 3,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -878,8 +920,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-place-records-management-sharepoint/",
       "length": "PT30M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 3,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -921,7 +963,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-apps/",
       "length": "PT31M",
       "ratings": {
-        "count": 7,
+        "count": 8,
         "average": 5.0
       },
       "provider": {
@@ -964,8 +1006,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-automate/",
       "length": "PT31M",
       "ratings": {
-        "count": 7,
-        "average": 4.285714
+        "count": 8,
+        "average": 4.375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1007,8 +1049,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi/",
       "length": "PT37M",
       "ratings": {
-        "count": 12,
-        "average": 4.75
+        "count": 18,
+        "average": 4.8333335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1093,8 +1135,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-virtual-agents/",
       "length": "PT29M",
       "ratings": {
-        "count": 10,
-        "average": 4.6
+        "count": 11,
+        "average": 4.6363635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1136,8 +1178,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-reporting-microsoft-365-security-services/",
       "length": "PT37M",
       "ratings": {
-        "count": 6,
-        "average": 4.8333335
+        "count": 8,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1180,8 +1222,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-retention-microsoft-365/",
       "length": "PT51M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 2,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1223,8 +1265,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-security-dashboard/",
       "length": "PT34M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 4,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1257,49 +1299,6 @@
         "Azure",
         "Identity",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-sharepoint-online.md",
-      "title": "Explore SharePoint Online",
-      "excerpt": "Explore SharePoint Online",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-sharepoint-online/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-sharepoint-online/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 11,
-        "average": 4.818182
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/sharepoint-explore-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],

@@ -4,7 +4,7 @@ excerpt: "Explore security metrics in Microsoft 365"
 type: collection
 price: Free
 length: PT3H14M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn

@@ -4,6 +4,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs.md",
+      "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
+      "excerpt": "Use Azure Monitor logs to extract valuable information about your infrastructure from log data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 6353,
+        "average": 4.734456
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
       "title": "Implement logging in a .NET Framework ASP.NET web application",
       "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
@@ -11,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-logging/",
       "length": "PT24M",
       "ratings": {
-        "count": 39,
-        "average": 4.6410255
+        "count": 40,
+        "average": 4.65
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -59,8 +103,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 7845,
-        "average": 4.7103887
+        "count": 7883,
+        "average": 4.711531
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -101,8 +145,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-devops-github-apps/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 303,
-        "average": 4.7953796
+        "count": 306,
+        "average": 4.7941175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -144,8 +188,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
       "length": "PT21M",
       "ratings": {
-        "count": 7244,
-        "average": 4.7207346
+        "count": 7488,
+        "average": 4.720486
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -180,50 +224,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
-      "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-      "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-cost-optimization/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
-      "length": "PT51M",
-      "ratings": {
-        "count": 1539,
-        "average": 4.736842
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
       "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
       "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
@@ -231,8 +231,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 970,
-        "average": 4.7381444
+        "count": 990,
+        "average": 4.7363634
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -281,8 +281,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/",
       "length": "PT45M",
       "ratings": {
-        "count": 1012,
-        "average": 4.6156125
+        "count": 1031,
+        "average": 4.6168766
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -325,8 +325,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/characterize-devops-continous-collaboration-improvement/",
       "length": "PT17M",
       "ratings": {
-        "count": 1478,
-        "average": 4.709743
+        "count": 1490,
+        "average": 4.710738
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -360,8 +360,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 6039,
-        "average": 4.7471437
+        "count": 6065,
+        "average": 4.747568
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -490,8 +490,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-infrastructure-azure-pipelines/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 491,
-        "average": 4.5723014
+        "count": 493,
+        "average": 4.572008
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -533,8 +533,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 5376,
-        "average": 4.7418156
+        "count": 5387,
+        "average": 4.741043
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -576,8 +576,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-multi-stage-pipeline/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 1048,
-        "average": 4.7566795
+        "count": 1054,
+        "average": 4.7580647
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -619,8 +619,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 1256,
-        "average": 4.7030253
+        "count": 1265,
+        "average": 4.705138
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -662,8 +662,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-foundation-pillars/",
       "length": "PT16M",
       "ratings": {
-        "count": 1778,
-        "average": 4.7424073
+        "count": 1793,
+        "average": 4.7440042
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -697,8 +697,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-aspnet-apps-azure-app-service-pipelines/",
       "length": "PT1H5M",
       "ratings": {
-        "count": 20,
-        "average": 4.85
+        "count": 21,
+        "average": 4.857143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -741,8 +741,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 399,
-        "average": 4.6842103
+        "count": 400,
+        "average": 4.6825
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -785,8 +785,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-docker/",
       "length": "PT46M",
       "ratings": {
-        "count": 365,
-        "average": 4.720548
+        "count": 366,
+        "average": 4.7213116
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -916,8 +916,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-kubernetes/",
       "length": "PT56M",
       "ratings": {
-        "count": 434,
-        "average": 4.68894
+        "count": 437,
+        "average": 4.6910753
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -960,8 +960,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-nodejs/",
       "length": "PT44M",
       "ratings": {
-        "count": 46,
-        "average": 4.9130435
+        "count": 47,
+        "average": 4.9148936
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1003,8 +1003,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-python/",
       "length": "PT46M",
       "ratings": {
-        "count": 145,
-        "average": 4.77931
+        "count": 147,
+        "average": 4.782313
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1046,8 +1046,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 2548,
-        "average": 4.6240187
+        "count": 2591,
+        "average": 4.6229253
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1091,8 +1091,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/",
       "length": "PT18M",
       "ratings": {
-        "count": 1678,
-        "average": 4.7359953
+        "count": 1687,
+        "average": 4.737404
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1126,8 +1126,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-devops-continuous-security-operations/",
       "length": "PT22M",
       "ratings": {
-        "count": 1065,
-        "average": 4.71831
+        "count": 1076,
+        "average": 4.72026
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1162,8 +1162,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 8019,
-        "average": 4.7311387
+        "count": 8049,
+        "average": 4.731271
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1197,8 +1197,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-build-agent/",
       "length": "PT59M",
       "ratings": {
-        "count": 1971,
-        "average": 4.719432
+        "count": 1977,
+        "average": 4.720283
       },
       "provider": {
         "name": "Microsoft Learn",

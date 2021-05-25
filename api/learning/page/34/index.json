@@ -4,6 +4,40 @@
   "page": 34,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-containers.md",
+      "title": "Build a containerized web application with Docker",
+      "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-containers/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
+      "length": "PT57M",
+      "ratings": {
+        "count": 3441,
+        "average": 4.622203
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-content-moderator.md",
       "title": "Introduction to Content Moderator",
       "excerpt": "Discover how Content Moderator can evaluate text, images, and video, for appropriateness.",
@@ -11,8 +45,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-content-moderator/",
       "length": "PT40M",
       "ratings": {
-        "count": 4,
-        "average": 5.0
+        "count": 5,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +88,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 4863,
-        "average": 4.663171
+        "count": 4914,
+        "average": 4.663207
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -173,8 +207,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hpc/",
       "length": "PT50M",
       "ratings": {
-        "count": 1344,
-        "average": 4.608631
+        "count": 1361,
+        "average": 4.61205
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -216,8 +250,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hyperscale/",
       "length": "PT46M",
       "ratings": {
-        "count": 23,
-        "average": 4.826087
+        "count": 25,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -259,8 +293,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-immersive-reader/",
       "length": "PT21M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 2,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -301,8 +335,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
       "length": "PT29M",
       "ratings": {
-        "count": 1114,
-        "average": 4.6732497
+        "count": 1121,
+        "average": 4.67529
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -344,8 +378,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
       "length": "PT28M",
       "ratings": {
-        "count": 1854,
-        "average": 4.6769147
+        "count": 1870,
+        "average": 4.6791444
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -387,8 +421,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
       "length": "PT31M",
       "ratings": {
-        "count": 617,
-        "average": 4.714749
+        "count": 624,
+        "average": 4.717949
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -430,8 +464,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/",
       "length": "PT37M",
       "ratings": {
-        "count": 99,
-        "average": 4.707071
+        "count": 102,
+        "average": 4.7058825
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -472,8 +506,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
       "length": "PT53M",
       "ratings": {
-        "count": 989,
-        "average": 4.6147623
+        "count": 1010,
+        "average": 4.6158414
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -515,8 +549,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-migrating-aspnet-apps-azure/",
       "length": "PT49M",
       "ratings": {
-        "count": 37,
-        "average": 4.864865
+        "count": 39,
+        "average": 4.8717947
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -557,8 +591,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-mixed-reality/",
       "length": "PT41M",
       "ratings": {
-        "count": 240,
-        "average": 4.775
+        "count": 250,
+        "average": 4.772
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -600,8 +634,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/",
       "length": "PT20M",
       "ratings": {
-        "count": 853,
-        "average": 4.7866354
+        "count": 861,
+        "average": 4.7851334
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -642,8 +676,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-personalizer/",
       "length": "PT40M",
       "ratings": {
-        "count": 22,
-        "average": 4.8636365
+        "count": 23,
+        "average": 4.869565
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -685,8 +719,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 6371,
-        "average": 4.7174697
+        "count": 6427,
+        "average": 4.7161975
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -727,8 +761,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
       "length": "PT55M",
       "ratings": {
-        "count": 1138,
-        "average": 4.764499
+        "count": 1196,
+        "average": 4.766722
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -803,8 +837,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-text-to-speech/",
       "length": "PT31M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 1,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -845,8 +879,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/",
       "length": "PT56M",
       "ratings": {
-        "count": 29,
-        "average": 4.62069
+        "count": 43,
+        "average": 4.6511626
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -930,8 +964,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 3499,
-        "average": 4.693341
+        "count": 3515,
+        "average": 4.692745
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -965,8 +999,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-sap-workloads/",
       "length": "PT50M",
       "ratings": {
-        "count": 697,
-        "average": 4.814921
+        "count": 703,
+        "average": 4.813656
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1007,8 +1041,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-data-platform-modernization/",
       "length": "PT27M",
       "ratings": {
-        "count": 58,
-        "average": 4.793103
+        "count": 59,
+        "average": 4.7966104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1094,8 +1128,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-infrastructure-as-code-using-bicep/",
       "length": "PT40M",
       "ratings": {
-        "count": 42,
-        "average": 4.7619047
+        "count": 51,
+        "average": 4.7843137
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1137,8 +1171,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/",
       "length": "PT28M",
       "ratings": {
-        "count": 580,
-        "average": 4.653448
+        "count": 583,
+        "average": 4.6552315
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1174,8 +1208,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-open-source-analytics-offering/",
       "length": "PT31M",
       "ratings": {
-        "count": 240,
-        "average": 4.633333
+        "count": 242,
+        "average": 4.6363635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1207,50 +1241,6 @@
       "topics": [
         "Azure",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db.md",
-      "title": "Introduction to open source database migration to Azure Cosmos DB",
-      "excerpt": "An introduction to migrating an open-source database to Azure Cosmos DB",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 86,
-        "average": 4.744186
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Migration"
       ]
     }
   ],

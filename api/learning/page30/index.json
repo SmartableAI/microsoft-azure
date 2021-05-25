@@ -4,6 +4,91 @@
   "page": 30,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-github-actions-ci.md",
+      "title": "Build continuous integration (CI) workflows by using GitHub Actions",
+      "excerpt": "Learn how to create workflows that enable you to use Continuous Integration (CI) for your projects.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-ci/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 366,
+        "average": 4.7431693
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-ci-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-go-control-flow.md",
+      "title": "Use control flows in Go",
+      "excerpt": "Learn to use control flows in Go.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-go-control-flow/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-control-flow/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 17,
+        "average": 4.9411764
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/go-control-flow-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-go-data-types.md",
       "title": "Use data types and structs, arrays, slices, and maps in Go",
       "excerpt": "Learn about structs, arrays, slices, and maps. Understand the difference between them and when to use one type over the other.",
@@ -11,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-data-types/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 84,
-        "average": 4.8809524
+        "count": 86,
+        "average": 4.883721
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-errors-logs/",
       "length": "PT18M",
       "ratings": {
-        "count": 77,
-        "average": 4.857143
+        "count": 79,
+        "average": 4.8607593
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +180,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-get-started/",
       "length": "PT26M",
       "ratings": {
-        "count": 355,
-        "average": 4.8732395
+        "count": 365,
+        "average": 4.8767123
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -179,8 +264,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-to-market-commercial-marketplace/",
       "length": "PT31M",
       "ratings": {
-        "count": 55,
-        "average": 4.909091
+        "count": 57,
+        "average": 4.9122806
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -213,8 +298,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-variables-functions-packages/",
       "length": "PT36M",
       "ratings": {
-        "count": 193,
-        "average": 4.8445597
+        "count": 197,
+        "average": 4.847716
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -255,8 +340,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-write-test-program/",
       "length": "PT53M",
       "ratings": {
-        "count": 63,
-        "average": 4.825397
+        "count": 64,
+        "average": 4.828125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -339,8 +424,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ha-application-storage-with-grs/",
       "length": "PT34M",
       "ratings": {
-        "count": 1697,
-        "average": 4.517973
+        "count": 1710,
+        "average": 4.516959
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -467,8 +552,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "PT58M",
       "ratings": {
-        "count": 6442,
-        "average": 4.6331882
+        "count": 6479,
+        "average": 4.633894
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -504,8 +589,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-build-agent/",
       "length": "PT59M",
       "ratings": {
-        "count": 1971,
-        "average": 4.719432
+        "count": 1977,
+        "average": 4.720283
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -547,8 +632,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
       "length": "PT43M",
       "ratings": {
-        "count": 3885,
-        "average": 4.809781
+        "count": 3915,
+        "average": 4.809962
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -633,8 +718,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-architecture/",
       "length": "PT36M",
       "ratings": {
-        "count": 1654,
-        "average": 4.676542
+        "count": 1670,
+        "average": 4.675449
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -676,8 +761,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hunt-threats-sentinel/",
       "length": "PT1H5M",
       "ratings": {
-        "count": 95,
-        "average": 4.768421
+        "count": 96,
+        "average": 4.7708335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -796,8 +881,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-faces-with-computer-vision/",
       "length": "PT53M",
       "ratings": {
-        "count": 1549,
-        "average": 4.658489
+        "count": 1556,
+        "average": 4.6600256
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -840,8 +925,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-application-types/",
       "length": "PT50M",
       "ratings": {
-        "count": 185,
-        "average": 4.5945945
+        "count": 190,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -883,8 +968,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-permissions-consent/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 154,
-        "average": 4.714286
+        "count": 158,
+        "average": 4.71519
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -926,8 +1011,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-secure-custom-api/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 142,
-        "average": 4.7042255
+        "count": 146,
+        "average": 4.6986303
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -961,8 +1046,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-users-groups-approles/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 180,
-        "average": 4.766667
+        "count": 182,
+        "average": 4.769231
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -996,8 +1081,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/image-classification-azure-sphere/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 91,
-        "average": 4.7362638
+        "count": 95,
+        "average": 4.7473683
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1082,8 +1167,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/",
       "length": "PT54M",
       "ratings": {
-        "count": 234,
-        "average": 4.7350426
+        "count": 236,
+        "average": 4.737288
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1158,92 +1243,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-azure-ad-connect.md",
-      "title": "Implement Azure AD Connect",
-      "excerpt": "Implement Azure AD Connect",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-azure-ad-connect/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-azure-ad-connect/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 10,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-azure-backup-for-sap-workloads-azure-vms.md",
-      "title": "Implement Azure Backup for SAP workloads on Azure VMs",
-      "excerpt": "Implement Azure Backup for SAP workloads on Azure VMs",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-azure-backup-for-sap-workloads-azure-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-azure-backup-sap-workloads-azure-virtual-machines/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 21,
-        "average": 4.857143
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
       ]
     }
   ],
