@@ -1,27 +1,21 @@
 ---
 category: news
-title: "NHS Scotland’s track and trace system utilises Microsoft Azure"
-excerpt: "User information is fully encrypted in NHS Scotland's data lake and only available to contact tracers who have the right digital key."
-publishedDateTime: 2021-05-19T06:56:00Z
-originalUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
-webUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
+title: "Cybercom declares status as Microsoft Cloud Adoption Framework Ready partner"
+excerpt: "Cybercom, a specialist in agile software development and public cloud for business-critical systems, said that. Microsoft has granted it official Cloud Adoption Framework (CAF) Ready partner status. Cybercom said this ensures that it operates with the best practices,"
+publishedDateTime: 2021-05-25T12:13:00Z
+originalUrl: "https://www.telecompaper.com/news/cybercom-declares-status-as-microsoft-cloud-adoption-framework-ready-partner--1384290"
+webUrl: "https://www.telecompaper.com/news/cybercom-declares-status-as-microsoft-cloud-adoption-framework-ready-partner--1384290"
 type: article
-quality: 37
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Cloud Computing
-  domain: cloudcomputing-news.net
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/dan-gold-E6HjQaB7UEA-unsplash-1.jpg"
-    width: 1920
-    height: 1440
-    isCached: true
 
 related:
   - title: "Matthews Joins Microsoft as Azure Solutions Specialist"
@@ -80,6 +74,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/top-news-may-2021.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "NHS Scotland’s track and trace system utilises Microsoft Azure"
+    excerpt: "User information is fully encrypted in NHS Scotland's data lake and only available to contact tracers who have the right digital key."
+    publishedDateTime: 2021-05-19T06:56:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 37
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/dan-gold-E6HjQaB7UEA-unsplash-1.jpg"
+        width: 1920
+        height: 1440
         isCached: true
   - title: "La Liga expands Microsoft Azure partnership for OTT services and ML enhancements"
     excerpt: "La Liga, the foremost Spanish football league, has expanded its partnership with Microsoft Azure to focus on machine learning and OTT services."
@@ -187,16 +195,7 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 1
-  - title: "Cybercom declares status as Microsoft Cloud Adoption Framework Ready partner"
-    excerpt: "Cybercom, a specialist in agile software development and public cloud for business-critical systems, said that. Microsoft has granted it official Cloud Adoption Framework (CAF) Ready partner status. Cybercom said this ensures that it operates with the best practices,"
-    publishedDateTime: 2021-05-25T12:13:00Z
-    webUrl: "https://www.telecompaper.com/news/cybercom-declares-status-as-microsoft-cloud-adoption-framework-ready-partner--1384290"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 0
 
-secured: "GwuyW7ZUMt7U8Dopy5hHQkovSJktAJSXar3h5gj0iENCQWYidPSxnN411dQU0/VwV6P7eEcZUMuiWQ0snQdte6MMGUqUwEhplWkpNnr46BRyxiDieO0BOV2jcJPxMlSudL1J84azQ4Aw0fMf6nJKm87l1lP8qc4sXQd4wBBsx0A3tB4q4SFA4Kap8W9mxATjMAM9/NhD0PGG7/4imRbHDpHs2BnqMfSQnl6IDb7p3nkwl51azDTf3HnpLn8iwUIJEtt76FpDEoaI9Yopzcf87GLbXqOslDPLWesTX7JKkuVtHX/MHReMXKpwzoec4L370ncwWHg+gGW5Nb7D1aVv1b1QMc+1qeAME4TyRyOXKLc=;PPX8lpwx7ILSQfMVGW5Y2Q=="
+secured: "JnmLBJIm0MeoWycMXXfXFlc7E7ZQ7frAQS46HRZyJuN9fGZ6MGhj4KWlTe6GARxgDMbQApz7BCDr+B0OW/Xws7sd6qdaaM7SFQdOblpX8XeGwac16gByP3Kf0hiDDJaI0O/jcGC7FBgS2Ru6/TcGhkm9ID3bkZRb6Pni91kVzsvUwjAJHq/juHbNFptw+rjKbPGQ2jraUttzFyJWPrJhvkya737bt0sSvj7ws4ig39QzCsRybi8BlxniwxN7FKgGw4jr/00pAl7WuoLb8T39hgsJMxuSGuyCFlSmcyBafTEPwV1UIB5AW2BzsW78oOnlTLGvyKapoKKZDD+hiY41O+PsVC/yUd90m0zlhkVMalE=;Nv5LAf/l6PH67VNgRncgDQ=="
 ---
 

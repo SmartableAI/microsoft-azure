@@ -35,6 +35,17 @@ related:
         width: 840
         height: 1114
         isCached: true
+  - title: "Banyan Security Expands Secure Access to Hybrid Environments With Microsoft Azure Active Directory"
+    excerpt: "Banyan Security today announced an integration between Banyan Security Zero Trust Remote Access and Microsoft Azure"
+    publishedDateTime: 2021-05-25T12:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21274665/banyan-security-expands-secure-access-to-hybrid-environments-with-microsoft-azure-active-directory"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21274665"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21274665"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
   - title: "Why Microsoft Azure is backing hybrid cloud as the best choice for businesses"
     excerpt: "With Azure, Microsoft provides the most comprehensive, open, scalable, and trusted intelligent cloud tailored to requirements of businesses. Edited by Teja Lele Desai Please login to continue reading"
     publishedDateTime: 2021-05-20T17:20:00Z
@@ -176,6 +187,15 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 1
+  - title: "Cybercom declares status as Microsoft Cloud Adoption Framework Ready partner"
+    excerpt: "Cybercom, a specialist in agile software development and public cloud for business-critical systems, said that. Microsoft has granted it official Cloud Adoption Framework (CAF) Ready partner status. Cybercom said this ensures that it operates with the best practices,"
+    publishedDateTime: 2021-05-25T12:13:00Z
+    webUrl: "https://www.telecompaper.com/news/cybercom-declares-status-as-microsoft-cloud-adoption-framework-ready-partner--1384290"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 0
 
 secured: "45nX54EfLlNM9nxSYPCUKvAv0e+z7ZgDJ093LJtGbPRB38Qi9HQBM4LTsHSV1lD8CDI+nU3sMK1R4S6svmmz9mtv2LdYdcxsUyCytR1gKD1h748tML1wTbOidkaTGvb24XAQFVrry9yDVKTMlGMzzGYY37gjIfsGcbgDhE+YbXiDwUgtuyiqp6WozvTHZRGhdvJJUvdLf9GDyQrEXKaUQvLhMK0kLw+sxdUj9KepSI28ZmQHBw76NGLoKo5nYx6NpI8185teES7XSOnz1vH6GGe6X4wQaK+0ttPr1+8dMfJmMnv843SGZG3oLuwLEeTY85yU3mudhNaeIC8srz/SXNEaS41jVeNNqzj/n3iaW6w=;jTAJHC9mLrBRHaXwvJcPhA=="
 ---

@@ -1,27 +1,25 @@
 ---
 category: news
-title: "NHS Scotland’s track and trace system utilises Microsoft Azure"
-excerpt: "User information is fully encrypted in NHS Scotland's data lake and only available to contact tracers who have the right digital key."
-publishedDateTime: 2021-05-19T06:56:00Z
-originalUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
-webUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
+title: "Banyan Security Expands Secure Access to Hybrid Environments With Microsoft Azure Active Directory"
+excerpt: "Banyan Security today announced an integration between Banyan Security Zero Trust Remote Access and Microsoft Azure"
+publishedDateTime: 2021-05-25T12:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/05/g21274665/banyan-security-expands-secure-access-to-hybrid-environments-with-microsoft-azure-active-directory"
+webUrl: "https://www.benzinga.com/pressreleases/21/05/g21274665/banyan-security-expands-secure-access-to-hybrid-environments-with-microsoft-azure-active-directory"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21274665"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21274665"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Cloud Computing
-  domain: cloudcomputing-news.net
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/dan-gold-E6HjQaB7UEA-unsplash-1.jpg"
-    width: 1920
-    height: 1440
-    isCached: true
+  - Security
+  - Identity
 
 related:
   - title: "Matthews Joins Microsoft as Azure Solutions Specialist"
@@ -40,17 +38,6 @@ related:
         width: 840
         height: 1114
         isCached: true
-  - title: "Banyan Security Expands Secure Access to Hybrid Environments With Microsoft Azure Active Directory"
-    excerpt: "Banyan Security today announced an integration between Banyan Security Zero Trust Remote Access and Microsoft Azure"
-    publishedDateTime: 2021-05-25T12:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21274665/banyan-security-expands-secure-access-to-hybrid-environments-with-microsoft-azure-active-directory"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21274665"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21274665"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
   - title: "Why Microsoft Azure is backing hybrid cloud as the best choice for businesses"
     excerpt: "With Azure, Microsoft provides the most comprehensive, open, scalable, and trusted intelligent cloud tailored to requirements of businesses. Edited by Teja Lele Desai Please login to continue reading"
     publishedDateTime: 2021-05-20T17:20:00Z
@@ -80,6 +67,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/top-news-may-2021.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "NHS Scotland’s track and trace system utilises Microsoft Azure"
+    excerpt: "User information is fully encrypted in NHS Scotland's data lake and only available to contact tracers who have the right digital key."
+    publishedDateTime: 2021-05-19T06:56:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 37
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/dan-gold-E6HjQaB7UEA-unsplash-1.jpg"
+        width: 1920
+        height: 1440
         isCached: true
   - title: "La Liga expands Microsoft Azure partnership for OTT services and ML enhancements"
     excerpt: "La Liga, the foremost Spanish football league, has expanded its partnership with Microsoft Azure to focus on machine learning and OTT services."
@@ -197,6 +198,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "GwuyW7ZUMt7U8Dopy5hHQkovSJktAJSXar3h5gj0iENCQWYidPSxnN411dQU0/VwV6P7eEcZUMuiWQ0snQdte6MMGUqUwEhplWkpNnr46BRyxiDieO0BOV2jcJPxMlSudL1J84azQ4Aw0fMf6nJKm87l1lP8qc4sXQd4wBBsx0A3tB4q4SFA4Kap8W9mxATjMAM9/NhD0PGG7/4imRbHDpHs2BnqMfSQnl6IDb7p3nkwl51azDTf3HnpLn8iwUIJEtt76FpDEoaI9Yopzcf87GLbXqOslDPLWesTX7JKkuVtHX/MHReMXKpwzoec4L370ncwWHg+gGW5Nb7D1aVv1b1QMc+1qeAME4TyRyOXKLc=;PPX8lpwx7ILSQfMVGW5Y2Q=="
+secured: "3MZuTC7fJAARU6+M7ef88joFYhrzLS3h+82zc4OTqrYmv3JhYM9tVFqTnF9Rd2kNy55keJ9ghqr8L1U1gVjvXpp1TKuFhlPz4AjduaRngSwwVpauSkMOaik2lnNVnanCnGZrwpDCGcoU0KS3kWSexdtDqstTRenyesKISNcbMVxi6Ir4c7p/EqmAgi+GJeiJp2WjWtBHffov8Ouhknpd5HYcD58JgD1nPjhbKgQ/ZY/SU8W//QWpPfKQkrfzWXiKXGLoOzFchyYoMKumZGyiatiYYFJhgdz5ytNosuW88R605CdZjp036qCfmG/NoCyyzGwyCoWf/zf1U49ZZTPNM5RTsuA/K3+6oLqII7MrrHY=;JvGDYiGtkuFev8rnz0mI6A=="
 ---
 
