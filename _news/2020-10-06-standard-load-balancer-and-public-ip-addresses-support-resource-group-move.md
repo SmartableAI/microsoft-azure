@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/standard-resource-group-
 webUrl: "https://azure.microsoft.com/en-us/updates/standard-resource-group-move/"
 type: article
 quality: 67
-heat: 88
+heat: 87
 published: true
 
 provider:

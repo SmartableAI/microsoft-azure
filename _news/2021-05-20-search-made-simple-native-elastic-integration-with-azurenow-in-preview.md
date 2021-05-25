@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/search-made-simple-native-elastic
 webUrl: "https://azure.microsoft.com/blog/search-made-simple-native-elastic-integration-with-azure-now-in-preview/"
 type: article
 quality: 103
-heat: 125
+heat: 123
 published: true
 
 provider:

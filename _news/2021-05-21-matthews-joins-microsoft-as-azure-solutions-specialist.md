@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techwire.net/news/matthews-joins-microsoft-as-azure-solu
 cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/matthews-joins-microsoft-as-azure-solutions-specialist?_amp=true"
 type: article
 quality: 57
-heat: 299
+heat: 297
 published: true
 
 provider:
