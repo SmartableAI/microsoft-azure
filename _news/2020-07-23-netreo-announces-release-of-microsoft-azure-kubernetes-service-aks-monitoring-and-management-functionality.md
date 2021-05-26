@@ -169,6 +169,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 73
+  - title: "Gain flexibility to run open-source applications your way with Microsoft Azure"
+    excerpt: "We are committed to open source at Microsoft. We contribute to Linux, Kubernetes, Visual Studio Code, and serving in open source organizations like the Cloud Native Computing Foundation (CNCF) or Open Source Security Foundation (OpenSSF). At Microsoft Build, we are sharing our latest work to enable developers"
+    publishedDateTime: 2021-05-26T07:00:28Z
+    webUrl: "https://azure.microsoft.com/blog/gain-flexibility-to-run-open-source-applications-your-way-with-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Matthews Joins Microsoft as Azure Solutions Specialist"
     excerpt: "I’m beyond excited to have joined the Microsoft SLG team as an Azure Solution specialist,” Sara Matthews told Techwire. “I am eager to help my fellow citizens of California by guiding our state towards a digital transformation to support this amazing state."
     publishedDateTime: 2021-05-20T22:34:00Z

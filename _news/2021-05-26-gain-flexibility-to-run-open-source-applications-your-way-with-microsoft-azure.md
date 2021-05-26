@@ -1,27 +1,27 @@
 ---
 category: news
-title: "NHS Scotland’s track and trace system utilises Microsoft Azure"
-excerpt: "User information is fully encrypted in NHS Scotland's data lake and only available to contact tracers who have the right digital key."
-publishedDateTime: 2021-05-19T06:56:00Z
-originalUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
-webUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
+title: "Gain flexibility to run open-source applications your way with Microsoft Azure"
+excerpt: "We are committed to open source at Microsoft. We contribute to Linux, Kubernetes, Visual Studio Code, and serving in open source organizations like the Cloud Native Computing Foundation (CNCF) or Open Source Security Foundation (OpenSSF). At Microsoft Build, we are sharing our latest work to enable developers"
+publishedDateTime: 2021-05-26T07:00:28Z
+originalUrl: "https://azure.microsoft.com/blog/gain-flexibility-to-run-open-source-applications-your-way-with-microsoft-azure/"
+webUrl: "https://azure.microsoft.com/blog/gain-flexibility-to-run-open-source-applications-your-way-with-microsoft-azure/"
 type: article
-quality: 37
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Cloud Computing
-  domain: cloudcomputing-news.net
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/dan-gold-E6HjQaB7UEA-unsplash-1.jpg"
-    width: 1920
-    height: 1440
-    isCached: true
+  - Developer tools
+  - DevOps
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -176,15 +176,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 73
-  - title: "Gain flexibility to run open-source applications your way with Microsoft Azure"
-    excerpt: "We are committed to open source at Microsoft. We contribute to Linux, Kubernetes, Visual Studio Code, and serving in open source organizations like the Cloud Native Computing Foundation (CNCF) or Open Source Security Foundation (OpenSSF). At Microsoft Build, we are sharing our latest work to enable developers"
-    publishedDateTime: 2021-05-26T07:00:28Z
-    webUrl: "https://azure.microsoft.com/blog/gain-flexibility-to-run-open-source-applications-your-way-with-microsoft-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Matthews Joins Microsoft as Azure Solutions Specialist"
     excerpt: "I’m beyond excited to have joined the Microsoft SLG team as an Azure Solution specialist,” Sara Matthews told Techwire. “I am eager to help my fellow citizens of California by guiding our state towards a digital transformation to support this amazing state."
     publishedDateTime: 2021-05-20T22:34:00Z
@@ -309,6 +300,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 37
+  - title: "NHS Scotland’s track and trace system utilises Microsoft Azure"
+    excerpt: "User information is fully encrypted in NHS Scotland's data lake and only available to contact tracers who have the right digital key."
+    publishedDateTime: 2021-05-19T06:56:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 37
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/dan-gold-E6HjQaB7UEA-unsplash-1.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
   - title: "Amdocs to put BSS/OSS solutions onto Microsoft's Azure"
     excerpt: "The collaboration will enable service providers to accelerate their move to the cloud by using Amdocs' cloud-native BSS/OSS solutions and services and our unique delivery accountability model while benefiting from the cloud capabilities of Azure to build,"
     publishedDateTime: 2021-05-24T16:00:00Z
@@ -527,6 +532,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "GwuyW7ZUMt7U8Dopy5hHQkovSJktAJSXar3h5gj0iENCQWYidPSxnN411dQU0/VwV6P7eEcZUMuiWQ0snQdte6MMGUqUwEhplWkpNnr46BRyxiDieO0BOV2jcJPxMlSudL1J84azQ4Aw0fMf6nJKm87l1lP8qc4sXQd4wBBsx0A3tB4q4SFA4Kap8W9mxATjMAM9/NhD0PGG7/4imRbHDpHs2BnqMfSQnl6IDb7p3nkwl51azDTf3HnpLn8iwUIJEtt76FpDEoaI9Yopzcf87GLbXqOslDPLWesTX7JKkuVtHX/MHReMXKpwzoec4L370ncwWHg+gGW5Nb7D1aVv1b1QMc+1qeAME4TyRyOXKLc=;PPX8lpwx7ILSQfMVGW5Y2Q=="
+secured: "YEtNiCkWmGzGSWmKYGQ9QtEo0SPrnNsnSqG8bQbzI/NwLcpbjP07Zf3cMmARTTUSBdo/Oc6WI75RDngtlsS19DoovQqYG4agwgSMItrSMt4Im40Ctolft0DvTzWH3eqWWLswfk8XqpFQJXt8UCjKkiZQv+Ila7V9d/uSBk451aKvzUdaylkW/3bM1pI36iAyhuy8YqewI4OhiB1PzHQjgZ3NNrNygVhPtA+Nzts/HBG5uHNnewAPUGCWQa1M80IRcIb/zZN40HGeZzQ3oJteOqyV5KShnEfO8ZcFmJjccmYMFFXh2YgcJByRClSHX0W5/TMk28fAgSaRbhoKrc5RQ7rH4n8xDn9Rp9kDCbwQspc=;bcRhsIuf72DEjuI7DrFt6g=="
 ---
 

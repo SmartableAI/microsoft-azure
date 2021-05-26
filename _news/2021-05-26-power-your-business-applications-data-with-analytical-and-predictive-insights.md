@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Limited-time free quantities offer for Azure Synapse Analytics"
-excerpt: "Customers with qualifying subscription types can now try the new serverless SQL pool and Apache Spark pool resources in Azure Synapse Analytics using free quantities until July 31, 2021. \n"
-publishedDateTime: 2021-03-17T10:00:23Z
-originalUrl: "https://azure.microsoft.com/blog/limited-time-free-quantities-offer-for-azure-synapse-analytics/"
-webUrl: "https://azure.microsoft.com/blog/limited-time-free-quantities-offer-for-azure-synapse-analytics/"
+title: "Power your business applications data with analytical and predictive insights"
+excerpt: "Over the past two years, customer feedback has made it clear that when data barriers are dissolved the impact of analytics grows exponentially. Today, we’re announcing the next step in bringing data insights to all by eliminating the barrier between business applications and analytical systems with Azure"
+publishedDateTime: 2021-05-26T08:00:29Z
+originalUrl: "https://azure.microsoft.com/blog/power-your-business-applications-data-with-analytical-and-predictive-insights/"
+webUrl: "https://azure.microsoft.com/blog/power-your-business-applications-data-with-analytical-and-predictive-insights/"
 type: article
-quality: 101
+quality: 73
 heat: -1
 published: false
 
@@ -20,8 +20,14 @@ provider:
 
 topics:
   - Azure
-  - Serverless
   - Analytics
+  - DevOps
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a7e04bbb-a0e9-4e05-a352-c5f2b6ab4e19.gif"
+    width: 853
+    height: 480
+    isCached: true
 
 related:
   - title: "Harness analytical and predictive power with Azure Synapse Analytics"
@@ -104,6 +110,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 103
+  - title: "Limited-time free quantities offer for Azure Synapse Analytics"
+    excerpt: "Customers with qualifying subscription types can now try the new serverless SQL pool and Apache Spark pool resources in Azure Synapse Analytics using free quantities until July 31, 2021. \n"
+    publishedDateTime: 2021-03-17T10:00:23Z
+    webUrl: "https://azure.microsoft.com/blog/limited-time-free-quantities-offer-for-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "Column-level encryption for Azure Synapse Analytics"
     excerpt: "Azure Synapse Analytics already provides a breadth of options that can be used to handle sensitive data in a secure manner—we are expanding that support with the introduction of Column Level Encryption (CLE)."
     publishedDateTime: 2020-09-23T16:00:13Z
@@ -213,20 +228,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Power your business applications data with analytical and predictive insights"
-    excerpt: "Over the past two years, customer feedback has made it clear that when data barriers are dissolved the impact of analytics grows exponentially. Today, we’re announcing the next step in bringing data insights to all by eliminating the barrier between business applications and analytical systems with Azure"
-    publishedDateTime: 2021-05-26T08:00:29Z
-    webUrl: "https://azure.microsoft.com/blog/power-your-business-applications-data-with-analytical-and-predictive-insights/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 73
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a7e04bbb-a0e9-4e05-a352-c5f2b6ab4e19.gif"
-        width: 853
-        height: 480
-        isCached: true
   - title: "Line numbers in Log Analytics query editor"
     excerpt: "Log Analytics query editor now show line numbers when composing a query"
     publishedDateTime: 2020-08-13T16:00:06Z
@@ -474,6 +475,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "yY6Dpuf5ZrvpNh2dXQX5XpTYGmFeyZf4K+whqNthAP46nHYKef98AZkTkQejMx8irFUQm5mCo7g1sv16hP4AAg5tU7LoF6B8RHG+9pFHcmR/uzB24cDwEnGEOspuh6PyQjzOe1FipBqe6coD8mNE2y4/4ZehB3yF2+GbNu9mViwqXcGCULty2IaPQXhd/yjmlHaeertAFsH7GMs8ceruTU8RuR49iNgILzWHBp9V3RmXa6L3g2vJMwe4yJTSOQHwJbklxnZvxOvw9ojacRhr6BcooIYFoZDKMW+mZe53Lj0C8moHwQyGf6l6TwSJ7yVz/aFGerN1eQHu54UkhuigO7+dp1MxX51zbCzKzL9qNY8=;hpMfSqCJHAzwj6d0rLlZfA=="
+secured: "rw05wLhp39OpnzIcR5QeArlYLymIHMB3FSSum5DysnLf6kXWBE5nbW1e25M7735aADIS75r9Kx7iX5ERSjtcHCRE1uEEdyZ5Nye59l7CQ4O4EmauweU3v2ddSi/XrgvgyrH6P2Ri5a9qZ1lysyF6+szKKGNe2R2X5UkLnWL8m3wT2MH3Usux5sCuuKmdKuZo2VVRa9qu4J4nAuuG9bb7oK1Uw+J+yzqIcSPWH+YJ3R3v0rPcfnlCjiJSBA6hAxVvvhT7kI5VPVJ6OHJ21fDoHKiAMsgvE7PnFC48MkisQQCd5UI0b0svSjkjrcGjxiTVGCBeTTdnMg/a501kKess3/+NqFSF2ufDyNlnpv4DaMI=;X5pp66/duHAXVpKLyLYhHQ=="
 ---
 

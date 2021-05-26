@@ -225,6 +225,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Power your business applications data with analytical and predictive insights"
+    excerpt: "Over the past two years, customer feedback has made it clear that when data barriers are dissolved the impact of analytics grows exponentially. Today, we’re announcing the next step in bringing data insights to all by eliminating the barrier between business applications and analytical systems with Azure"
+    publishedDateTime: 2021-05-26T08:00:29Z
+    webUrl: "https://azure.microsoft.com/blog/power-your-business-applications-data-with-analytical-and-predictive-insights/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 73
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a7e04bbb-a0e9-4e05-a352-c5f2b6ab4e19.gif"
+        width: 853
+        height: 480
+        isCached: true
   - title: "Log Analytics new System Center configuration blade"
     excerpt: "System center configuration now has it’s own dedicated blade in Log Analytics."
     publishedDateTime: 2020-08-13T16:00:06Z
