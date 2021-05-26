@@ -78,15 +78,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
-      "title": "Explore Azure database and analytics services",
-      "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
-      "length": "PT39M",
+      "path": "_learning/courses/microsoft-learn-introduction-data-platform-modernization.md",
+      "title": "Introduction to data platform modernization",
+      "excerpt": "Introduction to data platform modernization",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-data-platform-modernization/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-data-platform-modernization/",
+      "length": "PT27M",
       "ratings": {
-        "count": 14819,
-        "average": 4.7291317
+        "count": 59,
+        "average": 4.7966104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -106,7 +106,7 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -118,21 +118,19 @@
       "topics": [
         "Azure",
         "Databases",
-        "Analytics",
-        "AI",
-        "Storage"
+        "Analytics"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-pipelines-in-aml.md",
-      "title": "Orchestrate machine learning with pipelines",
-      "excerpt": "Create pipelines in Azure Machine Learning",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-pipelines-in-aml/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/",
-      "length": "PT55M",
+      "path": "_learning/courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data.md",
+      "title": "Monitor the health of your Azure virtual machine by using Azure Metrics Explorer and metric alerts",
+      "excerpt": "Learn how to monitor the health of your Azure VMs by using Azure Metrics Explorer and metric alerts.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
+      "length": "PT43M",
       "ratings": {
-        "count": 909,
-        "average": 4.669967
+        "count": 1321,
+        "average": 4.695685
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -150,27 +148,35 @@
         "Beginner"
       ],
       "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-vm-using-diagnostic-data-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
+        "Compute",
+        "DevOps",
+        "Management Tools"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
-      "title": "Run Docker containers with Azure Container Instances",
-      "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 6759,
-        "average": 4.7150464
-      },
+      "path": "_learning/videos/microsoft-azure-advisor-your-free-personalized-guide-to-azure-best-practices-azure-friday.md",
+      "title": "Azure Advisor – Your free, personalized guide to Azure best practices | Azure Friday",
+      "excerpt": "Jose Portugal joins Scott Hanselman to show how to use Azure Advisor to optimize your Azure workload usage, lower costs, increase efficiency, and improve security.  0:00 – Introduction 2:27 – Demo: Azure Advisor 6:30 – Demo: Alerts 7:06 – Demo: Recommendation digests 8:43 – Demo: Advisor Score 12:42",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-advisor-your-free-personalized-guide-to-azure-best-practices-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-advisor-your-free-personalized-guide-to-azure-best-practices-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=55lTTFACw-E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/55lTTFACw-E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M10S",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
@@ -181,17 +187,21 @@
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
+      "publishedDateTime": "2021-03-26T08:51:57-07:00",
       "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/55lTTFACw-E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Containers",
-        "Databases"
+        "Azure"
       ]
     },
     {
@@ -260,8 +270,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 141732,
-            "average": 4.7024946
+            "count": 141736,
+            "average": 4.702489
           },
           "provider": {
             "name": "Microsoft Learn",

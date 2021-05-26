@@ -4,6 +4,48 @@
   "page": 20,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-stack-hci-technologies.md",
+      "title": "Introduction to Azure Stack HCI core technologies",
+      "excerpt": "This module introduces Azure Stack HCI technologies. You'll learn about the core Azure Stack HCI technologies, including Hyper-V, Windows Server software-defined storage, and Windows Server software-defined networking.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-stack-hci-technologies/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-stack-hci-technologies/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 33,
+        "average": 4.757576
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-stack-hci-technologies-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-storage-fundamentals.md",
       "title": "Explore Azure Storage services",
       "excerpt": "Learn about the different storage options that are available in Azure Storage.",
@@ -11,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 10472,
-        "average": 4.767093
+        "count": 10481,
+        "average": 4.7671022
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
       "length": "PT51M",
       "ratings": {
-        "count": 1563,
-        "average": 4.7389636
+        "count": 1564,
+        "average": 4.7391305
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -281,8 +323,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 4292,
-        "average": 4.752097
+        "count": 4294,
+        "average": 4.7522125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -325,8 +367,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-azure-sql/",
       "length": "PT41M",
       "ratings": {
-        "count": 901,
-        "average": 4.6503882
+        "count": 902,
+        "average": 4.6496673
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -411,8 +453,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/bash-introduction/",
       "length": "PT57M",
       "ratings": {
-        "count": 120,
-        "average": 4.741667
+        "count": 121,
+        "average": 4.7438016
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -774,8 +816,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "PT42M",
       "ratings": {
-        "count": 2883,
-        "average": 4.6163716
+        "count": 2885,
+        "average": 4.616291
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -854,8 +896,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
       "length": "PT57M",
       "ratings": {
-        "count": 6523,
-        "average": 4.7261996
+        "count": 6524,
+        "average": 4.7260885
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -977,8 +1019,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
       "length": "PT48M",
       "ratings": {
-        "count": 702,
-        "average": 4.6980057
+        "count": 710,
+        "average": 4.7
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1217,50 +1259,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-query-delta-lake.md",
-      "title": "Build and query a Delta Lake",
-      "excerpt": "Build and query a Delta Lake",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-query-delta-lake/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-query-delta-lake/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 215,
-        "average": 4.6511626
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-query-delta-lake-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
       ]
     }
   ],

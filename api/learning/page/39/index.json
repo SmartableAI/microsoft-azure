@@ -4,6 +4,49 @@
   "page": 39,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-microservices-devops-aspnet-core.md",
+      "title": "Deploy a cloud-native ASP.NET Core microservice with GitHub Actions",
+      "excerpt": "Implement GitHub Actions to build a container image and deploy to Azure Kubernetes Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-devops-aspnet-core/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-devops-aspnet-core/",
+      "length": "PT54M",
+      "ratings": {
+        "count": 62,
+        "average": 4.7580647
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-devops-aspnet-core-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-microservices-logging-aspnet-core.md",
       "title": "Instrument a cloud-native ASP.NET Core microservice",
       "excerpt": "This module guides you through implementing logging and monitoring in an ASP.NET Core microservices app in Azure Kubernetes Service.",
@@ -142,8 +185,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/",
       "length": "PT50M",
       "ratings": {
-        "count": 2364,
-        "average": 4.74577
+        "count": 2365,
+        "average": 4.7458773
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -227,8 +270,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-runs-on-trust/",
       "length": "PT30M",
       "ratings": {
-        "count": 5646,
-        "average": 4.7408786
+        "count": 5647,
+        "average": 4.7407475
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -657,8 +700,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 1530,
-        "average": 4.4882355
+        "count": 1532,
+        "average": 4.4882507
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -848,51 +891,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data.md",
-      "title": "Monitor the health of your Azure virtual machine by using Azure Metrics Explorer and metric alerts",
-      "excerpt": "Learn how to monitor the health of your Azure VMs by using Azure Metrics Explorer and metric alerts.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 1321,
-        "average": 4.695685
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-vm-using-diagnostic-data-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "DevOps",
-        "Management Tools"
       ]
     },
     {

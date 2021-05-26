@@ -43,15 +43,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
-      "title": "Explore Azure database and analytics services",
-      "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
-      "length": "PT39M",
+      "path": "_learning/courses/microsoft-learn-introduction-data-platform-modernization.md",
+      "title": "Introduction to data platform modernization",
+      "excerpt": "Introduction to data platform modernization",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-data-platform-modernization/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-data-platform-modernization/",
+      "length": "PT27M",
       "ratings": {
-        "count": 14819,
-        "average": 4.7291317
+        "count": 59,
+        "average": 4.7966104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -83,45 +83,7 @@
       "topics": [
         "Azure",
         "Databases",
-        "Analytics",
-        "AI",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
-      "title": "Run Docker containers with Azure Container Instances",
-      "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 6759,
-        "average": 4.7150464
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Databases"
+        "Analytics"
       ]
     },
     {
@@ -273,8 +235,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 14819,
-            "average": 4.7291317
+            "count": 14834,
+            "average": 4.729136
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -291,7 +253,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
@@ -355,8 +317,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 4019,
-            "average": 4.600896
+            "count": 4020,
+            "average": 4.600995
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -399,8 +361,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1530,
-            "average": 4.4882355
+            "count": 1532,
+            "average": 4.4882507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -479,8 +441,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 6730,
-            "average": 4.7145615
+            "count": 6734,
+            "average": 4.714583
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -610,8 +572,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
           "length": "PT35M",
           "ratings": {
-            "count": 5064,
-            "average": 4.7389417
+            "count": 5065,
+            "average": 4.7387958
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -902,8 +864,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 13867,
-            "average": 4.7604384
+            "count": 13887,
+            "average": 4.7604957
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -947,8 +909,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 11909,
-            "average": 4.6374173
+            "count": 11918,
+            "average": 4.637607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -990,8 +952,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 10472,
-            "average": 4.767093
+            "count": 10481,
+            "average": 4.7671022
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1033,8 +995,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 14819,
-            "average": 4.7291317
+            "count": 14834,
+            "average": 4.729136
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1051,7 +1013,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
@@ -1214,8 +1176,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-secure-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 359,
-            "average": 4.735376
+            "count": 360,
+            "average": 4.736111
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1384,8 +1346,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1563,
-            "average": 4.7389636
+            "count": 1564,
+            "average": 4.7391305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1571,8 +1533,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 136,
-            "average": 4.6911764
+            "count": 137,
+            "average": 4.6934304
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1613,8 +1575,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9037,
-            "average": 4.66615
+            "count": 9039,
+            "average": 4.666224
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1687,8 +1649,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3832,
-            "average": 4.5558457
+            "count": 3835,
+            "average": 4.55515
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1814,8 +1776,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-multiple-tables-with-joins/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 16,
-            "average": 4.9375
+            "count": 17,
+            "average": 4.882353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1986,8 +1948,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9845,
-            "average": 4.697715
+            "count": 9846,
+            "average": 4.6977453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2420,8 +2382,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 6730,
-            "average": 4.7145615
+            "count": 6734,
+            "average": 4.714583
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2548,8 +2510,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1530,
-            "average": 4.4882355
+            "count": 1532,
+            "average": 4.4882507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2850,7 +2812,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3270,8 +3232,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 10145,
-            "average": 4.7672744
+            "count": 10155,
+            "average": 4.767405
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3929,8 +3891,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1530,
-            "average": 4.4882355
+            "count": 1532,
+            "average": 4.4882507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3966,8 +3928,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
           "length": "PT20M",
           "ratings": {
-            "count": 2291,
-            "average": 4.650371
+            "count": 2293,
+            "average": 4.650676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4010,8 +3972,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 4019,
-            "average": 4.600896
+            "count": 4020,
+            "average": 4.600995
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4302,6 +4264,46 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-get-started-with-azure-cosmos-db-built-in-notebooks-azure-portal-series.md",
+      "title": "How to get started with Azure Cosmos DB built-in notebooks | Azure Portal Series",
+      "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to use Microsoft Azure Cosmos DB’s built-in C# and Python notebooks. We’ll show how to get started, use notebooks to visualize and analyze your data, and share your notebooks with others.     Try out these features in the Azure portal: https://portal.azure.com",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-azure-cosmos-db-built-in-notebooks-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-azure-cosmos-db-built-in-notebooks-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=OrnZMkP5Eq4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OrnZMkP5Eq4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M2S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-05-03T08:24:32-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OrnZMkP5Eq4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
         "Databases"
       ]
     }
