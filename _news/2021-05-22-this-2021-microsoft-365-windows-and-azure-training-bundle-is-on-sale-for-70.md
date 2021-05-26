@@ -2,11 +2,11 @@
 category: news
 title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
 excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
-publishedDateTime: 2021-05-21T21:40:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+publishedDateTime: 2021-05-21T23:03:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/18502/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+webUrl: "https://www.zdnet.com/index.php/category/18502/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
 type: article
 quality: 73
 heat: -1
@@ -447,6 +447,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
+    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-05-26T12:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378094.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
     publishedDateTime: 2021-05-25T18:08:00Z
@@ -512,6 +521,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "bXIwttRLG9OITbpxeMecjkW5iI1zCnmkodqi8JzYa7sa+nlhFTH8wMcaRYcEwzJdYpY6/FEjmgDHC8hMi6yv3DZPOwjH6KVO+eTPDzokeNLtNDvEL1hF1M2M+AX21ydg9S1Vty7kEE6LoSX2IMR/gSqwM8ZyV+dHueZjrC3r0Rt7CRXSy5ckn99jbPPGHvRFS45UXHALPtV1XIlz6TicesXUE8Us8HmBeQzpJAKEQw/rRZFQ1+Y/8sCYsIqEyyFa62uuRJcAXPlMafea7A8hljKD4Kj3bpU0kSVKCKw83wI+ffNtPks2Z7Jyce4lybQ4VxTHcg2j4s/uKUOFZ16IEmhkQ7tPtKzfA1XTTRk9qYY=;55ByWAm3iCP+MvmzKw2Vwg=="
+secured: "TYmRBw1EsWioHLQijSBeL+XWNrL2/jM45+AuR2LbDTJko9kE38nyC+Jj3PPguc4SiUnLsvYx57G+l5O7jCAYSb0ncUPBVaPBU7yNCSARWOW1x1g9lQB17q4p5Qb1MZllRgYFMXdSA6BYNeSXRpGsyqyy50mhsIuKIMO3EovX06E1S70KttckUnqtvJFGQS1MhD8y+WFyZvYQfBC5IGDccMoEm4nuODgUNvCsS2IEFDM4WOUR2eQUPingIcMSJGf+G1FUT3yC7oUItNtWaTbrt6jMo4G/QIWK2qsqsa78dj6Z7TcikVs4trsD8EX1iKPySSpoVrOmk8RPxalFS4/FW8CLAeZDo01TasfzK79ZCpk=;1Xp9o8PWp1bgyBrsX9rN6g=="
 ---
 

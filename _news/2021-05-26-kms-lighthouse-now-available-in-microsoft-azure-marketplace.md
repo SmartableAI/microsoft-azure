@@ -1,25 +1,21 @@
 ---
 category: news
-title: "Banyan Security Expands Secure Access to Hybrid Environments With Microsoft Azure Active Directory"
-excerpt: "Banyan Security today announced an integration between Banyan Security Zero Trust Remote Access and Microsoft Azure"
-publishedDateTime: 2021-05-25T12:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/05/g21274665/banyan-security-expands-secure-access-to-hybrid-environments-with-microsoft-azure-active-directory"
-webUrl: "https://www.benzinga.com/pressreleases/21/05/g21274665/banyan-security-expands-secure-access-to-hybrid-environments-with-microsoft-azure-active-directory"
-ampWebUrl: "https://amp.benzinga.com/amp/content/21274665"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21274665"
+title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
+excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-05-26T12:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378094.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378094.htm"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-  - Security
-  - Identity
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -190,6 +186,17 @@ related:
         width: 840
         height: 1114
         isCached: true
+  - title: "Banyan Security Expands Secure Access to Hybrid Environments With Microsoft Azure Active Directory"
+    excerpt: "Banyan Security today announced an integration between Banyan Security Zero Trust Remote Access and Microsoft Azure"
+    publishedDateTime: 2021-05-25T12:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21274665/banyan-security-expands-secure-access-to-hybrid-environments-with-microsoft-azure-active-directory"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21274665"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21274665"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
   - title: "Azure Arc Manages Kubernetes Clusters Anywhere, Brings ML on Premises"
     excerpt: "At the virtual version of its Ignite developers’ conference Tuesday, Microsoft released into general availability a key function of Azure Arc that gives the service something resembling a genuine purpose: the ability to manage ordinary Kubernetes ..."
     publishedDateTime: 2021-03-05T18:29:00Z
@@ -445,15 +452,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
-    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-05-26T12:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378094.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
     publishedDateTime: 2021-05-25T18:08:00Z
@@ -519,6 +517,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "3MZuTC7fJAARU6+M7ef88joFYhrzLS3h+82zc4OTqrYmv3JhYM9tVFqTnF9Rd2kNy55keJ9ghqr8L1U1gVjvXpp1TKuFhlPz4AjduaRngSwwVpauSkMOaik2lnNVnanCnGZrwpDCGcoU0KS3kWSexdtDqstTRenyesKISNcbMVxi6Ir4c7p/EqmAgi+GJeiJp2WjWtBHffov8Ouhknpd5HYcD58JgD1nPjhbKgQ/ZY/SU8W//QWpPfKQkrfzWXiKXGLoOzFchyYoMKumZGyiatiYYFJhgdz5ytNosuW88R605CdZjp036qCfmG/NoCyyzGwyCoWf/zf1U49ZZTPNM5RTsuA/K3+6oLqII7MrrHY=;JvGDYiGtkuFev8rnz0mI6A=="
+secured: "1zFTIBO7oQ++HHZP2yjVuvtZAUNy1fMvn7MEosgJaRHUyrgQd1dqfPBiKOCxMjtw2naZ+mgDrqkdix/DIak882IB7NihO+1xh5/Xv7tmt+sfHD2NqE01xKcJTzJYJ2KF5xGARDPNMjBeltgguwPUqQw/S+nDFJ87C2Pm/PJovPTYvD9CqDsrSuybVh5C2u72ukCG2upjzlqYQbN0XPzh/jGJk/TnRa6bRGb9zU/Dn8iU5HUEwJrxtlhRW0jX2TZC82uFcDNtKoNoXAtwp6mn97oGfddu5lit3SEP7fZ0qTWP2DGvcz9v9sTM19nzvhltzgkrkGVSMjc8gFMS9wEwNq3Lydn8kZm/SJ1HDAjW+1w=;UPkSu40f/REMLtASQZJGuw=="
 ---
 
