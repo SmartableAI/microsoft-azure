@@ -168,10 +168,10 @@ related:
     quality: 84
   - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
     excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
-    publishedDateTime: 2021-05-21T23:03:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/18502/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+    publishedDateTime: 2021-05-21T21:40:00Z
+    webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
     type: article
     provider:
       name: ZDNet
@@ -510,6 +510,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "vYZ1VMxahjWUeuT2UcqtjcyIJ9rZRDZHa5PsGdSLlcskiyO/nxdFzsQFwDCdGpdAFmN94SUjBgMopb082NY8slHLhqRJbVNrsBOcRVO3IJ0Do9eUoOffEUlLzIfwtr8mZnEeazws+QLWP2XIY7o3T0CG/TyVCQs31OXsleTYAnpkNMmO5/jNm08RcHp521rsVdn1ZF7/KoHjWYxGoxYGMViXcB03t3v2G642HYbOeZwhIiPghkmvmxfSszCOkLCi6gxcAQZiyf9/+ZfzWBBPnBvbguEIbERxCGysRGeVdGC/7PNqTSIvUk13rXjbuMccepeFZYM77XJAJdmzi5ur7DSL3iV0i5JFO3D1lff3rrc=;bFfzfgg1CDVdWf1ZfE5tTQ=="
+secured: "PlXxUSSdk9h4ieo2Mj82PyXL7TTz8uGvA/OoOnH6XtoDal0mHaKiJg1QWhUzEJigy2v0im01z9+nLyEhE2fpQYU2iglvtU7mq1DiNOTPYwhbPNTa2Ne8BlFNXXekSV+Y79yfHs32M+eOrVrXi15WhZw77l/r5A8TrFd2QUnT0dTbsxGn6N3b5HAmNXmFUPiAncb4HWae+IfAc5vhLpc9JOHJHioNWtgWuDI10JHUrZOE9a+xUhnrzzqUjemGsMaLNPa32O1C1aA5aKsBYXRHV0ObzkuXfKY8tURmIJfM+emj9vht/hSySDozXncXvLyFTIKN0xFWV8j7oj9N9ivun9bSTI9XaGunY22+jYWQyl0/6M09jWYFyxZSoQYfDfNgSVGiwCmGMP5xsFtca5JmOwYnd0AjX1lXYrBkopWojbPNj1IR6uo/rM9OS1fMvtl73QK4F5jKcp75uB+Lq+eeXRpjsUXxTe695EiYdTDcE82Xh7JmZv1J9LVmyE1JMGhyL8DghHpNIwk2TbU9zot1sA==;7MGS7ltDi4bTHgm056xCUg=="
 ---
 

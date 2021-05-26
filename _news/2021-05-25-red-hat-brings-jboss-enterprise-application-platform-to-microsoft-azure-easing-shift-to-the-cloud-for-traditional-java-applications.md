@@ -29,6 +29,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 94
+  - title: "A Close Look at Cloud-Based Machine Learning Platforms: Microsoft Azure ML, Google Vertex AI"
+    excerpt: "This is the second part of the ML PaaS series where we explore Azure Machine Learning services and Google’s Vertex AI platform. We follow the same framework of classifying the features and services of these platforms into the five stages of machine learning."
+    publishedDateTime: 2021-05-26T10:00:00Z
+    webUrl: "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 58
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/05/cfb51125-hans-otto-theater-3873684_640.jpg"
+        width: 640
+        height: 426
+        isCached: true
 
 secured: "GgMiTWZDicBPbNDFW88Cz8fhpZ2BtjaNbkhYf3MNz2DlShck3TvcDfWLRud2eX/9SqDfqDK1m+qe4tSnVQDTlCKlKZYXQqpfdT9xnOecuNRoYv4auULEXQym+kqfc70UPSMORST1O8kr6vLYjS3SMXfradyI2r1aaZFspcU9l5nt9t7zjxqU2yPSlMv0hlQhlJ1blNZWFCUmdqLsufTN+xJendDcmGbu7Viom841YcPUg1pg1qDF4oyedYdD4LRQSWIlkwDB9GD8XIQzL9pM91gYLKsLB/f/JdaCiSV3EMnrIExbVYyBP/sihtKRxCRu6dvfytqVFsA42wzdcK1jiZTvyOZJGRYeLA+IM6S3lGo=;dr617zGPu4ehfUi5fCcABQ=="
 ---
