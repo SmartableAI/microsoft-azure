@@ -1,27 +1,27 @@
 ---
 category: news
 title: "3Cloud Partners with Databricks to Help Companies Build Modern Data + AI Platforms in Microsoft Azure"
-excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value by"
-publishedDateTime: 2021-05-25T15:45:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/3cloud-partners-with-databricks-to-help-companies-build-modern-data-ai-platforms-in-microsoft-azure/article_2ccbb6d3-dd87-5a73-9562-be208df5bd3b.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/3cloud-partners-with-databricks-to-help-companies-build-modern-data-ai-platforms-in-microsoft-azure/article_2ccbb6d3-dd87-5a73-9562-be208df5bd3b.html"
+excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI)."
+publishedDateTime: 2021-05-25T15:54:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9377486.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9377486.htm"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/ad/cad42c19-020e-580f-b646-2286a31c0b26/60ad1c0bd2933.image.jpg?resize=1119%2C630"
-    width: 1119
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1518026/Databricks_Partner_Award_Rising_Star_3Cloud.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -168,10 +168,10 @@ related:
     quality: 84
   - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
     excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
-    publishedDateTime: 2021-05-21T23:03:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/18502/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+    publishedDateTime: 2021-05-21T21:40:00Z
+    webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
     type: article
     provider:
       name: ZDNet
@@ -304,7 +304,7 @@ related:
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/7"
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/12"
     type: article
     provider:
       name: CRN
@@ -496,6 +496,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "lyf4aOZHNiNtNK/LNI6KSuF+R6at/GrvwTHwPYVd7ky1gC2FMZwryqM4h5659q7J9boadygSs0AKxQP3UnXHL7qGWzIzVqwKfFlFQs9Z5ZsPiJ44zxF5GpSl4jnfWgRUK5zkO5Ny9UGI4olGHGecHm9FZCUiU7MoblarLND+xY6SJqOBd5G9ljnaVUyGZSL0f8LIzNU8DIkTZWCN0EH/z2O1a7EGLNWdFPNHTrGtMn6XJ98mwBgpFgzHQVBbCjXiSaefX6LrvkhvSYO1m/ZwTOSPN80/IRlWbcA5qPnk9Ax+o7DasaWA2Xi635SijG2U4nxkYo7NDDVffOlXIyLF8ik9SXpHbe9nsUZE2hSDr5n63xAOyrW6kkIdoOyz/frZVsJkYk+2bbL1QuP5gpLc4VRS4IHLDyESJk+RWdNiXJgS9bhxfYn1m4Ii2KBYdvL0TcfjardZuA1L34DKNrjza9MI5txNYHVybBGmzCSFz5sxt077+ESIBWw3lnneCi5CQh+vQWAZZl8Mqmc37i/RvQ==;MedOGOf+ypSxuQWMml3i5Q=="
+secured: "9FgIFCOA7/y+s0O6vO7a0Uy+Ku+F8Ru5mhQRUnmMfKzepaVKbQrA+rXCmZCTvQXUfg5SbMN5BDUW/TTFzTT7SSiY99L1Qkw8KRv0FjLqu3mRPo9B7anAows8uO2bzW9Ls13wYoks4l7VgbXsjdF2G/8USaeJaUII2rzJHajHDgskKAqDyZv/UlJjLfSe/9yokd+oyfPSzGHDMXkanuehVw25L/TCVbgf8jozeYKsVZOSWKlEL5+wwpR7VlVWMbNSFYBibkW8L4LZaVDmlQgm2xMu+iNJgaMgjbh5mJurVuAHBTfbN1MElSJ86dTDEWXcj7UO64Jqd7t8jaqD3xIkM2pL7ei6gDOHN1RvVGOvYRw=;11/RHlz/RL4OGLlKDgid2w=="
 ---
 

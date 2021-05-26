@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Red Hat Brings JBoss Enterprise Application Platform to Microsoft Azure, Easing Shift to the Cloud for Traditional Java Applications"
-excerpt: "Inc., the world's leading provider of open source solutions, today announced Red Hat JBoss Enterprise Application Platform (JBoss EAP) on Microsoft Azure, enabling organizations to tap into the benefits of a cloud-based architecture for modernizing their existing Jakarta EE (previously Java EE) applications and building new ones on Azure."
-publishedDateTime: 2021-05-25T15:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9377449.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9377449.htm"
+excerpt: "Offering enables the migration of Java applications to cloud environments Red Hat, Inc., the world's leading provider of open source solutions, today announced Red Hat JBoss Enterprise Application Platform (JBoss EAP) on Microsoft Azure,"
+publishedDateTime: 2021-05-25T10:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210525005305/red-hat-brings-jboss-enterprise-application-platform-to-microsoft-azure-easing-shift-to-the-cloud-for-traditional-java-applications"
+webUrl: "https://www.morningstar.com/news/business-wire/20210525005305/red-hat-brings-jboss-enterprise-application-platform-to-microsoft-azure-easing-shift-to-the-cloud-for-traditional-java-applications"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -30,6 +30,6 @@ related:
       domain: zdnet.com
     quality: 94
 
-secured: "BqLOJ8ed/KvVOcJe2baVLW51BJRKu9cod1D/xSvjfJf+g2J9f2cYmDaKyDre2yOpPXcupdX95c//WS+fzJrpqOGmvPQAyY/Gjc3px95xQeEF12CUGglZX6grN4a+Qh2UfhGWpyzp7zWXU9vOSUWDaY8KoehapuXCicMKRKLB/WUldvorL7AUIer5svlGYexCsoS1PefcT1fs6qsBYfyLNZ2hX+IfmxXjtAKG8iW5zM4ENZQDNmfcAtg+m3HyCg9gOAJpfCFGK7jEXibl3YDK0xBdxFADzssfVh3jECPu8Q+t2HmZavBQ/q4CLO67EMVMaXn0C8KS6QYvwSrYHl/O33mOD4clvk9Y1KSiA8Wy0Ys=;ItFWDj4fmfdJ7KKUKaZ9RQ=="
+secured: "GgMiTWZDicBPbNDFW88Cz8fhpZ2BtjaNbkhYf3MNz2DlShck3TvcDfWLRud2eX/9SqDfqDK1m+qe4tSnVQDTlCKlKZYXQqpfdT9xnOecuNRoYv4auULEXQym+kqfc70UPSMORST1O8kr6vLYjS3SMXfradyI2r1aaZFspcU9l5nt9t7zjxqU2yPSlMv0hlQhlJ1blNZWFCUmdqLsufTN+xJendDcmGbu7Viom841YcPUg1pg1qDF4oyedYdD4LRQSWIlkwDB9GD8XIQzL9pM91gYLKsLB/f/JdaCiSV3EMnrIExbVYyBP/sihtKRxCRu6dvfytqVFsA42wzdcK1jiZTvyOZJGRYeLA+IM6S3lGo=;dr617zGPu4ehfUi5fCcABQ=="
 ---
 
