@@ -4,49 +4,6 @@
   "page": 31,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-github-actions-ci.md",
-      "title": "Build continuous integration (CI) workflows by using GitHub Actions",
-      "excerpt": "Learn how to create workflows that enable you to use Continuous Integration (CI) for your projects.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-ci/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 366,
-        "average": 4.7431693
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-ci-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-go-control-flow.md",
       "title": "Use control flows in Go",
       "excerpt": "Learn to use control flows in Go.",
@@ -264,8 +221,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-to-market-commercial-marketplace/",
       "length": "PT31M",
       "ratings": {
-        "count": 57,
-        "average": 4.9122806
+        "count": 58,
+        "average": 4.913793
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -552,8 +509,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "PT58M",
       "ratings": {
-        "count": 6485,
-        "average": 4.634233
+        "count": 6487,
+        "average": 4.6343455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -589,8 +546,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-build-agent/",
       "length": "PT59M",
       "ratings": {
-        "count": 1978,
-        "average": 4.7204247
+        "count": 1979,
+        "average": 4.7195554
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -632,8 +589,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
       "length": "PT43M",
       "ratings": {
-        "count": 3918,
-        "average": 4.809852
+        "count": 3920,
+        "average": 4.809949
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1234,6 +1191,49 @@
           "url": "https://docs.microsoft.com/learn/achievements/azure-ad-implement-applications-social.png",
           "width": 1280,
           "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-implement-azure-ad-connect.md",
+      "title": "Implement Azure AD Connect",
+      "excerpt": "Implement Azure AD Connect",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-azure-ad-connect/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-azure-ad-connect/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 13,
+        "average": 4.5384617
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],

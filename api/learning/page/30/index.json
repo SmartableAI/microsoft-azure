@@ -4,49 +4,6 @@
   "page": 30,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-explore-power-platform.md",
-      "title": "Explore Power Platform",
-      "excerpt": "Explore Power Platform",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-power-platform/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-platform/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 12,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/power-platform-explore-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-explore-power-virtual-agents.md",
       "title": "Explore Power Virtual Agents",
       "excerpt": "Explore Power Virtual Agents",
@@ -97,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1060,
-        "average": 4.769811
+        "count": 1061,
+        "average": 4.768143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -311,8 +268,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
       "length": "PT17M",
       "ratings": {
-        "count": 3987,
-        "average": 4.830449
+        "count": 3991,
+        "average": 4.830619
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -439,8 +396,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/",
       "length": "PT24M",
       "ratings": {
-        "count": 1762,
-        "average": 4.775823
+        "count": 1763,
+        "average": 4.77595
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -611,8 +568,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-insights-from-videos-with-video-indexer-service/",
       "length": "PT27M",
       "ratings": {
-        "count": 20,
-        "average": 4.9
+        "count": 21,
+        "average": 4.904762
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -654,8 +611,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-key-phrases-text-analytics-api/",
       "length": "PT18M",
       "ratings": {
-        "count": 193,
-        "average": 4.6943007
+        "count": 194,
+        "average": 4.695876
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -862,8 +819,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 37937,
-        "average": 4.8156943
+        "count": 37990,
+        "average": 4.8158464
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -950,8 +907,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 14596,
-        "average": 4.7567825
+        "count": 14607,
+        "average": 4.756829
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1113,8 +1070,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 8055,
-        "average": 4.731347
+        "count": 8058,
+        "average": 4.731447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1257,6 +1214,49 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-github-actions-ci.md",
+      "title": "Build continuous integration (CI) workflows by using GitHub Actions",
+      "excerpt": "Learn how to create workflows that enable you to use Continuous Integration (CI) for your projects.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-ci/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 366,
+        "average": 4.7431693
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-ci-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration"
       ]
     }
   ],

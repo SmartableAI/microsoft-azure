@@ -4,49 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-iot.md",
-      "title": "Introduction to Azure IoT",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 624,
-        "average": 4.717949
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
       "title": "Core Cloud Services - Azure compute options",
       "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
@@ -136,7 +93,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-social.png",
@@ -161,8 +118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1874,
-            "average": 4.6782284
+            "count": 1875,
+            "average": 4.6784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -336,8 +293,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9032,
-            "average": 4.6659656
+            "count": 9035,
+            "average": 4.666076
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -419,8 +376,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 4128,
-            "average": 4.617248
+            "count": 4129,
+            "average": 4.6173406
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -538,8 +495,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2561,
-            "average": 4.7012887
+            "count": 2562,
+            "average": 4.701015
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -581,8 +538,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 42503,
-            "average": 4.717926
+            "count": 42507,
+            "average": 4.7179055
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -761,8 +718,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 8466,
-            "average": 4.7843137
+            "count": 8477,
+            "average": 4.7843575
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -804,8 +761,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 9959,
-            "average": 4.7740736
+            "count": 9964,
+            "average": 4.7740865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -847,8 +804,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 6340,
-            "average": 4.7735014
+            "count": 6347,
+            "average": 4.773594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -894,8 +851,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 7509,
-            "average": 4.720602
+            "count": 7517,
+            "average": 4.720766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -987,8 +944,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
           "length": "PT28M",
           "ratings": {
-            "count": 1827,
-            "average": 4.724685
+            "count": 1828,
+            "average": 4.723742
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1215,8 +1172,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 4128,
-            "average": 4.617248
+            "count": 4129,
+            "average": 4.6173406
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1835,8 +1792,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9843,
-            "average": 4.6976533
+            "count": 9845,
+            "average": 4.697715
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1877,8 +1834,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
           "length": "PT23M",
           "ratings": {
-            "count": 6430,
-            "average": 4.7357697
+            "count": 6431,
+            "average": 4.7358108
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1920,8 +1877,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1874,
-            "average": 4.6782284
+            "count": 1875,
+            "average": 4.6784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1963,8 +1920,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1329,
-            "average": 4.6982694
+            "count": 1330,
+            "average": 4.6984963
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2045,8 +2002,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1329,
-            "average": 4.6982694
+            "count": 1330,
+            "average": 4.6984963
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3099,8 +3056,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
       "length": "PT28M",
       "ratings": {
-        "count": 1827,
-        "average": 4.724685
+        "count": 1828,
+        "average": 4.723742
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3144,8 +3101,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
       "length": "PT23M",
       "ratings": {
-        "count": 6430,
-        "average": 4.7357697
+        "count": 6431,
+        "average": 4.7358108
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3230,8 +3187,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 4128,
-        "average": 4.617248
+        "count": 4129,
+        "average": 4.6173406
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3516,6 +3473,49 @@
           "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/deploy-pre-built-module-iot-edge-social.png",
           "width": 800,
           "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere-iot-hub.md",
+      "title": "Develop secure IoT Solutions for Azure Sphere with IoT Hub",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-secure-iot-solutions-azure-sphere-iot-hub/",
+      "length": "PT1H23M",
+      "ratings": {
+        "count": 87,
+        "average": 4.724138
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/develop-secure-iot-solutions-for-azure-sphere-with-iot-hub-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
