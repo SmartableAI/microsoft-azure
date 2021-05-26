@@ -1,27 +1,27 @@
 ---
 category: news
 title: "3Cloud Partners with Databricks to Help Companies Build Modern Data + AI Platforms in Microsoft Azure"
-excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI)."
-publishedDateTime: 2021-05-25T15:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9377486.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9377486.htm"
+excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value by"
+publishedDateTime: 2021-05-25T15:45:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/3cloud-partners-with-databricks-to-help-companies-build-modern-data-ai-platforms-in-microsoft-azure/article_2ccbb6d3-dd87-5a73-9562-be208df5bd3b.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/3cloud-partners-with-databricks-to-help-companies-build-modern-data-ai-platforms-in-microsoft-azure/article_2ccbb6d3-dd87-5a73-9562-be208df5bd3b.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1518026/Databricks_Partner_Award_Rising_Star_3Cloud.jpg"
-    width: 400
-    height: 225
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/ad/cad42c19-020e-580f-b646-2286a31c0b26/60ad1c0bd2933.image.jpg?resize=1119%2C630"
+    width: 1119
+    height: 630
     isCached: true
 
 related:
@@ -496,6 +496,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "dRCMAPB17tGKnB4/Uc46cwiVb3+arG45eFrK6t1D90m0kZIsczHAAjrw2e7btrgfRIttaQ2DfnjhuzCXdFu9FR9vPFqcoDg8Lk1sV0eacbayYMj5b6IQxZmhdoT2vZhKCFZxyfmnpjKArn6j/VIN0qQGwWrbBQdSS7nH3AMw5NHLKl8ACTaO3IoSCP0c1j/qyCQmwGMK6shtf4VHY7Aca2vconK+AvO5Lr2JlIih6NUHWW5wweeozhmS9nxy+7kIvIhj4tmoCtKfKXmHmeS9x8f4Z0ZcyPh7NGTu86chPubaNCtU0WUo2KYt/90kbSG2URnHwrkHS3KiwtyZTNeG2OmrDbnw17vfo6O2C42JhpjfH0sBZnfUpZekcBXiiFMJcyC5U+Jp50REnLy72hJbseld8GP0mVJIoyyW4JcoJQcghkERA3iMsz4QXwdKxxgFJLRluzgFT5VSxxbha58pmelIZWsGhHkKurYoMwYr146VRSBIn1+2XhBRhTo5sg/Oq4Dj+KhceeuOzB833/9rsw==;5eJYV1Q0eiPkU2boX3122A=="
+secured: "BpIcKtquIW+q8LGJkFLQxqbcrTLYn3jLSMRfyUPkK+D1yxswaV1iyVAcXMtlwiLy0Xu4RKLd1r6LchGEhVHRuEJPREW2poQsZ0nn1rOUrEivKgDYbfOfjN/BCLjtrrAaVcgyfACR7HUjRMNQfYm1XKOYi9+IFoSfPacKw1axqcTHR8MAMI7F4A7lk57q5MYwfQBTJTq5vvlZB77imlqFK+63WRDT18E4uqKFkDNw4Qmn8t34xWknIgjieVqOpZK8+MPqkDLG52Pd0yiZ/M9zroQ/Qo214og8n3SLvG8Rsmtf0fM06E2Kfe8vQnoZgFD3Asy0aAKtsu/mVzDliKZZW+cEvH1Xa7+SfUA7No6yk5Yxu7ka3S0cu0Zn2h2UPmNl7xlFq4vAM15669mhCCCWkBuu2ZsUP1G4qMjAA6cFZT+VBbSQDiI9MTU23i4IQBzICw2OTNihDwTdod/clBABmkGk5frVAiUXGS72c0zyi46gWQlxTxeFEemnJgucrhRg3Y+rl9MFoYUNSQagnYKZdg==;baKl6Wm0xbGNsw/lWvbCJQ=="
 ---
 
