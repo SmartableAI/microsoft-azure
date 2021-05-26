@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "PowerShell support in Durable Functions is now generally available"
+    excerpt: "PowerShell users can use Durable Functions create serverless workflows to orchestrate complex, long-running automation processes."
+    publishedDateTime: 2021-05-26T16:00:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/powershell-support-in-durable-functions-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Azure Data Lake Storage Gen2 PowerShell and CLI are now generally available"
     excerpt: ""
     publishedDateTime: 2020-05-15T16:00:19Z

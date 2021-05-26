@@ -21,6 +21,38 @@ topics:
   - Azure
 
 related:
+  - title: "Azure Security Center integration with GitHub Actions, in public preview"
+    excerpt: "GitHub’s integration with Azure Security Center is now in public preview—offering new ways for you to integrate security and compliance into early stages of the software development lifecycle. "
+    publishedDateTime: 2021-05-26T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/github-integration-with-azure-security-center-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 115
+  - title: "Search made simple: native Elastic integration with Azure—now in preview"
+    excerpt: "As part of Microsoft Azure’s commitment to empowering customers to migrate and modernize their applications and run in the cloud, we work with partners to achieve this vision. Today, we are announcing the preview release of the Elastic offering on Azure."
+    publishedDateTime: 2021-05-20T09:00:07Z
+    webUrl: "https://azure.microsoft.com/blog/search-made-simple-native-elastic-integration-with-azure-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 103
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1afb6ffe-56f4-48ee-b800-940178032fcb.jpg"
+        width: 1462
+        height: 1056
+        isCached: true
+  - title: "Public preview: Application Insights work item integration for Azure DevOps & GitHub"
+    excerpt: "Azure Monitor Application Insights has released a new way to create work items based on application insights telemetry. "
+    publishedDateTime: 2021-02-17T17:01:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insights-work-item-integration-for-azure-devops-github/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 94
   - title: "App Service integration with GitHub Actions now generally available"
     excerpt: "Continuous Integration and Delivery capabilities from GitHub Actions are now generally available in App Service Deployment Center"
     publishedDateTime: 2020-09-22T16:01:21Z
@@ -30,42 +62,33 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 86
-  - title: "Azure Arc enabled servers are now generally available"
-    excerpt: "Azure Arc enabled servers are now generally available for Windows and Linux servers outside of Azure"
-    publishedDateTime: 2020-09-22T16:04:43Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-servers-is-now-generally-available/"
+  - title: "Azure Cosmos DB integrated cache now in public preview"
+    excerpt: "Optimize read costs in Azure Cosmos DB by enabling an integrated cache, an in-memory cache that is easy to configure and requires only minimal application code changes.\n"
+    publishedDateTime: 2021-05-25T16:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-integrated-cache-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Public preview: Introducing new Durable Functions storage provider options "
+    excerpt: "Durable Functions, an extension to the Azure Functions runtime, adds two new storage provider options in public preview."
+    publishedDateTime: 2021-05-26T16:00:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-introducing-new-durable-functions-storage-provider-options/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Stack Edge Pro R now generally available"
-    excerpt: "Azure Stack Edge Pro R with NVIDIA's T4 GPU and a ruggedized case is designed to operate in remote areas and runs powerful analytics at the edge for quick results."
-    publishedDateTime: 2020-09-22T16:01:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-pro-r-now-generally-available/"
+  - title: "Azure Policy Compliance Scan Action for GitHub Workflows is in public preview"
+    excerpt: "Trigger on-demand Azure policy compliance scan on Azure resources from GitHub workflows and proceed/fail workflow execution depending on compliance state of resources. "
+    publishedDateTime: 2020-08-19T19:02:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-policy-compliance-scan-action-for-github-workflows-is-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Azure Stack Edge Pro with GPU now generally available"
-    excerpt: "Run your workloads and get quick actionable insights right at the edge where data is created with Azure Stack Edge Pro, now available with the NVIDIA T4 GPU."
-    publishedDateTime: 2020-09-22T16:01:43Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-stack-edge-pro-with-gpu-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Stack Hub with GPU's now generally available"
-    excerpt: "Azure Stack Hub now supports NVIDIA V100, NVIDIA T4 and AMD Mi25 GPU enabling ML, VDI and Inferencing on the edge."
-    publishedDateTime: 2020-09-22T16:03:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-hub-with-gpus-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
+    quality: 64
 
 secured: "2xSbkN6QYR++v06/MvcPqKsGnifPfoPvnyS8WnLJBM/KS10W5PH8rcaz9fIWF3e1jU++Db0ORdq0V4zhbfMZOJQlqMdLGFy8XWcozES1pIH9oPwVKeWq2IkNBmzV2ye00Y1n4z6zlpp6eUXKDfxTnGn4faYaOYQKaovfFxP/57VtkWuprwGYlc0fkVeBjucHIMSLtCXlXUNtxB/32Eo/8FBa1NsgQmX24NYskw4igKOkOuhNv1R/aSfZlrX82QWLO8Gb6wb/tSxcj3fayzK7d2sJcF1xZIHmgpEQGRJdHifxB0hYru0mCG30I+Pe5oomxcjDBEzTUfa1mu3VB5Kk4A==;dCqhHrSPdiNlPW9/gxPjzw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-support-for
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-support-for-up-to-32-disks-is-now-generally-available/"
 type: article
 quality: 84
-heat: 324
+heat: 404
 published: true
 
 provider:
@@ -72,6 +72,42 @@ related:
     excerpt: "Azure Ultra Disks now support 512 sector sizes."
     publishedDateTime: 2020-09-22T16:05:21Z
     webUrl: "https://azure.microsoft.com/en-us/updates/512-sector-size-support-on-azure-ultra-disks-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Arc enabled servers are now generally available"
+    excerpt: "Azure Arc enabled servers are now generally available for Windows and Linux servers outside of Azure"
+    publishedDateTime: 2020-09-22T16:04:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-servers-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Stack Edge Pro R now generally available"
+    excerpt: "Azure Stack Edge Pro R with NVIDIA's T4 GPU and a ruggedized case is designed to operate in remote areas and runs powerful analytics at the edge for quick results."
+    publishedDateTime: 2020-09-22T16:01:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-pro-r-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Stack Edge Pro with GPU now generally available"
+    excerpt: "Run your workloads and get quick actionable insights right at the edge where data is created with Azure Stack Edge Pro, now available with the NVIDIA T4 GPU."
+    publishedDateTime: 2020-09-22T16:01:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-stack-edge-pro-with-gpu-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Stack Hub with GPU's now generally available"
+    excerpt: "Azure Stack Hub now supports NVIDIA V100, NVIDIA T4 and AMD Mi25 GPU enabling ML, VDI and Inferencing on the edge."
+    publishedDateTime: 2020-09-22T16:03:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-hub-with-gpus-now-generally-available/"
     type: article
     provider:
       name: Microsoft

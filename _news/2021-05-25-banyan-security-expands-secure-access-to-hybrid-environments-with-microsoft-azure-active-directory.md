@@ -174,6 +174,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 73
+  - title: "Azure at Microsoft Build recap: build amazing things on your terms, anywhere"
+    excerpt: "At digital Microsoft Build this week, we announced a host of new capabilities that help developers create intelligent, connected, and secure cloud-native apps that harness the power of data and AI and run anywhere. Below are the key stories we landed this week at Microsoft Build, with ways to explore"
+    publishedDateTime: 2021-05-26T09:00:29Z
+    webUrl: "https://azure.microsoft.com/blog/azure-at-microsoft-build-recap-build-amazing-things-on-your-terms-anywhere/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 68
   - title: "Gain flexibility to run open-source applications your way with Microsoft Azure"
     excerpt: "We are committed to open source at Microsoft. We contribute to Linux, Kubernetes, Visual Studio Code, and serving in open source organizations like the Cloud Native Computing Foundation (CNCF) or Open Source Security Foundation (OpenSSF). At Microsoft Build, we are sharing our latest work to enable developers"
     publishedDateTime: 2021-05-26T07:00:28Z

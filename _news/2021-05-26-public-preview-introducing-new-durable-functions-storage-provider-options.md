@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Cosmos DB integrated cache now in public preview"
-excerpt: "Optimize read costs in Azure Cosmos DB by enabling an integrated cache, an in-memory cache that is easy to configure and requires only minimal application code changes.\n"
-publishedDateTime: 2021-05-25T16:00:18Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-integrated-cache-now-in-public-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-integrated-cache-now-in-public-preview/"
+title: "Public preview: Introducing new Durable Functions storage provider options "
+excerpt: "Durable Functions, an extension to the Azure Functions runtime, adds two new storage provider options in public preview."
+publishedDateTime: 2021-05-26T16:00:34Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-introducing-new-durable-functions-storage-provider-options/"
+webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-introducing-new-durable-functions-storage-provider-options/"
 type: article
-quality: 84
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Databases
+  - Storage
 
 related:
   - title: "Azure Security Center integration with GitHub Actions, in public preview"
@@ -64,15 +64,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 86
-  - title: "Public preview: Introducing new Durable Functions storage provider options "
-    excerpt: "Durable Functions, an extension to the Azure Functions runtime, adds two new storage provider options in public preview."
-    publishedDateTime: 2021-05-26T16:00:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-introducing-new-durable-functions-storage-provider-options/"
+  - title: "Azure Cosmos DB integrated cache now in public preview"
+    excerpt: "Optimize read costs in Azure Cosmos DB by enabling an integrated cache, an in-memory cache that is easy to configure and requires only minimal application code changes.\n"
+    publishedDateTime: 2021-05-25T16:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-integrated-cache-now-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 84
   - title: "Azure Policy Compliance Scan Action for GitHub Workflows is in public preview"
     excerpt: "Trigger on-demand Azure policy compliance scan on Azure resources from GitHub workflows and proceed/fail workflow execution depending on compliance state of resources. "
     publishedDateTime: 2020-08-19T19:02:50Z
@@ -92,6 +92,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "S3HVD7Q1zT6nk+362U7t3JmH3NbOMM7487JbWmwroz5Mp5XMZD1LJau5Nc/uVsdhqa58puHZnqA1BDw20ClE4Zjb4dNlGaEybpiRB3DsxqzfR8egcuF/Nkoz2kPkQQeCYM5dGuWBPy1j0n4aLPk0KhlaNWF7IK9Ft+pcmzMzgaNZ429S68weU7MmLco73q2KhdBPTZRoUaQDh44pHtdosg3drukL6GOJ+hU8ov2Y67dWPufRiBvp1aZpJm0rsoqJAHkZQrJI9kzfkU6vyVW/UFPiZieT4XhSVcxiazlTA+wchl8A2Vcx1ejodK+dkXHAxmiKyWKymunzzoXxWkViS8Y3bObsgCvyTGl2Z8Zjmc4=;/mYlbZaFCEGCOgcsbDvNRA=="
+secured: "d2JSH40uG/u9w4rUG7Zm1gxDMkB9KN6hhZyVO4zsjJx1U1h6TU6V38vCcTs5MKWZX5dfKEyWzDFdf1zs2j8deuZMxsu3rTL7Dr0SwcCnEVygOn1/FABs4m+ideTxj8c9bOE9K1DT1H5R4Y8p4GjoKV2j+ALcUPpE5zpX033yabFOud8c1R83eKFotR5u+SqSTalOqDo99XTdvh0QPnyKabEk0vN0B/i38s0RrROQtIAsBCrb87urnkmcdfjVxVwth6ozSeaJSUy+ol7QCWJNdGya4EjHKRiBG7X69QucL9dVUYIypZFBW6hrYXqseKsMaWu/kh2MJweyaTRSpULq7YGV6mqICfyShWkRWmG5N0g=;zSudtgGlspmPSy3NgZRltQ=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Azure Cosmos DB integrated cache now in public preview"
-excerpt: "Optimize read costs in Azure Cosmos DB by enabling an integrated cache, an in-memory cache that is easy to configure and requires only minimal application code changes.\n"
-publishedDateTime: 2021-05-25T16:00:18Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-integrated-cache-now-in-public-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-integrated-cache-now-in-public-preview/"
+title: "Azure Security Center integration with GitHub Actions, in public preview"
+excerpt: "GitHub’s integration with Azure Security Center is now in public preview—offering new ways for you to integrate security and compliance into early stages of the software development lifecycle. "
+publishedDateTime: 2021-05-26T16:00:29Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/github-integration-with-azure-security-center-now-in-public-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/github-integration-with-azure-security-center-now-in-public-preview/"
 type: article
-quality: 84
-heat: -1
-published: false
+quality: 115
+heat: 255
+published: true
 
 provider:
   name: Microsoft
@@ -20,18 +20,10 @@ provider:
 
 topics:
   - Azure
-  - Databases
+  - Security
+  - Integration
 
 related:
-  - title: "Azure Security Center integration with GitHub Actions, in public preview"
-    excerpt: "GitHub’s integration with Azure Security Center is now in public preview—offering new ways for you to integrate security and compliance into early stages of the software development lifecycle. "
-    publishedDateTime: 2021-05-26T16:00:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/github-integration-with-azure-security-center-now-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 115
   - title: "Search made simple: native Elastic integration with Azure—now in preview"
     excerpt: "As part of Microsoft Azure’s commitment to empowering customers to migrate and modernize their applications and run in the cloud, we work with partners to achieve this vision. Today, we are announcing the preview release of the Elastic offering on Azure."
     publishedDateTime: 2021-05-20T09:00:07Z
@@ -64,6 +56,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 86
+  - title: "Azure Cosmos DB integrated cache now in public preview"
+    excerpt: "Optimize read costs in Azure Cosmos DB by enabling an integrated cache, an in-memory cache that is easy to configure and requires only minimal application code changes.\n"
+    publishedDateTime: 2021-05-25T16:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-integrated-cache-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Public preview: Introducing new Durable Functions storage provider options "
     excerpt: "Durable Functions, an extension to the Azure Functions runtime, adds two new storage provider options in public preview."
     publishedDateTime: 2021-05-26T16:00:34Z
@@ -92,6 +93,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "S3HVD7Q1zT6nk+362U7t3JmH3NbOMM7487JbWmwroz5Mp5XMZD1LJau5Nc/uVsdhqa58puHZnqA1BDw20ClE4Zjb4dNlGaEybpiRB3DsxqzfR8egcuF/Nkoz2kPkQQeCYM5dGuWBPy1j0n4aLPk0KhlaNWF7IK9Ft+pcmzMzgaNZ429S68weU7MmLco73q2KhdBPTZRoUaQDh44pHtdosg3drukL6GOJ+hU8ov2Y67dWPufRiBvp1aZpJm0rsoqJAHkZQrJI9kzfkU6vyVW/UFPiZieT4XhSVcxiazlTA+wchl8A2Vcx1ejodK+dkXHAxmiKyWKymunzzoXxWkViS8Y3bObsgCvyTGl2Z8Zjmc4=;/mYlbZaFCEGCOgcsbDvNRA=="
+secured: "vzaNay8D77D1ZYW9PnqfqJEUguRsPNk0YnqbARMHqcog/XuxW0H2Vc1CR7GlbRhLGXhzFyLxj38k5TGy5uHKR7O1oslmelZcHlWEFZEUBlBxyRfauZVr4boSFxs9cJjLduqyOk3wkrhcojMhTHqx+CwlbUBPL3yqwfOmoOoxhGOvzBrGduNewAMuLLGRk84PW0jj5Xa+ZZOPk4PGodh8KYqYFlkMX3v3HLodhgpKzFDkPLrM5CblI7QiSkB0RzzY0zEyw3H2goTKg3aPsJspux6XrW3NCgcRiU10a1Satbk3YOPcnCnx4uRsUJC7moDTubhtn7lhl0/6qEYexOI2hfgkNw45/nU5fN+TOiK/DEE=;ymPJMzQrqOt+xMf7XeUVmw=="
 ---
 

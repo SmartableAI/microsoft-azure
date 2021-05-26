@@ -176,6 +176,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 73
+  - title: "Azure at Microsoft Build recap: build amazing things on your terms, anywhere"
+    excerpt: "At digital Microsoft Build this week, we announced a host of new capabilities that help developers create intelligent, connected, and secure cloud-native apps that harness the power of data and AI and run anywhere. Below are the key stories we landed this week at Microsoft Build, with ways to explore"
+    publishedDateTime: 2021-05-26T09:00:29Z
+    webUrl: "https://azure.microsoft.com/blog/azure-at-microsoft-build-recap-build-amazing-things-on-your-terms-anywhere/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 68
   - title: "Matthews Joins Microsoft as Azure Solutions Specialist"
     excerpt: "I’m beyond excited to have joined the Microsoft SLG team as an Azure Solution specialist,” Sara Matthews told Techwire. “I am eager to help my fellow citizens of California by guiding our state towards a digital transformation to support this amazing state."
     publishedDateTime: 2021-05-20T22:34:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-sta
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-static-web-apps-now-supports-deployment-with-azure-devops/"
 type: article
 quality: 96
-heat: 136
+heat: 116
 published: true
 
 provider:
@@ -24,15 +24,6 @@ topics:
   - Web
 
 related:
-  - title: "Public preview: Application Insights work item integration for Azure DevOps & GitHub"
-    excerpt: "Azure Monitor Application Insights has released a new way to create work items based on application insights telemetry. "
-    publishedDateTime: 2021-02-17T17:01:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insights-work-item-integration-for-azure-devops-github/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 94
   - title: "AzCopy v10.9.0 now in public preview: import from GCP to Azure Block Blobs"
     excerpt: "AzCopy v10.9.0 now in preview supports Google Cloud Platform (GCP) to Microsoft Azure Storage Block Blob imports. This version also includes scanning logs which can help in debugging. \n\n"
     publishedDateTime: 2021-03-25T01:00:24Z

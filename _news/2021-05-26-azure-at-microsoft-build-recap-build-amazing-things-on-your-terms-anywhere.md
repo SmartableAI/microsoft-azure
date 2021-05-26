@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Master Microsoft Azure with this prep courses and mock exams bundle"
-excerpt: "TL;DR: The Ultimate Microsoft Azure Administrator Bundle is on sale for £21.21 as of May 23, saving you 94% on list price. Just a few years ago, if you wanted an IT cloud systems expert position ..."
-publishedDateTime: 2021-05-23T04:42:00Z
-originalUrl: "https://mashable.com/uk/shopping/may-23-microsoft-certification-bundle/"
-webUrl: "https://mashable.com/uk/shopping/may-23-microsoft-certification-bundle/"
-ampWebUrl: "https://mashable.com/uk/shopping/may-23-microsoft-certification-bundle.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/may-23-microsoft-certification-bundle.amp"
+title: "Azure at Microsoft Build recap: build amazing things on your terms, anywhere"
+excerpt: "At digital Microsoft Build this week, we announced a host of new capabilities that help developers create intelligent, connected, and secure cloud-native apps that harness the power of data and AI and run anywhere. Below are the key stories we landed this week at Microsoft Build, with ways to explore"
+publishedDateTime: 2021-05-26T09:00:29Z
+originalUrl: "https://azure.microsoft.com/blog/azure-at-microsoft-build-recap-build-amazing-things-on-your-terms-anywhere/"
+webUrl: "https://azure.microsoft.com/blog/azure-at-microsoft-build-recap-build-amazing-things-on-your-terms-anywhere/"
 type: article
-quality: 97
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mondrian.mashable.com/2021%252F05%252F23%252F60%252Fb4bac1a702aa47a1846932e61f1d0d0f.51a25.jpg%252F1200x630.jpg?signature=o-Qaes3GL02Ji6mwRe-bJvnNHiI="
-    width: 1200
-    height: 630
-    isCached: true
+  - AI
+  - Developer tools
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -67,6 +65,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 100
+  - title: "Master Microsoft Azure with this prep courses and mock exams bundle"
+    excerpt: "TL;DR: The Ultimate Microsoft Azure Administrator Bundle is on sale for £21.21 as of May 23, saving you 94% on list price. Just a few years ago, if you wanted an IT cloud systems expert position ..."
+    publishedDateTime: 2021-05-23T04:42:00Z
+    webUrl: "https://mashable.com/uk/shopping/may-23-microsoft-certification-bundle/"
+    ampWebUrl: "https://mashable.com/uk/shopping/may-23-microsoft-certification-bundle.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/may-23-microsoft-certification-bundle.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 97
+    images:
+      - url: "https://mondrian.mashable.com/2021%252F05%252F23%252F60%252Fb4bac1a702aa47a1846932e61f1d0d0f.51a25.jpg%252F1200x630.jpg?signature=o-Qaes3GL02Ji6mwRe-bJvnNHiI="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Azure is now smarter and more powerful than ever"
     excerpt: "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as a launchpad for the upgrades,"
     publishedDateTime: 2021-05-25T15:10:00Z
@@ -162,15 +176,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 73
-  - title: "Azure at Microsoft Build recap: build amazing things on your terms, anywhere"
-    excerpt: "At digital Microsoft Build this week, we announced a host of new capabilities that help developers create intelligent, connected, and secure cloud-native apps that harness the power of data and AI and run anywhere. Below are the key stories we landed this week at Microsoft Build, with ways to explore"
-    publishedDateTime: 2021-05-26T09:00:29Z
-    webUrl: "https://azure.microsoft.com/blog/azure-at-microsoft-build-recap-build-amazing-things-on-your-terms-anywhere/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 68
   - title: "Gain flexibility to run open-source applications your way with Microsoft Azure"
     excerpt: "We are committed to open source at Microsoft. We contribute to Linux, Kubernetes, Visual Studio Code, and serving in open source organizations like the Cloud Native Computing Foundation (CNCF) or Open Source Security Foundation (OpenSSF). At Microsoft Build, we are sharing our latest work to enable developers"
     publishedDateTime: 2021-05-26T07:00:28Z
@@ -536,6 +541,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "WDVkdOdzEnByNBeqGaMl33GSIblNCrH7rD+lPLQq4LK+tudIHDc9NvHpnimrN/gBFIE7zfznX2SQ9/ZtKacHGvGttqPUVGPIRyA5l6ruf43+qo0zvTgTQb5RAfNt/q72l+vKXC87R616U3aw90zRWjqNU4SL5GsSeEauyW3LUiJGhkQgWbv83+i1P98biiuBfL1Wi/rZ0HJh/YmkTreX3br2s07Ch7V4V2JySbQWFcxUET/RX61X4FDfEb6OllQKkzihW4cyWqIwOSg7f1tgeXaepSYFdwIzAHc1P7gtapqr/WyI+LUzberNJElUo7oimUdAOhuhUzioPDL53mGBBYbyRNNl1VLzw7Eoo94JTB4=;CrbDeuZG1yJz0+Ppauqsyg=="
+secured: "QT2fLE6MZQtr8WH9Nir4THJrRW3ybwrQ1p4pcWK0KZ2Tj8QPhfAT86NKmeENxyrj2keaW6i87N9cS+bLQz/jfhx/eqdFXiHeMhZWSif+ppkkpHN97fJnx1WeU9YFyq0VYaV34NGf7cJuhOHdNHrni8mUObpvlvaLtl66nzztIAXIhGQDhUe8bTuDF0hDqD3ySQePCF0XdY4i7rf8Bwv17A5YjygOaU1fm8txnaHwf7B/v33BnYFPW+gqdbVjv3lUf2vox7T6IUiPHVYIT66jB9QceShj7YSYP/ErwVh45SYsKu6Hy+Ee+bZ9xCYphgx0VUK4zyAnphzbbx0Q5fcLJAvGUTOwWG0NlTFBclXWOHI=;tXyOXpPfjpYSoIjjSlUPag=="
 ---
 
