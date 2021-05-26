@@ -2,11 +2,11 @@
 category: news
 title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
 excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
-publishedDateTime: 2021-05-21T21:40:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+publishedDateTime: 2021-05-21T23:03:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/18502/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+webUrl: "https://www.zdnet.com/index.php/category/18502/index.php/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
 type: article
 quality: 73
 heat: -1
@@ -249,6 +249,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1518026/Databricks_Partner_Award_Rising_Star_3Cloud.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "3Cloud Partners With Databricks To Help Companies Build Modern Data + AI Platforms In Microsoft Azure"
+    excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value"
+    publishedDateTime: 2021-05-26T08:03:00Z
+    webUrl: "https://www.hostreview.com/news/210526-3cloud-partners-with-databricks-to-help-companies-build-modern-data-ai-platforms-in-microsoft-azure"
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1518026/Databricks_Partner_Award_Rising_Star_3Cloud.jpg?p=publish&w=950"
+        width: 949
+        height: 534
         isCached: true
   - title: "Microsoft beefs up Azure’s Kubernetes features and Red Hat integrations"
     excerpt: "Microsoft Corp. today introduced two updates for Azure, one focused on its managed Kubernetes service and another on Red Hat workloads, that should allow the cloud platform to better accommodate enterprises running a variety of different application types."
@@ -498,6 +512,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "oRyXPLyGmDN5lHg+tUP54k1jS6fSFSMdU0fzKWKvpRxJWgubWY/OKqe6yvBDHfdFZAF79QJdzjQkIbbFmFA9QSQQ9VUXTGhP7Ewi69FYvxz4D6xgvuS88FigdDfZyXVSr0gLxFrlglU/vp3b0jfbUprpXOPRRdzIk/6DsLO+y4HJE5FejoToqn/HB5SKzPMvqcsGqiVEcmcrdEplR96CpVHC0u6kGfZXpCrsQ0xnEKLczir6LoIt9TQ+Zk4orTYHYktCY9b36G37Gzv1GOueh9XAt+39cKLHMZz2xcc6t+jaWEC05D7c9hXi39uwPbfNHLbPNTvnDgK164B2rhhX4/ysO+p60sMsp9LC+LA+tfU=;EgL/y/aIAFYLlYdOPLygmQ=="
+secured: "DSwa6x7zcQvrnUREAWq3eCCOE1HU0BNzQ4cI08PVQEonKx0w3uE2bU9/qiOia9XAO7iNfhv9TO+UWwhlKFuuRsmeateHJr60xMsnlE80lf9LiiuhD2DTwVcTZD9VCyaUyDCNpk6fXsh5VOSrton3oMYl+TFXuaKnvh/gL/TkAEfkw7EM5NCSCuLg3NV6ynRblmN5BxumJ39N92QXg2Aqkx8/PlUQ9LQnQQAVwIPdwJq4dDmVmFbk1bxOpcS44KAjl8TOJe4nbwinh+LKJZHOYQO7+qN/LPC9BJrooJ7EKmOa/W4jTNLcW+gUwT6NvEVgxl6CxaGbmCLtnoXgvtGnNOM9TQmB9Pv7MpmXwbB2Qvc=;/bift7HKxm+NavCrbpde+A=="
 ---
 

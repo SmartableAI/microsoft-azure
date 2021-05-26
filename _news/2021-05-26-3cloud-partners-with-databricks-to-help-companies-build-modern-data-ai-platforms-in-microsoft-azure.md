@@ -1,21 +1,28 @@
 ---
 category: news
-title: "Cybercom declares status as Microsoft Cloud Adoption Framework Ready partner"
-excerpt: "Cybercom, a specialist in agile software development and public cloud for business-critical systems, said that. Microsoft has granted it official Cloud Adoption Framework (CAF) Ready partner status. Cybercom said this ensures that it operates with the best practices,"
-publishedDateTime: 2021-05-25T12:13:00Z
-originalUrl: "https://www.telecompaper.com/news/cybercom-declares-status-as-microsoft-cloud-adoption-framework-ready-partner--1384290"
-webUrl: "https://www.telecompaper.com/news/cybercom-declares-status-as-microsoft-cloud-adoption-framework-ready-partner--1384290"
+title: "3Cloud Partners With Databricks To Help Companies Build Modern Data + AI Platforms In Microsoft Azure"
+excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value"
+publishedDateTime: 2021-05-26T08:03:00Z
+originalUrl: "https://www.hostreview.com/news/210526-3cloud-partners-with-databricks-to-help-companies-build-modern-data-ai-platforms-in-microsoft-azure"
+webUrl: "https://www.hostreview.com/news/210526-3cloud-partners-with-databricks-to-help-companies-build-modern-data-ai-platforms-in-microsoft-azure"
 type: article
-quality: 0
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: Host Review
+  domain: hostreview.com
 
 topics:
   - Azure
+  - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1518026/Databricks_Partner_Award_Rising_Star_3Cloud.jpg?p=publish&w=950"
+    width: 949
+    height: 534
+    isCached: true
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -255,20 +262,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "3Cloud Partners With Databricks To Help Companies Build Modern Data + AI Platforms In Microsoft Azure"
-    excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value"
-    publishedDateTime: 2021-05-26T08:03:00Z
-    webUrl: "https://www.hostreview.com/news/210526-3cloud-partners-with-databricks-to-help-companies-build-modern-data-ai-platforms-in-microsoft-azure"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1518026/Databricks_Partner_Award_Rising_Star_3Cloud.jpg?p=publish&w=950"
-        width: 949
-        height: 534
-        isCached: true
   - title: "Microsoft beefs up Azure’s Kubernetes features and Red Hat integrations"
     excerpt: "Microsoft Corp. today introduced two updates for Azure, one focused on its managed Kubernetes service and another on Red Hat workloads, that should allow the cloud platform to better accommodate enterprises running a variety of different application types."
     publishedDateTime: 2020-04-28T20:09:00Z
@@ -507,7 +500,16 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 0
+  - title: "Cybercom declares status as Microsoft Cloud Adoption Framework Ready partner"
+    excerpt: "Cybercom, a specialist in agile software development and public cloud for business-critical systems, said that. Microsoft has granted it official Cloud Adoption Framework (CAF) Ready partner status. Cybercom said this ensures that it operates with the best practices,"
+    publishedDateTime: 2021-05-25T12:13:00Z
+    webUrl: "https://www.telecompaper.com/news/cybercom-declares-status-as-microsoft-cloud-adoption-framework-ready-partner--1384290"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 0
 
-secured: "JnmLBJIm0MeoWycMXXfXFlc7E7ZQ7frAQS46HRZyJuN9fGZ6MGhj4KWlTe6GARxgDMbQApz7BCDr+B0OW/Xws7sd6qdaaM7SFQdOblpX8XeGwac16gByP3Kf0hiDDJaI0O/jcGC7FBgS2Ru6/TcGhkm9ID3bkZRb6Pni91kVzsvUwjAJHq/juHbNFptw+rjKbPGQ2jraUttzFyJWPrJhvkya737bt0sSvj7ws4ig39QzCsRybi8BlxniwxN7FKgGw4jr/00pAl7WuoLb8T39hgsJMxuSGuyCFlSmcyBafTEPwV1UIB5AW2BzsW78oOnlTLGvyKapoKKZDD+hiY41O+PsVC/yUd90m0zlhkVMalE=;Nv5LAf/l6PH67VNgRncgDQ=="
+secured: "vYZ1VMxahjWUeuT2UcqtjcyIJ9rZRDZHa5PsGdSLlcskiyO/nxdFzsQFwDCdGpdAFmN94SUjBgMopb082NY8slHLhqRJbVNrsBOcRVO3IJ0Do9eUoOffEUlLzIfwtr8mZnEeazws+QLWP2XIY7o3T0CG/TyVCQs31OXsleTYAnpkNMmO5/jNm08RcHp521rsVdn1ZF7/KoHjWYxGoxYGMViXcB03t3v2G642HYbOeZwhIiPghkmvmxfSszCOkLCi6gxcAQZiyf9/+ZfzWBBPnBvbguEIbERxCGysRGeVdGC/7PNqTSIvUk13rXjbuMccepeFZYM77XJAJdmzi5ur7DSL3iV0i5JFO3D1lff3rrc=;bFfzfgg1CDVdWf1ZfE5tTQ=="
 ---
 
