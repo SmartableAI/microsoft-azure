@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-serverle
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-serverless-now-in-general-availability/"
 type: article
 quality: 101
-heat: 221
+heat: 222
 published: true
 
 provider:
