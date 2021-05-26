@@ -7,7 +7,7 @@ price: Free
 length: PT53M
 ratings:
   count: 1557
-  average: 4.660244
+  average: 4.6596017
 heat: 50
 
 provider:
