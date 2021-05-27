@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/action-required-migrate-
 webUrl: "https://azure.microsoft.com/en-us/updates/action-required-migrate-your-azure-blockchain-service-data-by-10-september-2021/"
 type: article
 quality: 79
-heat: 79
+heat: 80
 published: true
 
 provider:
