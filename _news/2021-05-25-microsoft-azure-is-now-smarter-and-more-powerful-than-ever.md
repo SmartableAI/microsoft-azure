@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft Azure is now smarter and more powerful than ever"
-excerpt: "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as a launchpad for the upgrades,"
-publishedDateTime: 2021-05-25T15:10:00Z
-originalUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-webUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+excerpt: "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as ..."
+publishedDateTime: 2021-05-25T16:11:00Z
+originalUrl: "https://www.techradar.com/au/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+webUrl: "https://www.techradar.com/au/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
 type: article
 quality: 97
 heat: -1
@@ -540,6 +540,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "ZPjY/FoHnT+WIUPbw/JGBITmEM69thr797p8lbUgeOlQ7HldOgeHV9Hiu3hXi+iE/tpsKUZKq8GpwcRsgsSwZxEDaRWs61kCopFImWeLbSJ60vz2f8lhxQKlVXU8O9RuGOR1kFyk+blYiHbqSSdEn7xzaP4mcf/ZRKJWeiaRYprK5VuhAQan9bsnb8QmeM95TDk1pxta85/juajEl188Ri0gS09JYyRsz/p2vrFdTw47SDTq+1Tjbs4h5TPq5PhIo6nBd7I6PVw9spBMqnJlnOB2hU6+/sIEBqNYbytKIVruabd9DvTg6XsH9IgnfPxo/zZw5d1Zs13LybvWm/LEZ+BNajnj1HgtPIh0HSOhxB0=;JyIx4+k1S7tCVWDCUDxY8Q=="
+secured: "Ial4cPN5hfinbbap2Rlf/nWJ0VkwquEwdK8Iki5IDgO81OEU1Dzqn/mOvKK8KO2IUKOPCKZKCDPZ7riDaDvlKtBDApI1odeLdkLe8ZqFoNtSyoTts45tsRGckX/SwZzATaAGLAP8SgzCuiPz2WjCcYRB4d4u86t/V8DRU1iXvVE4+Ew6avuDNYVAvs4x5ZYnBqoKJzPjD6btkTe0XjhQ4biEVTXoLQH2vw6aiLOnZgth6d+xCRwP8Q2AQTRH2nBZrA8j+2DV8kNszubUaSYtBmWu3rCwyftm5OFTU6+W5pE3SdhaD91Fa5QCezZc9hThh/x/1zoL0Ay6KCyiXa+tGe4opVS2c/QRdwLKBkbByfk=;k0sQ6eqNEHOjEiS9kJhmZQ=="
 ---
 

@@ -36,6 +36,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 94
+  - title: "Glance Networks: Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
+    excerpt: "Glance Microsoft Azure customers can also credit Glance session data flowing through Azure towards their Microsoft Azure Consumption Commitment (MACC) requirements. Glance for Financial Services ..."
+    publishedDateTime: 2021-05-25T17:10:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52971104-glance-networks-glance-signs-isv-partner-agreement-for-microsoft-azure-marketplace-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 11
   - title: "Red Hat Brings JBoss Enterprise Application Platform to Microsoft Azure, Easing Shift to the Cloud for Traditional Java Applications"
     excerpt: "Offering enables the migration of Java applications to cloud environments Red Hat, Inc., the world's leading provider of open source solutions, today announced Red Hat JBoss Enterprise Application Platform (JBoss EAP) on Microsoft Azure,"
     publishedDateTime: 2021-05-25T10:00:00Z

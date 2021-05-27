@@ -28,14 +28,19 @@ images:
 
 related:
   - title: "Elastic Introduces Native Microsoft Azure Integration, Fleet Server, and Enhanced APM Workflows in Elastic Observability"
-    excerpt: "Elastic (NYSE: ESTC) ('Elastic”), the company behind Elasticsearch and the Elastic Stack, announces new features and updates across the"
-    publishedDateTime: 2021-05-26T15:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/elastic-introduces-native-microsoft-azure-integration-fleet-server-and-enhanced-apm-workflows-in-elastic-observability-1030467956"
+    excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, announces new features and updates across the Elastic"
+    publishedDateTime: 2021-05-26T15:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/elastic-introduces-native-microsoft-azure-integration-fleet-server-and-enhanced-apm-workflows-in-elastic-observability-2021-05-26"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Halliburton Forms Strategic Agreement with Microsoft and Accenture to Use Azure"
     excerpt: "Halliburton, Microsoft Corp., and Accenture announced they have entered into a five-year strategic agreement to advance"
     publishedDateTime: 2020-07-27T15:42:00Z

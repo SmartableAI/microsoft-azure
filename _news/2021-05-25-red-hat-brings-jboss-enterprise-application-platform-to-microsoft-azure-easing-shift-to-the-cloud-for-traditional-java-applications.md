@@ -43,6 +43,15 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "Glance Networks: Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
+    excerpt: "Glance Microsoft Azure customers can also credit Glance session data flowing through Azure towards their Microsoft Azure Consumption Commitment (MACC) requirements. Glance for Financial Services ..."
+    publishedDateTime: 2021-05-25T17:10:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52971104-glance-networks-glance-signs-isv-partner-agreement-for-microsoft-azure-marketplace-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 11
 
 secured: "GgMiTWZDicBPbNDFW88Cz8fhpZ2BtjaNbkhYf3MNz2DlShck3TvcDfWLRud2eX/9SqDfqDK1m+qe4tSnVQDTlCKlKZYXQqpfdT9xnOecuNRoYv4auULEXQym+kqfc70UPSMORST1O8kr6vLYjS3SMXfradyI2r1aaZFspcU9l5nt9t7zjxqU2yPSlMv0hlQhlJ1blNZWFCUmdqLsufTN+xJendDcmGbu7Viom841YcPUg1pg1qDF4oyedYdD4LRQSWIlkwDB9GD8XIQzL9pM91gYLKsLB/f/JdaCiSV3EMnrIExbVYyBP/sihtKRxCRu6dvfytqVFsA42wzdcK1jiZTvyOZJGRYeLA+IM6S3lGo=;dr617zGPu4ehfUi5fCcABQ=="
 ---
