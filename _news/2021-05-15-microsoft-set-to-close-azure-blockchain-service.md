@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft set to close Azure Blockchain Service"
-excerpt: "Microsoft has announced that it will shutter its Azure Blockchain service later this year, allowing users to migrate their ledger data by September 10, 2021. Blockchain is the technology popularized by its use in cryptocurrencies."
-publishedDateTime: 2021-05-14T18:53:00Z
-originalUrl: "https://www.techradar.com/nz/news/microsoft-set-to-close-azure-blockchain-service"
-webUrl: "https://www.techradar.com/nz/news/microsoft-set-to-close-azure-blockchain-service"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-set-to-close-azure-blockchain-service"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-set-to-close-azure-blockchain-service"
+excerpt: "Microsoft has announced that it will shutter its Azure Blockchain service later this year, allowing users to migrate their ledger data by September 10, 2021. Blockchain is the technology ..."
+publishedDateTime: 2021-05-14T19:10:00Z
+originalUrl: "https://www.techradar.com/in/news/microsoft-set-to-close-azure-blockchain-service"
+webUrl: "https://www.techradar.com/in/news/microsoft-set-to-close-azure-blockchain-service"
+ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-set-to-close-azure-blockchain-service"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-set-to-close-azure-blockchain-service"
 type: article
 quality: 114
 heat: -1
@@ -1990,6 +1990,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "cJeBWUUx+ddFF6HbomIc+WAcgH14RPDHYl7GzL2mYlsfTe2BbRFJ+mr7L/yV/vCX4G7az2B8GsL6cD5ICHUVuYUp8XJzg52TPBJooMOsB3G+OxAwEVKfiFK7x9DapqVHvbsVJE4tsJBfWNJ7Sv95nM8yN9hiOESirQgN5lxRt/JFGwBilSavv5+sn9GLzkz23kVwz9Od010+IMnrXgiWAudiSUsmCnWG0x0u1nF/5rXYBEPsqaETGZuCFxCnd+1tzJRhv1dKimdhuTDGAykJg8PVpmTJzlE2m/IcUlOrNXbNuxSlOfM9as04dvg23SWkyJe1bJ6Yvg+2FA82tK2BIMVzwgtzRZUmZJnKTRM1iOAahGViI277NV/d1rPo+wXEFH2AJrSgEm6EvdAFcXs+oaAbwbQ/zP7nq0uh5ySlp6Y6X35cvCMNPCne5A+ULYCUtb3PkNtxcUsCHea+ye9tF7IydkFvBWsC2Rlk8LDjdNqiAjDo3bbIth2hc+kI71epmNapK54F7G78oKIK0LS9Ww==;Vfpvx+7yUYJYPR0mYkLSGA=="
+secured: "jRMuEkoIUcR7PGXG4ZEc7AIIbH6FjOHCdDmURBmeKpFPXWxgAz1gf/Y5wwGdt5ak/WVGu4c3ibZSroFv7yFEA3hP79HUFYki/RmQ+k7PPXQ2yjE7DM7PVIptJxS2nPKq/7qsX2Zz/E1lPQASlpwmOxDCqctQJkr27ApV8vuctDr1QhErL42rZT6KAMdL4cL4NNLiDCOSvdeM/d/vk2tDT9msSLVIkraZCCOa9G6Tml1DW2BVJ0DR221bWptmNqo0Gz87T8yqTZb+J6H5F4dX2awa5T+8/y5NINuEJpoNurXeq7GOXIPx20GqdlaFyNdmzp1C4h52EWsTwIS5Xxp4LESqND0DVQMiZw2LMNNkGRc=;vits3nFkW7a/tIOremHA7Q=="
 ---
 
