@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Public preview: Export Azure Monitor logs to multiple destinations"
-excerpt: "Logs export can be separated between multiple destinations to overcome destination rate limit and to maintain access control in destinations."
-publishedDateTime: 2021-05-25T16:00:25Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-export-azure-monitor-logs-to-multiple-destinations/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-export-azure-monitor-logs-to-multiple-destinations/"
+title: "General availability: Azure Log Analytics in South India"
+excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in South India. "
+publishedDateTime: 2021-05-27T00:22:34Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-south-india/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-south-india/"
 type: article
 quality: 84
 heat: -1
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - DevOps
+  - Analytics
 
 related:
   - title: "Public preview: Log Analytics workspace insights from Azure Monitor"
@@ -109,10 +109,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "General availability: Azure Log Analytics in South India"
-    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in South India. "
-    publishedDateTime: 2021-05-27T00:22:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-south-india/"
+  - title: "Public preview: Export Azure Monitor logs to multiple destinations"
+    excerpt: "Logs export can be separated between multiple destinations to overcome destination rate limit and to maintain access control in destinations."
+    publishedDateTime: 2021-05-25T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-export-azure-monitor-logs-to-multiple-destinations/"
     type: article
     provider:
       name: Microsoft
@@ -191,6 +191,6 @@ related:
       domain: microsoft.com
     quality: 48
 
-secured: "xhI+O9wiBID0So/fQD2Fl4erFuJ0pIJBsCx9S4eY0PNGrmOotVBO13fQYbhBW/up8tAB0yTS1jRJbz3144+VAbuseV0aj/sRncxcdW2XHEiVfrrDre5VLun8qnUFdVK1VUsOqXIh7YiNZVlWpsWjnHaneoqRf2M3z9XQboqGpThQbGeLTjBZU5UbMx/YpuCwZCIIHQc45Rgbaiuu89k6dWsNOlq8OB4oKZD2CCWVgLUVIb64uAVTEHfL8T+YycM4gD5amjNRfNGMRfQxHFPAWkmrdtcSuoEiGBod/eQB1iMckhrm0clzCFVxf76xmLRza/R4NTpWyrBXPWsi0zOnEe/1+LJ8GJs4FyVnhXni8Ss=;MPEgEKgPxFbRWNuef7Q+Mg=="
+secured: "yUzLlIV+eaXiTT4xsmXhzKJejNlB7P9z8qYVo4fjJ7WAY8L4zJYO5YnVc0w2htHy9RVIayIAY/kj/konS9D15e3c04ACmZSqSUf3L6dwl5vk3bK019PnbWRGeqci9EzH3bEd0cKXIdCPc3uBY99ZE1cBl24B5rOyuDB8W3PR97ppMp2XRSkd9Ij373N3CFR3ipUqw7LMf2u7PLlH0RCerMwseTPEsrI1J7wbo6A4tOdPe+xvYVS5kjceZZnO4Io+Q9LG+zYTTXoIf9vlNGqBeokLvRzxB9jMW4peafdVvA9txAQaI6+drjyxmDnf392CXhBcJNXtPysw80Ur+N6YwH0Nlq4M0aR8pfDj2MoT2to=;wnzG3hPucrAuf0shdESWWg=="
 ---
 

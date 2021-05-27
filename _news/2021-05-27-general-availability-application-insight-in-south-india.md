@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Azure Event Grid now provides support for delivery headers and additional advanced filters among other updates"
-excerpt: "Azure Event Grid now supports additional advanced filters, setting customer headers on requests delivering events, configuring TTL on messages delivered to Azure Storage Queues, and setting system-assigned managed identities on regional System Topics."
-publishedDateTime: 2021-03-29T23:33:55Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-event-grid-now-provides-support-for-delivery-headers-and-additional-advanced-filters-among-other-updates/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-event-grid-now-provides-support-for-delivery-headers-and-additional-advanced-filters-among-other-updates/"
+title: "General availability: Application Insight in South India "
+excerpt: "Application Insight, a part of Azure Monitor, is now generally available in South India region for customers to collect telemetry and analyze their service health in production environments. "
+publishedDateTime: 2021-05-27T00:22:23Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-south-india/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-south-india/"
 type: article
-quality: 53
+quality: 52
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Integration
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -415,6 +414,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 55
+  - title: "General availability: Azure Event Grid now provides support for delivery headers and additional advanced filters among other updates"
+    excerpt: "Azure Event Grid now supports additional advanced filters, setting customer headers on requests delivering events, configuring TTL on messages delivered to Azure Storage Queues, and setting system-assigned managed identities on regional System Topics."
+    publishedDateTime: 2021-03-29T23:33:55Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-event-grid-now-provides-support-for-delivery-headers-and-additional-advanced-filters-among-other-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 53
   - title: "General availability: Virtual machine (VM) level disk bursting available on all Dsv3 and Esv3 families"
     excerpt: "Virtual machine (VM) level disk bursting enables your workloads to handle unforeseen disk traffic spikes smoothly without the need to overprovision your virtual machine. The feature is now enabled on all Dsv3-series and Esv3-series virtual machines."
     publishedDateTime: 2021-03-31T16:00:57Z
@@ -442,16 +450,7 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "General availability: Application Insight in South India "
-    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in South India region for customers to collect telemetry and analyze their service health in production environments. "
-    publishedDateTime: 2021-05-27T00:22:23Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-south-india/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
-secured: "2xAt4MNX4v3bu+KadFYUM3B+ugd70pzArMzCO9I148mH8jbczflWB64xKJyNn+olYXS1C2n0MwNSuBz5OWR3MxkD78ZLVIKk6nEj7Ojn7guU3bEH2ANbvzcLoGsx57m9543Kd/nnQy83wqx3+LYo4LEeuKdYGlchMJq6DPTwSg2UjbhytTpQ7BcVwEng+DChx62IgqSHZN/XTr7upmVa+UlCp3aj7wh4qPVWnERTWwf7eCz0J8v7LwEfnBhlM0DW3O3o2P2cMJeoiwZm27hOTfd35jnV+1dkHYEpGU4owbMw22Nrv7UCFKy8sRM/sw06/kkccsWFEnXAqLBhYOYBBCts1/R71V1ZTCaaNW4CH18=;K3zybwwVI6bkeLg7TWC9sg=="
+secured: "oou/fbxvpZc3OPTsHZyoWCCFzH9CZ6opZIfWyuvPyArGslw3U5rmDHxsYJeQOlbskMhyVWIl3eq7TESM3Lt1BaMgxVy7yZAJcAzAB0oTvjksZ//BQPsTblzObjwqRP6Z1JMgIzTWJ5gkHxgCDLRzjAsRE+CnYEAtBZbr1vTnd4rA48Yz1GZbceApxeRRZuDKlI7p1ElvJpXIVWhDS7XMKV5YY8CVakyWz9zKFxTsv4CCEfX5wQWseiBTNYpvIBegvCJcLD/2fFG7s/7Xq1YgFMKeoSfzqUje9EzWF8aRyozDn8WbPD4QtEiHWVrMRfw1+mi9Gu8DKdap2uj1y0j5al8Fq2SveOucTYnIeZuyRbE=;gJsajWa4QeWfBZjtd8ASZA=="
 ---
 

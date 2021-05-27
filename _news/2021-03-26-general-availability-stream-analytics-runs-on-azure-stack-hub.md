@@ -442,6 +442,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "General availability: Application Insight in South India "
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in South India region for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-05-27T00:22:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-south-india/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "wYAQRJ/UnfaCk0dO+TkkYeu/qtdtlA4ByVT8SXdCIDrjZ7RCQ0SPfEgSWbjxExILHuWD3cljmUEmCUcQY+AArJQs4SnaPf9Yht4VPbQx3ADr5IZFX+wnOXwGNeDe5QpFl2ze+VcO7wlMH7mldlxc+/TWaDn6ocwUDDeUlYP4e2Z0LdBh/xKT3wizKKSeMlj/m3NywDJY+rSfffbvtGlDpeS9l/1rZAbYHKnwBxw7Thiau2dKmu3VcZPHoTu7WldpTrvtLs8PL+rxupjIHn3N4I5O5dT24fdcOEQyyx7dPzlE6uqRvuxg6zA669a0EpjS+aM83z43YdXtOPjF267eXTqE0F5vWl/D3nd4fAIojJ4=;jjXVa+h8G5xSNYIMaPMaxA=="
 ---

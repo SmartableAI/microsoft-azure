@@ -118,6 +118,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Azure Log Analytics in South India"
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in South India. "
+    publishedDateTime: 2021-05-27T00:22:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-south-india/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Cost-optimized diagnostics feature for Azure Cosmos DB in public preview"
     excerpt: "Improve ingestion latency, query performance, and discoverability by setting up resource-specific diagnostics in log analytics with Azure Cosmos DB cost-optimized diagnostics."
     publishedDateTime: 2021-05-25T16:00:19Z

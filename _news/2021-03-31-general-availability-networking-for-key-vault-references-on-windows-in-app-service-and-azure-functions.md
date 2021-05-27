@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 1039
+heat: 1059
 published: true
 
 provider:
@@ -440,6 +440,15 @@ related:
     excerpt: "Logic Apps has been updated with new hosting options, improved performance, and developer workflows."
     publishedDateTime: 2021-05-25T16:00:30Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-logic-apps-with-new-hosting-options/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "General availability: Application Insight in South India "
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in South India region for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-05-27T00:22:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-south-india/"
     type: article
     provider:
       name: Microsoft

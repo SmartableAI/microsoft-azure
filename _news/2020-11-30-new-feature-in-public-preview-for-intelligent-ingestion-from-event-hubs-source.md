@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Storage Blob inventory public preview is now available in all public regions"
+    excerpt: "Blob inventory allows you to get a full listing of all blobs within a storage account or container. This can be used in conjunction with Synapse to calculate per container metrics such as capacity and count."
+    publishedDateTime: 2021-05-27T00:21:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-blob-inventory-preview-is-now-available-in-all-public-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 93
   - title: "Azure Monitor for Windows Virtual Desktop in public preview"
     excerpt: "Azure Monitor for Windows Virtual Desktop is a new capability that provides a centralized monitoring view to help you identify and troubleshoot issues with Windows Virtual Desktop."
     publishedDateTime: 2020-12-02T17:00:21Z

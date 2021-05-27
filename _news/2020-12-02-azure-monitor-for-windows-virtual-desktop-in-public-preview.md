@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Storage Blob inventory public preview is now available in all public regions"
+    excerpt: "Blob inventory allows you to get a full listing of all blobs within a storage account or container. This can be used in conjunction with Synapse to calculate per container metrics such as capacity and count."
+    publishedDateTime: 2021-05-27T00:21:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-blob-inventory-preview-is-now-available-in-all-public-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 93
   - title: "Grafana query editor for Azure Data Explorer is in public preview"
     excerpt: "With the new Grafana query builder, it is now possible to build dashboards in just a few clicks using a simple graphical experience.  "
     publishedDateTime: 2020-12-07T22:20:38Z

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-log-analy
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-log-analytics-workspace-insights-from-azure-monitor/"
 type: article
 quality: 101
-heat: 441
+heat: 461
 published: true
 
 provider:
@@ -105,6 +105,15 @@ related:
     excerpt: "Logs export can be separated between multiple destinations to overcome destination rate limit and to maintain access control in destinations."
     publishedDateTime: 2021-05-25T16:00:25Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-export-azure-monitor-logs-to-multiple-destinations/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Azure Log Analytics in South India"
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in South India. "
+    publishedDateTime: 2021-05-27T00:22:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-south-india/"
     type: article
     provider:
       name: Microsoft
