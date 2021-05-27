@@ -4,7 +4,7 @@ excerpt: "Manage your Microsoft 365 security services"
 type: collection
 price: Free
 length: PT2H36M
-heat: 61
+heat: 62
 
 provider:
   name: Microsoft Learn
