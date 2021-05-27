@@ -4,7 +4,7 @@ excerpt: "Azure Database for PostgreSQL"
 type: collection
 price: Free
 length: PT1H55M
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn

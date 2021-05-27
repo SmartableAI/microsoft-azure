@@ -4,16 +4,18 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/microsoft-whats-new-in-visual-studio-live-share-azure-friday-at-build-2018.md",
-      "title": "What's new in Visual Studio Live Share? | Azure Friday at Build 2018",
-      "excerpt": "Azure Friday visited various Microsoft booths in the Expo Hall at Build 2018 to learn what's new. In this episode, Scott Hanselman gets an update on Visual Studio Live Share from Jon Chu.  For more information, see:  • Visual Studio Live Share https://aka.ms/azfr/423/01  • Create a free account (Azure)",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-whats-new-in-visual-studio-live-share-azure-friday-at-build-2018/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-whats-new-in-visual-studio-live-share-azure-friday-at-build-2018/",
-      "originalUrl": "https://youtube.com/watch?v=KH9dsfBNhAY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KH9dsfBNhAY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M40S",
+      "path": "_learning/courses/microsoft-learn-introduction-to-github-vs-code.md",
+      "title": "Introduction to GitHub in Visual Studio Code",
+      "excerpt": "Learn to use the GitHub integration in Visual Studio Code, including authentication, publishing repos and viewing your repo timeline",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-github-vs-code/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github-visual-studio-code/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 9,
+        "average": 4.7777777
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -24,18 +26,20 @@
           }
         ]
       },
-      "publishedDateTime": "2018-07-16T08:51:40-07:00",
-      "heat": 50,
+      "levels": [
+        "Beginner"
+      ],
+      "heat": -59,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/KH9dsfBNhAY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",

@@ -4,7 +4,7 @@ excerpt: "Perform data engineering with Azure Synapse Apache Spark Pools"
 type: collection
 price: Free
 length: PT2H26M
-heat: 60
+heat: 67
 
 provider:
   name: Microsoft Learn

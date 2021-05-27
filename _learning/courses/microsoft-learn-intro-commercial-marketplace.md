@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT30M
 ratings:
-  count: 1346
-  average: 4.791233
-heat: 50
+  count: 1347
+  average: 4.790646
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "D0K/NmcYIac2s/72iQWAx1YTqDaQwloiCTu2gCX7FjZrWIDHoNmAQovw/Ybt6285mrvGLueT7iHIxWZoVyOhu/gQlIhDJ6CPgG9gQE8pidxUSA19atxiKvAcvc2dJDEkOIAPOONy+qdj8S1nqgs/an8HRzkXV178ce8X0bkQQXkl3fOfgpJDSpejj7QrwIWcSeKUFlBGLEencCvVFQIffZoHqCqVk2gUZjEhH6EV94JVxnP0mGTKyf8tTyzjKvO9C3zRxamk/U7naxJvWnVUY3eDaYlLM0o26yVysp7LYvhC/G1js85FtPpTfLc3+qrp3dffud+xxeFbB4x+zMgLi+rHZK7E+m3tIN/aF8Aw3f8gPGKYSD0X0c6gFJM5SvdyI1KAroZ59kNDrGR7QIupMkrH22ZipEfhRrvI2yqddpA=;zLwejSHqtwi8ZjAA8W9A4A=="
+secured: "PibCmWsr1UHAj7ga10dD2xwkduIxpnLYWLYSXW1D/yjjnkfUYQ53tzA9XdfHSd3iplinQJ2rigicYZduxH/N8NHq6IKfOwfcRC2fTdo96kVUpdtw9PZYcYczEGoBdO9BUlCWhJHwXg1aL7Oo7fZbecGvJKQ7UxTalsnyCdNWHhag/Ep6A7EH1I248xgfSEGH5V/QJ0KiyzvpYOFSOf0iF+tMTP1249cyxiRVbEeWFalOTDaymPcKN8jmo+KBJC9vy6+xWrf43dzyW8Nk/m1vt64n1nHMH34vPoR+RcluyCKAO2Edx9n+pjwpTgx1WBjAU+lT51Tjh/sHzpWbw/VCcKz/AsmGgb9yWQmFAcE8XVvfQoh7E8sC1CFkMDGrqw7gdFbdulE1vHHfHeZ74rqt/3Raf3KhBd0f6DUh/1ZTdQg=;NTcHDwWplssIK9imntshmQ=="
 ---
 

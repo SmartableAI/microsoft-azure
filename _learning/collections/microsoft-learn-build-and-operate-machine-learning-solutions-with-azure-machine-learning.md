@@ -4,7 +4,7 @@ excerpt: "Build and operate machine learning solutions with Azure Machine Learni
 type: collection
 price: Free
 length: PT10H11M
-heat: 60
+heat: 78
 
 provider:
   name: Microsoft Learn

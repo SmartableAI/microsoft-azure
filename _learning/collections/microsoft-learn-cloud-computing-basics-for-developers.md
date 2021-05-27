@@ -4,7 +4,7 @@ excerpt: "The first learning path in a course on cloud computing for developers 
 type: collection
 price: Free
 length: PT6H53M
-heat: 60
+heat: 67
 
 provider:
   name: Microsoft Learn
