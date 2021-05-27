@@ -4,7 +4,7 @@ excerpt: "Start your DevOps Dojo journey.  Create multidisciplinary DevOps teams
 type: collection
 price: Free
 length: PT2H0M
-heat: 96
+heat: 93
 
 provider:
   name: Microsoft Learn
