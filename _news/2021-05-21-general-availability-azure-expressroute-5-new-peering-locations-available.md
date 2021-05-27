@@ -58,6 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
+  - title: "Cognitive Services - Form Recognizer adds new version in general availability"
+    excerpt: "Support for 73 languages, prebuilt ID model, invoice line item extraction, table header extraction tagging as table, and more generally available in Azure Form Recognizer, part of Applied AI Services. "
+    publishedDateTime: 2021-05-27T16:00:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-form-recognizer-adds-new-version-in-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
   - title: "General availability: Enabling IBM WebSphere Application Server on Azure Virtual Machines"
     excerpt: "IBM WebSphere Application Server (Traditional) Network Deployment on Azure Linux Virtual Machines is now available, jointly developed and supported by IBM and Microsoft. "
     publishedDateTime: 2021-05-25T16:00:33Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "15 Big Azure Announcements Made At Microsoft Build 2021"
-excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
-publishedDateTime: 2021-05-25T15:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/12"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/12"
+excerpt: "vice president of Microsoft Azure developer experience. New capabilities for document translation and text analytics have been added to Azure Cognitive Services, a family of AI services and ..."
+publishedDateTime: 2021-05-25T15:12:00Z
+originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
+webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
 type: article
 quality: 37
 heat: -1
@@ -536,6 +536,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "pE0k8TX7BgFR9wQ0dD+CMcI2mru++VOgd1ieUJ5vk8X4FP0jDSwkJjA/GnCLsAR2n+lmp+0ooy8mDEHAK+JhXENYaAxZ38Un/x5mv2/QjQabcM22vtf48OGx++/E5Z/uiW/SCjmLNDgpv0k7BgE53SGv3vfvJPhk5e3GHwdf+heRlq3RotMnz92hfTe8fCmb1imS38bLfbYJrpMTINmrJigBtYxYqzS0wJxoa/YlUMqhG8n0dzHXwdI9FuJaUFYNf0cPVenZmhKA4yVFEpOa1+Ym24MSp8o13pfqmjvAjIs26TGDGynKJNEtZL+O4Gx/fyb8zf9YfbAzKXbehUL0/LovrbvyDe7y3YkWH+ki9l6VgxrdBcvysIuQwil+KrE2SCQYY6y90HszjAUfM9uUuNg2ytXs/DjOr97J21Lp+gtF5eAJC9ORnlNMVmjKsiwMWxGZYVKEskHeznXaQZJts04eEUdb1YPxrZuoKbfT8mfi3uIF65TJh415AK+WvhFw3fPhXj1qeO7FAg1aq+D9xQ==;vAX7AZnu4rL0AHcihIfi7Q=="
+secured: "HxcA/nrAIICaxZJpfGBRhiAlOpASe5x52jbBT9ZdQex3rvi9rlJR+w50qUVAE/VuRwcyuhrjs3/Oy3CLpahmo0zthLmSCdkIFveRGL6TEoba9NGsvjPNu+bQKQtAyDT6Ah5mXv+totXPWRRauq50WxO9HBqmPyci1OLiOVSHNgzQLCjb4V48MZVFcTt0dWR1ZsEcaMUetUWVdyFBXBqYg3InzdWhAkghbcasyaqmxedZZnP9OZM4CCutn09FCuMnyJfvWoAqHHPy4xKmDd4bWLrgWJXK09jv13GReF0nCKyt6+XMheNwpXLlFuhD35SQ/9vnOkP7F4AlE1t1kiXcF1QCf+yG5Xd1xKVL2NUsMJ8=;n3gZpseeWbuXIH1OclGSRg=="
 ---
 

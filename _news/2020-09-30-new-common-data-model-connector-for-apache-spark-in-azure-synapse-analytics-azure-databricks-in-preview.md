@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 102
+  - title: "Query Delta Lake files using T-SQL in Azure Synapse Analytics (public preview)"
+    excerpt: "Use T-SQL in Azure Synapse to read Delta Lake format. "
+    publishedDateTime: 2021-05-27T17:00:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/reading-delta-lake-with-t-sql-azure-synapse-analytics-serverless-sql-pools-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
 
 secured: "3sKy4mFC+CT0d1P2FdFJAujcaFtjMPzioViYhv5XFzpqnBVMRf6Ua/Gcw0x3hgwhn2aaGmZrwYykvQ9XWzzPR52P1W3Nl5VhMLjBZugg+mhrVpB4D2hXObDhdXHdsezvQrmaU0iC5OmicOFOXa3ucr99gu4uRuGNb0BtAo9gTVb+NBfru4KQzALZrqTfiLsdMP9MaDmNcd2ABtsYU+ME1PNVQAQf5Fg9rsFmti4lzwfYid37hBolCQk6tvVMQOzrILeEZgRKA5eDOaVN4wvvsFcaftuTDGIJVhCLl0EUfmTgsp52JFzistO4VoZg5NSqMEPnM1ak0nw4MgIQ9g1qi/BauGXSK9Nim7SseWnLL8c=;+3/aNFJ7SBKMBwoShSh4Nw=="
 ---

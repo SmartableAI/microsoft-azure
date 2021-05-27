@@ -58,6 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
+  - title: "Cognitive Services - Form Recognizer adds new version in general availability"
+    excerpt: "Support for 73 languages, prebuilt ID model, invoice line item extraction, table header extraction tagging as table, and more generally available in Azure Form Recognizer, part of Applied AI Services. "
+    publishedDateTime: 2021-05-27T16:00:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-form-recognizer-adds-new-version-in-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
   - title: "General availability: Azure ExpressRoute: 5 New Peering Locations Available"
     excerpt: "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. The service is now available in 5 new peering locations."
     publishedDateTime: 2021-05-21T16:00:08Z

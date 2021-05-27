@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-serverle
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-serverless-now-in-general-availability/"
 type: article
 quality: 101
-heat: 222
+heat: 242
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
     excerpt: "Enable fine-grained access control to data and leverage Azure Active Directory (AAD) authentication with Azure Cosmos DB role-based access control (RBAC), now generally available."
     publishedDateTime: 2021-05-25T16:00:19Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-rolebased-access-control-rbac-now-in-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
+  - title: "Cognitive Services - Form Recognizer adds new version in general availability"
+    excerpt: "Support for 73 languages, prebuilt ID model, invoice line item extraction, table header extraction tagging as table, and more generally available in Azure Form Recognizer, part of Applied AI Services. "
+    publishedDateTime: 2021-05-27T16:00:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-form-recognizer-adds-new-version-in-general-availability/"
     type: article
     provider:
       name: Microsoft

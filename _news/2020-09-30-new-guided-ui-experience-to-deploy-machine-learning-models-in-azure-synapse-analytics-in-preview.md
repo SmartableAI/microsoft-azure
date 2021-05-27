@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/new-guided-ui-experience
 webUrl: "https://azure.microsoft.com/en-us/updates/new-guided-ui-experience-to-deploy-machine-learning-models-in-azure-synapse-analytics/"
 type: article
 quality: 102
-heat: 122
+heat: 142
 published: true
 
 provider:
@@ -24,6 +24,15 @@ topics:
   - Analytics
 
 related:
+  - title: "Query Delta Lake files using T-SQL in Azure Synapse Analytics (public preview)"
+    excerpt: "Use T-SQL in Azure Synapse to read Delta Lake format. "
+    publishedDateTime: 2021-05-27T17:00:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/reading-delta-lake-with-t-sql-azure-synapse-analytics-serverless-sql-pools-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
   - title: "New Common Data Model connector for Apache Spark in Azure Synapse Analytics & Azure Databricks (in preview)"
     excerpt: "This new Spark CDM connector requires zero configuration and is pre-installed with Azure Synapse Analytics. It can also be installed and used with Azure Databricks."
     publishedDateTime: 2020-09-30T16:00:34Z

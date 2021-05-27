@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Expanded Azure Cosmos DB free tier now in general availability"
-excerpt: "Get the first 1000 RU/s provisioned throughput and 25 GB storage free each month for the lifetime of one Azure Cosmos DB account with the Azure Cosmos DB free tier."
-publishedDateTime: 2021-05-25T16:00:17Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/expanded-azure-cosmos-db-free-tier-now-in-general-availability/"
-webUrl: "https://azure.microsoft.com/en-us/updates/expanded-azure-cosmos-db-free-tier-now-in-general-availability/"
+title: "Cognitive Services - Form Recognizer adds new version in general availability"
+excerpt: "Support for 73 languages, prebuilt ID model, invoice line item extraction, table header extraction tagging as table, and more generally available in Azure Form Recognizer, part of Applied AI Services. "
+publishedDateTime: 2021-05-27T16:00:43Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-form-recognizer-adds-new-version-in-general-availability/"
+webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-form-recognizer-adds-new-version-in-general-availability/"
 type: article
-quality: 84
+quality: 81
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Databases
+  - AI
 
 related:
   - title: "Azure Cosmos DB serverless now in general availability"
@@ -41,19 +41,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 88
-  - title: "Azure Cosmos DB role-based access control (RBAC) now in general availability"
-    excerpt: "Enable fine-grained access control to data and leverage Azure Active Directory (AAD) authentication with Azure Cosmos DB role-based access control (RBAC), now generally available."
-    publishedDateTime: 2021-05-25T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-rolebased-access-control-rbac-now-in-general-availability/"
+  - title: "Expanded Azure Cosmos DB free tier now in general availability"
+    excerpt: "Get the first 1000 RU/s provisioned throughput and 25 GB storage free each month for the lifetime of one Azure Cosmos DB account with the Azure Cosmos DB free tier."
+    publishedDateTime: 2021-05-25T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/expanded-azure-cosmos-db-free-tier-now-in-general-availability/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 81
-  - title: "Cognitive Services - Form Recognizer adds new version in general availability"
-    excerpt: "Support for 73 languages, prebuilt ID model, invoice line item extraction, table header extraction tagging as table, and more generally available in Azure Form Recognizer, part of Applied AI Services. "
-    publishedDateTime: 2021-05-27T16:00:43Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-form-recognizer-adds-new-version-in-general-availability/"
+    quality: 84
+  - title: "Azure Cosmos DB role-based access control (RBAC) now in general availability"
+    excerpt: "Enable fine-grained access control to data and leverage Azure Active Directory (AAD) authentication with Azure Cosmos DB role-based access control (RBAC), now generally available."
+    publishedDateTime: 2021-05-25T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-rolebased-access-control-rbac-now-in-general-availability/"
     type: article
     provider:
       name: Microsoft
@@ -87,6 +87,6 @@ related:
       domain: microsoft.com
     quality: 57
 
-secured: "6SRf26DG3OeSSAGSRExX1kFZgmD74Oz2w81HzB5/Mv/vJbiSCAmFnesB+ZejbS5HgbYnwia8u/db3iVuQqGtLgh15gLn5xY3n/iq4SDETtlkckLtRGOsDKEKw0UuKEqrdFznhCUL5NuEBIr5tiaP4LPqJ0X4f5GiIOH8UzMPUOoExZz8YbmM7sFCBMz5bMN9JGxUB4/hqO1DeSIrte6thF4FlYeLIX4af/lkMp2ZikkSe0EK+2wxsn+JbC69++mM0Q+VkNbQBngSQkxaoie63jkLKNpgtUiYKUOH8W/atcTFFoSnbdNQVRdqg8m1xVU/Tki5UarWPwo0xyWhAiMarzk3MTtu6HM3gpGrkhUAxoI=;O68Ud6GjDOzMINff3DajIQ=="
+secured: "UR4kam4TGts5zhoMAaQ6csAJAW7Fn3QeOkfKX1O+elkJ4g0aOp3RAm2mMHOP9XFoxZAJgzWLxnMrobgUFbboFYfviaDdu5EmuIllbID8YONeRGkpuymYXfskTAYzaRFQFNGUTThHtWNzUPQyUxdBKZMKlYzT7epTblmPYpHlU/F6jIUjc1aLhHPwUTCIWDjfjjCq2l6KUkjEK2JEATcd5RyyVkYH5f+/wxm2expHAKomKCMtO88r7pykaeefppxHHuRhbWy/6riALf4hSxj8EYA+Edch6y0qVsmekNursvQQbRWJMPu1DIqM1LNMOD8A6dStxO3jjh217Uaxs9xFbM5m1eCMbhtM8pfxhTx/ksY=;5uSng4HM27rbO3MB4pqUJw=="
 ---
 
