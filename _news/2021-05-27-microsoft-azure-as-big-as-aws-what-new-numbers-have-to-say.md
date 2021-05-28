@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Armorblox Now Available in the Microsoft Azure Marketplace"
-excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft (News - Alert) Azure."
-publishedDateTime: 2021-05-18T13:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-armorblox-now-available-the-microsoft-azure-marketplace-/2021/05/18/9371955.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-armorblox-now-available-the-microsoft-azure-marketplace-/2021/05/18/9371955.htm"
+title: "Microsoft Azure as Big as AWS? What New Numbers Have to Say"
+excerpt: "Microsoft Azure now is as big as Amazon Web Services, according to one research firm. Find out more in this cloud news slideshow."
+publishedDateTime: 2021-05-26T18:26:00Z
+originalUrl: "https://www.channelfutures.com/cloud-2/microsoft-azure-as-big-as-aws-what-new-numbers-have-to-say"
+webUrl: "https://www.channelfutures.com/cloud-2/microsoft-azure-as-big-as-aws-what-new-numbers-have-to-say"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: channelfutures
+  domain: channelfutures.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.channelfutures.com/files/2020/07/Big-Cloud-877x432.jpg"
+    width: 877
+    height: 432
+    isCached: true
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -382,20 +388,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft Azure as Big as AWS? What New Numbers Have to Say"
-    excerpt: "Microsoft Azure now is as big as Amazon Web Services, according to one research firm. Find out more in this cloud news slideshow."
-    publishedDateTime: 2021-05-26T18:26:00Z
-    webUrl: "https://www.channelfutures.com/cloud-2/microsoft-azure-as-big-as-aws-what-new-numbers-have-to-say"
-    type: article
-    provider:
-      name: channelfutures
-      domain: channelfutures.com
-    quality: 37
-    images:
-      - url: "https://www.channelfutures.com/files/2020/07/Big-Cloud-877x432.jpg"
-        width: 877
-        height: 432
-        isCached: true
   - title: "Principled Technologies Releases Study Comparing Performance of Kubernetes Clusters Running on Microsoft Azure..."
     excerpt: "Newer D- and E-series VMs with Intel Xeon Cascade Lake processors supported more users than older VMs enabled by previous-generation Intel Xeon processors."
     publishedDateTime: 2021-04-30T07:01:00Z
@@ -489,6 +481,15 @@ related:
         width: 800
         height: 546
         isCached: true
+  - title: "Armorblox Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft (News - Alert) Azure."
+    publishedDateTime: 2021-05-18T13:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-armorblox-now-available-the-microsoft-azure-marketplace-/2021/05/18/9371955.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
     excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2021-05-26T12:08:00Z
@@ -572,6 +573,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "2JPF8TD17ILlBE5hoHQkQHqcGwZgecDYH0mPQC9clnQGBHKxFNZOg0ozE9vbt2eC0njvsBvFLt5ZulKSbrmTSLcP9OC+jijUGjwFtT4M+lNOPofj5JN5Sz3UHj4Cf3H6xR3CY2rT+dL2u/7R8Pte8SHcH7Bve1UXQwFuWUPJzfmHo/Q0C+ASokgMx/HUEcJUL4af+vK/4Hj/tp0P8o04QQE+6/SgbRazciqnLR94RboyixyHghwomkq7T4e+GFEh37AcGgMFwYD7UCM6/efz09iYg1F7sFoVFRS1PKRt0vYpv5cJptHhuy6rRtdIF9qFH8ylH7FIE1ogTmPpzE4XMRXVR9183uZ8BIJIvAQNJfs=;hzVK8tqo7BG8ex0zbJbp+w=="
+secured: "HEE2r+fbd0aLzh7uQ9lysv6f8mZ18QcbKx3rHE4wicG1NPBBi7mCD9KDsMOW3gRMJHdhuh9uD2F52lOa3TDnhlytvtNshOBkjDaNZn1JRFdU2ecVuf2PGEcY4WaQkCIxY0I6/VUaiG1jNP/3z2Fza81CFdwINL1RVlnHTMQffyxYYo+xg/AVHkLhb4O2B3gOKZuvUv84zq7SPwP7BtIO1pYQJLnUkkfUofA8Tamm1kelZ2+acvaWfAkdHZtPBatzmMKhgiMUv+vn2mvTuuVRCXdOuPriRxN72bvM7vhFXKXYBd7RsDkgxRPi9/paGeYmQpZ93uOSbEy2g4GHqu8vnIJYX2L+NXmTwDeUjjDJ37Q=;Sg3N8dJoLymXzuEZXDOWjA=="
 ---
 

@@ -375,6 +375,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft Azure as Big as AWS? What New Numbers Have to Say"
+    excerpt: "Microsoft Azure now is as big as Amazon Web Services, according to one research firm. Find out more in this cloud news slideshow."
+    publishedDateTime: 2021-05-26T18:26:00Z
+    webUrl: "https://www.channelfutures.com/cloud-2/microsoft-azure-as-big-as-aws-what-new-numbers-have-to-say"
+    type: article
+    provider:
+      name: channelfutures
+      domain: channelfutures.com
+    quality: 37
+    images:
+      - url: "https://www.channelfutures.com/files/2020/07/Big-Cloud-877x432.jpg"
+        width: 877
+        height: 432
+        isCached: true
   - title: "Principled Technologies Releases Study Comparing Performance of Kubernetes Clusters Running on Microsoft Azure..."
     excerpt: "Newer D- and E-series VMs with Intel Xeon Cascade Lake processors supported more users than older VMs enabled by previous-generation Intel Xeon processors."
     publishedDateTime: 2021-04-30T07:01:00Z
