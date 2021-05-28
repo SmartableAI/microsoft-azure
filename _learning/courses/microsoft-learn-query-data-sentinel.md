@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT48M
 ratings:
-  count: 103
-  average: 4.7184467
+  count: 104
+  average: 4.7211537
 heat: 57
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Security
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/query-data-sentinel-social.png

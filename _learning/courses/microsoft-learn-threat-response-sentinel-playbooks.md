@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Security
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/threat-response-sentinel-playbooks-social.png

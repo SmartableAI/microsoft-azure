@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - Analytics
+  - Security
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png

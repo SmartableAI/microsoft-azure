@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H5M
 ratings:
-  count: 97
-  average: 4.7628865
+  count: 98
+  average: 4.765306
 heat: 58
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Security
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/hunt-threats-sentinel-social.png
