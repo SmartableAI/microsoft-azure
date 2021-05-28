@@ -2,7 +2,7 @@
 title: "Azure Friday"
 excerpt: "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights."
 type: collection
-heat: 63
+heat: 158
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-azure-data-factory-update-governance-data-flow-startup-and-cicd-azure-friday
   - videos/microsoft-azure-cosmos-db-update-mongodb-40-notebooks-and-continuous-backup-azure-friday
   - videos/microsoft-real-time-streaming-now-faster-easier-with-confluent-cloud-on-azure-azure-friday
   - videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday
@@ -276,7 +277,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/2gydxodDS_I/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/bxTU4Lx_TSM/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
