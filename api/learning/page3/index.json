@@ -4,50 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-monitor-data-drift-with-azure-machine-learning.md",
-      "title": "Monitor data drift with Azure Machine Learning",
-      "excerpt": "Changing trends in data over time can reduce the accuracy of the predictions made by a model. Monitoring for this data drift is an important way to ensure your model continues to predict accurately.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-data-drift-with-azure-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 894,
-        "average": 4.795302
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 149,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-data-drift-with-azure-machine-learning-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-azure-account.md",
       "title": "Create an Azure account",
       "excerpt": "Find out how to start using Azure by creating an account where you’ll see services and personal settings for identity, billing, and preferences.",
@@ -83,6 +39,42 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-classify-images-with-custom-vision-services.md",
+      "title": "Classify images with the Microsoft Custom Vision Service",
+      "excerpt": "In this learning path, find out how Cognitive Vision Services detects faces, tags and classifies images, and identifies objects.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-images-with-custom-vision-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 1594,
+        "average": 4.671267
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 147,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-explore-natural-language-processing.md",
       "title": "Explore natural language processing",
       "excerpt": "Natural language processing supports applications that can see, hear, speak with, and understand users.  They permit the user to interact with your application in natural ways without requiring the user to adapt to the computer model.  Using text analytics, translation, and language understanding services, Microsoft Azure makes it easy to build applications that support natural language.",
@@ -113,8 +105,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 1307,
-            "average": 4.7467484
+            "count": 1308,
+            "average": 4.746942
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -236,8 +228,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
           "length": "PT39M",
           "ratings": {
-            "count": 1353,
-            "average": 4.756098
+            "count": 1355,
+            "average": 4.7549815
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -366,8 +358,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 159,
-            "average": 4.7232704
+            "count": 160,
+            "average": 4.725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -445,8 +437,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 4898,
-            "average": 4.726827
+            "count": 4899,
+            "average": 4.726883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -566,8 +558,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
           "length": "PT24M",
           "ratings": {
-            "count": 802,
-            "average": 4.811721
+            "count": 803,
+            "average": 4.811955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -609,8 +601,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
           "length": "PT18M",
           "ratings": {
-            "count": 1010,
-            "average": 4.7960396
+            "count": 1011,
+            "average": 4.7962413
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -695,8 +687,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
           "length": "PT24M",
           "ratings": {
-            "count": 802,
-            "average": 4.811721
+            "count": 803,
+            "average": 4.811955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -738,8 +730,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
           "length": "PT18M",
           "ratings": {
-            "count": 1010,
-            "average": 4.7960396
+            "count": 1011,
+            "average": 4.7962413
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -791,6 +783,49 @@
         "Azure",
         "Security",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-automate-model-selection-with-azure-automl.md",
+      "title": "Automate machine learning model selection with Azure Machine Learning",
+      "excerpt": "Learn how to use automated machine learning in Azure Machine Learning to find the best model for your data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-model-selection-with-azure-automl/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-model-selection-with-azure-automl/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 1347,
+        "average": 4.662955
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 144,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/automate-model-selection-with-azure-automl-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     },
     {
@@ -874,8 +909,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
       "length": "PT18M",
       "ratings": {
-        "count": 1010,
-        "average": 4.7960396
+        "count": 1011,
+        "average": 4.7962413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -952,8 +987,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 7700,
-        "average": 4.7496104
+        "count": 7702,
+        "average": 4.7496753
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1064,8 +1099,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 15707,
-        "average": 4.7209525
+        "count": 15708,
+        "average": 4.72097
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1107,8 +1142,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 5775,
-        "average": 4.7288313
+        "count": 5776,
+        "average": 4.728878
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1150,8 +1185,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
       "length": "PT47M",
       "ratings": {
-        "count": 5643,
-        "average": 4.730994
+        "count": 5645,
+        "average": 4.7310896
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1185,8 +1220,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
       "length": "PT28M",
       "ratings": {
-        "count": 1789,
-        "average": 4.673002
+        "count": 1790,
+        "average": 4.6731844
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1228,8 +1263,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
       "length": "PT24M",
       "ratings": {
-        "count": 802,
-        "average": 4.811721
+        "count": 803,
+        "average": 4.811955
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1380,8 +1415,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 8956,
-            "average": 4.668155
+            "count": 8957,
+            "average": 4.6681924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1510,8 +1545,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 7335,
-            "average": 4.7790046
+            "count": 7338,
+            "average": 4.779095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1552,8 +1587,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 8606,
-            "average": 4.65617
+            "count": 8607,
+            "average": 4.65621
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1588,8 +1623,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 8956,
-            "average": 4.668155
+            "count": 8957,
+            "average": 4.6681924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1632,8 +1667,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
           "length": "PT1H17M",
           "ratings": {
-            "count": 1263,
-            "average": 4.638163
+            "count": 1264,
+            "average": 4.638449
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1686,48 +1721,6 @@
         "Management Tools",
         "Networking",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-qsharp-create-first-quantum-development-kit.md",
-      "title": "Create your first Q# program by using the Quantum Development Kit",
-      "excerpt": "Get started with Q# programming by building a quantum random number generator.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-qsharp-create-first-quantum-development-kit/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/qsharp-create-first-quantum-development-kit/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 371,
-        "average": 4.8032346
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 136,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/quantum/qsharp-create-first-quantum-development-kit-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     },
     {
@@ -1796,8 +1789,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 756,
-            "average": 4.7010584
+            "count": 758,
+            "average": 4.701847
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1839,8 +1832,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2606,
-            "average": 4.624712
+            "count": 2609,
+            "average": 4.623994
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1971,8 +1964,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
           "length": "PT55M",
           "ratings": {
-            "count": 1221,
-            "average": 4.7674036
+            "count": 1222,
+            "average": 4.7675943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2430,8 +2423,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 995,
-            "average": 4.7376885
+            "count": 996,
+            "average": 4.7379518
           },
           "provider": {
             "name": "Microsoft Learn",

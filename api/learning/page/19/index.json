@@ -4,96 +4,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-content-delivery-network-azure-cdn-blob-services.md",
-      "title": "Create a Content Delivery Network for your Website with Azure CDN and Blob Services",
-      "excerpt": "This module looks at how to create and utilize a Content Delivery Network (CDN) within Azure to host commonly used assets, such as images in a website. The module covers Azure CDN rather than third-party integrations, and deals with using Blob Storage as an underlying storage model for stable or non-volatile data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-content-delivery-network-azure-cdn-blob-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cdn-static-resources-blob-storage/",
-      "length": "PT1H3M",
-      "ratings": {
-        "count": 640,
-        "average": 4.7484374
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-cdn-static-resources-blob-storage-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Web",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-knowledge-store-with-azure-cognitive-search.md",
-      "title": "Create a knowledge store with Azure Cognitive Search",
-      "excerpt": "Learn how to persist the output from an Azure Cognitive Search enrichment pipeline for independent analysis or downstream processing.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-knowledge-store-with-azure-cognitive-search/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-knowledge-store-azure-cognitive-search/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 70,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implementing-a-knowledge-store-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Storage",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-your-first-iot-central-app.md",
       "title": "Create your first Azure IoT Central app",
       "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. The first unit creates the app, the second unit defines a device template for a refrigerated truck. Then, create a programming project, add code to simulate a truck, and communicate with your IoT Central app. The truck is monitored through a custom dashboard.",
@@ -3682,6 +3592,401 @@
         "Management Tools",
         "DevOps",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-optimize-government-operations-with-azure.md",
+      "title": "Optimize government operations with Azure",
+      "excerpt": "Learn to develop a cloud computing digital transformation solution for the public sector. Use Azure, Azure Stack Hub, and Azure Stack Edge. Enforce data sovereignty, address custom compliance requirements, and apply all available protection to highly sensitive data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-optimize-government-operations-with-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-optimize-government-operations-with-azure/",
+      "length": "PT1H26M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-discover-azure-government.md",
+          "title": "Discover the potential of Azure for government",
+          "excerpt": "Discussion of the benefits of the public cloud for public sector agencies, with special attention to how Azure can be helpful to them.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-discover-azure-government/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-azure-government/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 3,
+            "average": 4.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-data-protection-privacy.md",
+          "title": "Intro to data protection and privacy regulations",
+          "excerpt": "Learn and understand the key terms and concepts of data protection, privacy regulation, and data processing. Describe, at a high level, the key Azure technologies that pertain to data protection and compliance.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-data-protection-privacy/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-protection-privacy/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 6,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-safeguard-data-sector.md",
+          "title": "Safeguard public sector data with Azure",
+          "excerpt": "Conceptual introduction to data residency and sovereignty and overview of the options provided by Azure for public agencies to protect their data in the cloud.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-safeguard-data-sector/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/safeguard-data-sector/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 2,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity",
+            "Security",
+            "DevOps",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-support-hybrid-clouds.md",
+          "title": "Support data classification with private and hybrid clouds",
+          "excerpt": "Discussion of the private and hybrid cloud solutions for government customers to enforce data sovereignty, meet compliance requirements, and protect sensitive data.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-support-hybrid-clouds/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/support-hybrid-clouds/",
+          "length": "PT20M",
+          "ratings": {
+            "count": 3,
+            "average": 4.6666665
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security",
+        "Networking",
+        "Identity",
+        "Storage",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot.md",
+      "title": "Working with Connected Field Service for Dynamics 365 and Azure IoT",
+      "excerpt": "This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot/",
+      "length": "PT6H13M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-get-started-with-connected-field-service.md",
+          "title": "Get started with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "This module will focus on the initial deployment of the Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through the installation and an understanding of the components installed as part of the out of the box template application.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-connected-field-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-connected-field-service/",
+          "length": "PT1H6M",
+          "ratings": {
+            "count": 91,
+            "average": 4.7252746
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment.md",
+          "title": "Remotely monitor and service equipment with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "Configure IoT devices to remotely monitor customer equipment.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-and-service-customer-equipment/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 80,
+            "average": 4.7125
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service.md",
+          "title": "Register and manage devices with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "Register and Manage Customer Devices with Connected Field Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-manage-customer-devices-with-connected-field-service/",
+          "length": "PT1H26M",
+          "ratings": {
+            "count": 58,
+            "average": 4.706897
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-using-iot-central-with-connected-field-service.md",
+          "title": "Using IoT Central with Connected Field Service for Dynamics 365",
+          "excerpt": "This module will focus on using IoT Central with Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through building an IoT Central application and escalating the alerts into Dynamics 365.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-using-iot-central-with-connected-field-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/using-iot-central-with-connected-field-service/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 59,
+            "average": 4.677966
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
       ]
     }
   ],
