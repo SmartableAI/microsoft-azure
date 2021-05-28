@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 1544,
-        "average": 4.7208548
+        "count": 1545,
+        "average": 4.7210355
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -47,49 +47,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-remediate-azure-defender-security-alerts.md",
-      "title": "Remediate security alerts using Azure Defender",
-      "excerpt": "Remediate security alerts using Azure Defender",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remediate-azure-defender-security-alerts/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remediate-azure-defender-security-alerts/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 298,
-        "average": 4.842282
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-data-fundamentals-explore-relational-data-in-azure.md",
       "title": "Azure Data Fundamentals: Explore relational data in Azure",
       "excerpt": "Azure Data Fundamentals: Explore relational data in Azure",
@@ -120,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/",
           "length": "PT33M",
           "ratings": {
-            "count": 1589,
-            "average": 4.7998743
+            "count": 1590,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +222,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/",
       "length": "PT33M",
       "ratings": {
-        "count": 1589,
-        "average": 4.7998743
+        "count": 1590,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -330,8 +287,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2609,
-            "average": 4.623994
+            "count": 2610,
+            "average": 4.624138
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -464,8 +421,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
           "length": "PT48M",
           "ratings": {
-            "count": 361,
-            "average": 4.7506924
+            "count": 362,
+            "average": 4.7513814
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -682,8 +639,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
           "length": "PT29M",
           "ratings": {
-            "count": 2392,
-            "average": 4.6295986
+            "count": 2393,
+            "average": 4.6297536
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -772,8 +729,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2609,
-            "average": 4.623994
+            "count": 2610,
+            "average": 4.624138
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -906,8 +863,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
           "length": "PT48M",
           "ratings": {
-            "count": 361,
-            "average": 4.7506924
+            "count": 362,
+            "average": 4.7513814
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -998,8 +955,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 4310,
-            "average": 4.752204
+            "count": 4312,
+            "average": 4.7518554
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1077,8 +1034,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3159,
-            "average": 4.668566
+            "count": 3160,
+            "average": 4.6686707
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1173,6 +1130,51 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-accelerate-scale-spring-boot-application-azure-cache-redis.md",
+      "title": "Accelerate and scale a Spring Boot application with Azure Cache for Redis",
+      "excerpt": "In this module, you'll learn what Azure Cache for Redis is, and how to use it with a Java and Spring Boot application. You'll use it to cache some business data using Spring Data Redis, and also to store HTTP session data using Spring Session.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-accelerate-scale-spring-boot-application-azure-cache-redis/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/accelerate-scale-spring-boot-application-azure-cache-redis/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 17,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-data-engineering-processes.md",
       "title": "Identify the tasks of a data engineer in a cloud-hosted architecture",
       "excerpt": "Learn about the responsibilities of a data engineer, how they relate to the jobs of other data and AI roles, and explore common data engineering practices.",
@@ -1180,8 +1182,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "PT25M",
       "ratings": {
-        "count": 6248,
-        "average": 4.731434
+        "count": 6249,
+        "average": 4.7314773
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1245,8 +1247,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 14038,
-            "average": 4.761433
+            "count": 14043,
+            "average": 4.761518
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1525,8 +1527,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 5362,
-            "average": 4.755688
+            "count": 5363,
+            "average": 4.755734
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1734,8 +1736,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 5362,
-            "average": 4.755688
+            "count": 5363,
+            "average": 4.755734
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1865,8 +1867,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
           "length": "PT24M",
           "ratings": {
-            "count": 2068,
-            "average": 4.7790136
+            "count": 2070,
+            "average": 4.7792273
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1907,8 +1909,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 1509,
-            "average": 4.7740226
+            "count": 1510,
+            "average": 4.7741723
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1949,8 +1951,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
           "length": "PT24M",
           "ratings": {
-            "count": 1604,
-            "average": 4.723192
+            "count": 1605,
+            "average": 4.7233644
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2011,8 +2013,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
       "length": "PT24M",
       "ratings": {
-        "count": 1604,
-        "average": 4.723192
+        "count": 1605,
+        "average": 4.7233644
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2089,8 +2091,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 1509,
-        "average": 4.7740226
+        "count": 1510,
+        "average": 4.7741723
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2173,8 +2175,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 1446,
-        "average": 4.6998615
+        "count": 1447,
+        "average": 4.700069
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2259,8 +2261,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 4310,
-        "average": 4.752204
+        "count": 4312,
+        "average": 4.7518554
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2303,8 +2305,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "PT42M",
       "ratings": {
-        "count": 2895,
-        "average": 4.6165805
+        "count": 2896,
+        "average": 4.6167126
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2339,8 +2341,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 1355,
-        "average": 4.7549815
+        "count": 1356,
+        "average": 4.7536874
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2686,8 +2688,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1571,
-            "average": 4.73902
+            "count": 1572,
+            "average": 4.739186
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2730,8 +2732,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 6580,
-            "average": 4.8
+            "count": 6582,
+            "average": 4.8000607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2815,8 +2817,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/save-money-with-azure-reserved-instances/",
           "length": "PT34M",
           "ratings": {
-            "count": 156,
-            "average": 4.724359
+            "count": 157,
+            "average": 4.7261147
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3021,8 +3023,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 6248,
-            "average": 4.731434
+            "count": 6249,
+            "average": 4.7314773
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3226,8 +3228,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
           "length": "PT33M",
           "ratings": {
-            "count": 3104,
-            "average": 4.7316365
+            "count": 3105,
+            "average": 4.731723
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3420,8 +3422,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
           "length": "PT33M",
           "ratings": {
-            "count": 3104,
-            "average": 4.7316365
+            "count": 3105,
+            "average": 4.731723
           },
           "provider": {
             "name": "Microsoft Learn",
