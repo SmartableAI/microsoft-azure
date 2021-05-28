@@ -3,8 +3,8 @@ category: news
 title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
 excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
 publishedDateTime: 2021-05-26T12:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378094.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378094.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-microsoft-azure-marketplace-/2021/05/26/9378094.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-microsoft-azure-marketplace-/2021/05/26/9378094.htm"
 type: article
 quality: 17
 heat: -1
@@ -447,20 +447,6 @@ related:
         width: 2700
         height: 1414
         isCached: true
-  - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
-    excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
-    publishedDateTime: 2021-05-27T12:03:00Z
-    webUrl: "https://www.register-herald.com/region/magnet-forensics-leverages-microsoft-azure-to-improve-digital-investigations-via-the-cloud/article_ed58ed53-82f2-5cf1-bd8e-eca1f597168c.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 27
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Microsoft Services is now a Kubernetes Certified Service Provider"
     excerpt: "Modern applications are increasingly built using containers, which are microservices packaged with their dependencies and configurations. For this reason, many companies are either containerizing their existing applications or creating new complex applications that are composed of multiple containers.\r\n\r\nAs"
     publishedDateTime: 2020-04-28T11:00:41Z
@@ -507,6 +493,15 @@ related:
       name: Bio IT World
       domain: bio-itworld.com
     quality: 13
+  - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
+    excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft (News - Alert) Azure to help public safety and justice sector organizations modernize their digital investigations."
+    publishedDateTime: 2021-05-27T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-magnet-forensics-leverages-microsoft-azure-improve-digital-investigations-/2021/05/27/9379256.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
   - title: "Governance experts Rencore and Alight partner to offer a complete governance solution for the Microsoft Cloud"
     excerpt: "Rencore, the provider of award-winning software essential for governing Microsoft 365, announced their partnership with Microsoft technology consultants Alight. The partnership combines Rencore's"
     publishedDateTime: 2021-05-18T13:00:00Z
@@ -563,6 +558,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "1zFTIBO7oQ++HHZP2yjVuvtZAUNy1fMvn7MEosgJaRHUyrgQd1dqfPBiKOCxMjtw2naZ+mgDrqkdix/DIak882IB7NihO+1xh5/Xv7tmt+sfHD2NqE01xKcJTzJYJ2KF5xGARDPNMjBeltgguwPUqQw/S+nDFJ87C2Pm/PJovPTYvD9CqDsrSuybVh5C2u72ukCG2upjzlqYQbN0XPzh/jGJk/TnRa6bRGb9zU/Dn8iU5HUEwJrxtlhRW0jX2TZC82uFcDNtKoNoXAtwp6mn97oGfddu5lit3SEP7fZ0qTWP2DGvcz9v9sTM19nzvhltzgkrkGVSMjc8gFMS9wEwNq3Lydn8kZm/SJ1HDAjW+1w=;UPkSu40f/REMLtASQZJGuw=="
+secured: "auysmf3xqowaE7lIQhECmj8YZ3+oO6xmLNzn5BvIua5tnRxhh6pN5onN2z/AwU9+TWXsPBFL1HGcYnievtWj0Hpjvxu+T+lN8gSlEFsrdGDkte/PDt/0qNpijanclhYwWy+6/O6aeZ0gTuX4CNaDOklgygYKmcrXxuv6xa+bhafiHSKk7yC20bBG9ALhQ7D/K3fpU+xGHR0Vls6sLH/i4aCJC6mkW+88iOMsVJC+0eVwaM7ItzKmpd1bwpVqtPg5zQ+etJrd/J+1Jb91qQxr5I2z/5+EhZ3akrRXQx8wOmlBJ5Ngl4Yvt6Q8SAIzhEGqkTREnJcR3Xro/D96ovANMP2CcZlCB2sAWouX0Gdc3A8=;RbeMQB2/uYKWwHrw5xcKiA=="
 ---
 

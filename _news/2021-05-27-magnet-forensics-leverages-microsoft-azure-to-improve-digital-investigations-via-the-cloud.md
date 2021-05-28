@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
-excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
-publishedDateTime: 2021-05-27T12:03:00Z
-originalUrl: "https://www.register-herald.com/region/magnet-forensics-leverages-microsoft-azure-to-improve-digital-investigations-via-the-cloud/article_ed58ed53-82f2-5cf1-bd8e-eca1f597168c.html"
-webUrl: "https://www.register-herald.com/region/magnet-forensics-leverages-microsoft-azure-to-improve-digital-investigations-via-the-cloud/article_ed58ed53-82f2-5cf1-bd8e-eca1f597168c.html"
+excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft (News - Alert) Azure to help public safety and justice sector organizations modernize their digital investigations."
+publishedDateTime: 2021-05-27T12:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-magnet-forensics-leverages-microsoft-azure-improve-digital-investigations-/2021/05/27/9379256.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-magnet-forensics-leverages-microsoft-azure-improve-digital-investigations-/2021/05/27/9379256.htm"
 type: article
-quality: 27
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-    width: 600
-    height: 600
-    isCached: true
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -493,7 +487,7 @@ related:
   - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
     excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2021-05-26T12:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378094.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-microsoft-azure-marketplace-/2021/05/26/9378094.htm"
     type: article
     provider:
       name: TMCnet
@@ -564,6 +558,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "lq/MVKodNk0yU0chVv/N3JJcpbOtOuMl7mwXqh5hpKBYlsnyxJJU/KUBKKg9mIyxkYo2lSSi3p7uyoBxO1fKrOdozn+V+AUWxYZBuowym/xubYPC1jtZtitTf3HfASWU8SGpmmxsaRBJlEj2Y9JZ09ER+flJtTtAo8p+Khr+O1QUib6SrObfAG+jxw6HFhQmxBpmO8HOBNKteHcSCIH6oVIPf3HFMzgg8ojO0ATtBXzommQ3fjBNcQEew36xsLOmWNgny7TF9tvkHt+iNU2LbcTBs0ouAUEDtM2GKHACGP9wgtyTYEjOeTdR4sHlADErHCgyH/R6WPJom5tNk5jwe/PvtDwuaUaqcIL4dY95+TQ=;y9f/XSLaXM28/+mm6Zoljw=="
+secured: "thwuvpzAjLEELfX+eWSSV1szBQt/1/aaG8lWi5mdbNYU+QfX4ZzX7QALXfhcJhwxvIKfzKBVrAzs8m3DT/BmpNY6Eal5XADxOkHWzwagyqj9E7fbNlbkUsgaLIqdqkLbh/OREvvOVDFaMfpZxz13A8LDmNDpHgOhAoZtv1Q6ZhkMMV2uXp5vuw+Ryc6eWb5GISccqnKIlHkEqVcWiUEXVOhrUYib5fKJAcSU1moKdyQtj8gGeLEJ5bONLHh2YBamjVyTLWdG/8q2k4yILWLo7E/FewpV3s9H1yp/F8Xia9F3T1cGAjvwzaYJdC8gypMtAqsGqDUFcPsEYqinXRBa+zCUWpseOnx5PD7SIQTs/DM=;svEtphbcryUlmYypMaycWg=="
 ---
 
