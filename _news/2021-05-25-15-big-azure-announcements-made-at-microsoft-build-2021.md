@@ -1,10 +1,10 @@
 ---
 category: news
 title: "15 Big Azure Announcements Made At Microsoft Build 2021"
-excerpt: "vice president of Microsoft Azure developer experience. New capabilities for document translation and text analytics have been added to Azure Cognitive Services, a family of AI services and ..."
-publishedDateTime: 2021-05-25T15:12:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
+excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
+publishedDateTime: 2021-05-25T15:00:00Z
+originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/12"
+webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/12"
 type: article
 quality: 37
 heat: -1
@@ -573,6 +573,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "HxcA/nrAIICaxZJpfGBRhiAlOpASe5x52jbBT9ZdQex3rvi9rlJR+w50qUVAE/VuRwcyuhrjs3/Oy3CLpahmo0zthLmSCdkIFveRGL6TEoba9NGsvjPNu+bQKQtAyDT6Ah5mXv+totXPWRRauq50WxO9HBqmPyci1OLiOVSHNgzQLCjb4V48MZVFcTt0dWR1ZsEcaMUetUWVdyFBXBqYg3InzdWhAkghbcasyaqmxedZZnP9OZM4CCutn09FCuMnyJfvWoAqHHPy4xKmDd4bWLrgWJXK09jv13GReF0nCKyt6+XMheNwpXLlFuhD35SQ/9vnOkP7F4AlE1t1kiXcF1QCf+yG5Xd1xKVL2NUsMJ8=;n3gZpseeWbuXIH1OclGSRg=="
+secured: "kNoMf2Z9/jKFN0A5I753sq7Y8XnYbvam/4MmOnS6a6kyBroPCCNxkuc0YfpFpVJKPXiRp2yzxrPfgOSCPB4DgNg1Om/ArMdjXBDwWK3U6XyQY2/8WZ/7SbtxMXNYBPHaqiLAO6qaQK+wVMNnLDtDsaVsGANpP8/k9cqWpgNwmB726Eiqr3BupdabLtRmRHOSLpY/Y4yWKBN+lUPE/jAWkuEtt3fDsC1WNdpMdIvOBcBcVGfWQVTeBJKpP+3atQ1nV47y19DEaM5CJUyjyBwYItVR2ANFvgLgmEWgpyRsolDfVpzmmMo+AOUNHjsrw3d2LKR1hOH0ueQAw6aDpEI1Pj/wkCP18D7XrwOCi4sCJ/I=;rsKSKjrmB6bOOK/ao5oDvw=="
 ---
 
