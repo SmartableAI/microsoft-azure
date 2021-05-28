@@ -4,7 +4,7 @@ excerpt: "Do you need a clear path forward for your cloud journey? This learning
 type: collection
 price: Free
 length: PT9H32M
-heat: 62
+heat: 63
 
 provider:
   name: Microsoft Learn

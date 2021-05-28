@@ -4,7 +4,7 @@ excerpt: "The **Identity and Access learning path** covers the latest identity a
 type: collection
 price: Free
 length: PT2H52M
-heat: 120
+heat: 138
 
 provider:
   name: Microsoft Learn
