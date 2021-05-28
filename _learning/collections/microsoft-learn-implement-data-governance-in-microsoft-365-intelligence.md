@@ -4,7 +4,7 @@ excerpt: "Implement data governance in Microsoft 365 intelligence"
 type: collection
 price: Free
 length: PT3H23M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
