@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Principled Technologies Releases Study Comparing Performance of Kubernetes Clusters Running on Microsoft Azure..."
-excerpt: "Newer D- and E-series VMs with Intel Xeon Cascade Lake processors supported more users than older VMs enabled by previous-generation Intel Xeon processors."
-publishedDateTime: 2021-04-30T07:01:00Z
-originalUrl: "https://www.pr.com/press-release/826386"
-webUrl: "https://www.pr.com/press-release/826386"
+title: "Microsoft Previews Contextual Settings for Azure Active Directory Conditional Access"
+excerpt: "Microsoft this week announced a public preview release of an Azure Active Directory Conditional Access capability that lets organization trigger policies for end users based on a situation or context."
+publishedDateTime: 2021-05-27T23:33:00Z
+originalUrl: "https://redmondmag.com/articles/2021/05/27/microsoft-azure-ad-conditional-access.aspx"
+webUrl: "https://redmondmag.com/articles/2021/05/27/microsoft-azure-ad-conditional-access.aspx"
 type: article
-quality: 33
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: PR
-  domain: pr.com
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
-  - Containers
+  - Identity
 
 images:
-  - url: "https://img.pr.com/release/2104/416814/pressrelease_original_416814_1619714331.png"
-    width: 500
-    height: 647
+  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140226REDMackieSMIME.jpg"
+    width: 647
+    height: 450
     isCached: true
 
 related:
@@ -266,20 +266,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft Previews Contextual Settings for Azure Active Directory Conditional Access"
-    excerpt: "Microsoft this week announced a public preview release of an Azure Active Directory Conditional Access capability that lets organization trigger policies for end users based on a situation or context."
-    publishedDateTime: 2021-05-27T23:33:00Z
-    webUrl: "https://redmondmag.com/articles/2021/05/27/microsoft-azure-ad-conditional-access.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 47
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140226REDMackieSMIME.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "3Cloud Partners with Databricks to Help Companies Build Modern Data + AI Platforms in Microsoft Azure"
     excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI)."
     publishedDateTime: 2021-05-25T15:54:00Z
@@ -388,6 +374,20 @@ related:
       - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Principled Technologies Releases Study Comparing Performance of Kubernetes Clusters Running on Microsoft Azure..."
+    excerpt: "Newer D- and E-series VMs with Intel Xeon Cascade Lake processors supported more users than older VMs enabled by previous-generation Intel Xeon processors."
+    publishedDateTime: 2021-04-30T07:01:00Z
+    webUrl: "https://www.pr.com/press-release/826386"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 33
+    images:
+      - url: "https://img.pr.com/release/2104/416814/pressrelease_original_416814_1619714331.png"
+        width: 500
+        height: 647
         isCached: true
   - title: "La Liga expands Microsoft Azure partnership for OTT services and ML enhancements"
     excerpt: "La Liga, the foremost Spanish football league, has expanded its partnership with Microsoft Azure to focus on machine learning and OTT services."
@@ -551,6 +551,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "R8g/QBH+/LlwCCjPPWKo9iai1QR7meh3+xHts+aSHouGdusYWztYXz0YDVNFrKIVTGX7GO2AErD8WGbPxt4Y7IuxO4/kAFLqqz9Rl0FA6AqzKJqSvcLJyunxUKMO8CUnNYe6Z3LiGL08k5qz6wdDt4YS1Vt4eEb7hDXgsrFjavnSnmBZvk7OjQdNs5CUtVLp8qW1QVorD5qTA2QVlA7VmsKQFYT9DUjOiLfFXLFSt/CRO0TLkZhE0COON3QqSWrP70GiT6GbRoDZDlJhhB27fafP/SMgfOEjO2zJqpjcEFxW5+TguegsKB3enI4NDgwbV8/Aj+KsU2HphvOm+lz1Utg2mBgmUYCxCOEEl08VmPIjv3gkkp7uVe1XxbltKcQ8qT2UD7cWX8y5GWD3B/rKA1b+6tuwFIlCqAVSPY3H4DvuTQsbHBHtnYiIroZFPuDpaR7X6tPV/WpUtgXpFaJVNgL8OwpthYBgJMHsHsU56Tazxprq7Es/+opKKzSHn/FBg65ncah1jRAHJL2xHKypJg==;dEonrlJTAMfUAqlZQBpnxA=="
+secured: "aRmVg2EtV4bKX0gZTJPiGkeflkvgNt/BqV/qduFr+idsbMclJfMSQHJO/NoLJXtTCzMOSoe56oF5uqlU1Tc1wOAitdPeRLVTrTBAVaZBGZfte2ErC2Ewpmv+iGuIJsv4z4REuJImAHl5cR46MFL54+6k/El9xuyr5c5DIbkpYuB17Ho+j+mWTQYbWfjU/egHBbvTMlfhyLo2B/b8EfyxqNOhDrYqMmHJ3nZ7QcAC7JyIB+vaez7Q/O2OGA49m+B4ulTq4R+E+n2T63beYVgwJckULXHHX1bxBOUF0pLOMIN8u5yeExu4wfe4NhWZBV2uSyZTNHHn506qhsQJ+cs5sSRuF3RhZqw3l1rNET82SnA=;uylQ+hQHcxnifpvp1Fuz0g=="
 ---
 

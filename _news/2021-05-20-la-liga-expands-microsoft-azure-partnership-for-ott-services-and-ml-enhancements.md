@@ -265,6 +265,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Previews Contextual Settings for Azure Active Directory Conditional Access"
+    excerpt: "Microsoft this week announced a public preview release of an Azure Active Directory Conditional Access capability that lets organization trigger policies for end users based on a situation or context."
+    publishedDateTime: 2021-05-27T23:33:00Z
+    webUrl: "https://redmondmag.com/articles/2021/05/27/microsoft-azure-ad-conditional-access.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 47
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140226REDMackieSMIME.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "3Cloud Partners with Databricks to Help Companies Build Modern Data + AI Platforms in Microsoft Azure"
     excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI)."
     publishedDateTime: 2021-05-25T15:54:00Z
