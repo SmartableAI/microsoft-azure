@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/github-integration-with-
 webUrl: "https://azure.microsoft.com/en-us/updates/github-integration-with-azure-security-center-now-in-public-preview/"
 type: article
 quality: 115
-heat: 255
+heat: 256
 published: true
 
 provider:

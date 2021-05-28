@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/app-service-managed-cert
 webUrl: "https://azure.microsoft.com/en-us/updates/app-service-managed-certificates-now-generally-available/"
 type: article
 quality: 69
-heat: 89
+heat: 90
 published: true
 
 provider:
