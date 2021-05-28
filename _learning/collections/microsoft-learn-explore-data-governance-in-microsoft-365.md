@@ -4,7 +4,7 @@ excerpt: "Explore data governance in Microsoft 365"
 type: collection
 price: Free
 length: PT3H45M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn

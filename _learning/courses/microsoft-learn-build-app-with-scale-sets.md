@@ -8,7 +8,7 @@ length: PT57M
 ratings:
   count: 6534
   average: 4.7262015
-heat: 91
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "RaQAk6JWHwgyPRJkvzsiLA0sFCbbIywH6noSe22+lQCXg3kVwyM2S/DjiDyikAizksUqx/p+88SvOGeW9unCGfWm8Bm1epe60eDt9Z8P30PI70HFD0FOMGBH9yKt/B5xcAoy+4BFoeX0rLMUJjWEqBmuBchncbHY1Ktnq64E5QJmfTunLlLV+a/ywRy+BRWS94Hqmjolrqldy8q6SvXVqRiE5n1qNeSl6oy/WH3mVB0HHFO3Wkg4p//+47PA5C4Wcxc2OgdpG5wrSSaDe95cxCgEEjXzG/nNwd5pibRZLViaZHdhb53jVO9HSjKpoEibR52n2az7t54nzHp0fBns64N4rTqt8vazXmqntQ1GgxOBVigmrG8VQLTCSirXTj/DteSa85aiTElikPEtp85j7JiQGyXiP3byltkLKogAIhs=;Xwv5e6WS0auRARPyQZ4GGA=="
+secured: "DLL5vfeVzNXbF1yYRBU9E1EspSrcy3IdY/z2JNF9DPwxXyVXjbnXxtnyw2SqMkeHqw1KTMRNzOh+HK/eYY2mqmWeX0NPV379C85nJ0HcB0Mt+yjh/NNIOIC2xk/Bo1lf0NJxVYNrjaG7qf+iYLISDeymefGhoev/5ZcmeYuN2Dek38bMbFOSwIPdlN421H3/gzKmhq9tg9lCRldqcUbqYsibi5zLLMT6yBbUdBnGgWQH1fzh0Fb8dKeCpQHW/nqy5FpahfCCVhGv0G4jX96GFKE/HQJS3XhBA50Bt4MLTYLepHpwDj6uzcDffTltXcgtGPsvcz5Pq4tSahVyKnv93Flj18fmSjUsKbjzQm/V98u+GrdxvegBJ66Z9vWRxB2gnSWtcKpgVUGJIpkmswUyL6SEgcZ/Wed0aI5Xq3P/R+Q=;qtjl5Re+5yFscpT2uYJczw=="
 ---
 

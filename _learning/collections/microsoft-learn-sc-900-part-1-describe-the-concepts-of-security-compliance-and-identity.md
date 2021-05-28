@@ -4,7 +4,7 @@ excerpt: "SC-900 part 1: Describe the concepts of security, compliance, and iden
 type: collection
 price: Free
 length: PT36M
-heat: 144
+heat: 68
 
 provider:
   name: Microsoft Learn

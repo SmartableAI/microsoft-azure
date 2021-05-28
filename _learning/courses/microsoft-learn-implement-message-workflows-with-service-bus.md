@@ -8,7 +8,7 @@ length: PT54M
 ratings:
   count: 2831
   average: 4.6414695
-heat: 92
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Integration
 
-secured: "bGL4xY4pm3SELS3IIpMYAlraJtAr+bheLd+u/qMhizapGUvty3+JDt8IdPhiORcDu1iQiASBzhIFLEHSWbkAjlOFKjK9e7OK22rriVajHHC4Bmx8Ml8IAeo4JTo9LOWJta7c4u3YbbPoVWYvet4n2j6IRuN2pKBxmQtPUi7NyPlEVNO3r+KWOaEX+nFnPvmI3ouAgK83r8ElV2E3eITgnIrmsnC695TrWtk4luF1bv1CnqgH0x2pe4NYHokgOzIRCSHz3zz4eKl3AE7zt1PUH0ztT0b71APxXQcp2hoIdDKx2xA/tJQGXl5IYDgT23UmSI9ORzaj4mGpq4fzv4HVrneOi/fM/m7GyNgOkBYV18GNKDYPCdBSeYLzpcv4xDSEzVY+v+a9uAwGIcgDB40CQXPOLrBl1QVD5CaCWbEw4EQ=;kc0ldNLUOgGh1vtBHrluJQ=="
+secured: "LjJVoipbloFly7qwtJnrSX9dI7YwmSrFZPlsv7taKHKVKCAopObyHHFcqft//0th/yY5EgxtUBj37EFSD0br+GV5M2qJmZdX1lpv+LRhIb4mye/0AmCpTuF13gyKl7t3kPF85sa376v04LyBlZz7990zOJI9un9JrCciZe0cxPVqaeZjNEt1tkD9ENRbKPjv7Mwp5EryvFDHiHNQbg4UBsU76LXcd5qHlpakCBrnEgyoiYOnPQoXw97ab+d/vUVYHGbve+ZXCo5QI+yawbERE1DcqxFS8LPCB/mh5tUXa4mOYEkoQhYtCEz79udqa2OisC+GKnCm/pg1YrZWaAxFTh12TfAKNk8lFQ25GXfnlyTk4EeJKNjQUtJaD/sHso68gzHGGxmkehEDaz1Htb31Fjkx1hArnpZcWoDkrT+HvgE=;vQQWcOUIljnHCkISfETiAw=="
 ---
 

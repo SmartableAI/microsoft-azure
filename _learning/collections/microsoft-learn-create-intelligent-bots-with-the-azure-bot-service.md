@@ -4,7 +4,7 @@ excerpt: "In this learning path, find out how to build a chat bot to interact wi
 type: collection
 price: Free
 length: PT29M
-heat: 151
+heat: 69
 
 provider:
   name: Microsoft Learn

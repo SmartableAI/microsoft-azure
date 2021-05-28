@@ -8,7 +8,7 @@ length: PT26M
 ratings:
   count: 37
   average: 4.810811
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - Web
   - Developer tools
 
-secured: "/TgpM9jPaKQQj6g0eOXEa5AiWVF7kYE+JM9/6NPqHA898FRgT5qRFiIxUKnWTUBMwjVE877KsbcKhWUyy4j303iIusWp5v/AlKcAXDpwNYI2Kjijx34w6zIxZl1lbgllW7px5TJEEcBiW0rXrrj3otbg6vmNOtyO71hgLpPSjPR+kBJgVkWU3AOvcPOTooB/ac+J+imxt5qV2K4Xh4EcvZNiwAd04SSiAptq/DgMK8dnytZAW6A5GeKQ0w6nhPhqkCKtgfwPYsA5MSxd/WVOUTgqharVuCbtIRmWXuUv69JWeSbIEkWYvuMy7wNv1QS09MnP7vSbaDl0+Fa3grkYOYAWHS48m6FKSUkDDhttczyzMMJKQSdK2ZrVOX0fdDvLl9trKZ1dlHfyOv65vmVut9lpj6Ttmf43Ru7OjSQCd0U=;WnwB16FTxm3+rNmvJxYXmw=="
+secured: "XmmjsLVgfTLQp8sdgArVIDmsCXJY6mD1NAb4EDUZfXqwNg16ZRQDjGafFoalYE16xQQC4KFxgNRUlUuTAJ50oyiYarqaIfoSyLTydOXAoqiHrJQYXzxZ0XL3mUfkp4ieBG2jfHAut7ty149kCoC5Y1LqCKdjFpm8mdvp23Oi5rs51rsfzII4c++uOcgZ0qccB/oPV64PfpJnP/QUm5oTlfFO0eqffWjmITpRMGwZXVWvx7iylNJYk7Uljp7MEUIF0gY32D/FKonuFNcpOr9L/rI2dcwPkUFjB8xDuAJsREA6Zox7HQdWXjeJdTXPSdHIQ63iBOyUI5aIaUC/wUSbmqdFGWrOE/+vwA12zRMo6N9od0qOIkASBkN4GfNBXndDtGsPETQU8J30nfs1c8G6p1U6r8gYltFHmdw32eZrWT0=;I2I4yu1ubqJc+HOdJOFEcw=="
 ---
 
