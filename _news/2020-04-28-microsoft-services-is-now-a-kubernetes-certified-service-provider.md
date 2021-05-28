@@ -457,6 +457,20 @@ related:
         width: 2700
         height: 1414
         isCached: true
+  - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
+    excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
+    publishedDateTime: 2021-05-27T12:03:00Z
+    webUrl: "https://www.register-herald.com/region/magnet-forensics-leverages-microsoft-azure-to-improve-digital-investigations-via-the-cloud/article_ed58ed53-82f2-5cf1-bd8e-eca1f597168c.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 27
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Three more years: Government renews Microsoft cloud, software and services deal"
     excerpt: "The government has signed a three-year renewal for the second term of the Microsoft cloud, software and services agreement."
     publishedDateTime: 2021-05-19T00:34:00Z

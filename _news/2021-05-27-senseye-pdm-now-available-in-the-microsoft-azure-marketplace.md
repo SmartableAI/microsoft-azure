@@ -1,27 +1,26 @@
 ---
 category: news
-title: "A Close Look at Cloud-Based Machine Learning Platforms: Microsoft Azure ML, Google Vertex AI"
-excerpt: "This is the second part of the ML PaaS series where we explore Azure Machine Learning services and Google’s Vertex AI platform. We follow the same framework of classifying the features and services of these platforms into the five stages of machine learning."
-publishedDateTime: 2021-05-26T10:00:00Z
-originalUrl: "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai/"
-webUrl: "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai/"
+title: "Senseye PdM Now Available in the Microsoft Azure Marketplace"
+excerpt: "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime."
+publishedDateTime: 2021-05-27T16:14:00Z
+originalUrl: "https://www.automation.com/en-us/articles/may-2021/senseye-pdm-now-microsoft-azure-marketplace"
+webUrl: "https://www.automation.com/en-us/articles/may-2021/senseye-pdm-now-microsoft-azure-marketplace"
 type: article
-quality: 58
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: thenewstack.io
-  domain: thenewstack.io
+  name: Automation
+  domain: automation.com
 
 topics:
   - Azure
-  - AI
 
 images:
-  - url: "https://cdn.thenewstack.io/media/2021/05/cfb51125-hans-otto-theater-3873684_640.jpg"
-    width: 640
-    height: 426
+  - url: "https://www.automation.com/getmedia/022c7d46-c73c-46fa-996f-b301d9f8eb4c/Senseye-microsoft-May-27-2021-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
     isCached: true
 
 related:
@@ -36,19 +35,19 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 94
-  - title: "Senseye PdM Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime."
-    publishedDateTime: 2021-05-27T16:14:00Z
-    webUrl: "https://www.automation.com/en-us/articles/may-2021/senseye-pdm-now-microsoft-azure-marketplace"
+  - title: "A Close Look at Cloud-Based Machine Learning Platforms: Microsoft Azure ML, Google Vertex AI"
+    excerpt: "This is the second part of the ML PaaS series where we explore Azure Machine Learning services and Google’s Vertex AI platform. We follow the same framework of classifying the features and services of these platforms into the five stages of machine learning."
+    publishedDateTime: 2021-05-26T10:00:00Z
+    webUrl: "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai/"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 37
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 58
     images:
-      - url: "https://www.automation.com/getmedia/022c7d46-c73c-46fa-996f-b301d9f8eb4c/Senseye-microsoft-May-27-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://cdn.thenewstack.io/media/2021/05/cfb51125-hans-otto-theater-3873684_640.jpg"
+        width: 640
+        height: 426
         isCached: true
   - title: "Glance Networks: Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
     excerpt: "Glance Microsoft Azure customers can also credit Glance session data flowing through Azure towards their Microsoft Azure Consumption Commitment (MACC) requirements. Glance for Financial Services ..."
@@ -69,6 +68,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "pIZ7MBtwffW3fEfQWqC6rWPPKerhqB6Wkjr/4hK4+20F0MOOYkUZB2F/ItR+FV9cUuXp44iZ19FmCGA8mdO6Gm0akIlhxPpmQU+zTCd6CEwBw11hAHMfqWFrrLtM3Ogldl+F/oLbzgDs0BSpde9K2o3PYBawQQdOrMKnauYibFluY6IV7xlMS0pZkCWLpx9IEf5IVpRjCtJulNJtkk/29i7mz1yzjtcSOnvQZmLoO4Uz1n+wCOyFwyiqzoMBCqXJZf4qoq5ygJsJqMfVjzSG7KChR99ufRVVYU0bLKiOTGI6getMMl7hu7iuOEp6getwjq7O1efW2M2HaH7JiBOIs4uhJnNMIWtVBPsSHFNz0GWW3lngTOn6VDsuz+Aoia7zWyVg1g0BbWe0wmllQuvgctbY4S1wHaoopkH+39k+iIE815FbD8sWwdZXxgebdBb3qXmISBTgMkTlcLnlVSHHjRi8VHZZ8lM1mOT2iZOd4f6lxSf1tDIdpIsHumQcM86sRfJJz8eoH3SwnfsZc3KY1w==;MvRe6ZeZuk+SGwaEnlSzAw=="
+secured: "D0PTKjcD3Jhs0jHEf4oJVA4kNPOK+QKbrmFW6kKsHJyTT2EdsYfC2GMNLUjw1BFSehCA/hBoe6rPd27S72C/R6i2fGtZNDi1oXlk6DPAi6VxAeuKPSu4LeqaxCnkPJMCsfpl10R3EUgo6X55AgJNXyg3V5XKzBDT55M6Vg5rrXcefXsRowvuhAf/wd46OACQ1YcubV8VVfY0JkmWmWw/E4Df8gtwwM1uwZ466Qw+q9NhpagJlws6HvT2sqDkSvtd4y8VKFLheceWQdFl6S+8XRG1rYe9Jy9ByOE56tuDJawnemfBdiIm47bif4c5GNb+xAToKhsR8t9WjkwgYyTjoFdRIAT1Sd6bzg4xW4U5xUA=;XAJFUdouRMB9vnfqWQF/Ig=="
 ---
 

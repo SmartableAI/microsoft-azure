@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster/amp/"
 type: article
 quality: 114
-heat: 954
+heat: 974
 published: true
 
 provider:
@@ -443,6 +443,20 @@ related:
       - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
         width: 2700
         height: 1414
+        isCached: true
+  - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
+    excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
+    publishedDateTime: 2021-05-27T12:03:00Z
+    webUrl: "https://www.register-herald.com/region/magnet-forensics-leverages-microsoft-azure-to-improve-digital-investigations-via-the-cloud/article_ed58ed53-82f2-5cf1-bd8e-eca1f597168c.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 27
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
   - title: "Microsoft Services is now a Kubernetes Certified Service Provider"
     excerpt: "Modern applications are increasingly built using containers, which are microservices packaged with their dependencies and configurations. For this reason, many companies are either containerizing their existing applications or creating new complex applications that are composed of multiple containers.\r\n\r\nAs"
