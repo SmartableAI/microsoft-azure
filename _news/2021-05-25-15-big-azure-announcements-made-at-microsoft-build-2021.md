@@ -165,6 +165,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "EU bodies' use of Amazon, Microsoft cloud services faces privacy probes"
+    excerpt: "The European Commission and European Parliament's use of cloud computing services provided by Amazon (AMZN.O) and Microsoft (MSFT.O) has prompted two EU privacy investigations over concerns about the transfer of personal data to the United States."
+    publishedDateTime: 2021-05-27T07:00:00Z
+    webUrl: "https://www.reuters.com/article/eu-dataprotection-amazoncom-microsoft/update-1-eu-bodies-use-of-amazon-microsoft-cloud-services-faces-privacy-probes-idUSL5N2NE65K"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D8215"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D8215"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563631649&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q10E"
+        width: 872
+        height: 545
+        isCached: true
   - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
     excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
     publishedDateTime: 2021-05-21T21:40:00Z
@@ -573,6 +589,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "kNoMf2Z9/jKFN0A5I753sq7Y8XnYbvam/4MmOnS6a6kyBroPCCNxkuc0YfpFpVJKPXiRp2yzxrPfgOSCPB4DgNg1Om/ArMdjXBDwWK3U6XyQY2/8WZ/7SbtxMXNYBPHaqiLAO6qaQK+wVMNnLDtDsaVsGANpP8/k9cqWpgNwmB726Eiqr3BupdabLtRmRHOSLpY/Y4yWKBN+lUPE/jAWkuEtt3fDsC1WNdpMdIvOBcBcVGfWQVTeBJKpP+3atQ1nV47y19DEaM5CJUyjyBwYItVR2ANFvgLgmEWgpyRsolDfVpzmmMo+AOUNHjsrw3d2LKR1hOH0ueQAw6aDpEI1Pj/wkCP18D7XrwOCi4sCJ/I=;rsKSKjrmB6bOOK/ao5oDvw=="
+secured: "kaflMlwntiFRhgdEnRZVeLDWf1oc7fwgOjSAEsIwQJoIJQUULSw9La/kBIuGKS300NY9T6ZuHmc8lYQZtKJCnwk4cMFYWOPr/5qTBGFFHO4pV3gOssH6yfpGM+RAqs6ycF2Zv0olUDlFH1v63iPpC5fj4JocGaDlDYMfUEer9MGmgCMDweysPPdIfpumbZGNm4BD+tofP9BdgY8Mhvi3B9LxiP8rBDQxzUFd2XJYItnCrlRgrr26G0Q79A0qoZFHc0zRKdc+xBML7ezGCHVbywOdSxKkdxkIYWp/xiHAfUs1cz6V/97z+iB4rKqDCcjrSHf6jZ7Vufbwa7AE0hFv+rw5Y01EGYjm68alCjGEKCFpKp0u89GKVYXs5PifJjKqjk1QbzYRjcVtRev40XZ80J7FADV5u3+NIpauL/0NqbD/Plx37j8QMCnP5hhbxcsih0GDKIou/oU87NzXWIyL55CRibN4kmmpOSWMAwKnVqG1uLkvV1nkA89JWV+KVK4sSqCXeOimtNRUN36OHAjLug==;xBmv3jQyspTQIj2A0r33zg=="
 ---
 

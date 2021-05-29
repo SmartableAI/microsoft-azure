@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postg
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-azure-free-offer-coming-soon/"
 type: article
 quality: 96
-heat: 197
+heat: 196
 published: true
 
 provider:

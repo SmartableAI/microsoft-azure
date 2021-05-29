@@ -1,21 +1,33 @@
 ---
 category: news
-title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
-excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft (News - Alert) Azure to help public safety and justice sector organizations modernize their digital investigations."
-publishedDateTime: 2021-05-27T12:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-magnet-forensics-leverages-microsoft-azure-improve-digital-investigations-/2021/05/27/9379256.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-magnet-forensics-leverages-microsoft-azure-improve-digital-investigations-/2021/05/27/9379256.htm"
+title: "EU bodies' use of Amazon, Microsoft cloud services faces privacy probes"
+excerpt: "The European Commission and European Parliament's use of cloud computing services provided by Amazon (AMZN.O) and Microsoft (MSFT.O) has prompted two EU privacy investigations over concerns about the transfer of personal data to the United States."
+publishedDateTime: 2021-05-27T07:00:00Z
+originalUrl: "https://www.reuters.com/article/eu-dataprotection-amazoncom-microsoft/update-1-eu-bodies-use-of-amazon-microsoft-cloud-services-faces-privacy-probes-idUSL5N2NE65K"
+webUrl: "https://www.reuters.com/article/eu-dataprotection-amazoncom-microsoft/update-1-eu-bodies-use-of-amazon-microsoft-cloud-services-faces-privacy-probes-idUSL5N2NE65K"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D8215"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D8215"
 type: article
-quality: 7
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563631649&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q10E"
+    width: 872
+    height: 545
+    isCached: true
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -159,22 +171,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "EU bodies' use of Amazon, Microsoft cloud services faces privacy probes"
-    excerpt: "The European Commission and European Parliament's use of cloud computing services provided by Amazon (AMZN.O) and Microsoft (MSFT.O) has prompted two EU privacy investigations over concerns about the transfer of personal data to the United States."
-    publishedDateTime: 2021-05-27T07:00:00Z
-    webUrl: "https://www.reuters.com/article/eu-dataprotection-amazoncom-microsoft/update-1-eu-bodies-use-of-amazon-microsoft-cloud-services-faces-privacy-probes-idUSL5N2NE65K"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D8215"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D8215"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 82
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563631649&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q10E"
-        width: 872
-        height: 545
-        isCached: true
   - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
     excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
     publishedDateTime: 2021-05-21T21:40:00Z
@@ -532,6 +528,15 @@ related:
       name: Bio IT World
       domain: bio-itworld.com
     quality: 13
+  - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
+    excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft (News - Alert) Azure to help public safety and justice sector organizations modernize their digital investigations."
+    publishedDateTime: 2021-05-27T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-magnet-forensics-leverages-microsoft-azure-improve-digital-investigations-/2021/05/27/9379256.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
   - title: "Governance experts Rencore and Alight partner to offer a complete governance solution for the Microsoft Cloud"
     excerpt: "Rencore, the provider of award-winning software essential for governing Microsoft 365, announced their partnership with Microsoft technology consultants Alight. The partnership combines Rencore's"
     publishedDateTime: 2021-05-18T13:00:00Z
@@ -588,6 +593,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "thwuvpzAjLEELfX+eWSSV1szBQt/1/aaG8lWi5mdbNYU+QfX4ZzX7QALXfhcJhwxvIKfzKBVrAzs8m3DT/BmpNY6Eal5XADxOkHWzwagyqj9E7fbNlbkUsgaLIqdqkLbh/OREvvOVDFaMfpZxz13A8LDmNDpHgOhAoZtv1Q6ZhkMMV2uXp5vuw+Ryc6eWb5GISccqnKIlHkEqVcWiUEXVOhrUYib5fKJAcSU1moKdyQtj8gGeLEJ5bONLHh2YBamjVyTLWdG/8q2k4yILWLo7E/FewpV3s9H1yp/F8Xia9F3T1cGAjvwzaYJdC8gypMtAqsGqDUFcPsEYqinXRBa+zCUWpseOnx5PD7SIQTs/DM=;svEtphbcryUlmYypMaycWg=="
+secured: "r2Cy5Ibj2MJgI9HIHLI+VmGTlATjRUrB3GD/trHKjvmhUw2BMAhSNPMH/i0ILuQVZog2RtU8sbYxAQajaIvmzCQ4CNh+C7jrbk4O3RNHUMi4LrJJeRvBIX09WK9xXzTlyET4M/soypmmI6l+ua6V4eLsjWxKrbunP878iuOAvSB4C0DGRZwVTvaPE+xnTzIF7R+noZFBQvnAI/0MwvdfoioBd4tfWNntbNMnF2a0mLANYvw9u79SXbx6pQFE0MU7pJnnZBVYZTfdSm7QE/Dloxz4aF5fNEjtx57Q7xJsvQ0ZO1xCBdAiKi2rKkAnOYWj4nmsmp/+qB7CFaIBqmOSWBtas8gszuSutYOxXZmV54k=;x8JQN0Ns1aMUqH34kOo1gA=="
 ---
 
