@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-enterprise-s
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
 type: article
 quality: 94
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://www.automation.com/getmedia/022c7d46-c73c-46fa-996f-b301d9f8eb4c/Senseye-microsoft-May-27-2021-web.png?width=500&height=313&ext=.png"
         width: 500
         height: 313
+        isCached: true
+  - title: "CertsInside Microsoft AZ-104 Exam Questions Based on Newly Added Azure Exam Topics"
+    excerpt: "New topics have been added to the Microsoft Azure Administrator exam. Now the preparation must be in accordance with these new AZ-104 topics if success is the goal. CertsInside has also upgraded its Microsoft AZ-104 exam questions due to newly introduced topics."
+    publishedDateTime: 2021-05-25T21:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/certsinside-microsoft-az-104-exam-questions-based-on-newly-added-azure-exam-topics"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 31
+    images:
+      - url: "https://www.abnewswire.com/uploads/714b7324b08bf9f2053aa90badaf0310.PNG"
+        width: 600
+        height: 312
         isCached: true
   - title: "Glance Networks: Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
     excerpt: "Glance Microsoft Azure customers can also credit Glance session data flowing through Azure towards their Microsoft Azure Consumption Commitment (MACC) requirements. Glance for Financial Services ..."

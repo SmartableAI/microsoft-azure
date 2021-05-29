@@ -57,6 +57,20 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "CertsInside Microsoft AZ-104 Exam Questions Based on Newly Added Azure Exam Topics"
+    excerpt: "New topics have been added to the Microsoft Azure Administrator exam. Now the preparation must be in accordance with these new AZ-104 topics if success is the goal. CertsInside has also upgraded its Microsoft AZ-104 exam questions due to newly introduced topics."
+    publishedDateTime: 2021-05-25T21:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/certsinside-microsoft-az-104-exam-questions-based-on-newly-added-azure-exam-topics"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 31
+    images:
+      - url: "https://www.abnewswire.com/uploads/714b7324b08bf9f2053aa90badaf0310.PNG"
+        width: 600
+        height: 312
+        isCached: true
   - title: "Red Hat Brings JBoss Enterprise Application Platform to Microsoft Azure, Easing Shift to the Cloud for Traditional Java Applications"
     excerpt: "Offering enables the migration of Java applications to cloud environments Red Hat, Inc., the world's leading provider of open source solutions, today announced Red Hat JBoss Enterprise Application Platform (JBoss EAP) on Microsoft Azure,"
     publishedDateTime: 2021-05-25T10:00:00Z

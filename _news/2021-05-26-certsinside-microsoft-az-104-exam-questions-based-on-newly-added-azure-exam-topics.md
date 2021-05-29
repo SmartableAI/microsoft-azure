@@ -1,27 +1,26 @@
 ---
 category: news
-title: "A Close Look at Cloud-Based Machine Learning Platforms: Microsoft Azure ML, Google Vertex AI"
-excerpt: "This is the second part of the ML PaaS series where we explore Azure Machine Learning services and Google’s Vertex AI platform. We follow the same framework of classifying the features and services of these platforms into the five stages of machine learning."
-publishedDateTime: 2021-05-26T10:00:00Z
-originalUrl: "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai/"
-webUrl: "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai/"
+title: "CertsInside Microsoft AZ-104 Exam Questions Based on Newly Added Azure Exam Topics"
+excerpt: "New topics have been added to the Microsoft Azure Administrator exam. Now the preparation must be in accordance with these new AZ-104 topics if success is the goal. CertsInside has also upgraded its Microsoft AZ-104 exam questions due to newly introduced topics."
+publishedDateTime: 2021-05-25T21:54:00Z
+originalUrl: "https://www.digitaljournal.com/pr/certsinside-microsoft-az-104-exam-questions-based-on-newly-added-azure-exam-topics"
+webUrl: "https://www.digitaljournal.com/pr/certsinside-microsoft-az-104-exam-questions-based-on-newly-added-azure-exam-topics"
 type: article
-quality: 58
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: thenewstack.io
-  domain: thenewstack.io
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Azure
-  - AI
 
 images:
-  - url: "https://cdn.thenewstack.io/media/2021/05/cfb51125-hans-otto-theater-3873684_640.jpg"
-    width: 640
-    height: 426
+  - url: "https://www.abnewswire.com/uploads/714b7324b08bf9f2053aa90badaf0310.PNG"
+    width: 600
+    height: 312
     isCached: true
 
 related:
@@ -36,6 +35,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 94
+  - title: "A Close Look at Cloud-Based Machine Learning Platforms: Microsoft Azure ML, Google Vertex AI"
+    excerpt: "This is the second part of the ML PaaS series where we explore Azure Machine Learning services and Google’s Vertex AI platform. We follow the same framework of classifying the features and services of these platforms into the five stages of machine learning."
+    publishedDateTime: 2021-05-26T10:00:00Z
+    webUrl: "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 58
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/05/cfb51125-hans-otto-theater-3873684_640.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Senseye PdM Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime."
     publishedDateTime: 2021-05-27T16:14:00Z
@@ -49,20 +62,6 @@ related:
       - url: "https://www.automation.com/getmedia/022c7d46-c73c-46fa-996f-b301d9f8eb4c/Senseye-microsoft-May-27-2021-web.png?width=500&height=313&ext=.png"
         width: 500
         height: 313
-        isCached: true
-  - title: "CertsInside Microsoft AZ-104 Exam Questions Based on Newly Added Azure Exam Topics"
-    excerpt: "New topics have been added to the Microsoft Azure Administrator exam. Now the preparation must be in accordance with these new AZ-104 topics if success is the goal. CertsInside has also upgraded its Microsoft AZ-104 exam questions due to newly introduced topics."
-    publishedDateTime: 2021-05-25T21:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/certsinside-microsoft-az-104-exam-questions-based-on-newly-added-azure-exam-topics"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 31
-    images:
-      - url: "https://www.abnewswire.com/uploads/714b7324b08bf9f2053aa90badaf0310.PNG"
-        width: 600
-        height: 312
         isCached: true
   - title: "Glance Networks: Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
     excerpt: "Glance Microsoft Azure customers can also credit Glance session data flowing through Azure towards their Microsoft Azure Consumption Commitment (MACC) requirements. Glance for Financial Services ..."
@@ -83,6 +82,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "pIZ7MBtwffW3fEfQWqC6rWPPKerhqB6Wkjr/4hK4+20F0MOOYkUZB2F/ItR+FV9cUuXp44iZ19FmCGA8mdO6Gm0akIlhxPpmQU+zTCd6CEwBw11hAHMfqWFrrLtM3Ogldl+F/oLbzgDs0BSpde9K2o3PYBawQQdOrMKnauYibFluY6IV7xlMS0pZkCWLpx9IEf5IVpRjCtJulNJtkk/29i7mz1yzjtcSOnvQZmLoO4Uz1n+wCOyFwyiqzoMBCqXJZf4qoq5ygJsJqMfVjzSG7KChR99ufRVVYU0bLKiOTGI6getMMl7hu7iuOEp6getwjq7O1efW2M2HaH7JiBOIs4uhJnNMIWtVBPsSHFNz0GWW3lngTOn6VDsuz+Aoia7zWyVg1g0BbWe0wmllQuvgctbY4S1wHaoopkH+39k+iIE815FbD8sWwdZXxgebdBb3qXmISBTgMkTlcLnlVSHHjRi8VHZZ8lM1mOT2iZOd4f6lxSf1tDIdpIsHumQcM86sRfJJz8eoH3SwnfsZc3KY1w==;MvRe6ZeZuk+SGwaEnlSzAw=="
+secured: "RMGUC+f25A9Xii5VcVUIhfh3B5mXPmPw/uidOBmMjSGNek5QmaDE69jyl89cYdZw4atM79H/Da5KOD/ph9ZdBwNrBDjYyjmRkvU03rx94JR0dyS9SiGCBY1fKgzla42o45jO3VpAyGcQ02e1+LrPXTTh4UuydS/LFS9v1aIvIcXvB5m5FNsZt/p+UNLOJaF0WH86DSGm2OvfdBSIzOIVhb2T89261g2j1J5MjEKzhO58DGKRifAvXibVlhw9bJetoa4FQOLrNn/926CD2VJx6YlIXsb2qUh/yW8gO1qBCkaqqB+PcgO5OmVXhiqLT5HNPIi40AwHBHNrl/nLv3qZHFO52tHinQyB29UIuvtq4J0=;CU8OEPBsAiZuE17EleZLxg=="
 ---
 
