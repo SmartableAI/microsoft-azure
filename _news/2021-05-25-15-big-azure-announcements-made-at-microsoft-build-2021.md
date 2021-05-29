@@ -377,18 +377,18 @@ related:
         height: 600
         isCached: true
   - title: "Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
-    excerpt: "Banks, Digital Lenders, and Wealth Management Firms Can Now Acquire Industry-Leading Glance for Financial Services Guided CX Offering Through the Azure Marketplace WAKEFIELD, MA / ACCESSWIRE / May 25,"
-    publishedDateTime: 2021-05-25T17:00:00Z
-    webUrl: "https://www.pr-inside.com/glance-signs-isv-partner-agreement-for-microsoft-azure-marketplace-r4831717.htm"
+    excerpt: "Banks, Digital Lenders, and Wealth Management Firms Can Now Acquire Industry-Leading Glance for Financial Services Guided CX Offering Through the Azure Marketplace WAKEFIELD, MA / ACCESSWIRE / / Glance ( a leading provider of guided customer experience and visual engagement solutions that enable organizations to deepen relationships and transform digital interactions,"
+    publishedDateTime: 2021-05-25T17:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/glance-signs-isv-partner-agreement-for-microsoft-azure-marketplace"
     type: article
     provider:
-      name: PR-Inside
-      domain: pr-inside.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 37
     images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/US-AirForce-F-22-stealth-fighter-Feb-17-2016-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Microsoft Azure as Big as AWS? What New Numbers Have to Say"
     excerpt: "Microsoft Azure now is as big as Amazon Web Services, according to one research firm. Find out more in this cloud news slideshow."

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
-excerpt: "Banks, Digital Lenders, and Wealth Management Firms Can Now Acquire Industry-Leading Glance for Financial Services Guided CX Offering Through the Azure Marketplace WAKEFIELD, MA / ACCESSWIRE / May 25,"
-publishedDateTime: 2021-05-25T17:00:00Z
-originalUrl: "https://www.pr-inside.com/glance-signs-isv-partner-agreement-for-microsoft-azure-marketplace-r4831717.htm"
-webUrl: "https://www.pr-inside.com/glance-signs-isv-partner-agreement-for-microsoft-azure-marketplace-r4831717.htm"
+excerpt: "Banks, Digital Lenders, and Wealth Management Firms Can Now Acquire Industry-Leading Glance for Financial Services Guided CX Offering Through the Azure Marketplace WAKEFIELD, MA / ACCESSWIRE / / Glance ( a leading provider of guided customer experience and visual engagement solutions that enable organizations to deepen relationships and transform digital interactions,"
+publishedDateTime: 2021-05-25T17:28:00Z
+originalUrl: "https://www.digitaljournal.com/pr/glance-signs-isv-partner-agreement-for-microsoft-azure-marketplace"
+webUrl: "https://www.digitaljournal.com/pr/glance-signs-isv-partner-agreement-for-microsoft-azure-marketplace"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR-Inside
-  domain: pr-inside.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Azure
 
 images:
-  - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-    width: 1200
-    height: 628
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/US-AirForce-F-22-stealth-fighter-Feb-17-2016-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -589,6 +589,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "zVCEnmq5Ty5LT5IuipdXEyK6XYisiPh3oPGgvXurCNmPtolZuwMy9joaG79uUbwIYrVBBC4sS1NydKVrVYI8uviq1Pkb8c07mn2jyzQVlhRWTG65hIrzH28VwQmPMFQGbe0jwPd9Bu0lKxWlBpGozkqBrZ7p2uNcaE1I+YWWBQTAPV6/nA7KqNcpCyEdE9UBas3IIvfwzjMIYc2DeJH5qQ+8zchxz2xe9MoX/NDSNH+C1inm4+0iMC1tHgIVAgN1WjIoTcpXtkxlq7Fo8cuUbIj0kmNYTN1Nw8bpvjSSl8dDO7rixHAM8JkBMpYhnHKHMKW6u4UmwWeLGG49Q8D2jtVXTHZfM1YqgM/rjfBnN3s=;uTGYyd84ijzIwypbHE9VsQ=="
+secured: "kAzM4M6UdA3lyPcYHQ/FDnnDww5d97ypJ5XMhFwXeTIrk3rAATeDAFH9jhEjVsMJjLwEaXLBxHHjSBIoQw1UUflMwbBAcUyt6eiu+zo36a97k024yy6HuHoY9nB2VPsuEohZu5KK5IdcF1zTMvnzPWEyo2wDW5jUmbD2M6krEi9DBNTPeSJOOzMJlyWFVtxRnSL4h/jNRzfuruwImjYsXy5qlUFSM4Zl8d72ifH30ed6Cxl2QAVEFQOzyds7roGAroqVl4rQkXGivvyY2tm9Ew4pITe+TjzXU3hnYgJ9fX24khNBZF4nJhStZH3lADY9Ze/VyBcDtL4bfnyG815X6HZneVPYkNA2/mk21WE0a4A=;Q/cJHEGxxw3ObJq58aItoA=="
 ---
 
