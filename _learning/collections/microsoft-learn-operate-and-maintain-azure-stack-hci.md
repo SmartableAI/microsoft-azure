@@ -4,7 +4,7 @@ excerpt: "Operate and maintain Azure Stack HCI"
 type: collection
 price: Free
 length: PT3H34M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn

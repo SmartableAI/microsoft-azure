@@ -8,7 +8,7 @@ length: PT1H52M
 ratings:
   count: 3
   average: 5
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - AI
   - IoT
 
-secured: "2xkr5sqRpTNuf7IEMuNyPXMuBvT7jzZPFZU2YkjRJ2pJOGPTTCE6FLLU+gOY+rYGU2WEXDRdTzsqPlEtFF8NJC/QRZeJQ+aGFCmVmY45EhVrwsviN0eR743M6SGZlOxK5fkXOLNLi1OI8tqaWPSBuGMTnaA5eUDT1RbImj1Oxdx4oH142mkZyyCcwGDHWZZIj3MF0MHnGWUZIb7znpBvAmI0skn/cdH5EiFtexUNVn1seyqDU+CPT5cXoskBWgIi7c1uQlud0nBA0jkQa0c9DdwRpjgiB1DAKd9XYQatvrBttttjjx8qceBDdRXa3ERoPZ7FtsF7rx6EUlrHnwGwmOSTvCSoQoaQkTqpeuER8M9E/v/Z4yjwyHAtdpbLCrUxAQhZ/w1lOzHa5f0imZdaIg==;Yaw9xaiS0CQUUIr+xQihgg=="
+secured: "1gMnraD2uPcd401v5JsBa4U25uJ3zwv/9Nn11LhvE+7kZrI438e0dUBFdqHl7swb2jMUc+MBNcUnrI68tZm+afjAyVx6OYsO39zoJZmFv6+xr1C2WnWVKfEIkSegZZA/xEGPvi7qPC1SoJOG4azqvi5vn4zDDrdqsSjn2CONytB1HfUDrJGqJjRUQZYWteF1z0zSodiW2oTqBsVeE26I+lj9bxrOjV8EuaM2GUCw8CB/KR0f+1g2pG9B+kTfKwUqpjJ4FH73wZqC3MjvgUo9iEen4BXcf4myw6K8tNVMyQ7rRcJNfW9rW7sffC0+mi7L/Xu2PpEeECLvrmJm8m4+MY8tRhWENVSiBvGjXjABavKjXCOGKBwUyFip6nNWi8Oc0+CUGiJ51iOT41eF05OjvtyUTD+Xek2jb1GCqu0QpmE=;oREU/ub6CYNZcs3oWma5WQ=="
 ---
 
