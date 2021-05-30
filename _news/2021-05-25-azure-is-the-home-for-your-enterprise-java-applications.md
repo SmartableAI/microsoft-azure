@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-is-the-home-for-your-enterp
 webUrl: "https://azure.microsoft.com/blog/azure-is-the-home-for-your-enterprise-java-applications/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

@@ -2,11 +2,11 @@
 category: news
 title: "Microsoft Azure is now smarter and more powerful than ever"
 excerpt: "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as ..."
-publishedDateTime: 2021-05-25T16:11:00Z
-originalUrl: "https://www.techradar.com/au/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-webUrl: "https://www.techradar.com/au/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+publishedDateTime: 2021-05-25T16:37:00Z
+originalUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+webUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
 type: article
 quality: 97
 heat: -1
@@ -394,6 +394,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
+    excerpt: "TEL AVIV, Israel, May 26, 2021 /PRNewswire/ -- KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure ..."
+    publishedDateTime: 2021-05-26T12:12:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-301299746.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Microsoft Azure as Big as AWS? What New Numbers Have to Say"
     excerpt: "Microsoft Azure now is as big as Amazon Web Services, according to one research firm. Find out more in this cloud news slideshow."
     publishedDateTime: 2021-05-26T18:26:00Z
@@ -510,15 +524,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
-    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-05-26T12:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-microsoft-azure-marketplace-/2021/05/26/9378094.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
     publishedDateTime: 2021-05-25T18:08:00Z
@@ -593,6 +598,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "Ial4cPN5hfinbbap2Rlf/nWJ0VkwquEwdK8Iki5IDgO81OEU1Dzqn/mOvKK8KO2IUKOPCKZKCDPZ7riDaDvlKtBDApI1odeLdkLe8ZqFoNtSyoTts45tsRGckX/SwZzATaAGLAP8SgzCuiPz2WjCcYRB4d4u86t/V8DRU1iXvVE4+Ew6avuDNYVAvs4x5ZYnBqoKJzPjD6btkTe0XjhQ4biEVTXoLQH2vw6aiLOnZgth6d+xCRwP8Q2AQTRH2nBZrA8j+2DV8kNszubUaSYtBmWu3rCwyftm5OFTU6+W5pE3SdhaD91Fa5QCezZc9hThh/x/1zoL0Ay6KCyiXa+tGe4opVS2c/QRdwLKBkbByfk=;k0sQ6eqNEHOjEiS9kJhmZQ=="
+secured: "PCtfQ7LIcdj9hlF8Xdayo2GHK+bZ+AjDnD0UlwgXUeIDhL1lo1IAK2/anHWkQwyem3maWRMtJUy4XvaUq5lXOguNRIPULljDi+2WKn6is3LTrzX2J00/TMOHn+ob0P0c8kv3rt7Fjte2BsZV+ctqikALt1NI/FSFWvnQhweFWZpY+7iYlZ8N+3egyEqh7cCpKert8GkqHR4Lx/itn/T8kg/KK6mSOvyhxOUvj7DggZskgKIxyAoBt7figQemYfiNlBlM5WzFALnGUWRyLmjkHbs6DJ3o+1rANgPWFn+mBSnt56LLLUr7ZVwdlNz6bmP3avkTQ/x0WNWmJ3/qNwN+wze15gxaN1jLQC1in0sGklo=;upHpTjIWrfqsxHo4YYRtfQ=="
 ---
 

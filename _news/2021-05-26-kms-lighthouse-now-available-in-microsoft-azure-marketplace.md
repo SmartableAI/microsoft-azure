@@ -1,21 +1,27 @@
 ---
 category: news
 title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
-excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-05-26T12:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-microsoft-azure-marketplace-/2021/05/26/9378094.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-microsoft-azure-marketplace-/2021/05/26/9378094.htm"
+excerpt: "TEL AVIV, Israel, May 26, 2021 /PRNewswire/ -- KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure ..."
+publishedDateTime: 2021-05-26T12:12:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-301299746.html"
+webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-301299746.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -77,10 +83,10 @@ related:
         isCached: true
   - title: "Microsoft Azure is now smarter and more powerful than ever"
     excerpt: "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as ..."
-    publishedDateTime: 2021-05-25T16:11:00Z
-    webUrl: "https://www.techradar.com/au/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    publishedDateTime: 2021-05-25T16:37:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
     type: article
     provider:
       name: TechRadar
@@ -588,6 +594,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "auysmf3xqowaE7lIQhECmj8YZ3+oO6xmLNzn5BvIua5tnRxhh6pN5onN2z/AwU9+TWXsPBFL1HGcYnievtWj0Hpjvxu+T+lN8gSlEFsrdGDkte/PDt/0qNpijanclhYwWy+6/O6aeZ0gTuX4CNaDOklgygYKmcrXxuv6xa+bhafiHSKk7yC20bBG9ALhQ7D/K3fpU+xGHR0Vls6sLH/i4aCJC6mkW+88iOMsVJC+0eVwaM7ItzKmpd1bwpVqtPg5zQ+etJrd/J+1Jb91qQxr5I2z/5+EhZ3akrRXQx8wOmlBJ5Ngl4Yvt6Q8SAIzhEGqkTREnJcR3Xro/D96ovANMP2CcZlCB2sAWouX0Gdc3A8=;RbeMQB2/uYKWwHrw5xcKiA=="
+secured: "/BdZa506umLGIOzZFAgdcJVj9g54fyGEf/51FQTNwHEm8DgyM7ObVb1fgB/U5C6MZ10ZXWk27Esfgh6pwqytaDzM9Nwo/HOGqWwMaA8CqpiGKUVtYFU8NE9wEMU/RCLP/WstyuisILNBN25keFqqaQzSVlrrmoi2LsjiOF3knXpDHp0tKkxpuPeelhmbFzAn01vYPPqBkGjwArKkIqrJoGgORYT7Rr8ORasgO9cQC6wWYB6IWTWuokegU7DuUarfpdUM0/D6e2ETStT96OmNXOktShWDTNS4mXg5NsYYMONSFlAbfptkR8pQiA7RkVOU49TLAgTOpqj2YtxYQyazqqAz1gdgyaH94liTOxgBqJg=;HgZmb5aI/j5s7fS+Omy0Yg=="
 ---
 
