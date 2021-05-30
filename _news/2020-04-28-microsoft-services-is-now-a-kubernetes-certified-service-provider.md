@@ -185,6 +185,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "EU bodies' use of Amazon, Microsoft cloud services faces privacy probes"
+    excerpt: "The European Commission and European Parliament's use of cloud computing services provided by Amazon (AMZN.O) and Microsoft (MSFT.O) has prompted two EU privacy investigations over concerns about the transfer of personal data to the United States."
+    publishedDateTime: 2021-05-27T07:00:00Z
+    webUrl: "https://www.reuters.com/article/eu-dataprotection-amazoncom-microsoft/update-1-eu-bodies-use-of-amazon-microsoft-cloud-services-faces-privacy-probes-idUSL5N2NE65K"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D8215"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D8215"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563631649&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q10E"
+        width: 872
+        height: 545
+        isCached: true
   - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
     excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
     publishedDateTime: 2021-05-21T21:40:00Z
@@ -315,15 +331,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "EU Bodies' Use of Amazon, Microsoft Cloud Services Faces Privacy Probes"
-    excerpt: "The European Commission and European Parliament's use of cloud computing services provided by Amazon and Microsoft has prompted two EU privacy investigations over concerns about the transfer of personal data to the United States."
-    publishedDateTime: 2021-05-27T16:37:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-27/eu-privacy-watchdog-to-investigate-eu-institutions-use-of-amazon-microsoft-cloud-services"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 42
   - title: "3Cloud Partners with Databricks to Help Companies Build Modern Data + AI Platforms in Microsoft Azure"
     excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI)."
     publishedDateTime: 2021-05-25T15:54:00Z
