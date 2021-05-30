@@ -8,7 +8,7 @@ length: PT52M
 ratings:
   count: 8
   average: 4.375
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "gjy/Fe48tZVhw3AUvSaf/JgwRaHETHrntOhZjuQuXX/dOr4JSaJjOFYM4pU8oxe4L9hJlr9lA1kOOCA5OxTqK2Gl3zbotrofrjls04J56BOFrXIkNL/SznelMzvrWiEfMUmpXAjACCbxUNlx48stshjxFhWGzL6HuD8arSzWjwUQx0fc80AaXcxIUiVq/Z2UHyrErGfyJjDfLZeSH+pjI3C59PJtrk9td/U66tZKUQaZ+G7fdeLvqRNi46+4tjppj5vLaQVnpWfxuZ6rKXfUVZglQ+u5OyrsolUvxJvwY6jxm+Qbd4WUjkqfqdLDG8dQS4ns7MIpZ+GnEywXllJdzNRK0X43IqNPQZbMIcxwEoGWrYHCClgzTJB4T/6LGSsAC5JHAg+09Y/qCQuXvQqTulA4Ky7fuPo73Zz+LalPiCc=;alVU3JnHmBkvPwZbIFvqMw=="
+secured: "fJ7rhATlsgXqrLwCgz/L13rm/ezct0KqtjC7mSRBylL5mClJStSitRB71lm1f/18RMv4BjaV0tRO/aUBC/bvb13mF6AY/aewHwJU1ZICrAJuQPKhZd72bK3uKv2bOfpN+LRY+hauco+ROOf3a1Qp812Amg9s5f6S4exS918W2VTgc/32FiXGR0bJJC7QXav0jDWkSl/A3ukZ3sPGvjJbmisxJQWJBjTuM+VU8tBnZc5ayodnIMzzMnPAo27eoKbWAAePqJD7OcR7ykGAmF9CgNXkgpL7jDYQx3KuGy+JO3TgW1ChyKPTMl846+9B3pmb+quZzz/h0T93flKEGB2X6fdMmx7bmO1MnUVrzSN3S35cwPBBYpfOvP6j1kqeJUy4qlBPeQiAJYYNUGVb4mn1fREcvjfeAg/GuTrWLmQ14mE=;kHpQjDuZVb7trAYWPglEpg=="
 ---
 
