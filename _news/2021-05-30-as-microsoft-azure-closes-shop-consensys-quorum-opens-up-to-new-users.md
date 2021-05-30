@@ -1,26 +1,28 @@
 ---
 category: news
-title: "La Liga expands Microsoft Azure partnership for OTT services and ML enhancements"
-excerpt: "La Liga, the foremost Spanish football league, has expanded its partnership with Microsoft Azure to focus on machine learning and OTT services."
-publishedDateTime: 2021-05-20T15:09:00Z
-originalUrl: "https://cloudcomputing-news.net/news/2021/may/20/la-liga-expands-microsoft-azure-partnership-for-ott-services-and-ml-enhancements/"
-webUrl: "https://cloudcomputing-news.net/news/2021/may/20/la-liga-expands-microsoft-azure-partnership-for-ott-services-and-ml-enhancements/"
+title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
+excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
+publishedDateTime: 2021-05-30T11:47:00Z
+originalUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users"
+webUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users"
+ampWebUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
+cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
 type: article
-quality: 32
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Cloud Computing
-  domain: cloudcomputing-news.net
+  name: CoinTelegraph
+  domain: cointelegraph.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/tim-roosjen-jLUSUUUbZeE-unsplash.jpg"
-    width: 1920
-    height: 1292
+  - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvNjMzOWFlOGMtYTg5Yy00YjRmLWIxYjUtZWUzNDMyMzQwNTc0LmpwZw==.jpg"
+    width: 740
+    height: 493
     isCached: true
 
 related:
@@ -237,22 +239,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 57
-  - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
-    excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
-    publishedDateTime: 2021-05-30T11:47:00Z
-    webUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users"
-    ampWebUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 57
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvNjMzOWFlOGMtYTg5Yy00YjRmLWIxYjUtZWUzNDMyMzQwNTc0LmpwZw==.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "Azure Arc Manages Kubernetes Clusters Anywhere, Brings ML on Premises"
     excerpt: "At the virtual version of its Ignite developers’ conference Tuesday, Microsoft released into general availability a key function of Azure Arc that gives the service something resembling a genuine purpose: the ability to manage ordinary Kubernetes ..."
     publishedDateTime: 2021-03-05T18:29:00Z
@@ -471,6 +457,20 @@ related:
         width: 500
         height: 647
         isCached: true
+  - title: "La Liga expands Microsoft Azure partnership for OTT services and ML enhancements"
+    excerpt: "La Liga, the foremost Spanish football league, has expanded its partnership with Microsoft Azure to focus on machine learning and OTT services."
+    publishedDateTime: 2021-05-20T15:09:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/may/20/la-liga-expands-microsoft-azure-partnership-for-ott-services-and-ml-enhancements/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 32
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/tim-roosjen-jLUSUUUbZeE-unsplash.jpg"
+        width: 1920
+        height: 1292
+        isCached: true
   - title: "GlobalLogic Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
     excerpt: "GlobalLogic Inc., a leader in Digital Product Engineering, today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge,"
     publishedDateTime: 2021-05-05T12:30:00Z
@@ -619,6 +619,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "aW3/hGzFcbdokqdXIhsDaseSifFVM2hIIRpcCgD4mnalJXTAyZRjqhotrOt/LGgxiIHGncTeH6HLvyLUvZPVNIOJDgYdj1Sw3IJdQbDjY/z1pS90IylpEPDDKEyVeGm9nqmyOG6B5kcALBAKy4aP9e29ryJaxgCNE8H/uNfQwUgWbefJ9ObOy+ZXQUFGUdllcBn36L30AWTyO3rRFVHzswnNX9jqqjcIOky5pKJp+0GqcBfnT1yNbOMV6BkfDTV1AZRz2sFi1hJ31H/ChO2YL0NShhfWHf8owmGo3j5UprYImCcy6Y9QLRfz9XOyGbyLmpDyntKO2OtZH9NbuxlJ6G3GlaJwaDQbaBDKe2UvDoU=;KacpIYT5PPuJN3helasIdg=="
+secured: "M4q5dHKJ+Dh/GmiGcv8taCv7qZoV143vQS5BUF6ynq0WSDueTskyXC9KRNe6YjH5hEwaJd9MIO/FjxVpRGl6wEeeUsPrHVokIUL4OECcFtngTMts7TLUBjRXb96X/p8fFZkhxW1gDYDByVpTCowUO8WA0t+PTUztB6VP6mzRIu8ehNZVh196Shx7e5w9sqmf/L8a9XCHH8UCzTHWdjN6dKLydRKiLjKC++YStMAqUZsqJZK9yvXrVLsSOS3RJH3baVJIJjqyHma6mIsoAm6QoxbzfWwVE1bTTJD/OS4XwQ/W+G7I45O8d6gra0RutMXPxTjkuYSLawEh/1eoV9zenK5xAQ2TBnYf1PR4GQLI+IM=;rahtcW4ygIg8gv5iVg/9mQ=="
 ---
 

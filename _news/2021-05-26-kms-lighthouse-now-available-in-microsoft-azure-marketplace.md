@@ -237,6 +237,22 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 57
+  - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
+    excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
+    publishedDateTime: 2021-05-30T11:47:00Z
+    webUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users"
+    ampWebUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 57
+    images:
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvNjMzOWFlOGMtYTg5Yy00YjRmLWIxYjUtZWUzNDMyMzQwNTc0LmpwZw==.jpg"
+        width: 740
+        height: 493
+        isCached: true
   - title: "Azure Arc Manages Kubernetes Clusters Anywhere, Brings ML on Premises"
     excerpt: "At the virtual version of its Ignite developers’ conference Tuesday, Microsoft released into general availability a key function of Azure Arc that gives the service something resembling a genuine purpose: the ability to manage ordinary Kubernetes ..."
     publishedDateTime: 2021-03-05T18:29:00Z
@@ -386,9 +402,9 @@ related:
         height: 600
         isCached: true
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
-    excerpt: "The three-day Microsoft Build 2021 developers conference started virtually today with the No. 2 cloud provider introducing a slew of updates to its Azure cloud computing capabilities. Azure ..."
-    publishedDateTime: 2021-05-25T15:16:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021"
+    excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
+    publishedDateTime: 2021-05-25T15:00:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/12"
     type: article
     provider:
       name: CRN
@@ -603,6 +619,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "xzYQeaNz4ap6KEiYWTZzuMw5jbmtB8rBnxP2tzhMxnutXRbLlzP3jtTt/7CnQLs6IwEg40IdPW5oFagU/OejkkKcEFiNqXEQJ558NmXrwoAth9KqiVUNRAyVyTRnde8+xP13Spnzq5H+DC8vu9R/NyatUJ9t8MJOFsphw8tNIttcRoiqRV4v1kEoInTDE2nvyJIMSkDEp/9cSE8EDn5mqipcLKcpSWICNrVRq7TdPx0UEUE4TPk2zaOhU5AAzxmaexvAumOFpcIztOE6+EkMhE8TdDUsUKtTRZ8P7ic8bipSRdF1QXK8+H9hPegvyvJ5XVZPNzwE61X2Y0+4ib+UpaTZ3nbfRp3CNhUHu0hkgz4=;z2SGU+wod1hY/pBvm3kb2w=="
+secured: "k9xLuWkN/1N3RWbEXFFb2Z0N53I/RTezv1OPE991NRAjfZlAKH/LdyaUWz5QGnGQBraywxMyPJKAzIQ17bC+Cn5NB/iGSyVzqZTvcDKh1OA2hbH8jkv/VkIV5HVjvnPd1LkSKUQRBLM9zfiBCuvB6eByyvXurpY/xbMEqG31EZQ/tgIxm8/YTdZKBt0w0Jh3YMbEe8q60cN8l3JK3sQUfGEJYk/oF9FF8qsyjW22PKTYb615smug7VK+lZXzgTVl2P2IqODLQTBPGsUgIRlKUvuxZlGOQ1pmn2f2+IbDT8QqzHhKk0p7TeMjwD0uXNT+NaEWZNobgs/Ng929saS1lBh5I+FqWPlGcUHWbb+zHhQ=;elIUfoKAppnYUcI1d0eJiQ=="
 ---
 

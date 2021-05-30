@@ -1,10 +1,10 @@
 ---
 category: news
 title: "15 Big Azure Announcements Made At Microsoft Build 2021"
-excerpt: "The three-day Microsoft Build 2021 developers conference started virtually today with the No. 2 cloud provider introducing a slew of updates to its Azure cloud computing capabilities. Azure ..."
-publishedDateTime: 2021-05-25T15:16:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021"
+excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
+publishedDateTime: 2021-05-25T15:00:00Z
+originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/12"
+webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/12"
 type: article
 quality: 37
 heat: -1
@@ -237,6 +237,22 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 57
+  - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
+    excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
+    publishedDateTime: 2021-05-30T11:47:00Z
+    webUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users"
+    ampWebUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 57
+    images:
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvNjMzOWFlOGMtYTg5Yy00YjRmLWIxYjUtZWUzNDMyMzQwNTc0LmpwZw==.jpg"
+        width: 740
+        height: 493
+        isCached: true
   - title: "Azure Arc Manages Kubernetes Clusters Anywhere, Brings ML on Premises"
     excerpt: "At the virtual version of its Ignite developers’ conference Tuesday, Microsoft released into general availability a key function of Azure Arc that gives the service something resembling a genuine purpose: the ability to manage ordinary Kubernetes ..."
     publishedDateTime: 2021-03-05T18:29:00Z
@@ -603,6 +619,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "AEN843fvlr1AX2zJvz098HUMb2xh5CpQGui8bP0dDysLHddL67xYV0BW5rq4wv8gV92X5GY8ddGBkjDHv7+k78ZzwR1SIDajF2r3qTWYZUQkTOJolqtWIYkGAhuQ5em2/gmqpUim1VJSURAdwlvhv23ENH8n8168NmDRveNUWPX7SfIynVYqCOopyv3W/yXEZ0jlo3j50UAs6jGDJ3RSCFAupl2IlN+LnC38qibgiSrtKDmgD1Iy24tpKHS1/92kas2KYhPlfr9SHEm0TlTpOIovm4YgAuJE4H5pDfJs4SzuX/5Kz3eRcQkZN/bwTTD5WPHhVJqcfN2S/wVKe5riLvPWIfs+Fm4UCZ7a5UhnbLk=;9RAi5SOGfLbrvIYTuJ81KQ=="
+secured: "29Co0YGR+t3eHTOSP4xYZohLseZUKVB/FgQ7LxpWjyzwUe4L0ifVQR6rtv2kOsS3n3YblULpZk7KeBNNfQcIJ5vEHp8zI96+CBGGnhtXk5EtPVZVqVLxrhXbDTrRNheZ92viVmYYHoKOG2Qs8jHfMk8mhBhcjrp8TIAQ/YhNoIn0DCSJv+mDb3X2UkL71W99fus2GXTr/ME1rSzjfkUoqnWd1ZAkVlghszE2VNXZ2VpJXDW+9b9iyUBJBzapB3euP/YcSIh33BYO9UoLcA7c9TJPY3WmZcgFiNU7F6AjRlKSmYIN+8qEfXnJGo+p3BW4iI/iw/2kI/WkHX2jpflzryX1SLG4wQ2J9F3BCBYQuP4=;i4QARpTWDUgPwyRbLN2yrw=="
 ---
 
