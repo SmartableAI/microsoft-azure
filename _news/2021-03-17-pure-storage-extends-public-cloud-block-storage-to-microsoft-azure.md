@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/pure-storage-extends-public
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
 type: article
 quality: 114
-heat: 3014
+heat: 3034
 published: true
 
 provider:
@@ -1418,6 +1418,20 @@ related:
       - url: "https://www.checkpoint.com/wp-content/uploads/infinity_architecture-feature-image.png"
         width: 352
         height: 332
+        isCached: true
+  - title: "Microsoft and Elastic Partner to Offer Elastic Stack on Azure"
+    excerpt: "Microsoft and Elastic have recently announced Elastic on Azure, a preview service that offers managed Elastic, Logstash, and Kibana to search, analyze, and visualize data in real time on Azure."
+    publishedDateTime: 2021-05-30T06:47:00Z
+    webUrl: "https://www.infoq.com/news/2021/05/azure-elastic-stack/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2021/05/azure-elastic-stack/en/resources/11afb6ffe-56f4-48ee-b800-940178032fcb-1622313479776.jpg"
+        width: 1462
+        height: 1056
         isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"

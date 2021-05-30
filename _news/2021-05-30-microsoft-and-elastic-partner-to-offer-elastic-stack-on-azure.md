@@ -1,25 +1,27 @@
 ---
 category: news
-title: "IFI Techsolutions, a Microsoft Managed Partner, expands in United Kingdom to provide Microsoft cloud solutions"
-excerpt: "IFI Techsolutions ( a Microsoft managed Cloud Solutions Partner in India has expanded its global footprint with an office in United Kingdom. This expansion will also help them cater to customers in Europe."
-publishedDateTime: 2021-03-18T10:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ifi-techsolutions-a-microsoft-managed-partner-expands-in-united-kingdom-to-provide-microsoft-cloud-solutions-1030222970"
-webUrl: "https://markets.businessinsider.com/news/stocks/ifi-techsolutions-a-microsoft-managed-partner-expands-in-united-kingdom-to-provide-microsoft-cloud-solutions-1030222970"
+title: "Microsoft and Elastic Partner to Offer Elastic Stack on Azure"
+excerpt: "Microsoft and Elastic have recently announced Elastic on Azure, a preview service that offers managed Elastic, Logstash, and Kibana to search, analyze, and visualize data in real time on Azure."
+publishedDateTime: 2021-05-30T06:47:00Z
+originalUrl: "https://www.infoq.com/news/2021/05/azure-elastic-stack/"
+webUrl: "https://www.infoq.com/news/2021/05/azure-elastic-stack/"
 type: article
-quality: 22
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://res.infoq.com/news/2021/05/azure-elastic-stack/en/resources/11afb6ffe-56f4-48ee-b800-940178032fcb-1622313479776.jpg"
+    width: 1462
+    height: 1056
+    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -1426,20 +1428,6 @@ related:
         width: 352
         height: 332
         isCached: true
-  - title: "Microsoft and Elastic Partner to Offer Elastic Stack on Azure"
-    excerpt: "Microsoft and Elastic have recently announced Elastic on Azure, a preview service that offers managed Elastic, Logstash, and Kibana to search, analyze, and visualize data in real time on Azure."
-    publishedDateTime: 2021-05-30T06:47:00Z
-    webUrl: "https://www.infoq.com/news/2021/05/azure-elastic-stack/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 37
-    images:
-      - url: "https://res.infoq.com/news/2021/05/azure-elastic-stack/en/resources/11afb6ffe-56f4-48ee-b800-940178032fcb-1622313479776.jpg"
-        width: 1462
-        height: 1056
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -1776,6 +1764,15 @@ related:
         width: 960
         height: 720
         isCached: true
+  - title: "IFI Techsolutions, a Microsoft Managed Partner, expands in United Kingdom to provide Microsoft cloud solutions"
+    excerpt: "IFI Techsolutions ( a Microsoft managed Cloud Solutions Partner in India has expanded its global footprint with an office in United Kingdom. This expansion will also help them cater to customers in Europe."
+    publishedDateTime: 2021-03-18T10:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ifi-techsolutions-a-microsoft-managed-partner-expands-in-united-kingdom-to-provide-microsoft-cloud-solutions-1030222970"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
   - title: "Microsoft Cloud expected to generate $27bn revenues by 2024 in UAE: report"
     excerpt: "Microsoft, its partners and cloud-using customers could generate new revenues that could reach around $27 billion over the next four years in the UAE. This cloud ecosystem is also expected to propel the UAE economy upwards from the 2020 level, creating ..."
     publishedDateTime: 2021-03-14T11:32:00Z
@@ -2002,6 +1999,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "nri/vZcgomhJZFP1jW/nqH8oLGRzW5J9texgdnU4VyalvsGbJkN/qXQZWRQpC1y3qzpBf9MVRWZusEqIh53IW8eZ+7olUZ/Zv2A86qWhiOzzs5UB7dwR5w4aW/F3QLhmTnpdwyq/C91z0hPdWoCzZoxxG+8bVXhcjibLuwCBsI5BML13ZvDEVhZeFU2IW3bCXmRSZ/3BLmGJSvWSGJz5fPQ8cOyJi6ALEmR7/D9/ZcV/5JZrDLwScBQRXFy32B5Hi0WK0ZIQ9gGrVOxdSgUV3wVK7ez1JpL1Sbv80nMygQI/SUKfH2XzIGz2fVyl95Lf6HxYOnkEyLnarKpuwAwqfsPE0gT8YTeuCRc4jkDgfv4=;dPlwqQg7VGqcIZHC3NwoOg=="
+secured: "ntLxadnRn4A9+EidlUUHADrdaFeOSsyhoFI/62Shy0XVuMUQZUX1aA8F3s3vCRDuvRvkOhpwmpUYli0a2cj0OOv6sDCEqepu/ZRp9z/P4a9T3K6cycTpczqoVVqN4ZQqdz7f1JrxYS2e9xyVxnoi43GcIgFa0LcE8NB5bEEwXoIFnmQuo5IMjAMK+VkWyZ0EdQSFv6zL2EMhLxOytFiNkOgmBmTwpciz3Fur7SGw7OjY7CtYi/B8RQCCJhL/0GRYsh1iPMfdwm96LzEEs8+jVuzenMpbq9Dv7iuns1upatZfHUxvmf9wnWqCuMMWBgnF9JDYfqAUUEtGNLPIY/FAKk9cma8n3PYzh3nbW5pRKuI=;9U3oe77S+k2h0rdGB0YGrQ=="
 ---
 

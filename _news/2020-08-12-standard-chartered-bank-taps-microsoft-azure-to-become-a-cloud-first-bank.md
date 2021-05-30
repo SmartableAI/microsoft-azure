@@ -1423,6 +1423,20 @@ related:
         width: 352
         height: 332
         isCached: true
+  - title: "Microsoft and Elastic Partner to Offer Elastic Stack on Azure"
+    excerpt: "Microsoft and Elastic have recently announced Elastic on Azure, a preview service that offers managed Elastic, Logstash, and Kibana to search, analyze, and visualize data in real time on Azure."
+    publishedDateTime: 2021-05-30T06:47:00Z
+    webUrl: "https://www.infoq.com/news/2021/05/azure-elastic-stack/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2021/05/azure-elastic-stack/en/resources/11afb6ffe-56f4-48ee-b800-940178032fcb-1622313479776.jpg"
+        width: 1462
+        height: 1056
+        isCached: true
   - title: "Standard Chartered to Adopt Microsoft Azure to Become a Cloud-first Bank"
     excerpt: "Standard Chartered Bank and Microsoft have announced a three-year strategic partnership to accelerate the bank’s digital"
     publishedDateTime: 2020-08-18T00:39:00Z
