@@ -1,10 +1,10 @@
 ---
 category: news
 title: "15 Big Azure Announcements Made At Microsoft Build 2021"
-excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
-publishedDateTime: 2021-05-25T15:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/12"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/12"
+excerpt: "The three-day Microsoft Build 2021 developers conference started virtually today with the No. 2 cloud provider introducing a slew of updates to its Azure cloud computing capabilities. Azure ..."
+publishedDateTime: 2021-05-25T15:16:00Z
+originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021"
+webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021"
 type: article
 quality: 37
 heat: -1
@@ -603,6 +603,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "kaflMlwntiFRhgdEnRZVeLDWf1oc7fwgOjSAEsIwQJoIJQUULSw9La/kBIuGKS300NY9T6ZuHmc8lYQZtKJCnwk4cMFYWOPr/5qTBGFFHO4pV3gOssH6yfpGM+RAqs6ycF2Zv0olUDlFH1v63iPpC5fj4JocGaDlDYMfUEer9MGmgCMDweysPPdIfpumbZGNm4BD+tofP9BdgY8Mhvi3B9LxiP8rBDQxzUFd2XJYItnCrlRgrr26G0Q79A0qoZFHc0zRKdc+xBML7ezGCHVbywOdSxKkdxkIYWp/xiHAfUs1cz6V/97z+iB4rKqDCcjrSHf6jZ7Vufbwa7AE0hFv+rw5Y01EGYjm68alCjGEKCFpKp0u89GKVYXs5PifJjKqjk1QbzYRjcVtRev40XZ80J7FADV5u3+NIpauL/0NqbD/Plx37j8QMCnP5hhbxcsih0GDKIou/oU87NzXWIyL55CRibN4kmmpOSWMAwKnVqG1uLkvV1nkA89JWV+KVK4sSqCXeOimtNRUN36OHAjLug==;xBmv3jQyspTQIj2A0r33zg=="
+secured: "1nNfGGRIGkdT+lcpzJd2WR35s+rPh98uxAMVfKREOpFefIwEjKVLXvr8aP7D4KfiwpK4QDXUnbtu8yZ3fnW+hfcn2/LfmIDz133KGbTc+iL+bVRlBrAf2/ml9o0YsTY+G0Sn0z5HWBr2eoXH/D7Hv+kTdOW53TKbnM9SJdQQ1tomv4tw7hA4HR3QSDShm/+mVnXhPtMcn1aCcT99inymTMqPcmS+jbaIiZPbn/LfF8Du2F6VjFQe8J553lRu07Mz1kOASk8oihwNp9rU8sVSZAi+YlAG29Mzp6bFph31ilgYT+DcJxbjoW4icolWlk6tZqfnJfOTEot0aulV9zKfT8fZ/p7U0taDgNcaGd7YBdc=;BFzbNWeZ/J28kMFq35rx3A=="
 ---
 
