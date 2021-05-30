@@ -1,26 +1,32 @@
 ---
 category: news
-title: "15 Big Azure Announcements Made At Microsoft Build 2021"
-excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
-publishedDateTime: 2021-05-25T15:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/12"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/12"
+title: "Microsoft Build- New Windows, Enhanced Arm Support, And Adds Azure Features"
+excerpt: "Ranked Industry Analyst Patrick Moorhead dives deeper Microsoft’s annual Build conference for software developers wraps up this week."
+publishedDateTime: 2021-05-28T18:35:00Z
+originalUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/"
+webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/"
+ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
 type: article
-quality: 37
+quality: 95
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.crn.com/resources/0269-125c74ee81ff-25ae23038fad-1000/microsoft-azure-sign-2.jpg"
-    width: 500
-    height: 375
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b136683a6f0c989b5f6bbe%2F0x0.png"
+    width: 1199
+    height: 671
     isCached: true
 
 related:
@@ -131,22 +137,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 96
-  - title: "Microsoft Build- New Windows, Enhanced Arm Support, And Adds Azure Features"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead dives deeper Microsoft’s annual Build conference for software developers wraps up this week."
-    publishedDateTime: 2021-05-28T18:35:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 95
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b136683a6f0c989b5f6bbe%2F0x0.png"
-        width: 1199
-        height: 671
-        isCached: true
   - title: "Microsoft Azure: This new tool makes it easier to manage virtual machines in the cloud"
     excerpt: "Microsoft's automated system management tools help businesses keep their Azure virtual infrastructures secure."
     publishedDateTime: 2021-05-20T10:30:00Z
@@ -392,6 +382,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
+    excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
+    publishedDateTime: 2021-05-25T15:00:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/12"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0269-125c74ee81ff-25ae23038fad-1000/microsoft-azure-sign-2.jpg"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
     excerpt: "Banks, Digital Lenders, and Wealth Management Firms Can Now Acquire Industry-Leading Glance for Financial Services Guided CX Offering Through the Azure Marketplace WAKEFIELD, MA / ACCESSWIRE / / Glance ( a leading provider of guided customer experience and visual engagement solutions that enable organizations to deepen relationships and transform digital interactions,"
     publishedDateTime: 2021-05-25T17:28:00Z
@@ -610,6 +614,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "kaflMlwntiFRhgdEnRZVeLDWf1oc7fwgOjSAEsIwQJoIJQUULSw9La/kBIuGKS300NY9T6ZuHmc8lYQZtKJCnwk4cMFYWOPr/5qTBGFFHO4pV3gOssH6yfpGM+RAqs6ycF2Zv0olUDlFH1v63iPpC5fj4JocGaDlDYMfUEer9MGmgCMDweysPPdIfpumbZGNm4BD+tofP9BdgY8Mhvi3B9LxiP8rBDQxzUFd2XJYItnCrlRgrr26G0Q79A0qoZFHc0zRKdc+xBML7ezGCHVbywOdSxKkdxkIYWp/xiHAfUs1cz6V/97z+iB4rKqDCcjrSHf6jZ7Vufbwa7AE0hFv+rw5Y01EGYjm68alCjGEKCFpKp0u89GKVYXs5PifJjKqjk1QbzYRjcVtRev40XZ80J7FADV5u3+NIpauL/0NqbD/Plx37j8QMCnP5hhbxcsih0GDKIou/oU87NzXWIyL55CRibN4kmmpOSWMAwKnVqG1uLkvV1nkA89JWV+KVK4sSqCXeOimtNRUN36OHAjLug==;xBmv3jQyspTQIj2A0r33zg=="
+secured: "l7bFml1luO1bVkRCwd+GjzBbwn9sRxT55ExBza49KH509p8XqWYyGnSm+4+dml6avULcHyjxEB6HmWuvc2Zg73dOYlCU/dpMXIeI7P0xnfH5yTOBkG35kvZMXNwc5L97sufLHqt+rsWHZ6pnpdwHerWfNT28ZerSdnVYnhjnih5KucM2X2H2uddhZH37YkOVN09ztzuQan20H4RDTl5hqt0S9JbUcNrMN5Wx95W2nXxaAz9+vcgz5U0SAR1cZ1ZWsooTr58d+NpalaODL3/6qGzL5pYtfa+E/kbkKEmBoW0E4Rzhdp2cH9stPyGWHCedKD5cZREpqbUHGqlWs7TnQsFjZY3DoD69BoELls3yPos=;kEWRrZ9j5yHdQyPlwQLiDQ=="
 ---
 

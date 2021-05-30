@@ -137,6 +137,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 96
+  - title: "Microsoft Build- New Windows, Enhanced Arm Support, And Adds Azure Features"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead dives deeper Microsoft’s annual Build conference for software developers wraps up this week."
+    publishedDateTime: 2021-05-28T18:35:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 95
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b136683a6f0c989b5f6bbe%2F0x0.png"
+        width: 1199
+        height: 671
+        isCached: true
   - title: "Azure Applied AI Services public preview updates for Build 2021"
     excerpt: "Azure AI is introducing a new category of services called Azure Applied AI Services. These services accelerate time-to-value in building AI solutions for common business processes. Within this category, Azure Video Analyzer is now in public preview. The service brings Live Video Analytics and Video Indexer"
     publishedDateTime: 2021-05-25T16:00:27Z

@@ -131,6 +131,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 96
+  - title: "Microsoft Build- New Windows, Enhanced Arm Support, And Adds Azure Features"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead dives deeper Microsoft’s annual Build conference for software developers wraps up this week."
+    publishedDateTime: 2021-05-28T18:35:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 95
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b136683a6f0c989b5f6bbe%2F0x0.png"
+        width: 1199
+        height: 671
+        isCached: true
   - title: "Microsoft Azure: This new tool makes it easier to manage virtual machines in the cloud"
     excerpt: "Microsoft's automated system management tools help businesses keep their Azure virtual infrastructures secure."
     publishedDateTime: 2021-05-20T10:30:00Z
@@ -594,6 +610,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "l8nTWBWbQ95K2XlydmNefI2s3/u64AopUGSz7IwqEopxkMSEk2FBPDQ2ZZbu2cAZAOtKeCXgK4CsAUWyvnK87t4L5YDEICrf2/mKIjsFNI45NZ0xposDJWrK9ytfWxQcVDO/oUot0BlavsApyCBzyZca05kZmnsBknnGM4v0O3tjWCNGdaoQVvd1nkzCoHrFKd0S1nIfDUDku0PwJEoSNtdtqaUyuaD3cvk12as5D4PzqTK2Hj4cI754qsndkJgQoPG5tC8i88OmvRzUuYw2phEm5YdNfH/FPijzH//cctCiqrZ4HnyrNu9s6lGLhEZUKgLaebWMKQAEHguOUambk9muGXzuiCWCJ7330Mnl2q4=;wRIybMcpQUn0M6zswdVISg=="
+secured: "HuIAxm7//LRpp0+7au//bj2QJFJKDnu7fTuQ9SsmehDZaZjzj32DBqcRxuM3Vda/pdW/5WYwniYcn6oNDClxBZ5yLq4DO9kNPJdRWjtblYjx658Ujfz3o7rRnGB5bTHlgKEHr4q7MiDhwuKscDXj4Zjs3m6HMsejQ4E8ZptiDKa8Hw91xNT+s/vo4oDJSiKfH07yERbOycW6WGmiPrxV4LkyugLae+ek+Fnz686nmFERTGwcaSraVzMYe6xgnJFALKzR72EYKGdlDLbE2GSgRxKoOsZm24R17ySwhnxv3Gc1eHmO0qNY2ecdGLKcL7/P1YWs4+hZaqd7SMQGCbuDagrSLvMCnnHXxOCoOlyiqZY=;KnyAcH2qi454d20q1BuCzQ=="
 ---
 
