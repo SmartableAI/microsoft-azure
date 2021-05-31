@@ -408,6 +408,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "15 Azure announcements from Microsoft Build 2021"
+    excerpt: "The three-day Microsoft Build 2021 developers conference started virtually today with the No. 2 cloud provider introducing a slew of updates to its Azure cloud computing capabilities. Azure ..."
+    publishedDateTime: 2021-05-26T11:56:00Z
+    webUrl: "https://www.crn.com.au/news/15-azure-announcements-from-microsoft-build-2021-565068"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/20210526115623_0_0_0_0_70__News_20200723110935_microsoft1.jpg"
+        width: 1196
+        height: 769
+        isCached: true
   - title: "Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
     excerpt: "Banks, Digital Lenders, and Wealth Management Firms Can Now Acquire Industry-Leading Glance for Financial Services Guided CX Offering Through the Azure Marketplace WAKEFIELD, MA / ACCESSWIRE / / Glance ( a leading provider of guided customer experience and visual engagement solutions that enable organizations to deepen relationships and transform digital interactions,"
     publishedDateTime: 2021-05-25T17:28:00Z
@@ -626,6 +640,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "ItXtxIzktT5PW7HMUbBUP9yy4mPrhDo8cmjg7Efek6ykNKETqxOvG4U/fS9dPrXzi1Hxb1IT8gtq9lKOHmzbb0jH0OOgQJEGlZI/DMlJEGAOL97gWcmxzV7cwBiQ6W1CP4kVdTIdLzVtzuMZhnBY4dGLnZb0Sh+w1+t9E6dV1Pe/mSEil0PHCrih4XnHBml54QdlElAZ+E9zYDsVO6eyDUeJW2yE3s+KUn/CLRTXRWFNG7WvXvLG9LMvrW03UPBYYQyJj79Q0fixYhw6La81+6hUnne9W3F8/4Po4Jiw6QENAHUzkBuJZPZomq2XY551obHbjER9xc+xlDDbVOHBOxIXuA9xUjiTNQeUPPgrb8o=;dsLyVFL+Bjnt/6XqqUyRMQ=="
+secured: "XKO+ueiD3WsFVGPqycjFKQDsCZvkwrVrFtgmlhEavktRh608TWqLmLm5vAUHpvfKHr6DeflRLAhaf85wP60/5izKzd7FTA2u86AS1dI/nhu+FtV43AS7ZGr1PUEsHrDfJtNNeMiXYqxyg8POLD5eSTS0fKjtOqbHDmAy8zU8xWVgCLgp27j3dWwNWx4OVU2ZHwqLzhbpFFQtsdHLSEs1V8/KlYVu4y0bOMieI9G+m3NI2W3hvrv/ZytOclSGN8ln5cA8Li4EcWSPEwwiT/UW0gms6bVlSI+uZulllMd68GDZMHbDCY0eGpa9s45AZW1Ob2VG1oqo/c4EoPhsmDI+xeXqQL5Ti+qy5GZABzCF3mV2JargYcEClLa0OZEbChK73WP35mzfyG0DTd7Tze5EXs241IbdMCppJ5kGRLGrwPyVgX0KGpxmsIe8C/cDPnS8BbMLgfSliprnELbxtouWBToEC6o4KTI+3UODIAwAvcDLfOqJoNFnoJ0f7D4Jg7kZ47XloQYEm5rNxnXj/2AgLg==;16j/c9wsuCaQWRIBVn5jRw=="
 ---
 

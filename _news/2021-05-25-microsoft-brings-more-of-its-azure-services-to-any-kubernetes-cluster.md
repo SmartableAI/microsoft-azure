@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster/amp/"
 type: article
 quality: 114
-heat: 1054
+heat: 1074
 published: true
 
 provider:
@@ -412,6 +412,20 @@ related:
       - url: "https://www.crn.com/resources/0269-125c74ee81ff-25ae23038fad-1000/microsoft-azure-sign-2.jpg"
         width: 500
         height: 375
+        isCached: true
+  - title: "15 Azure announcements from Microsoft Build 2021"
+    excerpt: "The three-day Microsoft Build 2021 developers conference started virtually today with the No. 2 cloud provider introducing a slew of updates to its Azure cloud computing capabilities. Azure ..."
+    publishedDateTime: 2021-05-26T11:56:00Z
+    webUrl: "https://www.crn.com.au/news/15-azure-announcements-from-microsoft-build-2021-565068"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/20210526115623_0_0_0_0_70__News_20200723110935_microsoft1.jpg"
+        width: 1196
+        height: 769
         isCached: true
   - title: "Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
     excerpt: "Banks, Digital Lenders, and Wealth Management Firms Can Now Acquire Industry-Leading Glance for Financial Services Guided CX Offering Through the Azure Marketplace WAKEFIELD, MA / ACCESSWIRE / / Glance ( a leading provider of guided customer experience and visual engagement solutions that enable organizations to deepen relationships and transform digital interactions,"

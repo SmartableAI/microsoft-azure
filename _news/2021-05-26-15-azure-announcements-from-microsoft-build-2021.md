@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
-excerpt: "Banks, Digital Lenders, and Wealth Management Firms Can Now Acquire Industry-Leading Glance for Financial Services Guided CX Offering Through the Azure Marketplace WAKEFIELD, MA / ACCESSWIRE / / Glance ( a leading provider of guided customer experience and visual engagement solutions that enable organizations to deepen relationships and transform digital interactions,"
-publishedDateTime: 2021-05-25T17:28:00Z
-originalUrl: "https://www.digitaljournal.com/pr/glance-signs-isv-partner-agreement-for-microsoft-azure-marketplace"
-webUrl: "https://www.digitaljournal.com/pr/glance-signs-isv-partner-agreement-for-microsoft-azure-marketplace"
+title: "15 Azure announcements from Microsoft Build 2021"
+excerpt: "The three-day Microsoft Build 2021 developers conference started virtually today with the No. 2 cloud provider introducing a slew of updates to its Azure cloud computing capabilities. Azure ..."
+publishedDateTime: 2021-05-26T11:56:00Z
+originalUrl: "https://www.crn.com.au/news/15-azure-announcements-from-microsoft-build-2021-565068"
+webUrl: "https://www.crn.com.au/news/15-azure-announcements-from-microsoft-build-2021-565068"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/US-AirForce-F-22-stealth-fighter-Feb-17-2016-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://i.nextmedia.com.au/News/20210526115623_0_0_0_0_70__News_20200723110935_microsoft1.jpg"
+    width: 1196
+    height: 769
     isCached: true
 
 related:
@@ -422,19 +422,19 @@ related:
         width: 500
         height: 375
         isCached: true
-  - title: "15 Azure announcements from Microsoft Build 2021"
-    excerpt: "The three-day Microsoft Build 2021 developers conference started virtually today with the No. 2 cloud provider introducing a slew of updates to its Azure cloud computing capabilities. Azure ..."
-    publishedDateTime: 2021-05-26T11:56:00Z
-    webUrl: "https://www.crn.com.au/news/15-azure-announcements-from-microsoft-build-2021-565068"
+  - title: "Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
+    excerpt: "Banks, Digital Lenders, and Wealth Management Firms Can Now Acquire Industry-Leading Glance for Financial Services Guided CX Offering Through the Azure Marketplace WAKEFIELD, MA / ACCESSWIRE / / Glance ( a leading provider of guided customer experience and visual engagement solutions that enable organizations to deepen relationships and transform digital interactions,"
+    publishedDateTime: 2021-05-25T17:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/glance-signs-isv-partner-agreement-for-microsoft-azure-marketplace"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 37
     images:
-      - url: "https://i.nextmedia.com.au/News/20210526115623_0_0_0_0_70__News_20200723110935_microsoft1.jpg"
-        width: 1196
-        height: 769
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/US-AirForce-F-22-stealth-fighter-Feb-17-2016-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to KMS Lighthouse to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business ..."
@@ -640,6 +640,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "1vTrf/RZWbPMRzzhZ4iWyMucB5Y1LveLrLcAIiWBXWo5Qtuqxzu0GBK484swSEQfPbtjLLnIqMaTKg5GXep1xPUxmJHFrNagLgYBe7s7/MWXndGqFW+3SFkjfS0t4h7Te4bia4DfC4YMI2JBVcgpN0mxZQl251dEB1xMlIZ7FBqaoGBgeF0KJAtnfQlqjPqRc3zlCSnMpEOx9VVVFR30P/aqNkJZXBFksfeyN0aT4GR/rYC/QuBAIQhQiTDhpUwWR8i+T9Yckx4dAohvykZT/6CLIM5corVhuKm87p9XL01ijS0pLVGxY3rgGvOceObNaHaxL3GjBucr5fsoypT8aYpVacqFDI6bbtjdxd184lqACmiKj3k2jxlW35+PcsN7qLMHOZRkzNu/OAz126i0STFLZhNJlMVcCjfJnoAWKruwSIn1XqiexbCBzm7su+C0MwLK4fyOc6w21TeP3KyImEFdTQ3l2UWyjF4RyBxbb9OnFUi5sWNmNeSiVGuToN9/k/Etg9ylGwRkskPbu/hGuw==;r4lSNJIJmwqBurq+/awfGA=="
+secured: "dixoxP3jk3l544pXk216fqDyAuKYaMH65pxaF3JSvl6NEOjDB+OTTT8bafUtP1LgTn8IgLqME5zMz4uKbQ3EFG2TzfYpNzLj6cNG86uUFQMZld1UyiGjyWLc+UefqO+GnSGQwHRikZgYUoWfQ8G5gcCPfGS8Gg1syhmnlmbAg0c7uqG+8e0YdiLF6c+xnLnctdHdawgfV8jsq4u1FUilvl+KfuDWNKmf0+uqJfce36uoumYMOT5k4PSBrVQHPIxrOzYb0BFM/0ge7ZpqtR0lSgCP6zl9owyL1SEtWkZSmoqb0Cm5umXwyQ2o0jZN7HDTNPevThk0RdUX3a+0S1RfSV0JEloiVVgaC28KraAQSXs=;q8nkwSzIiAh2hTNM0+HJhw=="
 ---
 
