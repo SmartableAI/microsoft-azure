@@ -71,6 +71,22 @@ related:
         width: 600
         height: 312
         isCached: true
+  - title: "Red Hat Brings JBoss Enterprise Application Platform To Microsoft Azure, Easing Shift To The Cloud For Traditional Java Applications"
+    excerpt: "Red Hat, Inc., the world's leading provider of open source solutions, today announced Red Hat JBoss Enterprise Application Platform (JBoss EAP) on Micro"
+    publishedDateTime: 2021-05-31T09:35:00Z
+    webUrl: "https://www.albawaba.com/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 26
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/red_hat_tower_1.jpg?itok=JVU6RfPF"
+        width: 504
+        height: 360
+        isCached: true
   - title: "Glance Networks: Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
     excerpt: "Glance Microsoft Azure customers can also credit Glance session data flowing through Azure towards their Microsoft Azure Consumption Commitment (MACC) requirements. Glance for Financial Services ..."
     publishedDateTime: 2021-05-25T17:10:00Z

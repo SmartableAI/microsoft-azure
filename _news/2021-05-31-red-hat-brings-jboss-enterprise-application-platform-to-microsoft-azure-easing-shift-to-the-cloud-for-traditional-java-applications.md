@@ -1,30 +1,42 @@
 ---
 category: news
-title: "Microsoft adds enterprise support for PyTorch AI on Azure"
-excerpt: "Microsoft makes Facebook's AI Python library more friendly for enterprises with patches and hotfixes for Windows 10."
-publishedDateTime: 2021-05-25T08:45:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
-webUrl: "https://www.zdnet.com/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
+title: "Red Hat Brings JBoss Enterprise Application Platform To Microsoft Azure, Easing Shift To The Cloud For Traditional Java Applications"
+excerpt: "Red Hat, Inc., the world's leading provider of open source solutions, today announced Red Hat JBoss Enterprise Application Platform (JBoss EAP) on Micro"
+publishedDateTime: 2021-05-31T09:35:00Z
+originalUrl: "https://www.albawaba.com/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
+webUrl: "https://www.albawaba.com/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
+ampWebUrl: "https://www.albawaba.com/amp/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
 type: article
-quality: 94
-heat: 214
-published: true
+quality: 26
+heat: -1
+published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Al Bawaba News
+  domain: albawaba.com
 
 topics:
   - Azure
-  - AI
+
+images:
+  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/red_hat_tower_1.jpg?itok=JVU6RfPF"
+    width: 504
+    height: 360
+    isCached: true
 
 related:
+  - title: "Microsoft adds enterprise support for PyTorch AI on Azure"
+    excerpt: "Microsoft makes Facebook's AI Python library more friendly for enterprises with patches and hotfixes for Windows 10."
+    publishedDateTime: 2021-05-25T08:45:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 94
   - title: "A Close Look at Cloud-Based Machine Learning Platforms: Microsoft Azure ML, Google Vertex AI"
     excerpt: "This is the second part of the ML PaaS series where we explore Azure Machine Learning services and Google’s Vertex AI platform. We follow the same framework of classifying the features and services of these platforms into the five stages of machine learning."
     publishedDateTime: 2021-05-26T10:00:00Z
@@ -67,22 +79,6 @@ related:
         width: 600
         height: 312
         isCached: true
-  - title: "Red Hat Brings JBoss Enterprise Application Platform To Microsoft Azure, Easing Shift To The Cloud For Traditional Java Applications"
-    excerpt: "Red Hat, Inc., the world's leading provider of open source solutions, today announced Red Hat JBoss Enterprise Application Platform (JBoss EAP) on Micro"
-    publishedDateTime: 2021-05-31T09:35:00Z
-    webUrl: "https://www.albawaba.com/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 26
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/red_hat_tower_1.jpg?itok=JVU6RfPF"
-        width: 504
-        height: 360
-        isCached: true
   - title: "Glance Networks: Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
     excerpt: "Glance Microsoft Azure customers can also credit Glance session data flowing through Azure towards their Microsoft Azure Consumption Commitment (MACC) requirements. Glance for Financial Services ..."
     publishedDateTime: 2021-05-25T17:10:00Z
@@ -102,6 +98,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "FBaxXwSmxbmWTaY3b1B/ch+0aWL5xBUPtiuA+9z2fVBJhkTzaAQam6gLdNXVDejcfj+/aNUQzfo68fJ1zgMaq1cTb646qW8vp6sQ9PvtSCCr3xNa4EHGb2j991no8nCyJdF1wr0qvzTo5s8+6RQViDp0YyfEUMwAKxmr9pXSZgZUII8J6urrqJnLWpbgK6eUkQqsrOic3iANOmWe/5Wf+af5mSxTYbQZmaAAzQOauVrMNs6DC/DhuBwcutJoU47xm+N2TuoS30NM9eTA9p/6t24E0GqFsqJHT1MkDpIhE6BTtdW5zziQdUkPi9J8hVSlXd4pB02Msv/9TVQ4KQxLMAY24oxAu1Wi8jGJDaR6RJi4eC8Uta68A+Y12AIWNZaeHs/XPUQqTbQvdXOKkUBs3fECPHuZo+0YT9ZgQQ5BKAbED+0KKzs+FHoJYWKOMNOfmhqR0dZvuZ4mpKzuTH7eG5SCdN9XsPGSCqwbMDdWjpSsriu+dV4gKxG8uWKkdR4TjIAmrtqImSZfAwFl0V2KWA==;MgFQ8TmhbxNp8gFRkUlLzg=="
+secured: "xWD6fgTgmcVmhcxlISs/jO4kPyFn+uncWxVA/IxsBYPylwNZ6S+vWLP7iPdzw3kLizmbod6kE2x8NihDAZIP1vJUcjOQat+uP7G9AYgJaFzcv7MC4NzL1UVj1sCtHtAvyMe6xAnnnC8OkE50JAqnoqyxm9JEkCGdT8A5kFzUURemeaILxTxUC+L51TugEYWphOYop9eoqAZ03W0Dk/W+zs9daN+9GCNF+oyDwbZ6l+iowMTKtBMWeK35ycXCwRWKczmYiGUhudUkZS9eJiyI5+pvTAwqipaWWh5i3N7hEMbxxDusSqkbBOF8GiuME/Iad7SeAE9DhsSpqHDylDXArp0KCOf4+Knk0bTdCamoYr0=;8tix13+U7jxkbnEAJPUlrQ=="
 ---
 
