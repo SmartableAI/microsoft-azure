@@ -409,9 +409,9 @@ related:
         height: 600
         isCached: true
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
-    excerpt: "The three-day Microsoft Build 2021 developers conference started virtually today with the No. 2 cloud provider introducing a slew of updates to its Azure cloud computing capabilities. Azure ..."
-    publishedDateTime: 2021-05-25T15:16:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021"
+    excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
+    publishedDateTime: 2021-05-25T15:00:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/12"
     type: article
     provider:
       name: CRN
@@ -626,6 +626,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "xkmXdVqV/tki4K1bWPBVTTTdLlGascEfioTqpZmePUk3U2HHbX1G4DPUk7ME69oQnKhBmwFsWHfTxSBxcfyJqLRYffM/OlzCvGxLVAtk5pR2GaIhom07Nu9RcWkeYKA15rZ6DVQ0yi6vD2oYBp+jZL0/H/kqzP8wGoD8cz6TXXPnq3Tdgnv8T3n+sfHR8T25EXJ/mHmPMnZTWIaCn5qgi9Su1njDF/EHpZJHY07Rl8eQ4krd0jf6up0ZjTNcgF9X0X6xaKFSBHlqYj+KuBtqcL+EVdfd0SBmSAt9AtZd7a94yCrXUXrOIC+5VsH+8g2g/Xcjg+9af5v1UqWqnBCvnmksTgUiX2fqdr/OV/M4TM8=;NViO7I4QsAkbDv6ZATgKpw=="
+secured: "A+5fZNnjcEnaYY7/CqH4Edl7lpPD/8ELLkDWnHYU+UgeD7nHABfz+T+Z/0i/r9Ps7NPq/yktwfoDEvOAfJrzeDrRhTdWJmyqtPV+2hT1bsK5mS89HSRGESvniZavIgRGsmgi7pCy5prrD2bZO/57U/YR/UesLYDSLvRsNJwroA211sW5GwJ/NBb1FWF6LgyGb/II00nV9n7VQK+ULS6lKda9EzqTAiLkcAgo6zAW5TO87WElyC6kjT6aOmff0Np/WM2T7WKCMwXlGEZx5BImv5GhPPhW1j0IPBlwVTG88Z+RCfiRMfZaTCXaui1rfK64Ox7Vsw39qNE9koTugej82dan/fjZQ/+Qj2UA51XWsTs=;0Uf5fRMopX0sbJqWF9QJwg=="
 ---
 
