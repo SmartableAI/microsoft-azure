@@ -4,6 +4,48 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-implement-code-workflow.md",
+      "title": "Implement a code workflow in your build pipeline by using Git and GitHub",
+      "excerpt": "Learn along with the Space Game web team the benefits of collaboration through Visual Studio Code and GitHub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-code-workflow/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
+      "length": "PT1H27M",
+      "ratings": {
+        "count": 3917,
+        "average": 4.764616
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/implement-a-code-workflow-in-your-build-pipeline-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-implement-message-workflows-with-service-bus.md",
       "title": "Implement message-based communication workflows with Azure Service Bus",
       "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
@@ -46,8 +88,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "PT53M",
       "ratings": {
-        "count": 2806,
-        "average": 4.680684
+        "count": 2807,
+        "average": 4.680798
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -90,8 +132,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 5372,
-        "average": 4.7555847
+        "count": 5374,
+        "average": 4.754931
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -176,8 +218,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
       "length": "PT50M",
       "ratings": {
-        "count": 773,
-        "average": 4.771022
+        "count": 774,
+        "average": 4.771318
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -262,8 +304,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
       "length": "PT33M",
       "ratings": {
-        "count": 3117,
-        "average": 4.7317934
+        "count": 3118,
+        "average": 4.731879
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -339,8 +381,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
       "length": "PT46M",
       "ratings": {
-        "count": 1411,
-        "average": 4.795181
+        "count": 1412,
+        "average": 4.7953258
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -425,8 +467,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 1205,
-        "average": 4.499585
+        "count": 1206,
+        "average": 4.5
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -468,8 +510,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 3519,
-        "average": 4.692242
+        "count": 3520,
+        "average": 4.6923294
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -505,8 +547,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
       "length": "PT33M",
       "ratings": {
-        "count": 731,
-        "average": 4.6388507
+        "count": 732,
+        "average": 4.639344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -539,49 +581,6 @@
         "Azure",
         "Analytics",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-store-and-share-with-azure-files.md",
-      "title": "Store and share files in your application with Azure Files",
-      "excerpt": "Azure Files provides a cloud-based file share for storing and sharing files to applications. Whether it's an application hosted in Azure App Service, an Azure VM, or an on-premises app, Azure Files can store and share file access between one or more applications and systems in a secure and failure-resilient manner.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-and-share-with-azure-files/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-and-share-with-azure-files/",
-      "length": "PT51M",
-      "ratings": {
-        "count": 2737,
-        "average": 4.644136
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/store-and-share-with-azure-files-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     },
     {
@@ -1164,8 +1163,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-compliance-management-capabilities-microsoft/",
           "length": "PT31M",
           "ratings": {
-            "count": 362,
-            "average": 4.8093925
+            "count": 363,
+            "average": 4.8099174
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1289,8 +1288,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-ai-technology/",
           "length": "PT37M",
           "ratings": {
-            "count": 2336,
-            "average": 4.541524
+            "count": 2337,
+            "average": 4.5404363
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1332,8 +1331,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-approach-to-ai/",
           "length": "PT54M",
           "ratings": {
-            "count": 1025,
-            "average": 4.696585
+            "count": 1026,
+            "average": 4.6968813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1417,8 +1416,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-compliance-management-capabilities-microsoft/",
           "length": "PT31M",
           "ratings": {
-            "count": 362,
-            "average": 4.8093925
+            "count": 363,
+            "average": 4.8099174
           },
           "provider": {
             "name": "Microsoft Learn",

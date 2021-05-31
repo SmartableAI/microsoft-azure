@@ -130,8 +130,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-ai-technology/",
       "length": "PT37M",
       "ratings": {
-        "count": 2336,
-        "average": 4.541524
+        "count": 2337,
+        "average": 4.5404363
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -260,8 +260,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/",
       "length": "PT20M",
       "ratings": {
-        "count": 873,
-        "average": 4.7869415
+        "count": 875,
+        "average": 4.7874284
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -423,8 +423,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/",
       "length": "PT1H32M",
       "ratings": {
-        "count": 3661,
-        "average": 4.649822
+        "count": 3662,
+        "average": 4.649918
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -849,8 +849,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/",
       "length": "PT1H17M",
       "ratings": {
-        "count": 491,
-        "average": 4.729124
+        "count": 492,
+        "average": 4.729675
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -882,49 +882,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-modify-data-with-transact-sql.md",
-      "title": "Modify data with T-SQL",
-      "excerpt": "Modify data with T-SQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-modify-data-with-transact-sql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modify-data-with-transact-sql/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 19,
-        "average": 4.7894735
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     },
     {
@@ -980,8 +937,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/",
       "length": "PT41M",
       "ratings": {
-        "count": 1744,
-        "average": 4.5883026
+        "count": 1745,
+        "average": 4.5885386
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1101,8 +1058,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
       "length": "PT48M",
       "ratings": {
-        "count": 3490,
-        "average": 4.6839542
+        "count": 3491,
+        "average": 4.684045
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1136,8 +1093,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
       "length": "PT60M",
       "ratings": {
-        "count": 471,
-        "average": 4.5456476
+        "count": 472,
+        "average": 4.5466104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1256,6 +1213,49 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-resolve-threats-with-azure-security-center.md",
+      "title": "Resolve security threats with Azure Security Center",
+      "excerpt": "In this module, you’ll use the alert capabilities of Azure Security Center to watch for and respond to threats.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-resolve-threats-with-azure-security-center/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 1534,
+        "average": 4.606258
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
       ]
     }
   ],
