@@ -314,6 +314,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
+    excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
+    publishedDateTime: 2021-05-31T15:52:00Z
+    webUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108"
+    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 51
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2016/04/build_6_web.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "3Cloud Partners with Databricks to Help Companies Build Modern Data + AI Platforms in Microsoft Azure"
     excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI)."
     publishedDateTime: 2021-05-25T15:54:00Z
@@ -464,6 +480,20 @@ related:
       - url: "https://www.channelfutures.com/files/2020/07/Big-Cloud-877x432.jpg"
         width: 877
         height: 432
+        isCached: true
+  - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
+    excerpt: "A new industry analysis report demonstrates this shift, noting that the global blockchain technology market size is expected to reach $72 billion by 2026, rising at a market growth of 51.8% CAGR during the forecast period."
+    publishedDateTime: 2021-05-31T15:00:00Z
+    webUrl: "https://www.investing.com/news/cryptocurrency-news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users-2519297"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 37
+    images:
+      - url: "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556527948.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Principled Technologies Releases Study Comparing Performance of Kubernetes Clusters Running on Microsoft Azure..."
     excerpt: "Newer D- and E-series VMs with Intel Xeon Cascade Lake processors supported more users than older VMs enabled by previous-generation Intel Xeon processors."

@@ -1,27 +1,26 @@
 ---
 category: news
-title: "2bcloud Achieves its Third Advanced Specialization, for Kubernetes on Azure"
-excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be"
-publishedDateTime: 2021-05-20T12:36:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure/article_d03550ed-0386-5f28-ad4b-460dde83d954.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure/article_d03550ed-0386-5f28-ad4b-460dde83d954.html"
+title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
+excerpt: "A new industry analysis report demonstrates this shift, noting that the global blockchain technology market size is expected to reach $72 billion by 2026, rising at a market growth of 51.8% CAGR during the forecast period."
+publishedDateTime: 2021-05-31T15:00:00Z
+originalUrl: "https://www.investing.com/news/cryptocurrency-news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users-2519297"
+webUrl: "https://www.investing.com/news/cryptocurrency-news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users-2519297"
 type: article
-quality: 52
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Investing.com
+  domain: investing.com
 
 topics:
   - Azure
-  - Containers
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556527948.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -300,6 +299,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "2bcloud Achieves its Third Advanced Specialization, for Kubernetes on Azure"
+    excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be"
+    publishedDateTime: 2021-05-20T12:36:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure/article_d03550ed-0386-5f28-ad4b-460dde83d954.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 52
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
     excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
     publishedDateTime: 2021-05-31T15:52:00Z
@@ -481,20 +494,6 @@ related:
         width: 877
         height: 432
         isCached: true
-  - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
-    excerpt: "A new industry analysis report demonstrates this shift, noting that the global blockchain technology market size is expected to reach $72 billion by 2026, rising at a market growth of 51.8% CAGR during the forecast period."
-    publishedDateTime: 2021-05-31T15:00:00Z
-    webUrl: "https://www.investing.com/news/cryptocurrency-news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users-2519297"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 37
-    images:
-      - url: "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556527948.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Principled Technologies Releases Study Comparing Performance of Kubernetes Clusters Running on Microsoft Azure..."
     excerpt: "Newer D- and E-series VMs with Intel Xeon Cascade Lake processors supported more users than older VMs enabled by previous-generation Intel Xeon processors."
     publishedDateTime: 2021-04-30T07:01:00Z
@@ -671,6 +670,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "AUQycnUSMPnFhl+UsJYUiB7iTf7hhIJdLxYizV/eyNfWzlTxRi5CJFh2CrKQPPc5V6zAfmIP8uuk/HoReQ/TlG+zUC6KhuxzfLZeFuwP269hqc4jGJX1jgMtYAzQd+FyFM88cULe5gcTwQVhl5izNr1dVM7eoBkngpKs/yFIBGeLK9Q/STyj0nF/K0Zp5YWm5H8snT3x0ppCycZ1VxPWDjt9sT3+s+nxpCWQo1fcdcQXEzaLRm4V7RL6eZi2yoDP02hM8vOAvjS+/kwTJUedFlXJ9/bGC+cpTyKrT/u/k7WxMhkzYrhHYDQB6nRI2hauy+PbUTuxF4qd+aeKK4ve1oalF0z2+UwhUDICtcg1uqs=;6qGwb5+8MbiSkSTLpiiOmQ=="
+secured: "xK3olJOw7vLnifuNbg7b8zcHtNxL0O/yfReNcNf7vTR1qbTKIJRca6dmEywHrxAMLGuE6rTM7MOu1DEFsRHCYgxrMD55uWs3CUTLsGMzOol0ZJMWu9xnSNxq3JMWmMeBqbpTKPs03VCKp3sTARtpyCzBgb6UIX8cp/orcEIlgLElTQ3MrAbWeEjTHxs6RVJjjK7VTlj7Elungbokw0kILDz/yRILTUKct2gwPHlDXJGo70FHWvqPT/uLA9v+cs8OjU5zuE/8/qtEJVSGglJ5GTNWivNUCP1aL1zyxGGMNlB9/Am30fvd/IKu/sojCYynaouKctgj9hhGmCqfIw3qa69frZCFueqTIsSNM8h9zWU=;6Jh+IcQ9PUTK8wGghwqC3g=="
 ---
 

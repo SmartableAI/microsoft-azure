@@ -1,27 +1,28 @@
 ---
 category: news
-title: "2bcloud Achieves its Third Advanced Specialization, for Kubernetes on Azure"
-excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be"
-publishedDateTime: 2021-05-20T12:36:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure/article_d03550ed-0386-5f28-ad4b-460dde83d954.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure/article_d03550ed-0386-5f28-ad4b-460dde83d954.html"
+title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
+excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
+publishedDateTime: 2021-05-31T15:52:00Z
+originalUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108"
+webUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108"
+ampWebUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
 type: article
-quality: 52
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: IT World Canada
+  domain: itworldcanada.com
 
 topics:
   - Azure
-  - Containers
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://i.itworldcanada.com/wp-content/uploads/2016/04/build_6_web.jpg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
@@ -300,21 +301,19 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
-    excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
-    publishedDateTime: 2021-05-31T15:52:00Z
-    webUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108"
-    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
+  - title: "2bcloud Achieves its Third Advanced Specialization, for Kubernetes on Azure"
+    excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be"
+    publishedDateTime: 2021-05-20T12:36:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure/article_d03550ed-0386-5f28-ad4b-460dde83d954.html"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 51
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 52
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2016/04/build_6_web.jpg"
-        width: 1000
-        height: 667
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft Previews Contextual Settings for Azure Active Directory Conditional Access"
     excerpt: "Microsoft this week announced a public preview release of an Azure Active Directory Conditional Access capability that lets organization trigger policies for end users based on a situation or context."
@@ -671,6 +670,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "AUQycnUSMPnFhl+UsJYUiB7iTf7hhIJdLxYizV/eyNfWzlTxRi5CJFh2CrKQPPc5V6zAfmIP8uuk/HoReQ/TlG+zUC6KhuxzfLZeFuwP269hqc4jGJX1jgMtYAzQd+FyFM88cULe5gcTwQVhl5izNr1dVM7eoBkngpKs/yFIBGeLK9Q/STyj0nF/K0Zp5YWm5H8snT3x0ppCycZ1VxPWDjt9sT3+s+nxpCWQo1fcdcQXEzaLRm4V7RL6eZi2yoDP02hM8vOAvjS+/kwTJUedFlXJ9/bGC+cpTyKrT/u/k7WxMhkzYrhHYDQB6nRI2hauy+PbUTuxF4qd+aeKK4ve1oalF0z2+UwhUDICtcg1uqs=;6qGwb5+8MbiSkSTLpiiOmQ=="
+secured: "zR10OjNzWeKwkxLLzPaO3ZBdecjh/lAqqsUTTI9Cz+wDynIaT/xKkZcG92ZbGpDQuymc/UgbN0gzQ+bJw0OtQ/FwncjlbsTqzqCJqa6PX8elM8DEN55lXfED7zJ1ldqMNNVEaEX+bEFCLA6B0ohUUmQOpg605QcU4KIQ5OV71gjRKG25hMZjvEeJlVzPO/y53WsUyBAys2veda2y0AlirV4W+rywFZgQkEb4agyhjuUVsu9r53Ne1LSZGe3KCMof+7YZiW+d/0a19OdaCVcAlTf8fuVe6aH3BjhljSBUzYt0XkqzN1qdfckGL+9FfzAWivASbCq4woW7KhOM0A6u0/UO59iPShi/0YPBcnA0W4w=;WMkLEErhVTydJWelReiJrg=="
 ---
 
