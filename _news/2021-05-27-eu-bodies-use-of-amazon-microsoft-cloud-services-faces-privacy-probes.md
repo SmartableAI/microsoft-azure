@@ -3,8 +3,8 @@ category: news
 title: "EU bodies' use of Amazon, Microsoft cloud services faces privacy probes"
 excerpt: "The European Commission and European Parliament's use of cloud computing services provided by Amazon (AMZN.O) and Microsoft (MSFT.O) has prompted two EU privacy investigations over concerns about the transfer of personal data to the United States."
 publishedDateTime: 2021-05-27T07:00:00Z
-originalUrl: "https://www.reuters.com/article/eu-dataprotection-amazoncom-microsoft/update-1-eu-bodies-use-of-amazon-microsoft-cloud-services-faces-privacy-probes-idUSL5N2NE65K"
-webUrl: "https://www.reuters.com/article/eu-dataprotection-amazoncom-microsoft/update-1-eu-bodies-use-of-amazon-microsoft-cloud-services-faces-privacy-probes-idUSL5N2NE65K"
+originalUrl: "https://www.reuters.com/article/us-eu-dataprotection-amazon-com-microsof/eu-bodies-use-of-amazon-microsoft-cloud-services-faces-privacy-probes-idUSKCN2D80TQ"
+webUrl: "https://www.reuters.com/article/us-eu-dataprotection-amazon-com-microsof/eu-bodies-use-of-amazon-microsoft-cloud-services-faces-privacy-probes-idUSKCN2D80TQ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D8215"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D8215"
 type: article
@@ -674,6 +674,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "KOVY0hRi59pYG0SfgdnJDoR3AVJFaYaeeO8sOp1hlYg04a5b8TLDtxvB4RqDxLKpuDnPkxVnKh8zGG7xbqlumccxu7YN/koy/llnKjCvQh9k+qrh+uCpwA/SH9BtaQUZXpFhvj5oVnoQJu3FHlCT0GZhpbnAks29mDFMh2tQz+hj/WnmlBP8mo0AOOrghUHmiStB1P3NB+Vyypiv7rZ6KQKENW4aZuQVcSv77m6FqFWYLgSmcrOj5PioIdg4hh7lVxxP/mnvE7AOETK45SJadp+0rYbe4gGHeL5nmqdwvcfGAuEIOglJDG4DP6aBJH2C/6Yf0t4y8UbHmhZSTq8nvP6eqYEA4+jT9MyWjbFq06mhWp+TVU1tozygNOmKVkf4Gi4ZsqflzebDNsoSe3UvAFmwOWXZ1LL7pa6dZu2Gak9Aaxp03V0by4HZKu7RZ+RJiTc9lXtPAHi2ZXkvqhc/ATCUJx1XvS4t5M4xP+McajLnUsg6DpzhHnuLKkXJqRZRVO/0CScy9TlyKB8XR43YFg==;WO2XY7HvNj3jE9uRxBF/6g=="
+secured: "GDEh+6rp3hal5ZJnBVeUV3lfgv2FV164YiiLquHd23TbTKmPaH42BUOm8xmqx4tsgw9X91EfokmJHkLVPRxM93eq73OXE0CwHRWBvYdYejzHupxxdD8+QkSJXeR6cvjwXj4ZEnI0UAZJtYn0jw6IuKofvPtyCK6e/apKeAkS7+UjMoTSQS5XwlSSbUsZHMLvyZtQeZBwiJAJROF9jdBNJtEYYTlj8v41J4rn6j6elB4H7DSQCBtPZamTUYPLmodsIk1r2dBCwPtZA+IZ9xYGZ3mLLvoOTeWB6WfHlZOi+DeX6NQo7fgvfL/dkNONmzTxW3EetMlcV7b76nz7t8Lvgtrrj1Vu+JGN2veeW5nAylc=;EszcuoFf/gDsmLw3C3fzjA=="
 ---
 

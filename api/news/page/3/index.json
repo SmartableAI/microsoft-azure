@@ -2,48 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-04-06-microsoft-heres-what-caused-our-azure-cloud-computing-outage.md",
-      "title": "Microsoft: Here's what caused our Azure cloud-computing outage",
-      "excerpt": "Microsoft has revealed the root cause of the recent outage affecting Azure, which lasted about an hour and was due to a surge in Domain Name System (DNS) requests coupled with a code defect. Users were reporting that Azure Portal, Azure Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-heres-what-caused-our-recent-azure-cloud-computing-services-outage/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-heres-what-caused-our-recent-azure-cloud-computing-services-outage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-heres-what-caused-our-recent-azure-cloud-computing-services-outage/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-what-caused-our-recent-azure-cloud-computing-services-outage/",
-      "publishedDateTime": "2021-04-06T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_news/2021-04-06-acuant-joins-microsoft-to-enable-seamless-identity-verification-on-azure-ad.md",
       "title": "Acuant joins Microsoft to enable seamless identity verification on Azure AD",
       "excerpt": "Acuant, a global digital identity solutions provider, announced that it’s partnering with Microsoft to secure information exchange on Azure Active Directory (AD). Azure AD Verifiable Credentials enables Azure AD customers to easily design and issue ...",
@@ -1194,6 +1152,49 @@
       "topics": [
         "Azure",
         "Compute"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-hdinsight-apache-kafka-rest-proxy-is-now-generally-available.md",
+      "title": "HDInsight Apache Kafka REST Proxy is now generally available",
+      "excerpt": "Azure HDInsight Kafka REST proxy greatly simplifies messaging architecture patterns by allowing Kafka producers and consumers to be located outside the virtual network and enables working with unsupported languages.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/hdinsight-kafka-rest-proxy-is-now-generally-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/hdinsight-kafka-rest-proxy-is-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T14:08:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     }
   ],

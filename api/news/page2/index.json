@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-05-03-azure-security-center-public-preview-updates-for-april-2021.md",
-      "title": "Azure Security Center: Public preview updates for April 2021",
-      "excerpt": "Public preview enhancements and updates released for Azure Security Center in April 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/asc-april2021-2/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/asc-april2021-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T08:47:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_news/2021-05-01-microsoft-previews-azure-service-for-building-websocket-applications.md",
       "title": "Microsoft previews Azure service for building WebSocket applications",
       "excerpt": "Azure Web PubSub allows developers to use WebSockets and a publish-subscribe pattern to build real-time web applications such as live monitoring dashboards, live maps, and live chat.",
@@ -1167,6 +1124,48 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-microsoft-heres-what-caused-our-azure-cloud-computing-outage.md",
+      "title": "Microsoft: Here's what caused our Azure cloud-computing outage",
+      "excerpt": "Microsoft has revealed the root cause of the recent outage affecting Azure, which lasted about an hour and was due to a surge in Domain Name System (DNS) requests coupled with a code defect. Users were reporting that Azure Portal, Azure Services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-heres-what-caused-our-recent-azure-cloud-computing-services-outage/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-heres-what-caused-our-recent-azure-cloud-computing-services-outage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-heres-what-caused-our-recent-azure-cloud-computing-services-outage/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-what-caused-our-recent-azure-cloud-computing-services-outage/",
+      "publishedDateTime": "2021-04-06T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
       ]
     }
   ],

@@ -184,7 +184,7 @@ related:
   - title: "EU bodies' use of Amazon, Microsoft cloud services faces privacy probes"
     excerpt: "The European Commission and European Parliament's use of cloud computing services provided by Amazon (AMZN.O) and Microsoft (MSFT.O) has prompted two EU privacy investigations over concerns about the transfer of personal data to the United States."
     publishedDateTime: 2021-05-27T07:00:00Z
-    webUrl: "https://www.reuters.com/article/eu-dataprotection-amazoncom-microsoft/update-1-eu-bodies-use-of-amazon-microsoft-cloud-services-faces-privacy-probes-idUSL5N2NE65K"
+    webUrl: "https://www.reuters.com/article/us-eu-dataprotection-amazon-com-microsof/eu-bodies-use-of-amazon-microsoft-cloud-services-faces-privacy-probes-idUSKCN2D80TQ"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D8215"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D8215"
     type: article
@@ -670,6 +670,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "lnhJwthVDJUFW553mHnQgvEvgsOlXW6Kv/0bKlJ83lJ5WTkadtB5tdGmE66lnJ0nSo8uM+D+84YsUFzPfqa/niTO6P+BW18R1KEKymQ6fvTdk9uWg3Qwm1T6YJtte+gQEEkvwt1WBfpYwLODLc/l9gIw5oVdojJ03LfJhXFLZ3LFS/YCFDkvP6e/3D7tTRJBKjCXXHaKEbq8nThl0G8zaRgzdXOkKenu8++NRSHgl+bdOpAN3E/lpe+yrYtm2W8Qh4ZgPqU4GqK2zO0dqW1RGwlIaoCx2o/X5NmXpK1tiCReaSv2uurnzgyvjNThxcwQTGifAmAcv/J9ZjNwB4oP5wMPWlyXrBrHFM+vBzdoPIc=;GI+ChDBckdSya9kisMnSBw=="
+secured: "2IFmWyGXrHcE6Mh/aHADKSDuWUfmJ34TUZCMHDzKSkjG1VwERGcS8XCoBeO+gF8K0uLe0S5Edtxi8l16nqtlWDkhk+kM1DQTcSfRWKdU5Ia4JcRLbRyo9Y/S1kzDecy1Hn2kHaT9xHM6R0Wqx05ve7NSuBLhKHa/HVzhV33BQQP6an9ypGaQCP3cpKWYhk/gTlMwPPWU4c2S1C+KVPu1S23npHpErSLQpqKx+tCX2HNTioqCzZAlWaTQgM8P97oBAemfeYYPUTLLX+TI3sVrsyuPk+NFNKwiiE40oHL1tfn7rsSdDmdIUWlS1xqshY4Og1riOY5S8VJtCnGFI0evf2dDYTs1fH8z2JfoOAZTRe0=;TM2JfsHI+VD4yP/SsF3Auw=="
 ---
 

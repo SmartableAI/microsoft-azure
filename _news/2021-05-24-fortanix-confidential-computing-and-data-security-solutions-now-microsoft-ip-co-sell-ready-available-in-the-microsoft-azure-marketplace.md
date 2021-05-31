@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20210524005079/en/Fortanix-
 webUrl: "https://www.businesswire.com/news/home/20210524005079/en/Fortanix-Confidential-Computing-and-Data-Security-Solutions-Now-Microsoft-IP-Co-sell-Ready-Available-in-the-Microsoft-Azure-Marketplace"
 type: article
 quality: 1
-heat: 1
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,19 @@ provider:
 topics:
   - Azure
   - Security
+
+related:
+  - title: "Insight Recognized again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
+    excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all"
+    publishedDateTime: 2021-05-31T20:02:00Z
+    webUrl: "https://www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year"
+    ampWebUrl: "https://www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 29
 
 secured: "6O7rajyfwEgCMHcFLDDgyYMbrjMLBoB83VskVvuQ2l0wztUGw5NrYKexQkgrHS5LN6/5dToakPkwKofl7NI0VX8ODxo43XX6DijojGBkS/566AKrrlf2r6AWDpCpzUd/fOFkui2SGRRYTZ2MfaAblw06+3IU7bgh5sO3apQM4cN6G134CZVECr1+7WMM7GOpSWsgICvKcJCHPTxLH1woIkIZszU8+BsGPUm4WQwcPHnPeLRCU3UGTfDk387Jlierw9y7iHz6YIxa+Su2RN0IwNx1NmSbupci4OHEgOa+tnZgkex5MUH+n8BrD8/47udCZfMQkx1XJALXiogqPln3vmpBYYqWEr/Nhzp9c50S2BY=;8U0fakp3vb9KmksMmEV7WQ=="
 ---
