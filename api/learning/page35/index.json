@@ -4,48 +4,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-integrate-azure-services-with-azure-stack-hci.md",
-      "title": "Integrate Azure services with Azure Stack HCI",
-      "excerpt": "Integrate Azure services with Azure Stack HCI",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-azure-services-with-azure-stack-hci/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-azure-services-with-azure-stack-hci/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 2,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-integrate-machine-learning-within-azure-synapse-analytics.md",
       "title": "Integrate machine learning within Azure Synapse Analytics",
       "excerpt": "Integrate machine learning within Azure Synapse Analytics",
@@ -732,7 +690,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-cache-for-redis/",
       "length": "PT31M",
       "ratings": {
-        "count": 2,
+        "count": 3,
         "average": 5.0
       },
       "provider": {
@@ -1017,7 +975,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-hdinsight/",
       "length": "PT33M",
       "ratings": {
-        "count": 5,
+        "count": 6,
         "average": 5.0
       },
       "provider": {
@@ -1136,8 +1094,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
       "length": "PT40M",
       "ratings": {
-        "count": 3006,
-        "average": 4.6440454
+        "count": 3007,
+        "average": 4.6441636
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1206,6 +1164,41 @@
         "Azure",
         "DevOps",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-sentinel.md",
+      "title": "Introduction to Azure Sentinel",
+      "excerpt": "Get familiar with Azure Sentinel, a cloud-native, security information and event management (SIEM) service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 708,
+        "average": 4.789548
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
       ]
     }
   ],

@@ -4,49 +4,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-read-text-images-documents-with-computer-vision-service.md",
-      "title": "Read Text in Images and Documents with the Computer Vision Service",
-      "excerpt": "Azure's Computer Vision service uses advanced algorithms to process images and return information based on the visual features you're interested in. This module teaches you how to use the Azure Computer Vision's OCR API and Read API.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-read-text-images-documents-with-computer-vision-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-text-images-documents-with-computer-vision-service/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 7,
-        "average": 4.571429
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-recognize-voices-with-speaker-recognition.md",
       "title": "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services",
       "excerpt": "This module guides you through learning about speaker recognition and how to use the Speaker Recognition APIs to identify specific people through their voices.",
@@ -140,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-manage-customer-devices-with-connected-field-service/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 60,
-        "average": 4.7166667
+        "count": 61,
+        "average": 4.7213116
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -261,8 +218,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-and-service-customer-equipment/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 81,
-        "average": 4.716049
+        "count": 82,
+        "average": 4.719512
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -424,8 +381,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices/",
       "length": "PT35M",
       "ratings": {
-        "count": 488,
-        "average": 4.663934
+        "count": 489,
+        "average": 4.6625767
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1174,52 +1131,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-safeguard-data-sector.md",
-      "title": "Safeguard public sector data with Azure",
-      "excerpt": "Conceptual introduction to data residency and sovereignty and overview of the options provided by Azure for public agencies to protect their data in the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-safeguard-data-sector/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/safeguard-data-sector/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 2,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Security",
-        "DevOps",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-save-money-with-azure-reserved-instances.md",
       "title": "Save money with Azure Reserved Instances",
       "excerpt": "Learn how to use plan for, buy, and manage Azure reservations to save money.",
@@ -1260,6 +1171,92 @@
       "topics": [
         "Azure",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-scan-open-source.md",
+      "title": "Scan open source components for vulnerabilities and license ratings in Azure Pipelines",
+      "excerpt": "Scan open-source components for security vulnerabilities and assess their license ratings when your application builds in Azure Pipelines.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-scan-open-source/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scan-open-source/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 2019,
+        "average": 4.7152057
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-security-and-compliance-in-your-build-pipeline-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps",
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-schedule-tasks-using-sql-server-agent.md",
+      "title": "Schedule tasks using SQL Server Agent",
+      "excerpt": "Explore SQL automation for scheduled tasks and automatic alerts for SQL Server and Managed Instance. Configure extended event sessions for tracing activities.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-schedule-tasks-using-sql-server-agent/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/schedule-tasks-using-sql-server-agent/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 117,
+        "average": 4.675214
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/schedule-tasks-using-sql-server-agent-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     }
   ],

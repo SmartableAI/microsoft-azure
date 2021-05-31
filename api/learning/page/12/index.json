@@ -4,48 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-implement-code-workflow.md",
-      "title": "Implement a code workflow in your build pipeline by using Git and GitHub",
-      "excerpt": "Learn along with the Space Game web team the benefits of collaboration through Visual Studio Code and GitHub.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-code-workflow/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
-      "length": "PT1H27M",
-      "ratings": {
-        "count": 3917,
-        "average": 4.764616
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/implement-a-code-workflow-in-your-build-pipeline-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-implement-message-workflows-with-service-bus.md",
       "title": "Implement message-based communication workflows with Azure Service Bus",
       "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
@@ -218,8 +176,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
       "length": "PT50M",
       "ratings": {
-        "count": 771,
-        "average": 4.770428
+        "count": 773,
+        "average": 4.771022
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -547,8 +505,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
       "length": "PT33M",
       "ratings": {
-        "count": 730,
-        "average": 4.639726
+        "count": 731,
+        "average": 4.6388507
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1331,8 +1289,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-ai-technology/",
           "length": "PT37M",
           "ratings": {
-            "count": 2334,
-            "average": 4.541131
+            "count": 2335,
+            "average": 4.5413275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1426,6 +1384,131 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-sc-900-part-4-describe-the-capabilities-of-microsoft-compliance-solutions.md",
+      "title": "SC-900 part 4: Describe the capabilities of Microsoft compliance solutions",
+      "excerpt": "SC-900 part 4: Describe the capabilities of Microsoft compliance solutions",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-sc-900-part-4-describe-the-capabilities-of-microsoft-compliance-solutions/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-sc-900-part-4-describe-the-capabilities-of-microsoft-compliance-solutions/",
+      "length": "PT2H54M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-describe-compliance-management-capabilities-microsoft.md",
+          "title": "Describe the compliance management capabilities in Microsoft",
+          "excerpt": "Describe the compliance management capabilities in Microsoft",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-compliance-management-capabilities-microsoft/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-compliance-management-capabilities-microsoft/",
+          "length": "PT31M",
+          "ratings": {
+            "count": 362,
+            "average": 4.8093925
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-compliance-management-capabilities-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-describe-resource-governance-capabilities-azure.md",
+          "title": "Describe resource governance capabilities in Azure",
+          "excerpt": "Describe resource governance capabilities in Azure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-resource-governance-capabilities-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-resource-governance-capabilities-azure/",
+          "length": "PT21M",
+          "ratings": {
+            "count": 138,
+            "average": 4.826087
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-resource-governance-capabilities-in-azure-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-compliance-management-capabilities-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

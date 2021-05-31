@@ -4,15 +4,59 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-threat-response-sentinel-playbooks.md",
-      "title": "Threat response with Azure Sentinel playbooks",
-      "excerpt": "Provide an introduction to implementing threat response with Azure Sentinel playbooks.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-threat-response-sentinel-playbooks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/threat-response-sentinel-playbooks/",
-      "length": "PT52M",
+      "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
+      "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
+      "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
+      "length": "PT43M",
       "ratings": {
-        "count": 9,
-        "average": 5.0
+        "count": 8977,
+        "average": 4.6680408
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 134,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-safeguard-data-sector.md",
+      "title": "Safeguard public sector data with Azure",
+      "excerpt": "Conceptual introduction to data residency and sovereignty and overview of the options provided by Azure for public agencies to protect their data in the cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-safeguard-data-sector/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/safeguard-data-sector/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 3,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,7 +76,7 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/threat-response-sentinel-playbooks-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -43,6 +87,219 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Identity",
+        "Security",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-implement-network-security-in-azure.md",
+      "title": "Implement network security in Azure",
+      "excerpt": "Learn how to configure, protect, and isolate your networks in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-network-security-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-network-security-in-azure/",
+      "length": "PT5H27M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-secure-network-connectivity-azure.md",
+          "title": "Secure network connectivity on Azure",
+          "excerpt": "Learn about the Azure services you can use to help ensure that your network is safe, secure, and trusted.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-network-connectivity-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 7486,
+            "average": 4.780524
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 90,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/secure-network-connectivity-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
+          "title": "Configure the network for your virtual machines",
+          "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
+          "length": "PT1H34M",
+          "ratings": {
+            "count": 8622,
+            "average": 4.6558805
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Networking"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
+          "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
+          "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 8977,
+            "average": 4.6680408
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 134,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
+          "title": "Encrypt network traffic end to end with Azure Application Gateway",
+          "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
+          "length": "PT1H17M",
+          "ratings": {
+            "count": 1269,
+            "average": 4.639086
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/end-to-end-encryption-with-app-gateway-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 108,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-network-connectivity-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Networking",
         "Security"
       ]
     },
@@ -78,8 +335,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 10391,
-            "average": 4.766914
+            "count": 10397,
+            "average": 4.766567
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -121,8 +378,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 898,
-            "average": 4.7193766
+            "count": 901,
+            "average": 4.719201
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -164,8 +421,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 42580,
-            "average": 4.7180367
+            "count": 42581,
+            "average": 4.71802
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -278,8 +535,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 10391,
-            "average": 4.766914
+            "count": 10397,
+            "average": 4.766567
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -321,8 +578,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 7483,
-            "average": 4.7811036
+            "count": 7486,
+            "average": 4.780524
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -382,8 +639,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 10391,
-        "average": 4.766914
+        "count": 10397,
+        "average": 4.766567
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -485,8 +742,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 4338,
-            "average": 4.753112
+            "count": 4339,
+            "average": 4.753169
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -572,8 +829,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 10217,
-            "average": 4.6977587
+            "count": 10219,
+            "average": 4.697818
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -696,8 +953,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 10391,
-            "average": 4.766914
+            "count": 10397,
+            "average": 4.766567
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -739,8 +996,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7750,
-            "average": 4.6740646
+            "count": 7751,
+            "average": 4.6741066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -817,8 +1074,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10495,
-            "average": 4.674035
+            "count": 10496,
+            "average": 4.673971
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -905,8 +1162,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2590,
-            "average": 4.7027025
+            "count": 2591,
+            "average": 4.7028174
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -948,8 +1205,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 42580,
-            "average": 4.7180367
+            "count": 42581,
+            "average": 4.71802
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1098,216 +1355,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-implement-network-security-in-azure.md",
-      "title": "Implement network security in Azure",
-      "excerpt": "Learn how to configure, protect, and isolate your networks in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-network-security-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-network-security-in-azure/",
-      "length": "PT5H27M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-secure-network-connectivity-azure.md",
-          "title": "Secure network connectivity on Azure",
-          "excerpt": "Learn about the Azure services you can use to help ensure that your network is safe, secure, and trusted.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-network-connectivity-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
-          "length": "PT32M",
-          "ratings": {
-            "count": 7483,
-            "average": 4.7811036
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 90,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/secure-network-connectivity-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
-          "title": "Configure the network for your virtual machines",
-          "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
-          "length": "PT1H34M",
-          "ratings": {
-            "count": 8622,
-            "average": 4.6558805
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Networking"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
-          "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
-          "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 8977,
-            "average": 4.6680408
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
-          "title": "Encrypt network traffic end to end with Azure Application Gateway",
-          "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
-          "length": "PT1H17M",
-          "ratings": {
-            "count": 1269,
-            "average": 4.639086
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/end-to-end-encryption-with-app-gateway-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-network-connectivity-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Networking",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-manage-security-operations-in-azure.md",
       "title": "Manage security operations in Azure",
       "excerpt": "Learn how to configure security policies and manage security alerts with the tools and services in Azure.",
@@ -1339,8 +1386,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 10391,
-            "average": 4.766914
+            "count": 10397,
+            "average": 4.766567
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1559,8 +1606,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 4338,
-            "average": 4.753112
+            "count": 4339,
+            "average": 4.753169
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1603,8 +1650,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7750,
-            "average": 4.6740646
+            "count": 7751,
+            "average": 4.6741066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2006,8 +2053,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 5544,
-            "average": 4.7426047
+            "count": 5545,
+            "average": 4.742651
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3308,8 +3355,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-protection-privacy/",
           "length": "PT49M",
           "ratings": {
-            "count": 7,
-            "average": 5.0
+            "count": 8,
+            "average": 4.875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3351,8 +3398,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/safeguard-data-sector/",
           "length": "PT42M",
           "ratings": {
-            "count": 2,
-            "average": 5.0
+            "count": 3,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3369,7 +3416,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3397,8 +3444,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/support-hybrid-clouds/",
           "length": "PT20M",
           "ratings": {
-            "count": 3,
-            "average": 4.6666665
+            "count": 4,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4394,7 +4441,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/threat-response-sentinel-playbooks-social.png",
@@ -4803,8 +4850,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
           "length": "PT18M",
           "ratings": {
-            "count": 1037,
-            "average": 4.7994213
+            "count": 1038,
+            "average": 4.798651
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4932,8 +4979,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
           "length": "PT18M",
           "ratings": {
-            "count": 1037,
-            "average": 4.7994213
+            "count": 1038,
+            "average": 4.798651
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4995,8 +5042,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 4338,
-        "average": 4.753112
+        "count": 4339,
+        "average": 4.753169
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -5061,49 +5108,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-describe-microsoft-security-compliance-principles.md",
-      "title": "Describe Microsoft security and compliance principles",
-      "excerpt": "Describe Microsoft security and compliance principles",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-microsoft-security-compliance-principles/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 1037,
-        "average": 4.7994213
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-microsoft-security-and-compliance-principles-social.png",
           "width": 641,
           "height": 321,
           "isCached": true
