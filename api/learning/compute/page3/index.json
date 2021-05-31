@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
       "length": "PT20M",
       "ratings": {
-        "count": 2481,
-        "average": 4.7106004
+        "count": 2482,
+        "average": 4.7103143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -96,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/",
       "length": "PT42M",
       "ratings": {
-        "count": 2583,
-        "average": 4.71777
+        "count": 2584,
+        "average": 4.7178793
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -139,8 +139,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "PT43M",
       "ratings": {
-        "count": 2569,
-        "average": 4.61775
+        "count": 2570,
+        "average": 4.61751
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 1004,
-        "average": 4.7390437
+        "count": 1005,
+        "average": 4.7393036
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -307,8 +307,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
       "length": "PT57M",
       "ratings": {
-        "count": 6538,
-        "average": 4.726369
+        "count": 6540,
+        "average": 4.7263
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -350,8 +350,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 8620,
-        "average": 4.6558003
+        "count": 8622,
+        "average": 4.6558805
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -631,8 +631,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 2054,
-        "average": 4.2765336
+        "count": 2055,
+        "average": 4.2759123
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -718,8 +718,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 2003,
-        "average": 4.6430354
+        "count": 2004,
+        "average": 4.6422157
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1025,8 +1025,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sql-server-virtual-machine/",
       "length": "PT60M",
       "ratings": {
-        "count": 2860,
-        "average": 4.777972
+        "count": 2861,
+        "average": 4.7780495
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1069,8 +1069,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "PT53M",
       "ratings": {
-        "count": 2370,
-        "average": 4.652321
+        "count": 2371,
+        "average": 4.6524673
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1240,15 +1240,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-static-apps-gatsby.md",
-      "title": "Create and publish a static web app with Gatsby and Azure Static Web Apps",
-      "excerpt": "Use Gatsby to develop and compile a static web app, then deploy it to the web with Azure Static Web Apps.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-static-apps-gatsby/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-deploy-static-webapp-gatsby-app-service/",
-      "length": "PT41M",
+      "path": "_learning/courses/microsoft-learn-publish-static-web-app-authentication.md",
+      "title": "Authenticate users with Azure Static Web Apps",
+      "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app with API and authentication using Azure Static Web Apps and Azure Functions. Deploy your code from GitHub to a staging site using preview URLs.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-static-web-app-authentication/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-static-web-app-authentication/",
+      "length": "PT24M",
       "ratings": {
-        "count": 132,
-        "average": 4.7651515
+        "count": 5,
+        "average": 4.2
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1266,20 +1266,13 @@
         "Beginner"
       ],
       "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/static-apps-gatsby-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
         "Compute",
+        "Serverless",
         "Web"
       ]
     }
