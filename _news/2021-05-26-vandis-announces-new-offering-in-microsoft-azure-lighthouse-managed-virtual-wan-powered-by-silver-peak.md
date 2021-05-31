@@ -21,6 +21,17 @@ provider:
 topics:
   - Azure
 
+related:
+  - title: "Elastic Announces the General Availability of the New Frozen Tier, Enhanced Analyst Experience With Schema on Read, and First-Party Integration With Microsoft Azure"
+    excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced new capabilities and enhancements across its"
+    publishedDateTime: 2021-05-26T19:40:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210526005861/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "tJxzd6YNIrdD5fu11ibUnIP/WWoW4m5UeR7ya8Q3KC+RepUPaDC7O5QyA9RNj9AVmNWgT5jr4I53/m9fX5DHBuU9Vn+sWhnYHX+hNmbyaLdxZcQErJUOOo15iV4qD60vbo/LtgwR4Hqt4eIurWToGP5JlfQAybHDX/IgMiOYYtJQFH8I4IGY2qWJIAB89IsOgEadf6SsQb0wVol3SIYy6yh/kOWrvf98Np2P3TvTKyCvLZfjwwf6rC8YFuOT+ME+TdVQyLXGWtxtJEbiF65YSsu0OO5mj3h8HYWR5UBkcdO8CepDBY6F+BDmkV9T2l9tPPWwI4APKURo63nwBvf5FDi6gbKvXJJa15ThV7U9BlA=;juifOEohcCpXJH1J/2LRAw=="
 ---
 
