@@ -70,6 +70,20 @@ related:
         width: 2545
         height: 1146
         isCached: true
+  - title: "Azure Cost Management and Billing updates – May 2021"
+    excerpt: "May brings expanded coverage of two popular features: Cost allocation is now supported in all usage APIs and downloads and management group exports are now available in Azure Government. On top of this, you also have more custom date selection options in the cost analysis preview and four new generally"
+    publishedDateTime: 2021-06-01T10:00:53Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-may-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0648ad0d-cce3-4779-85f9-01075ca471c4.gif"
+        width: 1576
+        height: 932
+        isCached: true
   - title: "Azure Cost Management and Billing updates – March 2021"
     excerpt: "March is an exciting month! If you need to control costs and avoid projected overages, you'll want to check out changes to Cost Management budgets. You also have a new view optimized for viewing subscription costs as well as more ways to save, learning resources, and documentation updates. Enjoy!"
     publishedDateTime: 2021-03-30T10:00:15Z

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Cost Management and Billing 2020 year in review"
-excerpt: "2020 wasn't the year we signed up for, but was chock full nonetheless. From optimized account and invoice management experiences to richer reporting within and outside the portal; new ways to facilitate chargeback and more flexible budget alerts to an overwhelming amount of new cost optimization opportunities."
-publishedDateTime: 2020-12-15T10:00:22Z
-originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-2020-year-in-review/"
-webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-2020-year-in-review/"
+title: "Azure Cost Management and Billing updates – May 2021"
+excerpt: "May brings expanded coverage of two popular features: Cost allocation is now supported in all usage APIs and downloads and management group exports are now available in Azure Government. On top of this, you also have more custom date selection options in the cost analysis preview and four new generally"
+publishedDateTime: 2021-06-01T10:00:53Z
+originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-may-2021/"
+webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-may-2021/"
 type: article
-quality: 81
+quality: 99
 heat: -1
 published: false
 
@@ -22,11 +22,16 @@ topics:
   - Azure
   - Storage
   - Management tools
-  - Databases
   - Compute
-  - Serverless
-  - AI
+  - IoT
+  - Mobile
   - Web
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0648ad0d-cce3-4779-85f9-01075ca471c4.gif"
+    width: 1576
+    height: 932
+    isCached: true
 
 related:
   - title: "Azure Cost Management and Billing updates – October 2020"
@@ -65,20 +70,6 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c1c05119-f726-4026-a91a-cb47b077522c.png"
         width: 2545
         height: 1146
-        isCached: true
-  - title: "Azure Cost Management and Billing updates – May 2021"
-    excerpt: "May brings expanded coverage of two popular features: Cost allocation is now supported in all usage APIs and downloads and management group exports are now available in Azure Government. On top of this, you also have more custom date selection options in the cost analysis preview and four new generally"
-    publishedDateTime: 2021-06-01T10:00:53Z
-    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-may-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0648ad0d-cce3-4779-85f9-01075ca471c4.gif"
-        width: 1576
-        height: 932
         isCached: true
   - title: "Azure Cost Management + Billing updates – April 2020"
     excerpt: "Whether you're a new student, thriving startup, or the largest enterprise, you have financial constraints and you need to know what you're spending, where, and how to plan for the future. Nobody wants a surprise when it comes to the bill, and this is where Azure Cost Management + Billing comes in.\r\n\r\nWe're"
@@ -191,6 +182,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
+  - title: "Azure Cost Management and Billing 2020 year in review"
+    excerpt: "2020 wasn't the year we signed up for, but was chock full nonetheless. From optimized account and invoice management experiences to richer reporting within and outside the portal; new ways to facilitate chargeback and more flexible budget alerts to an overwhelming amount of new cost optimization opportunities."
+    publishedDateTime: 2020-12-15T10:00:22Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-2020-year-in-review/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
   - title: "Legacy developer portal in Azure API Management will retire on 31 October 2023 "
     excerpt: "Start using the new developer portal in Azure API Management."
     publishedDateTime: 2020-10-28T00:00:19Z
@@ -237,6 +237,6 @@ related:
       domain: microsoft.com
     quality: 68
 
-secured: "RbIL+Y9br0c9Ap8EBzid6aXGIW2bsrJLl1PY+Up/gP3ZJLWpWtVWiqBq+SR9tumTp1JyDJWifULTZtCTWkUogZQb3gsSew2WHPOLGdAhWbM6AuKYuWEBqrKCLE2m+cXbs9+iV2on+lJlL9lGnDWcrkZoKLrP7LBxDfKLSzdi5zV2JFZU86N70umxxR958XkRERVNYNo3wmJaAtyeYU6GBfIMOh9/gojn0gRv2vk7Aqf7jEceGfXEP1z4XmILzqlQhk/Jw24HQ0UX4Ubw71qyFM6LATEi3TT5ErZTzpNy61N4dbLq7/Ha1YsfAuWsbMG3LbKuB1PRiv5edfiz+UycjwxlB+2FlxU2/okn9IhJWHM=;e/IzqcwMH+pJRsy+W46rhw=="
+secured: "LgkNmmKQEDJmYz7O4w8kG7L+W/7xi8YBhZJJ32rDKb+jiz9nh7YXlaiG0H8nUoaSTvgr7EChoG+yNIAzmFCglpkDuHroaVH9Q9kMpuY0XjNEvmJNE1L+JogefjbLbaHjAQE/AM3n0u/ys45s2BY0v5VEWJZbWH0Q7GpKN65gXOn1XG2hrpcyrLyO2K959FUmNwHySszAeovkpUagwZt9vPKuykIc38bi0c7wJRchhgbNeKjIHp1ft7aGyrq1+64FVyhwHGmXbh+WGuwNM009Dg5ydYsje5b/VWiaEctc1lmkx2UF0puB070zAsZv8hr5fel6GhlCJKjWps3ImEyR2ZZbzWsSBOKwefzbqrLPtCI=;DtU1MEutjtUANToo2Me6TQ=="
 ---
 

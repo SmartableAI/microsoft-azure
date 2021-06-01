@@ -343,6 +343,22 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "It’s not me, it’s you: How to keep up with Microsoft cloud services trouble"
+    excerpt: "When cloud-based apps, services and software go down, or when Windows 10 flakes out, it's good to know where to get reliable information about what's happening."
+    publishedDateTime: 2021-06-01T12:26:00Z
+    webUrl: "https://www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.html"
+    ampWebUrl: "https://www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 40
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/02/online-100833460-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "3Cloud Partners with Databricks to Help Companies Build Modern Data + AI Platforms in Microsoft Azure"
     excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI)."
     publishedDateTime: 2021-05-25T15:54:00Z

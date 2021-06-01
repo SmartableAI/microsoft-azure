@@ -343,6 +343,22 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "It’s not me, it’s you: How to keep up with Microsoft cloud services trouble"
+    excerpt: "When cloud-based apps, services and software go down, or when Windows 10 flakes out, it's good to know where to get reliable information about what's happening."
+    publishedDateTime: 2021-06-01T12:26:00Z
+    webUrl: "https://www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.html"
+    ampWebUrl: "https://www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 40
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/02/online-100833460-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "3Cloud Partners with Databricks to Help Companies Build Modern Data + AI Platforms in Microsoft Azure"
     excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI)."
     publishedDateTime: 2021-05-25T15:54:00Z
@@ -670,6 +686,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "KGn4F7IOUbDfQa26sc7dx6uOPBlB+/7tDNrH8Mb6UEgay9FUMPWlNXcx8hZ+zST1HuQVU2Qo2zGDSu0rLjHjkVZPQ5YCDVvXSagVYO5WiQHUXSTWkHT2H/hGU2PYFhdpBZFbu0YoZJHVpUPOGzYvos/FdypnAwWR7TfVI8ivymH9W+6iUjPDaLn/RN8cP60fdfALDiHfyEpOk13TlAioC3LvL8XaflScGbQu8GzZ/F0O5y6nPyThRkovL40p6op6AesVoNs6KYSF4MHy1E0scNDmgXPtBrmsubwVdoAdY7ptvW7V3WsV/D7y98RZQElInhsX5XXwOaXvUkvPgoKMVEBIfQIeSX+4a+bf/E54ju0=;3M7cfokM3D8mAu4Hpcurpg=="
+secured: "P9oGWwR9wCD0O2kzxM5XufUzcCMBTyaP4RjDeIeRcVDu8sQtG9jgdB5Akpq/vr4SFAqsj/AeOGUyV9/rBfA6+0u5v7Xl+8vVfBQvQoddMGfTNPK3Jw5kOyN7TPv4xkr41SXIfIRpamGcIVN7RwX5ngO6cume3Yda+R5VsvPsqfS2oKwwI/llRk5mEMIn640erf5/nkvu7lAbkBarZrW9TFYbcIhhB+Okgj982mu1cN4+edqbSCa6gMECyoMCHR2MRzi7RAbx0l4eRKPIUqvTyK3sGAZ1/76B14tyzZiV0NYZsIkb2bsQkO+9lJ0SbJQ/XUkTyigRJDnZ9EoqCBwFAH6ArvlISWaJUDCN5gQryEw=;05/0+USVZWKOY2MXUEy5Lw=="
 ---
 

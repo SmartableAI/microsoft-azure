@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
-excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
-publishedDateTime: 2021-05-31T15:52:00Z
-originalUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108"
-webUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108"
-ampWebUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
-cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
+title: "It’s not me, it’s you: How to keep up with Microsoft cloud services trouble"
+excerpt: "When cloud-based apps, services and software go down, or when Windows 10 flakes out, it's good to know where to get reliable information about what's happening."
+publishedDateTime: 2021-06-01T12:26:00Z
+originalUrl: "https://www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.html"
+webUrl: "https://www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.html"
+ampWebUrl: "https://www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.amp.html"
+cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.amp.html"
 type: article
-quality: 51
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: IT World Canada
-  domain: itworldcanada.com
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2016/04/build_6_web.jpg"
-    width: 1000
-    height: 667
+  - url: "https://images.idgesg.net/images/article/2020/02/online-100833460-large.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -315,6 +315,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
+    excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
+    publishedDateTime: 2021-05-31T15:52:00Z
+    webUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108"
+    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 51
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2016/04/build_6_web.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Microsoft Previews Contextual Settings for Azure Active Directory Conditional Access"
     excerpt: "Microsoft this week announced a public preview release of an Azure Active Directory Conditional Access capability that lets organization trigger policies for end users based on a situation or context."
     publishedDateTime: 2021-05-27T23:33:00Z
@@ -328,22 +344,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140226REDMackieSMIME.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "It’s not me, it’s you: How to keep up with Microsoft cloud services trouble"
-    excerpt: "When cloud-based apps, services and software go down, or when Windows 10 flakes out, it's good to know where to get reliable information about what's happening."
-    publishedDateTime: 2021-06-01T12:26:00Z
-    webUrl: "https://www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.html"
-    ampWebUrl: "https://www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 40
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/02/online-100833460-large.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "3Cloud Partners with Databricks to Help Companies Build Modern Data + AI Platforms in Microsoft Azure"
     excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI)."
@@ -686,6 +686,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "klfRRTJOAedOAfTjnwMzmOabwllvENN2XzeRnxAdNcSMSCDKO5G/H0bWQ+2LSHYwKzWDNkKUaL2bubCPxQjj7RhSs5kcuzvOX9TrZ18w7v4BOiDurmnQcXngTH6Fk6vs9uJE8ZAK3mvY55VyB2LfC/qwwvAuX7/UY+BqGN6hGeNw/o/UrC3ehaIn1sP+bYUBBOoJOb7Z2PgnDpFmPs2oyADyemxNIpFPUiXQhw9FvtTxnb0mG+FlTq5EyVtoCXa7G6V2SSVt8RmJtjY5rEPx/N5yl7zhFWzlV8bTn3N5WW8dt25vqfVmteqd7Ysbr4grJr5KWyuIlmx7OmpJadxooeHEUuZVrp+iqopBNr8OhUXfM8QmODn694mhgqLiLH9MIqpGNdfjsyrlvQoaLlrpKzq55x/OLDlkUu4xx2ndx+01nwCdHqEb4K4lTVg0iJA/z8QgYFZ4rjLl/VGSG7KdosDbz80nUEh3HP5hEZPhTc90HE7ahHPhuI9CxTzjddw6tZyWEjfMC4kq/fP8MFygAA==;A0UoNDl0Xtgh8kiJLpTJuQ=="
+secured: "O+o1djkQRiZCJXvcGg+iFmEFOovUltSD/H0qKHrceWgOg1QcnlbrflPMX2a5Flfjliz1WLXIp7xcetVOwg9vonbqdAzigl8C4ca5en0U9/bHx+uLlAiPA44EnwxJ5nTjY84Hy20eO7xEOfBDtABzbgjmYggf+iIgMKwwrB0L83W/wqKZDsV4i2fgLHfUbL+giXiaEoTLApM7p179r+Bj32y8IVeLfPF20YeBfUDjqqq8eDfheSvyH94bMU+tC9zq//AvzADdvVecjBHDds6Dud9z964ugLCn1vwlLI3aP0ZM57PirNSh5n2Kg0gGXT0+oaMtxy5qx7WjyqhGuQ5qnLgsVuvBYI4BVZaSUHaBlpM=;/5rFMCBgZ7JAHHeqqfobxg=="
 ---
 

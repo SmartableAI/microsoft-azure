@@ -3,8 +3,8 @@ category: news
 title: "Azure Site Recovery update rollup 55 is now generally available - April 2021"
 excerpt: "The latest Azure Site Recovery update provides improvements, fixes, updated replication support, and download links for Site Recovery components."
 publishedDateTime: 2021-06-01T15:52:22Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-55-is-now-generally-available-february-2021/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-55-is-now-generally-available-february-2021/"
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-55-is-now-generally-available-april-2021/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-55-is-now-generally-available-april-2021/"
 type: article
 quality: 81
 heat: -1
@@ -69,6 +69,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "fv2uoFwuVLWGzO+L367hVYq9JljTYqpOuKE4hua6hmjyHGFS+SixbMHtCSJ2zCZDKHoNIgyszMNeruGnOPagLgM2mbsjujL773CxtwZviP8Qow73QorNs69Jqot3LQFzQx+z522GzXZSM4Bx6N4vmyitd45X7ikHNLDbcXmNfqjEdGGebqWBr+17MavePJXAPKR0H/J01Df5llMdz9sITCgCSs8H1DS1WYAfVapLNGxRWVYa7zPupJHLIUiP4pJ1AjWbpunOHfpBFA9PDPiH/8/btG/ohuUYrC1SZEH9ZGos/baoO3cTf9hCBpwUHSTTIRUbsWv+Z0Ssc/ZMKz5iIIizkH881AXeHv/pugMdY+M=;nnEVkyr4aEewTs6sYHa/xw=="
+secured: "et9DrIC89xmcBJ9PKZY9fzvQVADGhMFYUoJJpNpMF/OY2gtSbuYAqoalFXCFN7pnlMxA+B+9VhhU4tcPMav+uC7/Rn1AoLcX6on4VVnfws67AQ4MJSsWsdhIi+XS1/X/WJHDOqvQoTPIcP3+p+EJhfEVSIAuQy4rbnbt/4v5SUq1sP6fBdn+ejyj/SeaDh9JZsiElmjAnqnuDiBB0ddRtudtNZ7xkpEzIhuF5nXR71KGdY7GCgM0Pdev2yt2pxxXlfkztL2oQF6XGjSqy+I6iD1yq3kubzlU8MfJcIuYIytupenVLtjQ9tK1EKmKsG6/IKt8/e6PE2RZw+CMnnH+4vq+8XYZEboPWNvJM3ax3dM=;KQOM7Pe0/s+7xD6ZqZPX7A=="
 ---
 

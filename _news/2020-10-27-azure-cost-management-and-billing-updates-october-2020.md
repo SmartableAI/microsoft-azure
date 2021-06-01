@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-upd
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/"
 type: article
 quality: 103
-heat: 443
+heat: 463
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c1c05119-f726-4026-a91a-cb47b077522c.png"
         width: 2545
         height: 1146
+        isCached: true
+  - title: "Azure Cost Management and Billing updates – May 2021"
+    excerpt: "May brings expanded coverage of two popular features: Cost allocation is now supported in all usage APIs and downloads and management group exports are now available in Azure Government. On top of this, you also have more custom date selection options in the cost analysis preview and four new generally"
+    publishedDateTime: 2021-06-01T10:00:53Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-may-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0648ad0d-cce3-4779-85f9-01075ca471c4.gif"
+        width: 1576
+        height: 932
         isCached: true
   - title: "Azure Cost Management + Billing updates – April 2020"
     excerpt: "Whether you're a new student, thriving startup, or the largest enterprise, you have financial constraints and you need to know what you're spending, where, and how to plan for the future. Nobody wants a surprise when it comes to the bill, and this is where Azure Cost Management + Billing comes in.\r\n\r\nWe're"
