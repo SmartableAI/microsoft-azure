@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
-publishedDateTime: 2021-06-01T13:30:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-06-01T13:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-    width: 2698
-    height: 1414
-    isCached: true
 
 related:
   - title: "Microsoft adds enterprise support for PyTorch AI on Azure"
@@ -121,6 +115,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "U6Bdlaj8W3BaZMOprjjrAlTDIt36gdS9YLiQVUZxn7LLVloT4Jvg17bDGfsQLWm6YK/eJWPANHjsYIzIo8uAbZxtSFhgDmTxTNA36uxxXpHVWmBDL6S7mwFCaE3aqabMBYW2sCjtdbVUW/0O+oqeNK8GpBJukOaLRnRxk0uURZbNgtDXdfXPGMtg/XSb/dk3Sgx0YB+RFwivHxFcwOOu0m95JZTkqrA04VPv4lWxYbNgRfXk2JZCO50xPK5Q0Xd4v4z0kBzh25CzmQ5w8q7oH3gjRLt+Tx0A6ZXpyg2+v5LSqiw3P1Idy19YXADOTmX9agiCm7XL7VhuGsG84RSQVNa/lZXH+12bfKNpTQpLxxg=;aTuH1x0rYZgo6ks/70S6Ig=="
+secured: "oRLzKR73xy88YF/C11ygeRY6EUV+9VPaSOB7MTCP84lqwBO+5bWRFg0OW7BZofIpZ1sdzuTfmKMCSHYn4HLBP/Uo6mVM9ACcG5Cv5w0uQorCUEwp/jTrb4Rc2zb8u+t3DPJa4PNUDl64/unpgUnCI6W578gtD6VNRHg1QKENivulmsiDHvKWcr0a1/rBblX6VTUwxbAWrE5MjL+sxgE9DCSQNiqBKOmJczJQtxYC8Q0DGKPI6mwCmhz60zNeMCdmQKjjQDL6Win5308EFLz37M4/DnEGEa9/Yu0vfjKEd+ZqAbwNEy5IioUp8DgJ4sC7SGoVv92vf50o7jqVQfNMVFHivG1dm/QRpU77Psolnss=;B181cOtDzLy5nUwyd6RcWw=="
 ---
 

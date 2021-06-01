@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Site Recovery update rollup 55 is now generally available - April 2021"
+    excerpt: "The latest Azure Site Recovery update provides improvements, fixes, updated replication support, and download links for Site Recovery components."
+    publishedDateTime: 2021-06-01T15:52:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-55-is-now-generally-available-february-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
   - title: "Azure Site Recovery update rollup 46—June 2020"
     excerpt: ""
     publishedDateTime: 2020-06-04T21:00:29Z

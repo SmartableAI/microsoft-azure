@@ -1,10 +1,10 @@
 ---
 category: news
 title: "15 Big Azure Announcements Made At Microsoft Build 2021"
-excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
-publishedDateTime: 2021-05-25T15:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/12"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/12"
+excerpt: "The three-day Microsoft Build 2021 developers conference started virtually today with the No. 2 cloud provider introducing a slew of updates to its Azure cloud computing capabilities. Azure ..."
+publishedDateTime: 2021-05-25T15:16:00Z
+originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021"
+webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021"
 type: article
 quality: 37
 heat: -1
@@ -670,6 +670,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "XKO+ueiD3WsFVGPqycjFKQDsCZvkwrVrFtgmlhEavktRh608TWqLmLm5vAUHpvfKHr6DeflRLAhaf85wP60/5izKzd7FTA2u86AS1dI/nhu+FtV43AS7ZGr1PUEsHrDfJtNNeMiXYqxyg8POLD5eSTS0fKjtOqbHDmAy8zU8xWVgCLgp27j3dWwNWx4OVU2ZHwqLzhbpFFQtsdHLSEs1V8/KlYVu4y0bOMieI9G+m3NI2W3hvrv/ZytOclSGN8ln5cA8Li4EcWSPEwwiT/UW0gms6bVlSI+uZulllMd68GDZMHbDCY0eGpa9s45AZW1Ob2VG1oqo/c4EoPhsmDI+xeXqQL5Ti+qy5GZABzCF3mV2JargYcEClLa0OZEbChK73WP35mzfyG0DTd7Tze5EXs241IbdMCppJ5kGRLGrwPyVgX0KGpxmsIe8C/cDPnS8BbMLgfSliprnELbxtouWBToEC6o4KTI+3UODIAwAvcDLfOqJoNFnoJ0f7D4Jg7kZ47XloQYEm5rNxnXj/2AgLg==;16j/c9wsuCaQWRIBVn5jRw=="
+secured: "c077DjXEtMAs9Xpgkp8TneYySvh3W4yo4WtxMiSenkACIiovmi24jzo6Sb18Oq/nRM19eDQSAL1FjoK26bAuacAh3Mq8SOq4PLaDByy3Dvm4SpVcPJ+sbvHT34rkycZ1ubWXyiZg+BxybbmqHnMOgEWFmRH3qmus6tjFeOI/ZVVKDEOHzIjGn2GQo9/r4FvB5BuNnupoltWpn6FQ6GnIkPT5TvN3T0INpiBJcCFKiTd08Ty58WfWM920/CvPFNU6MRZCtIwY2hN73MYys65OPa0CANmWa3ZEoQvTPPPRFmSCSUh7vD7CrzgBnDIj94nXnKLuq/6h/ttW+V2ZbwWZoUo+TVhs8R2ldZ/Q9Z0gLXo=;1ginJDngkaq2cTSGrXJnmQ=="
 ---
 
