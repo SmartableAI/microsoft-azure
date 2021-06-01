@@ -454,9 +454,9 @@ related:
         height: 337
         isCached: true
   - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
-    excerpt: "TEL AVIV, Israel, May 26, 2021 /PRNewswire/ -- KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure ..."
-    publishedDateTime: 2021-05-26T12:12:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-301299746.html"
+    excerpt: "Microsoft Azure customers worldwide now gain access to KMS Lighthouse to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business ..."
+    publishedDateTime: 2021-05-26T12:15:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-861187119.html"
     type: article
     provider:
       name: PR Newswire
