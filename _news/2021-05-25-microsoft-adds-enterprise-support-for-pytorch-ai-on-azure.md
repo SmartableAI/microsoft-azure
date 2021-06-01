@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-enterprise-s
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
 type: article
 quality: 94
-heat: 234
+heat: 254
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://www.automation.com/getmedia/022c7d46-c73c-46fa-996f-b301d9f8eb4c/Senseye-microsoft-May-27-2021-web.png?width=500&height=313&ext=.png"
         width: 500
         height: 313
+        isCached: true
+  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
+    publishedDateTime: 2021-06-01T13:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
   - title: "CertsInside Microsoft AZ-104 Exam Questions Based on Newly Added Azure Exam Topics"
     excerpt: "New topics have been added to the Microsoft Azure Administrator exam. Now the preparation must be in accordance with these new AZ-104 topics if success is the goal. CertsInside has also upgraded its Microsoft AZ-104 exam questions due to newly introduced topics."

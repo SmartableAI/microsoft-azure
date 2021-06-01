@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Senseye PdM Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime."
-publishedDateTime: 2021-05-27T16:14:00Z
-originalUrl: "https://www.automation.com/en-us/articles/may-2021/senseye-pdm-now-microsoft-azure-marketplace"
-webUrl: "https://www.automation.com/en-us/articles/may-2021/senseye-pdm-now-microsoft-azure-marketplace"
+title: "Dataiku Now Available in the Microsoft Azure Marketplace"
+excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
+publishedDateTime: 2021-06-01T13:30:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.automation.com/getmedia/022c7d46-c73c-46fa-996f-b301d9f8eb4c/Senseye-microsoft-May-27-2021-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
+  - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
+    width: 2698
+    height: 1414
     isCached: true
 
 related:
@@ -49,19 +49,19 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
-    publishedDateTime: 2021-06-01T13:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+  - title: "Senseye PdM Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime."
+    publishedDateTime: 2021-05-27T16:14:00Z
+    webUrl: "https://www.automation.com/en-us/articles/may-2021/senseye-pdm-now-microsoft-azure-marketplace"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Automation
+      domain: automation.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://www.automation.com/getmedia/022c7d46-c73c-46fa-996f-b301d9f8eb4c/Senseye-microsoft-May-27-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
   - title: "CertsInside Microsoft AZ-104 Exam Questions Based on Newly Added Azure Exam Topics"
     excerpt: "New topics have been added to the Microsoft Azure Administrator exam. Now the preparation must be in accordance with these new AZ-104 topics if success is the goal. CertsInside has also upgraded its Microsoft AZ-104 exam questions due to newly introduced topics."
@@ -121,6 +121,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "SKcV4DEQqo7PX8x8sM6Wx/EEAyLScVlUk1FAlkFX0fv490UTdMtW2IezOAJ36busDNxLdyMLKYixVTENhUCGMCzJpq5ebl/uLoNMWoXc1hIZZNFIt2vk+lolJwkFByjkInQVxUQJ/gv9SM7Pdv4aHFP3vc8aH/x+09idGKlcaDQc8IqYug9mD4uyGyzA2VLPisNpvLY5JXFabmoL/E2kooMrAyJrVFMqU58X1t2cmKmfso3Mmaef4JA/Fru0Yw1G/Mfq2ksG/R7pmP83QaANsEjXnqxBgdUHJ2A/rpeOTDV1hGcFr5qmLmqUMxngRcDP0GQ2th+1w4l9CeErf7m36zD4Npt6PiQ0wofxnmQTrKBxMWZkQmdbICPcMLCPRfrEAwnjYai9L3/nKTbcqotiuZEvmdvwC6WzizAO1Q9QxI6AloUKMNswKZGE4q9E2LM5zA0YlcTrQJjuifZPUL9W0J42X9DhgQw2hGI3PteJNjkdC5uTm1FQLqpErRTvP+LoR8PpjBL0RQVhEINL5tKPhw==;g4GC43R9+pkpQmAWuXf38w=="
+secured: "U6Bdlaj8W3BaZMOprjjrAlTDIt36gdS9YLiQVUZxn7LLVloT4Jvg17bDGfsQLWm6YK/eJWPANHjsYIzIo8uAbZxtSFhgDmTxTNA36uxxXpHVWmBDL6S7mwFCaE3aqabMBYW2sCjtdbVUW/0O+oqeNK8GpBJukOaLRnRxk0uURZbNgtDXdfXPGMtg/XSb/dk3Sgx0YB+RFwivHxFcwOOu0m95JZTkqrA04VPv4lWxYbNgRfXk2JZCO50xPK5Q0Xd4v4z0kBzh25CzmQ5w8q7oH3gjRLt+Tx0A6ZXpyg2+v5LSqiw3P1Idy19YXADOTmX9agiCm7XL7VhuGsG84RSQVNa/lZXH+12bfKNpTQpLxxg=;aTuH1x0rYZgo6ks/70S6Ig=="
 ---
 
