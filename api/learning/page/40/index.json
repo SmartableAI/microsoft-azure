@@ -4,48 +4,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-text-to-speech.md",
-      "title": "Introduction to Text-to-speech",
-      "excerpt": "Text-to-speech converts text into human-like speech, along with the ability to create a unique, custom voice to use in your applications. We introduce the different types of voices, how to use them, and review situations when they are appropriate to use.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-text-to-speech/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-text-to-speech/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 3,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-text-to-speech-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-translator.md",
       "title": "Introduction to Translator",
       "excerpt": "Translator is a cloud-based service that uses Artificial Intelligence to reliably translate text and documents between languages in near real time. You can add multi-language user experiences to your apps in 90 languages and dialects, along with free text translation with any operating system. Translator also has customizable translation models that can better understand industry-specific terminology or pronouns.",
@@ -95,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-sap-workloads/",
       "length": "PT50M",
       "ratings": {
-        "count": 709,
-        "average": 4.8110013
+        "count": 710,
+        "average": 4.8112674
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1281,6 +1239,49 @@
         "Compute",
         "Migration",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-m365-threat-safeguard.md",
+      "title": "Safeguard your environment with Azure Advanced Threat Protection",
+      "excerpt": "Learn about the Azure Advanced Threat Protection component of Microsoft Threat Protection.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-threat-safeguard/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 2234,
+        "average": 4.83393
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/safeguard-your-environment-with-microsoft-azure-advanced-threat-protection-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
       ]
     }
   ],
