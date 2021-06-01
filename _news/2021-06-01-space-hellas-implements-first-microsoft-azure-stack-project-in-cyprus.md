@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Red Hat Brings JBoss Enterprise Application Platform To Microsoft Azure, Easing Shift To The Cloud For Traditional Java Applications"
-excerpt: "Red Hat, Inc., the world's leading provider of open source solutions, today announced Red Hat JBoss Enterprise Application Platform (JBoss EAP) on Micro"
-publishedDateTime: 2021-05-31T09:35:00Z
-originalUrl: "https://www.albawaba.com/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
-webUrl: "https://www.albawaba.com/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
-ampWebUrl: "https://www.albawaba.com/amp/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
-cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
+title: "Space Hellas implements first Microsoft Azure Stack project in Cyprus"
+excerpt: "Space Hellas successfully completed the First Azure Stack Installation at Cyprus Trading (CTC). Responding to the CTC Group's need to integrate information infrastructure and using Microsoft Hybrid Cloud technologies,"
+publishedDateTime: 2021-06-01T11:14:00Z
+originalUrl: "https://www.telecompaper.com/news/space-hellas-implements-first-microsoft-azure-stack-project-in-cyprus--1385062"
+webUrl: "https://www.telecompaper.com/news/space-hellas-implements-first-microsoft-azure-stack-project-in-cyprus--1385062"
 type: article
-quality: 26
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Al Bawaba News
-  domain: albawaba.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/red_hat_tower_1.jpg?itok=JVU6RfPF"
-    width: 504
-    height: 360
-    isCached: true
 
 related:
   - title: "Microsoft adds enterprise support for PyTorch AI on Azure"
@@ -79,15 +71,22 @@ related:
         width: 600
         height: 312
         isCached: true
-  - title: "Space Hellas implements first Microsoft Azure Stack project in Cyprus"
-    excerpt: "Space Hellas successfully completed the First Azure Stack Installation at Cyprus Trading (CTC). Responding to the CTC Group's need to integrate information infrastructure and using Microsoft Hybrid Cloud technologies,"
-    publishedDateTime: 2021-06-01T11:14:00Z
-    webUrl: "https://www.telecompaper.com/news/space-hellas-implements-first-microsoft-azure-stack-project-in-cyprus--1385062"
+  - title: "Red Hat Brings JBoss Enterprise Application Platform To Microsoft Azure, Easing Shift To The Cloud For Traditional Java Applications"
+    excerpt: "Red Hat, Inc., the world's leading provider of open source solutions, today announced Red Hat JBoss Enterprise Application Platform (JBoss EAP) on Micro"
+    publishedDateTime: 2021-05-31T09:35:00Z
+    webUrl: "https://www.albawaba.com/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/red-hat-brings-jboss-enterprise-application-platform-microsoft-azure-easing-shift-cloud"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 26
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/red_hat_tower_1.jpg?itok=JVU6RfPF"
+        width: 504
+        height: 360
+        isCached: true
   - title: "Glance Networks: Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
     excerpt: "Glance Microsoft Azure customers can also credit Glance session data flowing through Azure towards their Microsoft Azure Consumption Commitment (MACC) requirements. Glance for Financial Services ..."
     publishedDateTime: 2021-05-25T17:10:00Z
@@ -107,6 +106,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "PGZQyqDs22hIVUSltNljo4udqcfpkV89+H5RvXGCHE/RgPHQtb3GIFlJtNMdfG5gHLSgW3O/lbplXEGbdSCk2DldTKTCXcz8v41ZJ44V+CJE7SJmydwn9bJdrc9TBFy7qVzcwiqmiL2uGQYek2yWII3Pq8mnJNwqlyfyvsudZ/Oi8uI/kipvFfyy9C8IdkxIRvTSe10LL87Q/rYADaddaY8bdKGvgbyWPH0/c9TAtusGmEcnPZf9EbRT6Z0YyC+UnE86KNwDAkuDJ/RSAOpIZFhUdhsogR7LmDuInmbnvUZYhhCgvAZR5lWg4S6+2QkowW1D7bMyuq8cwj1RkkR9PE+mK/wZxuLekN5k0astsX6DV++YLTSHx0N0eJyyud5kkX+mqN9beNJBivI1bWgMsgvdNm/waVL48fmcqUEAzGLRA8DJg5k93B+843IpCicRcdMPzBtCyWqhrr5B441kf/Jg3HEDg6hBDCpDyiTzmpuY4S1LXP+HB147qLIM/Q9cSdXWEjiW538SZCnkxtfZOA==;OBtBMHeojUIlT8zB1hgpxQ=="
+secured: "oAEwG96NIjKrEkCZxY24JQAnc2BoKGzflrTk6uoY1gqjZydj0iihcCi7vmeLwZqOkV49BURIZuF1N3x7GS4mOCN4Yz/WEMyobUD5Aa9hp+7J5TOnpTD2IALOKFkE1I3Sq8g964nXypoPFOFPottkR1GHzLFdkoldGAdJoY5nSQZxBr15xc0I7/96O56yBsbYRwG3Y8MgqG6dv8Gz9+0peShWaAi6DAg5k8oY3SH68UunLkT8qXqdRvGi7Ipft8En1MilkStbKuQLz5p977I4p6BhplrDCuhvt81zx7RZOJOs4n/rZexRuXjql0/971KxmbeOkICf0K6bO+yuBDxWK7qsw2BR8pOJQJ52r2HdG1c=;cFe/u5/LY4R4apTZL+i8rw=="
 ---
 

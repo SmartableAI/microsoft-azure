@@ -80,6 +80,15 @@ related:
         width: 504
         height: 360
         isCached: true
+  - title: "Space Hellas implements first Microsoft Azure Stack project in Cyprus"
+    excerpt: "Space Hellas successfully completed the First Azure Stack Installation at Cyprus Trading (CTC). Responding to the CTC Group's need to integrate information infrastructure and using Microsoft Hybrid Cloud technologies,"
+    publishedDateTime: 2021-06-01T11:14:00Z
+    webUrl: "https://www.telecompaper.com/news/space-hellas-implements-first-microsoft-azure-stack-project-in-cyprus--1385062"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Glance Networks: Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
     excerpt: "Glance Microsoft Azure customers can also credit Glance session data flowing through Azure towards their Microsoft Azure Consumption Commitment (MACC) requirements. Glance for Financial Services ..."
     publishedDateTime: 2021-05-25T17:10:00Z

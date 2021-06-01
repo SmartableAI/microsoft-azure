@@ -87,6 +87,15 @@ related:
         width: 504
         height: 360
         isCached: true
+  - title: "Space Hellas implements first Microsoft Azure Stack project in Cyprus"
+    excerpt: "Space Hellas successfully completed the First Azure Stack Installation at Cyprus Trading (CTC). Responding to the CTC Group's need to integrate information infrastructure and using Microsoft Hybrid Cloud technologies,"
+    publishedDateTime: 2021-06-01T11:14:00Z
+    webUrl: "https://www.telecompaper.com/news/space-hellas-implements-first-microsoft-azure-stack-project-in-cyprus--1385062"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Red Hat Brings JBoss Enterprise Application Platform to Microsoft Azure, Easing Shift to the Cloud for Traditional Java Applications"
     excerpt: "Offering enables the migration of Java applications to cloud environments Red Hat, Inc., the world's leading provider of open source solutions, today announced Red Hat JBoss Enterprise Application Platform (JBoss EAP) on Microsoft Azure,"
     publishedDateTime: 2021-05-25T10:00:00Z
