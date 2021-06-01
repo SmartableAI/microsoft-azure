@@ -4,7 +4,7 @@ excerpt: "Learn how to create a mixed reality HoloLens 2 application using Azure
 type: collection
 price: Free
 length: PT3H59M
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
