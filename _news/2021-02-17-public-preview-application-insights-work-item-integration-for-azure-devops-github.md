@@ -47,6 +47,15 @@ related:
         width: 1462
         height: 1056
         isCached: true
+  - title: "Azure Security Center: Public preview updates for May 2021"
+    excerpt: "Public preview enhancements and updates released for Azure Security Center in May 2021."
+    publishedDateTime: 2021-06-02T15:33:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-may2021-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "App Service integration with GitHub Actions now generally available"
     excerpt: "Continuous Integration and Delivery capabilities from GitHub Actions are now generally available in App Service Deployment Center"
     publishedDateTime: 2020-09-22T16:01:21Z

@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
-excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
-publishedDateTime: 2021-01-21T15:50:00Z
-originalUrl: "https://www.arnnet.com.au/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
-webUrl: "https://www.arnnet.com.au/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
+title: "Microsoft Azure hosting review"
+excerpt: "Microsoft Azure is a solid and reliable choice for hosting large websites and applications, and pay-as-you-go pricing ensures you aren’t overcharged. However, tech support is costly on a monthly ..."
+publishedDateTime: 2021-06-01T09:04:00Z
+originalUrl: "https://www.tomsguide.com/reviews/microsoft-azure-hosting-review"
+webUrl: "https://www.tomsguide.com/reviews/microsoft-azure-hosting-review"
 type: article
-quality: 69
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Tom's Guide
+  domain: tomsguide.com
 
 topics:
   - Azure
-  - AI
 
 images:
-  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
-    width: 740
-    height: 493
+  - url: "https://cdn.mos.cms.futurecdn.net/kN7ivEZ4NotxNMHaHhKG6Q-1200-80.jpeg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -251,6 +250,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 76
+  - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
+    excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
+    publishedDateTime: 2021-01-21T15:50:00Z
+    webUrl: "https://www.arnnet.com.au/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 69
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
+        width: 740
+        height: 493
+        isCached: true
   - title: "Get 6 Microsoft Azure courses valued at $199 each for under $35"
     excerpt: "It's not often that you come across six fully-loaded Microsoft Azure prep courses bundled at a deep discount. For those looking to get ready for the Azure certification, these courses—now ..."
     publishedDateTime: 2021-01-11T08:00:00Z
@@ -452,20 +465,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Microsoft Azure hosting review"
-    excerpt: "Microsoft Azure is a solid and reliable choice for hosting large websites and applications, and pay-as-you-go pricing ensures you aren’t overcharged. However, tech support is costly on a monthly ..."
-    publishedDateTime: 2021-06-01T09:04:00Z
-    webUrl: "https://www.tomsguide.com/reviews/microsoft-azure-hosting-review"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/kN7ivEZ4NotxNMHaHhKG6Q-1200-80.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft Azure sellers gain a data edge with the Microsoft Power Platform"
     excerpt: "Data is great to have, but it’s only as good as our ability to digest it. Alex Thiede, digital transformation lead for Microsoft in Western Europe and a former Microsoft Azure field seller based in Vienna,"
     publishedDateTime: 2021-01-04T21:43:00Z
@@ -666,6 +665,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "/hKXbG0ySOTbTxq1msf9VP5cDInzzLp5/alm51WHtz3fWQ05NedS9UuP+kvCfsrF/OmwwxRa6YoezECDo6JXooT8p38ulwZ6ksPXr8nHbf1CP7TuFoyCOXeF2knwXZaOpJGPxr7u0R9C29cvU5X01VLKP87CLbPADngbe9VKRhmlitBNgm+yw45dyAYoBBpk1oSN7nNpMxZ04icyDYBn8Taitz8XjtkUF6bkLkCOCvqwWlffRjk/fYRKFgLWpjHb1e1BvTCBELakdA3e52EPIdCx5T8lOqvWRmhkpb+ZfQVTMq2UupQIPpCD3H50cwihAlfvbe9oUJ1yWyvpI6iMaEMhTkaPQJuZR8ecLzbTXBg=;o+VUjmMoVmWoaF+kPUUh8A=="
+secured: "iHDH6GwAQR4rNbjJmlHDUkegTattTJI/+aQMyrFdGKwpl/k13dzJFTVWdabBPKGFy1etxGNs3ANNVSeB0g/DTOQ1jPrSqmTSlPioGBxDCmLdwdQK8p2bA4/5ch+CK4m4rCgf2YhfjNG86dkhVGJUiyQiKpX48BgN1vDnKJd6DkcOICbtqKgCusa463gFZHabMvdfP2RWrliXVNegZaLcJW7u6rOkwBrVXvvioXKcF+cHTr4HLSgzo1TbdrHdzkq9+mttX9ngRFWdsrK0bVUU9tVo6kT6rqxLmc4LBc4zYsWM+VmH94yTYyWjchi81oz0yqgulIvdFGB/JnrI8mIY+YHacXNI/LrJl2tGZYrO3oY=;Hvoiy1V+12lzDux/ry9s1Q=="
 ---
 

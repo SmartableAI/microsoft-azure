@@ -1,128 +1,58 @@
 ---
 category: news
 title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
-excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
-publishedDateTime: 2021-06-02T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amesite-launches-remote-upskilling-courses-on-microsoft-azure-in-partnership-with-wayne-state-university/article_54e0d8a6-efbd-5f18-9291-5ec3685dcf89.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amesite-launches-remote-upskilling-courses-on-microsoft-azure-in-partnership-with-wayne-state-university/article_54e0d8a6-efbd-5f18-9291-5ec3685dcf89.html"
+excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12 learning and upskilling announced today its launch of services on Microsoft Azure."
+publishedDateTime: 2021-06-02T12:17:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382050.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382050.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
 
 related:
-  - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
-    excerpt: "The DataParser is widely used by regulated institutions to capture many types of on-line meeting and collaborative content such as Microsoft Teams, Cisco,"
-    publishedDateTime: 2021-06-02T07:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expanding-dataparser-with-microsofts-azure-blob-storage-integration/article_fd97f019-dc3c-524c-b58f-6ec97e86e202.html"
+  - title: "Microsoft Azure launches new Nvidia A100-powered supercomputing instances"
+    excerpt: "Microsoft’s cloud computing service Azure has launched what it claims is the fastest public cloud supercomputer. The new service named Azure ND A100 v4 Cloud GPU instances is powered by Nvidia’s A100 Tensor Core GPUs and is targeted at users with high performance and demanding workloads."
+    publishedDateTime: 2021-06-02T13:29:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 86
+      name: TechRadar
+      domain: techradar.com
+    quality: 96
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "Elastic Introduces Native Microsoft Azure Integration, Fleet Server, and Enhanced APM Workflows in Elastic Observability"
-    excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, announces new features and updates across the Elastic"
-    publishedDateTime: 2021-05-26T15:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/elastic-introduces-native-microsoft-azure-integration-fleet-server-and-enhanced-apm-workflows-in-elastic-observability-2021-05-26"
+  - title: "Azure announces general availability of scale-out NVIDIA A100 GPU Clusters: the fastest public cloud supercomputer"
+    excerpt: "Today, Azure announces the general availability of the Azure ND A100 v4 Cloud GPU instances—powered by NVIDIA A100 Tensor Core GPUs—achieving leadership-class supercomputing scalability in a public cloud. For demanding customers chasing the next frontier of AI and high-performance computing (HPC), scalability"
+    publishedDateTime: 2021-06-01T10:45:53Z
+    webUrl: "https://azure.microsoft.com/blog/azure-announces-general-availability-of-scaleup-scaleout-nvidia-a100-gpu-instances-claims-title-of-fastest-public-cloud-super/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mindtree has earned the Analytics on Microsoft Azure"
-    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling as well as pass a third-party audit of their analytics planning and deplo"
-    publishedDateTime: 2021-06-02T09:31:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269731394/mindtree-has-earned-the-analytics-on-microsoft-azure"
+      name: Microsoft
+      domain: microsoft.com
+    quality: 64
+  - title: "Vandis Announces New Offering in Microsoft Azure Lighthouse: Managed Virtual WAN Powered by Silver Peak"
+    excerpt: "Vandis is pleased to announce the expansion of their offerings in the Microsoft Marketplace with the launch of Managed Virtual WAN Powered by Silver Peak. Vandis' offering allows organizations to connect branch sites,"
+    publishedDateTime: 2021-05-26T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vandis-announces-new-offering-in-microsoft-azure-lighthouse-managed-virtual-wan-powered-by-silver-peak-1030465914"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1622625655.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft"
-    publishedDateTime: 2021-06-02T07:52:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-894610694.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-        width: 1496
-        height: 785
-        isCached: true
-  - title: "Insight Recognized again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
-    excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all"
-    publishedDateTime: 2021-05-31T20:02:00Z
-    webUrl: "https://www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year"
-    ampWebUrl: "https://www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 29
-  - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
-    excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
-    publishedDateTime: 2021-06-02T12:03:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/digital-forensics/press-release/21225090/magnet-forensics-digital-forensics-software-magnet-forensics-leverages-microsoft-azure-to-improve-digital-investigations-via-the-cloud"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 27
-    images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/06/16x9/magnetforensics.60b773162031e.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
-  - title: "EU privacy watchdog to investigate EU institutions’ use of Amazon, Microsoft cloud services"
-    excerpt: "EU privacy watchdog EDPS opened on Thursday two investigations into EU institutions’ use of cloud computing services provided by Amazon and Microsoft, concerned about the transfer of Europeans ..."
-    publishedDateTime: 2021-06-02T09:56:00Z
-    webUrl: "https://cyprus-mail.com/2021/06/02/eu-privacy-watchdog-to-investigate-eu-institutions-use-of-amazon-microsoft-cloud-services/"
-    type: article
-    provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 12
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2021/05/Reuters-EU-watchdog-microsoft-story.jpg"
-        width: 800
-        height: 500
-        isCached: true
-  - title: "Elastic Announces the General Availability of the New Frozen Tier, Enhanced Analyst Experience With Schema on Read, and First-Party Integration With Microsoft Azure"
-    excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced new capabilities and enhancements across its"
-    publishedDateTime: 2021-05-26T19:40:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210526005861/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
 
-secured: "ZEOhlwpWQXTCMll4A+jbh4V67iVAyg9jSv3zVzdC/zwFg+SJJlbj/UAF/BcAD1gp9BVfPlnqSydkBenOvIh3oITXjdPdypl3BGdI52oDYZM7vSffL6U0nclReGbVlqs/mWEl9Er8+4uCJpmlnAS1SE5fbT6D7uNFsLpL8JVasZD0RWoVHBFP0qND3ZOXmbeRtidXXM1zcINcyQtYMP8FjT3diRPl68fcjs5BIZlpKEgLFXKA3UQSKxs4ukoSrI5zPCDXEljt+Svk7Y28kCUJ0PymsCN0e8/hQfZoTPpNG8tl31mda54NZ0KgPngBkPIncIt6t/GjuilW/UqmH1BT//91T7wuwt7ZTdHk5hRyc+A=;JjkGbTlWaCjXfXdcA3KphQ=="
+secured: "lZk3E3prqJmzvzc4j04K7nVwx2NtRxW2CH22iET1ImfJVJE60kmDhOdaNViyFHtPyTLr9EHZ8EsmnvjGrvwzny8el1FvgjW6MqB5q/Shsz11s1WJ+GMJM8e4t7cWo+Fi+sj487eCWh9humNc2TqLtstZgm58MzFNgS8PyHwEv7HKOgcWBVMSfiz1B89r3eJyrRDqF6FZdqfXnEfqXlIkYGAotNCHNjrCwokp2Q+nw5rHcxpf9QYcmz6Wjiw+o7ZRqGIC8w3bjV9T0DEg5cAmCL8b8xdThwVFn/6c8jNtQ+QYGeCbV+Qz/PJI5sYUWDsP7ks4lDlA7DyCnSXoSuEJEkyyQyTKyq6ySOu6JAnuur8=;apaUcpM6Cjh7CV1mPQEFCA=="
 ---
 

@@ -59,6 +59,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Security Center: General availability updates for May 2021"
+    excerpt: "New enhancements and updates released for general availability (GA) in Azure Security Center in May 2021."
+    publishedDateTime: 2021-06-02T15:33:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-may2021-1/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Azure Defender for SQL (in Azure Security Center)—News and updates for December 2020"
     excerpt: "December 2020's enhancements and updates to Azure Defender for SQL in Azure Security Center."
     publishedDateTime: 2021-01-04T22:16:54Z

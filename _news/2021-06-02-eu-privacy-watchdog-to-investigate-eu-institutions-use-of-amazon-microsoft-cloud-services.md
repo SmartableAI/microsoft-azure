@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by"
+    publishedDateTime: 2021-06-02T15:23:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-301304206.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
+    images:
+      - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Elastic Announces the General Availability of the New Frozen Tier, Enhanced Analyst Experience With Schema on Read, and First-Party Integration With Microsoft Azure"
     excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced new capabilities and enhancements across its"
     publishedDateTime: 2021-05-26T19:40:00Z
@@ -113,15 +127,6 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 0
-  - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
-    excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
-    publishedDateTime: 2021-06-02T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amesite-launches-remote-upskilling-courses-on-microsoft-azure-in-partnership-with-wayne-state-university/article_54e0d8a6-efbd-5f18-9291-5ec3685dcf89.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
     quality: 0
 
 secured: "zOXWKHwgOrI7y+iGL5dQTuz440SVi8SVIl1eQPge/AYTP8IHgVy6ysSdve3cfiNHrDdeXOvG74/MOwrJleSsKVYq3jb/WzVr8pSbark8Azzk4FpxAfsOCPiDEIA4Oo2n7zeF+ZJbKjCBa0EEntqNhkkz12nz+GxCjiK7K2vOGW7OTa+4blBWf2aeAtPxNLYRSpuqAHunLcxS7Kbv8noyVZabbg2usf5soZQP48FbAMuQZwj1kkUDDKKYRDH8axc6rhSxJlIiiUqjGaMhv+UmjQHSK40lr1rRukvBipd9wFS6+pqUrjecweifF05/TQJ/Bpe+Qis5+uf8pBm7p27I/POIYaPpMYru/n8a/lioxfM=;vwPPfdS/V1uKk5LY6W/ZkA=="

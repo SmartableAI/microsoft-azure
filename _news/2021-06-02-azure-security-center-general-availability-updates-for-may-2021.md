@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Defender for SQL (in Azure Security Center)—News and updates for December 2020"
-excerpt: "December 2020's enhancements and updates to Azure Defender for SQL in Azure Security Center."
-publishedDateTime: 2021-01-04T22:16:54Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/defender-for-sql-december2020/"
-webUrl: "https://azure.microsoft.com/en-us/updates/defender-for-sql-december2020/"
+title: "Azure Security Center: General availability updates for May 2021"
+excerpt: "New enhancements and updates released for general availability (GA) in Azure Security Center in May 2021."
+publishedDateTime: 2021-06-02T15:33:21Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/asc-may2021-1/"
+webUrl: "https://azure.microsoft.com/en-us/updates/asc-may2021-1/"
 type: article
-quality: 92
+quality: 99
 heat: -1
 published: false
 
@@ -68,15 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Azure Security Center: General availability updates for May 2021"
-    excerpt: "New enhancements and updates released for general availability (GA) in Azure Security Center in May 2021."
-    publishedDateTime: 2021-06-02T15:33:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asc-may2021-1/"
+  - title: "Azure Defender for SQL (in Azure Security Center)—News and updates for December 2020"
+    excerpt: "December 2020's enhancements and updates to Azure Defender for SQL in Azure Security Center."
+    publishedDateTime: 2021-01-04T22:16:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/defender-for-sql-december2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 92
   - title: "Azure Security Center—News and updates for May 2020"
     excerpt: ""
     publishedDateTime: 2020-05-18T00:00:51Z
@@ -96,6 +96,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "YmiuuMe1xj8h2LHG1l8S0ymQIYkP8s9FB5R4TvZvUrdbfGXShXkGccoP8437+tjjx0uCUWKw642Pcfc6AD/+OaZYopzpj9Kj6kc0XKmfZErV17Z407s02XNEE2QSAmPK0NZNNA6V5EPV/M7rsabFp7kfPaxtQgLC6d/TXY2CgwDSR86LPBZ2iTp+YUu0+c6y0CRiC/RKXa3KwryFoEUo3Xg5EiMOUKfX0QSV6bwBLuSmmwuY1qL7BtQYzjU9xUxGkbyRaLdHn7an+Vf5ExYp5IpiPT4D817bPYzB2wAFuuxu/tNnMMk0ByCvud0Vm4KIzRNndI+9IQ3K2ZUfOJUo7L9TR34EOLd8hWPTw722URY=;S8TNg9GiSA6zIoRKn4VT2g=="
+secured: "U+D9W5/i11Nku8O6gi81l/3vaZKjqfQ3B0bNXrsQU1bk4PbOUV8xCdQTr6MaEeWEiQYiNyYRj8R7eydJBDoF972apwFMy3/5FvaKPqDeh2E9Ck94ckpVVlT/7Vyo2hEOEr2kv9Wupuy6gkSO5ykPLh9/1URxBa+juQl0Rgw2b1/1yUbqczP6bi4nzgUKk0ScOkCwffr3tYRID8VIpQizQ8w+yosrfq2Fk0WCalHJk0X9C66MjuXJ5RZr4pFHUilwYPqr67FRGhMw2y/IH2RtnsIOCZHQfsEwr1R4x2j8+yUqu2mqrBN+bQzU+xM+vWZT+qt5GFtCf5PevpbqJ3O0izOavPuoeb/VG/ZCoPwucf4=;uRur2MttkKryzljnMu4Nbw=="
 ---
 

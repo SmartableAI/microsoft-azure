@@ -100,6 +100,20 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by"
+    publishedDateTime: 2021-06-02T15:23:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-301304206.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
+    images:
+      - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "EU privacy watchdog to investigate EU institutions’ use of Amazon, Microsoft cloud services"
     excerpt: "EU privacy watchdog EDPS opened on Thursday two investigations into EU institutions’ use of cloud computing services provided by Amazon and Microsoft, concerned about the transfer of Europeans ..."
     publishedDateTime: 2021-06-02T09:56:00Z
@@ -114,15 +128,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
-    excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
-    publishedDateTime: 2021-06-02T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amesite-launches-remote-upskilling-courses-on-microsoft-azure-in-partnership-with-wayne-state-university/article_54e0d8a6-efbd-5f18-9291-5ec3685dcf89.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "myF6ydOlfxYiJW/MR3pBd3T8f0cuNfRxJkeIX/b4V9o3hi7ecvHLb0HYWsMK+QttliNgLvN1/sQHTtc9IRwIbPwUvNxs/d4RLzkH7H6JMdfOoglQegVcpzkSgU6pUjNX8C5G6Vapw7HBekalXt5ue+qdwV/RcpJYPuCTcHOG4q1406SJKyRscc9HAr5nerdTgRbBEKglF0nn01qsRFHeHl4wnsYS/hqe5fcA8spDu29ICe+5L+L2goYxgOMfNSWdAlcPrC3wEYdKd1HBbUuJzez9e0HJ30t1m01wb/nSQOIhUbZbzX8RM5o/5ybWAA0Y+YtvC9F6HQTMhU0t8B3X9zjBcttTpr0obg1TmC2wYdaBlUJIhz7g6iiiG29GufWgCGiG1G+/2b5VIhVFxtFk+nkIxdfHn1UyOpneCkzFwfvULbrRj849Jvj82xLhQ2XBkUg/m6dJTkltWJB2uiDalFwKQy/i9gS5Ywc5QVbdEQtxiqDw4UZIkyJaQgWJ0DkgKJgCxVXrOpueuip11Hm3CA==;aJPtN+s5sjQbd1yEIiYqlg=="
 ---

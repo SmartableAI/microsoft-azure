@@ -469,6 +469,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Microsoft Azure hosting review"
+    excerpt: "Microsoft Azure is a solid and reliable choice for hosting large websites and applications, and pay-as-you-go pricing ensures you aren’t overcharged. However, tech support is costly on a monthly ..."
+    publishedDateTime: 2021-06-01T09:04:00Z
+    webUrl: "https://www.tomsguide.com/reviews/microsoft-azure-hosting-review"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/kN7ivEZ4NotxNMHaHhKG6Q-1200-80.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fast track your Microsoft Azure knowledge with this 6-course bundle, just $35"
     excerpt: "Microsoft Azure is an increasingly popular, and lucrative platform that’s fast treading into Amazon’s space. As a major play for cloud-based services it’s only getting bigger. In terms of ..."
     publishedDateTime: 2021-01-05T20:05:00Z

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Cosmos DB integrated cache now in public preview"
-excerpt: "Optimize read costs in Azure Cosmos DB by enabling an integrated cache, an in-memory cache that is easy to configure and requires only minimal application code changes.\n"
-publishedDateTime: 2021-05-25T16:00:18Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-integrated-cache-now-in-public-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-integrated-cache-now-in-public-preview/"
+title: "Azure Security Center: Public preview updates for May 2021"
+excerpt: "Public preview enhancements and updates released for Azure Security Center in May 2021."
+publishedDateTime: 2021-06-02T15:33:26Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/asc-may2021-2/"
+webUrl: "https://azure.microsoft.com/en-us/updates/asc-may2021-2/"
 type: article
-quality: 84
+quality: 99
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Databases
+  - Security
 
 related:
   - title: "Azure Security Center integration with GitHub Actions, in public preview"
@@ -46,15 +46,6 @@ related:
         width: 1462
         height: 1056
         isCached: true
-  - title: "Azure Security Center: Public preview updates for May 2021"
-    excerpt: "Public preview enhancements and updates released for Azure Security Center in May 2021."
-    publishedDateTime: 2021-06-02T15:33:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asc-may2021-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
   - title: "Public preview: Application Insights work item integration for Azure DevOps & GitHub"
     excerpt: "Azure Monitor Application Insights has released a new way to create work items based on application insights telemetry. "
     publishedDateTime: 2021-02-17T17:01:31Z
@@ -73,6 +64,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 86
+  - title: "Azure Cosmos DB integrated cache now in public preview"
+    excerpt: "Optimize read costs in Azure Cosmos DB by enabling an integrated cache, an in-memory cache that is easy to configure and requires only minimal application code changes.\n"
+    publishedDateTime: 2021-05-25T16:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-integrated-cache-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Public preview: Introducing new Durable Functions storage provider options "
     excerpt: "Durable Functions, an extension to the Azure Functions runtime, adds two new storage provider options in public preview."
     publishedDateTime: 2021-05-26T16:00:34Z
@@ -101,6 +101,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "S3HVD7Q1zT6nk+362U7t3JmH3NbOMM7487JbWmwroz5Mp5XMZD1LJau5Nc/uVsdhqa58puHZnqA1BDw20ClE4Zjb4dNlGaEybpiRB3DsxqzfR8egcuF/Nkoz2kPkQQeCYM5dGuWBPy1j0n4aLPk0KhlaNWF7IK9Ft+pcmzMzgaNZ429S68weU7MmLco73q2KhdBPTZRoUaQDh44pHtdosg3drukL6GOJ+hU8ov2Y67dWPufRiBvp1aZpJm0rsoqJAHkZQrJI9kzfkU6vyVW/UFPiZieT4XhSVcxiazlTA+wchl8A2Vcx1ejodK+dkXHAxmiKyWKymunzzoXxWkViS8Y3bObsgCvyTGl2Z8Zjmc4=;/mYlbZaFCEGCOgcsbDvNRA=="
+secured: "/mjHPcDzhwoNPoGWu2/dShPEbYjO/NiRjbL5YiViYQzOgIxaD80IHUzKb1s4ohZ0wMCESZyps+/tWCyykKsol1XIKv4pBt0+1aBsXL1eH94K5OnKTkQvYICj+Q789g15t/GdNu7t9jrkULa/bhs/zs1m2CacAQVNLiPFSjFeARXs6OEFvIvYNZa9HmNkDtmORHdX4cYdgER4g9Oit/Bi1Y8DP2pXXonqYhxAsDAE1YaFvz1MkSappmi+bJnIdeHcJtoWEvNihJDMOsQNbMb3z4hPZSFqc46RN0Fgul2an4/T1sULVucjChZa7I7fOLSbs4SgTuoLyqWMNfI6E0yivhTp9BqHrYw1CknlSgfPMlw=;/2bs8pN20ZqI4HPSgDaYZQ=="
 ---
 

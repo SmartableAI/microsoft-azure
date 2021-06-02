@@ -44,6 +44,15 @@ related:
         width: 1462
         height: 1056
         isCached: true
+  - title: "Azure Security Center: Public preview updates for May 2021"
+    excerpt: "Public preview enhancements and updates released for Azure Security Center in May 2021."
+    publishedDateTime: 2021-06-02T15:33:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-may2021-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Public preview: Application Insights work item integration for Azure DevOps & GitHub"
     excerpt: "Azure Monitor Application Insights has released a new way to create work items based on application insights telemetry. "
     publishedDateTime: 2021-02-17T17:01:31Z

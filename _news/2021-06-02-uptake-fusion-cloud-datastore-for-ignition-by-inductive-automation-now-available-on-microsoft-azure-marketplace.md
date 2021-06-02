@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Mindtree has earned the Analytics on Microsoft Azure"
-excerpt: "Only partners that meet stringent criteria around customer success and staff skilling as well as pass a third-party audit of their analytics planning and deplo"
-publishedDateTime: 2021-06-02T09:31:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/269731394/mindtree-has-earned-the-analytics-on-microsoft-azure"
-webUrl: "https://www.bignewsnetwork.com/news/269731394/mindtree-has-earned-the-analytics-on-microsoft-azure"
+title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by"
+publishedDateTime: 2021-06-02T15:23:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-301304206.html"
+webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-301304206.html"
 type: article
-quality: 54
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
-  - Analytics
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1622625655.jpg"
-    width: 630
-    height: 420
+  - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
     isCached: true
 
 related:
@@ -52,6 +51,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Mindtree has earned the Analytics on Microsoft Azure"
+    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling as well as pass a third-party audit of their analytics planning and deplo"
+    publishedDateTime: 2021-06-02T09:31:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269731394/mindtree-has-earned-the-analytics-on-microsoft-azure"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1622625655.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft"
@@ -92,20 +105,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by"
-    publishedDateTime: 2021-06-02T15:23:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-301304206.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
-    images:
-      - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
   - title: "EU privacy watchdog to investigate EU institutions’ use of Amazon, Microsoft cloud services"
     excerpt: "EU privacy watchdog EDPS opened on Thursday two investigations into EU institutions’ use of cloud computing services provided by Amazon and Microsoft, concerned about the transfer of Europeans ..."
     publishedDateTime: 2021-06-02T09:56:00Z
@@ -130,6 +129,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "llID/mgSG9dq6eYsRMfF4eUOax13d4CWc+3gDIdTO0Zb+66ik+u0B0IwnAqtoHC0UbEoRyX15pk9nXrudJHg8ru67pbdAm3yvtvA5g8T8laHnxeM5bX6uGsrYLRqcbQ+Pu6fpk4f7AAGB7CHSdBgwr6ojnA6op17m0Zget2/PffrP+uDcJlvDMeIGNU0GZ/LXkm4+ZPlur7jSClAVHiQeLHK3xgZY/7A6IawYjZ56WmVePjKjK7siaUJf3ilJzsafKkXp5Uh8dChTuMa5NnjFxW5pMtOCAc1qwmD8fvZ0thNSzOsFpAb6FJ8UTVtqvDGmVQL+AM22XtnXavJ/RyO8Mvy05aWxggoWAByeD1lNOM7HDlaQC9+/kuMkErmq4Yjfd36BPCjL47kCK5328UnBW88yx6AqJxAhGHVvvS1q6admNUKTE8A9H8PbHN3GmbmMvo+7d4fPRkesr5Um81k8HpoMo5WmcUw5MaN80gv/91Srlx8cFKTY7uE884vl3ZTV+MtXvC0uJZ3qAc+MM8B9g==;/EPWRUFvwFP0/a93AcHxbw=="
+secured: "0J0bGg+79uxrlbVHoOn3aKzteamtlInfhwGRaXacm/aL+UzdOJ2qkQyrCDQ6MmC9fInNKPqENwEWDENoMujpkpKe5YqXFJShiMmXg/HbN7IJOFlcgPuLjRyoGvhQjEFGFRPeYuTig0KXyJ0kNDea/gB9CC1jCnzoVyaZ/ly5JFXjJP1MFyqAYbofuOrhLeS0/XqOsp2alKtc6cOOHkduTWynhoOgOcOSVjvNkaCRfcXjQJLbVMrxxo7VC8N/m1wn6PMSDHzWtaytI7bMpHu012irFORY+LTiXjI85sIzr95dYlAR7eFSwsoQML+EBp11l9rEt27NqYd/9BVMSMcFW/6bJfQGLO/TgTKJlElco0Y=;tIQS2bx6GkxGHZJoFf82tg=="
 ---
 
