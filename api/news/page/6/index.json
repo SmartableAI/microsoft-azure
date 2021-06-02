@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-09-ocr-support-for-73-languages-in-the-cognitive-services-computer-vision-public-preview.md",
+      "title": "OCR support for 73 languages in the Cognitive Services Computer Vision public preview",
+      "excerpt": "Computer Vision Read 3.2 API for Optical Character Recognition (OCR), part of Cognitive Services, announces its public preview with support for Simplified Chinese, Traditional Chinese, Japanese, and Korean, and several Latin languages, with option to use the cloud service or deploy the Docker container",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/computer-vision-read-ocr-languages-update-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/computer-vision-read-ocr-languages-update-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T07:00:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-hybrid-cloud-tales-from-the-field-how-is-azure-arc-being-used.md",
       "title": "Hybrid cloud tales from the field: How is Azure Arc being used?",
       "excerpt": "Cloud migration, enterprise systems consolidation, and agility are among the big reasons that early adopters are looking at hybrid cloud. But “doing hybrid right” requires different approaches to architecture and development because you are working with a mirror image of the cloud.",
@@ -1125,50 +1168,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service.md",
-      "title": "Public preview: Azure Key Vault CSI driver support in Azure Kubernetes Service",
-      "excerpt": "Azure Key Vault provider for Secrets Store CSI driver allows you to get secret contents stored in an Azure Key Vault instance. Azure Key Vault simplifies the task of securing and using cryptographic keys and other secrets with AKS. \nWith this new feature, you can use the Secrets Store CSI driver interface",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T09:01:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Containers",
-        "Security"
       ]
     }
   ],

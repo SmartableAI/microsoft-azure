@@ -1,26 +1,26 @@
 ---
 category: news
-title: "EU privacy watchdog to investigate EU institutions’ use of Amazon, Microsoft cloud services"
-excerpt: "EU privacy watchdog EDPS opened on Thursday two investigations into EU institutions’ use of cloud computing services provided by Amazon and Microsoft, concerned about the transfer of Europeans ..."
-publishedDateTime: 2021-06-02T09:56:00Z
-originalUrl: "https://cyprus-mail.com/2021/06/02/eu-privacy-watchdog-to-investigate-eu-institutions-use-of-amazon-microsoft-cloud-services/"
-webUrl: "https://cyprus-mail.com/2021/06/02/eu-privacy-watchdog-to-investigate-eu-institutions-use-of-amazon-microsoft-cloud-services/"
+title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
+excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
+publishedDateTime: 2021-06-02T12:03:00Z
+originalUrl: "https://www.officer.com/investigations/forensics/digital-forensics/press-release/21225090/magnet-forensics-digital-forensics-software-magnet-forensics-leverages-microsoft-azure-to-improve-digital-investigations-via-the-cloud"
+webUrl: "https://www.officer.com/investigations/forensics/digital-forensics/press-release/21225090/magnet-forensics-digital-forensics-software-magnet-forensics-leverages-microsoft-azure-to-improve-digital-investigations-via-the-cloud"
 type: article
-quality: 12
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Cyprus Mail
-  domain: cyprus-mail.com
+  name: Officer
+  domain: officer.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cyprus-mail.com/wp-content/uploads/2021/05/Reuters-EU-watchdog-microsoft-story.jpg"
-    width: 800
-    height: 500
+  - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/06/16x9/magnetforensics.60b773162031e.png?auto=format&fit=max&w=1200"
+    width: 1200
+    height: 673
     isCached: true
 
 related:
@@ -91,19 +91,19 @@ related:
       name: IT Business
       domain: itbusiness.ca
     quality: 29
-  - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
-    excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
-    publishedDateTime: 2021-06-02T12:03:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/digital-forensics/press-release/21225090/magnet-forensics-digital-forensics-software-magnet-forensics-leverages-microsoft-azure-to-improve-digital-investigations-via-the-cloud"
+  - title: "EU privacy watchdog to investigate EU institutions’ use of Amazon, Microsoft cloud services"
+    excerpt: "EU privacy watchdog EDPS opened on Thursday two investigations into EU institutions’ use of cloud computing services provided by Amazon and Microsoft, concerned about the transfer of Europeans ..."
+    publishedDateTime: 2021-06-02T09:56:00Z
+    webUrl: "https://cyprus-mail.com/2021/06/02/eu-privacy-watchdog-to-investigate-eu-institutions-use-of-amazon-microsoft-cloud-services/"
     type: article
     provider:
-      name: Officer
-      domain: officer.com
-    quality: 27
+      name: Cyprus Mail
+      domain: cyprus-mail.com
+    quality: 12
     images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/06/16x9/magnetforensics.60b773162031e.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 673
+      - url: "https://cyprus-mail.com/wp-content/uploads/2021/05/Reuters-EU-watchdog-microsoft-story.jpg"
+        width: 800
+        height: 500
         isCached: true
   - title: "Elastic Announces the General Availability of the New Frozen Tier, Enhanced Analyst Experience With Schema on Read, and First-Party Integration With Microsoft Azure"
     excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced new capabilities and enhancements across its"
@@ -124,6 +124,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "zOXWKHwgOrI7y+iGL5dQTuz440SVi8SVIl1eQPge/AYTP8IHgVy6ysSdve3cfiNHrDdeXOvG74/MOwrJleSsKVYq3jb/WzVr8pSbark8Azzk4FpxAfsOCPiDEIA4Oo2n7zeF+ZJbKjCBa0EEntqNhkkz12nz+GxCjiK7K2vOGW7OTa+4blBWf2aeAtPxNLYRSpuqAHunLcxS7Kbv8noyVZabbg2usf5soZQP48FbAMuQZwj1kkUDDKKYRDH8axc6rhSxJlIiiUqjGaMhv+UmjQHSK40lr1rRukvBipd9wFS6+pqUrjecweifF05/TQJ/Bpe+Qis5+uf8pBm7p27I/POIYaPpMYru/n8a/lioxfM=;vwPPfdS/V1uKk5LY6W/ZkA=="
+secured: "SxtTG7mV9ENF9kNIAkPx3VPCFdSGFJ1hGC032mYe7yvtgDWWl9pbn6lI9XIzehCcEfxFTPDM50wy5W3F3k6r/mV+QfdXL8Tx85l2RnHSPvxs8z6Mk1UFhPx+McYtavLtdU2E+v5vgySHqv9nk6GOGNDr6nDWZFQdfPuuMuADSNz+GE0QADbvgJ5u8d8vBP57vuT/4I4WXLOlqbB60EBSPkzL5RknfUDDogX77LxmY1jYjeY2BrI0SVwL+uE9xl2hZEdIf4D8sWJ8WTpMmD7c0bFRhJaywWfKACvI1Dqj0D4KbXtnUp3sVVNnooKtZU1F45j8vnNwvJDu73WBfcRcLOom/dtWWkaGNghMIP6FJg8=;OXB4snB6orL/9+fJfgvFzQ=="
 ---
 

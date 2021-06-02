@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/31/vectra-10-most-common-threats-for
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/31/vectra-10-most-common-threats-for-azure-ad-office-365-customers/amp/"
 type: article
 quality: 97
-heat: 97
+heat: 102
 published: true
 
 provider:

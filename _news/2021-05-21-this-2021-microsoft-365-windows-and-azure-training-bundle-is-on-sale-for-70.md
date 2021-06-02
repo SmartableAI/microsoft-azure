@@ -1,20 +1,24 @@
 ---
 category: news
-title: "Mars teams with Microsoft Azure for its digital transformation program"
-excerpt: "The collaboration aims to optimise Mars’ operational speed in confectionaries and pet foods and build intelligent manufacturing supply chains"
-publishedDateTime: 2021-05-18T19:39:00Z
-originalUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program"
-webUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program"
-ampWebUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
-cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
+title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
+excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
+publishedDateTime: 2021-05-21T13:31:00Z
+originalUrl: "https://www.zdnet.com/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+webUrl: "https://www.zdnet.com/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
 type: article
-quality: 37
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: GDPR fines
-  domain: itp.net
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -209,17 +213,6 @@ related:
         width: 872
         height: 545
         isCached: true
-  - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
-    excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
-    publishedDateTime: 2021-05-21T13:31:00Z
-    webUrl: "https://www.zdnet.com/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-2021-microsoft-365-windows-and-azure-training-bundle-is-on-sale-for-70/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 73
   - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
     excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
     publishedDateTime: 2021-05-21T21:40:00Z
@@ -424,6 +417,17 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Mars teams with Microsoft Azure for its digital transformation program"
+    excerpt: "The collaboration aims to optimise Mars’ operational speed in confectionaries and pet foods and build intelligent manufacturing supply chains"
+    publishedDateTime: 2021-05-18T19:39:00Z
+    webUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program"
+    ampWebUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 37
   - title: "NHS Scotland’s track and trace system utilises Microsoft Azure"
     excerpt: "User information is fully encrypted in NHS Scotland's data lake and only available to contact tracers who have the right digital key."
     publishedDateTime: 2021-05-19T06:56:00Z
@@ -726,6 +730,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "zt+MVXHgvKI4/iVrP+yUvIoNb8r4q2yjmnTohj/lMCj0zpioJydsWd2DSVotPTEhdJQgcTSatRyzRD5WJWftTggVaAbwTRzX6Uuj36KhLuPQaZt21bLnkW3TP8HZ9xdSnaZbv7GW3/Lii3hRF+zvTWEHLwOrKTGF5S073qCMzN/WI6x8JsOiinkk9JF8MRkOuogmqYV7l6NPFAjXodm2SPxge+IpqkP6FfCPkKcUCsSEWVk4wtXFuFEaQyK+hjOUFxMZpcXmxjHwsE4OdPuXTS/vckSSa4IXQVA+1GKLzWNlWQBgW2ahx1BHx8/cyl75uGI5wfyuUMzxSbRXicqGeLfrG9DShm+4apK3DW5iHAc=;l1AkvE6V8CS10Q2Gh7xWsA=="
+secured: "hrs8uC1nnMvfEBJywAtYHxFcjoh/Ysrqu6aJgSt0fQ+5OI3twZgAYfBLJUFvhbYuK8p3aB8kjoDBvDQ00bWpBd988G0oh0FIVR77aG+ICT0YY8RWe2azm2FMYhbYimYmgXBUrHd+dc9kPyvTN3Gd+NAKnLUDNI1IwGHUdRWERBuQibakhqz0IkkRSgii06Ci/KDr9GMQ+fk1KAUhLhtW1fVLBME/UKyNVgCG/ghhZQmz9BcKywzXw7OQeT5tgHrCb/AT9Nv9wl39qYqpjHi8qWX1WsrjokidCHNjskfZMH2lDdBeWcKaL65NqwL34sF2nIEIfAWuVneAvqPSjacq3FVpsnvcRSqXtERx1ciMslc=;WWAzdfaxkjjdOsDI3ITaEA=="
 ---
 

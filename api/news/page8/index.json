@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-21-microsoft-azure-breach-left-thousands-of-customer-records-exposed.md",
+      "title": "Microsoft Azure breach left thousands of customer records exposed",
+      "excerpt": "The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files, without any kind of authentication. Azure Blob storage ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed",
+      "originalUrl": "https://www.techradar.com/au/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 477,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/9gHS2KGatsqKs7nUaaZGRW-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed",
+      "publishedDateTime": "2020-12-21T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-5-ways-to-save-costs-by-running-net-apps-on-azure.md",
       "title": "5 ways to save costs by running .NET apps on Azure",
       "excerpt": "Digital transformation is accelerating at an incredible rate for consumers and employees alike, and the way we live and work has drastically changed.",
@@ -1099,59 +1150,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-guest-health-feature-in-azure-monitor-for-virtual-machines.md",
-      "title": "Guest health feature in Azure Monitor for virtual machines",
-      "excerpt": "We are announcing the preview of Azure Monitor for virtual machines guest health feature that monitors the health of your virtual machines and fires an alert when any parameter being monitored is outside the acceptable range. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/guest-health-feature-in-azure-monitor-for-virtual-machines/",
-      "originalUrl": "https://azure.microsoft.com/blog/guest-health-feature-in-azure-monitor-for-virtual-machines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/de286894-4cc1-4f92-b718-dbbf86d2ab0c.png",
-          "width": 1024,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T00:00:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Compute"
       ]
     }
   ],

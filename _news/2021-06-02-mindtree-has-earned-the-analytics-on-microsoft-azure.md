@@ -67,15 +67,6 @@ related:
         width: 1496
         height: 785
         isCached: true
-  - title: "Vandis Announces New Offering in Microsoft Azure Lighthouse: Managed Virtual WAN Powered by Silver Peak"
-    excerpt: "Vandis is pleased to announce the expansion of their offerings in the Microsoft Marketplace with the launch of Managed Virtual WAN Powered by Silver Peak. Vandis' offering allows organizations to connect branch sites,"
-    publishedDateTime: 2021-05-26T10:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vandis-announces-new-offering-in-microsoft-azure-lighthouse-managed-virtual-wan-powered-by-silver-peak-1030465914"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
   - title: "Insight Recognized again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
     excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all"
     publishedDateTime: 2021-05-31T20:02:00Z
@@ -87,6 +78,20 @@ related:
       name: IT Business
       domain: itbusiness.ca
     quality: 29
+  - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
+    excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
+    publishedDateTime: 2021-06-02T12:03:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/digital-forensics/press-release/21225090/magnet-forensics-digital-forensics-software-magnet-forensics-leverages-microsoft-azure-to-improve-digital-investigations-via-the-cloud"
+    type: article
+    provider:
+      name: Officer
+      domain: officer.com
+    quality: 27
+    images:
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/06/16x9/magnetforensics.60b773162031e.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "EU privacy watchdog to investigate EU institutions’ use of Amazon, Microsoft cloud services"
     excerpt: "EU privacy watchdog EDPS opened on Thursday two investigations into EU institutions’ use of cloud computing services provided by Amazon and Microsoft, concerned about the transfer of Europeans ..."
     publishedDateTime: 2021-06-02T09:56:00Z
@@ -109,6 +114,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 0
+  - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
+    excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
+    publishedDateTime: 2021-06-02T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amesite-launches-remote-upskilling-courses-on-microsoft-azure-in-partnership-with-wayne-state-university/article_54e0d8a6-efbd-5f18-9291-5ec3685dcf89.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
 
 secured: "llID/mgSG9dq6eYsRMfF4eUOax13d4CWc+3gDIdTO0Zb+66ik+u0B0IwnAqtoHC0UbEoRyX15pk9nXrudJHg8ru67pbdAm3yvtvA5g8T8laHnxeM5bX6uGsrYLRqcbQ+Pu6fpk4f7AAGB7CHSdBgwr6ojnA6op17m0Zget2/PffrP+uDcJlvDMeIGNU0GZ/LXkm4+ZPlur7jSClAVHiQeLHK3xgZY/7A6IawYjZ56WmVePjKjK7siaUJf3ilJzsafKkXp5Uh8dChTuMa5NnjFxW5pMtOCAc1qwmD8fvZ0thNSzOsFpAb6FJ8UTVtqvDGmVQL+AM22XtnXavJ/RyO8Mvy05aWxggoWAByeD1lNOM7HDlaQC9+/kuMkErmq4Yjfd36BPCjL47kCK5328UnBW88yx6AqJxAhGHVvvS1q6admNUKTE8A9H8PbHN3GmbmMvo+7d4fPRkesr5Um81k8HpoMo5WmcUw5MaN80gv/91Srlx8cFKTY7uE884vl3ZTV+MtXvC0uJZ3qAc+MM8B9g==;/EPWRUFvwFP0/a93AcHxbw=="

@@ -77,15 +77,20 @@ related:
         width: 1496
         height: 785
         isCached: true
-  - title: "Vandis Announces New Offering in Microsoft Azure Lighthouse: Managed Virtual WAN Powered by Silver Peak"
-    excerpt: "Vandis is pleased to announce the expansion of their offerings in the Microsoft Marketplace with the launch of Managed Virtual WAN Powered by Silver Peak. Vandis' offering allows organizations to connect branch sites,"
-    publishedDateTime: 2021-05-26T10:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vandis-announces-new-offering-in-microsoft-azure-lighthouse-managed-virtual-wan-powered-by-silver-peak-1030465914"
+  - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
+    excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
+    publishedDateTime: 2021-06-02T12:03:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/digital-forensics/press-release/21225090/magnet-forensics-digital-forensics-software-magnet-forensics-leverages-microsoft-azure-to-improve-digital-investigations-via-the-cloud"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
+      name: Officer
+      domain: officer.com
+    quality: 27
+    images:
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/06/16x9/magnetforensics.60b773162031e.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "EU privacy watchdog to investigate EU institutions’ use of Amazon, Microsoft cloud services"
     excerpt: "EU privacy watchdog EDPS opened on Thursday two investigations into EU institutions’ use of cloud computing services provided by Amazon and Microsoft, concerned about the transfer of Europeans ..."
     publishedDateTime: 2021-06-02T09:56:00Z
@@ -108,6 +113,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 0
+  - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
+    excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
+    publishedDateTime: 2021-06-02T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amesite-launches-remote-upskilling-courses-on-microsoft-azure-in-partnership-with-wayne-state-university/article_54e0d8a6-efbd-5f18-9291-5ec3685dcf89.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
 
 secured: "BdZsCtAc6x1C+7CWEfecLE0S841A0M6d3ap7oiaGKCO0x9iaScPXrkKPKqRv/KvkbN4VH6vEutH/GgcV9HDLp4atMu5u5cBGz+YwKit/hn42niDE9YEi/xhiGl64gKWNG5jZeCbavhSY2jUi0UUHooFoVl1u3rP6XfOC1ybDUWSvRt+t7O5wd16JF2aEzJ9T8k5DMC49mKv1nzic3PVBrtwFvgrJIiqdUbhk9El7wQKGoOpzcpd5M6HDt+BsAnfBGsJS6EmmJ5/FiGkXA9BRHA1+tOoGlQkyo3lKMPF0SFOlGwmtvIBzyHsVsCqOUXtjd0fQLulGvBplPdK2lDBx+8ouiM4USC0WPyP95MdI9XQ=;qGLWOXImLOJ5RP+jdJ2qBw=="

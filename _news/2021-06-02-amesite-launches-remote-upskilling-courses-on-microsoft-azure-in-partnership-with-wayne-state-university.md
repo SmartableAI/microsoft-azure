@@ -1,27 +1,21 @@
 ---
 category: news
-title: "EU privacy watchdog to investigate EU institutions’ use of Amazon, Microsoft cloud services"
-excerpt: "EU privacy watchdog EDPS opened on Thursday two investigations into EU institutions’ use of cloud computing services provided by Amazon and Microsoft, concerned about the transfer of Europeans ..."
-publishedDateTime: 2021-06-02T09:56:00Z
-originalUrl: "https://cyprus-mail.com/2021/06/02/eu-privacy-watchdog-to-investigate-eu-institutions-use-of-amazon-microsoft-cloud-services/"
-webUrl: "https://cyprus-mail.com/2021/06/02/eu-privacy-watchdog-to-investigate-eu-institutions-use-of-amazon-microsoft-cloud-services/"
+title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
+excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
+publishedDateTime: 2021-06-02T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amesite-launches-remote-upskilling-courses-on-microsoft-azure-in-partnership-with-wayne-state-university/article_54e0d8a6-efbd-5f18-9291-5ec3685dcf89.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amesite-launches-remote-upskilling-courses-on-microsoft-azure-in-partnership-with-wayne-state-university/article_54e0d8a6-efbd-5f18-9291-5ec3685dcf89.html"
 type: article
-quality: 12
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Cyprus Mail
-  domain: cyprus-mail.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://cyprus-mail.com/wp-content/uploads/2021/05/Reuters-EU-watchdog-microsoft-story.jpg"
-    width: 800
-    height: 500
-    isCached: true
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -105,6 +99,20 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "EU privacy watchdog to investigate EU institutions’ use of Amazon, Microsoft cloud services"
+    excerpt: "EU privacy watchdog EDPS opened on Thursday two investigations into EU institutions’ use of cloud computing services provided by Amazon and Microsoft, concerned about the transfer of Europeans ..."
+    publishedDateTime: 2021-06-02T09:56:00Z
+    webUrl: "https://cyprus-mail.com/2021/06/02/eu-privacy-watchdog-to-investigate-eu-institutions-use-of-amazon-microsoft-cloud-services/"
+    type: article
+    provider:
+      name: Cyprus Mail
+      domain: cyprus-mail.com
+    quality: 12
+    images:
+      - url: "https://cyprus-mail.com/wp-content/uploads/2021/05/Reuters-EU-watchdog-microsoft-story.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Elastic Announces the General Availability of the New Frozen Tier, Enhanced Analyst Experience With Schema on Read, and First-Party Integration With Microsoft Azure"
     excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced new capabilities and enhancements across its"
     publishedDateTime: 2021-05-26T19:40:00Z
@@ -114,16 +122,7 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 0
-  - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
-    excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
-    publishedDateTime: 2021-06-02T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amesite-launches-remote-upskilling-courses-on-microsoft-azure-in-partnership-with-wayne-state-university/article_54e0d8a6-efbd-5f18-9291-5ec3685dcf89.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
-secured: "zOXWKHwgOrI7y+iGL5dQTuz440SVi8SVIl1eQPge/AYTP8IHgVy6ysSdve3cfiNHrDdeXOvG74/MOwrJleSsKVYq3jb/WzVr8pSbark8Azzk4FpxAfsOCPiDEIA4Oo2n7zeF+ZJbKjCBa0EEntqNhkkz12nz+GxCjiK7K2vOGW7OTa+4blBWf2aeAtPxNLYRSpuqAHunLcxS7Kbv8noyVZabbg2usf5soZQP48FbAMuQZwj1kkUDDKKYRDH8axc6rhSxJlIiiUqjGaMhv+UmjQHSK40lr1rRukvBipd9wFS6+pqUrjecweifF05/TQJ/Bpe+Qis5+uf8pBm7p27I/POIYaPpMYru/n8a/lioxfM=;vwPPfdS/V1uKk5LY6W/ZkA=="
+secured: "ZEOhlwpWQXTCMll4A+jbh4V67iVAyg9jSv3zVzdC/zwFg+SJJlbj/UAF/BcAD1gp9BVfPlnqSydkBenOvIh3oITXjdPdypl3BGdI52oDYZM7vSffL6U0nclReGbVlqs/mWEl9Er8+4uCJpmlnAS1SE5fbT6D7uNFsLpL8JVasZD0RWoVHBFP0qND3ZOXmbeRtidXXM1zcINcyQtYMP8FjT3diRPl68fcjs5BIZlpKEgLFXKA3UQSKxs4ukoSrI5zPCDXEljt+Svk7Y28kCUJ0PymsCN0e8/hQfZoTPpNG8tl31mda54NZ0KgPngBkPIncIt6t/GjuilW/UqmH1BT//91T7wuwt7ZTdHk5hRyc+A=;JjkGbTlWaCjXfXdcA3KphQ=="
 ---
 

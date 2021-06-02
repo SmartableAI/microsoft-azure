@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-06-01T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
+excerpt: "Available in the Microsoft Azure Marketplace. Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage"
+publishedDateTime: 2021-06-01T08:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210601005063/dataiku-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.morningstar.com/news/business-wire/20210601005063/dataiku-now-available-in-the-microsoft-azure-marketplace"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -140,6 +140,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "NYiC19x/oV7vol8uov3PvLYGxbLu6MObTA9VezOFEbRu9I0nzY/ZqhQEUPWaoXWHCghH2LUt86rS+5Nv4qLCK2rlyiCJXai/OgSZtjz5E3NdGAGdy+0fnJ47EOU2GJZ+2a9WwsBmWYwFUac6CeD2/FCk1TuA4vm7mGsLWiwumjpBE0gd4u3gVqrJHo9/AP/7nCocdsjj/GDn/7xlIQLhHdVaYLCcAH9nwmi0QXFNfMZ6JOAY4OOHc4NDLm+zHKVvZldQsLJ00VMGQ/kgbQx2Q/m/7jCX6vrYrDp4Hgdb6Y5FP6cCn0dLZZie/RsZ8jr2Iqsp55J/6zUNcAnmq0ep+7IJupK9LtjuQ3T8z5C/9vs=;PBPGSwS73oah98VT3uCwwg=="
+secured: "zSHzg851LYKh2XVEPOMcqbbxLcbxN7N+M4iGUVCmbsQ3LklrRL0qfiyhulTawNjIM12uNL0ws3eydNF7QxQKtQTcWpcftvtQy+rGq68gUTy4QwG5kc1aVhsR7iEUpe3Bi3CceTB4oV8gCOxHfuz37kETUUPj0ByTJPaUbHQ48DHfoC5jpahXcy9BgiKkKTOmRJqJH5xcBctH77bwlVU8zS+WTD4X0rtHn9U7+TJrcnbXqO+fs5oY5A8mN3962K72HFyyFiAi1DPgK1gF2NpKq0UlCNfoF5PuOeccrpXruxXp/LEWdE2cFm5KFkgbR1ypXiW1dPB+RaNUh91TqH3R8KmFRLZkVBj2nnLYDjF2xcI=;OaNli0/ew54Ka9hHN9h2Lg=="
 ---
 
