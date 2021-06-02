@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-mi
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on?amp"
 type: article
 quality: 112
-heat: 833
+heat: 832
 published: true
 
 provider:

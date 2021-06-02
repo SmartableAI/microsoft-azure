@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/upgrade-your-infrastructure-with-
 webUrl: "https://azure.microsoft.com/blog/upgrade-your-infrastructure-with-the-latest-dv5ev5-azure-vms-in-preview/"
 type: article
 quality: 68
-heat: 89
+heat: 88
 published: true
 
 provider:
