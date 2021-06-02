@@ -129,6 +129,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 0
+  - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
+    excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
+    publishedDateTime: 2021-06-02T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amesite-launches-remote-upskilling-courses-on-microsoft-azure-in-partnership-with-wayne-state-university/article_54e0d8a6-efbd-5f18-9291-5ec3685dcf89.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "llID/mgSG9dq6eYsRMfF4eUOax13d4CWc+3gDIdTO0Zb+66ik+u0B0IwnAqtoHC0UbEoRyX15pk9nXrudJHg8ru67pbdAm3yvtvA5g8T8laHnxeM5bX6uGsrYLRqcbQ+Pu6fpk4f7AAGB7CHSdBgwr6ojnA6op17m0Zget2/PffrP+uDcJlvDMeIGNU0GZ/LXkm4+ZPlur7jSClAVHiQeLHK3xgZY/7A6IawYjZ56WmVePjKjK7siaUJf3ilJzsafKkXp5Uh8dChTuMa5NnjFxW5pMtOCAc1qwmD8fvZ0thNSzOsFpAb6FJ8UTVtqvDGmVQL+AM22XtnXavJ/RyO8Mvy05aWxggoWAByeD1lNOM7HDlaQC9+/kuMkErmq4Yjfd36BPCjL47kCK5328UnBW88yx6AqJxAhGHVvvS1q6admNUKTE8A9H8PbHN3GmbmMvo+7d4fPRkesr5Um81k8HpoMo5WmcUw5MaN80gv/91Srlx8cFKTY7uE884vl3ZTV+MtXvC0uJZ3qAc+MM8B9g==;/EPWRUFvwFP0/a93AcHxbw=="
 ---
