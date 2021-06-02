@@ -1,21 +1,27 @@
 ---
 category: news
 title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
-excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-05-26T12:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-microsoft-azure-marketplace-/2021/05/26/9378094.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-microsoft-azure-marketplace-/2021/05/26/9378094.htm"
+excerpt: "Microsoft Azure customers worldwide now gain access to KMS Lighthouse to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business ..."
+publishedDateTime: 2021-05-26T12:15:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-861187119.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-861187119.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -680,6 +686,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "AzQSDIsFNe0GwYDkGxfBYwrtufaM19/j/Gx7rz1yQh4J7LUH46E10PjlirlUBlFarJ1DgLcM3W1uRc14tdlooPpfNs+8Yry9Mlsn6jT36E9lRXxN35M22wakTfNZLkev7U+hXPF/8EJxYONm0BYEpPMoeSU+eipQvDeqI8udVjESS5MS+YLCZ2l0InAHg1JFxbuH6PekkosQWn+GcirIjqtmqwWt9nGcz7m7gQ6sraSjOXj8i/7lcpz4Ae9ShxWLeN5uAe9kN0JxBh3ay63WWZ3c+j+dx5YLEzqtAiay7ykWiA6LNfx/cTvSK12RATuYr0BxjZ3wLQ2ZJVk0MuPe5xs77S+tI+oLz6By4CROBdM=;XF5qRFvjeJlVcM1mKzE9hQ=="
+secured: "VtJ+R4tvgxBJTje+WAnYRIYXEBESqV03R6RzNxHOkppYdMjqKwGNbswDyn25fWlqqhqgfE5FFIjmhnINbpLRKSNlPQa0Xm5nn4VHQ0dfi8k/hN8uNwOO6mXmeAGeehvFYy1NcE1VV0TMnn+lXaZiGB4fDw57qFjTwUpKHOhJroQvfMUp//ZYWj971b7BUFrVlZryWbAK6S7iw29mg75JuCTs6aiYpJYhUHTrIjBBUE9A4X3S7RAvhtDyw0wNbonMHEY+8Kk7ql7FotEh4wqk+2DbayB4231j5e66yx/viSmNDdS3rsCdWuvgYlghc4OGHJ9sVfQZ7EoH/DLnOw8endkE8xYZ4uQXBWMjg2sd9Vs=;b27LJ9kXxqTT5SHeNG2NAA=="
 ---
 
