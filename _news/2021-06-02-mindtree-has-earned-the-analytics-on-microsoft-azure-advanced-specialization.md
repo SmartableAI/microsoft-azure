@@ -2,9 +2,9 @@
 category: news
 title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
 excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft"
-publishedDateTime: 2021-06-02T07:40:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-301303655.html"
-webUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-301303655.html"
+publishedDateTime: 2021-06-02T07:52:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-894610694.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-894610694.html"
 type: article
 quality: 51
 heat: -1
@@ -25,94 +25,92 @@ images:
     isCached: true
 
 related:
-  - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
-    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is working with Microsoft in a re-platforming and data consolidation project utilizing Microsoft Azure Synapse Analytics."
-    publishedDateTime: 2021-01-19T15:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+  - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
+    excerpt: "The DataParser is widely used by regulated institutions to capture many types of on-line meeting and collaborative content such as Microsoft Teams, Cisco,"
+    publishedDateTime: 2021-06-02T07:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expanding-dataparser-with-microsofts-azure-blob-storage-integration/article_fd97f019-dc3c-524c-b58f-6ec97e86e202.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 86
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Elastic Introduces Native Microsoft Azure Integration, Fleet Server, and Enhanced APM Workflows in Elastic Observability"
+    excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, announces new features and updates across the Elastic"
+    publishedDateTime: 2021-05-26T15:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/elastic-introduces-native-microsoft-azure-integration-fleet-server-and-enhanced-apm-workflows-in-elastic-observability-2021-05-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mindtree has earned the Analytics on Microsoft Azure"
+    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling as well as pass a third-party audit of their analytics planning and deplo"
+    publishedDateTime: 2021-06-02T09:31:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269731394/mindtree-has-earned-the-analytics-on-microsoft-azure"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1622625655.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Vandis Announces New Offering in Microsoft Azure Lighthouse: Managed Virtual WAN Powered by Silver Peak"
+    excerpt: "Vandis is pleased to announce the expansion of their offerings in the Microsoft Marketplace with the launch of Managed Virtual WAN Powered by Silver Peak. Vandis' offering allows organizations to connect branch sites,"
+    publishedDateTime: 2021-05-26T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vandis-announces-new-offering-in-microsoft-azure-lighthouse-managed-virtual-wan-powered-by-silver-peak-1030465914"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 72
-  - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Teradata, the cloud data analytics platform company, on Tuesday announced an additional purchasing channel for Teradata Vantage on Azure:"
-    publishedDateTime: 2021-01-13T02:02:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/18820-cloud-data-analytics-platform-teradata-vantage-now-available-in-the-microsoft-azure-marketplace"
+    quality: 41
+  - title: "Insight Recognized again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
+    excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all"
+    publishedDateTime: 2021-05-31T20:02:00Z
+    webUrl: "https://www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year"
+    ampWebUrl: "https://www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year?amp=1"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 42
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 29
+  - title: "EU privacy watchdog to investigate EU institutions’ use of Amazon, Microsoft cloud services"
+    excerpt: "EU privacy watchdog EDPS opened on Thursday two investigations into EU institutions’ use of cloud computing services provided by Amazon and Microsoft, concerned about the transfer of Europeans ..."
+    publishedDateTime: 2021-06-02T09:56:00Z
+    webUrl: "https://cyprus-mail.com/2021/06/02/eu-privacy-watchdog-to-investigate-eu-institutions-use-of-amazon-microsoft-cloud-services/"
+    type: article
+    provider:
+      name: Cyprus Mail
+      domain: cyprus-mail.com
+    quality: 12
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/d6734c2afd1ce01508d259bd11925a72.jpg?t=20210113_014718"
-        width: 752
-        height: 408
+      - url: "https://cyprus-mail.com/wp-content/uploads/2021/05/Reuters-EU-watchdog-microsoft-story.jpg"
+        width: 800
+        height: 500
         isCached: true
-  - title: "Microsoft Azure PlayFab Expands to More Regions, Gains AMD VM Support"
-    excerpt: "Microsoft’s Azure PlayFab cloud gaming service is now available in four new regions, while AMD virtual machines are now available for the platform. Microsoft is announcing the expansion of its ..."
-    publishedDateTime: 2021-01-15T14:10:00Z
-    webUrl: "https://winbuzzer.com/2021/01/15/microsoft-azure-playfab-expands-to-more-regions-gains-amd-vm-support-xcxwbn/"
+  - title: "Elastic Announces the General Availability of the New Frozen Tier, Enhanced Analyst Experience With Schema on Read, and First-Party Integration With Microsoft Azure"
+    excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced new capabilities and enhancements across its"
+    publishedDateTime: 2021-05-26T19:40:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210526005861/en/"
     type: article
     provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 37
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2018/01/PlayFab-Microsoft-Acquisitionp-Official.jpg"
-        width: 1000
-        height: 733
-        isCached: true
-  - title: "Atmosera once more recognized as a Microsoft Azure Expert Managed Service Provider"
-    excerpt: "Atmosera, a leading cloud services provider, announced today that it has been recognized as a Microsoft Azure Expert"
-    publishedDateTime: 2021-01-13T11:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19138979/atmosera-once-more-recognized-as-a-microsoft-azure-expert-managed-service-provider"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19138979"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19138979"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
-  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
-    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
-    publishedDateTime: 2021-01-19T13:03:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Quest Announces Availability of On Demand SaaS Platform in Australia for Easy Management of Microsoft Cloud Environments"
-    excerpt: "Quest Software, a global systems management and security software provider, today announced the availability of Quest On Demand in Australia. A Microsoft Azure-hosted software-as-a-service (SaaS) platform available within Quest’s Microsoft Platform Management business,"
-    publishedDateTime: 2021-01-19T10:10:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/137169/quest-announces-availability-of-on-demand-saas/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
-  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
-    excerpt: "TEL AVIV, Israel, Jan. 19, 2021 /PRNewswire/ -- Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's ..."
-    publishedDateTime: 2021-01-19T17:16:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
-secured: "BZf17Xmf8yQ6smecptAoS15G8bP+dCawW3LbcGIfqrCfnyGADzvSGqwShSQsefPWoNf3CsAKBRBBvxFYWB1KAFQT5dDLFL6+FlDNdbHIyPbe+I6RZm6Dn2yXZ1bVo1TNt17tRDOnaoIoQGlvNmRgCjuCElFlvjBP6rTZTYVgvWSKB/54XRI42DSy+xivsNkrffwJmGaMyU4AHhnMk+IbSQFqSZDwEsEZzozNZd3vZhWeQwUI3GGfDWMYxwDwlpqqA7n3B52ZQt7xnBS37MtsL7WceeR1ecNcxiux2PJWz7IMnRxnIOLwEtToSA01JTn7QzQinXA0LBvZvmE+aibO60D4mEulHe9gsloab1U1W7s=;/PjjHdaL6ZAI9LVvx40qvg=="
+secured: "l7Mmx15tH+U1Ldz7ZbgWhh8TAdEywM6O86xc6MPz0S33hRo0AZ5HA1nLisYpfUHBBy3u3Vz2GL0k5iz8Q/vOFZJnRLWmhsBgNZL5B3p9CflfL3tYOMF3+2+OzsjhnuXLGXEPaPhql+RahQI7ljhqt49hgS/5B/MXfaGD1jMOR0yh9GtxoPxaUs8mZhWng7LL/3p+5oMEGficULjx7OvCsXbOq7QTKX457I46EJxKD5L7u4Mqb+jrMhnFexJfualZUgjZIm003/ILIYrtJl/YEusubBg2zoH0/YtEx7XZq6vUhNZALkigEe+18JjjbfbdwqDH0H0lW4E/SBxl9oGAMd/tOAFlhXpOeTq3cPMBXcI=;/oAqnb64SdU6tONQ9l1O6A=="
 ---
 

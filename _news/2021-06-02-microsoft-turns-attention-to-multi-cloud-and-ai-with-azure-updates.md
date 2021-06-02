@@ -1,26 +1,34 @@
 ---
 category: news
 title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
-excerpt: "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting.Read"
-publishedDateTime: 2021-06-02T01:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates-10197208"
-webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates-10197208"
+excerpt: "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting."
+publishedDateTime: 2021-06-02T06:20:00Z
+originalUrl: "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/"
+webUrl: "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/"
+ampWebUrl: "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/"
 type: article
-quality: 74
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
   - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -713,6 +721,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "fJ0uNaYisvo+Ci9mMv6sslC1KTPlnExxUsn0WDJrHB7qtCv3FjKdS8PsAy31Zp2P3z7OMrTup/90LIucgIq5FuHp8bk6euZAj7Xs+MxNuu/H0GQfkNhm9K5U+Y3Lg1aBhYeabNsfr9V9nvq1RzupLdJDvY1u991d064bBh9WE1GVbHTloq9TS+RZi98buUQaNcA9ceVJ3PaXiwQqGHgfNlidlFKTo7jPmcdJJopDZmL+S0yt/nSu9dktxLtCxIZWqacdRBBjX5lHOzlBkDbq6jQViLjUfKX42pudhapLNXnL33lODMWPFXPhQf9wohu+mdZVgmsiM9Vu3/06jD1cBIY30TQ11wG7cIDcPqNG0CA=;s2adneuaNU8W/0HFczNPqA=="
+secured: "VifH1adnJZZAttZ8bRBPcvK3UymGjLgMwFx2t1o7C0SrKU7fpmVw7jamu+DcXDHqJk4hwCFzjuwepn2ZiwnMLtAGaAsAuvOgKNn/0W7pUR2rm20Dm7FGoNi/x/VXjpEasP+3yGCPvz4DHswLVGM1rWxuKh17CvmK8M0AwzPzlbcNNtkpV3GpVcdoYqD4Bli6986b284S7vkj7RmcdhzxLz1FE7jSHrIE8Re0d+JA7QdCaBU2KxA1flUe4AZLhsLleWc//bFnXsXFPPY6/MyVuCsyJHiEHYBHu0Gx1k4v+0DbL4CoRavvt5GKz5FKLppSC6r2rayXis+on4+Ud5Y3TAhcGvmzYykGcIu7wecXeoY=;OPMjBOL6cRrfyqdS+4xgNg=="
 ---
 

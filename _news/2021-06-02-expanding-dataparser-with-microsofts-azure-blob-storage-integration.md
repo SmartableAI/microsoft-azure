@@ -1,41 +1,31 @@
 ---
 category: news
-title: "Vandis Announces New Offering in Microsoft Azure Lighthouse: Managed Virtual WAN Powered by Silver Peak"
-excerpt: "Vandis is pleased to announce the expansion of their offerings in the Microsoft Marketplace with the launch of Managed Virtual WAN Powered by Silver Peak. Vandis' offering allows organizations to connect branch sites,"
-publishedDateTime: 2021-05-26T10:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vandis-announces-new-offering-in-microsoft-azure-lighthouse-managed-virtual-wan-powered-by-silver-peak-1030465914"
-webUrl: "https://markets.businessinsider.com/news/stocks/vandis-announces-new-offering-in-microsoft-azure-lighthouse-managed-virtual-wan-powered-by-silver-peak-1030465914"
+title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
+excerpt: "The DataParser is widely used by regulated institutions to capture many types of on-line meeting and collaborative content such as Microsoft Teams, Cisco,"
+publishedDateTime: 2021-06-02T07:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expanding-dataparser-with-microsofts-azure-blob-storage-integration/article_fd97f019-dc3c-524c-b58f-6ec97e86e202.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expanding-dataparser-with-microsofts-azure-blob-storage-integration/article_fd97f019-dc3c-524c-b58f-6ec97e86e202.html"
 type: article
-quality: 41
-heat: -1
-published: false
+quality: 86
+heat: 226
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
+  - Storage
+  - Integration
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
-  - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
-    excerpt: "The DataParser is widely used by regulated institutions to capture many types of on-line meeting and collaborative content such as Microsoft Teams, Cisco,"
-    publishedDateTime: 2021-06-02T07:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expanding-dataparser-with-microsofts-azure-blob-storage-integration/article_fd97f019-dc3c-524c-b58f-6ec97e86e202.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 86
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Elastic Introduces Native Microsoft Azure Integration, Fleet Server, and Enhanced APM Workflows in Elastic Observability"
     excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, announces new features and updates across the Elastic"
     publishedDateTime: 2021-05-26T15:47:00Z
@@ -78,6 +68,15 @@ related:
         width: 1496
         height: 785
         isCached: true
+  - title: "Vandis Announces New Offering in Microsoft Azure Lighthouse: Managed Virtual WAN Powered by Silver Peak"
+    excerpt: "Vandis is pleased to announce the expansion of their offerings in the Microsoft Marketplace with the launch of Managed Virtual WAN Powered by Silver Peak. Vandis' offering allows organizations to connect branch sites,"
+    publishedDateTime: 2021-05-26T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vandis-announces-new-offering-in-microsoft-azure-lighthouse-managed-virtual-wan-powered-by-silver-peak-1030465914"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
   - title: "Insight Recognized again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
     excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all"
     publishedDateTime: 2021-05-31T20:02:00Z
@@ -113,6 +112,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "tJxzd6YNIrdD5fu11ibUnIP/WWoW4m5UeR7ya8Q3KC+RepUPaDC7O5QyA9RNj9AVmNWgT5jr4I53/m9fX5DHBuU9Vn+sWhnYHX+hNmbyaLdxZcQErJUOOo15iV4qD60vbo/LtgwR4Hqt4eIurWToGP5JlfQAybHDX/IgMiOYYtJQFH8I4IGY2qWJIAB89IsOgEadf6SsQb0wVol3SIYy6yh/kOWrvf98Np2P3TvTKyCvLZfjwwf6rC8YFuOT+ME+TdVQyLXGWtxtJEbiF65YSsu0OO5mj3h8HYWR5UBkcdO8CepDBY6F+BDmkV9T2l9tPPWwI4APKURo63nwBvf5FDi6gbKvXJJa15ThV7U9BlA=;juifOEohcCpXJH1J/2LRAw=="
+secured: "cxOpqkBGR4yjUBn43OHLW99+1VpTpI2y4prLefYg1Lr2gDokSnUMx29g51cv7HT1izhfPBEF7CTvak3ax+F+jdpc+u897rV3YO0AN3Tw1PQdV6cxROaksGA2DX5eu0W/CIkp4gWPZL3gagUPtWYltiSemKdX4eSmdsP/MI63CsJzMkfpuwTSPQkBTUFropZhHTqqFUPGndgTcAsrdyToqdbz3IUAzXDEgGzS3lY1sCgeHzgzlOABiq8e4WIAQJqZFJQVB+87Yh5Ua78a3C+z+2DMgyv/NuKlO9wxu9i92H7obIeCmXLnTEteeQuVDaIRd0zOdH3fD6XUF4OdnnFFKMzOp0dQDGhNhRQaLFoGll0=;GPPjcBxDNQhqJTaR7oIGGQ=="
 ---
 

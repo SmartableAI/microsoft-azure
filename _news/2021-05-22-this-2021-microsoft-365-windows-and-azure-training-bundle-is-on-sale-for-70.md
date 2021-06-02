@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
+    excerpt: "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting."
+    publishedDateTime: 2021-06-02T06:20:00Z
+    webUrl: "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/"
+    ampWebUrl: "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 114
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft Azure: This new technology allows you to manage Kubernetes containers across the hybrid cloud"
     excerpt: "Kubernetes applications can now exploit the cluster and virtualisation technologies that power Azure Stack HCI while still respecting local data. Microsoft is a firm believer in the idea of a hybrid cloud, one that spans everything from microcontrollers at ..."
     publishedDateTime: 2020-10-26T12:52:00Z
@@ -197,15 +213,6 @@ related:
         width: 872
         height: 545
         isCached: true
-  - title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
-    excerpt: "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting.Read"
-    publishedDateTime: 2021-06-02T01:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates-10197208"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
   - title: "Azure at Microsoft Build recap: build amazing things on your terms, anywhere"
     excerpt: "At digital Microsoft Build this week, we announced a host of new capabilities that help developers create intelligent, connected, and secure cloud-native apps that harness the power of data and AI and run anywhere. Below are the key stories we landed this week at Microsoft Build, with ways to explore"
     publishedDateTime: 2021-05-26T09:00:29Z

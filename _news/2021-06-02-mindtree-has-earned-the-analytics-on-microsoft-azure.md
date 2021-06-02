@@ -1,25 +1,28 @@
 ---
 category: news
-title: "Vandis Announces New Offering in Microsoft Azure Lighthouse: Managed Virtual WAN Powered by Silver Peak"
-excerpt: "Vandis is pleased to announce the expansion of their offerings in the Microsoft Marketplace with the launch of Managed Virtual WAN Powered by Silver Peak. Vandis' offering allows organizations to connect branch sites,"
-publishedDateTime: 2021-05-26T10:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vandis-announces-new-offering-in-microsoft-azure-lighthouse-managed-virtual-wan-powered-by-silver-peak-1030465914"
-webUrl: "https://markets.businessinsider.com/news/stocks/vandis-announces-new-offering-in-microsoft-azure-lighthouse-managed-virtual-wan-powered-by-silver-peak-1030465914"
+title: "Mindtree has earned the Analytics on Microsoft Azure"
+excerpt: "Only partners that meet stringent criteria around customer success and staff skilling as well as pass a third-party audit of their analytics planning and deplo"
+publishedDateTime: 2021-06-02T09:31:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/269731394/mindtree-has-earned-the-analytics-on-microsoft-azure"
+webUrl: "https://www.bignewsnetwork.com/news/269731394/mindtree-has-earned-the-analytics-on-microsoft-azure"
 type: article
-quality: 41
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Azure
+  - Analytics
+
+images:
+  - url: "https://cdn.bignewsnetwork.com/ani1622625655.jpg"
+    width: 630
+    height: 420
+    isCached: true
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -50,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mindtree has earned the Analytics on Microsoft Azure"
-    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling as well as pass a third-party audit of their analytics planning and deplo"
-    publishedDateTime: 2021-06-02T09:31:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269731394/mindtree-has-earned-the-analytics-on-microsoft-azure"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1622625655.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft"
     publishedDateTime: 2021-06-02T07:52:00Z
@@ -78,6 +67,15 @@ related:
         width: 1496
         height: 785
         isCached: true
+  - title: "Vandis Announces New Offering in Microsoft Azure Lighthouse: Managed Virtual WAN Powered by Silver Peak"
+    excerpt: "Vandis is pleased to announce the expansion of their offerings in the Microsoft Marketplace with the launch of Managed Virtual WAN Powered by Silver Peak. Vandis' offering allows organizations to connect branch sites,"
+    publishedDateTime: 2021-05-26T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vandis-announces-new-offering-in-microsoft-azure-lighthouse-managed-virtual-wan-powered-by-silver-peak-1030465914"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
   - title: "Insight Recognized again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
     excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all"
     publishedDateTime: 2021-05-31T20:02:00Z
@@ -113,6 +111,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "tJxzd6YNIrdD5fu11ibUnIP/WWoW4m5UeR7ya8Q3KC+RepUPaDC7O5QyA9RNj9AVmNWgT5jr4I53/m9fX5DHBuU9Vn+sWhnYHX+hNmbyaLdxZcQErJUOOo15iV4qD60vbo/LtgwR4Hqt4eIurWToGP5JlfQAybHDX/IgMiOYYtJQFH8I4IGY2qWJIAB89IsOgEadf6SsQb0wVol3SIYy6yh/kOWrvf98Np2P3TvTKyCvLZfjwwf6rC8YFuOT+ME+TdVQyLXGWtxtJEbiF65YSsu0OO5mj3h8HYWR5UBkcdO8CepDBY6F+BDmkV9T2l9tPPWwI4APKURo63nwBvf5FDi6gbKvXJJa15ThV7U9BlA=;juifOEohcCpXJH1J/2LRAw=="
+secured: "7K82UxEm1zosPC0O7VP3EY+7aX3mIJhnl46K8IiztTqls6KHCmZ3NHqMhgkbtyKL8jJmwkPTfQw/UNXLQrTXlNpU4cyiw4D76u8jvuwg6WACJQXPD6RsKLHLM3Pg70Vp4QFukkYloVlgOdsyGEpDk2KInKPyrcxiMdK0RC2nfzUjPBqX/USd6ZWmW/FHkTqKvcuQy8AZh6UolmMQBk+oM63fCkfwbSAoBn9gbKvNce+P4OdL1Z/dV0R5NS1loW1t/oRXdnRBfVRdpkflHBHHJZ4XwcD3noDBumvMQF764Nj0QhHIzAy7bMSg1/7eSSBMS3MIlRwiaYhCzmADpwmQTw8RK97olOyMskPhP7M9hyY=;I5302rboQ5Lr40J0603qLA=="
 ---
 

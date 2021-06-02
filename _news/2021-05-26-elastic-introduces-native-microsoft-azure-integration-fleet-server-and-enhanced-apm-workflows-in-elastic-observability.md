@@ -29,34 +29,91 @@ images:
     isCached: true
 
 related:
-  - title: "Dynatrace Announces Enhanced AI-powered Observability for Microsoft Azure"
-    excerpt: "Software intelligence company Dynatrace (NYSE: DT), announced today the extension of its Software Intelligence Platform to automatically ingest metrics"
-    publishedDateTime: 2020-07-23T12:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/dynatrace-announces-enhanced-ai-powered-observability-for-microsoft-azure-2020-07-21-81591442"
+  - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
+    excerpt: "The DataParser is widely used by regulated institutions to capture many types of on-line meeting and collaborative content such as Microsoft Teams, Cisco,"
+    publishedDateTime: 2021-06-02T07:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expanding-dataparser-with-microsofts-azure-blob-storage-integration/article_fd97f019-dc3c-524c-b58f-6ec97e86e202.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 86
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Halliburton Forms Strategic Agreement with Microsoft and Accenture to Use Azure"
-    excerpt: "Halliburton, Microsoft Corp., and Accenture announced they have entered into a five-year strategic agreement to advance"
-    publishedDateTime: 2020-07-27T15:42:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/halliburton-forms-strategic-agreement-with-microsoft-and-accenture-to-use-azure/"
+  - title: "Mindtree has earned the Analytics on Microsoft Azure"
+    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling as well as pass a third-party audit of their analytics planning and deplo"
+    publishedDateTime: 2021-06-02T09:31:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269731394/mindtree-has-earned-the-analytics-on-microsoft-azure"
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 33
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
     images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/Quantum-Art-from-DOE-Report-405x228.png"
-        width: 405
-        height: 228
+      - url: "https://cdn.bignewsnetwork.com/ani1622625655.jpg"
+        width: 630
+        height: 420
         isCached: true
+  - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
+    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft"
+    publishedDateTime: 2021-06-02T07:52:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-894610694.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
+        height: 785
+        isCached: true
+  - title: "Vandis Announces New Offering in Microsoft Azure Lighthouse: Managed Virtual WAN Powered by Silver Peak"
+    excerpt: "Vandis is pleased to announce the expansion of their offerings in the Microsoft Marketplace with the launch of Managed Virtual WAN Powered by Silver Peak. Vandis' offering allows organizations to connect branch sites,"
+    publishedDateTime: 2021-05-26T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vandis-announces-new-offering-in-microsoft-azure-lighthouse-managed-virtual-wan-powered-by-silver-peak-1030465914"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+  - title: "Insight Recognized again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
+    excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all"
+    publishedDateTime: 2021-05-31T20:02:00Z
+    webUrl: "https://www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year"
+    ampWebUrl: "https://www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 29
+  - title: "EU privacy watchdog to investigate EU institutions’ use of Amazon, Microsoft cloud services"
+    excerpt: "EU privacy watchdog EDPS opened on Thursday two investigations into EU institutions’ use of cloud computing services provided by Amazon and Microsoft, concerned about the transfer of Europeans ..."
+    publishedDateTime: 2021-06-02T09:56:00Z
+    webUrl: "https://cyprus-mail.com/2021/06/02/eu-privacy-watchdog-to-investigate-eu-institutions-use-of-amazon-microsoft-cloud-services/"
+    type: article
+    provider:
+      name: Cyprus Mail
+      domain: cyprus-mail.com
+    quality: 12
+    images:
+      - url: "https://cyprus-mail.com/wp-content/uploads/2021/05/Reuters-EU-watchdog-microsoft-story.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "Elastic Announces the General Availability of the New Frozen Tier, Enhanced Analyst Experience With Schema on Read, and First-Party Integration With Microsoft Azure"
+    excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced new capabilities and enhancements across its"
+    publishedDateTime: 2021-05-26T19:40:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210526005861/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "yLz8BMGCPi0XaA3pnStuoWuzNUEJAR3cL0zzO6tKCh2/y2Cz1PiEmQJCQMG4zt5svKucLe+8SnHksJ/61eOmLh4zYVftQzOX064vtwV3g5r0jE+t2RJ8lRG18s7on6QILwzoXM7Sr59j8UgbSQi/XcNGI6Bjb8jSEEF6xc9L0SOqWxvfHba1vNt2O0njquwcDZjduRaEmCEWn76ligIoIuOChDchSgH8W+UBf92PsiIeMJJR+9l2+dr7mOfeHkKROEz00z8S+sf2uAci2xSC1GM24p1lq0wQwzus9nReZyZYyz3G3hUppqrXiS0JUbR3mRWPSfsAD2MqptmEWB+JkYjSuLKKhzNxRfzQReCd5VU=;p+Aq+3zOx7+lSkmD4cOe1A=="
 ---

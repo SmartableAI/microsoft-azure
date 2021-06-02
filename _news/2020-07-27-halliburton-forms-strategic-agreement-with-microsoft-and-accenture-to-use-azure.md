@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Elastic Introduces Native Microsoft Azure Integration, Fleet Server, and Enhanced APM Workflows in Elastic Observability"
-    excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, announces new features and updates across the Elastic"
-    publishedDateTime: 2021-05-26T15:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/elastic-introduces-native-microsoft-azure-integration-fleet-server-and-enhanced-apm-workflows-in-elastic-observability-2021-05-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "F/pMbTd2NmHBURt2ZTkqa3Df5avojzM/WK1uDcw7H453DqtNq9sRMH3116C4bpAmm6w+9pydO/fUf4dnSSX6dXlxIDilzGbfaKASrViSHbWMa9EBa6m0zAL6XM/xdipgr5KQ3K8t5w0iQQoDQA8sGV1G26xb9jsUc16HvnR3tRE0TESGlIvJUiOCdJ8X5o84Y/ktcrFWGjV6dpMkQ/7rRIHgNyT4OBmJ/c6M7VYNjOLpmrWv9HyZOOgrUYqgAy9pOmThqOgKYVPh4zuaYwbeyhQny3gg3cofMRN0gxkA39kWX+8obmRvmkZXjtA0GdbMHNkeRRduf2qSRjH8TCvfLQ==;88dVz95YVyXRkNpYJvJkQw=="
 ---
