@@ -2,21 +2,17 @@
 category: news
 title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
 excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
-publishedDateTime: 2021-06-02T15:38:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
-webUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
+publishedDateTime: 2021-06-02T15:31:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
 type: article
-quality: 37
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -126,16 +122,7 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 0
-  - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
-    excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
-    publishedDateTime: 2021-06-02T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amesite-launches-remote-upskilling-courses-on-microsoft-azure-in-partnership-with-wayne-state-university/article_54e0d8a6-efbd-5f18-9291-5ec3685dcf89.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
-secured: "KaiMxwKmr6dFKezX2y09wxB5mtALeMGLp0U3XInvhy2jgHnHwijOphJo35xINxzMfQH0XH5wyQUIsi75kf1qKXH4R7d782D5kx17YY/Fe5KWOqvMgHhOtMROJiVUsI7Jw/v3eQ6yBlFP35qlkPYMd3ucyOAWaIGUiyEvRnkcK+hO0CzJ2rkt1OBatNsNCwen2OV5UBCGkZcJpX/1EW3gPZxBrhT06M407yN2DK3UNTb9BhmKL/D6+CYs3E/EoEefWAtGUWUyGYDAFW4bdPxRp/wWOJgK6U6sLNdZUEiVQSd1uJ97mmnwVlSeaxqn1nTYQojAL3UCc2r0ty/GNuhwDTgVkQXOQyCAjTonkSOQEvg=;3J3T08mMYtfSMkC4ntiVOw=="
+secured: "NNw+Af+stjqDXIqkomZGj/XIZMCPsJQJEj8MRHLlM6YOoQWz/H9ZwFtbtXalIn1STGjFdE5WEBh5Q93uoqd2ObWIqpSjLmL5X9IYnzHliJyP8+PpHDvA6P1Z/fq62kEU47DpxjPdUMt6dNgWnuaMzdpHfc3cmj0zh3R5uFE4Cas2CadtFWuQZq2gLR2DZ/95iocQkQhnneggpCXtuRR/NrnfXtcVuFdLaxPSi9AQhnIsopGYwnDmBnRVQ1CbjM4rg8xl2PJTEyh0jTUZoDF+GWaOwEQuHy018Zwi5Ms4ID4mCYJOYlVhrt/52Lwd5W3kMjK69fbMh9CtGe7VtfKbwmy7Z1Y/AOV27Zop72OO2qQ=;m2xAuxIfeEyr//A0X7qjuw=="
 ---
 

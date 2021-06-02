@@ -47,6 +47,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
+  - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
+    excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12 learning and upskilling announced today its launch of services on Microsoft Azure."
+    publishedDateTime: 2021-06-02T12:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382050.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "tJxzd6YNIrdD5fu11ibUnIP/WWoW4m5UeR7ya8Q3KC+RepUPaDC7O5QyA9RNj9AVmNWgT5jr4I53/m9fX5DHBuU9Vn+sWhnYHX+hNmbyaLdxZcQErJUOOo15iV4qD60vbo/LtgwR4Hqt4eIurWToGP5JlfQAybHDX/IgMiOYYtJQFH8I4IGY2qWJIAB89IsOgEadf6SsQb0wVol3SIYy6yh/kOWrvf98Np2P3TvTKyCvLZfjwwf6rC8YFuOT+ME+TdVQyLXGWtxtJEbiF65YSsu0OO5mj3h8HYWR5UBkcdO8CepDBY6F+BDmkV9T2l9tPPWwI4APKURo63nwBvf5FDi6gbKvXJJa15ThV7U9BlA=;juifOEohcCpXJH1J/2LRAw=="
 ---
