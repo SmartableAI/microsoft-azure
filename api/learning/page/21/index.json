@@ -4,49 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-analyze-climate-data-with-azure-notebooks.md",
-      "title": "Analyze climate data with Azure Notebooks",
-      "excerpt": "Create an Azure Notebook and use three popular Python libraries to analyze climate data collected by NASA, then share it.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-climate-data-with-azure-notebooks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-climate-data-with-azure-notebooks/",
-      "length": "45 mins",
-      "ratings": {
-        "count": 1912,
-        "average": 4.714958
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/analyze-climate-data-with-azure-notebooks-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Analyze climate data with Azure Notebooks",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-analyze-data-in-sentinel.md",
       "title": "Threat detection with Azure Sentinel analytics",
       "excerpt": "Threat detection with Azure Sentinel analytics",
@@ -184,8 +141,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-artificial-intelligence/",
       "length": "PT59M",
       "ratings": {
-        "count": 4585,
-        "average": 4.7480917
+        "count": 4586,
+        "average": 4.7481465
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -315,8 +272,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 1027,
-        "average": 4.740993
+        "count": 1028,
+        "average": 4.7412453
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -442,49 +399,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-build-azure-digital-twins-graph-for-chocolate-factory.md",
-      "title": "Build an Azure Digital Twins graph for a chocolate factory production line",
-      "excerpt": "This module covers the first steps in building an Azure Digital Twins solution. The units cover making an instance of Azure Digital Twins, and learning about, creating, and visualizing, DTDL models. You will create, validate, graph, and query, models for a chocolate factory production line.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-azure-digital-twins-graph-for-chocolate-factory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-digital-twins-graph-for-chocolate-factory/",
-      "length": "PT1H26M",
-      "ratings": {
-        "count": 55,
-        "average": 4.4363637
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/build-azure-digital-twins-graph-for-chocolate-factory-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management.md",
       "title": "Expose multiple Azure Function apps as a consistent API by using Azure API Management",
       "excerpt": "In this module, you will learn how to assemble multiple Azure Functions into a single API using Azure API Management.",
@@ -492,8 +406,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 2012,
-        "average": 4.641153
+        "count": 2013,
+        "average": 4.641331
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -623,8 +537,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/characterize-devops-continous-collaboration-improvement/",
       "length": "PT17M",
       "ratings": {
-        "count": 1495,
-        "average": 4.7110367
+        "count": 1496,
+        "average": 4.71123
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -658,8 +572,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 6099,
-        "average": 4.748483
+        "count": 6100,
+        "average": 4.7485247
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -700,8 +614,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-compute-provisioning/",
       "length": "PT50M",
       "ratings": {
-        "count": 1061,
-        "average": 4.678605
+        "count": 1062,
+        "average": 4.678908
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1268,6 +1182,84 @@
         "Azure",
         "Compute",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-cosmos-db-for-scale.md",
+      "title": "Create an Azure Cosmos DB database built to scale",
+      "excerpt": "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-cosmos-db-for-scale/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 4393,
+        "average": 4.6562715
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-host-web-sites-github-pages.md",
+      "title": "Create and host web sites by using GitHub Pages",
+      "excerpt": "Learn how to host your personal, organization, and project sites for free with GitHub Pages.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-host-web-sites-github-pages/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-host-web-sites-github-pages/",
+      "length": "PT1H12M",
+      "ratings": {
+        "count": 210,
+        "average": 4.804762
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/create-host-web-sites-github-pages-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
