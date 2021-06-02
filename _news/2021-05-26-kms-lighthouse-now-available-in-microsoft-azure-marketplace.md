@@ -197,6 +197,15 @@ related:
         width: 872
         height: 545
         isCached: true
+  - title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
+    excerpt: "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting.Read"
+    publishedDateTime: 2021-06-02T01:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates-10197208"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
   - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
     excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
     publishedDateTime: 2021-05-21T21:40:00Z
@@ -612,6 +621,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Softchoice Closes IPO, Moves To Cement Status As Largest Microsoft Cloud Partner"
+    excerpt: "Softchoice has grown its cloud business in large part around Microsoft, but also offers hybrid cloud deployments around AWS and Google."
+    publishedDateTime: 2021-06-02T02:45:00Z
+    webUrl: "https://www.crn.com/news/channel-programs/softchoice-closes-ipo-moves-to-cement-status-as-largest-microsoft-cloud-partner"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 17
+    images:
+      - url: "https://www.crn.com/resources/026a-126b8e08774b-89c2e50cf9ab-1000/softchoice_vince_de_palma_at_tsx_small.jpg"
+        width: 609
+        height: 509
+        isCached: true
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
     publishedDateTime: 2021-05-25T18:08:00Z
@@ -686,6 +709,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "VtJ+R4tvgxBJTje+WAnYRIYXEBESqV03R6RzNxHOkppYdMjqKwGNbswDyn25fWlqqhqgfE5FFIjmhnINbpLRKSNlPQa0Xm5nn4VHQ0dfi8k/hN8uNwOO6mXmeAGeehvFYy1NcE1VV0TMnn+lXaZiGB4fDw57qFjTwUpKHOhJroQvfMUp//ZYWj971b7BUFrVlZryWbAK6S7iw29mg75JuCTs6aiYpJYhUHTrIjBBUE9A4X3S7RAvhtDyw0wNbonMHEY+8Kk7ql7FotEh4wqk+2DbayB4231j5e66yx/viSmNDdS3rsCdWuvgYlghc4OGHJ9sVfQZ7EoH/DLnOw8endkE8xYZ4uQXBWMjg2sd9Vs=;b27LJ9kXxqTT5SHeNG2NAA=="
+secured: "0BBZt1AcNvf/HzC4pKHmwZEEqb6L74AXRczDFy4CTCFxRhH7GHK/wyBH/r4ZQJiUZsJor1hjC0APC5EuJJey+czhVX71MH1DyYkxxClFAL3CDUDm447e7aKjKyHng9HhtlfedBTNkG3cGwqfMJ+5Eb4CG84Gx3B4qxVesSHD0mSXOJJ8MhYsLOF4LX78muxFNUDD6i5GCpRsgDcTlM5VQb1+kEiLaCU5HkRm/dqeJwnCSffsUHWP3VB7wnj3htApOrP9/t/xz+xBjYIbGn6+JukEOACFedV6PH52JFX3euK5xKyYMeKBzkx5QaTEFcL3fkLNVxvYDk1hvCfbpxKssjLwkWB/LgPDdQbu2/6EuoQ=;xhJ8qWO2IePAebC0nv0eXw=="
 ---
 

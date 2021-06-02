@@ -197,6 +197,15 @@ related:
         width: 872
         height: 545
         isCached: true
+  - title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
+    excerpt: "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting.Read"
+    publishedDateTime: 2021-06-02T01:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates-10197208"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
   - title: "Azure at Microsoft Build recap: build amazing things on your terms, anywhere"
     excerpt: "At digital Microsoft Build this week, we announced a host of new capabilities that help developers create intelligent, connected, and secure cloud-native apps that harness the power of data and AI and run anywhere. Below are the key stories we landed this week at Microsoft Build, with ways to explore"
     publishedDateTime: 2021-05-26T09:00:29Z
@@ -615,6 +624,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Softchoice Closes IPO, Moves To Cement Status As Largest Microsoft Cloud Partner"
+    excerpt: "Softchoice has grown its cloud business in large part around Microsoft, but also offers hybrid cloud deployments around AWS and Google."
+    publishedDateTime: 2021-06-02T02:45:00Z
+    webUrl: "https://www.crn.com/news/channel-programs/softchoice-closes-ipo-moves-to-cement-status-as-largest-microsoft-cloud-partner"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 17
+    images:
+      - url: "https://www.crn.com/resources/026a-126b8e08774b-89c2e50cf9ab-1000/softchoice_vince_de_palma_at_tsx_small.jpg"
+        width: 609
+        height: 509
+        isCached: true
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
     publishedDateTime: 2021-05-25T18:08:00Z

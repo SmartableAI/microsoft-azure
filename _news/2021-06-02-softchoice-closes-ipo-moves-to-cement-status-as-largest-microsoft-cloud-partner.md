@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Public preview: Run App Service on Kubernetes or anywhere with Azure Arc"
-excerpt: "You can now run Web Apps against a range of fully managed App Service plans or choose to deploy against Azure Kubernetes Service or your own Kubernetes clusters connected through Azure Arc that are running on-premises, at the edge, or in other clouds."
-publishedDateTime: 2021-05-25T16:00:16Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-run-app-service-on-kubernetes-or-anywhere-with-azure-arc/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-run-app-service-on-kubernetes-or-anywhere-with-azure-arc/"
+title: "Softchoice Closes IPO, Moves To Cement Status As Largest Microsoft Cloud Partner"
+excerpt: "Softchoice has grown its cloud business in large part around Microsoft, but also offers hybrid cloud deployments around AWS and Google."
+publishedDateTime: 2021-06-02T02:45:00Z
+originalUrl: "https://www.crn.com/news/channel-programs/softchoice-closes-ipo-moves-to-cement-status-as-largest-microsoft-cloud-partner"
+webUrl: "https://www.crn.com/news/channel-programs/softchoice-closes-ipo-moves-to-cement-status-as-largest-microsoft-cloud-partner"
 type: article
-quality: 100
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
-  - Compute
-  - Containers
+
+images:
+  - url: "https://www.crn.com/resources/026a-126b8e08774b-89c2e50cf9ab-1000/softchoice_vince_de_palma_at_tsx_small.jpg"
+    width: 609
+    height: 509
+    isCached: true
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Public preview: Run App Service on Kubernetes or anywhere with Azure Arc"
+    excerpt: "You can now run Web Apps against a range of fully managed App Service plans or choose to deploy against Azure Kubernetes Service or your own Kubernetes clusters connected through Azure Arc that are running on-premises, at the edge, or in other clouds."
+    publishedDateTime: 2021-05-25T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-run-app-service-on-kubernetes-or-anywhere-with-azure-arc/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 100
   - title: "Master Microsoft Azure with this prep courses and mock exams bundle"
     excerpt: "TL;DR: The Ultimate Microsoft Azure Administrator Bundle is on sale for £21.21 as of May 23, saving you 94% on list price. Just a few years ago, if you wanted an IT cloud systems expert position ..."
     publishedDateTime: 2021-05-23T04:42:00Z
@@ -626,20 +635,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Softchoice Closes IPO, Moves To Cement Status As Largest Microsoft Cloud Partner"
-    excerpt: "Softchoice has grown its cloud business in large part around Microsoft, but also offers hybrid cloud deployments around AWS and Google."
-    publishedDateTime: 2021-06-02T02:45:00Z
-    webUrl: "https://www.crn.com/news/channel-programs/softchoice-closes-ipo-moves-to-cement-status-as-largest-microsoft-cloud-partner"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 17
-    images:
-      - url: "https://www.crn.com/resources/026a-126b8e08774b-89c2e50cf9ab-1000/softchoice_vince_de_palma_at_tsx_small.jpg"
-        width: 609
-        height: 509
-        isCached: true
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
     publishedDateTime: 2021-05-25T18:08:00Z
@@ -714,6 +709,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "mrEL/YRwTlYr7mJoJMskzkMUFr2lxhdTORtLyc6bjMUPMii60F0apXC8wy2joTkhl9gHiqYQiyN9knB5mExttzTK8Sa5yn99tignSbgPjK95RH99+LkWAlnkMlVLN4zrDpxiArlRfoKEBpLVcMAAk8NBC7+VtHxYxsCblI0rDBD/uDBk0Sx/VCWe85Hu+5G4teW3bAV7Pps9INulLNAF2+uROTuKRvWNjRvdTtmJLLNEZjfwAvvUQm7DZego/7NX4M1Ikzrpk0O7+fxqgra0Mn8J9a1WCtx0uF7JzrK3RS8ndPYu2io4o96nJuvAh8AIY5dCfAWg34q5owSdMEdXf6j1SHdurE1V/kAAtAgdIF0=;b1Srs5xHgnd9vohbxYCnug=="
+secured: "hdaEN7KWoUJHw+entDZE4SXgKgSf2uYIxGH+vJgU2+b+wMHkePCJUct2kVh1n4RtW+oJCxDmugjzfn7JwEjuqcWqasLv/HPU+0922EIEiXI24PA9Txw2cd8RTW1uth4zHiVa2Y9lyA01G9lYG1PyHktEPkWtCuE+n9HCeQ4yWDnA0xtdfrOtff/tzrXvp/+VMm/auV34FsRq5TQEMps+Y+KRUgqb06v5fPZAgbBf58wWKqxTpXC7Q/UyWO+IRXm5h05B9zBqoPLhd/M2LFfFBuTv5tBsr1g0q8nCs/7hGSig5btqAg0KlIOZOHKESyDtBz+pwLPl9GnRJLobFxe5J+Wv7jYUFOv9oLdwvH3dilk=;+/p2QcwQzW2qQ6zsDbaoGA=="
 ---
 

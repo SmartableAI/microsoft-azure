@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Public preview: Run App Service on Kubernetes or anywhere with Azure Arc"
-excerpt: "You can now run Web Apps against a range of fully managed App Service plans or choose to deploy against Azure Kubernetes Service or your own Kubernetes clusters connected through Azure Arc that are running on-premises, at the edge, or in other clouds."
-publishedDateTime: 2021-05-25T16:00:16Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-run-app-service-on-kubernetes-or-anywhere-with-azure-arc/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-run-app-service-on-kubernetes-or-anywhere-with-azure-arc/"
+title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
+excerpt: "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting.Read"
+publishedDateTime: 2021-06-02T01:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates-10197208"
+webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates-10197208"
 type: article
-quality: 100
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-  - Compute
-  - Containers
+  - AI
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -56,6 +55,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Public preview: Run App Service on Kubernetes or anywhere with Azure Arc"
+    excerpt: "You can now run Web Apps against a range of fully managed App Service plans or choose to deploy against Azure Kubernetes Service or your own Kubernetes clusters connected through Azure Arc that are running on-premises, at the edge, or in other clouds."
+    publishedDateTime: 2021-05-25T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-run-app-service-on-kubernetes-or-anywhere-with-azure-arc/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 100
   - title: "Master Microsoft Azure with this prep courses and mock exams bundle"
     excerpt: "TL;DR: The Ultimate Microsoft Azure Administrator Bundle is on sale for £21.21 as of May 23, saving you 94% on list price. Just a few years ago, if you wanted an IT cloud systems expert position ..."
     publishedDateTime: 2021-05-23T04:42:00Z
@@ -188,15 +196,6 @@ related:
         width: 872
         height: 545
         isCached: true
-  - title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
-    excerpt: "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting.Read"
-    publishedDateTime: 2021-06-02T01:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates-10197208"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
   - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
     excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
     publishedDateTime: 2021-05-21T21:40:00Z
@@ -714,6 +713,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "mrEL/YRwTlYr7mJoJMskzkMUFr2lxhdTORtLyc6bjMUPMii60F0apXC8wy2joTkhl9gHiqYQiyN9knB5mExttzTK8Sa5yn99tignSbgPjK95RH99+LkWAlnkMlVLN4zrDpxiArlRfoKEBpLVcMAAk8NBC7+VtHxYxsCblI0rDBD/uDBk0Sx/VCWe85Hu+5G4teW3bAV7Pps9INulLNAF2+uROTuKRvWNjRvdTtmJLLNEZjfwAvvUQm7DZego/7NX4M1Ikzrpk0O7+fxqgra0Mn8J9a1WCtx0uF7JzrK3RS8ndPYu2io4o96nJuvAh8AIY5dCfAWg34q5owSdMEdXf6j1SHdurE1V/kAAtAgdIF0=;b1Srs5xHgnd9vohbxYCnug=="
+secured: "fJ0uNaYisvo+Ci9mMv6sslC1KTPlnExxUsn0WDJrHB7qtCv3FjKdS8PsAy31Zp2P3z7OMrTup/90LIucgIq5FuHp8bk6euZAj7Xs+MxNuu/H0GQfkNhm9K5U+Y3Lg1aBhYeabNsfr9V9nvq1RzupLdJDvY1u991d064bBh9WE1GVbHTloq9TS+RZi98buUQaNcA9ceVJ3PaXiwQqGHgfNlidlFKTo7jPmcdJJopDZmL+S0yt/nSu9dktxLtCxIZWqacdRBBjX5lHOzlBkDbq6jQViLjUfKX42pudhapLNXnL33lODMWPFXPhQf9wohu+mdZVgmsiM9Vu3/06jD1cBIY30TQ11wG7cIDcPqNG0CA=;s2adneuaNU8W/0HFczNPqA=="
 ---
 
