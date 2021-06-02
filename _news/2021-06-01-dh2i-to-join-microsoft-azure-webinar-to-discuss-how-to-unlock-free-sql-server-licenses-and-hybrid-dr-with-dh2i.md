@@ -1,28 +1,28 @@
 ---
 category: news
 title: "DH2i to Join Microsoft Azure Webinar to Discuss \"How to Unlock Free SQL Server Licenses and Hybrid DR with DH2i\""
-excerpt: "DH2i ®, the leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability™ software, today announced it will join a Microsoft Azure Webinar to discuss \" How to Unlock Free SQL Server Licenses and Hybrid DR with DH2i ."
-publishedDateTime: 2021-06-01T13:29:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-dh2i-jo-microsoft-azure-webinar-discuss-how-unlock-/2021/06/01/9381324.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-dh2i-jo-microsoft-azure-webinar-discuss-how-unlock-/2021/06/01/9381324.htm"
+excerpt: "DH2i®, the leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability™ software, today announced it will join a Microsoft Azure"
+publishedDateTime: 2021-06-01T13:15:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dh2i-to-join-microsoft-azure-webinar-to-discuss-how-to-unlock-free-sql-server-licenses/article_42173b0b-fcdb-5c86-9a13-93ae0913f504.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dh2i-to-join-microsoft-azure-webinar-to-discuss-how-to-unlock-free-sql-server-licenses/article_42173b0b-fcdb-5c86-9a13-93ae0913f504.html"
 type: article
 quality: 16
 heat: 16
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2d/c2d990d1-93cd-5cc1-a081-c80453178f37/6059f17b3e02e.image.jpg?resize=630%2C630"
+    width: 630
+    height: 630
     isCached: true
 
-secured: "/FXiUvr9WE0faKhILdm9n4UOlLJjZ4Q99rvhADuF1ABe38D23ldakrWV6CR+3xTmQXC+r3MAOCBtOHfAAPdf9l38pQv1IJfuGdvCMzwagpE+pnMFN+jl8Dcc9aERrIFWg8ASr7SedL9PKGcG7CVW/gJoPL1UBylYgcM1pK9JTm7zTu+k9K0GVX0yuiP4Jl6POXlLgqowcgOG8+U7K0GDPqSq1XfsqkKc6RtL/LnWWCVDX+L90njGpx3xePg9uQ09TsK3vf41RmvIZDOgys8zUxeupbVXbWZRbIB7CcHVjK4+NISmP8Jngn3frDEevjIAJ6mT33NiGQlUGxDQpaK6YbHyjI5BPgvF+3dCxRcBVIDT4wYZstkWLv+aASl2cvFXHEy+EzA/9Jtbpc9dKiVhjJZ5iC12yUBMso1gQxg2nxNzlRZ7HOhHfuuDu/tJWVDxx10GB/1kleER8iym+RFr2lPovhm4IQw4WCtdGSfmKxLKLyUA23JdBGzX6c2RUUJ7GaPHrO4D/64EvevLaG84uQ==;wkTv+WCOmP15tniSfbbzIw=="
+secured: "CuGCXpe+LzfyPc2qVwyXbFYIv4yXNzQdYJtTlfAd0I6B//MkcUoNfGIThFJEYEhxI8cD564MqlPYK+/Gz4LNbr2IYRc4ja8wnc122VWz+C5Wpk4IBXiSZ5OkyizpV7dJywtT4xHVAWZXcq4QX916rQt8GuAFKxdXl8fhHdARamT6wzJNQGxZdd+M89E4xotVSqwdKZKHTcYJrwj93AZbeaDML7ACChUFFpQ64nL2GatodEdwgl5yCm4+cXyMLPtI3UhhQoVVvZxaT93KdFD8WojEKwCw7zUSMvCy5ekWWZ61q9+dp0LMZCyfzOiIoVYcgMGDpwZ5/y1mwxxL/Mv4wwttoD84ANsJPuAYN6eWf+s=;ybHo6k8ydogwnK09KN1vBg=="
 ---
 

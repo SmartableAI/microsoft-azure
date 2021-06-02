@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by"
-publishedDateTime: 2021-06-02T15:23:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-301304206.html"
-webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-301304206.html"
+excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
+publishedDateTime: 2021-06-02T15:38:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
+webUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -138,6 +136,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "XofRJBjT8vkWJQ5wBBEPO84PCb+FxCQJtx/LwocZeIKDFBUXUARjFcRIEqq7sGyIAjFFlmx0VtPwfIrF3MzjQE3kg2IOAt/f3Ufr7WKCU+nH8560/OdCBRpbUJa52yG3XVG9ki3Jolrn/fEnmQ15S0b4I7Si4i1/o7/hGFmPBjmSuw4V8trCCE92Sk+73Fw4u+qWZiUNyDDmIC07hh6XVc1P898tSKmQ8b8/mXaBDjMaVk4X/WCwQ5Hb4HXcwKh86ZB9LGs5lCP0utzUSIwokdt1Mcf3xvHT2+dBAqXc+Aa3vaNcNSS5kKVWwfggb8ZFhNbnWgLo2k4cZZLQlP1elsu3WfYVN0iiP7t+0ynZoKBkclAhlUFy84gZIcbtx/M3ss5i2UsDNS+Nefk85vD4H9pYPGyrqR7Rd83PilWRG3fZbLPZ0xFqY8lN5wXLiUe4rk6Ihh4VpTbblNWzCxVzkkNV4ek2ByV1YCUqesjxCS0w2IlFL/MYmn3RnHT0+XqZv+hll8nBenmjE6Xi2RJ4rg==;WkBVGVgZtzzkISlSFYnCGQ=="
+secured: "KaiMxwKmr6dFKezX2y09wxB5mtALeMGLp0U3XInvhy2jgHnHwijOphJo35xINxzMfQH0XH5wyQUIsi75kf1qKXH4R7d782D5kx17YY/Fe5KWOqvMgHhOtMROJiVUsI7Jw/v3eQ6yBlFP35qlkPYMd3ucyOAWaIGUiyEvRnkcK+hO0CzJ2rkt1OBatNsNCwen2OV5UBCGkZcJpX/1EW3gPZxBrhT06M407yN2DK3UNTb9BhmKL/D6+CYs3E/EoEefWAtGUWUyGYDAFW4bdPxRp/wWOJgK6U6sLNdZUEiVQSd1uJ97mmnwVlSeaxqn1nTYQojAL3UCc2r0ty/GNuhwDTgVkQXOQyCAjTonkSOQEvg=;3J3T08mMYtfSMkC4ntiVOw=="
 ---
 
