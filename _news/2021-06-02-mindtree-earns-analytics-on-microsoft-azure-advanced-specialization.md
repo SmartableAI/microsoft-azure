@@ -1,21 +1,24 @@
 ---
 category: news
-title: "Space Hellas implements first Microsoft Azure Stack project in Cyprus"
-excerpt: "Space Hellas successfully completed the First Azure Stack Installation at Cyprus Trading (CTC). Responding to the CTC Group's need to integrate information infrastructure and using Microsoft Hybrid Cloud technologies,"
-publishedDateTime: 2021-06-01T11:14:00Z
-originalUrl: "https://www.telecompaper.com/news/space-hellas-implements-first-microsoft-azure-stack-project-in-cyprus--1385062"
-webUrl: "https://www.telecompaper.com/news/space-hellas-implements-first-microsoft-azure-stack-project-in-cyprus--1385062"
+title: "Mindtree earns Analytics on Microsoft Azure advanced specialization"
+excerpt: "Only partners that meet stringent criteria around customer success and staff skilling, as well as pass a third-party audit of their analytics planning and deployment practices, are able to earn the An"
+publishedDateTime: 2021-06-02T06:02:00Z
+originalUrl: "https://www.business-standard.com/article/news-cm/mindtree-earns-analytics-on-microsoft-azure-advanced-specialization-121060200377_1.html"
+webUrl: "https://www.business-standard.com/article/news-cm/mindtree-earns-analytics-on-microsoft-azure-advanced-specialization-121060200377_1.html"
+ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/mindtree-earns-analytics-on-microsoft-azure-advanced-specialization-121060200377_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/mindtree-earns-analytics-on-microsoft-azure-advanced-specialization-121060200377_1.html"
 type: article
-quality: 17
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Azure
+  - Analytics
 
 related:
   - title: "Microsoft adds enterprise support for PyTorch AI on Azure"
@@ -43,17 +46,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Mindtree earns Analytics on Microsoft Azure advanced specialization"
-    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling, as well as pass a third-party audit of their analytics planning and deployment practices, are able to earn the An"
-    publishedDateTime: 2021-06-02T06:02:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/mindtree-earns-analytics-on-microsoft-azure-advanced-specialization-121060200377_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/mindtree-earns-analytics-on-microsoft-azure-advanced-specialization-121060200377_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/mindtree-earns-analytics-on-microsoft-azure-advanced-specialization-121060200377_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 54
   - title: "Senseye PdM Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime."
     publishedDateTime: 2021-05-27T16:14:00Z
@@ -121,6 +113,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Space Hellas implements first Microsoft Azure Stack project in Cyprus"
+    excerpt: "Space Hellas successfully completed the First Azure Stack Installation at Cyprus Trading (CTC). Responding to the CTC Group's need to integrate information infrastructure and using Microsoft Hybrid Cloud technologies,"
+    publishedDateTime: 2021-06-01T11:14:00Z
+    webUrl: "https://www.telecompaper.com/news/space-hellas-implements-first-microsoft-azure-stack-project-in-cyprus--1385062"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Glance Networks: Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
     excerpt: "Glance Microsoft Azure customers can also credit Glance session data flowing through Azure towards their Microsoft Azure Consumption Commitment (MACC) requirements. Glance for Financial Services ..."
     publishedDateTime: 2021-05-25T17:10:00Z
@@ -140,6 +141,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "oAEwG96NIjKrEkCZxY24JQAnc2BoKGzflrTk6uoY1gqjZydj0iihcCi7vmeLwZqOkV49BURIZuF1N3x7GS4mOCN4Yz/WEMyobUD5Aa9hp+7J5TOnpTD2IALOKFkE1I3Sq8g964nXypoPFOFPottkR1GHzLFdkoldGAdJoY5nSQZxBr15xc0I7/96O56yBsbYRwG3Y8MgqG6dv8Gz9+0peShWaAi6DAg5k8oY3SH68UunLkT8qXqdRvGi7Ipft8En1MilkStbKuQLz5p977I4p6BhplrDCuhvt81zx7RZOJOs4n/rZexRuXjql0/971KxmbeOkICf0K6bO+yuBDxWK7qsw2BR8pOJQJ52r2HdG1c=;cFe/u5/LY4R4apTZL+i8rw=="
+secured: "d12Vp3MuAEQpd7e5AGjqDObr8BM7UiMPgLAeNNeY6FH111tHO/uwrtI4Fg58aJyI64/SsEKP4eBs1Qb/D9oYM90J4plp7LYpXQbWrKvfxx7HJ4MGBshQjmuy1/7ytXM38zdfcQwq6xuPOl1MTDTyQmO+sNpXAXPiqDNLf0sVWVaphLFvfhJLFerR5a52hIF3XYNtMVnPTi9l6rb0iOvJjs7/lS6Ydn/njsNfami4azALkSr9/0/j/APSmcHVBJ8LflWS9PWwIEaiaXSB7zddCfLfvky+ler4XD7QyCtLcDXf2GGavFePmdaoToTg+TPxgykVKWmiflu+38y0O9xxz1NxrZW5Je5R+X4pr4NWg8U=;7YHPeJilWoYCbLDLPLRD0A=="
 ---
 

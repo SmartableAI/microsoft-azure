@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
-publishedDateTime: 2021-06-01T23:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
+publishedDateTime: 2021-06-02T02:40:00Z
+originalUrl: "https://www.ryt9.com/en/anpi/250000"
+webUrl: "https://www.ryt9.com/en/anpi/250000"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
+    width: 800
+    height: 338
     isCached: true
 
 related:
@@ -49,6 +49,17 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "Mindtree earns Analytics on Microsoft Azure advanced specialization"
+    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling, as well as pass a third-party audit of their analytics planning and deployment practices, are able to earn the An"
+    publishedDateTime: 2021-06-02T06:02:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/mindtree-earns-analytics-on-microsoft-azure-advanced-specialization-121060200377_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/mindtree-earns-analytics-on-microsoft-azure-advanced-specialization-121060200377_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/mindtree-earns-analytics-on-microsoft-azure-advanced-specialization-121060200377_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 54
   - title: "Senseye PdM Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime."
     publishedDateTime: 2021-05-27T16:14:00Z
@@ -130,6 +141,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "NWs1xYlhQyKxiZ6gyy+KT52gjD+zz91FsebnmxNSy9OGydvvk65IxWb4lh04SHdXdmDSn4Iv6tcX+Ae5xZ/KdIiMDFXHUIQ6Jnez2IKY1HoiR7n+8so6nODJyDCm2ZQAo5dQ+SkAhGPyxeZmmvdKL88RmbPdXCVkoSEfsdtEaifiqwf5WLa+nHKvN0oS+ftp4kn1ayOiILcsUbRKKLoQ6YODoXQKANBtHG5qHSYgQySU8EirdreW/vcjYqJz923PPmGPkroMhyjEvwqvzoMG8mLmnA9v9iQ9wLbiZxPrkri9ip3firR/cQc8MZYGL6FcF2ujTwKTNTmVrKvvn3+iGlXBFD5WgWMeeVdE+GISKMk=;mB3oTBuFP9+XYmn0Yc8p8A=="
+secured: "LPNHE4zuBkXnqVf31Bw8FK6GqVCdKl7SnRIpK2PlGhymnzuuOwZ2C3YylNIHdmC/jXhjUHIncyoYGm53PzKp64kUPdw69RhApRMdNJSps0t+8Z0eS4J6qmi5wuD4sbH8wx1kLkcsRZGc71xCOWpdVMUhl65/eJEtfLbJUfop+NOBt8CO/2MC0pSKYyS7xsvXxuKjd2BkdpEVEAO7SJfe6iPVJTZqk8vetetis+ScmzW3/qVJVSRdjBWY4EHK+y15RXNd4C6SBFIJa5DfBoWCRFSoPvhVoMw02nNdUxAusHFyFGeFlMd1mq46HgshfMQKbPLUUzcEogVLN5rcqAiSI/qumFMEjFYEibSSNopK06w=;bw/+DScU1aQuUZDvOM+w6w=="
 ---
 

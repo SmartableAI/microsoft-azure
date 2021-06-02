@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
-excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
-publishedDateTime: 2021-01-19T13:03:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
+title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
+excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft"
+publishedDateTime: 2021-06-02T07:40:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-301303655.html"
+webUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-301303655.html"
 type: article
-quality: 0
+quality: 51
 heat: -1
 published: false
 
@@ -16,11 +16,12 @@ provider:
 
 topics:
   - Azure
+  - Analytics
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+    width: 1496
+    height: 785
     isCached: true
 
 related:
@@ -35,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 72
-  - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft"
-    publishedDateTime: 2021-06-02T07:40:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-301303655.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-        width: 1496
-        height: 785
-        isCached: true
   - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, on Tuesday announced an additional purchasing channel for Teradata Vantage on Azure:"
     publishedDateTime: 2021-01-13T02:02:00Z
@@ -88,6 +75,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 31
+  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
+    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
+    publishedDateTime: 2021-01-19T13:03:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Quest Announces Availability of On Demand SaaS Platform in Australia for Easy Management of Microsoft Cloud Environments"
     excerpt: "Quest Software, a global systems management and security software provider, today announced the availability of Quest On Demand in Australia. A Microsoft Azure-hosted software-as-a-service (SaaS) platform available within Quest’s Microsoft Platform Management business,"
     publishedDateTime: 2021-01-19T10:10:00Z
@@ -112,6 +113,6 @@ related:
         height: 315
         isCached: true
 
-secured: "UzWQCyAExG+1b6WhhEeBb7giuvg2hHnv5xzUuch4MZdHWQTeKR9P5J1fSgrE0lujWL7uA3ZXI/FgEMxSSl/DTN8qz6t9+yyZC8Wwgh1kgal+Xdb502RLfYnvQNPif/3DBnnW/eYdK6hPv+dw39KZYobxXpsb2DLxNQuBAVlphhHvvE9zePERBaO4fjxysy5+HbN7yWd9U7Os0NjnhnNrhq/sTrseRG2klEPBvhdjuhfB0f9PB+KipuSlEOLso9poQpg05cl9CvQ4t4ecbc2kPbyYHIJmr5SvRo9SAOPlAulnMOGthAQVVFGrtStklgXmKFxduG7ful82EOrt70a33zHEBZGFhGsIPoHTyU1iiUI=;iJtJMCQcp+TJ7c0KGhmhww=="
+secured: "BZf17Xmf8yQ6smecptAoS15G8bP+dCawW3LbcGIfqrCfnyGADzvSGqwShSQsefPWoNf3CsAKBRBBvxFYWB1KAFQT5dDLFL6+FlDNdbHIyPbe+I6RZm6Dn2yXZ1bVo1TNt17tRDOnaoIoQGlvNmRgCjuCElFlvjBP6rTZTYVgvWSKB/54XRI42DSy+xivsNkrffwJmGaMyU4AHhnMk+IbSQFqSZDwEsEZzozNZd3vZhWeQwUI3GGfDWMYxwDwlpqqA7n3B52ZQt7xnBS37MtsL7WceeR1ecNcxiux2PJWz7IMnRxnIOLwEtToSA01JTn7QzQinXA0LBvZvmE+aibO60D4mEulHe9gsloab1U1W7s=;/PjjHdaL6ZAI9LVvx40qvg=="
 ---
 
