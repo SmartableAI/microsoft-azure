@@ -22,7 +22,6 @@ items:
   - courses/microsoft-learn-run-docker-containers-aci
   - courses/microsoft-learn-azure-container-registry
   - courses/microsoft-learn-host-a-web-application-with-azure-web-apps
-  - courses/microsoft-learn-run-web-app-background-task-with-webjobs
   - courses/microsoft-learn-deploy-run-container-app-service
   - courses/microsoft-learn-intro-to-azure-kubernetes-service
   - courses/microsoft-learn-work-with-mutable-and-partial-data-in-a-redis-cache

@@ -7,7 +7,7 @@ price: Free
 length: PT48M
 ratings:
   count: 6775
-  average: 4.7149816
+  average: 4.7151294
 heat: 52
 
 provider:
