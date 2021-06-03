@@ -1886,6 +1886,15 @@ related:
       name: CIO
       domain: cio.com
     quality: 17
+  - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
+    excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
+    publishedDateTime: 2021-06-03T10:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9382990.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
     publishedDateTime: 2021-03-18T16:11:00Z

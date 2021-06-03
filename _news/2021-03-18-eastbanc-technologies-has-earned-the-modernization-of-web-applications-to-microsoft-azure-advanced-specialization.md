@@ -1898,6 +1898,15 @@ related:
       name: CIO
       domain: cio.com
     quality: 17
+  - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
+    excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
+    publishedDateTime: 2021-06-03T10:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9382990.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
     excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
     publishedDateTime: 2021-03-12T13:05:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to KMS Lighthouse to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business ..."
-publishedDateTime: 2021-05-26T12:15:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-861187119.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-861187119.html"
+excerpt: "TEL AVIV, Israel, May 26, 2021 /PRNewswire/ -- KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure ..."
+publishedDateTime: 2021-05-26T12:12:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-301299746.html"
+webUrl: "https://www.prnewswire.com/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-301299746.html"
 type: article
 quality: 37
 heat: -1
@@ -720,6 +720,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "U/YchO+EV2hh2KyKNzaob99EUtkLpurt2wiPPUT0plt+ZmrQaHco/V9jvXKt0+8ysA2KeYk7qjzZI1D7r5Hp7bIj8BRUQqT/ce7/7+du+DsebnBqmtXc8zaODpTy+gEVv0zsKcTrJXj2h8UOZMQ+VZE7CiNERbPUC4m2ppm1tnHNPx08wBt96Yis1gGdUx5XtS1DoAkKuUABm37ZH8GrBYSbTLhgesc19wOX9G9H3cgHprDSh8ae+VlcD1sMPJbj8svZLjpchd8pdUqcily6Bbb2h/ZeV55MUZ0tySFVg3lXWVHlLRMpP86tBCyl3QM0Zp6+OXiR+1cu3MP/G0Bzna4Vyxu1ChmmzcVYMcfgR+Q=;ikd83xqFq4cJizQKmm76RA=="
+secured: "7yGiXNIrDiOss0q+73FCGRa/7rnXaNDUkwTHu0HbFK7I4/3FphLm4hGhRTOGryXJyTKvQtipF8unbeKTGoVkUXw1j1kwyXfa3itOIpMa5/g4uAAtnFvvCm53aI/SrTJ6atSbAcbllo/4qArhH3qE/ZxijD4oIgwoNij+zElNTCfnB2htn7i9jvHAeU3iluDK+j/rNyaRqkOdq5egI4IUxPKYzkaNzqKeqcfFF9Jy0p83NyDgHKVZULFuXeFoyKj4fciGqKVbI0yemOP/RTK2ZGCdlOKgtJdv/V+iR/zVAD+ZxKpx6h9MCfp376fjAGMRL2m+uzt1032G5+2dfKlFTyyZdFay5MZRzO4GZlZSPvs=;bEPTbGNELJwcqUSGO6n0Jw=="
 ---
 

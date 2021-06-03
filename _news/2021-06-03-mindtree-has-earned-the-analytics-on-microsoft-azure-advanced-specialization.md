@@ -79,6 +79,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
+  - title: "Morgan Stanley goes all in on Microsoft Azure"
+    excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
+    publishedDateTime: 2021-06-03T10:20:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87923/morgan-stanley-goes-all-in-on-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Insight Recognized again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
     excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all"
     publishedDateTime: 2021-05-31T20:02:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expan
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expanding-dataparser-with-microsofts-azure-blob-storage-integration/article_fd97f019-dc3c-524c-b58f-6ec97e86e202.html"
 type: article
 quality: 86
-heat: 286
+heat: 306
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
+  - title: "Morgan Stanley goes all in on Microsoft Azure"
+    excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
+    publishedDateTime: 2021-06-03T10:20:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87923/morgan-stanley-goes-all-in-on-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Mindtree has earned the Analytics on Microsoft Azure advanced specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
     publishedDateTime: 2021-06-02T21:14:00Z

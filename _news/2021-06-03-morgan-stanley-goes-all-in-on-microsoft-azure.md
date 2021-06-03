@@ -1,22 +1,27 @@
 ---
 category: news
-title: "Elastic Announces the General Availability of the New Frozen Tier, Enhanced Analyst Experience With Schema on Read, and First-Party Integration With Microsoft Azure"
-excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced new capabilities and enhancements across its"
-publishedDateTime: 2021-05-26T19:40:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210526005861/en/"
-webUrl: "https://www.businesswire.com/news/home/20210526005861/en/"
+title: "Morgan Stanley goes all in on Microsoft Azure"
+excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
+publishedDateTime: 2021-06-03T10:20:00Z
+originalUrl: "https://www.finextra.com/pressarticle/87923/morgan-stanley-goes-all-in-on-microsoft-azure"
+webUrl: "https://www.finextra.com/pressarticle/87923/morgan-stanley-goes-all-in-on-microsoft-azure"
 type: article
-quality: 0
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Finextra
+  domain: finextra.com
 
 topics:
   - Azure
-  - Integration
+
+images:
+  - url: "https://www.finextra.com/about/finextra-logo.png"
+    width: 512
+    height: 512
+    isCached: true
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -79,20 +84,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
-  - title: "Morgan Stanley goes all in on Microsoft Azure"
-    excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
-    publishedDateTime: 2021-06-03T10:20:00Z
-    webUrl: "https://www.finextra.com/pressarticle/87923/morgan-stanley-goes-all-in-on-microsoft-azure"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Mindtree has earned the Analytics on Microsoft Azure advanced specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
     publishedDateTime: 2021-06-02T21:14:00Z
@@ -141,6 +132,15 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Elastic Announces the General Availability of the New Frozen Tier, Enhanced Analyst Experience With Schema on Read, and First-Party Integration With Microsoft Azure"
+    excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced new capabilities and enhancements across its"
+    publishedDateTime: 2021-05-26T19:40:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210526005861/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
   - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
     excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
     publishedDateTime: 2021-06-02T12:00:00Z
@@ -151,6 +151,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "myF6ydOlfxYiJW/MR3pBd3T8f0cuNfRxJkeIX/b4V9o3hi7ecvHLb0HYWsMK+QttliNgLvN1/sQHTtc9IRwIbPwUvNxs/d4RLzkH7H6JMdfOoglQegVcpzkSgU6pUjNX8C5G6Vapw7HBekalXt5ue+qdwV/RcpJYPuCTcHOG4q1406SJKyRscc9HAr5nerdTgRbBEKglF0nn01qsRFHeHl4wnsYS/hqe5fcA8spDu29ICe+5L+L2goYxgOMfNSWdAlcPrC3wEYdKd1HBbUuJzez9e0HJ30t1m01wb/nSQOIhUbZbzX8RM5o/5ybWAA0Y+YtvC9F6HQTMhU0t8B3X9zjBcttTpr0obg1TmC2wYdaBlUJIhz7g6iiiG29GufWgCGiG1G+/2b5VIhVFxtFk+nkIxdfHn1UyOpneCkzFwfvULbrRj849Jvj82xLhQ2XBkUg/m6dJTkltWJB2uiDalFwKQy/i9gS5Ywc5QVbdEQtxiqDw4UZIkyJaQgWJ0DkgKJgCxVXrOpueuip11Hm3CA==;aJPtN+s5sjQbd1yEIiYqlg=="
+secured: "oqlpG07OoxGPW8dNwBLZJQt4QtCXzMCHL62a9NQQvam3UCGkPUspBOW5hrv+lF+2kkkbYZb3OzTqobOdF8M95vkHHgET4jYjYjnlfBFpOQQGDyBrKUi1hIV4HkqBC123aQyjgl2T093l6xhtobi8A5QkYRdi2WpLoMEd5guw5T8T6HhfoCNckwWap348DuDw3sOXKA27hsTwjjOt3MVunsEJ6dkpImazYXSgOkGEJmNX/BsuIdC9ed+iTg8mErItiDDtuOkh3qjnnTXhVENxBqyV1pqiYVwdhlN0DLPJ11iyU/6fhMCBRkmwJH4gQxgu09UzSOY/YfYZqCfBlnhLQ1bV+wxG5kQ2gA9PBk9bR4M=;Fq7rGAxa+oQdCP3U/0NIRA=="
 ---
 

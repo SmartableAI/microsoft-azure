@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Microsoft and Elastic Partner to Offer Elastic Stack on Azure"
-excerpt: "Microsoft and Elastic have recently announced Elastic on Azure, a preview service that offers managed Elastic, Logstash, and Kibana to search, analyze, and visualize data in real time on Azure."
-publishedDateTime: 2021-05-30T06:47:00Z
-originalUrl: "https://www.infoq.com/news/2021/05/azure-elastic-stack/"
-webUrl: "https://www.infoq.com/news/2021/05/azure-elastic-stack/"
+title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
+excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
+publishedDateTime: 2021-06-03T10:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9382990.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9382990.htm"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: InfoQ
-  domain: infoq.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://res.infoq.com/news/2021/05/azure-elastic-stack/en/resources/11afb6ffe-56f4-48ee-b800-940178032fcb-1622313479776.jpg"
-    width: 1462
-    height: 1056
-    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -1428,6 +1422,20 @@ related:
         width: 352
         height: 332
         isCached: true
+  - title: "Microsoft and Elastic Partner to Offer Elastic Stack on Azure"
+    excerpt: "Microsoft and Elastic have recently announced Elastic on Azure, a preview service that offers managed Elastic, Logstash, and Kibana to search, analyze, and visualize data in real time on Azure."
+    publishedDateTime: 2021-05-30T06:47:00Z
+    webUrl: "https://www.infoq.com/news/2021/05/azure-elastic-stack/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2021/05/azure-elastic-stack/en/resources/11afb6ffe-56f4-48ee-b800-940178032fcb-1622313479776.jpg"
+        width: 1462
+        height: 1056
+        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -1884,15 +1892,6 @@ related:
       name: CIO
       domain: cio.com
     quality: 17
-  - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
-    excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
-    publishedDateTime: 2021-06-03T10:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9382990.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
     publishedDateTime: 2021-03-18T16:11:00Z
@@ -2008,6 +2007,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "ntLxadnRn4A9+EidlUUHADrdaFeOSsyhoFI/62Shy0XVuMUQZUX1aA8F3s3vCRDuvRvkOhpwmpUYli0a2cj0OOv6sDCEqepu/ZRp9z/P4a9T3K6cycTpczqoVVqN4ZQqdz7f1JrxYS2e9xyVxnoi43GcIgFa0LcE8NB5bEEwXoIFnmQuo5IMjAMK+VkWyZ0EdQSFv6zL2EMhLxOytFiNkOgmBmTwpciz3Fur7SGw7OjY7CtYi/B8RQCCJhL/0GRYsh1iPMfdwm96LzEEs8+jVuzenMpbq9Dv7iuns1upatZfHUxvmf9wnWqCuMMWBgnF9JDYfqAUUEtGNLPIY/FAKk9cma8n3PYzh3nbW5pRKuI=;9U3oe77S+k2h0rdGB0YGrQ=="
+secured: "Iav1pjP53cdnz4piB0jB4luqYlW4sPJtZvXi1/4dCrBxKR8/NzdmVtJLVxjXRea4yAMhklNoi4TyvOyrPe2WKINWfc01EUARToo7CMJ4SLkXViLUj94xHOUlo2XsnztwJ3ZQUHBBdOhxxvNOnSbGrPPt4eru6XEzH7Li5e6aMoUnUTEfzQysBD4iT+BnFiSQ6+OsdBoopVcaeJE3ru0qwKI+jKreVdPufLLbB2kaYnJ0ZjCaNQ6jvuZ0+Q1iyaWgoq0jY3YI87gbURXpCM5fDi+62guk5U3Kqg2iofAnIgPfRaRiW0vV/lPBWWjVr5RfCTt8+w4h0xnOA7tbnz1llaWqf2asf8xyRbJDJ4qKZmw=;+iIcbkTxAKDg/gGsCC42eA=="
 ---
 
