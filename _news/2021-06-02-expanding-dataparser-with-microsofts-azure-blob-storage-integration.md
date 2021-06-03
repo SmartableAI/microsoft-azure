@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expan
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expanding-dataparser-with-microsofts-azure-blob-storage-integration/article_fd97f019-dc3c-524c-b58f-6ec97e86e202.html"
 type: article
 quality: 86
-heat: 306
+heat: 326
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1622625655.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "NexTech AR unveils EdTechx virtual education platform created with Microsoft Azure"
+    excerpt: "EdTechX combines enterprise-scale video streaming, integrated assessments, augmented reality holograms and data analytics"
+    publishedDateTime: 2021-06-03T11:59:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/951332/nextech-ar-unveils-edtechx-virtual-education-platform-created-with-microsoft-azure-951332.html"
+    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/951332"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/951332"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 51
+    images:
+      - url: "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_06/1200z740_1622724222_shutterstock_1444620194.jpg"
+        width: 1200
+        height: 740
         isCached: true
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"

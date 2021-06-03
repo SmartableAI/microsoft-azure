@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Mindtree has earned the Analytics on Microsoft Azure"
-excerpt: "Only partners that meet stringent criteria around customer success and staff skilling as well as pass a third-party audit of their analytics planning and deplo"
-publishedDateTime: 2021-06-02T09:31:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/269731394/mindtree-has-earned-the-analytics-on-microsoft-azure"
-webUrl: "https://www.bignewsnetwork.com/news/269731394/mindtree-has-earned-the-analytics-on-microsoft-azure"
+title: "NexTech AR unveils EdTechx virtual education platform created with Microsoft Azure"
+excerpt: "EdTechX combines enterprise-scale video streaming, integrated assessments, augmented reality holograms and data analytics"
+publishedDateTime: 2021-06-03T11:59:00Z
+originalUrl: "https://www.proactiveinvestors.com/companies/news/951332/nextech-ar-unveils-edtechx-virtual-education-platform-created-with-microsoft-azure-951332.html"
+webUrl: "https://www.proactiveinvestors.com/companies/news/951332/nextech-ar-unveils-edtechx-virtual-education-platform-created-with-microsoft-azure-951332.html"
+ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/951332"
+cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/951332"
 type: article
-quality: 54
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Proactiveinvestors
+  domain: proactiveinvestors.com
 
 topics:
   - Azure
-  - Analytics
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1622625655.jpg"
-    width: 630
-    height: 420
+  - url: "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_06/1200z740_1622724222_shutterstock_1444620194.jpg"
+    width: 1200
+    height: 740
     isCached: true
 
 related:
@@ -62,21 +63,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NexTech AR unveils EdTechx virtual education platform created with Microsoft Azure"
-    excerpt: "EdTechX combines enterprise-scale video streaming, integrated assessments, augmented reality holograms and data analytics"
-    publishedDateTime: 2021-06-03T11:59:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/951332/nextech-ar-unveils-edtechx-virtual-education-platform-created-with-microsoft-azure-951332.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/951332"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/951332"
+  - title: "Mindtree has earned the Analytics on Microsoft Azure"
+    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling as well as pass a third-party audit of their analytics planning and deplo"
+    publishedDateTime: 2021-06-02T09:31:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269731394/mindtree-has-earned-the-analytics-on-microsoft-azure"
     type: article
     provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 51
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
     images:
-      - url: "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_06/1200z740_1622724222_shutterstock_1444620194.jpg"
-        width: 1200
-        height: 740
+      - url: "https://cdn.bignewsnetwork.com/ani1622625655.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
@@ -168,6 +167,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "llID/mgSG9dq6eYsRMfF4eUOax13d4CWc+3gDIdTO0Zb+66ik+u0B0IwnAqtoHC0UbEoRyX15pk9nXrudJHg8ru67pbdAm3yvtvA5g8T8laHnxeM5bX6uGsrYLRqcbQ+Pu6fpk4f7AAGB7CHSdBgwr6ojnA6op17m0Zget2/PffrP+uDcJlvDMeIGNU0GZ/LXkm4+ZPlur7jSClAVHiQeLHK3xgZY/7A6IawYjZ56WmVePjKjK7siaUJf3ilJzsafKkXp5Uh8dChTuMa5NnjFxW5pMtOCAc1qwmD8fvZ0thNSzOsFpAb6FJ8UTVtqvDGmVQL+AM22XtnXavJ/RyO8Mvy05aWxggoWAByeD1lNOM7HDlaQC9+/kuMkErmq4Yjfd36BPCjL47kCK5328UnBW88yx6AqJxAhGHVvvS1q6admNUKTE8A9H8PbHN3GmbmMvo+7d4fPRkesr5Um81k8HpoMo5WmcUw5MaN80gv/91Srlx8cFKTY7uE884vl3ZTV+MtXvC0uJZ3qAc+MM8B9g==;/EPWRUFvwFP0/a93AcHxbw=="
+secured: "Lk6fsXBPUb95h+QchKa2sgOejKrMxlSs2ssZEDCMbedk2GrMFVIVrPZMqdRkYvH6xI4HY7FEi77hNfErlpd8djIHuFTJfBsLkHo2fWcDXuMeb9IGV5zBQISqEku80elnfy3szyyO/LgJ9mMTxJJAIDtkWNKBxpUgIgS5qVaBSCbO+NujZqqp/spPa6k6dh8Xx1sf7Yu74nCsCBSpSoIcazVqh7nj9nty/k2KeGI0CuuSDJoLg/WjMWpCOKgsksyVpkFlu5uGa8kLYnwO3of07NPI87/8MyE/1AWBKu2b/pQKguelsCoSMllKPOujEf7URAE7iwpo72cBJ2qim3NVcjKU1Y2up0Hf6TpMntvTBLw=;nwk5LDgmI09asiP0L6GoIA=="
 ---
 

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-06-01T13:00:00Z
-originalUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
-webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
+excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-06-01T13:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -140,6 +140,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "xTE9jKRPxBTLsM+t6dZ/PxW0sQ6TKFWRt3wL0U6Cej+Oz/8OLOUxpOTNl5ojLLRNSFMElFTL44JdLr32elhnPg0ekdWf2n95BcwlEtKwWde3mM/F8WwhEd+4I3MZCyE5MNtOqBU5LsVBJMwhxB18elVUvOrHnRU2F5z0Azox16Q5QLaBJohk5ZXJLL21zC9u+RTn2ASq8oXg1tt5DOfRCaUgl8L6+UWco0OJwfLfAheXZ1uwRN7683zHim8du2bvtgWVZJL+ssuBJRlRPZLJpQg0Km4TQBe1TfZn9rh3VsCfyVOzkHeTxEclPSinVf90QbnHYAsvXy+kGJnrSj8o3ZYbizFphAGS2T8pKkVs+6c=;tiITFF6WDK8ZICoW1vTRnA=="
+secured: "tC/dQfvTuOxdrXvmFK5SV54k/uy4j729YadNKTH98QhV7u8dAabDket5fMUHP33V5jBj1ZpgIulWwHiJ46uvC1WiH6gj3o8R3yqhp9qrahiGd9w3GVand3WDIJUOXBaWQEURe0wUTCQEaDjgUd41ffEYcskuMgTxI7hrkDjDSoCmQrDmDY7k8hK+KTj9M0bYWuMzI4SzwaoCOcY1yJwfogVjUZuDV4V9kLvMyo6Lul/cX+5nLnOwQnQHmxfkNuxFH8yVTOXi/1UgMj8pY606cCSjiVFANj/bNNkfux6xeeDtQJ7sQHdaR/C3TFflk7TczWZA9Zynzcpf6Xh1s1TijfwyYrqsdBiCVdddpG/pR4I=;krRe+KPMPMHPMiTLy78NmA=="
 ---
 
