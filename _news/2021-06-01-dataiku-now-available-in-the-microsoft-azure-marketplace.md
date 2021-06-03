@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-06-01T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-06-01T13:00:00Z
+originalUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
+webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Azure
@@ -140,6 +140,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "tC/dQfvTuOxdrXvmFK5SV54k/uy4j729YadNKTH98QhV7u8dAabDket5fMUHP33V5jBj1ZpgIulWwHiJ46uvC1WiH6gj3o8R3yqhp9qrahiGd9w3GVand3WDIJUOXBaWQEURe0wUTCQEaDjgUd41ffEYcskuMgTxI7hrkDjDSoCmQrDmDY7k8hK+KTj9M0bYWuMzI4SzwaoCOcY1yJwfogVjUZuDV4V9kLvMyo6Lul/cX+5nLnOwQnQHmxfkNuxFH8yVTOXi/1UgMj8pY606cCSjiVFANj/bNNkfux6xeeDtQJ7sQHdaR/C3TFflk7TczWZA9Zynzcpf6Xh1s1TijfwyYrqsdBiCVdddpG/pR4I=;krRe+KPMPMHPMiTLy78NmA=="
+secured: "MbLGJtHKU+vwxBhidK8Z2BmX3ztFgJa5pnJrmemO67RROlD5Cs6EMkr9/6KO4rRndRwTRltz1S1JQLFzyWXWqRbFdHoRBMJHegzckiSqbXFXxrvCA1yonO5pe+9OS/a11/ern1XrLk/FtUgQlRS3k4HQAk1aRg7Tk5YBOFpcyaCL+Z/0So/YS/BslzsYfaWMMTBqE8Aw1hwYWxkB+cNB70Ch6mfMKNFFU7+7lG+fCIj53t2et83qzq0rzhn4NkVbY5VpJyVoW+JbK2rfRIJfJHt7czPf/xWAKLd0RhdX7qBcPQUxrpqUYRHrRkNGH+nZ/+Afu7dTBrPqGr+9JFiFRrjk90DSBSHHm4nu3Qe7LoA=;s1Dn4hV6gC1d5YJz182liw=="
 ---
 
