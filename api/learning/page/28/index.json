@@ -4,49 +4,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-analyze-results-kql.md",
-      "title": "Analyze query results using KQL",
-      "excerpt": "Analyze query results using KQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-results-kql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-results-kusto-query-language/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 211,
-        "average": 4.7819905
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-app-and-infra-migration-and-modernization.md",
       "title": "Applications and infrastructure migration and modernization",
       "excerpt": "Every modern business is powered by applications, such as internal procurement applications, Customer Relationship Management (CRM) systems, retail websites, and third-party products. As your business prepares for digital transformation, it’s important to begin modernizing and migrating your applications and infrastructure to the cloud. Azure is a key component of that process. You can choose to migrate, modernize, or build cloud native solutions depending on your business goals and how you assess your application portfolio. This is a strategic decision. You’ll be able to choose the path that’s right for your organization.",
@@ -584,8 +541,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-devops-github-apps/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 316,
-        "average": 4.800633
+        "count": 317,
+        "average": 4.801262
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -627,8 +584,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-github-using-github-script/",
       "length": "PT25M",
       "ratings": {
-        "count": 329,
-        "average": 4.781155
+        "count": 330,
+        "average": 4.7818184
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1298,6 +1255,55 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
+      "title": "Microsoft Azure Well-Architected Framework - Reliability",
+      "excerpt": "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-reliability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 1032,
+        "average": 4.742248
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-reliability-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Databases",
+        "Management Tools",
+        "Migration",
+        "Networking",
+        "Compute",
+        "Web"
       ]
     }
   ],

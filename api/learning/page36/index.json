@@ -4,48 +4,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-get-started-azure-quantum.md",
-      "title": "Get started with Azure Quantum",
-      "excerpt": "Learn how to get started with Azure Quantum and create an Azure Quantum workspace.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-azure-quantum/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-azure-quantum/",
-      "length": "PT19M",
-      "ratings": {
-        "count": 110,
-        "average": 4.7454543
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-get-started-with-connected-field-service.md",
       "title": "Get started with Connected Field Service for Dynamics 365 and Azure IoT",
       "excerpt": "This module will focus on the initial deployment of the Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through the installation and an understanding of the components installed as part of the out of the box template application.",
@@ -132,8 +90,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/getting-started-identity/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 357,
-        "average": 4.677871
+        "count": 358,
+        "average": 4.678771
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -872,8 +830,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-permissions-consent/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 161,
-        "average": 4.720497
+        "count": 162,
+        "average": 4.7222223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -915,8 +873,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-secure-custom-api/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 148,
-        "average": 4.7027025
+        "count": 149,
+        "average": 4.704698
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -950,8 +908,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-users-groups-approles/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 188,
-        "average": 4.7765956
+        "count": 189,
+        "average": 4.7777777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1233,6 +1191,51 @@
       "topics": [
         "Azure",
         "Management tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-implement-change-tracking-file-integrity-monitoring-for-windows-iaas-vms.md",
+      "title": "Implement change tracking and file integrity monitoring for Windows IaaS VMs",
+      "excerpt": "Implement change tracking and file integrity monitoring for Windows IaaS VMs",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-change-tracking-file-integrity-monitoring-for-windows-iaas-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-change-tracking-file-integrity-monitoring/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 30,
+        "average": 4.866667
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/implement-change-tracking-and-file-integrity-monitoring-for-windows-iaas-vms-social.png",
+          "width": 642,
+          "height": 325,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps",
+        "Compute"
       ]
     }
   ],
