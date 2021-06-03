@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
       "length": "PT24M",
       "ratings": {
-        "count": 4565,
-        "average": 4.7857614
+        "count": 4566,
+        "average": 4.785808
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-cultural-shift/",
       "length": "PT31M",
       "ratings": {
-        "count": 3087,
-        "average": 4.7865243
+        "count": 3088,
+        "average": 4.7865934
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -312,8 +312,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
       "length": "PT21M",
       "ratings": {
-        "count": 3272,
-        "average": 4.779951
+        "count": 3274,
+        "average": 4.7800856
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -477,6 +477,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-search-for-content-security-compliance-center.md",
+      "title": "Search for content in the Microsoft 365 compliance center",
+      "excerpt": "Search for content in the Microsoft 365 compliance center",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-search-for-content-security-compliance-center/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/search-for-content-security-compliance-center/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 2,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-secure-a-blazor-application-with-azure-active-directory-azure-tips-and-tricks.md",
       "title": "How to secure a Blazor application with Azure Active Directory | Azure Tips and Tricks",
       "excerpt": "In this edition of Azure Tips and Tricks, learn how to secure a Blazor WebAssembly application with Azure Active Directory.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
@@ -546,8 +589,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
           "length": "PT24M",
           "ratings": {
-            "count": 172,
-            "average": 4.8139534
+            "count": 173,
+            "average": 4.8150287
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1159,8 +1202,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
           "length": "PT24M",
           "ratings": {
-            "count": 172,
-            "average": 4.8139534
+            "count": 173,
+            "average": 4.8150287
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1817,49 +1860,6 @@
         "Identity",
         "Management Tools",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-microsoft-365-apps-for-enterprise.md",
-      "title": "Deploy Microsoft 365 Apps for enterprise",
-      "excerpt": "Deploy Microsoft 365 Apps for enterprise",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-microsoft-365-apps-for-enterprise/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-microsoft-365-apps-for-enterprise/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 8,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],

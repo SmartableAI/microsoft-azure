@@ -270,8 +270,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/",
       "length": "PT33M",
       "ratings": {
-        "count": 1239,
-        "average": 4.631154
+        "count": 1240,
+        "average": 4.6314516
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -358,8 +358,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-infrastructure-azure-pipelines/",
       "length": "PT2H2M",
       "ratings": {
-        "count": 474,
-        "average": 4.685654
+        "count": 475,
+        "average": 4.686316
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -863,6 +863,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-search-for-content-security-compliance-center.md",
+      "title": "Search for content in the Microsoft 365 compliance center",
+      "excerpt": "Search for content in the Microsoft 365 compliance center",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-search-for-content-security-compliance-center/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/search-for-content-security-compliance-center/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 2,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-search-organize-repository-history-github.md",
       "title": "Search and organize repository history by using GitHub",
       "excerpt": "Learn to search and organize repository history by using filters, blame, and cross-linking on GitHub.",
@@ -1084,8 +1127,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/typescript-namespaces-organize-code/",
       "length": "PT46M",
       "ratings": {
-        "count": 33,
-        "average": 4.6666665
+        "count": 34,
+        "average": 4.6764708
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1244,49 +1287,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-use-built-functions-transact-sql.md",
-      "title": "Use built-in functions and GROUP BY in Transact-SQL",
-      "excerpt": "Use built-in functions and GROUP BY in Transact-SQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-built-functions-transact-sql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-built-functions-transact-sql/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 16,
-        "average": 4.9375
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],

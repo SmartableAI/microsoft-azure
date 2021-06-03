@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
       "length": "PT54M",
       "ratings": {
-        "count": 1990,
-        "average": 4.6788945
+        "count": 1991,
+        "average": 4.6790557
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -55,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 3440,
-        "average": 4.72093
+        "count": 3441,
+        "average": 4.721011
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -142,8 +142,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
       "length": "PT56M",
       "ratings": {
-        "count": 2621,
-        "average": 4.473865
+        "count": 2623,
+        "average": 4.474266
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -177,8 +177,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 1551,
-        "average": 4.7762733
+        "count": 1553,
+        "average": 4.7765613
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -219,8 +219,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1104,
-        "average": 4.768116
+        "count": 1107,
+        "average": 4.767841
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -261,8 +261,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
       "length": "PT54M",
       "ratings": {
-        "count": 2850,
-        "average": 4.642456
+        "count": 2851,
+        "average": 4.6425815
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -498,8 +498,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 2642,
-        "average": 4.7376986
+        "count": 2643,
+        "average": 4.7377977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -542,8 +542,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 1060,
-        "average": 4.690566
+        "count": 1061,
+        "average": 4.690858
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -603,6 +603,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/5vS7Iq9vpXE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-connect-and-deliver-services-privately-on-azure-with-azure-private-link-azure-friday.md",
+      "title": "How to connect and deliver services privately on Azure with Azure Private Link | Azure Friday",
+      "excerpt": "Narayan Anamalai joins Donovan Brown to introduce Azure Private Link. In this episode, Narayan demonstrates how you can secure Azure PaaS resources and your Azure network using Private Link, and provide protection against data exfiltration.  8:45 - Demo  Azure Private Link overview https://aka.ms/azfr/610/01",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-connect-and-deliver-services-privately-on-azure-with-azure-private-link-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-connect-and-deliver-services-privately-on-azure-with-azure-private-link-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=AZ0iFcyPDkc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AZ0iFcyPDkc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M54S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-14T00:21:54-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AZ0iFcyPDkc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -691,45 +729,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series.md",
-      "title": "How to get started with Azure Arc | Azure Portal Series",
-      "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to get started with Azure Arc offerings in the Microsoft Azure portal. You will learn what Azure Arc is and how to easily add, view, and manage your hybrid, edge, or multi-cloud resources from Azure.     Try out these features in the Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=pF0-KbgxUOQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pF0-KbgxUOQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M4S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-05-10T08:40:11-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pF0-KbgxUOQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
       ]
     },
     {
@@ -1087,8 +1086,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
           "length": "PT54M",
           "ratings": {
-            "count": 1990,
-            "average": 4.6788945
+            "count": 1991,
+            "average": 4.6790557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1131,8 +1130,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
           "length": "PT48M",
           "ratings": {
-            "count": 1855,
-            "average": 4.638814
+            "count": 1856,
+            "average": 4.6390085
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1215,8 +1214,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
           "length": "PT27M",
           "ratings": {
-            "count": 781,
-            "average": 4.7272725
+            "count": 782,
+            "average": 4.7276216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1488,8 +1487,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 1019,
-        "average": 4.7409225
+        "count": 1020,
+        "average": 4.7411766
       },
       "provider": {
         "name": "Microsoft Learn",
