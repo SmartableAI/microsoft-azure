@@ -1,33 +1,25 @@
 ---
 category: news
-title: "EU bodies' use of Amazon, Microsoft cloud services faces privacy probes"
-excerpt: "The European Commission and European Parliament's use of cloud computing services provided by Amazon (AMZN.O) and Microsoft (MSFT.O) has prompted two EU privacy investigations over concerns about the transfer of personal data to the United States."
-publishedDateTime: 2021-05-27T07:00:00Z
-originalUrl: "https://www.reuters.com/article/us-eu-dataprotection-amazon-com-microsof/eu-bodies-use-of-amazon-microsoft-cloud-services-faces-privacy-probes-idUSKCN2D80TQ"
-webUrl: "https://www.reuters.com/article/us-eu-dataprotection-amazon-com-microsof/eu-bodies-use-of-amazon-microsoft-cloud-services-faces-privacy-probes-idUSKCN2D80TQ"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D8215"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D8215"
+title: "EU Bodies' Use of Amazon, Microsoft Cloud Services Faces Privacy Probes"
+excerpt: "The European Commission and European Parliament's use of cloud computing services provided by Amazon and Microsoft has prompted two EU privacy investigations over concerns about the transfer of personal data to the United States."
+publishedDateTime: 2021-05-27T16:37:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-05-27/eu-privacy-watchdog-to-investigate-eu-institutions-use-of-amazon-microsoft-cloud-services"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-05-27/eu-privacy-watchdog-to-investigate-eu-institutions-use-of-amazon-microsoft-cloud-services"
 type: article
-quality: 82
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563631649&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q10E"
-    width: 872
-    height: 545
-    isCached: true
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -731,6 +723,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "G89cYoTJfc4TmeBVfidGSktpysRD56Nf7KjnDqdN/Xi1xTpHb0bFFaIhJIXGssz1lqXz45opMEZRixb+RtIUX8JlxH8U0TZTyXXOOFfUfhYe1lGYG8/Wew24+6zpDK3Rko6msUbIgC5LbRUyWGGPm2FcvELyvrVaURNhMiCRJngSftbGNRo7xQ74EzGjqp5QIo307afEqb3hpFNjF8uu7NmSvdB+eV0zQSGmaHD7v7CzYiGVR8hD4JkD13wCNTqfP0mxRKBDbiGzTMJ/8buwD1w+KPzJHWGJn7lZyThoLBgFmd14Wlt86towMB/DvHAPanYJa9jy8kLC3F4Hn6TBGUzQTdcTM9/rclADZjbWCj1XitfzgpL+Ibzdz7YSVdfigFRYSm41yyyC2+VCB9yXDn0CICx+Is/TBO6y6GBr+Pd/YdX4w+ISN8nlj9R0QjTq1JJulRy9IQJ4Utip8xaLiRqPLEqpCjX98l5Nm2SChikY5kbrP3VIetYDgF4j4eH1kMSlSR5hprZJK6Yemdwdkw==;+7VDiJJx7cy7Hat86MWzMQ=="
+secured: "euUqlEV0ttQ+KA6xmkQ1b1oJ29m40agmcBTDqpm+EkmnFiS8SdPlyjfkntSXFIIO9q73Kh3o+vul9xNU0ycS6gtcMmmAHVGaDpeJ0aq8ieD60vfjSdKEZrfeYLSsqPd8NIZ5heAhJbq2ibBhO++v1nKJ76PTu1AFDUq911QDyaL/5ny5ZvINAvv2oKq5tXUhUbU7WDmkTGpxFjHeIZ/EVSSywSJhhDthqEyB9gogteeNZ5xUzzZHOwuPdZWXfbwmzu3xR5uWgb8Wn9e04Of8aZDIyk/WV6yPGc6xT/TgQdiLBh/JgAwGz5debS2AN6xmWNWJKqVuF96aRTZExrmk1V+vzkVTYfqoaYdogf3o8CV0YhwvrZmtFiPlkzY74zpYNmXTt0xdCe4C8j5DM5WWCSq9Hu9jJhuzczBrzdiAJhi4qS12dgTEfq574QZ9jxXnKVIM/cTWP0YoSCruQeCHgI+ej8omIfxFStKjNsjK+9NvAe+wPXNcUPOJnpQuh+txxe/H7g/fVsWTgJ+gdfd1aw==;Dt2aME8ZPogqsrJq0C+pJg=="
 ---
 

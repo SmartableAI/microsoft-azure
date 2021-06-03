@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
-publishedDateTime: 2021-06-02T09:40:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485835"
-webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485835"
+excerpt: "WARREN, N.J.  and BANGALORE, India, June 2, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today"
+publishedDateTime: 2021-06-02T07:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485834"
+webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485834"
 type: article
 quality: 71
 heat: -1
@@ -141,6 +141,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "dYviVwn25zKQWJgovoNBXcdHyWlPvclGjeUwQ6Ad3dgv3IcDpJ6RMZBCyHLwuKY1v1J9aCbznKCbViqSuBugqJLcJlKSyG9/0HZAquWHo4rBqZnmjHJuOIlrD/rwnS/WCZy3so5P0RIrfN1B6bGnl8RcGI9zAAJExYMO+jF8cohbsVTJmTotnnNo8p3yqv9rjuYHZbJkPu49P5/8Vx+3O7kcTFxtJKE/AwAZVPpus9KSs0RddreCkf2/PP/5yE8Qxe1fbMi9U9rYh2fgrx27RHHEfXkfKzlB5jbCseqelecQNJ+yE3bVCHVZq1M/oYhncRTXcLK7aaNmqa9v0XpwElJ9nnWV5Zx/UvTtquwUB6Y=;5Qs6EONRLhAzkSBOfLRcog=="
+secured: "gu2MvHiYcehuWAyxySfB0X0rwHlSWGRoBRAGqn6tnphC/BMLOl3u0EJm0NqlTT/Riph9Gcsu8E3+ts0R0auq5ecmerNq8AByK2nAAPBhlajeh64VR3MEo4O5nXFY/cqQkI8PKd/CqwFLUKBelBQmWooa3vhZY2VPHXTilJ6kU992vU3nKh0GiqoVgCUnUdJtchDaqELNnKYWR4FdpFwvZMIuOJG4MX81wxAUrCXkUS2OBGWaERYdkSBe8iI+DhUJKkHIotcEyZgnwbfULjOxqiVgLubWwTpy9mbikKx3dwsxOTRm5OOMmyqHovom58/nSFvTckZDGig8/WkqgQyFncTwyNNVtiBXSHnMX0+/ot0=;BdraTzU39kTPu1Wuv0OMAw=="
 ---
 
