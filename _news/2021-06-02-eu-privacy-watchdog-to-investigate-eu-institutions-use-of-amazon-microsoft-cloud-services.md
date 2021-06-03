@@ -38,6 +38,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
+    excerpt: "WARREN, N.J.  and BANGALORE, India, June 2, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today"
+    publishedDateTime: 2021-06-02T07:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485834"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
   - title: "Elastic Introduces Native Microsoft Azure Integration, Fleet Server, and Enhanced APM Workflows in Elastic Observability"
     excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, announces new features and updates across the Elastic"
     publishedDateTime: 2021-05-26T15:47:00Z
@@ -65,20 +74,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1622625655.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft"
-    publishedDateTime: 2021-06-02T07:52:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-894610694.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-        width: 1496
-        height: 785
         isCached: true
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
