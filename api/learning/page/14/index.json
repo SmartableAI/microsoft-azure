@@ -4,6 +4,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-transcribe-speech-input-text.md",
+      "title": "Transcribe speech input to text",
+      "excerpt": "Speech to text from the speech service, known as speech recognition, enables real time transcription of audio streams into text. Your applications, tools, or devices can consume, display, and take action on this text as command input.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-transcribe-speech-input-text/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 781,
+        "average": 4.7272725
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-translate-speech-speech-service.md",
       "title": "Translate speech with the speech service",
       "excerpt": "Perform speech translation tasks with the speech service to translate spoken text to different languages.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
       "length": "PT18M",
       "ratings": {
-        "count": 768,
-        "average": 4.721354
+        "count": 769,
+        "average": 4.7191157
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -538,8 +581,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
       "length": "PT57M",
       "ratings": {
-        "count": 6549,
-        "average": 4.726676
+        "count": 6550,
+        "average": 4.7267175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -624,8 +667,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
       "length": "PT53M",
       "ratings": {
-        "count": 924,
-        "average": 4.5508657
+        "count": 925,
+        "average": 4.5513515
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -885,8 +928,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/",
       "length": "PT24M",
       "ratings": {
-        "count": 1787,
-        "average": 4.773363
+        "count": 1789,
+        "average": 4.7730575
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1207,50 +1250,6 @@
         "Management Tools",
         "Containers",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-move-data-with-azure-data-box.md",
-      "title": "Move large amounts of data to the cloud by using Azure Data Box family",
-      "excerpt": "Learn how to move large amounts of data to the cloud by using Azure Data Box devices.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-move-data-with-azure-data-box/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 1690,
-        "average": 4.739645
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/move-data-with-azure-data-box-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Migration"
       ]
     }
   ],
