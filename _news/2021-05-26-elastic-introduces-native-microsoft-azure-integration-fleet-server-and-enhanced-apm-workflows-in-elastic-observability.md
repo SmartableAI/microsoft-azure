@@ -44,9 +44,9 @@ related:
         height: 720
         isCached: true
   - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-    excerpt: "WARREN, N.J.  and BANGALORE, India, June 2, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today"
-    publishedDateTime: 2021-06-02T07:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485834"
+    excerpt: "\"The Analytics on Microsoft Azure advanced specialization will bring our experience in accelerating data discovery and making data-driven business decisions more accessible to those organizations ..."
+    publishedDateTime: 2021-06-02T08:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485942"
     type: article
     provider:
       name: Business Insider

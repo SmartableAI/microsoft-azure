@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-excerpt: "WARREN, N.J.  and BANGALORE, India, June 2, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today"
-publishedDateTime: 2021-06-02T07:45:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485834"
-webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485834"
+excerpt: "\"The Analytics on Microsoft Azure advanced specialization will bring our experience in accelerating data discovery and making data-driven business decisions more accessible to those organizations ..."
+publishedDateTime: 2021-06-02T08:33:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485942"
+webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485942"
 type: article
 quality: 71
 heat: -1
@@ -171,6 +171,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "gu2MvHiYcehuWAyxySfB0X0rwHlSWGRoBRAGqn6tnphC/BMLOl3u0EJm0NqlTT/Riph9Gcsu8E3+ts0R0auq5ecmerNq8AByK2nAAPBhlajeh64VR3MEo4O5nXFY/cqQkI8PKd/CqwFLUKBelBQmWooa3vhZY2VPHXTilJ6kU992vU3nKh0GiqoVgCUnUdJtchDaqELNnKYWR4FdpFwvZMIuOJG4MX81wxAUrCXkUS2OBGWaERYdkSBe8iI+DhUJKkHIotcEyZgnwbfULjOxqiVgLubWwTpy9mbikKx3dwsxOTRm5OOMmyqHovom58/nSFvTckZDGig8/WkqgQyFncTwyNNVtiBXSHnMX0+/ot0=;BdraTzU39kTPu1Wuv0OMAw=="
+secured: "4ShGATFL+FYzX8D7royk5ClzFPRb0gRi2d0H5ReKVrv/wp7QP5zoHtRI8XwD+2Lty5ZA5FDJUyJMdCW5j/HLMVp1zofGC5GuMfgRRHvkq7OZJ+eUAkBsuJ2bDyl2AnHi8RAOb6IUHYt5n9mBj6t7O37nXvZ5y3Pl2ovkMLOzoN9Z+AjgOBNxf6eS6uAog9ZftZ2H6XfN9WKslmpFVuKr1XBmkWHU0CHO0AAWPlpQbegyW9Yhla/QBIP/wnmH8k8+ZvNcPj3GrAiXHzoC61i+P6CNJW0CcFfNIo3ayUxdQheoj+1dQJZWoPpSM+ZrO6KVVsYgHeXcz4/ZGpW2HNj1mZPkN55VMWGnpLCgce2OrME=;ObM5QLNRBEkb3RKv4FqDtA=="
 ---
 
