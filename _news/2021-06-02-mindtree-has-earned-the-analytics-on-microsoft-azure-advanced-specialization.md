@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-excerpt: "WARREN, N.J.  and BANGALORE, India, June 2, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today"
-publishedDateTime: 2021-06-02T07:45:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485834"
-webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485834"
+excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
+publishedDateTime: 2021-06-02T09:40:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485835"
+webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485835"
 type: article
 quality: 71
 heat: -1
@@ -131,7 +131,16 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 0
+  - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
+    excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
+    publishedDateTime: 2021-06-02T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amesite-launches-remote-upskilling-courses-on-microsoft-azure-in-partnership-with-wayne-state-university/article_54e0d8a6-efbd-5f18-9291-5ec3685dcf89.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
-secured: "5sCWjDnX0TinwiGD4u/rCvFVme9+8GlnxmK+qaMm2ZcO29vBbrAvyWv9PCzX+pwUW3ib2ECKvAeuI8dWYXmTLKQq7dPxuEOT6Q+ork8uMmfMbLT31vBezNvtSaU5T7cFHFq4H8fYOJCKT3eOoxqb2vrDf0UBRDGDEvaUKuTbBngmHtqaieaN1uYlDnH4s2qWPEKM2TDy6jTkG9nBgy9/LlC/1jUjOO8cRGwOj2wGLW58kfqYXcfsLLGSqy9NC2Ka8PLaGoxkLU+k7BBJmvjVmI/7L887/6pQEtKlxGmkEoTVGDh9QEaWDmQopS0lMFc8TrEjxd5T3dkbm36D8m0ep1pzTnMY4eh1s5mavmTHisk=;CGV6QikYbGa+/BJVfrHYmg=="
+secured: "dYviVwn25zKQWJgovoNBXcdHyWlPvclGjeUwQ6Ad3dgv3IcDpJ6RMZBCyHLwuKY1v1J9aCbznKCbViqSuBugqJLcJlKSyG9/0HZAquWHo4rBqZnmjHJuOIlrD/rwnS/WCZy3so5P0RIrfN1B6bGnl8RcGI9zAAJExYMO+jF8cohbsVTJmTotnnNo8p3yqv9rjuYHZbJkPu49P5/8Vx+3O7kcTFxtJKE/AwAZVPpus9KSs0RddreCkf2/PP/5yE8Qxe1fbMi9U9rYh2fgrx27RHHEfXkfKzlB5jbCseqelecQNJ+yE3bVCHVZq1M/oYhncRTXcLK7aaNmqa9v0XpwElJ9nnWV5Zx/UvTtquwUB6Y=;5Qs6EONRLhAzkSBOfLRcog=="
 ---
 

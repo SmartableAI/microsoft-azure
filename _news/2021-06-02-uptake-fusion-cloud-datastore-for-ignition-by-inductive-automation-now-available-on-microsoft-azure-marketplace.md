@@ -37,9 +37,9 @@ related:
         height: 720
         isCached: true
   - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-    excerpt: "WARREN, N.J.  and BANGALORE, India, June 2, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today"
-    publishedDateTime: 2021-06-02T07:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485834"
+    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
+    publishedDateTime: 2021-06-02T09:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485835"
     type: article
     provider:
       name: Business Insider
@@ -129,6 +129,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 0
+  - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
+    excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
+    publishedDateTime: 2021-06-02T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amesite-launches-remote-upskilling-courses-on-microsoft-azure-in-partnership-with-wayne-state-university/article_54e0d8a6-efbd-5f18-9291-5ec3685dcf89.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
 
 secured: "rzgkHlozr9a8M+Mm08vpKZKOiMMQOrZp4bxpqZ7zggmjcEdfsk4hFTjyjGJIzXkyBdTSw0i1SZgRCuAiNcbkjQVWRdTGqQQkqeQWh45CECBGWXiZxREURTw0MxtpPHiIpneNfeTTSnBHGtQBoB1bRiFwG7eJBQOr98aGBpU24vvX5+NYFSkivToNfxI8fhEZqInEzCPTT2d2e7qCK0Z2r5fMdLRmMsIk2qK5FFGt+5mOROGIVKgaql5ccIs97hZLTpQ4Zn5wj0x/tk70cKNEkrFEeEG2ee+OEMZwY/KmG81zL03il3mJiXrueIjsnnj710ydnHaoVuTjJKE9+RhRofTO60AKRrItCzdE0YeMbeM=;uvwnTzTTcVW+dufPQpj7sQ=="
