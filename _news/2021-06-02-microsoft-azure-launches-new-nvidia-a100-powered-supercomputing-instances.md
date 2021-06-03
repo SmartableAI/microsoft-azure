@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-launches-new-nvid
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
 type: article
 quality: 96
-heat: 157
+heat: 158
 published: true
 
 provider:
@@ -51,7 +51,7 @@ related:
   - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
     excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12 learning and upskilling announced today its launch of services on Microsoft Azure."
     publishedDateTime: 2021-06-02T12:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-amesite-launches-remote-upskilling-courses-microsoft-azure-partnership-/2021/06/02/9382050.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382050.htm"
     type: article
     provider:
       name: TMCnet

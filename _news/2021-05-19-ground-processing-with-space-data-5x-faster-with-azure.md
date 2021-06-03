@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/ground-processing-with-space-data
 webUrl: "https://azure.microsoft.com/blog/ground-processing-with-space-data-5x-faster-with-azure/"
 type: article
 quality: 89
-heat: 90
+heat: 91
 published: true
 
 provider:
