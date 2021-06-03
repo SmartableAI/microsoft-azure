@@ -2,17 +2,21 @@
 category: news
 title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
 excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
-publishedDateTime: 2021-06-02T15:31:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
+publishedDateTime: 2021-06-02T15:38:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
+webUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
 type: article
-quality: 0
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -74,6 +78,15 @@ related:
         width: 1496
         height: 785
         isCached: true
+  - title: "Mindtree has earned the Analytics on Microsoft Azure advanced specialization"
+    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
+    publishedDateTime: 2021-06-02T21:14:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20210602/3765199.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 31
   - title: "Insight Recognized again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
     excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all"
     publishedDateTime: 2021-05-31T20:02:00Z
@@ -123,6 +136,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "NNw+Af+stjqDXIqkomZGj/XIZMCPsJQJEj8MRHLlM6YOoQWz/H9ZwFtbtXalIn1STGjFdE5WEBh5Q93uoqd2ObWIqpSjLmL5X9IYnzHliJyP8+PpHDvA6P1Z/fq62kEU47DpxjPdUMt6dNgWnuaMzdpHfc3cmj0zh3R5uFE4Cas2CadtFWuQZq2gLR2DZ/95iocQkQhnneggpCXtuRR/NrnfXtcVuFdLaxPSi9AQhnIsopGYwnDmBnRVQ1CbjM4rg8xl2PJTEyh0jTUZoDF+GWaOwEQuHy018Zwi5Ms4ID4mCYJOYlVhrt/52Lwd5W3kMjK69fbMh9CtGe7VtfKbwmy7Z1Y/AOV27Zop72OO2qQ=;m2xAuxIfeEyr//A0X7qjuw=="
+secured: "rzgkHlozr9a8M+Mm08vpKZKOiMMQOrZp4bxpqZ7zggmjcEdfsk4hFTjyjGJIzXkyBdTSw0i1SZgRCuAiNcbkjQVWRdTGqQQkqeQWh45CECBGWXiZxREURTw0MxtpPHiIpneNfeTTSnBHGtQBoB1bRiFwG7eJBQOr98aGBpU24vvX5+NYFSkivToNfxI8fhEZqInEzCPTT2d2e7qCK0Z2r5fMdLRmMsIk2qK5FFGt+5mOROGIVKgaql5ccIs97hZLTpQ4Zn5wj0x/tk70cKNEkrFEeEG2ee+OEMZwY/KmG81zL03il3mJiXrueIjsnnj710ydnHaoVuTjJKE9+RhRofTO60AKRrItCzdE0YeMbeM=;uvwnTzTTcVW+dufPQpj7sQ=="
 ---
 

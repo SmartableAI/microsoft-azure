@@ -71,6 +71,24 @@ related:
         width: 1496
         height: 785
         isCached: true
+  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
+    publishedDateTime: 2021-06-02T15:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+  - title: "Mindtree has earned the Analytics on Microsoft Azure advanced specialization"
+    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
+    publishedDateTime: 2021-06-02T21:14:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20210602/3765199.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 31
   - title: "Insight Recognized again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
     excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all"
     publishedDateTime: 2021-05-31T20:02:00Z
@@ -118,15 +136,6 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 0
-  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
-    publishedDateTime: 2021-06-02T15:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 0
 
 secured: "yLz8BMGCPi0XaA3pnStuoWuzNUEJAR3cL0zzO6tKCh2/y2Cz1PiEmQJCQMG4zt5svKucLe+8SnHksJ/61eOmLh4zYVftQzOX064vtwV3g5r0jE+t2RJ8lRG18s7on6QILwzoXM7Sr59j8UgbSQi/XcNGI6Bjb8jSEEF6xc9L0SOqWxvfHba1vNt2O0njquwcDZjduRaEmCEWn76ligIoIuOChDchSgH8W+UBf92PsiIeMJJR+9l2+dr7mOfeHkKROEz00z8S+sf2uAci2xSC1GM24p1lq0wQwzus9nReZyZYyz3G3hUppqrXiS0JUbR3mRWPSfsAD2MqptmEWB+JkYjSuLKKhzNxRfzQReCd5VU=;p+Aq+3zOx7+lSkmD4cOe1A=="

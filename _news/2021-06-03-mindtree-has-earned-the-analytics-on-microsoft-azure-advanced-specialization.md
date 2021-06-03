@@ -1,24 +1,22 @@
 ---
 category: news
-title: "Insight Recognized again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
-excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all"
-publishedDateTime: 2021-05-31T20:02:00Z
-originalUrl: "https://www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year"
-webUrl: "https://www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year"
-ampWebUrl: "https://www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year?amp=1"
-cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year?amp=1"
+title: "Mindtree has earned the Analytics on Microsoft Azure advanced specialization"
+excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
+publishedDateTime: 2021-06-02T21:14:00Z
+originalUrl: "https://news.webindia123.com/news/articles/Business/20210602/3765199.html"
+webUrl: "https://news.webindia123.com/news/articles/Business/20210602/3765199.html"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: IT Business
-  domain: itbusiness.ca
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Azure
-  - Security
+  - Analytics
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -86,15 +84,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
-  - title: "Mindtree has earned the Analytics on Microsoft Azure advanced specialization"
-    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
-    publishedDateTime: 2021-06-02T21:14:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20210602/3765199.html"
+  - title: "Insight Recognized again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
+    excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all"
+    publishedDateTime: 2021-05-31T20:02:00Z
+    webUrl: "https://www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year"
+    ampWebUrl: "https://www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year?amp=1"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 31
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 29
   - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
     excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
     publishedDateTime: 2021-06-02T12:03:00Z
@@ -133,6 +133,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "BdZsCtAc6x1C+7CWEfecLE0S841A0M6d3ap7oiaGKCO0x9iaScPXrkKPKqRv/KvkbN4VH6vEutH/GgcV9HDLp4atMu5u5cBGz+YwKit/hn42niDE9YEi/xhiGl64gKWNG5jZeCbavhSY2jUi0UUHooFoVl1u3rP6XfOC1ybDUWSvRt+t7O5wd16JF2aEzJ9T8k5DMC49mKv1nzic3PVBrtwFvgrJIiqdUbhk9El7wQKGoOpzcpd5M6HDt+BsAnfBGsJS6EmmJ5/FiGkXA9BRHA1+tOoGlQkyo3lKMPF0SFOlGwmtvIBzyHsVsCqOUXtjd0fQLulGvBplPdK2lDBx+8ouiM4USC0WPyP95MdI9XQ=;qGLWOXImLOJ5RP+jdJ2qBw=="
+secured: "gmp2lLZn9sa4V4hRduSk7ejir66wE2WoSeEvzkCLmOpNMWlZWMxX/ZlMcmAVA0gfvK+bIFXuIz73s485//pJdaOhiZ+D1VH+cqp+zIMsykyQzIwRFnN0BvcP4vdjh3YhDa3jaxMoybIJkE1Jn0gpVb8TQW5gfJzQsh+Yz4GKTkElkfmQNyAra3/83o+Obk76xm9ELiThxrnPXK5DFv4msXgGWA9QUVKKMPnntbcsmSq2r+rCAt5hZeZbxguxiRKAGDTD52eMN2F7LTDADbigb+QWnq6Ti6sOE0TxRqNB+yBnjNrr4NWyZ68bCq3+dLW4I0847D5r1UUvVlSnbWeCy2CItARruW/+U+JSUPGtZzI=;2a434ksSC0/qDG+ulT3LQA=="
 ---
 
