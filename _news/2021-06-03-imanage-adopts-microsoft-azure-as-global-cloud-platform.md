@@ -3,8 +3,8 @@ category: news
 title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
 excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
 publishedDateTime: 2021-06-03T10:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9382990.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9382990.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-imanage-adopts-microsoft-azure-as-global-cloud-platform-/2021/06/03/9382990.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-imanage-adopts-microsoft-azure-as-global-cloud-platform-/2021/06/03/9382990.htm"
 type: article
 quality: 17
 heat: -1
@@ -2007,6 +2007,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "Iav1pjP53cdnz4piB0jB4luqYlW4sPJtZvXi1/4dCrBxKR8/NzdmVtJLVxjXRea4yAMhklNoi4TyvOyrPe2WKINWfc01EUARToo7CMJ4SLkXViLUj94xHOUlo2XsnztwJ3ZQUHBBdOhxxvNOnSbGrPPt4eru6XEzH7Li5e6aMoUnUTEfzQysBD4iT+BnFiSQ6+OsdBoopVcaeJE3ru0qwKI+jKreVdPufLLbB2kaYnJ0ZjCaNQ6jvuZ0+Q1iyaWgoq0jY3YI87gbURXpCM5fDi+62guk5U3Kqg2iofAnIgPfRaRiW0vV/lPBWWjVr5RfCTt8+w4h0xnOA7tbnz1llaWqf2asf8xyRbJDJ4qKZmw=;+iIcbkTxAKDg/gGsCC42eA=="
+secured: "0Ew3reOl9gH9/9H4sQZdOIB/UNqE/7jptta364TPhfmSU0QTKQv17KJZ1Uei8tTFDWrdqTvTzou15J9UZinXdUFPGXlS3gn4ldrDncAIkKESwekuVh1WTgQSSr/91yqyZkV5YBn+5cpC9nzl+Dmh/rxF4auZuR61bFyXcdPItRDdv7ZKWJqS8aNluVLn3+uu2QWeSLFbG2eMYboqZ4q6OnGa+2pnRdWO3W7FJeE0Q+91+Aml2UvyMyq0NJyb+WC5VTN6ZmtrgYFQd7zhfVM+pE5caGy75UdbYczhMiQ+WYN4lPgTBi8f9VhbByxwtrC3pOldNOWQ1yvfTa1Dr3NGmas2ievPHmBos0nThIfpqOg=;FHayY0gTo+eadHiHq+5wiA=="
 ---
 
