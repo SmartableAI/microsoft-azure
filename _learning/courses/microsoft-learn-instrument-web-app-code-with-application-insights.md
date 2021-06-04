@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT34M
 ratings:
-  count: 561
-  average: 4.529412
+  count: 563
+  average: 4.5204263
 heat: 51
 
 provider:
@@ -23,6 +23,8 @@ levels:
 
 topics:
   - Azure
+  - Management Tools
+  - DevOps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/instrument-web-app-code-with-application-insights-social.png
