@@ -24,6 +24,12 @@ levels:
 topics:
   - Azure
 
+images:
+  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-government-social.png
+    width: 641
+    height: 321
+    isCached: true
+
 secured: "h934qa31cK1HbqrRrXhQXetwKcTUB2z7dwWQ96FVRvRmYaSPimDR7SJd7gKT7+7AmoD0Gczf3ZnTI9TFxaKEK6VFwU0slWwr0UVAjgcltEyjyDrNtvfA8fbqEks8EVO/Ir8EXXS8ci1PbkyRhhC9cuCLULnlG7EM1W5mwxnnTGswUXxagdkcQQ4HhLZqkdgvHyb6P9NMxb7t+MRKGqREYOMvxlfHL8wSxbhqI3HTRXzdv9/yrIwMmgezusRyh6WCCObsHDUYgJfuRxJOZdrj5vM4WVM2wEJcIyiproyft9YaeUJCQIIM7r+mSIg/RJh25hf9TgNB4X8juy81zW0UKUehI1hUQdCXUaXSVchm60kcTWaPoPFrdSNuLDQE6eQ31Lv7N75SdspoxdlJmIKVvBcXGfHNiCGiThn2CaX8lxU=;XxU4f9sL6FzJXaC46bb3AQ=="
 ---
 
