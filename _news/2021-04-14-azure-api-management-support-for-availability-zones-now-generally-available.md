@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 95
+  - title: "General availability: Azure DevOps Delivery Plans 2.0"
+    excerpt: "With this update, we are including changes to Azure Boards and Azure Pipelines. You can now get total capacity for all teams in an iteration. In addition, we are previewing support for templates in the YAML editor."
+    publishedDateTime: 2021-06-03T17:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-delivery-plans-20/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: Lustre® HSM tools now available to import from or export to Azure Storage."
     excerpt: "New tooling available for integrating Lustre file systems with an Azure storage account."
     publishedDateTime: 2021-04-12T20:24:17Z

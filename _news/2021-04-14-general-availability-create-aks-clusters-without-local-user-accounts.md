@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 95
+  - title: "General availability: Azure DevOps Delivery Plans 2.0"
+    excerpt: "With this update, we are including changes to Azure Boards and Azure Pipelines. You can now get total capacity for all teams in an iteration. In addition, we are previewing support for templates in the YAML editor."
+    publishedDateTime: 2021-06-03T17:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-delivery-plans-20/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure API Management support for Availability Zones now generally available"
     excerpt: "Improve the resiliency of your API Management services with Availability Zones."
     publishedDateTime: 2021-04-14T16:00:19Z

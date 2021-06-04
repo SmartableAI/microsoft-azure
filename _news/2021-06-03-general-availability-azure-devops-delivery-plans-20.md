@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Azure Sphere version 21.04 expected on April 29, 2021"
-excerpt: "Participate in the retail evaluation now to ensure full compatibility.  The OS evaluation period provides 14 days for backward compatibility testing."
-publishedDateTime: 2021-04-15T22:00:21Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2104-is-now-available-for-evaluation/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2104-is-now-available-for-evaluation/"
+title: "General availability: Azure DevOps Delivery Plans 2.0"
+excerpt: "With this update, we are including changes to Azure Boards and Azure Pipelines. You can now get total capacity for all teams in an iteration. In addition, we are previewing support for templates in the YAML editor."
+publishedDateTime: 2021-06-03T17:00:20Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-delivery-plans-20/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-delivery-plans-20/"
 type: article
-quality: 65
+quality: 84
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - DevOps
 
 related:
   - title: "General availability: Azure Blob storage supports objects up to 200 TB in size"
@@ -31,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 95
-  - title: "General availability: Azure DevOps Delivery Plans 2.0"
-    excerpt: "With this update, we are including changes to Azure Boards and Azure Pipelines. You can now get total capacity for all teams in an iteration. In addition, we are previewing support for templates in the YAML editor."
-    publishedDateTime: 2021-06-03T17:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-delivery-plans-20/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Azure API Management support for Availability Zones now generally available"
     excerpt: "Improve the resiliency of your API Management services with Availability Zones."
     publishedDateTime: 2021-04-14T16:00:19Z
@@ -76,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Sphere version 21.04 expected on April 29, 2021"
+    excerpt: "Participate in the retail evaluation now to ensure full compatibility.  The OS evaluation period provides 14 days for backward compatibility testing."
+    publishedDateTime: 2021-04-15T22:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2104-is-now-available-for-evaluation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
   - title: "General availability: Azure Site Recovery now supports cross-continental disaster recovery for 3 region pairs"
     excerpt: "Protect your applications from outages by replicating your virtual machines across continents."
     publishedDateTime: 2021-04-29T15:40:15Z
@@ -95,6 +96,6 @@ related:
       domain: microsoft.com
     quality: 61
 
-secured: "GEzQRLaEtLfrGQmrGK2bvEo/pW+Otji6jOBgp4BXCtAqhMu8kY3f+Zhy+TBAicwbJTbbbVAMvPKfbrdL9zWfD6TQpFhosTo5TS4XQ0/ae14XolgmNLBuneW5Ec9NFwdcJby8zMdM0Ikh2eJ0egtN50WfGXHwvnyIKSmdVtcXwr6qETy4Q1bnBt1oah9+w2/58IJDwO/LiAEh3PyRjPWlf/TJowL30MoDLeAQrPIqmkyrEKpg04aDO0hrqnv+wtkzXc/i8knX/IeXNVujzyi237ao5ujlqHKeYpUMC9NnYbBwCRPCpLupCD43xcOtbjLPRz9PwLdkDyAKUFCcd2JmNCcyq6dYLD15St7h3iHeXOg=;UYp6O59KK6YsVTIwoDAb/w=="
+secured: "iQYtz0WpQ75c7Fn9WDZnHJp466tWcUax0doSbXllApqEHUIlL579+hs0p5M33b76RuMvOKolsX78g5epVmhhrnMevI01R3xAyax4rLxbaXTIvdfxn01PBPQs4oQU8ih0loEUA412rQOsjg/9RkL3ObJLYFJwEdyK/7w33NxL3H/fo/Ilf2tP9QdBO96nMCpSNa7/VR/KqCOuzUNY/MBYHvY9oNkG+xxnTQpibNOPN4gKE3/MgVuVSDIi8MrYBoVUXBzRDJGSrzI7go++5rWm+oIk4cLv8HMmNo0DNaFEWc5WaDDv+qEr3vLOBSTWyaTGMSEdYLCuk8iaYDvQOtbPE3T7MGOuX/ZWYauqbz1kqws=;bp7ghsCliHZJYGMRfo4Azw=="
 ---
 
