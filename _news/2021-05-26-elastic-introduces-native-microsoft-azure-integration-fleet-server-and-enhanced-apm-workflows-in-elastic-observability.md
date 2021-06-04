@@ -125,6 +125,15 @@ related:
       name: IT Business
       domain: itbusiness.ca
     quality: 29
+  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
+    excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
+    publishedDateTime: 2021-06-04T09:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
   - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
     excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
     publishedDateTime: 2021-06-02T12:03:00Z
@@ -170,15 +179,6 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 0
-  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
-    excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
-    publishedDateTime: 2021-06-04T09:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 0
 
 secured: "yLz8BMGCPi0XaA3pnStuoWuzNUEJAR3cL0zzO6tKCh2/y2Cz1PiEmQJCQMG4zt5svKucLe+8SnHksJ/61eOmLh4zYVftQzOX064vtwV3g5r0jE+t2RJ8lRG18s7on6QILwzoXM7Sr59j8UgbSQi/XcNGI6Bjb8jSEEF6xc9L0SOqWxvfHba1vNt2O0njquwcDZjduRaEmCEWn76ligIoIuOChDchSgH8W+UBf92PsiIeMJJR+9l2+dr7mOfeHkKROEz00z8S+sf2uAci2xSC1GM24p1lq0wQwzus9nReZyZYyz3G3hUppqrXiS0JUbR3mRWPSfsAD2MqptmEWB+JkYjSuLKKhzNxRfzQReCd5VU=;p+Aq+3zOx7+lSkmD4cOe1A=="

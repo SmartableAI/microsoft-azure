@@ -129,6 +129,15 @@ related:
       name: IT Business
       domain: itbusiness.ca
     quality: 29
+  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
+    excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
+    publishedDateTime: 2021-06-04T09:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
   - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
     excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
     publishedDateTime: 2021-06-02T12:03:00Z
@@ -165,15 +174,6 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 0
-  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
-    excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
-    publishedDateTime: 2021-06-04T09:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 0
 
 secured: "myF6ydOlfxYiJW/MR3pBd3T8f0cuNfRxJkeIX/b4V9o3hi7ecvHLb0HYWsMK+QttliNgLvN1/sQHTtc9IRwIbPwUvNxs/d4RLzkH7H6JMdfOoglQegVcpzkSgU6pUjNX8C5G6Vapw7HBekalXt5ue+qdwV/RcpJYPuCTcHOG4q1406SJKyRscc9HAr5nerdTgRbBEKglF0nn01qsRFHeHl4wnsYS/hqe5fcA8spDu29ICe+5L+L2goYxgOMfNSWdAlcPrC3wEYdKd1HBbUuJzez9e0HJ30t1m01wb/nSQOIhUbZbzX8RM5o/5ybWAA0Y+YtvC9F6HQTMhU0t8B3X9zjBcttTpr0obg1TmC2wYdaBlUJIhz7g6iiiG29GufWgCGiG1G+/2b5VIhVFxtFk+nkIxdfHn1UyOpneCkzFwfvULbrRj849Jvj82xLhQ2XBkUg/m6dJTkltWJB2uiDalFwKQy/i9gS5Ywc5QVbdEQtxiqDw4UZIkyJaQgWJ0DkgKJgCxVXrOpueuip11Hm3CA==;aJPtN+s5sjQbd1yEIiYqlg=="
