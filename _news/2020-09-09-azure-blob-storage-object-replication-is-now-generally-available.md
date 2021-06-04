@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-objec
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
 type: article
 quality: 99
-heat: 599
+heat: 619
 published: true
 
 provider:
@@ -176,6 +176,15 @@ related:
     excerpt: "The latest release of Azure Sphere brings enhancements and features to the OS, SDKs, and Visual Studio extensions."
     publishedDateTime: 2021-04-29T23:00:08Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2104-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Maps Creator is now generally available"
+    excerpt: "Azure Maps Creator provides an end-to-end solution for private indoor maps."
+    publishedDateTime: 2021-06-04T18:10:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-creator-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

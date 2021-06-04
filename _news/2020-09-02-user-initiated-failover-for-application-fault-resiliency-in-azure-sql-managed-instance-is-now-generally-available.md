@@ -190,6 +190,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Maps Creator is now generally available"
+    excerpt: "Azure Maps Creator provides an end-to-end solution for private indoor maps."
+    publishedDateTime: 2021-06-04T18:10:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-creator-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Durable Functions v2.3 is now available "
     excerpt: "A new release of Durable Functions is out now. This release includes new functionality including long running timers, logging, and state management improvements."
     publishedDateTime: 2020-09-02T16:00:04Z

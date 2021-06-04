@@ -181,6 +181,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Maps Creator is now generally available"
+    excerpt: "Azure Maps Creator provides an end-to-end solution for private indoor maps."
+    publishedDateTime: 2021-06-04T18:10:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-creator-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "User-initiated failover for application fault resiliency in Azure SQL Managed Instance is now generally available"
     excerpt: "Test the impact of automatic failover operations during planned or unplanned events before deployment to production by manually initiating automatic failover"
     publishedDateTime: 2020-09-02T16:00:05Z

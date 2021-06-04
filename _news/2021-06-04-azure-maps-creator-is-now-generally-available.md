@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Digital Twins is now generally available"
-excerpt: "Azure Digital Twins is generally available and read for production deployments. Features include: Flexible modelling and general graph topology, richer compute, bring your own IoT Hub for easier integration, and improved scalability. \n"
-publishedDateTime: 2020-12-14T20:34:35Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-digital-twins-is-now-generally-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-digital-twins-is-now-generally-available/"
+title: "Azure Maps Creator is now generally available"
+excerpt: "Azure Maps Creator provides an end-to-end solution for private indoor maps."
+publishedDateTime: 2021-06-04T18:10:34Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-creator-is-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-creator-is-now-generally-available/"
 type: article
 quality: 67
 heat: -1
@@ -153,6 +153,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Digital Twins is now generally available"
+    excerpt: "Azure Digital Twins is generally available and read for production deployments. Features include: Flexible modelling and general graph topology, richer compute, bring your own IoT Hub for easier integration, and improved scalability. \n"
+    publishedDateTime: 2020-12-14T20:34:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-digital-twins-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Health Bot is now generally available"
     excerpt: "Moving Microsoft Healthcare Bot to Azure and empowering organizations to deliver even better care for patients."
     publishedDateTime: 2021-01-06T17:00:16Z
@@ -175,15 +184,6 @@ related:
     excerpt: "The latest release of Azure Sphere brings enhancements and features to the OS, SDKs, and Visual Studio extensions."
     publishedDateTime: 2021-04-29T23:00:08Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2104-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Maps Creator is now generally available"
-    excerpt: "Azure Maps Creator provides an end-to-end solution for private indoor maps."
-    publishedDateTime: 2021-06-04T18:10:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-creator-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
@@ -262,6 +262,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "44FZhN8plzIFrRaSwR0Qe6OcHFPM5tyVmQxzwDTOo6iiLyS/EoqdE9TOPv/TjsB7drJllC6SQJEzVW6hkrY372QUwsruTCKesRiI8vjXSAb/K/RUu2AtNmATZowTeWuET7evGvU/fbk8Fql1Ncn3PkhH/SxDBt9KTEl4ZA/CK1PPmDUoZsOHfdF6O3Kh86+LHhDzMpACQpv1hH5bM+0gVKJhvtaP4kITaYyVTtJPnjhSgcseNKlbBSq6ArNIlrODNqr946zvf3+/h2ERHTZihwopxs0lWtTUbh9lls4cM6Xqr3xXHRYOnNbIYf7UORR/D5/lhy4XA7sEuzNjN4ZnBKP8X5AdtePlMmq4XAk67LI=;v84TkSBs07pX1nnW3fHAeg=="
+secured: "6TeKNj8cAQPpf0p+TRdbS6VTUjSpjniq6xQ1uJEy/reOjX7PEVz9NtLE9MkeE/rBXhJ7mznHxJ79s/PrOIu9qBkSXcEqi7p7ebiS+5RXpgbFNWJZ7pKNAL28ZpoOrKCdajiKgGVctDjLAlqWTM5/R5NMMLM/oM7e1P28EUk0QZvX3/m8Vr57oLEB5Pr5/d2MaQsOqJyXm86bU5zwFtvLB9sZXdj/Gl3uhboP+aLuU9CGub6hii24B62abU9h4BWNq6L4SzDgbd+6Xdvh4ZvN8GY5xCGEbybYShLFJS1auFmx9yTL3ag3CELuy+L7Us9fzA7okAAErjm0AN77lZcOoAYSOlQ2wPFGcin+7m8qLW0=;cQ+jiyyPP4Ku9LEqpHQCFw=="
 ---
 
