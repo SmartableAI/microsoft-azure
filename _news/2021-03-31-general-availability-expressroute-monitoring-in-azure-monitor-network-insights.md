@@ -217,6 +217,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Key Rotation and Expiration Policies for Azure Storage"
+    excerpt: "Access Key Expiration and Policy support for Azure Storage Accounts"
+    publishedDateTime: 2021-06-04T21:30:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/key-rotation-and-expiration-policies-for-azure-storage/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
   - title: "General availability: Azure Backup supports backup and restore of Azure Dedicated Host "
     excerpt: "To protect your valuable resources, Azure Backup now supports backup & restore of Azure Virtual Machines with dedicated host. \n\n\n"
     publishedDateTime: 2021-04-01T15:56:14Z

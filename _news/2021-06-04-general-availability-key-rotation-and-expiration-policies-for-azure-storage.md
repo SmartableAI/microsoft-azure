@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Virtual machine (VM) level disk bursting available on all Dsv3 and Esv3 families"
-excerpt: "Virtual machine (VM) level disk bursting enables your workloads to handle unforeseen disk traffic spikes smoothly without the need to overprovision your virtual machine. The feature is now enabled on all Dsv3-series and Esv3-series virtual machines."
-publishedDateTime: 2021-03-31T16:00:57Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-virtual-machine-vm-level-disk-bursting-available-on-all-dsv3-and-esv3-families/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-virtual-machine-vm-level-disk-bursting-available-on-all-dsv3-and-esv3-families/"
+title: "General availability: Key Rotation and Expiration Policies for Azure Storage"
+excerpt: "Access Key Expiration and Policy support for Azure Storage Accounts"
+publishedDateTime: 2021-06-04T21:30:36Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/key-rotation-and-expiration-policies-for-azure-storage/"
+webUrl: "https://azure.microsoft.com/en-us/updates/key-rotation-and-expiration-policies-for-azure-storage/"
 type: article
-quality: 53
+quality: 81
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Compute
+  - Storage
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -217,15 +217,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "General availability: Key Rotation and Expiration Policies for Azure Storage"
-    excerpt: "Access Key Expiration and Policy support for Azure Storage Accounts"
-    publishedDateTime: 2021-06-04T21:30:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/key-rotation-and-expiration-policies-for-azure-storage/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 81
   - title: "General availability: ExpressRoute monitoring in Azure Monitor network insights"
     excerpt: "Network insights in Azure Monitor now supports monitoring Azure ExpressRoute resources out of the box without any additional configuration or setup."
     publishedDateTime: 2021-03-31T16:01:57Z
@@ -433,6 +424,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 53
+  - title: "General availability: Virtual machine (VM) level disk bursting available on all Dsv3 and Esv3 families"
+    excerpt: "Virtual machine (VM) level disk bursting enables your workloads to handle unforeseen disk traffic spikes smoothly without the need to overprovision your virtual machine. The feature is now enabled on all Dsv3-series and Esv3-series virtual machines."
+    publishedDateTime: 2021-03-31T16:00:57Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-virtual-machine-vm-level-disk-bursting-available-on-all-dsv3-and-esv3-families/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 53
   - title: "General Availability: Application Insight in UK West"
     excerpt: "Application Insight, a part of Azure Monitor,  is now generally available in the UK West region for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2020-09-29T15:23:28Z
@@ -461,6 +461,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "woXbLUs888cMMH1/cZOC4a16SDJJLobL93zA/tavY2I5WvPYM/a6TD//cbDeD4ylSPnulmip/RLCPp332Kt1AF4mpH87BdEswnEmZjgKxSR/qpEzuhCQbRJpZEE1wkrQW6SgVFIp/8LtfJ5j/6CPENEWbLAOQN73bkFaYoD/SoTsfVR5KOGEZVbyjTit9RchC4oQ3IH7J0EgBrGw/CXTZAS2Ga4TTPPpU904f8M2/BBIUULHuBzdjJbVBV0WXbQprGlkD3k+hF5Pi/Yun25XwBKZC92nhwp7ALOSW96h7Ly5n05Kyd6A9493DigRGYGS3AYl5djbMj1S1vCs6g2Wv8hTlZuXKZs01HW0tCDiU88=;sdCx0JnxBJiHIbMj5YOBZA=="
+secured: "Tn8yLGjIuDIN4FpvDQ31eAyUVVGIfNq33XukRaAmZ+VM4OcIigOVWTQwNAukWhgOi+fJAphI1G2D4/blUmfEBp2jlIaiwRsIDMYUJODmUoNvUhu42+Tn1bQLRlNVfIEDf2PsxPctZjqeI7V5X7jqzFpCTiwS+7hF9M+j088A4JdBtoHETnONYgcQnNRjp19CulvgQHMdS0lC+2zp1RmIq4gzvuL8u0zowRGJfQRi9YDPmY0F8NL4c+ZtAYgyqaP9pGU2QE87YUNONxua4wOgCm8tP/Q3jTaBPZfRTbcvMhu6gDByzjxVcxxZpQqH9UHZXD4iVslvLmieT/C2HpCpVKRRpJPJlLmAII+IKdijh0U=;4ZRVpQEDiGcr5q7P939UPw=="
 ---
 
