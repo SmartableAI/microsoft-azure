@@ -4,15 +4,15 @@
   "page": 31,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-cloud-adoption-framework-strategy.md",
-      "title": "Prepare for successful cloud adoption with a well-defined strategy",
-      "excerpt": "Success in cloud adoption is predicated by a clear strategy that helps the team understand executive direction and regularly measure progress. This module will help capture the cloud adoption strategy needed to drive your success.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-adoption-framework-strategy/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-strategy/",
-      "length": "PT1H2M",
+      "path": "_learning/courses/microsoft-learn-cloud-scale-messaging-jms-service-bus.md",
+      "title": "Enable asynchronous messaging in Java apps using JMS and Azure Service Bus",
+      "excerpt": "Send messages to and receive messages from Azure Service Bus with Spring Boot applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-scale-messaging-jms-service-bus/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-scale-messaging-with-jms-service-bus/",
+      "length": "PT32M",
       "ratings": {
-        "count": 9,
-        "average": 4.6666665
+        "count": 11,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,9 +32,9 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/cloud-adoption-framework-strategy-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/cloud-scale-messaging-jms-service-bus-social.png",
+          "width": 641,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -43,8 +43,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "DevOps",
-        "Management Tools"
+        "Integration"
       ]
     },
     {
@@ -1194,8 +1193,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-database-authentication-authorization/",
       "length": "PT49M",
       "ratings": {
-        "count": 1135,
-        "average": 4.8105726
+        "count": 1136,
+        "average": 4.8107395
       },
       "provider": {
         "name": "Microsoft Learn",
