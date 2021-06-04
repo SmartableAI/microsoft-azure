@@ -36,9 +36,9 @@ related:
         height: 720
         isCached: true
   - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-    excerpt: "\"The Analytics on Microsoft Azure advanced specialization will bring our experience in accelerating data discovery and making data-driven business decisions more accessible to those organizations ..."
-    publishedDateTime: 2021-06-02T08:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485942"
+    excerpt: "WARREN, N.J.  and BANGALORE, India, June 2, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today"
+    publishedDateTime: 2021-06-02T07:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485834"
     type: article
     provider:
       name: Business Insider
@@ -165,6 +165,15 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
+    quality: 0
+  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
+    excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
+    publishedDateTime: 2021-06-04T09:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "BdZsCtAc6x1C+7CWEfecLE0S841A0M6d3ap7oiaGKCO0x9iaScPXrkKPKqRv/KvkbN4VH6vEutH/GgcV9HDLp4atMu5u5cBGz+YwKit/hn42niDE9YEi/xhiGl64gKWNG5jZeCbavhSY2jUi0UUHooFoVl1u3rP6XfOC1ybDUWSvRt+t7O5wd16JF2aEzJ9T8k5DMC49mKv1nzic3PVBrtwFvgrJIiqdUbhk9El7wQKGoOpzcpd5M6HDt+BsAnfBGsJS6EmmJ5/FiGkXA9BRHA1+tOoGlQkyo3lKMPF0SFOlGwmtvIBzyHsVsCqOUXtjd0fQLulGvBplPdK2lDBx+8ouiM4USC0WPyP95MdI9XQ=;qGLWOXImLOJ5RP+jdJ2qBw=="

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-excerpt: "\"The Analytics on Microsoft Azure advanced specialization will bring our experience in accelerating data discovery and making data-driven business decisions more accessible to those organizations ..."
-publishedDateTime: 2021-06-02T08:33:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485942"
-webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485942"
+excerpt: "WARREN, N.J.  and BANGALORE, India, June 2, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today"
+publishedDateTime: 2021-06-02T07:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485834"
+webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485834"
 type: article
 quality: 71
 heat: -1
@@ -170,7 +170,16 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 0
+  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
+    excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
+    publishedDateTime: 2021-06-04T09:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "4ShGATFL+FYzX8D7royk5ClzFPRb0gRi2d0H5ReKVrv/wp7QP5zoHtRI8XwD+2Lty5ZA5FDJUyJMdCW5j/HLMVp1zofGC5GuMfgRRHvkq7OZJ+eUAkBsuJ2bDyl2AnHi8RAOb6IUHYt5n9mBj6t7O37nXvZ5y3Pl2ovkMLOzoN9Z+AjgOBNxf6eS6uAog9ZftZ2H6XfN9WKslmpFVuKr1XBmkWHU0CHO0AAWPlpQbegyW9Yhla/QBIP/wnmH8k8+ZvNcPj3GrAiXHzoC61i+P6CNJW0CcFfNIo3ayUxdQheoj+1dQJZWoPpSM+ZrO6KVVsYgHeXcz4/ZGpW2HNj1mZPkN55VMWGnpLCgce2OrME=;ObM5QLNRBEkb3RKv4FqDtA=="
+secured: "3grp7Cp59uuFsjt3rfvaornhKM7BI7ztdthYEX+D0Be0nIlTzdFnRUXfUJLgFRfBfM3REtA8RG2iY3+BJz9URZLVsKipzqoXsTjzGdNijuytdRjru1T14ynZ+27GbcX5UzqTEKEvbgfoRk5xplNg0XEGdnpDCPHBao7y8ofWWN0561TvO+qbh4EooUdzX6fJC0g/hdNaNE93FpIj9Ak6BSFI5Dh4RRZf7DKC0FLlBQF4/rPQJ4phPscW8dmjeaqXPuVl7j/xt8ChaevSCKIFS92QNFcIyh5ol2JVEl4Qs09diN+n0QgKjdnyP2jGigXeZ0GsCq0+L66o+tDAN+dQVtj6Ntokskna2eqhr8dHXZQ=;u/zdBaHt4N12U50ohloWHw=="
 ---
 
