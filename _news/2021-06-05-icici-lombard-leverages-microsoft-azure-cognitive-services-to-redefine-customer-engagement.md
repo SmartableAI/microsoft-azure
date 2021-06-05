@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Elastic Introduces Native Microsoft Azure Integration, Fleet Server, and Enhanced APM Workflows in Elastic Observability"
-excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, announces new features and updates across the Elastic"
-publishedDateTime: 2021-05-26T15:47:00Z
-originalUrl: "https://www.marketwatch.com/press-release/elastic-introduces-native-microsoft-azure-integration-fleet-server-and-enhanced-apm-workflows-in-elastic-observability-2021-05-26"
-webUrl: "https://www.marketwatch.com/press-release/elastic-introduces-native-microsoft-azure-integration-fleet-server-and-enhanced-apm-workflows-in-elastic-observability-2021-05-26"
+title: "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement"
+excerpt: "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time."
+publishedDateTime: 2021-06-05T09:17:00Z
+originalUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/"
+webUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/"
+ampWebUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/"
+cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/"
 type: article
-quality: 69
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Dataquest
+  domain: dqindia.com
 
 topics:
   - Azure
-  - Integration
+  - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.dqindia.com/wp-content/uploads/2021/06/6CF52215-66AC-42DA-9307-7E975564CE3B.png"
+    width: 800
+    height: 598
     isCached: true
 
 related:
@@ -52,21 +50,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 71
-  - title: "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement"
-    excerpt: "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time."
-    publishedDateTime: 2021-06-05T09:17:00Z
-    webUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/"
-    ampWebUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/"
+  - title: "Elastic Introduces Native Microsoft Azure Integration, Fleet Server, and Enhanced APM Workflows in Elastic Observability"
+    excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, announces new features and updates across the Elastic"
+    publishedDateTime: 2021-05-26T15:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/elastic-introduces-native-microsoft-azure-integration-fleet-server-and-enhanced-apm-workflows-in-elastic-observability-2021-05-26"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 64
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/6CF52215-66AC-42DA-9307-7E975564CE3B.png"
-        width: 800
-        height: 598
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Mindtree has earned the Analytics on Microsoft Azure"
     excerpt: "Only partners that meet stringent criteria around customer success and staff skilling as well as pass a third-party audit of their analytics planning and deplo"
@@ -197,6 +193,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "yLz8BMGCPi0XaA3pnStuoWuzNUEJAR3cL0zzO6tKCh2/y2Cz1PiEmQJCQMG4zt5svKucLe+8SnHksJ/61eOmLh4zYVftQzOX064vtwV3g5r0jE+t2RJ8lRG18s7on6QILwzoXM7Sr59j8UgbSQi/XcNGI6Bjb8jSEEF6xc9L0SOqWxvfHba1vNt2O0njquwcDZjduRaEmCEWn76ligIoIuOChDchSgH8W+UBf92PsiIeMJJR+9l2+dr7mOfeHkKROEz00z8S+sf2uAci2xSC1GM24p1lq0wQwzus9nReZyZYyz3G3hUppqrXiS0JUbR3mRWPSfsAD2MqptmEWB+JkYjSuLKKhzNxRfzQReCd5VU=;p+Aq+3zOx7+lSkmD4cOe1A=="
+secured: "xsYs5Q90fHG2/D/d3lyuVhGGBHEgVc8sBNSkG7jChROVwAIi9sWtaNQYjimfm2uqT80JX1REyAIA7Eqee/kEgWSaqs9S6BMSNOU3nzWL5aKGe6mR+Z5tI4jV44Hzb3uBZTw3mSWN3NDq4v8ZwmaPJ9cokYRm8R/vZ0Besg0QAsRkQn5gSQW+62c1FYpu3SpooissIEv7G1kl9Edxu1ED8uB3TQvxzTcEi13VbfuqXGofTSVysad4bn5YLKug3+avRU4eEWEdtFukHkZR4hWhOvGPMPA3GMJ5OoTtzW3wvk+YiGvyg6fOB7Mv++4I4u4YBamA/8K8o9dJ6U2spbFVPU8sRMn+zpSzMy4bMTvsJAc=;8whxjVe+8B5CNcb3oXFwpA=="
 ---
 
