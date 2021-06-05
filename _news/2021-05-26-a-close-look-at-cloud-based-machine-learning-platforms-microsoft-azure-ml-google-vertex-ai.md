@@ -62,18 +62,18 @@ related:
         height: 313
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Jake Zborowski, General Manager, Microsoft Azure Platform at Microsoft Corp., said, \"We're pleased to welcome Dataiku to the Microsoft Azure Marketplace, which gives our partners great exposure to ..."
-    publishedDateTime: 2021-06-01T13:48:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:02:00Z
+    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/dataiku-now-available-in-the-microsoft-azure-marketplace/article_eab38ca8-eb94-56a0-ab19-648d103e3051.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Rome News-Tribune
+      domain: northwestgeorgianews.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"

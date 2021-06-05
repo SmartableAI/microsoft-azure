@@ -1,25 +1,27 @@
 ---
 category: news
 title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
-excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
-publishedDateTime: 2021-06-04T09:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
-webUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
+excerpt: "Companies in manufacturing, retail, logistics, warehousing, transportation, and other industries, constantly need to determine logistic charges and increase warehouse and vehicle efficiency."
+publishedDateTime: 2021-06-04T09:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology/article_1520de70-d64f-5ab7-81a9-702331711b9a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology/article_1520de70-d64f-5ab7-81a9-702331711b9a.html"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/a7/aa78a8c6-83de-5004-b501-de332a69eeea/60b9ebc250460.image.jpg?resize=1200%2C579"
+    width: 1200
+    height: 579
+    isCached: true
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -179,6 +181,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "oOMyKontqoz4810zGDtdDN9NRrm/zhLqK8LNS/wCc9UDeS01LnLltNFnmrfw1T882gwfAbfmsvnMIQO5AQBtpP2HnhM8u9OxGnwU6WsOEvvdod/QJuBb5+kZoZl5uODcMQmUy5pTSspWQDMbtvASD0UvPzw06RV1cMkaNBvTu8JfvLqqnisOFmCSrQRSPjH5NSedufWFB93jXEW2siTFmuB20FqWR9SyN+75wrZNdGlwejWRjfCaWkBuryXRE7cUbI/OhcJ4IlhSUGekOIoGF78+vn9BASaP+QoZK/+ivhmwNnmhLXAPmHtOwQC4hC9UJQpWRFq18rMtGqkZBmuRZgKpydC6Jpqrl7PAWb0gnrcEyLlmfWN7cEXHyTDujcHejRUe0pSg3Wl0fGa9V1cflgdwURDox7Cdi+Lq0Vf7ns8MD3zHaNRWt6ebl7QA+FzqRdPqCPFCOBh6I1ctv7p8MS1ViIQGx/n1V+SFyWwAWfx2AJdfxzrLW4L1kixbpS3btbEs34LOkcuuRxZJmGmk7g==;UokJIm9vrgebYH/JU3YkJA=="
+secured: "EviZ8Q8+m9aPVtDHP340VbthVvD59rHNbdZqggDwRi87Fa5Ley9c6ZEIll4qTa2yWVw76gkMECg93QUYGI2PTiKBNfN8MWl9rW0a/tiPlro/YHV7kIuc1rRKXy3lxs5w7nmJLmuUSq2G3v0BBnBZg8jjoYvXYBpbLjo6uSSPpbvjuZVabkFvlK95mSah+GqkQfV+F3V4/yjnLgzsQF7YotUzq553S4ErCIOngDn9blu5X/enO8HLA4J3NxyWLr0PE6kie5pZS5/4NUR6VkXOQYUv8gb/xiLv23yIvxJml5f7fNrAtU1oq8XM+JSF38115wf8rteyrZNbJu8TveYYfaIwmKESBxKAOTboafVFhoc=;L8SXvndkrd/98aXLG+w+Og=="
 ---
 

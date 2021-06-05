@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Jake Zborowski, General Manager, Microsoft Azure Platform at Microsoft Corp., said, \"We're pleased to welcome Dataiku to the Microsoft Azure Marketplace, which gives our partners great exposure to ..."
-publishedDateTime: 2021-06-01T13:48:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-06-01T13:02:00Z
+originalUrl: "https://www.northwestgeorgianews.com/associated_press/business/dataiku-now-available-in-the-microsoft-azure-marketplace/article_eab38ca8-eb94-56a0-ab19-648d103e3051.html"
+webUrl: "https://www.northwestgeorgianews.com/associated_press/business/dataiku-now-available-in-the-microsoft-azure-marketplace/article_eab38ca8-eb94-56a0-ab19-648d103e3051.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Rome News-Tribune
+  domain: northwestgeorgianews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -146,6 +146,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "a1pICAM1iMKztneFHT8InTsRoW7aSEJd7TYJi2OQp3XvpIh4b61nGDIzPkZBJz+2Ho9ejrjvkd6sFqhYf0FdTsQHtWTNHSj6lDW+1QjBkvJSdiPxE+iwwPnTsZIsb6BD8LPCADbctZrsS/YV1y5/W25tZYTrMfDVfPr1P1iIqEAsWevmD0jgVvMSI9SuUZsF9kR8Is2z6f4q/Vh3X7l32LCu0f3Op88kzDMHqwX3wgL70P3G9s8adfgEXfpg/Ow2CRSDmqRkzCLITaoopQA2Hgz84lGi+0qzM53P5nwjfXmyeFYFPixA0uGuB7pX3IfjhyWC2vV+5Keqhts9MxZ5zL3BvXCJZj+Pp/DB9SN0Cv0=;slm+FHE0sNst3MFidmbgTw=="
+secured: "K1HCeXldpXB40FikG685kJEelCucVo0UCLc/v3tFhiJ7imA/OsSgeOyzw/lO2RluGugfquXrQLHfKrBC8yJOIDxuZgNUg+GO+FpdCYIRSo+QynwzsKh+JM4lz1Ac6OyU+oiyTljfBv3wHtsEXhIJQMIYGcwcnBngL4zxQsT995h88gyiEjuAWDW0ALYrdyNQGEBiKkpEQUdA9uAvMzzU6hZa40znViTXSm7OlSb3Vwpdo0Fu9uaCtPysW5B81s+/62CK9mspxGqrKS8frMux2ifJWPUNblBAdgUj/8a+YCv6bcmTUx08yEJq78cm5AvNYS+PkP+4Yykg2hQ5oc4ra0TazbkDg7PPxfsrXqboDus=;bfypx2DJYkvCHEBDd/z/yg=="
 ---
 
