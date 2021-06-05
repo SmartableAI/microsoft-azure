@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-work-with-user-defined-functions.md",
-      "title": "Work with user-defined functions",
-      "excerpt": "Work with user-defined functions",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-user-defined-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-user-defined-functions/",
-      "length": "PT33M",
+      "path": "_learning/courses/microsoft-learn-use-automated-machine-learning.md",
+      "title": "Use automated machine learning in Azure Machine Learning",
+      "excerpt": "Training a machine learning model is an iterative process that requires time and compute resources. Automated machine learning can help make it easier.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-automated-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/",
+      "length": "PT45M",
       "ratings": {
-        "count": 82,
-        "average": 4.5365853
+        "count": 440,
+        "average": 4.765909
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,23 +27,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-with-user-defined-functions-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
+      "heat": 143,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics",
         "AI"
       ]
     },
@@ -78,8 +69,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 15024,
-            "average": 4.762513
+            "count": 15031,
+            "average": 4.7625575
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -123,8 +114,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 12609,
-            "average": 4.6380363
+            "count": 12612,
+            "average": 4.637964
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -166,8 +157,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 11044,
-            "average": 4.7680187
+            "count": 11048,
+            "average": 4.7681026
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -209,8 +200,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 15522,
-            "average": 4.729738
+            "count": 15526,
+            "average": 4.729808
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -304,8 +295,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 9130,
-            "average": 4.785433
+            "count": 9131,
+            "average": 4.785456
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -347,8 +338,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 10507,
-            "average": 4.7751975
+            "count": 10509,
+            "average": 4.7752404
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -390,8 +381,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 6854,
-            "average": 4.7767725
+            "count": 6856,
+            "average": 4.776838
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -437,8 +428,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 7940,
-            "average": 4.723426
+            "count": 7945,
+            "average": 4.723474
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -506,8 +497,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 15522,
-        "average": 4.729738
+        "count": 15526,
+        "average": 4.729808
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -575,8 +566,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 15216,
-            "average": 4.7588067
+            "count": 15222,
+            "average": 4.758836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -637,8 +628,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 15216,
-        "average": 4.7588067
+        "count": 15222,
+        "average": 4.758836
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -680,8 +671,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 10507,
-        "average": 4.7751975
+        "count": 10509,
+        "average": 4.7752404
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -764,7 +755,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 63,
+          "heat": 143,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -920,8 +911,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
           "length": "PT28M",
           "ratings": {
-            "count": 1859,
-            "average": 4.6740184
+            "count": 1860,
+            "average": 4.6741934
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -963,8 +954,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
           "length": "PT34M",
           "ratings": {
-            "count": 1504,
-            "average": 4.7041225
+            "count": 1505,
+            "average": 4.704319
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1006,8 +997,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
           "length": "PT39M",
           "ratings": {
-            "count": 1377,
-            "average": 4.653595
+            "count": 1378,
+            "average": 4.6538463
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1135,8 +1126,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2942,
-            "average": 4.7022433
+            "count": 2944,
+            "average": 4.702106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1350,8 +1341,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2942,
-            "average": 4.7022433
+            "count": 2944,
+            "average": 4.702106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1565,8 +1556,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2942,
-            "average": 4.7022433
+            "count": 2944,
+            "average": 4.702106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1780,8 +1771,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2942,
-            "average": 4.7022433
+            "count": 2944,
+            "average": 4.702106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1995,8 +1986,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2942,
-            "average": 4.7022433
+            "count": 2944,
+            "average": 4.702106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2210,8 +2201,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2942,
-            "average": 4.7022433
+            "count": 2944,
+            "average": 4.702106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2601,41 +2592,6 @@
         "Azure",
         "AI",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-use-automated-machine-learning.md",
-      "title": "Use automated machine learning in Azure Machine Learning",
-      "excerpt": "Training a machine learning model is an iterative process that requires time and compute resources. Automated machine learning can help make it easier.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-automated-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 440,
-        "average": 4.765909
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 63,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     },
     {
@@ -3107,8 +3063,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-basic-conversational-intelligence/",
           "length": "PT27M",
           "ratings": {
-            "count": 47,
-            "average": 4.893617
+            "count": 48,
+            "average": 4.8958335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3150,8 +3106,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-language-understanding-intelligent-service-apps/",
           "length": "PT24M",
           "ratings": {
-            "count": 195,
-            "average": 4.7743587
+            "count": 196,
+            "average": 4.7755103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3625,8 +3581,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
           "length": "PT45M",
           "ratings": {
-            "count": 1200,
-            "average": 4.6633334
+            "count": 1201,
+            "average": 4.663614
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3825,8 +3781,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
           "length": "PT45M",
           "ratings": {
-            "count": 1200,
-            "average": 4.6633334
+            "count": 1201,
+            "average": 4.663614
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4024,8 +3980,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2942,
-            "average": 4.7022433
+            "count": 2944,
+            "average": 4.702106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4825,6 +4781,49 @@
           "url": "https://docs.microsoft.com/learn/achievements/introduction-to-ai-technology-social.png",
           "width": 800,
           "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analyze-images-computer-vision.md",
+      "title": "Analyze images with the Computer Vision service",
+      "excerpt": "The Computer Vision service enables software engineers to create intelligent solutions that extract information from images; a common task in many artificial intelligence (AI) scenarios.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-images-computer-vision/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 1860,
+        "average": 4.6741934
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
