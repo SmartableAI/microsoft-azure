@@ -1321,6 +1321,20 @@ related:
         width: 564
         height: 294
         isCached: true
+  - title: "An Overview of Microsoft Azure"
+    excerpt: "Microsoft Azure helps large enterprises meet worldwide data storage privacy needs. It also provides the ability to move data and services between different areas fast and easily. FREMONT, CA: Microsoft Azure is a cloud computing platform that is utilized ..."
+    publishedDateTime: 2021-06-03T04:35:00Z
+    webUrl: "https://www.cioreview.com/news/an-overview-of-microsoft-azure-nid-33746-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/87wfg.Untitled-6.jpg"
+        width: 300
+        height: 350
+        isCached: true
   - title: "IOTech Edge XRT: A time-critical edge platform for Microsoft Azure Sphere"
     excerpt: "IOTech announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere."
     publishedDateTime: 2021-03-05T01:33:00Z

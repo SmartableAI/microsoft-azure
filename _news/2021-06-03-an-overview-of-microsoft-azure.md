@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Bringoz Launches Intelligent Delivery & Distribution System on Microsoft Azure"
-excerpt: "Bringoz, Complex Logistics Made Simple, announced today its intelligent delivery and distribution management system is now available on Microsoft Azure. Bringoz customers can now take advantage of the productive and trusted Azure cloud platform ..."
-publishedDateTime: 2021-03-09T16:06:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-internet-technology-computing-and-information-technology-web-services-d25419b304c84a0fa67e9bfd82708dfe"
-webUrl: "https://apnews.com/press-release/business-wire/technology-internet-technology-computing-and-information-technology-web-services-d25419b304c84a0fa67e9bfd82708dfe"
+title: "An Overview of Microsoft Azure"
+excerpt: "Microsoft Azure helps large enterprises meet worldwide data storage privacy needs. It also provides the ability to move data and services between different areas fast and easily. FREMONT, CA: Microsoft Azure is a cloud computing platform that is utilized ..."
+publishedDateTime: 2021-06-03T04:35:00Z
+originalUrl: "https://www.cioreview.com/news/an-overview-of-microsoft-azure-nid-33746-cid-50.html"
+webUrl: "https://www.cioreview.com/news/an-overview-of-microsoft-azure-nid-33746-cid-50.html"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: CIOReview
+  domain: cioreview.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.cioreview.com/news_new/sliderimage/87wfg.Untitled-6.jpg"
+    width: 300
+    height: 350
     isCached: true
 
 related:
@@ -1321,20 +1321,6 @@ related:
         width: 564
         height: 294
         isCached: true
-  - title: "An Overview of Microsoft Azure"
-    excerpt: "Microsoft Azure helps large enterprises meet worldwide data storage privacy needs. It also provides the ability to move data and services between different areas fast and easily. FREMONT, CA: Microsoft Azure is a cloud computing platform that is utilized ..."
-    publishedDateTime: 2021-06-03T04:35:00Z
-    webUrl: "https://www.cioreview.com/news/an-overview-of-microsoft-azure-nid-33746-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/87wfg.Untitled-6.jpg"
-        width: 300
-        height: 350
-        isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
     publishedDateTime: 2020-05-27T20:23:00Z
@@ -1425,6 +1411,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 33
+  - title: "Bringoz Launches Intelligent Delivery & Distribution System on Microsoft Azure"
+    excerpt: "Bringoz, Complex Logistics Made Simple, announced today its intelligent delivery and distribution management system is now available on Microsoft Azure. Bringoz customers can now take advantage of the productive and trusted Azure cloud platform ..."
+    publishedDateTime: 2021-03-09T16:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-internet-technology-computing-and-information-technology-web-services-d25419b304c84a0fa67e9bfd82708dfe"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Azure Firewall protects Microsoft’s network with Azure Firewall Manager"
     excerpt: "Find out why Microsoft Azure Firewall and its firewall managers are the superheroes keeping Microsoft’s corporate network safe."
     publishedDateTime: 2021-02-24T00:10:00Z
@@ -1656,6 +1656,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "s0sICSbRWpGqNDrTQJWXO8bhhTNeEb9AoidZToqgmf1zS1BUfexJePj/s99l922wQ+fnWrPFSZhnofssO0+EE6QXNGCd06rkKHkVdA3ZwgxifBDsDpj96k4c17+TN4F4Z8ThN1N8o05ULEjpFC+PXOuG7nE6Wlqw1Az4m6do6H0Bn3Mw8jU/bMxC23z0SyD+E1keAszikyuQ1a0zhyqam2lvtB08gEd/A+l2qu3gctT9yIitjngKEqLBDqebrTvtXl7xrHg3IQqzWZ6J8Jq8y1jE9y029uCE+ZGHhM1dSVcCUfpHwkisrn3bq6Zi6CCxqkT5U+NfBN/seOrStwSCRyR1jq3XYOjmJF9/jiUKN7k=;cKu9RvIbIMLj3fjaMBb9ww=="
+secured: "BI9SERGaXY+5UIiKCQeozwo4cZ8nHL8RWDRJP3wr4CZZu2Dzyc/6+TgemabG8gPGpAkSb4DGxOP783eEGIYRSntmr4JHL56/q4K2WT5UoY7lMPabzY0PHhEH0R7ML1Qejen8NSIutN2PHuhSSeFHOds2QqAlvoRA+xXDEcbb2htRF55glnSst/BQvyeM5pfDc8zYRRB/5SahXCxyMgKNT2eTjNEI6zOf+ubyCiociotHM7MzDci5Vr/jdTyRY6mJzoEgK7eMQsOnMYfBUNsf59Bbq4LIggFzf+mHQMDk8YzDRfLWbv4l/VGfd/yZ5Jars5Hkq9Q++L+S88lFoC9Auqb0pM1UHrAdhZGy5sTfUZ4=;iblQhuWpRDQPmrngIAbBcA=="
 ---
 

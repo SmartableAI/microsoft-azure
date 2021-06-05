@@ -1313,6 +1313,20 @@ related:
         width: 564
         height: 294
         isCached: true
+  - title: "An Overview of Microsoft Azure"
+    excerpt: "Microsoft Azure helps large enterprises meet worldwide data storage privacy needs. It also provides the ability to move data and services between different areas fast and easily. FREMONT, CA: Microsoft Azure is a cloud computing platform that is utilized ..."
+    publishedDateTime: 2021-06-03T04:35:00Z
+    webUrl: "https://www.cioreview.com/news/an-overview-of-microsoft-azure-nid-33746-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/87wfg.Untitled-6.jpg"
+        width: 300
+        height: 350
+        isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
     publishedDateTime: 2020-05-27T20:23:00Z
