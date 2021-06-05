@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
-publishedDateTime: 2021-06-02T02:40:00Z
-originalUrl: "https://www.ryt9.com/en/anpi/250000"
-webUrl: "https://www.ryt9.com/en/anpi/250000"
+excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available ..."
+publishedDateTime: 2021-06-02T02:50:00Z
+originalUrl: "https://www.thaipr.net/en/it_en/3060797"
+webUrl: "https://www.thaipr.net/en/it_en/3060797"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: RYT9
-  domain: ryt9.com
+  name: thaipr.net
+  domain: thaipr.net
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
+  - url: "https://www.thaipr.net/wp-content/uploads/2021/06/Dataiku_Now_Available_Microsoft_Azure_Marketplace.jpg"
     width: 800
     height: 338
     isCached: true
@@ -146,6 +146,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "LPNHE4zuBkXnqVf31Bw8FK6GqVCdKl7SnRIpK2PlGhymnzuuOwZ2C3YylNIHdmC/jXhjUHIncyoYGm53PzKp64kUPdw69RhApRMdNJSps0t+8Z0eS4J6qmi5wuD4sbH8wx1kLkcsRZGc71xCOWpdVMUhl65/eJEtfLbJUfop+NOBt8CO/2MC0pSKYyS7xsvXxuKjd2BkdpEVEAO7SJfe6iPVJTZqk8vetetis+ScmzW3/qVJVSRdjBWY4EHK+y15RXNd4C6SBFIJa5DfBoWCRFSoPvhVoMw02nNdUxAusHFyFGeFlMd1mq46HgshfMQKbPLUUzcEogVLN5rcqAiSI/qumFMEjFYEibSSNopK06w=;bw/+DScU1aQuUZDvOM+w6w=="
+secured: "x0ito0P6X6GNCTClUX/I2nfQb/x8vjef5tO/t0P3zyVe3oHGPjylLrwMPbc78EGU6W+zTMMiJxxUNlmzIYILCqUIfQNzVyUfDugWKeatZf10n5hgIET10l53qPDT9xIyk+96X+dDvuK4jIDF5MEjEMfL0HE54zr7oxNGn9qkBobcYs/JFSsYgwUdLbTLWqZiv7riGZpXgCcyCkPh4rGpax3jp6LpbBnWuhA/LnvdBHbAj5ZpmehYHkyk+gNkbgkgB9uOGZE4sbo1g8cB/sUGxAJHNKiZPDe9goLOhAgeuujdO4mULWwtrtHYK6eGvZn5JYmwBt0ITPRMccxdORSSt1fqKwJMI8gWd+SFaFgOiGk=;HCF0bD/vpjmNJF/S+Eqtfw=="
 ---
 

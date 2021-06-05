@@ -75,16 +75,16 @@ related:
         height: 313
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
-    publishedDateTime: 2021-06-02T02:40:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/250000"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available ..."
+    publishedDateTime: 2021-06-02T02:50:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3060797"
     type: article
     provider:
-      name: RYT9
-      domain: ryt9.com
+      name: thaipr.net
+      domain: thaipr.net
     quality: 37
     images:
-      - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
+      - url: "https://www.thaipr.net/wp-content/uploads/2021/06/Dataiku_Now_Available_Microsoft_Azure_Marketplace.jpg"
         width: 800
         height: 338
         isCached: true
@@ -146,6 +146,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "DxYEba7kYKygBt57IKHDvmHGetGK1e3Fdxte9Ax2aIVcyLpcbPAQdL64eu/1hGtA6Q/IrW19UlnMA7mEj+H/n7qiwbFyDh6B5Ao2t1f0Qe5w1CXqPjp7ORDlBXOWYzf7nglV++YpuX5aB7akYv56pC/3o2sflngK9QVy/kIdc9v8UzEqL5sTsP/xx2ihFJB0hSA8PT0SVKv9/RDVY75nidL70+hRIewe3yZjbQzh/z8JFqUsS3lvY+G3XOjewdmrYsX+M0jQh1TwOGB7G5mL5oAevzAwcJeowjJR81kqEPdOAvJW3/QciuTcD33Axg7F5R3sF+Qj/S8GFSgapPey5wByGbivIlVjQA/LiKwS0ME=;24lT40bJEJvaCgtrvll31Q=="
+secured: "CMd6zVAZQ/b6jpCwqA1GEZODiDMp7Jgt5wT61BPnxQgdBYXK5hN0GfMPN5PrJ3hSf6AP294Hu947twmjTuKJ+9TkjtqmMK12uL+Ns4aG9JB4QGLhdbOWQZbXUq5+xwngXjkSsuDJpozHGO6bN7MiTGzyKZvNpZpHELWHjct1Le+Dl3irQuhR2wERqTQBt6hOGB6Hb0c6DLI29SnlSemT7MJVVlGBgJgTPO2QYeJWeRPpiB5QPwBMSuHqxRincHp/z0vEQp3y+pqjS9g6aIhW6SP0VbWuMeoMNchuZh4Mb3kdxAm/aLascoxqhqPIl/TZgH0BiNMkx5oF1POS81azJmupGVY8fDrqJAKW3U6iwfA=;ojob/hnX3DIMMqvggZ+T6Q=="
 ---
 

@@ -83,16 +83,16 @@ related:
         height: 1414
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
-    publishedDateTime: 2021-06-02T02:40:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/250000"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available ..."
+    publishedDateTime: 2021-06-02T02:50:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3060797"
     type: article
     provider:
-      name: RYT9
-      domain: ryt9.com
+      name: thaipr.net
+      domain: thaipr.net
     quality: 37
     images:
-      - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
+      - url: "https://www.thaipr.net/wp-content/uploads/2021/06/Dataiku_Now_Available_Microsoft_Azure_Marketplace.jpg"
         width: 800
         height: 338
         isCached: true

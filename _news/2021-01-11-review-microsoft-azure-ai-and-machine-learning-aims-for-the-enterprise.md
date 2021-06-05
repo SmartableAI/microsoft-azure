@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
 type: article
 quality: 129
-heat: 1049
+heat: 1069
 published: true
 
 provider:
@@ -460,6 +460,20 @@ related:
     excerpt: "Microsoft Azure is a solid and reliable choice for hosting large websites and applications, and pay-as-you-go pricing ensures you aren’t overcharged. However, tech support is costly on a monthly ..."
     publishedDateTime: 2021-06-01T09:04:00Z
     webUrl: "https://www.tomsguide.com/reviews/microsoft-azure-hosting-review"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/kN7ivEZ4NotxNMHaHhKG6Q-1200-80.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft Azure hosting review"
+    excerpt: "Microsoft Azure is a solid and reliable choice for hosting large websites and applications, and pay-as-you-go pricing ensures you aren’t overcharged. However, tech support is costly on a monthly ..."
+    publishedDateTime: 2021-06-02T21:09:00Z
+    webUrl: "https://www.tomsguide.com/uk/reviews/microsoft-azure-hosting-review"
     type: article
     provider:
       name: Tom's Guide

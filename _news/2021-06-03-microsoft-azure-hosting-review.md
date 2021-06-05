@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft is getting closer to running all of its own services on Azure"
-excerpt: "Microsoft is getting closer to running all of its own services on Azure Credit: TechRepublic Five years ago, Microsoft still wasn't"
-publishedDateTime: 2021-01-13T06:02:00Z
-originalUrl: "https://www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/"
-webUrl: "https://www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/"
-ampWebUrl: "https://www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/amp/"
+title: "Microsoft Azure hosting review"
+excerpt: "Microsoft Azure is a solid and reliable choice for hosting large websites and applications, and pay-as-you-go pricing ensures you aren’t overcharged. However, tech support is costly on a monthly ..."
+publishedDateTime: 2021-06-02T21:09:00Z
+originalUrl: "https://www.tomsguide.com/uk/reviews/microsoft-azure-hosting-review"
+webUrl: "https://www.tomsguide.com/uk/reviews/microsoft-azure-hosting-review"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: Tom's Guide
+  domain: tomsguide.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Microsoft-is-getting-closer-to-running-all-of-its-own.jpg"
-    width: 770
-    height: 578
+  - url: "https://cdn.mos.cms.futurecdn.net/kN7ivEZ4NotxNMHaHhKG6Q-1200-80.jpeg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -291,6 +289,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
+  - title: "Microsoft is getting closer to running all of its own services on Azure"
+    excerpt: "Microsoft is getting closer to running all of its own services on Azure Credit: TechRepublic Five years ago, Microsoft still wasn't"
+    publishedDateTime: 2021-01-13T06:02:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 57
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Microsoft-is-getting-closer-to-running-all-of-its-own.jpg"
+        width: 770
+        height: 578
+        isCached: true
   - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
     excerpt: "By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft and RBC state they’re ensuring these foundational skills are made available without barrier, helping to develop ..."
     publishedDateTime: 2021-01-06T00:00:00Z
@@ -455,20 +469,6 @@ related:
     excerpt: "Microsoft Azure is a solid and reliable choice for hosting large websites and applications, and pay-as-you-go pricing ensures you aren’t overcharged. However, tech support is costly on a monthly ..."
     publishedDateTime: 2021-06-01T09:04:00Z
     webUrl: "https://www.tomsguide.com/reviews/microsoft-azure-hosting-review"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/kN7ivEZ4NotxNMHaHhKG6Q-1200-80.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft Azure hosting review"
-    excerpt: "Microsoft Azure is a solid and reliable choice for hosting large websites and applications, and pay-as-you-go pricing ensures you aren’t overcharged. However, tech support is costly on a monthly ..."
-    publishedDateTime: 2021-06-02T21:09:00Z
-    webUrl: "https://www.tomsguide.com/uk/reviews/microsoft-azure-hosting-review"
     type: article
     provider:
       name: Tom's Guide
@@ -679,6 +679,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "CPFFp+xIeJlW0RX+SzsD+Tzf//DEQamGOPG/2qS2ThNl0jKmPvJ9yJFt+wMMSCAlIYSwvNJx6SBgDlgN3Ur+/cGPn5xWardTttGJf4AF3qmUUBf5M+dzcg5l1KBYV8pnUinQ3aSxkE/8CbpNWS6qPEsMoRbYWSIQzfY04PvltROm5n1cDHaBt3xdAuJXaT+CqHy/erR+VzO8yABLlvjM3v3tlKBHCkDiu4G88ylgbwZtiYHs8foaWZbqybZPW6g0BJD9Zav05fWNptbrUbzFNl5F1L7tOHpPmHJ/9RAwtBbzWdtCdpfr+rdBTsJyPAP+pUNYGrcfLmNmPVVtuSKFzYMvdChLLM7YOdFabmiVSKZ6RZwIc+3FN4MwhcywBUmm02IEtFUTVcLWvBxU9Dv1oirKIasBIMItYBdqrR8gYfUuGtfZ/Y3WaspLO7S2pMaBr7/RegVGPb75qGPPYPyYSfFdu30ows1INVncMEaa7sFfXzHHSePZWBcVSmbzXzkEVMAg7Rb2iFjJuBZz8xygsA==;GSfHZqpO3tTvkssw8XS3yQ=="
+secured: "wMD+V5uvu+2ZunBW5Oc/c3xoB7FGThb9ucrCQTUKpDGSwzwvaDwtw9JDiopXaomIRm84KpOocrZN9IkhZkPmhVmdaQ4LEgJTCey1z30xT7C+KV94XVnkl9MHx/Sy/dlVnZB/YrAeZVgAnAG4rvvh1Cug773cBE9/tLJvT6k2H8F6G6MLGDc05A8A6OJhwVEZPP/rpeWwekWunnJwTzaZQaScBWhaTDt8mpe1VSiZ4AMN0WlTVx5WNVve+Obfq2HAXv/fayiQksQtbiLLOgt/YF4kucvK+t4yhr66lNBKJ9rKl3g8AjX6ZcTCzkI7aCG9cEzJ2nVu+E64o03OGtHrsnZsfK39izNZTkq2oLqQLrg=;JfxlsXRLJfJGqKmGdRllyw=="
 ---
 
