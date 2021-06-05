@@ -134,6 +134,15 @@ related:
       name: IT Business
       domain: itbusiness.ca
     quality: 29
+  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
+    excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
+    publishedDateTime: 2021-06-04T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
   - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
     excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
     publishedDateTime: 2021-06-02T12:03:00Z
@@ -147,20 +156,6 @@ related:
       - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/06/16x9/magnetforensics.60b773162031e.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 673
-        isCached: true
-  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
-    excerpt: "Companies in manufacturing, retail, logistics, warehousing, transportation, and other industries, constantly need to determine logistic charges and increase warehouse and vehicle efficiency."
-    publishedDateTime: 2021-06-04T09:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology/article_1520de70-d64f-5ab7-81a9-702331711b9a.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 8
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/a7/aa78a8c6-83de-5004-b501-de332a69eeea/60b9ebc250460.image.jpg?resize=1200%2C579"
-        width: 1200
-        height: 579
         isCached: true
   - title: "Elastic Announces the General Availability of the New Frozen Tier, Enhanced Analyst Experience With Schema on Read, and First-Party Integration With Microsoft Azure"
     excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced new capabilities and enhancements across its"
