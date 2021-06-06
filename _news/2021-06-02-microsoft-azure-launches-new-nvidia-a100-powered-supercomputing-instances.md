@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-launches-new-nvid
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
 type: article
 quality: 96
-heat: 139
+heat: 138
 published: true
 
 provider:
