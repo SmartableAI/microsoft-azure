@@ -1,18 +1,18 @@
 ---
 category: news
 title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
-excerpt: "Company standardizes on Microsoft Azure infrastructure, deepens integration with Microsoft Cloud services, and aligns on ‘Better Together’ solutionsCHICAGO, June 03, 2021 (GLOBE NEWSWIRE ..."
+excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
 publishedDateTime: 2021-06-03T10:07:00Z
-originalUrl: "https://www.generation-nt.com/imanage-adopts-microsoft-azure-as-global-cloud-platform-newswire-1988873.html"
-webUrl: "https://www.generation-nt.com/imanage-adopts-microsoft-azure-as-global-cloud-platform-newswire-1988873.html"
+originalUrl: "https://www.tmcnet.com/usubmit/-imanage-adopts-microsoft-azure-as-global-cloud-platform-/2021/06/03/9382990.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-imanage-adopts-microsoft-azure-as-global-cloud-platform-/2021/06/03/9382990.htm"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: GNT
-  domain: generation-nt.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -2007,6 +2007,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "ooUQdYfNd0rwWt4gpevs0j13iwgj/gecJCzkpAqAch8w7OehTTM0koQs3rBUiMnkx0SeJP1IJKmEGV0+S7WHHH9Igq7MGkelV17hxjsU6V7t36uKbD2gKl/LcnVY7rGSmNHOkqbsiPhSNL3OjHccsGDQOLg4RYO3mqi+1lP2vp2e31pSYD2EdrtZxKd7xPMo7p48k6ZYlwSuaqqXRcXU9vx8xf+i63qKBDXhv6LZbWOKAD4UEwJiALKht8dJur5KtJuWnn0oc2tboJ6ecF0i3B0eBxJXNSgJKy8SOxSldfoJNR5qg2w+3d5YKnsnxq0244l9ufZ+DeZvr3VG0UTBk8m9Hk2DcSXVScvRied97Yw=;P83CNqDkpml2N24v1Go4Hw=="
+secured: "xKyLbJKW3gnA8akA3wHBXh8k1dUjZ3jG49Xu9s0oVrhTahBqiSSFpQbET0j3Jz5n07UE6lAPU4hBiKRjRKms0w834svIGI8VM1Xx9KhYLNp+BJ8RND+FXGLi9BnNTrun/+6b+o3JvI6MX9/CEQUwLioro9hjxUfpC6wG7cohflC0W2ftjSHX3iGCKB4BvyMsNRD7MbfkVCGDmuY3n2GP/cp1nNZM5c66U7gg6+Hwanox1bf9lB060iP3eO4MQFaDB6fSAbI5eVmxVfcerFxHduKP2fv0Q8Id5h2iG3itZf7myW0HtYYFp3PGHZM7FTZi6VKHytTDC2MPp/KGDHxTkQVNxo4O+8gE6BNkovk2QNo=;6BjNz0tfBkSQoBC5wwayVg=="
 ---
 
