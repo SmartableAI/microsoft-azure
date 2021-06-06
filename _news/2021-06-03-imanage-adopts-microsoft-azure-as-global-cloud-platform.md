@@ -1,18 +1,18 @@
 ---
 category: news
 title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
-excerpt: "Company standardizes on Microsoft Azure infrastructure, deepens integration with Microsoft Cloud services, and aligns on 'Better Together' solutions CHICAGO, June 03, 2021the company dedicated to ..."
+excerpt: "Company standardizes on Microsoft Azure infrastructure, deepens integration with Microsoft Cloud services, and aligns on ‘Better Together’ solutionsCHICAGO, June 03, 2021 (GLOBE NEWSWIRE ..."
 publishedDateTime: 2021-06-03T10:07:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53052460-imanage-adopts-microsoft-azure-as-global-cloud-platform-399.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53052460-imanage-adopts-microsoft-azure-as-global-cloud-platform-399.htm"
+originalUrl: "https://www.generation-nt.com/imanage-adopts-microsoft-azure-as-global-cloud-platform-newswire-1988873.html"
+webUrl: "https://www.generation-nt.com/imanage-adopts-microsoft-azure-as-global-cloud-platform-newswire-1988873.html"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: GNT
+  domain: generation-nt.com
 
 topics:
   - Azure
@@ -2007,6 +2007,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "7YPLOCOhYmmUBLMN+mf0pViJ6l0AekeVao6OQTOWbVhem0zzc7t8VKBnOby98uQUKtn3l9cBv/T0YKiQqr0KWCm4V2Wc+NooxOJTxDUt58ydWv5ZU5WiXvytX1qfweron8ZS/Rmbas8YnZfRZuPTjN63iSzB3a98dI0H7ucVcBanE5R4g+qyvrl17T4FUQvJ7Rn1qRmgK91GH25S3rDNYABVJl6/kkrv/M72QxAQ/rqM4jiGJDEvLy719MaC6bnoM+ITR2uF5vHVhxPZK3XTw3CrDWmxcV52YMahGOQVaJ2zLkskn1qxjRybHAF50+bw66X7MVbZnnsa122p8/srpsPYIKylYCS/CGJk15sojuM=;mACZRhMDLYuSL7Nv/5w60Q=="
+secured: "W4W5oaHSYc4Mlvx+PHZ4SKbRw9cMJkLHIg5EqfAZ6HV9Km2g6ibTho0Lby1BUoortmhC88Lc7JFMX0zGhSZZ/HpuSQgltPe49SIVoyjJzDemV24W27PUgHwIcd7avq+eCCxfO//T0YbpoNZz2EG5caxw8VsTS2pnn/P0bmVVlk6hN0UqT+RPxlifVJFFVcQvN0eZN7VFjrMjnk2a3YGWALS91fmdjZy9ZuIJORBBzrlRAEMqsbASBfgu96kH3ufdD0CLP8pMrz+ft1iQi1tHeFK/+EFtLXF80/SrOJxL2fhi7o7ClEOa7v9JcUVwzlBHUOHtmucUKIUkXF6xZSvt1solXzpSAUU632gGsK8ZdUM=;LWGyHLgk3+4/0vGQvFV8Xw=="
 ---
 
