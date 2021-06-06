@@ -8,7 +8,7 @@ length: PT52M
 ratings:
   count: 565
   average: 4.757522
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "HoaFU5f27T5YQnDGeqI2rXtnvrwsxV9rGsRlw3Y1NAUPmKXgeGLPCy/p76XA46oGSSsiWmLJHah7VaWXeyfLKRiiUKYSQaNeJ7KY7T3Mtrs+3mOfLv7IajBc1WNu0e17Iazuv719HibE3cC3AQAMnykbKQbnnM23T31eoqoc2VKH0L1LS+ykuDyibqWNH7UhB6ZlFjdVnTqTIegfYE+nG1p0gu2oXyB+zbezUtPtdxLQqzsBsf5b/iFPu6pq5R/OHCl5q+qbbVB7j4bQKnYAFLFD3L1fvksYNsEFvibNmuVw+SCbpg0HQL3jZaugUDGQfK7hQMt+CJHDwhZkBHkUZC00e4yWePnS1Yuy7H//1N5Rtpf23IWreQvHcF2lH0+MqsvFlp1r/zQyTHeBdgFHonkXkib++ZYV39Jl32npFa8=;vKB1aCrIGbJ0k31c1hq3yw=="
+secured: "CR8gcWU2qRxImoEGvloQbpl2qewu6m1wi6L1DweBaUdqeopi477yw4BApV53i7NYo9kHth3wT5DesUU9dMfkSVr4UyRxS87HZ1ZDV+KTLVLZbL94Sd7m4FKK6O91qgFqDJVJTOxsv0u/GKwA+PADIKA3pTBe5VGT0mpEQuCyZK3dOoKcGCCqFQyNoMTKrUAAtYq7Wr5xB2GYQhX7JKjG8R9iPBc1Cb5s3Ts9eLVYdBG8jaqoCXmV+efs8fnFhyvBkEArwgj6xP1wrO6x8UWVqpGLKxcgvGi8qMpQ1Yp9e/Wxbuydec12J3r7Bgsb3eG20K17fgIv+kiGGTOI1NlM+aRH9Ff4kzBXdzYh9EUhjs5dOoMWLoKHTyMLw/VSK/NuyTMDEKLJNx82KBaW0V5mAEiVsxRBtxfqL+CJ8h0tstw=;/YCerp1Wf4nb9Ov7vxL24Q=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Explore the Microsoft 365 platform services"
 type: collection
 price: Free
 length: PT4H28M
-heat: 63
+heat: 62
 
 provider:
   name: Microsoft Learn

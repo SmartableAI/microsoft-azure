@@ -4,7 +4,7 @@ excerpt: "Fusion development allows your business to build better applications, 
 type: collection
 price: Free
 length: PT3H9M
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn

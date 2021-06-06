@@ -8,7 +8,7 @@ length: PT57M
 ratings:
   count: 3480
   average: 4.6212645
-heat: 56
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "Dxt1Bxr9j+OouP7Z72mfpRUDHYhKgCE5B8W4d+By+lAuhrVAMxC/+30XNG2lBeIrxhxSEoCf0uHENcybQyuvB6Um5ah5nqQVsQYmv+kEbeqbTbQ2xWrrJwKJ1tyKnk2jgann+u2GX9t3e30ofVXo0GdZh8tJX/+Tdd4DtoAM4lY7OjnmLHgpeyRNBwq3HqT1cyRewhXXM8lYMvw/n0ZLxSG46bFWMO6DMNhmIMmsJpfi4nbHuEh0q7kPLOEhgW4AFM7Gi39Pm0DJJjxHweBVzHnkXqtyT+XMTioST+YNwbNjQG3cRb+3JxGFE6DWTyQQc8tvd10qNakpbb4uuhlvcDYvU06+KNqHRCjsWAoFVFk2Njy+r9dfzAr0sa3449ZAIS/zjDEk3taVvRZiYmKPgMzyJ9kKAk4OHpwPaLUdMNU=;75ea0TY2BzDLHC553xhFkA=="
+secured: "UwMc3uDrxvoPZ0sKpnl2dOE1Tg/LRmVSVE9igOFqCnLJOCbPziFbD2nrEwrqo0tlitsGcWtENAj1E451/a7Mg/lZBuDM5Hl9t9/Hu732BUmWJv0NYEkVsQptccmqXAIB9OSS72ZM6nVs4hBz7TriszCVZ/bjZQ1AZ4N/WI/w1ECxod7/cEFUJr+6sl05wuEde+uWYKMLzowgFLXAqDBlMGbrRP6ZApnl0/aXJsI4k1xtwocQnz8VQUtYjaza7BFibF2cpfosuDOJwDbt0e3ag5YjYSQ6TwFxSAvS1vkOpiTmCcOZTw8aJcqBRhsMcMFTwGLVyoIlNTzDvDOVIkSP5xgwBBB4tPF0xU6exnGBMQRq9hXqXB871WQAV9O51gWqSTfbWEaGCup8iK/PFzwWdmf5rgoXAfANTJYvCBsIVQU=;9ZMqtgmMDdJ2QxBWa43jwg=="
 ---
 
