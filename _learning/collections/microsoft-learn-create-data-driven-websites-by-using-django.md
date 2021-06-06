@@ -4,7 +4,7 @@ excerpt: "Use Django to create data-driven websites."
 type: collection
 price: Free
 length: PT3H0M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
