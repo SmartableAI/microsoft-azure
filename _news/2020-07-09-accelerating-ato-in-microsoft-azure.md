@@ -1888,13 +1888,13 @@ related:
       domain: cio.com
     quality: 17
   - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
-    excerpt: "Company standardizes on Microsoft Azure infrastructure, deepens integration with Microsoft Cloud services, and aligns on ‘Better Together’ solutionsCHICAGO, June 03, 2021 (GLOBE NEWSWIRE ..."
+    excerpt: "Company standardizes on Microsoft Azure infrastructure, deepens integration with Microsoft Cloud services, and aligns on 'Better Together' solutions CHICAGO, June 03, 2021the company dedicated to ..."
     publishedDateTime: 2021-06-03T10:07:00Z
-    webUrl: "https://www.generation-nt.com/imanage-adopts-microsoft-azure-as-global-cloud-platform-newswire-1988873.html"
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53052460-imanage-adopts-microsoft-azure-as-global-cloud-platform-399.htm"
     type: article
     provider:
-      name: GNT
-      domain: generation-nt.com
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 17
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"

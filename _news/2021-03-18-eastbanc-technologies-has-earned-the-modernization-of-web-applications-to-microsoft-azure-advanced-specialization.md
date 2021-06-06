@@ -1899,13 +1899,13 @@ related:
       domain: cio.com
     quality: 17
   - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
-    excerpt: "Company standardizes on Microsoft Azure infrastructure, deepens integration with Microsoft Cloud services, and aligns on ‘Better Together’ solutionsCHICAGO, June 03, 2021 (GLOBE NEWSWIRE ..."
+    excerpt: "Company standardizes on Microsoft Azure infrastructure, deepens integration with Microsoft Cloud services, and aligns on 'Better Together' solutions CHICAGO, June 03, 2021the company dedicated to ..."
     publishedDateTime: 2021-06-03T10:07:00Z
-    webUrl: "https://www.generation-nt.com/imanage-adopts-microsoft-azure-as-global-cloud-platform-newswire-1988873.html"
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53052460-imanage-adopts-microsoft-azure-as-global-cloud-platform-399.htm"
     type: article
     provider:
-      name: GNT
-      domain: generation-nt.com
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 17
   - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
     excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
