@@ -1903,13 +1903,13 @@ related:
       domain: cio.com
     quality: 17
   - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
-    excerpt: "Company standardizes on Microsoft Azure infrastructure, deepens integration with Microsoft Cloud services, and aligns on 'Better Together' solutions CHICAGO, June 03, 2021the company dedicated to ..."
+    excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
     publishedDateTime: 2021-06-03T10:07:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53052460-imanage-adopts-microsoft-azure-as-global-cloud-platform-399.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-imanage-adopts-microsoft-azure-as-global-cloud-platform-/2021/06/03/9382990.htm"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
