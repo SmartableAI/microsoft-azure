@@ -4,7 +4,7 @@ excerpt: "In this edition of Azure Tips and Tricks, learn how you can create a s
 originalUrl: https://youtube.com/watch?v=3Zhk-Hm-7Xg
 type: video
 price: Free
-length: PT4M31S
+length: PT4M30S
 publishedDateTime: 2019-06-04T16:21:47Z
 heat: 50
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "K9PTnEBpAEut1ErBnI+Ym6EEEDJZtExVWj2fr++Ooc4n5XIdI2W5CUCWB5gHhAoAJ2Gl8ukNNKSNr9DVdrGppi1/fC7DRGYdb2ILkG3+428ABPd6D5UgBliFAW2ux9PKTGM50c27rixkfAjCnDZExyPPGr85qLrhdNOYnJ+fs8nTwxWxmCPoSeZS+Ff1YvwJwuWAhE4nJOANv2fPx2XWVlQPJECNmNmy21Y7aBXOjjrSM97MvT5I1W6qBSDR7/d/w97y8954CAFpSb/TQpQ5mdne3tUwN1oY0bmATMNXjnjDUNdgCzTAQeP34BGN/YsVLj2hK2GPl5zEpnjy9n9e5lUkz6M6IWjni2BVqw1AyDYqeELinXcEeXclLvWlV7TNv/SAWxP+hJq+YdiVjakUfzpcFUhzLPoKAhdC6M+BhHo=;I3diSGUz/Ktdte2/d0jJvQ=="
+secured: "/LGiVjbbPaQqZrKImvjl408oTK7JLSkxfQ84SwoTjjcCdBK+NY6m7VGieSbq3jaM7A8ePv3qwVQhX3mrVY+SMdyD+vEuuQdJ+TqX8NTf+fIkTLi1dnnHBvAMYqVd3K0Y+gWf4rDgOmfEYkXgXCly0VKOs4Wfj9lA5Uj472HG2Xqg8zgCxUPUahLscAEiW73v77RLVhbDXH2o1EIryFqllZ+LbOnURbBjvFMrshCUehpSjidPQ3hP6YZFQhrPJdVgRsbX/90hzHiO/1q2HyGQII8r4RoZcZSdtMvaRZLLmKb5QFSiINgqLz7/m5cFyARb46GE8RZSD+4haTKlEh6NOfWNYaO6A9UNKiYpf/NYRDwVe4gseVzWAa1zN2zNL/1GJ+bMxmEGmajLRHHq8oYqc6v9su3ZFw/LMlw/XAODrYM=;r64eWDzACarIbWAKi6MV5A=="
 ---
 
