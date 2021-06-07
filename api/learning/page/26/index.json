@@ -4,6 +4,48 @@
   "page": 26,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-blockchain-learning-solidity.md",
+      "title": "Learn how to use Solidity",
+      "excerpt": "Discover how Solidity can help you program smart contracts for the Ethereum blockchain platform.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-blockchain-learning-solidity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/blockchain-learning-solidity/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 128,
+        "average": 4.7890625
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-blockchain-solidity-ethereum-smart-contracts.md",
       "title": "Write Ethereum smart contracts by using Solidity",
       "excerpt": "Learn how to install tools that you can use to develop smart contracts.",
@@ -760,8 +802,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/child-extension-bicep-templates/",
       "length": "PT36M",
       "ratings": {
-        "count": 5,
-        "average": 5.0
+        "count": 6,
+        "average": 4.8333335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1219,41 +1261,6 @@
       "topics": [
         "Azure",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cloud-storage-overview.md",
-      "title": "Cloud storage overview",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn all about data and get an overview of how it's stored, including local and distributed file systems, databases, and object storage.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-storage-overview/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-storage/",
-      "length": "PT2H43M",
-      "ratings": {
-        "count": 68,
-        "average": 4.8235292
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

@@ -440,8 +440,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2644,
-            "average": 4.4742813
+            "count": 2645,
+            "average": 4.47448
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -648,8 +648,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10572,
-            "average": 4.6754637
+            "count": 10575,
+            "average": 4.6755557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -784,8 +784,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-basic-conversational-intelligence/",
       "length": "PT27M",
       "ratings": {
-        "count": 51,
-        "average": 4.901961
+        "count": 52,
+        "average": 4.9038463
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -827,8 +827,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2946,
-        "average": 4.701629
+        "count": 2947,
+        "average": 4.7017307
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -913,8 +913,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
       "length": "PT40M",
       "ratings": {
-        "count": 2012,
-        "average": 4.695328
+        "count": 2013,
+        "average": 4.6949825
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1040,8 +1040,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 2084,
-        "average": 4.278791
+        "count": 2085,
+        "average": 4.2791367
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1120,8 +1120,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
       "length": "PT54M",
       "ratings": {
-        "count": 1001,
-        "average": 4.75025
+        "count": 1002,
+        "average": 4.750499
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1205,8 +1205,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-computer-vision-service-to-classify-images/",
       "length": "PT32M",
       "ratings": {
-        "count": 1523,
-        "average": 4.6585684
+        "count": 1526,
+        "average": 4.65924
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1241,8 +1241,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 3202,
-        "average": 4.671143
+        "count": 3204,
+        "average": 4.671348
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1327,8 +1327,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sap-certified-offerings/",
       "length": "PT43M",
       "ratings": {
-        "count": 580,
-        "average": 4.8068967
+        "count": 581,
+        "average": 4.807229
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1369,8 +1369,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
       "length": "PT29M",
       "ratings": {
-        "count": 131,
-        "average": 4.7938933
+        "count": 133,
+        "average": 4.7969923
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1448,6 +1448,44 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
+      "title": "Design a geographically distributed application",
+      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 906,
+        "average": 4.6887417
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-design-azure-sql-data-warehouse.md",
       "title": "Design a data warehouse with Azure Synapse Analytics",
       "excerpt": "Learn how to create a data warehouse in Azure Synapse Analytics in minutes to take advantage of massively parallel processing (MPP) and run complex queries at petabyte scale quickly",
@@ -1498,8 +1536,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
       "length": "PT24M",
       "ratings": {
-        "count": 1357,
-        "average": 4.6735444
+        "count": 1359,
+        "average": 4.674025
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1541,8 +1579,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 1386,
-        "average": 4.6522365
+        "count": 1388,
+        "average": 4.6527376
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1574,49 +1612,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-distribute-load-with-traffic-manager.md",
-      "title": "Enhance your service availability and data locality by using Azure Traffic Manager",
-      "excerpt": "Discover how Azure Traffic Manager provides DNS load balancing for your application to improve the performance and availability of your application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-load-with-traffic-manager/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 2984,
-        "average": 4.6209784
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/distribute-load-with-traffic-manager-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     }
   ],
