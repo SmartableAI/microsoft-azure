@@ -130,6 +130,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Amdocs to Offer its BSS/OSS on Microsoft Azure to Operators"
+    excerpt: "Amdocs extends its partnership with Microsoft, widening the availability of its portfolio on Microsoft Azure and the Azure for Operators"
+    publishedDateTime: 2021-06-07T01:10:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/19918-amdocs-to-offer-its-bss-oss-on-microsoft-azure-to-operators"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/04d63a816388b94e314f79610c152242.jpg?t=20210607_010546"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Insight Recognized again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
     excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all"
     publishedDateTime: 2021-05-31T20:02:00Z

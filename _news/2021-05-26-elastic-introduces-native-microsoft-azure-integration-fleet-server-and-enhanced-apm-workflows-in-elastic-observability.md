@@ -126,6 +126,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Amdocs to Offer its BSS/OSS on Microsoft Azure to Operators"
+    excerpt: "Amdocs extends its partnership with Microsoft, widening the availability of its portfolio on Microsoft Azure and the Azure for Operators"
+    publishedDateTime: 2021-06-07T01:10:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/19918-amdocs-to-offer-its-bss-oss-on-microsoft-azure-to-operators"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/04d63a816388b94e314f79610c152242.jpg?t=20210607_010546"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Mindtree has earned the Analytics on Microsoft Azure advanced specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
     publishedDateTime: 2021-06-02T21:14:00Z

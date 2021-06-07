@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
-publishedDateTime: 2021-06-02T15:38:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
-webUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
+title: "Amdocs to Offer its BSS/OSS on Microsoft Azure to Operators"
+excerpt: "Amdocs extends its partnership with Microsoft, widening the availability of its portfolio on Microsoft Azure and the Azure for Operators"
+publishedDateTime: 2021-06-07T01:10:00Z
+originalUrl: "https://www.thefastmode.com/technology-solutions/19918-amdocs-to-offer-its-bss-oss-on-microsoft-azure-to-operators"
+webUrl: "https://www.thefastmode.com/technology-solutions/19918-amdocs-to-offer-its-bss-oss-on-microsoft-azure-to-operators"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Deep
+  domain: thefastmode.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.thefastmode.com/media/k2/items/src/04d63a816388b94e314f79610c152242.jpg?t=20210607_010546"
+    width: 752
+    height: 408
+    isCached: true
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -110,6 +112,15 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
+    publishedDateTime: 2021-06-02T15:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
   - title: "Morgan Stanley goes all in on Microsoft Azure"
     excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
     publishedDateTime: 2021-06-03T10:20:00Z
@@ -123,20 +134,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
-        isCached: true
-  - title: "Amdocs to Offer its BSS/OSS on Microsoft Azure to Operators"
-    excerpt: "Amdocs extends its partnership with Microsoft, widening the availability of its portfolio on Microsoft Azure and the Azure for Operators"
-    publishedDateTime: 2021-06-07T01:10:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/19918-amdocs-to-offer-its-bss-oss-on-microsoft-azure-to-operators"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/04d63a816388b94e314f79610c152242.jpg?t=20210607_010546"
-        width: 752
-        height: 408
         isCached: true
   - title: "Mindtree has earned the Analytics on Microsoft Azure advanced specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
@@ -214,6 +211,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "rzgkHlozr9a8M+Mm08vpKZKOiMMQOrZp4bxpqZ7zggmjcEdfsk4hFTjyjGJIzXkyBdTSw0i1SZgRCuAiNcbkjQVWRdTGqQQkqeQWh45CECBGWXiZxREURTw0MxtpPHiIpneNfeTTSnBHGtQBoB1bRiFwG7eJBQOr98aGBpU24vvX5+NYFSkivToNfxI8fhEZqInEzCPTT2d2e7qCK0Z2r5fMdLRmMsIk2qK5FFGt+5mOROGIVKgaql5ccIs97hZLTpQ4Zn5wj0x/tk70cKNEkrFEeEG2ee+OEMZwY/KmG81zL03il3mJiXrueIjsnnj710ydnHaoVuTjJKE9+RhRofTO60AKRrItCzdE0YeMbeM=;uvwnTzTTcVW+dufPQpj7sQ=="
+secured: "sqNxg6rUVC5kZauFdGfWK3JXlSAvkY/kxZPiHdzOXUrGvQ1fli35LccOQEyX+FZj6mRaOpYnnJYFLcCAAM9SqMs248w/nSC4vHbThUmyAhtHV6FnGXRgYQXsANrPit3eEDRdEsImaCF32lqNp8sf2Fl3wdccvpoTUQRGA6AMI1hr7eJjQhdUTM4VsYuqnZY5uCeOSTJuV89fa9qoZF5AZOT1n4jjKM5ExtqUwaQN7KuQgtr6JLh7ffglFYQrZaoayxvnFaCzAbfOPL0//bJ60Oqt9GE4t2ops+XBcIuWzZxEe0IlKJDhNZV+I6w3YnxTPrhI7NmKfGJn0WDM8YklozbIE+jZKOyURXPoQDxTX4E=;CLtIcG59FWBuhneZRPuJPQ=="
 ---
 
