@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-excerpt: "\"The Analytics on Microsoft Azure advanced specialization will bring our experience in accelerating data discovery and making data-driven business decisions more accessible to those organizations ..."
-publishedDateTime: 2021-06-02T09:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-301303655.html"
-webUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-301303655.html"
+excerpt: "Mindtree , a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
+publishedDateTime: 2021-06-02T07:45:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-mindtree-has-earned-analytics-microsoft-azure-advanced-specialization-/2021/06/02/9381809.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mindtree-has-earned-analytics-microsoft-azure-advanced-specialization-/2021/06/02/9381809.htm"
 type: article
-quality: 51
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
   - Analytics
-
-images:
-  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-    width: 1496
-    height: 785
-    isCached: true
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -179,6 +173,15 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
+    excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
+    publishedDateTime: 2021-06-07T13:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "EU privacy watchdog to investigate EU institutions’ use of Amazon, Microsoft cloud services"
     excerpt: "EU privacy watchdog EDPS opened on Thursday two investigations into EU institutions’ use of cloud computing services provided by Amazon and Microsoft, concerned about the transfer of Europeans ..."
     publishedDateTime: 2021-06-02T09:56:00Z
@@ -212,6 +215,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "0MnCmFFriP7xhYA/X0NcnrUaiiZtfeKN9LYzVdB7ytHj3tD+BufX6jPolVOMjGgqMp0t0acdMmpgZUP4kBUDY5VCDNrjY1BEvevTpsI8fXChGyJRxqoShhVl0E+0CCZYiGK+JNMlha32FZuBbNz+/wBlq0VIHxbyzCKn82P0IKI7UFODCVIwxz8XKa48vOP3up0hqvOIPoTrMNWo204f1ufqZyLT0ejy8wmT6LcJO5Bpt+GObME2+He6oNIlnn2caFb8qtYXAm1ztV+PjqvY8pdfUDGcpZnYjvPWfTKcl4aEForhMdjEvUv1frKIUCnxvk3GIM9R7UektE71QZ/8Bi1o/NV2YIWGKtB2Qe/CJck=;IP1mjV2TYBXUhiLf5bPxKA=="
+secured: "5BXU5MnhMIG8oAbWtwdf26Ixs69BdT0SRT57NB4g+0s9LqRxRLjJjzssxnsklhsJP3RbHmVX0e9/0xfM0/F4gYbEHf/nXcHS0N5auO9ErRHAoBdm1yeMy2CWVUF94XwRDL4fx0lDG6XP1gmFSaY0qZQuPOrlrkR9wFBhw+8lEDz8y2GDhckHXowvGFs5fZIyPkceMjU5dkZDgDoPqpAJLkuDZrzg4V/LSMQrLz07BZsrSlCX2Nkw4EqhwXiE4CcnDkoAzwsNeJWLrlO+tm44zfLObVNKNxpKLhK00asiqamazD6NHbVEE4/uJYIvwebEOKG0HZQI1TcP9rPY0kKVQawYqhAo8S5n6lQB42EyPxA=;eEq/uvkZa5YmvYfLQ7RtBg=="
 ---
 

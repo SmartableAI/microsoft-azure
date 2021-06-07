@@ -1,22 +1,18 @@
 ---
 category: news
-title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
-publishedDateTime: 2021-06-02T15:38:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
-webUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
+title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
+excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
+publishedDateTime: 2021-06-07T13:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -96,6 +92,15 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
+    publishedDateTime: 2021-06-02T15:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
   - title: "Morgan Stanley goes all in on Microsoft Azure"
     excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
     publishedDateTime: 2021-06-03T10:20:00Z
@@ -176,15 +181,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-    excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-    publishedDateTime: 2021-06-07T13:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "EU privacy watchdog to investigate EU institutions’ use of Amazon, Microsoft cloud services"
     excerpt: "EU privacy watchdog EDPS opened on Thursday two investigations into EU institutions’ use of cloud computing services provided by Amazon and Microsoft, concerned about the transfer of Europeans ..."
     publishedDateTime: 2021-06-02T09:56:00Z
@@ -218,6 +214,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "rzgkHlozr9a8M+Mm08vpKZKOiMMQOrZp4bxpqZ7zggmjcEdfsk4hFTjyjGJIzXkyBdTSw0i1SZgRCuAiNcbkjQVWRdTGqQQkqeQWh45CECBGWXiZxREURTw0MxtpPHiIpneNfeTTSnBHGtQBoB1bRiFwG7eJBQOr98aGBpU24vvX5+NYFSkivToNfxI8fhEZqInEzCPTT2d2e7qCK0Z2r5fMdLRmMsIk2qK5FFGt+5mOROGIVKgaql5ccIs97hZLTpQ4Zn5wj0x/tk70cKNEkrFEeEG2ee+OEMZwY/KmG81zL03il3mJiXrueIjsnnj710ydnHaoVuTjJKE9+RhRofTO60AKRrItCzdE0YeMbeM=;uvwnTzTTcVW+dufPQpj7sQ=="
+secured: "tx5ecY3D+B9qpf43tB5CZbqu3l03/nPOgB791a4iM+jiLRmwTSea9Pf4YQbdKZon15bm4cJCGMQ+hTqD9LaXBsGPVbTbkKBIsjLjaQuPcrImlkj47vxosh3EnWGpydzOrG1hosGIxeqb/FETLf52mAnlS8g3eOAryDwbZrHoxqxmMvnas7CPvoYSmDkPFLb/OlL/q0+Yism8CU883edjeRUWLHHTYbE6cGgRpeHHmT93ZbpI8y0awNv4/tSkxev1I8TKit81nyFrewJf9wJsa8E1fw0R7mhZtq+t4DSSXY1xBVEcpXjs8YkDBOQrznvSS5Bb4q4GeJSOXrruQTGSIEYYnssXUsjh7cRCcBB4OqA=;OnbnQNNP9A9eBlcanS1yxg=="
 ---
 
