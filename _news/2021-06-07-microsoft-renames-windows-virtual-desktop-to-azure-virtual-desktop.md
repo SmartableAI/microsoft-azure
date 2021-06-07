@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft’s Windows Virtual Desktop is now Azure Virtual Desktop"
+    excerpt: "As remote work became the default for many companies during the pandemic, it’s maybe no surprise that services like Microsoft’s Windows Virtual Desktop, which gives users access to a fully managed Windows 10 desktop experience from virtually anywhere,"
+    publishedDateTime: 2021-06-07T16:33:00Z
+    webUrl: "https://techcrunch.com/2021/06/07/microsofts-windows-virtual-desktop-is-now-azure-virtual-desktop/"
+    ampWebUrl: "https://techcrunch.com/2021/06/07/microsofts-windows-virtual-desktop-is-now-azure-virtual-desktop/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/07/microsofts-windows-virtual-desktop-is-now-azure-virtual-desktop/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-605772798.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs"
     excerpt: "Nvidia graphics processors are now part of Microsoft's hybrid cloud platform, in your data centre and on the edge of your network."
     publishedDateTime: 2020-05-21T10:55:00Z
@@ -1952,6 +1968,6 @@ related:
       domain: pr.com
     quality: 0
 
-secured: "BTPR/MSwjHXf8exV0jlZpxrRf8k+NjjTf8t7KtGXF3bhE2UpGNLO1KFlBEIGc0PbxWvtaXk3PBrdGbqR9qWGG5q+UEnWhMzgBpm+DYeJ2J8BkXoU8T6fKn7KBlwVF2JaIVr8VSx9QQkfVYz8Iu4nozpE00MrGAS9S7maEyDOgemQUGJm3ZA2jnvxEjwokAgs5d4urT6YZkSJcohyii/77hNmiwC4k4a1Jg/cVoq721Y7ZTH9PW2DMaSB+PY9kuW48DuNCgSnwkQq6x9wjqDQeIqTgevrXuCZ1aMMI8aftKG6MzAS2iVYvdLYE5bqQKMq9qBHRwj4QwGFy1VWDdClB0NirLakwYC8C2QQGK5hqg4=;93I7+JEktQpziBZW/a+JSw=="
+secured: "52bzNItkcQUnZTqfNY8hoNn7zc55jFt11M9YzUSI7dleASNRbbOJBGqgYjCbOSCRJLDg1OqGnIA2eFtewceqR4+OcphM5HrEdSJ8WSpqBg8N0TkFOf8vymZG7+DOrzKD/laIKEVSQjXs9NbwJ9Mm/+sIHPQYHnXUmJW1EZgKe37KrO8z23mJvsUBw/RlGXtVbBlcJ01J2L/DqIvEg6rV1h5IkyANbfJYuf/3xtZFNHeXQM870JEKHzHemIHPPFD2bWZCCgTBDvqb21DclJnXOY9BFLwoUvRMtRULH0IStywuqxeU+Gua0KMUwmXcnVGTjkizbswJC8kaPVlBe/pLEYlJ4L2LE4nTAQntkTCGLsFxK3wnb14a3QfDb2+DxrTzmANYj6VkBFEf9JnkOml/R9Q3hYyEYJS834PbFbTTpQ2LvNwSqjMQ94D9I8l8TWL20IMtrMT40oNZHbrqLwsoQDjmFD1Erq7s197Qy7Vr/lkzfykR+0cSbsBovE6+rxni2Ce3/YIDw+300FTIO+4vog==;T5DLzbZg07RdUBbHkmF56A=="
 ---
 

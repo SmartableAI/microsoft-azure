@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft’s Windows Virtual Desktop is now Azure Virtual Desktop"
+    excerpt: "As remote work became the default for many companies during the pandemic, it’s maybe no surprise that services like Microsoft’s Windows Virtual Desktop, which gives users access to a fully managed Windows 10 desktop experience from virtually anywhere,"
+    publishedDateTime: 2021-06-07T16:33:00Z
+    webUrl: "https://techcrunch.com/2021/06/07/microsofts-windows-virtual-desktop-is-now-azure-virtual-desktop/"
+    ampWebUrl: "https://techcrunch.com/2021/06/07/microsofts-windows-virtual-desktop-is-now-azure-virtual-desktop/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/07/microsofts-windows-virtual-desktop-is-now-azure-virtual-desktop/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-605772798.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "A Closer Look At Azure Arc – Microsoft’s Hybrid And Multi-Cloud Platform"
     excerpt: "With Azure IoT Edge, Azure Stack Edge and Azure Arc, Microsoft covers the whole spectrum spanning the edge, data center, and the cloud."
     publishedDateTime: 2020-05-24T15:54:00Z

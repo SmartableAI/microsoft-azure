@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-07T09:00:09Z
 originalUrl: "https://azure.microsoft.com/blog/azure-api-for-fhir-enables-health-organizations-to-deliver-cms-patient-access-and-provider-directory-apis/"
 webUrl: "https://azure.microsoft.com/blog/azure-api-for-fhir-enables-health-organizations-to-deliver-cms-patient-access-and-provider-directory-apis/"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Azure
   - Migration
+  - Databases
 
 secured: "mO1m4sIdWqoTNmorPFbA/gwMRz5otoPgNbILuvRGmVX1iDtszhLTg1XjQdlEDJHwgrrJN2YBqmtJU08QDeuWxQ9ds1UR8u6QNpDVBfWADz5XrA5DNeZq20qSsU2fg7zKgFmSprmKpxc2lQRSRI+tAG/acX5LLSCmJViN45x0L25az85Q/m8mYsh496VhVLuIuOg6AULfc3/+c1XO11q5SrIjNHDzjHc2uOe2XWCf4JeMAIcKgcaUqIOLOZ8df/QZNq7TDDweID/tSbsE8dXfQ0bWwddXuDv6af3zlikenEgNwL2RcSKni7Pv4qyuf3qL2Lf9NFLjuVyKk1MS+SJZeyQlBL6YP3T7ytHCsR3F1WU=;tWNdo04tN7XmfZDKqclCmg=="
 ---

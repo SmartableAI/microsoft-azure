@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft’s Windows Virtual Desktop is now Azure Virtual Desktop"
+    excerpt: "As remote work became the default for many companies during the pandemic, it’s maybe no surprise that services like Microsoft’s Windows Virtual Desktop, which gives users access to a fully managed Windows 10 desktop experience from virtually anywhere,"
+    publishedDateTime: 2021-06-07T16:33:00Z
+    webUrl: "https://techcrunch.com/2021/06/07/microsofts-windows-virtual-desktop-is-now-azure-virtual-desktop/"
+    ampWebUrl: "https://techcrunch.com/2021/06/07/microsofts-windows-virtual-desktop-is-now-azure-virtual-desktop/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/07/microsofts-windows-virtual-desktop-is-now-azure-virtual-desktop/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-605772798.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs"
     excerpt: "Nvidia graphics processors are now part of Microsoft's hybrid cloud platform, in your data centre and on the edge of your network."
     publishedDateTime: 2020-05-21T10:55:00Z

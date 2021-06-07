@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-publishedDateTime: 2021-06-07T13:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
+excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization,"
+publishedDateTime: 2021-06-07T13:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+    width: 1616
+    height: 846
+    isCached: true
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -214,6 +220,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "tx5ecY3D+B9qpf43tB5CZbqu3l03/nPOgB791a4iM+jiLRmwTSea9Pf4YQbdKZon15bm4cJCGMQ+hTqD9LaXBsGPVbTbkKBIsjLjaQuPcrImlkj47vxosh3EnWGpydzOrG1hosGIxeqb/FETLf52mAnlS8g3eOAryDwbZrHoxqxmMvnas7CPvoYSmDkPFLb/OlL/q0+Yism8CU883edjeRUWLHHTYbE6cGgRpeHHmT93ZbpI8y0awNv4/tSkxev1I8TKit81nyFrewJf9wJsa8E1fw0R7mhZtq+t4DSSXY1xBVEcpXjs8YkDBOQrznvSS5Bb4q4GeJSOXrruQTGSIEYYnssXUsjh7cRCcBB4OqA=;OnbnQNNP9A9eBlcanS1yxg=="
+secured: "aUZml2AC4zSWxbN0rYqlHYM2WAm1Z8T2L/29mNw/vFCa8TbwXl2YvelZSjUPJNAzSNZd/YhonurMY40GbdaQhi9/7GGTP1bpoVB97yjcRmFdogFABbiFypay/O4Zr9fzV0sl3fxtS59736n78za9e7MV1KZ3f++BHlRO4UqKWq7pBocJZAwwnSJa7xf4UeAC0ojhEqw6ECyhxnudyeeWL3hweKh02W14mYJuXhPOU/WqZqFjos6AOr5r+GXD0ZapFMg961vl22w7LmpwvVW4D/xhQ9LNHS227jAXdXlV/fcnFtzzRdISmonfRsa+HmJz9AXzvYinkcMeskdjQMwy3VfeLCEcqD713H2Ns5hpbYY=;8Os3CS08UuYLPJyJ2ogf0g=="
 ---
 
