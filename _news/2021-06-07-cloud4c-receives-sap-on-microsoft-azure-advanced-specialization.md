@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization,"
-publishedDateTime: 2021-06-07T13:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
-webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
+publishedDateTime: 2021-06-07T13:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385042.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385042.htm"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
-    width: 1616
-    height: 846
-    isCached: true
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -220,6 +214,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "aUZml2AC4zSWxbN0rYqlHYM2WAm1Z8T2L/29mNw/vFCa8TbwXl2YvelZSjUPJNAzSNZd/YhonurMY40GbdaQhi9/7GGTP1bpoVB97yjcRmFdogFABbiFypay/O4Zr9fzV0sl3fxtS59736n78za9e7MV1KZ3f++BHlRO4UqKWq7pBocJZAwwnSJa7xf4UeAC0ojhEqw6ECyhxnudyeeWL3hweKh02W14mYJuXhPOU/WqZqFjos6AOr5r+GXD0ZapFMg961vl22w7LmpwvVW4D/xhQ9LNHS227jAXdXlV/fcnFtzzRdISmonfRsa+HmJz9AXzvYinkcMeskdjQMwy3VfeLCEcqD713H2Ns5hpbYY=;8Os3CS08UuYLPJyJ2ogf0g=="
+secured: "X/IYY2bwI3X/8zA71+ZTs5eNaMaw4wv3TbfleVA+GVdd4WwBnot7ZguP7w8B0JQUsqrxQeeMSHYpvr1JrTuD2p5krv/eqVUDE7Qo/8XosLApQPHB/sCJOfSOKGsnfuw5OJ5Il316Sd99lhPGNvn+zy8lkWkbcmC2G2ZQoreZU6V8eXaVKV3W1RxM2Ps9N7a/XBX2Zoc+PGawk1GZTw+lTGDazMiVHNbKaIOadDosU/rDMp3sxPTt7QsQXD82sZi6/6nVILCtnCmmh/hRqLt+YqtlK4J/csEivFm+exztS2GIbZSLhcJwvXE/t4nzTv0O3L473YnuLKLr2rT8XQbI3D8azXSqfnMzHfODjuknTyM=;fZmI7p9ydN+NfBaM/7kYOw=="
 ---
 
