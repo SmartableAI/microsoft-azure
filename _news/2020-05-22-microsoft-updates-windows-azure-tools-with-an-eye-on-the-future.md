@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/microsoft-updates-windows-azure-tools-wit
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=true"
 type: article
 quality: 97
-heat: 2777
+heat: 2797
 published: true
 
 provider:
@@ -1333,6 +1333,20 @@ related:
     images:
       - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
         width: 600
+        height: 600
+        isCached: true
+  - title: "Microsoft Renames Windows Virtual Desktop to Azure Virtual Desktop"
+    excerpt: "Microsoft announced today that it is renaming Windows Virtual Desktop to Azure Virtual Desktop and is adding new capabilities to the service."
+    publishedDateTime: 2021-06-07T13:34:00Z
+    webUrl: "https://www.thurrott.com/cloud/251052/microsoft-renames-windows-virtual-desktop-to-azure-virtual-desktop"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 37
+    images:
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2021/06/wvd-in-browser.jpg"
+        width: 1066
         height: 600
         isCached: true
   - title: "Microsoft's Finds Place For Yammer, Video Conferencing Market Heats Up & More News"

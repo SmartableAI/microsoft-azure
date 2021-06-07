@@ -1338,6 +1338,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Microsoft Renames Windows Virtual Desktop to Azure Virtual Desktop"
+    excerpt: "Microsoft announced today that it is renaming Windows Virtual Desktop to Azure Virtual Desktop and is adding new capabilities to the service."
+    publishedDateTime: 2021-06-07T13:34:00Z
+    webUrl: "https://www.thurrott.com/cloud/251052/microsoft-renames-windows-virtual-desktop-to-azure-virtual-desktop"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 37
+    images:
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2021/06/wvd-in-browser.jpg"
+        width: 1066
+        height: 600
+        isCached: true
   - title: "Microsoft's Finds Place For Yammer, Video Conferencing Market Heats Up & More News"
     excerpt: "When Microsoft introduced Teams in March 2017, creating another communication tool at the heart of Office 365 running in tandem with Yammer, it really put a question mark over the role and purpose of the app."
     publishedDateTime: 2020-05-15T13:01:00Z

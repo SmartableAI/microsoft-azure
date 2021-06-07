@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Modern VDI Solutions with Microsoft Azure"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-11-29T21:00:00Z
-originalUrl: "https://www.computerworld.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
-webUrl: "https://www.computerworld.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+title: "Microsoft Renames Windows Virtual Desktop to Azure Virtual Desktop"
+excerpt: "Microsoft announced today that it is renaming Windows Virtual Desktop to Azure Virtual Desktop and is adding new capabilities to the service."
+publishedDateTime: 2021-06-07T13:34:00Z
+originalUrl: "https://www.thurrott.com/cloud/251052/microsoft-renames-windows-virtual-desktop-to-azure-virtual-desktop"
+webUrl: "https://www.thurrott.com/cloud/251052/microsoft-renames-windows-virtual-desktop-to-azure-virtual-desktop"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: Thurrott
+  domain: thurrott.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-    width: 300
-    height: 300
+  - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2021/06/wvd-in-browser.jpg"
+    width: 1066
+    height: 600
     isCached: true
 
 related:
@@ -1304,6 +1304,20 @@ related:
         height: 450
         isCached: true
   - title: "Modern VDI Solutions with Microsoft Azure"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2020-11-29T21:00:00Z
+    webUrl: "https://www.computerworld.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Modern VDI Solutions with Microsoft Azure"
     excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
     publishedDateTime: 2020-11-30T18:55:00Z
     webUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
@@ -1329,20 +1343,6 @@ related:
     images:
       - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
         width: 600
-        height: 600
-        isCached: true
-  - title: "Microsoft Renames Windows Virtual Desktop to Azure Virtual Desktop"
-    excerpt: "Microsoft announced today that it is renaming Windows Virtual Desktop to Azure Virtual Desktop and is adding new capabilities to the service."
-    publishedDateTime: 2021-06-07T13:34:00Z
-    webUrl: "https://www.thurrott.com/cloud/251052/microsoft-renames-windows-virtual-desktop-to-azure-virtual-desktop"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 37
-    images:
-      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2021/06/wvd-in-browser.jpg"
-        width: 1066
         height: 600
         isCached: true
   - title: "Microsoft's Finds Place For Yammer, Video Conferencing Market Heats Up & More News"
@@ -1952,6 +1952,6 @@ related:
       domain: pr.com
     quality: 0
 
-secured: "K4OAHLB8jg3yj2BLfFrck7Rz6hFGev6RjFBgs2ScRaJqhqOIEF1ifYa9ZBBa0aUBLgM3t99SoWobPTzHQJ6p+h50Ct65CYqJNsOak8lo5DPnfIOA83JNA55R1I2P7BjD4n36TytUl5gLF/D6YYp3lXW18TZtnFL+4+yfRl4qraYaoKkI4dH6KM28vyP7/dQPh/k4gpEF0xiVMwS2z+xnU6s1f9ObUJnw0nL8Wu5kfL5ZY9j6IZDwWqQvU9sLq/EghSrEvbm4+d7DPuenwW6VU16unHLBOo3pjeoDMHeS/AsXtuj5tV8sHsBkXXFLiezEt1MKAQBpepvsRCsqJZHgojQ+S1BQuVhFQ3DTtN5HVig=;NUMlQPnBYKke5rKdFrPkVA=="
+secured: "BTPR/MSwjHXf8exV0jlZpxrRf8k+NjjTf8t7KtGXF3bhE2UpGNLO1KFlBEIGc0PbxWvtaXk3PBrdGbqR9qWGG5q+UEnWhMzgBpm+DYeJ2J8BkXoU8T6fKn7KBlwVF2JaIVr8VSx9QQkfVYz8Iu4nozpE00MrGAS9S7maEyDOgemQUGJm3ZA2jnvxEjwokAgs5d4urT6YZkSJcohyii/77hNmiwC4k4a1Jg/cVoq721Y7ZTH9PW2DMaSB+PY9kuW48DuNCgSnwkQq6x9wjqDQeIqTgevrXuCZ1aMMI8aftKG6MzAS2iVYvdLYE5bqQKMq9qBHRwj4QwGFy1VWDdClB0NirLakwYC8C2QQGK5hqg4=;93I7+JEktQpziBZW/a+JSw=="
 ---
 

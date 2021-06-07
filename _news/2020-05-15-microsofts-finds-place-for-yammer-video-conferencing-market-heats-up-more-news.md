@@ -1347,6 +1347,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Microsoft Renames Windows Virtual Desktop to Azure Virtual Desktop"
+    excerpt: "Microsoft announced today that it is renaming Windows Virtual Desktop to Azure Virtual Desktop and is adding new capabilities to the service."
+    publishedDateTime: 2021-06-07T13:34:00Z
+    webUrl: "https://www.thurrott.com/cloud/251052/microsoft-renames-windows-virtual-desktop-to-azure-virtual-desktop"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 37
+    images:
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2021/06/wvd-in-browser.jpg"
+        width: 1066
+        height: 600
+        isCached: true
   - title: "RateLinx completes migration to Microsoft Azure to better serve customers"
     excerpt: "MADISON, WI (May 21, 2020) – RateLinx announced today the completion of the migration to the Microsoft Azure cloud computing platform. The migration will enable more capabilities within the RateLinx suite of cloud-based logistics solutions, in addition ..."
     publishedDateTime: 2020-05-21T23:34:00Z
