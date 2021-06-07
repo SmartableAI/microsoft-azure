@@ -4,18 +4,16 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-foster-ai-culture-marketing.md",
-      "title": "Discover how to foster an AI-ready culture in marketing",
-      "excerpt": "Learn the necessary cultural changes for enterprise marketing organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-marketing/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-marketing/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 745,
-        "average": 4.7691274
-      },
+      "path": "_learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday.md",
+      "title": "Retro Game Translation with Azure Cognitive Services and IoT Edge | Azure Friday",
+      "excerpt": "Paul DeCarlo shows Scott Hanselman how Azure IoT Edge enables you to deploy cloud intelligence locally on edge devices.  By moving certain workloads to the edge of your network, your devices spend less time communicating with the cloud, can react more quickly to local changes, and operate reliably even",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=atga5uMsrYY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/atga5uMsrYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M2S",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
@@ -26,68 +24,23 @@
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
+      "publishedDateTime": "2021-05-07T09:56:11-07:00",
       "heat": 131,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-marketing-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://i.ytimg.com/vi/atga5uMsrYY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tune-hyperparameters-with-azure-machine-learning.md",
-      "title": "Tune hyperparameters with Azure Machine Learning",
-      "excerpt": "Choosing optimal hyperparameter values for model training can be difficult, and usually involved a great deal of trial and error. With Azure Machine Learning, you can leverage cloud-scale experiments to tune hyperparameters.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tune-hyperparameters-with-azure-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tune-hyperparameters-with-azure-machine-learning/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 592,
-        "average": 4.766892
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/tune-hyperparameters-with-azure-machine-learning-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "AI"
+        "AI",
+        "IoT"
       ]
     },
     {
@@ -121,8 +74,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 15146,
-            "average": 4.762644
+            "count": 15159,
+            "average": 4.7627153
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -166,8 +119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 12684,
-            "average": 4.6374173
+            "count": 12690,
+            "average": 4.637431
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -209,8 +162,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 11104,
-            "average": 4.768282
+            "count": 11111,
+            "average": 4.7683377
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -252,8 +205,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 15603,
-            "average": 4.7299876
+            "count": 15612,
+            "average": 4.7300797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -347,8 +300,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 9173,
-            "average": 4.7856755
+            "count": 9183,
+            "average": 4.785582
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -390,8 +343,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 10543,
-            "average": 4.774827
+            "count": 10547,
+            "average": 4.7748175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -433,8 +386,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 6883,
-            "average": 4.776115
+            "count": 6888,
+            "average": 4.775987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -480,8 +433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 7975,
-            "average": 4.723386
+            "count": 7977,
+            "average": 4.723455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -572,8 +525,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 15298,
-            "average": 4.7593803
+            "count": 15302,
+            "average": 4.759378
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -634,8 +587,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 15603,
-        "average": 4.7299876
+        "count": 15612,
+        "average": 4.7300797
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -680,8 +633,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 15298,
-        "average": 4.7593803
+        "count": 15302,
+        "average": 4.759378
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -723,8 +676,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 10543,
-        "average": 4.774827
+        "count": 10547,
+        "average": 4.7748175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -963,8 +916,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-basic-conversational-intelligence/",
           "length": "PT27M",
           "ratings": {
-            "count": 50,
-            "average": 4.9
+            "count": 51,
+            "average": 4.901961
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1006,8 +959,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-language-understanding-intelligent-service-apps/",
           "length": "PT24M",
           "ratings": {
-            "count": 199,
-            "average": 4.7738695
+            "count": 200,
+            "average": 4.775
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1219,8 +1172,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
           "length": "PT34M",
           "ratings": {
-            "count": 1514,
-            "average": 4.7021136
+            "count": 1515,
+            "average": 4.70165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1262,8 +1215,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
           "length": "PT39M",
           "ratings": {
-            "count": 1385,
-            "average": 4.6519856
+            "count": 1386,
+            "average": 4.6522365
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1305,8 +1258,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
           "length": "PT24M",
           "ratings": {
-            "count": 1356,
-            "average": 4.6733036
+            "count": 1357,
+            "average": 4.6735444
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1390,8 +1343,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 1370,
-            "average": 4.742336
+            "count": 1371,
+            "average": 4.741794
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1426,8 +1379,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
           "length": "PT29M",
           "ratings": {
-            "count": 1210,
-            "average": 4.723967
+            "count": 1212,
+            "average": 4.7211223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1470,8 +1423,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 1074,
-            "average": 4.6918063
+            "count": 1075,
+            "average": 4.692093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1923,8 +1876,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
           "length": "PT45M",
           "ratings": {
-            "count": 1204,
-            "average": 4.662791
+            "count": 1205,
+            "average": 4.6630707
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2123,8 +2076,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
           "length": "PT45M",
           "ratings": {
-            "count": 1204,
-            "average": 4.662791
+            "count": 1205,
+            "average": 4.6630707
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2340,7 +2293,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-marketing-social.png",
@@ -4682,6 +4635,50 @@
           "width": 800,
           "height": 400,
           "title": "Predict categories with machine learning classification",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-regression.md",
+      "title": "Predict numeric values with regression",
+      "excerpt": "Use machine learning regression models to predict numeric values. Build multiple variations of linear regression models to estimate things like internet traffic.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-regression/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-regression/",
+      "length": "56 mins",
+      "ratings": {
+        "count": 606,
+        "average": 4.6254125
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-regression-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Predict numeric values with regression",
           "isCached": true
         }
       ],
