@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-excerpt: "Mindtree , a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
-publishedDateTime: 2021-06-02T07:45:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-mindtree-has-earned-analytics-microsoft-azure-advanced-specialization-/2021/06/02/9381809.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-mindtree-has-earned-analytics-microsoft-azure-advanced-specialization-/2021/06/02/9381809.htm"
+excerpt: "\"The Analytics on Microsoft Azure advanced specialization will bring our experience in accelerating data discovery and making data-driven business decisions more accessible to those organizations ..."
+publishedDateTime: 2021-06-02T09:05:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-301303655.html"
+webUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-301303655.html"
 type: article
-quality: 31
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - Analytics
+
+images:
+  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+    width: 1496
+    height: 785
+    isCached: true
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -206,6 +212,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "IjboIrIvgmAyTYzfU+KMqpL/iqC1blt5eOgSxAUAIkI018tiJtGw3QeYVOiHt0JZsSlYujVYWVPaZyhuxPbMcpJwc6G44nygDNbS90RXOaYaLEmOYmaTi5ZsgMG59ige90y2Ni7PE1XEhJhFnp2/jreRSvwMjov0oa1ezF3jN0BHGcKB0Y+WmMjXg7rmD7gnvo+rBhzHxIZBwOAocosY4oQ2Z2yoMzGRrOVGpNmKf4HwmIO8Cdl3dMVvq7L7K6yBrPPH3rvHGTnMfhQ40KAhUvGvPoC/07XLIMuxjrk7OkUDlfnT+V5MdZvpCaGnN01A8221WDnQe9YUJGAH6dA7gD7tZbzmZjAKs37AYqFousA=;0Q2pAzDKAn6LGZZ8IjToyA=="
+secured: "NoCX9knXxPbONWyJvBXFJlLTuv/JWyBtK4RjeZuBtNJ7KPKgfrGDIj6ry7BkTBMMqABJGh4T1VaeD17cgYGBZ6rUlXOjhj6u8jWiFvLnPoDCPUq+e7nKneqAmdJyqT2XBkTrQxj8b1XlSCcFzdcOvgzQ19vLNReJQ3MZcaTtYcQnxBNfnGkgHKTYkGHM/2qQx4GbsJlXj34yzsyocl3ALfF13Duevg3oh8HZwR5f+EF7+cGgrvWrPOfEvKdR63RqgC3HQb3iSJsdPaNE91HzypU/W0qh9CmBOV+aTfGxEMyFzAzWBiXeYPegF1K2htZQLnATKg5DlcXaHdvbfdYTCZOBSLU+HbBlYC/8/3MwZzA=;mkJVqWRhDdCZbWNGdfGI9w=="
 ---
 
