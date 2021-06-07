@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
 type: article
 quality: 97
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 57
+  - title: "General availability: Update in Policy Compliance for Resource Type Policies"
+    excerpt: "Azure Policy built-in policies in which resource type is the only evaluation criterion (e.g. Allowed Resource Types, Disallowed Resource Types) have updated logic to provide a more accurate assessment of your overall environment when aggregated with other policies."
+    publishedDateTime: 2021-06-07T20:19:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-update-in-policy-compliance-for-resource-type-policies/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 49
 
 secured: "UBETId48a7quUTfSzcv4jQk0UyVJURsmJIJg7mCl3Z5+OkBII5YA0paecU8P6FsdfbZwixRB43i+R6tekF+ZwPtCoumcfIdfNBL40xwrFLnn0FRt65uBDZ3g//tVQdymTd1N6ENxQ7Bzpr4eBsuXELK+j1UJ+lsphlBkynJTi7U9qsCbaQ+A6TEwUpWJ7XLOUuA3jBRbJ2ZL0wQNs1lo6PAG+BeKIgVwu+QpoD2+0Q7k+sfwK6cBEh174YpI1wWVX6uxw4c+peajxFqRP44H2VQkrpIMXAHYFIsNf640u0wV0HMKNEKEqimxjiXGJkAtT4YcnqDsFq7pNjQRE3ldkzbQXMB4wNb6WnkCxJ2lBco=;9Wtv0gG/5jedWvXGD88I8g=="
 ---

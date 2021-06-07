@@ -67,6 +67,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 57
+  - title: "General availability: Update in Policy Compliance for Resource Type Policies"
+    excerpt: "Azure Policy built-in policies in which resource type is the only evaluation criterion (e.g. Allowed Resource Types, Disallowed Resource Types) have updated logic to provide a more accurate assessment of your overall environment when aggregated with other policies."
+    publishedDateTime: 2021-06-07T20:19:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-update-in-policy-compliance-for-resource-type-policies/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 49
 
 secured: "gTHyckxn3YiLvy9eY8Jk7+Dmz5TMLm1Ntr48tDUZNhL21olZoOPKYdFmpL9dLX0s0pUA/ksYv3IW/ADt4gPWjvcvCIPDgVR8xCIwYt16DEUyNTxi+IHSMyhu4N5TawjVj46IBCVhWhR+jt7qHj8taw7TiPqfHlIUFausRSVpxBPvcZgxV1UGRaxt7bFggm0x4S0/c39IviiL2uZqfe3gP5lRtRk2p1d+0cqGBu43gwaEzackrkvKRci18k3j1kntIWG4A8huxCP3m8QFWi4KrCofRKcJ1sJfqKGwk3lOvG2OI7erXdQRBKJ8L5Z01CRIEeceFg1R2uk/iLywEdreRNWe/BjlPyIiI6kDDxo8Dzk=;aAA3YkdrsuKOPyH1GlM+6Q=="
 ---

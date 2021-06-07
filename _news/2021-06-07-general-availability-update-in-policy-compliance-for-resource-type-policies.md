@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Azure DevOps updates for May 2021"
-excerpt: "There are several new announcements for May 2021 including repos as protected resource in YAML pipelines and updates to Delivery Plans 2.0."
-publishedDateTime: 2021-05-11T19:48:53Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-git-repositories-can-now-be-treated-as-protected-resources-in-yaml-pipelines/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-git-repositories-can-now-be-treated-as-protected-resources-in-yaml-pipelines/"
+title: "General availability: Update in Policy Compliance for Resource Type Policies"
+excerpt: "Azure Policy built-in policies in which resource type is the only evaluation criterion (e.g. Allowed Resource Types, Disallowed Resource Types) have updated logic to provide a more accurate assessment of your overall environment when aggregated with other policies."
+publishedDateTime: 2021-06-07T20:19:54Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-update-in-policy-compliance-for-resource-type-policies/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-update-in-policy-compliance-for-resource-type-policies/"
 type: article
-quality: 84
+quality: 49
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - DevOps
 
 related:
   - title: "General availability: Azure Machine Learning updates for native terminal  "
@@ -36,6 +35,15 @@ related:
     excerpt: "Azure Log Analytics for May 2021 include a new and updated experience for custom logs management and pinned parts filter integration."
     publishedDateTime: 2021-05-05T16:00:31Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-log-analytics-ui-updates-may-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Azure DevOps updates for May 2021"
+    excerpt: "There are several new announcements for May 2021 including repos as protected resource in YAML pipelines and updates to Delivery Plans 2.0."
+    publishedDateTime: 2021-05-11T19:48:53Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-git-repositories-can-now-be-treated-as-protected-resources-in-yaml-pipelines/"
     type: article
     provider:
       name: Microsoft
@@ -68,16 +76,7 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 57
-  - title: "General availability: Update in Policy Compliance for Resource Type Policies"
-    excerpt: "Azure Policy built-in policies in which resource type is the only evaluation criterion (e.g. Allowed Resource Types, Disallowed Resource Types) have updated logic to provide a more accurate assessment of your overall environment when aggregated with other policies."
-    publishedDateTime: 2021-06-07T20:19:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-update-in-policy-compliance-for-resource-type-policies/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 49
 
-secured: "uFo0d15AXrdaAa7C4WSrHg/+20tWckL8+G77KCgCJNdBAIPZxkPuEwnMWIfXslIYm5SvqJlHrPRtoRl+pqPx0e7pRsboattrD5HW0OpfGglgReB6mvjOyA2v8CAHhDJDvAqxLc43uZFAZfJM1tR/FwNTV9q5gWxgYTMEzXodg2Q6krWxF3dlNzIa4eESmNe0I75xrFZ8+Jd6+dJPCTNx3i8xGWopW5A5w7A684ayfk4KwXYJgXPhQvnoZi3hMxS+Nv5hP24yrbEV6Pwl4NuQJxfxXVxz6CPRivJ+Eq3rWti0AXGrIK6jqKjMaWghHErYUBiAHIfpjE4Clgi9HCMoeyl59+aFj5+7EME1NjsqBrI=;LUa/k6CwhlhrgdD+xP/5Kg=="
+secured: "WAwaPwlH7lUEHRigsOtxN+mg1Wih16KcoAR0FjNcm/dZXc+yzABbjKPQShQ98eOfLhC/xllN+mC2ZlxrI97cz9eOyeiu0oJzyHvPy+qSz4mijKcBz88PYO4yhp0fxFHCn6F1aPMdOWE3Is3BXc0/7QLvY5/GjB/MjJqHW4ODI1wtSrYIMss6+Cl47Ghl4C1YrFQ4urcSJiNv5q/29hZ+8eVAbEF7EmEMksJW4hTrY7fpNn1E2LEjTs9hTUJ7eQdvqFznUR1ydcTJk8crREbWDRQcsia0ngkhUM34G2+LlIuO2mTpKeZp1rZLRb0jc4GMeGqNMLK4b4kojegJbk/XcNVzaV8Krnlta44vTbejh4w=;rMQ2Fl5NrvEI8e6ruaAbrQ=="
 ---
 
