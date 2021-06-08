@@ -4,7 +4,7 @@ excerpt: "Learn how Bicep enables you to manage both basic and complex infrastru
 type: collection
 price: Free
 length: PT4H37M
-heat: 60
+heat: 62
 
 provider:
   name: Microsoft Learn
