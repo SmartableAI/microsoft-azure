@@ -3,8 +3,8 @@ category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
 excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
 publishedDateTime: 2021-06-07T13:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385042.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385042.htm"
 type: article
 quality: 17
 heat: -1
@@ -75,6 +75,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1622625655.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Mindtree Earned the Analytics on Microsoft Azure Advanced Specialization"
+    excerpt: "Mindtree, a global technology services and digital transformation company, has declared that it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
+    publishedDateTime: 2021-06-08T06:01:00Z
+    webUrl: "https://www.cioapplications.com/news/mindtree-earned-the-analytics-on-microsoft-azure-advanced-specialization-nid-7883.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 53
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/frrqr450308.jpg"
+        width: 450
+        height: 308
         isCached: true
   - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
     excerpt: "\"The Analytics on Microsoft Azure advanced specialization will bring our experience in accelerating data discovery and making data-driven business decisions more accessible to those organizations ..."
@@ -230,6 +244,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "zvqwTuF51zdf3GwpmfQxEMK5XnSY/kMg9chdD3QyMR2BhcSKroBjSi7pzaBVGWCaUm+QGy3PgmEk1sXlphVG19V92kbxUQRRoI9WX4gLCi6FrMkT6HL5lbMAbazJOCxC/aoU8Csv38Ov3MOSSuyROSzAR5hzHkalx5gCqpNYl08ppEN7cpTkYUrKEJD5diPj3vTbU1tYKfAkWA71HdYilJ80k9P6vIXx7p6IMVyDvPGQSb/LNfCq9KMCH2Izgrwlju57lKdXIBjeCXWC6jgYhV8Dfi43XOH+nWdlime42GT9n9jyc9mWaXzoXUfUUO5dQpaRiMwLO0vfRGwKijAPSiaCE9uiJbeYafWw4YJFyhQ=;TQWaZgsOaMY8O9F/PFLJWA=="
+secured: "rIbRM6g0XsoCddD1vRuXGgCz8cTAL5MYf179CUtlCbkjk2cDJ5z0hUQUmP43jdj3QTgpzNFzLGnzWMIjKmOeql5jk1BjA+/Cl1AFWoE+bWKhfRLB4BSKyt13F1ZueDG2Mo0mWKfF2nocceNgSJWUdY5W7aLTOkSwWfSEzJFXUxyBsx+GepvWVh+cGp0QWojJEs2mvnFFeJP/Dc9OQToMPqqPrZAwETnFkGvBDIREf+ItxIFD2yiBlXx5HtCraW9LqAmZ6UquarcDSn315Ko+fLI8KtNUpYAAKd1iAJuToRenIGYZ928akqFJyUSKvXbA1ppbeqfottaFhjroVvHO3SOSu8P0JI5jXo+I/h0kIx4=;SyNH1dGrO+OajY37FOSOYQ=="
 ---
 

@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
-excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
-publishedDateTime: 2021-06-02T12:03:00Z
-originalUrl: "https://www.officer.com/investigations/forensics/digital-forensics/press-release/21225090/magnet-forensics-digital-forensics-software-magnet-forensics-leverages-microsoft-azure-to-improve-digital-investigations-via-the-cloud"
-webUrl: "https://www.officer.com/investigations/forensics/digital-forensics/press-release/21225090/magnet-forensics-digital-forensics-software-magnet-forensics-leverages-microsoft-azure-to-improve-digital-investigations-via-the-cloud"
+title: "Mindtree Earned the Analytics on Microsoft Azure Advanced Specialization"
+excerpt: "Mindtree, a global technology services and digital transformation company, has declared that it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
+publishedDateTime: 2021-06-08T06:01:00Z
+originalUrl: "https://www.cioapplications.com/news/mindtree-earned-the-analytics-on-microsoft-azure-advanced-specialization-nid-7883.html"
+webUrl: "https://www.cioapplications.com/news/mindtree-earned-the-analytics-on-microsoft-azure-advanced-specialization-nid-7883.html"
 type: article
-quality: 27
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Officer
-  domain: officer.com
+  name: CIO Applications
+  domain: cioapplications.com
 
 topics:
   - Azure
+  - Analytics
 
 images:
-  - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/06/16x9/magnetforensics.60b773162031e.png?auto=format&fit=max&w=1200"
-    width: 1200
-    height: 673
+  - url: "https://www.cioapplications.com/newstransfer/upload/frrqr450308.jpg"
+    width: 450
+    height: 308
     isCached: true
 
 related:
@@ -81,20 +82,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1622625655.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Mindtree Earned the Analytics on Microsoft Azure Advanced Specialization"
-    excerpt: "Mindtree, a global technology services and digital transformation company, has declared that it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
-    publishedDateTime: 2021-06-08T06:01:00Z
-    webUrl: "https://www.cioapplications.com/news/mindtree-earned-the-analytics-on-microsoft-azure-advanced-specialization-nid-7883.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 53
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/frrqr450308.jpg"
-        width: 450
-        height: 308
         isCached: true
   - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
     excerpt: "\"The Analytics on Microsoft Azure advanced specialization will bring our experience in accelerating data discovery and making data-driven business decisions more accessible to those organizations ..."
@@ -203,6 +190,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
+    excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
+    publishedDateTime: 2021-06-02T12:03:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/digital-forensics/press-release/21225090/magnet-forensics-digital-forensics-software-magnet-forensics-leverages-microsoft-azure-to-improve-digital-investigations-via-the-cloud"
+    type: article
+    provider:
+      name: Officer
+      domain: officer.com
+    quality: 27
+    images:
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/06/16x9/magnetforensics.60b773162031e.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
     publishedDateTime: 2021-06-07T13:38:00Z
@@ -245,6 +246,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "DVc5D8WVADyWYpf2xtIum62RaXmd5jMeW9gD3I+Fn/L5cr6xatfMg9FhUlZ7zsqyYZ61qJBlmNEUoWkGlTK4/c/2DM0F2KnWKbdKFs7wzFgdzJA8Q9NMoPyrnH1SbnyxbPD9JDUcl0dcNpeQMRes/UYJ3HC3ecwTtGlFqNhk6OYUONi3/LinMe3sHp9ihQ985K134PE3S6qT0HBVi2W00UVkz9PYCvPqbaG9hrQbgfB8or0koB/d3S2XbJIG8ajIiGTQifxRt+0ZV8Ge4kkjRTQ0FUpnKqQ5lXvvqTbRkYlQ+DVT8WRlHtSpNqPrrZKnUSCJnZVKrBgA7a1WbUlaVNIud+5cxF9cXpYPabIo3aTLjkefosIciMagEScjbgHqxNd6VCRXRvqsbIKoWWDpDXAMb+W/qaB8Z1uqXoK6eh3ITN0vZ8JeR7cK89grh6t+dUx4opfbwQ34Dh20q4/Ei42bLMutjORQwYwNDiBtybuWHvl2xWM/WX6sP66MacdUkn0uVTf3YiNsSAyqAs5zpg==;MjOJh0QcNNqo4EyQdup16A=="
+secured: "R3K3tCgTc2XTKfHj4J94E06L3mSQ+kekQFdn7qdYQEtYc6QP78M4dCF1gBAM/3YS9o+o0N11PwDLcpBeahg+06veIE7xK0RkARSk460C9QxV8bsGzqDb4IdvJwRjbqK6DdPHAZysIb8SQw+u8L5hlFBRQ2ioI0mA0iZEK1OZAG0489+tHghqzuB9NjIi33/tyjasTtmde1rDImeptWuCtuyYjL2UvKXhJp9QlRCPUGoEASKDhQIZuOdj4AzaONeY4i3olWp58pw2aZyYSSd8WFooAOpah14CgKkjs8auIQtZ+FUVZOPQFy2tp9cyqPKOGZSD+6NgS3VOqcIbtL794d4VpszDdHk4+tD2VmofhQA=;w3WHfi9Os18aHnDVAY/YsQ=="
 ---
 
