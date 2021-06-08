@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
-publishedDateTime: 2021-06-02T15:38:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
-webUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
+title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
+excerpt: "Deploying scalable and affordable enterprise grade IoT applications in the retail industry has previously been restricted by technology limitations. But digital retail"
+publishedDateTime: 2021-06-08T02:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/b21463846/hanshow-marks-retail-digitization-at-breakthrough-scale-on-microsoft-azure"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/b21463846/hanshow-marks-retail-digitization-at-breakthrough-scale-on-microsoft-azure"
+ampWebUrl: "https://www.benzinga.com/amp/content/21463846"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21463846"
 type: article
-quality: 37
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
@@ -110,6 +108,15 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
+    publishedDateTime: 2021-06-02T15:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
   - title: "Morgan Stanley goes all in on Microsoft Azure"
     excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
     publishedDateTime: 2021-06-03T10:20:00Z
@@ -138,17 +145,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
-    excerpt: "Deploying scalable and affordable enterprise grade IoT applications in the retail industry has previously been restricted by technology limitations. But digital retail"
-    publishedDateTime: 2021-06-08T02:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21463846/hanshow-marks-retail-digitization-at-breakthrough-scale-on-microsoft-azure"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21463846"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21463846"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
   - title: "Mindtree has earned the Analytics on Microsoft Azure advanced specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
     publishedDateTime: 2021-06-02T21:14:00Z
@@ -234,6 +230,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "rzgkHlozr9a8M+Mm08vpKZKOiMMQOrZp4bxpqZ7zggmjcEdfsk4hFTjyjGJIzXkyBdTSw0i1SZgRCuAiNcbkjQVWRdTGqQQkqeQWh45CECBGWXiZxREURTw0MxtpPHiIpneNfeTTSnBHGtQBoB1bRiFwG7eJBQOr98aGBpU24vvX5+NYFSkivToNfxI8fhEZqInEzCPTT2d2e7qCK0Z2r5fMdLRmMsIk2qK5FFGt+5mOROGIVKgaql5ccIs97hZLTpQ4Zn5wj0x/tk70cKNEkrFEeEG2ee+OEMZwY/KmG81zL03il3mJiXrueIjsnnj710ydnHaoVuTjJKE9+RhRofTO60AKRrItCzdE0YeMbeM=;uvwnTzTTcVW+dufPQpj7sQ=="
+secured: "sXOXGdYyxEveUNroHclpYBFHusS0a0Md9rhxywIlKoeUHAcuyX/dU47tlCfcFZ9rieT0txT7yHA4To0evsOmPRFCcbVa0AJ89/nYR1gUCDQ8dzxlzU5TnVPNSlCRLHdZJsoWXE+awCziheF4IHvdBOO+OJAiUddRwWJfDjqrGBu8Xfc8V+GBmbI+uUE9aItjh9E/Ccn/HCwAFy+dATCWZ1pP95D+F/b66Jq9UkE7PUeXSHbKr45Eg4rKO99Cvd7McXGmk8CASO1A4jYrZPK2DKzR+wG3wFnlzI2pD53GbTKX7+uC3DQ0qjHdhzaYlbLMlSUmTuIp2ZJq7klkwYQw0DFYlvFGfyR15ZWiCJaI1GY=;qn+47ZlAMS96l/E2TEtYjg=="
 ---
 

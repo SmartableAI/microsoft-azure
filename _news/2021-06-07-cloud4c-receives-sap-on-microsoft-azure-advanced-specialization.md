@@ -3,8 +3,8 @@ category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
 excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
 publishedDateTime: 2021-06-07T13:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385042.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385042.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
 type: article
 quality: 17
 heat: -1
@@ -143,6 +143,17 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
+    excerpt: "Deploying scalable and affordable enterprise grade IoT applications in the retail industry has previously been restricted by technology limitations. But digital retail"
+    publishedDateTime: 2021-06-08T02:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21463846/hanshow-marks-retail-digitization-at-breakthrough-scale-on-microsoft-azure"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21463846"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21463846"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
   - title: "Mindtree has earned the Analytics on Microsoft Azure advanced specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
     publishedDateTime: 2021-06-02T21:14:00Z
@@ -219,6 +230,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "h85b7Jx3V+hlRnzzWblhIo0ikbcKzaH0efj46ZTf5yGKiuAXKwJWbciI4ypRuTmXupEupigC0VXeSQOObCOmsQZWjqE+S8Srrz8occL9MldJ1E3vW/eUTiw5fHPE+do4iG3g6t6c6MTb/pJE6t3Q0+6eMFLTl3Ku/iyP0m4LvyRxNsLXdgaBrn+6gaHj+Wk8DiyDpl7eYtp07Swo66Mqom+QUntIVZsa9yhtNLGRLGETrGTIBFHX4EPQe4zK+hzyTAsVYjsktoLPUAH1pWCE73fOlRAVYxr9sONxXBcbYoIECebq4z5JI4IbX+Xx5JWpWAoCzr9DwM+4vS1UWtX1UpRpYZVyqW1jtAMuCDEeqaY=;IAg/ATpmvZIxYoB9HfLhSA=="
+secured: "zvqwTuF51zdf3GwpmfQxEMK5XnSY/kMg9chdD3QyMR2BhcSKroBjSi7pzaBVGWCaUm+QGy3PgmEk1sXlphVG19V92kbxUQRRoI9WX4gLCi6FrMkT6HL5lbMAbazJOCxC/aoU8Csv38Ov3MOSSuyROSzAR5hzHkalx5gCqpNYl08ppEN7cpTkYUrKEJD5diPj3vTbU1tYKfAkWA71HdYilJ80k9P6vIXx7p6IMVyDvPGQSb/LNfCq9KMCH2Izgrwlju57lKdXIBjeCXWC6jgYhV8Dfi43XOH+nWdlime42GT9n9jyc9mWaXzoXUfUUO5dQpaRiMwLO0vfRGwKijAPSiaCE9uiJbeYafWw4YJFyhQ=;TQWaZgsOaMY8O9F/PFLJWA=="
 ---
 
