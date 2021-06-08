@@ -3,8 +3,8 @@ category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
 excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
 publishedDateTime: 2021-06-07T13:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385042.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385042.htm"
 type: article
 quality: 17
 heat: -1
@@ -76,6 +76,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
+    excerpt: "\"The Analytics on Microsoft Azure advanced specialization will bring our experience in accelerating data discovery and making data-driven business decisions more accessible to those organizations ..."
+    publishedDateTime: 2021-06-02T09:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-301303655.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
+        height: 785
+        isCached: true
   - title: "NexTech AR unveils EdTechx virtual education platform created with Microsoft Azure"
     excerpt: "EdTechX combines enterprise-scale video streaming, integrated assessments, augmented reality holograms and data analytics"
     publishedDateTime: 2021-06-03T11:59:00Z
@@ -129,15 +143,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-    excerpt: "Mindtree , a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
-    publishedDateTime: 2021-06-02T07:45:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-mindtree-has-earned-analytics-microsoft-azure-advanced-specialization-/2021/06/02/9381809.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
   - title: "Mindtree has earned the Analytics on Microsoft Azure advanced specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
     publishedDateTime: 2021-06-02T21:14:00Z
@@ -214,6 +219,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "GtKm+mL0vyTvrATsjKq8Bhsu0N6IGFVSRETH2QgY7tDN09pE0pG+f2lqRJjX3os1/d0GQTaxlVfjvwYYrkbu/z3GcdrzEMfokpazQ8YP74Q2PPTmp43Q+/tbdIyQHrZeidx23iS94dK9oV/xsVLf1vg/WOeX2Y0gfUqlosHy85ebAX1Yq5nkoWSyq+LS+NDzpVQuQ0Zum1fB3dk3URKVZGi4/ywaQIS8LGkRsxpojrcbKU+z3x/8e8qynbZdX94sQMAv2rNCN8JDM/hfqy1wj0YuvAscqmGCtAR8MK/QeDoh8fF++4rk4VqerVTtM54AenEhhFsLLxeYX2aPdFkNFg1x+Hur29jDSGEs32ogHVk=;+o8sresaRu5d+XfVmk89Sw=="
+secured: "h85b7Jx3V+hlRnzzWblhIo0ikbcKzaH0efj46ZTf5yGKiuAXKwJWbciI4ypRuTmXupEupigC0VXeSQOObCOmsQZWjqE+S8Srrz8occL9MldJ1E3vW/eUTiw5fHPE+do4iG3g6t6c6MTb/pJE6t3Q0+6eMFLTl3Ku/iyP0m4LvyRxNsLXdgaBrn+6gaHj+Wk8DiyDpl7eYtp07Swo66Mqom+QUntIVZsa9yhtNLGRLGETrGTIBFHX4EPQe4zK+hzyTAsVYjsktoLPUAH1pWCE73fOlRAVYxr9sONxXBcbYoIECebq4z5JI4IbX+Xx5JWpWAoCzr9DwM+4vS1UWtX1UpRpYZVyqW1jtAMuCDEeqaY=;IAg/ATpmvZIxYoB9HfLhSA=="
 ---
 

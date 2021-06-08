@@ -42,6 +42,20 @@ related:
         width: 853
         height: 513
         isCached: true
+  - title: "Microsoft Unveils Azure Virtual Desktop As New Name For WVD, Adds Management Features"
+    excerpt: "Microsoft has renamed Windows Virtual Desktop (WVD) to Azure Virtual Desktop and announced more control via the Microsoft Endpoint Manager."
+    publishedDateTime: 2021-06-08T00:12:00Z
+    webUrl: "https://www.crn.com/news/virtualization/microsoft-unveils-azure-virtual-desktop-as-new-name-for-wvd-adds-management-features"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 30
+    images:
+      - url: "https://www.crn.com/resources/026a-127769362b57-8ff94d6ce02b-1000/azure-virtual-desktop.jpg"
+        width: 609
+        height: 457
+        isCached: true
 
 secured: "ogISLZ7Zl6TytYxDRI5UG29IgNAWXgpsqB8eJ4NYTDif5MoTPga+wDT5hcXvleZelqPzH9UCJAEsW4903ng0zs7LGhf6th2ti8Ox2/+86vOosIGziwvBdGIGcW8Nv1Y27nSQnlPjAwqZQ18YlLealMfPgkHszhVCFxUZYtEW65A3nt1AQhYB/NDQkH1jmaPLyc73FIPz9VZTePDof2HdimR/oN5XkMSbBW7yGQA0jE0zeaOVMRHNBGQD+r3fqiaZDrSlAVkmqTrCPhPBkTpfAumsIFBuDfOl4a2s6rbZyPd0uCrWUaLZfB9J5tjgShZ6r+keyeQ5CMQOmIzD+XrMNhrruEqLJOya8zttFwmvySdBUt87uzE7lcbllSI4CRFYOuasmUIu6MeEQGmBtJXIn3nNXwXQDJ3mkhI24G4idAvjJi7hSHyBb8AsrFixwo9sY0UZZI9FBO5S2pVkCDiA0kfLAZE6Sci+t13aVCQyVroCeiJqC4DJb9hUJUZ7iVPYQbz2qTa/Of5qRmlaVSqnlw==;wrGW8D+21M0AwM0O7SFX0g=="
 ---

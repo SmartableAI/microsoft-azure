@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-excerpt: "Mindtree , a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
-publishedDateTime: 2021-06-02T07:45:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-mindtree-has-earned-analytics-microsoft-azure-advanced-specialization-/2021/06/02/9381809.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-mindtree-has-earned-analytics-microsoft-azure-advanced-specialization-/2021/06/02/9381809.htm"
+excerpt: "\"The Analytics on Microsoft Azure advanced specialization will bring our experience in accelerating data discovery and making data-driven business decisions more accessible to those organizations ..."
+publishedDateTime: 2021-06-02T09:05:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-301303655.html"
+webUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-301303655.html"
 type: article
-quality: 31
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - Analytics
+
+images:
+  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+    width: 1496
+    height: 785
+    isCached: true
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -176,7 +182,7 @@ related:
   - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
     publishedDateTime: 2021-06-07T13:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385042.htm"
     type: article
     provider:
       name: TMCnet
@@ -215,6 +221,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "5BXU5MnhMIG8oAbWtwdf26Ixs69BdT0SRT57NB4g+0s9LqRxRLjJjzssxnsklhsJP3RbHmVX0e9/0xfM0/F4gYbEHf/nXcHS0N5auO9ErRHAoBdm1yeMy2CWVUF94XwRDL4fx0lDG6XP1gmFSaY0qZQuPOrlrkR9wFBhw+8lEDz8y2GDhckHXowvGFs5fZIyPkceMjU5dkZDgDoPqpAJLkuDZrzg4V/LSMQrLz07BZsrSlCX2Nkw4EqhwXiE4CcnDkoAzwsNeJWLrlO+tm44zfLObVNKNxpKLhK00asiqamazD6NHbVEE4/uJYIvwebEOKG0HZQI1TcP9rPY0kKVQawYqhAo8S5n6lQB42EyPxA=;eEq/uvkZa5YmvYfLQ7RtBg=="
+secured: "T+4yGmiQ4sburiYN77xw7PomXTT+fg2tZpC5cutAsmQ7NgOLFi4cFqGMnqF8ScPH+1S5W/YJRX6WGUAu/9xCw64m00gDgpCiirt8OU6BT6kh2oC05uiFkvsUMK3bxI6/muYH8Y5NZdbw2Ap8u5sKuEQ01+kl6L2K169GzMmg6A19JeguWro4ws6idiDqw2vJwoT/QN0XzMk/Z0stIpoPdMDhm/PGfnUsbIAAk0RAxFDvdCj/p5iWJ5kbZPUQwh5MGXco0SNxhU5MevbqkNUx44yfqqtMPFySYoZTKXjmyVrr7QaOCKTiGjDGzFkUWlGX63pXF/B0by0kmfiDYY70hu1sSCQJY4NQNkJEpVcqWQ8=;4STjrixhTteDHUndHPGaTA=="
 ---
 
