@@ -3,8 +3,8 @@ category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
 excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
 publishedDateTime: 2021-06-07T13:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385042.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385042.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
 type: article
 quality: 17
 heat: -1
@@ -214,6 +214,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "X/IYY2bwI3X/8zA71+ZTs5eNaMaw4wv3TbfleVA+GVdd4WwBnot7ZguP7w8B0JQUsqrxQeeMSHYpvr1JrTuD2p5krv/eqVUDE7Qo/8XosLApQPHB/sCJOfSOKGsnfuw5OJ5Il316Sd99lhPGNvn+zy8lkWkbcmC2G2ZQoreZU6V8eXaVKV3W1RxM2Ps9N7a/XBX2Zoc+PGawk1GZTw+lTGDazMiVHNbKaIOadDosU/rDMp3sxPTt7QsQXD82sZi6/6nVILCtnCmmh/hRqLt+YqtlK4J/csEivFm+exztS2GIbZSLhcJwvXE/t4nzTv0O3L473YnuLKLr2rT8XQbI3D8azXSqfnMzHfODjuknTyM=;fZmI7p9ydN+NfBaM/7kYOw=="
+secured: "GtKm+mL0vyTvrATsjKq8Bhsu0N6IGFVSRETH2QgY7tDN09pE0pG+f2lqRJjX3os1/d0GQTaxlVfjvwYYrkbu/z3GcdrzEMfokpazQ8YP74Q2PPTmp43Q+/tbdIyQHrZeidx23iS94dK9oV/xsVLf1vg/WOeX2Y0gfUqlosHy85ebAX1Yq5nkoWSyq+LS+NDzpVQuQ0Zum1fB3dk3URKVZGi4/ywaQIS8LGkRsxpojrcbKU+z3x/8e8qynbZdX94sQMAv2rNCN8JDM/hfqy1wj0YuvAscqmGCtAR8MK/QeDoh8fF++4rk4VqerVTtM54AenEhhFsLLxeYX2aPdFkNFg1x+Hur29jDSGEs32ogHVk=;+o8sresaRu5d+XfVmk89Sw=="
 ---
 
