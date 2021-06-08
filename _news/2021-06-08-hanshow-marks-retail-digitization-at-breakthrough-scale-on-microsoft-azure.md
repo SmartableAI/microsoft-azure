@@ -159,6 +159,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Cloud4C Receives 'SAP On Microsoft Azure Advanced Specialization'"
+    excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true va"
+    publishedDateTime: 2021-06-08T11:02:00Z
+    webUrl: "https://www.hostreview.com/news/210608-cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 37
+    images:
+      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Mindtree has earned the Analytics on Microsoft Azure advanced specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
     publishedDateTime: 2021-06-02T21:14:00Z

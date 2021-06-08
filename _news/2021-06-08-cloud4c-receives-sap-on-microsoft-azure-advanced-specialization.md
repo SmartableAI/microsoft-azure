@@ -1,29 +1,26 @@
 ---
 category: news
-title: "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement"
-excerpt: "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time."
-publishedDateTime: 2021-06-05T09:17:00Z
-originalUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/"
-webUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/"
-ampWebUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/"
-cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/"
+title: "Cloud4C Receives 'SAP On Microsoft Azure Advanced Specialization'"
+excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true va"
+publishedDateTime: 2021-06-08T11:02:00Z
+originalUrl: "https://www.hostreview.com/news/210608-cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
+webUrl: "https://www.hostreview.com/news/210608-cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
 type: article
-quality: 64
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Dataquest
-  domain: dqindia.com
+  name: Host Review
+  domain: hostreview.com
 
 topics:
   - Azure
-  - AI
 
 images:
-  - url: "https://www.dqindia.com/wp-content/uploads/2021/06/6CF52215-66AC-42DA-9307-7E975564CE3B.png"
-    width: 800
-    height: 598
+  - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -54,6 +51,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement"
+    excerpt: "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time."
+    publishedDateTime: 2021-06-05T09:17:00Z
+    webUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/"
+    ampWebUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 64
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/6CF52215-66AC-42DA-9307-7E975564CE3B.png"
+        width: 800
+        height: 598
         isCached: true
   - title: "Mindtree has earned the Analytics on Microsoft Azure"
     excerpt: "Only partners that meet stringent criteria around customer success and staff skilling as well as pass a third-party audit of their analytics planning and deplo"
@@ -149,20 +162,6 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/04d63a816388b94e314f79610c152242.jpg?t=20210607_010546"
         width: 752
         height: 408
-        isCached: true
-  - title: "Cloud4C Receives 'SAP On Microsoft Azure Advanced Specialization'"
-    excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true va"
-    publishedDateTime: 2021-06-08T11:02:00Z
-    webUrl: "https://www.hostreview.com/news/210608-cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 37
-    images:
-      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
     excerpt: "Deploying scalable and affordable enterprise grade IoT applications in the retail industry has previously been restricted by technology limitations. But digital retail"
@@ -260,6 +259,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "iVGm1WB2S2x59Uglkrnwf4+ovMbuQGYlOMJjmZw/UiY+HxrGK5DnGyG/kvWc4q3u157bwZs6GUBKg4CcdxJBYbsg0arfOCINC5DPL2fMj0yh9bQFdTVK30fBtSsCl6Q0mo7xARSYnU/QNrBX2ue8NKN0lYIOtmP45AZ407gexWmoijvo1lJAjVZBIFnnM6Hn4vV2+b7sZH3Q+bsXV+eStZ5m6gGfMO2fiWizHlMIks3wsvmvsHOz6s328o9Y7hCV9zJpjZaCaXD9VUk55vYZWP2dDPET62SjN/Z7OEE1akxeV9q4w9oddbWziZbKC1joi/YlERLhsi9KVdVpxBWO5NaAew2CEKv30lKcLAA+vz4wrFhz6yfPHiA5bTdh5awDXZSzlWsZtKtRI2g6iHlDA6Fgp7T68Q4i8d0VB3SinIXIM9CFGOGGpC/cVR+hbVYTb6nSANCdrCLZiHJGNPG0sPMkgGj7KkAwFRMRrqAfl6mf++gF7lWeQqOCp7XGho4CbobYYOoe78g/1FQ+obQZtg==;lghY1y41M39VmFl/e5a8kA=="
+secured: "jJQ11o4mMzHzIPzPf3sAJb8YSdPHj0Jok7ulsVjKZIRBzBUGqGGY9LcmdGejI1SJOwmxXnEl9BFhIEU0mpwS0xXAvO8FgOTDEfcbXJflHQzMUpq3On8yOgrH1CKv53HiQZWzyAOgYoTPM4HzbWY7sWstTG0jeaTzScsw2zQIf2jZBlr4VcgCjC+8EC/TklvRBEQosLWwS2dsDPCQckYbw2OGlMnoEOIK27AdcQylUu7JR6xG0FSaXvnM+T3gx1mMNQ2XqkOp5Ue0xml4osX8GSE/IpbP5cJu6aiXSsQjMo/p7jjvgh21b8urW/EruhfF27g5S/EOj3nWdweuuuqxGEPuHT80gMfBgdHj0wkHo60=;eSf6CFxVqHyK4NLsfmkI3A=="
 ---
 
