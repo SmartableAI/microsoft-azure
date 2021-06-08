@@ -4,84 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-expose-hybrid-services-with-azure-relay.md",
-      "title": "Expose hybrid services securely with Azure Relay",
-      "excerpt": "Securely expose services that run in your on-premises network to clients in the cloud, without having to open a port on your firewall or make intrusive changes to your corporate network infrastructure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-expose-hybrid-services-with-azure-relay/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/expose-hybrid-services-with-azure-relay/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 393,
-        "average": 4.6284986
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/expose-hybrid-services-with-azure-relay-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-foster-ai-culture-customer-service.md",
-      "title": "Discover how to foster an AI-ready culture in customer service",
-      "excerpt": "Learn the necessary cultural changes for enterprise customer service to make AI transformation successful, and how they fit into a holistic AI strategy.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-customer-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-customer-service/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 613,
-        "average": 4.7683525
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-foster-ai-culture-sales.md",
       "title": "Discover how to foster an AI-ready culture in sales",
       "excerpt": "Learn the necessary cultural changes for enterprise sales organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
@@ -1228,6 +1150,92 @@
           "url": "https://docs.microsoft.com/learn/achievements/strengthen-authentication-with-microsoft-365-social.png",
           "width": 800,
           "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-m365-identity-secure-administrators.md",
+      "title": "Secure administrator accounts in Azure Active Directory",
+      "excerpt": "Learn about securing administrator accounts through secure devices, dedicated administrator accounts, and just-in-time privileges.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-secure-administrators/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 3279,
+        "average": 4.780421
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-secure-administrator-access-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-m365-threat-safeguard.md",
+      "title": "Safeguard your environment with Azure Advanced Threat Protection",
+      "excerpt": "Learn about the Azure Advanced Threat Protection component of Microsoft Threat Protection.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-threat-safeguard/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 2244,
+        "average": 4.8333335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/safeguard-your-environment-with-microsoft-azure-advanced-threat-protection-social.png",
+          "width": 642,
+          "height": 321,
           "isCached": true
         }
       ],

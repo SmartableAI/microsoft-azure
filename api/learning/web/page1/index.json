@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 15228,
-            "average": 4.7626085
+            "count": 15236,
+            "average": 4.762733
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -79,8 +79,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 12743,
-            "average": 4.637134
+            "count": 12746,
+            "average": 4.6372194
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 11148,
-            "average": 4.76803
+            "count": 11156,
+            "average": 4.768107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 15670,
-            "average": 4.729802
+            "count": 15677,
+            "average": 4.729859
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -237,8 +237,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 15228,
-        "average": 4.7626085
+        "count": 15236,
+        "average": 4.762733
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -313,224 +313,6 @@
         "IoT",
         "Blockchain",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan.md",
-      "title": "AZ-400: Develop a security and compliance plan",
-      "excerpt": "Build strategies around security and compliance and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan/",
-      "length": "PT8H31M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-ad.md",
-          "title": "Secure your identities by using Azure Active Directory",
-          "excerpt": "Use Azure Active Directory to you secure your internal, external, and customer identities.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-ad/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
-          "length": "PT27M",
-          "ratings": {
-            "count": 3069,
-            "average": 4.704464
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory.md",
-          "title": "Create Azure users and groups in Azure Active Directory",
-          "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
-          "length": "PT41M",
-          "ratings": {
-            "count": 5633,
-            "average": 4.742766
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 58,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-authenticate-apps-with-managed-identities.md",
-          "title": "Authenticate apps to Azure services by using service principals and managed identities for Azure resources",
-          "excerpt": "Securely authenticate apps to Azure to manage and access Azure services. Service principals and managed identities give your app an Azure AD identity.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-authenticate-apps-with-managed-identities/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/",
-          "length": "PT1H6M",
-          "ratings": {
-            "count": 314,
-            "average": 4.6528664
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 130,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/authenticate-apps-with-managed-identities-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-configure-and-manage-azure-key-vault.md",
-          "title": "Configure and manage secrets in Azure Key Vault",
-          "excerpt": "Configure and manage secrets in Azure Key Vault",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-and-manage-azure-key-vault/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 2422,
-            "average": 4.6312966
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/configure-and-manage-azure-key-vault-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        }
-      ],
-      "size": 11,
-      "heat": 69,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Security",
-        "Integration",
-        "Web",
-        "DevOps",
-        "Management Tools"
       ]
     },
     {
@@ -741,6 +523,224 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan.md",
+      "title": "AZ-400: Develop a security and compliance plan",
+      "excerpt": "Build strategies around security and compliance and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan/",
+      "length": "PT8H31M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-azure-ad.md",
+          "title": "Secure your identities by using Azure Active Directory",
+          "excerpt": "Use Azure Active Directory to you secure your internal, external, and customer identities.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-ad/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 3070,
+            "average": 4.7045603
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory.md",
+          "title": "Create Azure users and groups in Azure Active Directory",
+          "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
+          "length": "PT41M",
+          "ratings": {
+            "count": 5634,
+            "average": 4.742634
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-authenticate-apps-with-managed-identities.md",
+          "title": "Authenticate apps to Azure services by using service principals and managed identities for Azure resources",
+          "excerpt": "Securely authenticate apps to Azure to manage and access Azure services. Service principals and managed identities give your app an Azure AD identity.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-authenticate-apps-with-managed-identities/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/",
+          "length": "PT1H6M",
+          "ratings": {
+            "count": 315,
+            "average": 4.6539683
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/authenticate-apps-with-managed-identities-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-configure-and-manage-azure-key-vault.md",
+          "title": "Configure and manage secrets in Azure Key Vault",
+          "excerpt": "Configure and manage secrets in Azure Key Vault",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-and-manage-azure-key-vault/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 2423,
+            "average": 4.6314487
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/configure-and-manage-azure-key-vault-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        }
+      ],
+      "size": 11,
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Security",
+        "Integration",
+        "Web",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy.md",
       "title": "AZ-400: Develop an instrumentation strategy",
       "excerpt": "Develop an effective instrumentation strategy through logging, telemetry, and monitoring and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
@@ -814,8 +814,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 42718,
-            "average": 4.7183156
+            "count": 42719,
+            "average": 4.7183223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -893,8 +893,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 1026,
-            "average": 4.7417154
+            "count": 1027,
+            "average": 4.7419667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -995,8 +995,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 10864,
-            "average": 4.766937
+            "count": 10867,
+            "average": 4.767001
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1213,8 +1213,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 6913,
-            "average": 4.7176332
+            "count": 6915,
+            "average": 4.717426
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1300,8 +1300,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
           "length": "PT59M",
           "ratings": {
-            "count": 1478,
-            "average": 4.564276
+            "count": 1479,
+            "average": 4.5645704
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1344,8 +1344,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
           "length": "PT35M",
           "ratings": {
-            "count": 5121,
-            "average": 4.738723
+            "count": 5123,
+            "average": 4.738825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1471,8 +1471,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6804,
-            "average": 4.714874
+            "count": 6805,
+            "average": 4.7149153
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1507,8 +1507,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
           "length": "PT49M",
           "ratings": {
-            "count": 2755,
-            "average": 4.6275864
+            "count": 2756,
+            "average": 4.6277213
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1888,8 +1888,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 5407,
-            "average": 4.755317
+            "count": 5408,
+            "average": 4.7553625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2356,8 +2356,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 2353,
-            "average": 4.6672335
+            "count": 2354,
+            "average": 4.6673746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2571,8 +2571,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 1026,
-            "average": 4.7417154
+            "count": 1027,
+            "average": 4.7419667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3343,8 +3343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 5063,
-        "average": 4.640529
+        "count": 5064,
+        "average": 4.6402054
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3434,8 +3434,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 1026,
-        "average": 4.7417154
+        "count": 1027,
+        "average": 4.7419667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3484,8 +3484,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 2353,
-        "average": 4.6672335
+        "count": 2354,
+        "average": 4.6673746
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3749,8 +3749,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 1040,
-        "average": 4.7432694
+        "count": 1041,
+        "average": 4.743516
       },
       "provider": {
         "name": "Microsoft Learn",

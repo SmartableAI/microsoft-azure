@@ -546,8 +546,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1900,
-            "average": 4.679474
+            "count": 1901,
+            "average": 4.679642
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -589,8 +589,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 1137,
-            "average": 4.6737027
+            "count": 1138,
+            "average": 4.6739893
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -853,8 +853,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 2353,
-            "average": 4.6672335
+            "count": 2354,
+            "average": 4.6673746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1468,8 +1468,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 1026,
-            "average": 4.7417154
+            "count": 1027,
+            "average": 4.7419667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2082,8 +2082,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1900,
-            "average": 4.679474
+            "count": 1901,
+            "average": 4.679642
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2390,6 +2390,207 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db.md",
+      "title": "Work with NoSQL data in Azure Cosmos DB",
+      "excerpt": "In this learning path, find out how to customize NoSQL data storage and distribution with the Azure portal, Cosmos DB extension, and Cosmos DB .NET Core SDK.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db/",
+      "length": "PT6H3M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-create-cosmos-db-for-scale.md",
+          "title": "Create an Azure Cosmos DB database built to scale",
+          "excerpt": "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-cosmos-db-for-scale/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
+          "length": "PT35M",
+          "ratings": {
+            "count": 4417,
+            "average": 4.6574597
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 131,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage.md",
+          "title": "Choose the appropriate API for Azure Cosmos DB",
+          "excerpt": "Compare the different APIs that are available in Azure Cosmos DB, highlighting and contrasting the different scenarios that would make them a good choice for a company.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 2517,
+            "average": 4.6889153
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api.md",
+          "title": "Insert and query data in your Azure Cosmos DB database",
+          "excerpt": "Discover the Azure Cosmos DB Data Explorer tool that enables you to add or modify data. Create stored procedures in JavaScript.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 2972,
+            "average": 4.648721
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-store-access-data-cosmos-graph-api.md",
+          "title": "Store and access graph data in Azure Cosmos DB with the Graph API",
+          "excerpt": "Find out about creating an application with Azure Cosmos DB as a graph database, then retrieve, manipulate, and visualize graph data using Data Explorer.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-access-data-cosmos-graph-api/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-graph-api/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 1696,
+            "average": 4.649764
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/store-and-access-data-with-cosmos-db-and-the-graph-api-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway.md",
       "title": "Connect your on-premises network to Azure with VPN Gateway",
       "excerpt": "Learn about the virtual private network (VPN) gateway options in Azure and typical scenarios for using a VPN. Create and test VPNs to securely connect sites to Azure.",
@@ -2397,8 +2598,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
       "length": "PT39M",
       "ratings": {
-        "count": 8093,
-        "average": 4.630421
+        "count": 8094,
+        "average": 4.630467
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2475,8 +2676,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 5027,
-        "average": 4.6664014
+        "count": 5029,
+        "average": 4.666534
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2545,8 +2746,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 10581,
-        "average": 4.67574
+        "count": 10583,
+        "average": 4.675801
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4133,8 +4334,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6959,
-            "average": 4.681707
+            "count": 6962,
+            "average": 4.6817007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4396,234 +4597,6 @@
         "Azure",
         "Compute",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-build-automated-workflows-to-integrate-data-and-apps-with-azure-logic-apps.md",
-      "title": "Build automated workflows to integrate data and apps with Azure Logic Apps",
-      "excerpt": "This learning path guides you through creation of serverless workflows for your organization using Azure Logic Apps, a cloud service that automates your business processes.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-automated-workflows-to-integrate-data-and-apps-with-azure-logic-apps/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-automated-workflows-to-integrate-data-and-apps-with-azure-logic-apps/",
-      "length": "PT2H49M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-azure-intro-to-logic-apps.md",
-          "title": "Introduction to Azure Logic Apps",
-          "excerpt": "Learn how to evaluate Logic Apps as an automation choice for your organization using criteria for integration, performance, conditionals, and connectors.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-intro-to-logic-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
-          "length": "PT28M",
-          "ratings": {
-            "count": 1843,
-            "average": 4.7254477
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-logic-apps-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "IoT",
-            "Blockchain",
-            "Integration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-route-and-process-data-logic-apps.md",
-          "title": "Route and process data automatically using Logic Apps",
-          "excerpt": "Learn how to define a workflow to run your business with Logic apps using built-in triggers, actions, and conditional operators.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-route-and-process-data-logic-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
-          "length": "PT56M",
-          "ratings": {
-            "count": 1898,
-            "average": 4.508957
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "IoT",
-            "Blockchain",
-            "Integration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-logic-apps-and-custom-connectors.md",
-          "title": "Call an API from a Logic Apps workflow using a custom connector",
-          "excerpt": "In this module, learn to create a Logic Apps custom connector to call an API from a Logic Apps workflow.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-logic-apps-and-custom-connectors/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/logic-apps-and-custom-connectors/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 582,
-            "average": 4.582474
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/logic-apps-and-custom-connectors-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "IoT",
-            "Blockchain",
-            "Integration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-logic-apps-and-arm-templates.md",
-          "title": "Create and deploy Logic Apps using Azure Resource Manager templates",
-          "excerpt": "Define a Logic Apps workflow declaratively as a Resource Manager template and deploy the app using the Azure Command Line Interface (CLI).",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-logic-apps-and-arm-templates/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-deploy-logic-apps-using-arm-templates/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 568,
-            "average": 4.6672535
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/logic-apps-and-arm-templates-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "IoT",
-            "Blockchain",
-            "Integration",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-logic-apps-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "IoT",
-        "Blockchain",
-        "Integration"
       ]
     }
   ],

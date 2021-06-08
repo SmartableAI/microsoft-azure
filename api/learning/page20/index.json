@@ -96,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 1040,
-        "average": 4.7432694
+        "count": 1041,
+        "average": 4.743516
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -564,85 +564,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-cosmos-db-for-scale.md",
-      "title": "Create an Azure Cosmos DB database built to scale",
-      "excerpt": "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-cosmos-db-for-scale/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 4417,
-        "average": 4.6574597
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cv-classify-bird-species.md",
-      "title": "Classify endangered bird species with Custom Vision",
-      "excerpt": "Learn how to use Azure Cognitive Services Custom Vision to build a machine learning model that identifies the species of a bird in an image, to help with gathering data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cv-classify-bird-species/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cv-classify-bird-species/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 156,
-        "average": 4.544872
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/advocates/cv-classify-bird-species-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-deep-learning.md",
       "title": "Use deep learning models to make predictions about specialized data",
       "excerpt": "Use convolutional neural networks and recurrent neural networks to analyze and predict images and text with TensorFlow and Keras.",
@@ -1068,8 +989,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-machine-learning-models-with-azure-machine-learning/",
       "length": "PT47M",
       "ratings": {
-        "count": 563,
-        "average": 4.74778
+        "count": 564,
+        "average": 4.748227
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1267,6 +1188,84 @@
       "topics": [
         "Azure",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-expose-hybrid-services-with-azure-relay.md",
+      "title": "Expose hybrid services securely with Azure Relay",
+      "excerpt": "Securely expose services that run in your on-premises network to clients in the cloud, without having to open a port on your firewall or make intrusive changes to your corporate network infrastructure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-expose-hybrid-services-with-azure-relay/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/expose-hybrid-services-with-azure-relay/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 393,
+        "average": 4.6284986
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/expose-hybrid-services-with-azure-relay-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-foster-ai-culture-customer-service.md",
+      "title": "Discover how to foster an AI-ready culture in customer service",
+      "excerpt": "Learn the necessary cultural changes for enterprise customer service to make AI transformation successful, and how they fit into a holistic AI strategy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-customer-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-customer-service/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 613,
+        "average": 4.7683525
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

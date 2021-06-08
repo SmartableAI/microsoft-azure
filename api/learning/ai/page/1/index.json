@@ -4,6 +4,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-cv-classify-bird-species.md",
+      "title": "Classify endangered bird species with Custom Vision",
+      "excerpt": "Learn how to use Azure Cognitive Services Custom Vision to build a machine learning model that identifies the species of a bird in an image, to help with gathering data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cv-classify-bird-species/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cv-classify-bird-species/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 156,
+        "average": 4.544872
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/advocates/cv-classify-bird-species-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 15228,
-            "average": 4.7626085
+            "count": 15236,
+            "average": 4.762733
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -79,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 12743,
-            "average": 4.637134
+            "count": 12746,
+            "average": 4.6372194
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 11148,
-            "average": 4.76803
+            "count": 11156,
+            "average": 4.768107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 15670,
-            "average": 4.729802
+            "count": 15677,
+            "average": 4.729859
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -237,8 +280,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 15670,
-        "average": 4.729802
+        "count": 15677,
+        "average": 4.729859
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -306,8 +349,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 9225,
-            "average": 4.7861247
+            "count": 9230,
+            "average": 4.7862406
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -349,8 +392,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 10590,
-            "average": 4.775354
+            "count": 10595,
+            "average": 4.775366
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -392,8 +435,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 6917,
-            "average": 4.776637
+            "count": 6921,
+            "average": 4.776044
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -439,8 +482,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 8001,
-            "average": 4.7235346
+            "count": 8002,
+            "average": 4.723569
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -531,8 +574,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 15339,
-            "average": 4.7593064
+            "count": 15345,
+            "average": 4.7593355
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -593,8 +636,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 15339,
-        "average": 4.7593064
+        "count": 15345,
+        "average": 4.7593355
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -636,8 +679,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 10590,
-        "average": 4.775354
+        "count": 10595,
+        "average": 4.775366
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1212,8 +1255,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
           "length": "PT29M",
           "ratings": {
-            "count": 1216,
-            "average": 4.721217
+            "count": 1217,
+            "average": 4.7206244
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1299,8 +1342,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
           "length": "PT39M",
           "ratings": {
-            "count": 1416,
-            "average": 4.75
+            "count": 1417,
+            "average": 4.7501764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1545,8 +1588,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-insights-from-videos-with-video-indexer-service/",
           "length": "PT27M",
           "ratings": {
-            "count": 47,
-            "average": 4.87234
+            "count": 49,
+            "average": 4.877551
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1921,8 +1964,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1900,
-            "average": 4.679474
+            "count": 1901,
+            "average": 4.679642
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1964,8 +2007,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 1137,
-            "average": 4.6737027
+            "count": 1138,
+            "average": 4.6739893
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4786,49 +4829,6 @@
       ],
       "content": "\r\n",
       "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analyze-receipts-form-recognizer.md",
-      "title": "Analyze receipts with the Form Recognizer service",
-      "excerpt": "Processing invoices and receipts is a common task in many business scenarios. Increasingly, organizations are turning to artificial intelligence (AI) to automate data extraction from scanned receipts.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-receipts-form-recognizer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 1626,
-        "average": 4.7177124
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-receipts-form-recognizer-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
