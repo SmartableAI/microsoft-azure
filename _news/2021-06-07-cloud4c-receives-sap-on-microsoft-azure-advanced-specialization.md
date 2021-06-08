@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-publishedDateTime: 2021-06-07T13:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385042.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385042.htm"
+excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
+publishedDateTime: 2021-06-07T13:44:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-1030499903"
+webUrl: "https://markets.businessinsider.com/news/stocks/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-1030499903"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -288,6 +292,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "rIbRM6g0XsoCddD1vRuXGgCz8cTAL5MYf179CUtlCbkjk2cDJ5z0hUQUmP43jdj3QTgpzNFzLGnzWMIjKmOeql5jk1BjA+/Cl1AFWoE+bWKhfRLB4BSKyt13F1ZueDG2Mo0mWKfF2nocceNgSJWUdY5W7aLTOkSwWfSEzJFXUxyBsx+GepvWVh+cGp0QWojJEs2mvnFFeJP/Dc9OQToMPqqPrZAwETnFkGvBDIREf+ItxIFD2yiBlXx5HtCraW9LqAmZ6UquarcDSn315Ko+fLI8KtNUpYAAKd1iAJuToRenIGYZ928akqFJyUSKvXbA1ppbeqfottaFhjroVvHO3SOSu8P0JI5jXo+I/h0kIx4=;SyNH1dGrO+OajY37FOSOYQ=="
+secured: "HM5krUMr1ljHUQjrJA+ecSpD0eJNg7IDGjK0yC89IJfSiLHTgSqPtdRpys5E9Vx1pXGdgN4U+xy+mA3XTcJVmWRJdvc+lOwVu4nQpFjTrUpJZoR+m4EfNkAeMGdih+OK1YhGowZ5PJ7uC71OXMic3V7ELjBI5gpvrSv/l5XJIu+oMojFT6merxkvx1c4zQcwA6rASHRw8vg0Mss1begLFczSclxSw7+3OYXjarHToou8BulFW1l6bZUGxeKrbb1aRFaRz+8S4y2BLIo+Q0D7wKZpEU6aikRTN/nKzx0bxO7UDrMb87ZDHzn3tzbdvUqbnVNCWRegIUrVRAE6xuqNCODXKt0vqYDFydHtIMFEAc8=;r+C+GCmzm9M+AyZndksi+g=="
 ---
 

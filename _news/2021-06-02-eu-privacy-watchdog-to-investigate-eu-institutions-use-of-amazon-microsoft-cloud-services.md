@@ -82,6 +82,15 @@ related:
         width: 800
         height: 598
         isCached: true
+  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
+    excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
+    publishedDateTime: 2021-06-07T13:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-1030499903"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "NexTech AR says EdTechX approved as a co-sell partner on Microsoft Azure"
     excerpt: "Earning co-sell ready status allows NexTech to collaborate with Microsoft on promoting EdTechX as an augmented reality virtual education solution"
     publishedDateTime: 2021-06-08T11:45:00Z
@@ -261,15 +270,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-    excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-    publishedDateTime: 2021-06-07T13:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385042.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Elastic Announces the General Availability of the New Frozen Tier, Enhanced Analyst Experience With Schema on Read, and First-Party Integration With Microsoft Azure"
     excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced new capabilities and enhancements across its"
     publishedDateTime: 2021-05-26T19:40:00Z

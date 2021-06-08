@@ -72,6 +72,15 @@ related:
         width: 800
         height: 598
         isCached: true
+  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
+    excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
+    publishedDateTime: 2021-06-07T13:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-1030499903"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "NexTech AR says EdTechX approved as a co-sell partner on Microsoft Azure"
     excerpt: "Earning co-sell ready status allows NexTech to collaborate with Microsoft on promoting EdTechX as an augmented reality virtual education solution"
     publishedDateTime: 2021-06-08T11:45:00Z
@@ -251,15 +260,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-    excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-    publishedDateTime: 2021-06-07T13:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385042.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "EU privacy watchdog to investigate EU institutions’ use of Amazon, Microsoft cloud services"
     excerpt: "EU privacy watchdog EDPS opened on Thursday two investigations into EU institutions’ use of cloud computing services provided by Amazon and Microsoft, concerned about the transfer of Europeans ..."
     publishedDateTime: 2021-06-02T09:56:00Z
@@ -293,6 +293,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "rnm3KcskT+fQgcOHK5TjUYOX+tPgGWt0rXvU0viUR6YYuyqfv5CuSSbAE+OUTJJg21uh71WsG62pPAjCiuCM8hlle7M+O0ja4FWM3lrZMlXnE29korajQAOVrYMGuCSmJIxbxnN7ShAj0L8PPTZy9SwDeEPILqZuuw2glejZYefsdDE+kmjZxYj8OhCf6GPqCq8Qy/VmJeu1ElOINxE8nmf8ou4RpwINJs4eUJuoKS58laHbcRUYRXjd5r7NHnmbTf3/WPTd4vEhwyxempE2+FJfn8QSnP3SQGG8oSYMqJdnlIykI+m2yBQGKcxqd88afIBo8f6WhMdnktlm8mU3e8oZhJHiiX7MF2X/Dug0y8M=;ud/gVUuctFfQziVfAwhA5Q=="
+secured: "lrpQfsB4/98OGrcbYBl+fjnG4EFfR0LM6Mn9X9Dmqe6Xy/EZkyDlDXZzmDegwoFi8Z9VlybqIHOkBHbXHb1ewKM3kZ5O4ZH+d2gnkjj6950LmMqncemLtxtfdybXF/HgnXOMniyhK90xpj1/3GGys+2VhI+Zc13I5ZwC+5I0/I7ZrXigmGtztAa0TnfmFgz3bjpY6q9H5NSQ85C0CAkKgKLzBofwbcA0XuvKvnY9bKPv3PDjRP3dVqQsUv3uhbKayp+s7wKDD3s+RPXrrqvK/v04u0fMQVbS6VqKRpxQm6RmLI6Hvjz4p4Y6zo018pSTzwhZxxEvYUV45WPxGgz4LRxNWOTDf/PEehI9otNgbQaBzuH3zEx4EbzQYWHH3ixF/mK5UFGi5kTmGdQIrx1VAf8F83hvm6XdZXmhzlw3gZMQnafGL9elau82VaIk+vALrLCsf4pOaR59QXgbRPCDvj2EntiLrKZl69IXL4YEuX3du5vX35gvTtbCUmTw9zG5RExXPFBsmAdJdvR5Fvde2Q==;8TtC0aJ17atB+4R+NjzR+Q=="
 ---
 
