@@ -4,6 +4,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-m365-identity-cultural-shift.md",
+      "title": "Enable identity protection in Azure Active Directory",
+      "excerpt": "Learn about Azure Active Directory (AD) Identity Protection and ways to optimize the end-user experience while benefiting security.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-cultural-shift/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-cultural-shift/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 3094,
+        "average": 4.7870073
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-enable-a-cultural-shift-toward-secured-identities-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-m365-identity-zero-trust.md",
       "title": "Embrace Zero Trust with Azure Active Directory",
       "excerpt": "Learn about the Zero Trust model and how to implement Zero Trust into your organization.",
@@ -76,49 +119,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/secure-app-with-oidc-and-azure-ad-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-add-custom-domain-name-azure-active-directory.md",
-      "title": "Add custom domain name to Azure Active Directory",
-      "excerpt": "Learn how to add custom domain name to Azure Active Directory.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-custom-domain-name-azure-active-directory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-custom-domain-name-azure-active-directory/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 1892,
-        "average": 4.7526426
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/add-custom-domain-name-azure-active-directory-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -312,8 +312,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 2659,
-        "average": 4.739
+        "count": 2660,
+        "average": 4.7390976
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -356,8 +356,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 1230,
-        "average": 4.499187
+        "count": 1231,
+        "average": 4.4995937
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -481,8 +481,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/getting-started-identity/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 360,
-        "average": 4.6805553
+        "count": 362,
+        "average": 4.6823206
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -516,8 +516,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-secure-custom-api/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 151,
-        "average": 4.708609
+        "count": 152,
+        "average": 4.7105265
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -551,8 +551,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
       "length": "PT24M",
       "ratings": {
-        "count": 4576,
-        "average": 4.7854023
+        "count": 4577,
+        "average": 4.785449
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -594,8 +594,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
       "length": "PT21M",
       "ratings": {
-        "count": 3279,
-        "average": 4.780421
+        "count": 3280,
+        "average": 4.780488
       },
       "provider": {
         "name": "Microsoft Learn",

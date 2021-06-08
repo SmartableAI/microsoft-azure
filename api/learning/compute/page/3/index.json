@@ -55,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 5125,
-        "average": 4.738927
+        "count": 5128,
+        "average": 4.7390795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -272,8 +272,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 3676,
-        "average": 4.5114255
+        "count": 3677,
+        "average": 4.5115585
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -607,8 +607,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 1028,
-        "average": 4.742218
+        "count": 1029,
+        "average": 4.7424684
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -657,8 +657,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
       "length": "PT57M",
       "ratings": {
-        "count": 6573,
-        "average": 4.727065
+        "count": 6575,
+        "average": 4.727148
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -736,8 +736,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/caching-and-performance-azure-storage-and-disks/",
       "length": "PT44M",
       "ratings": {
-        "count": 2050,
-        "average": 4.7004876
+        "count": 2051,
+        "average": 4.700634
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -772,8 +772,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 8666,
-        "average": 4.65682
+        "count": 8668,
+        "average": 4.6567836
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -808,8 +808,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "PT53M",
       "ratings": {
-        "count": 2403,
-        "average": 4.651685
+        "count": 2404,
+        "average": 4.65183
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1062,6 +1062,51 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-m365-azure-migrate-replicate-virtual-servers.md",
+      "title": "Replicate and migrate virtual machine servers with Azure Migrate",
+      "excerpt": "Learn the process for replicating, testing, and finally migrating your virtual machines into production.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-azure-migrate-replicate-virtual-servers/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-replicate-virtual-servers/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 21,
+        "average": 4.4761906
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/replicate-migrate-virtual-machine-servers-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Migration",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-publish-static-web-app-and-api.md",
       "title": "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps",
       "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps. Use Visual Studio Code to create and run the web app locally.",
@@ -1156,8 +1201,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
       "length": "PT44M",
       "ratings": {
-        "count": 2226,
-        "average": 4.5256066
+        "count": 2227,
+        "average": 4.5258193
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1451,51 +1496,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-in-action.md",
-      "title": "See Azure in action",
-      "excerpt": "The demos in this module provide an opportunity to see Azure in action.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-in-action/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-in-action/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 2193,
-        "average": 4.700866
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-in-action-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Databases",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
       "title": "Microsoft Azure Well-Architected Framework - Reliability",
       "excerpt": "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture.",
@@ -1596,8 +1596,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
       "length": "PT34M",
       "ratings": {
-        "count": 907,
-        "average": 4.689085
+        "count": 909,
+        "average": 4.689769
       },
       "provider": {
         "name": "Microsoft Learn",

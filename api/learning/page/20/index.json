@@ -246,51 +246,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-in-action.md",
-      "title": "See Azure in action",
-      "excerpt": "The demos in this module provide an opportunity to see Azure in action.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-in-action/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-in-action/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 2193,
-        "average": 4.700866
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-in-action-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Databases",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-sentinel-deploy-connect.md",
       "title": "Deploy Azure Sentinel and connect data sources",
       "excerpt": "Learn how to deploy Azure Sentinel and connect the services you want to monitor. Then you can use Azure and AI to provide analysis of security alerts.",
@@ -427,8 +382,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
       "length": "PT54M",
       "ratings": {
-        "count": 1002,
-        "average": 4.750499
+        "count": 1003,
+        "average": 4.7507477
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -688,8 +643,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-compute-provisioning/",
       "length": "PT50M",
       "ratings": {
-        "count": 1070,
-        "average": 4.6803737
+        "count": 1071,
+        "average": 4.6797385
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -980,8 +935,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cv-classify-bird-species/",
       "length": "PT32M",
       "ratings": {
-        "count": 160,
-        "average": 4.55625
+        "count": 163,
+        "average": 4.5582824
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1153,8 +1108,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
       "length": "PT34M",
       "ratings": {
-        "count": 907,
-        "average": 4.689085
+        "count": 909,
+        "average": 4.689769
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1191,8 +1146,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
       "length": "PT37M",
       "ratings": {
-        "count": 3505,
-        "average": 4.789729
+        "count": 3506,
+        "average": 4.7895036
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1267,6 +1222,42 @@
       "topics": [
         "Azure",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db.md",
+      "title": "Distribute your data globally with Azure Cosmos DB",
+      "excerpt": "Discover the benefits of writing and replicating customized data to regions around the world with Azure Cosmos DB global distribution.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 1885,
+        "average": 4.6265254
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools"
       ]
     }
   ],

@@ -4,40 +4,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-data-factory.md",
-      "title": "Introduction to Azure Data Factory",
-      "excerpt": "Evaluate whether Azure Data Factory can help you integrate your data sources. Describe how Azure Data Factory can ingest data from on-premises, multiple-cloud and SaaS data sources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-data-factory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-data-factory/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 45,
-        "average": 4.733333
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
       "title": "Introduction to the Azure Machine Learning SDK",
       "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
@@ -174,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-infrastructure-as-code-using-bicep/",
       "length": "PT40M",
       "ratings": {
-        "count": 84,
-        "average": 4.7619047
+        "count": 85,
+        "average": 4.7647057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -332,8 +298,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
       "length": "PT24M",
       "ratings": {
-        "count": 4576,
-        "average": 4.7854023
+        "count": 4577,
+        "average": 4.785449
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -375,8 +341,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
       "length": "PT21M",
       "ratings": {
-        "count": 3279,
-        "average": 4.780421
+        "count": 3280,
+        "average": 4.780488
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -702,8 +668,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-approach-to-ai/",
       "length": "PT54M",
       "ratings": {
-        "count": 1040,
-        "average": 4.6971154
+        "count": 1041,
+        "average": 4.6974063
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1045,8 +1011,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/",
       "length": "PT33M",
       "ratings": {
-        "count": 1246,
-        "average": 4.6316214
+        "count": 1248,
+        "average": 4.6322117
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1256,6 +1222,49 @@
       "topics": [
         "Azure",
         "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-responsible-ai-governing-practices.md",
+      "title": "Identify governing practices for responsible AI",
+      "excerpt": "Learn guiding principles for organizations, and how to choose and operationalize a governance system to responsibly and successfully use AI in the enterprise.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-governing-practices/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 502,
+        "average": 4.6513944
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-governing-practices-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "AI"
       ]
     }

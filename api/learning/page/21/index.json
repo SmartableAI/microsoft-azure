@@ -4,42 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db.md",
-      "title": "Distribute your data globally with Azure Cosmos DB",
-      "excerpt": "Discover the benefits of writing and replicating customized data to regions around the world with Azure Cosmos DB global distribution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 1885,
-        "average": 4.6265254
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
       "title": "Encrypt network traffic end to end with Azure Application Gateway",
       "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
@@ -547,8 +511,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/getting-started-identity/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 360,
-        "average": 4.6805553
+        "count": 362,
+        "average": 4.6823206
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -795,8 +759,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-secure-custom-api/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 151,
-        "average": 4.708609
+        "count": 152,
+        "average": 4.7105265
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1047,8 +1011,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/instrument-web-app-code-with-application-insights/",
       "length": "PT34M",
       "ratings": {
-        "count": 567,
-        "average": 4.5185184
+        "count": 568,
+        "average": 4.5193663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1210,8 +1174,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
       "length": "PT49M",
       "ratings": {
-        "count": 803,
-        "average": 4.6363635
+        "count": 804,
+        "average": 4.636816
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1244,6 +1208,40 @@
         "Azure",
         "Management Tools",
         "Mobile"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-data-factory.md",
+      "title": "Introduction to Azure Data Factory",
+      "excerpt": "Evaluate whether Azure Data Factory can help you integrate your data sources. Describe how Azure Data Factory can ingest data from on-premises, multiple-cloud and SaaS data sources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-data-factory/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 46,
+        "average": 4.7391305
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
