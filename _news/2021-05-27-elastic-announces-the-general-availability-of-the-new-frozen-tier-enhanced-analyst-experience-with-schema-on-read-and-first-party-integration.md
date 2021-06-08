@@ -77,6 +77,15 @@ related:
         width: 800
         height: 598
         isCached: true
+  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
+    excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
+    publishedDateTime: 2021-06-07T13:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-1030499903"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "NexTech AR says EdTechX approved as a co-sell partner on Microsoft Azure"
     excerpt: "Earning co-sell ready status allows NexTech to collaborate with Microsoft on promoting EdTechX as an augmented reality virtual education solution"
     publishedDateTime: 2021-06-08T11:45:00Z
@@ -187,20 +196,6 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/04d63a816388b94e314f79610c152242.jpg?t=20210607_010546"
         width: 752
         height: 408
-        isCached: true
-  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-    excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
-    publishedDateTime: 2021-06-07T13:36:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
-        width: 1616
-        height: 846
         isCached: true
   - title: "Cloud4C Receives 'SAP On Microsoft Azure Advanced Specialization'"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true va"
