@@ -308,6 +308,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Bitvore Announces Integration With Microsoft Azure Synapse Analytics"
+    excerpt: "Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed its integration with Microsoft Azure Synapse Analytics. Via the integration, customers can quickly and easily consume continuously updated Bitvore Cellenus datasets in Azure and integrate them with new and existing data sources to enhance predictive models and build augmented intelligence into their applications."
+    publishedDateTime: 2021-06-08T12:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/08/9385938.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 66
   - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
     excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a launch partner for"
     publishedDateTime: 2020-12-03T18:44:00Z

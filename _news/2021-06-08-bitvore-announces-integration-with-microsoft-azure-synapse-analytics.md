@@ -1,28 +1,23 @@
 ---
 category: news
-title: "Microsoft introduces Azure Purview data catalog; announces GA of Synapse Analytics"
-excerpt: "The long-awaited follow-up to Azure Data Catalog is here, featuring integration with both Power BI and Azure Synapse Analytics. And with the GA of Synapse's data lake features also being announced, data governance on the Azure cloud comes just in time."
-publishedDateTime: 2020-12-03T16:04:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
-webUrl: "https://www.zdnet.com/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
+title: "Bitvore Announces Integration With Microsoft Azure Synapse Analytics"
+excerpt: "Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed its integration with Microsoft Azure Synapse Analytics. Via the integration, customers can quickly and easily consume continuously updated Bitvore Cellenus datasets in Azure and integrate them with new and existing data sources to enhance predictive models and build augmented intelligence into their applications."
+publishedDateTime: 2021-06-08T12:49:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/08/9385938.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/08/9385938.htm"
 type: article
-quality: 103
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
   - Analytics
+  - Integration
 
 related:
   - title: "Harness analytical and predictive power with Azure Synapse Analytics"
@@ -94,6 +89,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 108
+  - title: "Microsoft introduces Azure Purview data catalog; announces GA of Synapse Analytics"
+    excerpt: "The long-awaited follow-up to Azure Data Catalog is here, featuring integration with both Power BI and Azure Synapse Analytics. And with the GA of Synapse's data lake features also being announced, data governance on the Azure cloud comes just in time."
+    publishedDateTime: 2020-12-03T16:04:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 103
   - title: "Limited-time free quantities offer for Azure Synapse Analytics"
     excerpt: "Customers with qualifying subscription types can now try the new serverless SQL pool and Apache Spark pool resources in Azure Synapse Analytics using free quantities until July 31, 2021. \n"
     publishedDateTime: 2021-03-17T10:00:23Z
@@ -309,15 +315,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Bitvore Announces Integration With Microsoft Azure Synapse Analytics"
-    excerpt: "Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed its integration with Microsoft Azure Synapse Analytics. Via the integration, customers can quickly and easily consume continuously updated Bitvore Cellenus datasets in Azure and integrate them with new and existing data sources to enhance predictive models and build augmented intelligence into their applications."
-    publishedDateTime: 2021-06-08T12:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/08/9385938.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 66
   - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
     excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a launch partner for"
     publishedDateTime: 2020-12-03T18:44:00Z
@@ -482,6 +479,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "UN+jcUy/L7/htrTPkR6MMk98B5sGllJasNh098SIyV+VpmTt8S14qedPQ0oEHNaNyFVQIH55KXDghU8XtRzjsguoHHztWBbhJfh8q8hVC3t0mps73XHPTHcijjEJudupgn5jz8OII4yZjssQI7zlXklZ3dveSfvJw9hsIUmIPtY5Ero7DMxSUJgkCQdVuuZt3YXB8CoWrR4HvkWqST5F8mIbz4TFTH7R0CZumnv+pChq7QHJrWFfkbXURHNwvZI+Gu72xTa55a7UGRpVcUhyMCEc0uCqBru+LPYQhi7B+PIE9uwE7UdZ7rG8uZgsGHRRkFndRjv6acd7TedjyzbYFPH4SBG+eRE9E/iXjDKepJwwD4Wds+niB/zWcB2Ir5+3KAO7MA1gAR6eYBOOXTwnrs3SV02yjiakLHF0+sXTjWZK6kEvNSKm/qpDLR4mTd6C48iRQQEMYtZaiXNlpAOb8s9h06Ya0usES06XkRAyiNnSPdTGQretaa4PuRgSKNLFbuhgRXV0ZSHPyEcLrZXADA==;VX/EerIaJTry4eTt29RKXQ=="
+secured: "Y904YGyKallBhGBY83S2PaJ2ZEYThu0J8PFWbVTjmmlq1KquOZW5EeRq4SL5qKS2q67YP6WyFtD434RArTlYD67RlqHx9UsdgrmiQl2KstPFzZRnpSH87nA7KmfhYK4KspEzlAuHhVDiT7oRgwbtUrm77xCnn2X4Aj8GQ5Ul99yzqf+R1uJYUzSkwMaZ9u1JZkFs/ceVu6Glp6lWCD/8T4GhJ1zKdo2VxdWAe/H56foHWgtqFbIBrKQy1eQKav9DRjOny6oBFgFPQC6kIk7N3BVBJzY3B8QQTPdWvdF3N0fT3dqSMSqywbXXsoKc0qgbB6xWFDSJNkvy0FCY46gWESnJc8hOKwWwgqQGBThjr3Q=;sG49Xe2SQKyK5x6VpCRkyA=="
 ---
 

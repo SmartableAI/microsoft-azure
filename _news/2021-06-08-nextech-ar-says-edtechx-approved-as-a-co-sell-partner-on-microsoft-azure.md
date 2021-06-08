@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Mindtree Earned the Analytics on Microsoft Azure Advanced Specialization"
-excerpt: "Mindtree, a global technology services and digital transformation company, has declared that it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
-publishedDateTime: 2021-06-08T06:01:00Z
-originalUrl: "https://www.cioapplications.com/news/mindtree-earned-the-analytics-on-microsoft-azure-advanced-specialization-nid-7883.html"
-webUrl: "https://www.cioapplications.com/news/mindtree-earned-the-analytics-on-microsoft-azure-advanced-specialization-nid-7883.html"
+title: "NexTech AR says EdTechX approved as a co-sell partner on Microsoft Azure"
+excerpt: "Earning co-sell ready status allows NexTech to collaborate with Microsoft on promoting EdTechX as an augmented reality virtual education solution"
+publishedDateTime: 2021-06-08T11:45:00Z
+originalUrl: "https://www.proactiveinvestors.com/companies/news/951690/nextech-ar-says-edtechx-approved-as-a-co-sell-partner-on-microsoft-azure-951690.html"
+webUrl: "https://www.proactiveinvestors.com/companies/news/951690/nextech-ar-says-edtechx-approved-as-a-co-sell-partner-on-microsoft-azure-951690.html"
+ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/951690"
+cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/951690"
 type: article
-quality: 53
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: CIO Applications
-  domain: cioapplications.com
+  name: Proactiveinvestors
+  domain: proactiveinvestors.com
 
 topics:
   - Azure
-  - Analytics
 
 images:
-  - url: "https://www.cioapplications.com/newstransfer/upload/frrqr450308.jpg"
-    width: 450
-    height: 308
+  - url: "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_06/1200z740_1623156012_shutterstock_1444620194.jpg"
+    width: 1200
+    height: 740
     isCached: true
 
 related:
@@ -69,22 +70,6 @@ related:
         width: 800
         height: 598
         isCached: true
-  - title: "NexTech AR says EdTechX approved as a co-sell partner on Microsoft Azure"
-    excerpt: "Earning co-sell ready status allows NexTech to collaborate with Microsoft on promoting EdTechX as an augmented reality virtual education solution"
-    publishedDateTime: 2021-06-08T11:45:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/951690/nextech-ar-says-edtechx-approved-as-a-co-sell-partner-on-microsoft-azure-951690.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/951690"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/951690"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 56
-    images:
-      - url: "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_06/1200z740_1623156012_shutterstock_1444620194.jpg"
-        width: 1200
-        height: 740
-        isCached: true
   - title: "Mindtree has earned the Analytics on Microsoft Azure"
     excerpt: "Only partners that meet stringent criteria around customer success and staff skilling as well as pass a third-party audit of their analytics planning and deplo"
     publishedDateTime: 2021-06-02T09:31:00Z
@@ -98,6 +83,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1622625655.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Mindtree Earned the Analytics on Microsoft Azure Advanced Specialization"
+    excerpt: "Mindtree, a global technology services and digital transformation company, has declared that it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
+    publishedDateTime: 2021-06-08T06:01:00Z
+    webUrl: "https://www.cioapplications.com/news/mindtree-earned-the-analytics-on-microsoft-azure-advanced-specialization-nid-7883.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 53
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/frrqr450308.jpg"
+        width: 450
+        height: 308
         isCached: true
   - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
     excerpt: "\"The Analytics on Microsoft Azure advanced specialization will bring our experience in accelerating data discovery and making data-driven business decisions more accessible to those organizations ..."
@@ -276,6 +275,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "R3K3tCgTc2XTKfHj4J94E06L3mSQ+kekQFdn7qdYQEtYc6QP78M4dCF1gBAM/3YS9o+o0N11PwDLcpBeahg+06veIE7xK0RkARSk460C9QxV8bsGzqDb4IdvJwRjbqK6DdPHAZysIb8SQw+u8L5hlFBRQ2ioI0mA0iZEK1OZAG0489+tHghqzuB9NjIi33/tyjasTtmde1rDImeptWuCtuyYjL2UvKXhJp9QlRCPUGoEASKDhQIZuOdj4AzaONeY4i3olWp58pw2aZyYSSd8WFooAOpah14CgKkjs8auIQtZ+FUVZOPQFy2tp9cyqPKOGZSD+6NgS3VOqcIbtL794d4VpszDdHk4+tD2VmofhQA=;w3WHfi9Os18aHnDVAY/YsQ=="
+secured: "5Hj+32xvbbzYArXyeV9I5E03Q3Qbv2R3OMkV5H/RowlOZvvFdgamQTwyfkgmOGKNQSC40Z0UOjQSuYECfWXzRekLqaf8dNWFgZfN5J8UBOU+qFlgbS8Y4kgQ1N79EResEsHmAHPR85d60g7c/X7sWFcQ9fP1sVlu2M9+Y/T6g0JMhinCCGErinESUxFnIwrZKu0Nm9M3nObA1ByoXdYZDGooOUJTD0zwC4v2Xhgb7hetElnRTGSW7KTl+5qnJeOEdIJYJRRzBxh97yH6YeUc16A6s/+OOEAUy8Jc0iT/QjnZjo15WlSsViXObs7urnRDrlg63yeLfEQ5dGsD0zIJTVl8b+dhBCu9eqV7G/o/3SQ=;wQN6RPwYjH/6q2PftQp55w=="
 ---
 

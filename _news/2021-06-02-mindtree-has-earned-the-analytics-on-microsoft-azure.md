@@ -69,6 +69,22 @@ related:
         width: 800
         height: 598
         isCached: true
+  - title: "NexTech AR says EdTechX approved as a co-sell partner on Microsoft Azure"
+    excerpt: "Earning co-sell ready status allows NexTech to collaborate with Microsoft on promoting EdTechX as an augmented reality virtual education solution"
+    publishedDateTime: 2021-06-08T11:45:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/951690/nextech-ar-says-edtechx-approved-as-a-co-sell-partner-on-microsoft-azure-951690.html"
+    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/951690"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/951690"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 56
+    images:
+      - url: "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_06/1200z740_1623156012_shutterstock_1444620194.jpg"
+        width: 1200
+        height: 740
+        isCached: true
   - title: "Mindtree Earned the Analytics on Microsoft Azure Advanced Specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, has declared that it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
     publishedDateTime: 2021-06-08T06:01:00Z

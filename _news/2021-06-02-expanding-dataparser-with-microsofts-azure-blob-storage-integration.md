@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expan
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expanding-dataparser-with-microsofts-azure-blob-storage-integration/article_fd97f019-dc3c-524c-b58f-6ec97e86e202.html"
 type: article
 quality: 86
-heat: 466
+heat: 486
 published: true
 
 provider:
@@ -55,6 +55,22 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/06/6CF52215-66AC-42DA-9307-7E975564CE3B.png"
         width: 800
         height: 598
+        isCached: true
+  - title: "NexTech AR says EdTechX approved as a co-sell partner on Microsoft Azure"
+    excerpt: "Earning co-sell ready status allows NexTech to collaborate with Microsoft on promoting EdTechX as an augmented reality virtual education solution"
+    publishedDateTime: 2021-06-08T11:45:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/951690/nextech-ar-says-edtechx-approved-as-a-co-sell-partner-on-microsoft-azure-951690.html"
+    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/951690"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/951690"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 56
+    images:
+      - url: "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_06/1200z740_1623156012_shutterstock_1444620194.jpg"
+        width: 1200
+        height: 740
         isCached: true
   - title: "Mindtree has earned the Analytics on Microsoft Azure"
     excerpt: "Only partners that meet stringent criteria around customer success and staff skilling as well as pass a third-party audit of their analytics planning and deplo"
