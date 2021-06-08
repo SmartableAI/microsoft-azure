@@ -4,7 +4,7 @@ excerpt: "SC-200 part 6: Connect logs to Azure Sentinel"
 type: collection
 price: Free
 length: PT2H44M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn

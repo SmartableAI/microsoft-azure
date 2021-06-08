@@ -8,7 +8,7 @@ length: PT50M
 ratings:
   count: 1991
   average: 4.6228027
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "qTbbC2JZ9IayG4PMSdGN7KTH3sMxZqyMFu69aOtAOYmBCZT6YCYelPjnBpQoCWFlbTp5kUQxKo7Kpz0UqIyhYBiBaiDgwQj0KDpd/9C85IauFtNvNgRtgeFChs5L42uJIUeBGG7irkfHqxSHje2fCFlyZhz2FaoFzZyjnhqS2+Sl8qJdHWVsYg/ddy4BTUqxpOpn4wuEgai/Ku24o2NjUtRKNVMAW9l4d+LZOr8s5Z+wrvHQnlsR8fg3xHqZ2bPkmQwkcbTeFJjgnd1htnY9KP5Etvhm+sNE11YbMIdTWwLnhKf0DsNFto49ZwPO3OK84qHBJxWFeH9EPqlabpJ+Paj4UKbSciHEUBnDaF/BeUzHyKGQHmOwlx/fQ9nY6ms95Ee3rPhJtpFe/AlIL9K6mCOGnCCoX7mAzsq/GrY8ZQ8=;S1boItWCANoR0ERgt6iddw=="
+secured: "iGA+4CcTJeCzA5lsBRQ9Mevd/SVhJZM4jmQXJCqOV8CW2ZLfN7p7jslcFnKMKWwobf16ejUJQUQiALc6huEjJrYZmkp0ZK1L6ir33dt4nMckU8LXlkM/sOv6LAERt1yMARIzvT/MWptk+BakiVus75bg1JffnHKgRS0J2Ec5obMM+5eSJwnWWeix1uLWmk6mSRYkAtekywg9sCtqaPsDrlZgyNAwtIPdTHQxyNudVRmtFWX0WwKa5VbnVmRnEqyDSRw72axXiGWxBSzoyBopXVrGx+a02pTRYbGzAUFLAsImruySuqxJSTDA2dr7eHT8LD0lCaTau1DXiY6/ETGVxnIPxoUVsWuLDsn/FtVAYQrSnQoIstiRWwiX5zyEjWOBoErDDDDQp8GvSfM1KCCTAjuozdVYVCDRCvodS7wKmpg=;n4MF9R7KvZxwnoZGmzXCuA=="
 ---
 
