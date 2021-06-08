@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/dark-theme-is-now-availa
 webUrl: "https://azure.microsoft.com/en-us/updates/dark-theme-is-now-available-for-the-azure-mobile-app/"
 type: article
 quality: 104
-heat: 224
+heat: 225
 published: true
 
 provider:

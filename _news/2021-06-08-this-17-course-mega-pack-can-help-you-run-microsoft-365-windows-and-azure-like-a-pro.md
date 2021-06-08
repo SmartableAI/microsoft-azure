@@ -1,22 +1,31 @@
 ---
 category: news
-title: "Elastic Announces the General Availability of the New Frozen Tier, Enhanced Analyst Experience With Schema on Read, and First-Party Integration With Microsoft Azure"
-excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced new capabilities and enhancements across its"
-publishedDateTime: 2021-05-26T19:40:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210526005861/en/"
-webUrl: "https://www.businesswire.com/news/home/20210526005861/en/"
+title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
+excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
+publishedDateTime: 2021-06-08T14:20:00Z
+originalUrl: "https://thenextweb.com/news/this-17-course-mega-pack-can-help-you-run-microsoft-365-windows-and-azure-like-a-pro"
+webUrl: "https://thenextweb.com/news/this-17-course-mega-pack-can-help-you-run-microsoft-365-windows-and-azure-like-a-pro"
 type: article
-quality: 0
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Next Web
+  domain: thenextweb.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/thenextweb.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Integration
+
+images:
+  - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FMicrosoft-365-Windows-and-Azure.jpeg&signature=4473b14db4efb228b77123ed96a80077"
+    width: 1280
+    height: 640
+    isCached: true
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -46,20 +55,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
-    excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
-    publishedDateTime: 2021-06-08T14:20:00Z
-    webUrl: "https://thenextweb.com/news/this-17-course-mega-pack-can-help-you-run-microsoft-365-windows-and-azure-like-a-pro"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FMicrosoft-365-Windows-and-Azure.jpeg&signature=4473b14db4efb228b77123ed96a80077"
-        width: 1280
-        height: 640
         isCached: true
   - title: "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement"
     excerpt: "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time."
@@ -279,6 +274,15 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Elastic Announces the General Availability of the New Frozen Tier, Enhanced Analyst Experience With Schema on Read, and First-Party Integration With Microsoft Azure"
+    excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced new capabilities and enhancements across its"
+    publishedDateTime: 2021-05-26T19:40:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210526005861/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
   - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
     excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
     publishedDateTime: 2021-06-02T12:00:00Z
@@ -289,6 +293,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "myF6ydOlfxYiJW/MR3pBd3T8f0cuNfRxJkeIX/b4V9o3hi7ecvHLb0HYWsMK+QttliNgLvN1/sQHTtc9IRwIbPwUvNxs/d4RLzkH7H6JMdfOoglQegVcpzkSgU6pUjNX8C5G6Vapw7HBekalXt5ue+qdwV/RcpJYPuCTcHOG4q1406SJKyRscc9HAr5nerdTgRbBEKglF0nn01qsRFHeHl4wnsYS/hqe5fcA8spDu29ICe+5L+L2goYxgOMfNSWdAlcPrC3wEYdKd1HBbUuJzez9e0HJ30t1m01wb/nSQOIhUbZbzX8RM5o/5ybWAA0Y+YtvC9F6HQTMhU0t8B3X9zjBcttTpr0obg1TmC2wYdaBlUJIhz7g6iiiG29GufWgCGiG1G+/2b5VIhVFxtFk+nkIxdfHn1UyOpneCkzFwfvULbrRj849Jvj82xLhQ2XBkUg/m6dJTkltWJB2uiDalFwKQy/i9gS5Ywc5QVbdEQtxiqDw4UZIkyJaQgWJ0DkgKJgCxVXrOpueuip11Hm3CA==;aJPtN+s5sjQbd1yEIiYqlg=="
+secured: "rnm3KcskT+fQgcOHK5TjUYOX+tPgGWt0rXvU0viUR6YYuyqfv5CuSSbAE+OUTJJg21uh71WsG62pPAjCiuCM8hlle7M+O0ja4FWM3lrZMlXnE29korajQAOVrYMGuCSmJIxbxnN7ShAj0L8PPTZy9SwDeEPILqZuuw2glejZYefsdDE+kmjZxYj8OhCf6GPqCq8Qy/VmJeu1ElOINxE8nmf8ou4RpwINJs4eUJuoKS58laHbcRUYRXjd5r7NHnmbTf3/WPTd4vEhwyxempE2+FJfn8QSnP3SQGG8oSYMqJdnlIykI+m2yBQGKcxqd88afIBo8f6WhMdnktlm8mU3e8oZhJHiiX7MF2X/Dug0y8M=;ud/gVUuctFfQziVfAwhA5Q=="
 ---
 
