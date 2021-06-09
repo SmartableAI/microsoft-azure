@@ -75,20 +75,6 @@ related:
         height: 313
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Jake Zborowski, General Manager, Microsoft Azure Platform at Microsoft Corp., said, \"We're pleased to welcome Dataiku to the Microsoft Azure Marketplace, which gives our partners great exposure to ..."
-    publishedDateTime: 2021-06-01T13:48:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
-  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available ..."
     publishedDateTime: 2021-06-02T02:50:00Z
     webUrl: "https://www.thaipr.net/en/it_en/3060797"
@@ -118,6 +104,15 @@ related:
         width: 504
         height: 360
         isCached: true
+  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
+    excerpt: "NEW YORK--(BUSINESS WIRE)--Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online ..."
+    publishedDateTime: 2021-06-01T13:32:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
   - title: "Space Hellas implements first Microsoft Azure Stack project in Cyprus"
     excerpt: "Space Hellas successfully completed the First Azure Stack Installation at Cyprus Trading (CTC). Responding to the CTC Group's need to integrate information infrastructure and using Microsoft Hybrid Cloud technologies,"
     publishedDateTime: 2021-06-01T11:14:00Z
