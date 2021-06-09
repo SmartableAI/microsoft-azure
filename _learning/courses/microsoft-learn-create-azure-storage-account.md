@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT30M
 ratings:
-  count: 8978
-  average: 4.780686
-heat: 67
+  count: 8980
+  average: 4.780735
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Storage
   - Management Tools
 
-secured: "1f6oaMc8uX4hqgIxqA8Hp2E6W9Se4xtIosaKPjhc7HuTkBY3xCjwrwxSeuskVPDXDJY3TRjQBNQb2V/TvaUoJ0Nkz8oMg/hc1JnZadkZKKR2BhbtaesPxpfdTGbRW4w7GGZoWv+MQ6mfP4RCLy2S3tjW4uq9INIb+k/KwQ0mYJja9VBHf7qyxOMUjuklACUlpQeUmSM2fQw79jBg+J1uoP6kYauWOMmWzWlqNXKdpyjM1huexOguKv44Jcl2nR+fpTTeqOvfvpVOPO9Nr6DsAWrruam1ot87XzBvu2JzSNQtxGM9m8LXwmB2993szxs36y2isMEV9yGmpo8zMj92olx14rKGZBL03UOh7gW8TZtpCmawOypwNNs/znUK9oZtZsnunleuFd6ttok+zGho49Vie2qZcKXsydWT41bUBus=;oWg98HDafdverFcVr+mReQ=="
+secured: "PuXbggcIzZDyLKk/x3k1hQIP1wR/hES7ZDEl03XmlYJQIfNdWJTQtmV9MT08BF4AYg8gppluG8CZLvRRdNWqKCXm/P21wrop8ES/iTbxn2+YWsKpJHht2bOeQ8W+6anmxDvtYV/M3uG9najRJlL42sh8W69lXCfEEgBDQMjTHZXeFz7PkD208xL2ikVWxjYasKXr/FE3ZcGpepDnAPcB7aSDjByrA/UnG87cxTDZJEgXALL3NiSGcVHEhNy+H8TSNc6QV8IigBQbGRRa9jnjI0EeHtTnSgRbd5aMoyUuIWh33A/Kg937fr+w3QUlWiW4Cvy5qkWpkqHNxAVWZY1AvfEXblG6RBizKlXjcMlul2cUNMuQA1T4QEhMIQBg2ZWZQrIA0TbLxcbSjhMnKMXtJPkM0h7J2q9sJu3gXzLMrxo=;IDzriJ3aRVNJQuQZf+VbXw=="
 ---
 

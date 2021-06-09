@@ -8,7 +8,7 @@ length: PT29M
 ratings:
   count: 1386
   average: 4.7417026
-heat: 58
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - AI
   - Analytics
 
-secured: "Mtr1S2bXXIHu2NH9sJ0oCkS2hxOfqjFod6Ols+MTUFza+lgvcL9EnsyE3V90RxSLkbXZVOuhtRHON7ZgfdiunyJfBQazNgd3cTkRvVvb1bpplD0P1vm+j+pXZ/+jsB/Yd6C8lq7bh9zU437Mv9SBHEgZDYbcLkAEWpFIQdhe4Bi1twusyAxEAUUw2p8XklKx8bDV0mqFG0LZ7lz7unuWGoZeICe4eavpQnlgLRJuqmgRdouDZsGlowvrG7V3FihHhUVp+g5UA2A1hXlUAh9+fiOJuTAban0G8VBuiUPuN8P44eotQEXQFy0QcmxxlfkqrYqDpCK4oeEEuoLBzj7zJpWnb2qENQqgzngAaZQ0DEpklJF5C0XgGFU0V1kRprQNGhb3eOIb2cyPFNQHWPKm+1bPMXD8M9tACP+YSPNK78A=;nZ96GuRihGVgKOjp+T/kKQ=="
+secured: "3v+CzxkQP30SgJGn9GuzoKWRdUQV8HIgjrULz4O1HiTh0RALvfHLJAWHDgUy0NFgdAycY44x8JdPML0QsTi/uKqPiiXShCr0cdGMDwi5+Sf9iISIuK3BPOjqvwV9JD9YiQwQP2srJpPilna1ViBJ6p6IGwml4EjG08vwQcZDpJNLwv2huRMdkJgazWFZ6FjDMaFtZSdN9szDwYv+o9ImJQWYK8wUNeo50Qkc1WbpHsc5AAWMfLDfN6RESWaTY+c6kqXVnZ1cvLSQInzWz/Bma/FnPlpef+OeFr5/MAfL2cLTaZDZZWOmTIjhqcsiYBGy7n/f5gz64+XkvzTBct6+d9PDJnC8eiOt3o5PFxfVugWiy8VxE/M3yo6qeFV0MiGe3kUa4ZYOaCU4tgasde/s9/ByEg/7Jxk10dE/T9Vs4+0=;DWOZGe6IFy0RbgCzW3JETw=="
 ---
 

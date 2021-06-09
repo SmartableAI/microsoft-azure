@@ -8,7 +8,7 @@ length: PT16M
 ratings:
   count: 1814
   average: 4.745314
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - DevOps
 
-secured: "FxlJXPGY+e6DAwNvHeD6/hOUXieMZZZH2t8o/fyYaMF+t0iU5HpdtS/plYvm0YYygiksAvc3BjsaazFwnU1do34e/9+zKQUfU0ybhM6FpJAl3JJsvDPWtmn8g2dw0eU+X2acwcaZL4+bw0dCqh37gn5S/njAD3UMF5AUUrhV46NV4ylILPLkPvRXfitq6xIM+kMNSfpOzBPmiQdLBPwgrCnoQTACuR7YPrZcC+94rZDYvlzj424O/li+VqwFkMNeu/jRCK7lovU2ut4tWjCNMT/0c6Sg+GN3wX+O4s+7H8C6oKhf53qq0dQBhNbgL/0bmR71emutdQakDIKRNFk1UBQgoOtbnUCqjGfNJnX2MUGbCAPWQl+GSJmQF3afWro2Kr0cJAC8Wk1+5Zp5ya7ejc4KuEsXCCcfkFafhVckiOc=;ZU8L/qO7v9B+Ph7N8cv7NA=="
+secured: "l/L5kAs1QHMW1yEPFYXC44CyiUdlIoXAP8/4qsPmkfmpBxgNFadH9Pwb58+WdDbRzXxj1+xAPtarynp/Tn7HWJ6TlxoyTHjurDe7INiHrqve35OhLHeVQXkvknOzfBQoHO/tJX/YMFSQbDt4pJz1Mf9xrfT2djwZWYLl8I7u2E5jvFvu8uj8HCkKobczc9u85pFpimzVcn9S4hL1s4Zgl5Jajury/Jdt6dSiMHV7wqxmUa5vroeBNjKDg0R38CLgaSKme3MVb9ZtL1dtouKJJtrxZTiMoGypVrBeQB2pune+I9DtUuqbq3/1LpzdVpIcWHR0TxTn7kmFt/L6B0NL4isdJ136Inw8NG6LJPa5Z5RHCR/QDdFKWkIQyiY1D6m2Q2w2pK4XwkGVChwzGJrvXxzxr85cnQwKpD9PmbzzraA=;LIYxf14FkXwAPUsff0YxwQ=="
 ---
 
