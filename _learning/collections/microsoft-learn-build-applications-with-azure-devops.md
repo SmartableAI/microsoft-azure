@@ -21,7 +21,6 @@ items:
   - courses/microsoft-learn-create-a-build-pipeline
   - courses/microsoft-learn-implement-code-workflow
   - courses/microsoft-learn-run-quality-tests-build-pipeline
-  - courses/microsoft-learn-scan-open-source
   - courses/microsoft-learn-manage-build-dependencies
   - courses/microsoft-learn-host-build-agent
 

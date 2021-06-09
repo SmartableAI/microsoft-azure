@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 61
+heat: 100
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-create-custom-handlers-for-azure-functions-azure-tips-and-tricks
   - videos/microsoft-how-to-get-started-with-natural-language-understanding-in-azure-azure-tips-and-tricks
   - videos/microsoft-how-to-migrate-your-mysql-database-to-the-cloud-azure-tips-and-tricks
   - videos/microsoft-how-to-get-started-with-azure-health-bot-azure-tips-and-tricks
@@ -23,7 +24,6 @@ items:
   - videos/microsoft-how-to-run-logic-apps-in-a-docker-container-azure-tips-and-tricks
   - videos/microsoft-how-to-use-blob-versioning-in-azure-storage-azure-tips-and-tricks
   - videos/microsoft-how-to-deploy-steeltoe-net-apps-to-azure-spring-cloud-azure-tips-and-tricks
-  - videos/microsoft-how-to-create-custom-handlers-for-azure-functions-azure-tips-and-tricks
   - videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks
   - videos/microsoft-how-to-create-faster-and-smarter-apps-with-net-5-azure-tips-and-tricks
   - videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks
@@ -176,7 +176,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/2iwHmaoi0wU/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/roWbjuo-c30/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
