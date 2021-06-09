@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT16M33S
 publishedDateTime: 2020-09-03T21:26:47Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7G_oDLON7Us\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "eJGN9lcHVBZRdMnoG0ab03QUsRh26qTjYt9F0WXpCTyRg/zGVU6i/i838R2ijA/+ZCIplutcS/ki89CkbozOXV2U4nrddwjdb93caJP/zMTjlN5cQt/p1zXWhSzQQ8XzKwiuwYOxmvJQbI673DHAVTdylHxoADlFe++YHc7r4sJzMRTcPqM4if8yPWeE0Y9gFe4PaLk2F+1c4OoN9wywoncBm7GmkfG0yGdw3Szi9nfxhR++4HMrlfTpY0aM7WefzaBZzSuqr+psbKGchVx1uCbH/Yir8JXrZDVZkhJ294kembiU6aZkJUcWZklTPIPC6xzCmid8rL3pUyEeeLaOTfb8/329bItkNVgBHCCJHI4yXz77wtUVKiWT0Sfh9+Ur1642cccavMpJLhRvoaZKmCtSSTjXjjIUfCZ0hGLt5SI=;wCjHbtsxkW3L0IfAyc37KQ=="
+secured: "UObk8EBLkPiA3Z9edsIV/gyny+oQlqCIcUSElticcO0VkGzciJV2T+losNB+8MmREGSD9IF8G4eS/hEAXZPaPk+dOe1ujl0+xapL7jD4acR9FbMPSDwrbPngKOJq4rKVNFahwoJq92nOF54Y19irptD0TnnkTBfoEPLhzYaSGhv7Po7SnSimRB4+bkKhbghzLiS2DrKzkbawU+hdV2fR1pr4cm5k+S7N2UuTXFYeZjxogJkMFxbGzY1yFIMLX+vvvJdb/cSAHcZFMn+KStiFJjGeX7j4InrtPrMAgZLfahgbiHQN4+1rgzxQ4SGBZPpohF5jjakBduIT4gh7HVUOqUUCV6j8ubk8+Ax1zcOCpnCy98ucgzUpPfgmNNRRW4ft9NFHFk5tWb6Re7cjR9QnX64s0S5tt7E5rT7UleK812E=;yOa1e5dxkuZgLo7VNGuFJQ=="
 ---
 
