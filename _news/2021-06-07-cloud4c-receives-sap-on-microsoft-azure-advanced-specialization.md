@@ -2,26 +2,24 @@
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
 excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
-publishedDateTime: 2021-06-07T13:36:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
-webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+publishedDateTime: 2021-06-07T13:44:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-1030499903"
+webUrl: "https://markets.businessinsider.com/news/stocks/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-1030499903"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
-    width: 1616
-    height: 846
-    isCached: true
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -294,6 +292,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "5vYuIkv/zN3nHAND3aMT8ZFgPxC0UKg4RSa15+AAC5G2IlTmmhnE3Gbiqt38PhkKcK6eEMxQIO3TKfswcpx+X97N/iGdHDlrk25U2lBJP3et3eqx9INhl+CS/gxuZh9qpwH+aEoHdcHb/DiIWC+ESOwGs/c+2JcTxWJTaFqlx88pvwlTg/AwZd70oRngexCFElcLTCxzKFpz9a3e9JcqLOTAxVNKnpReFGMi5ohVLWEfAhTiUt5Aha8Zd9gF/QDQftMU+nhmk2fBQEZTWfRZxjwV/3JltF4BbGPPHi1Y7MHRx5+k3BmdjHQfxotWoHgYm+hSo1EMQwIRIJFP6Ay0pMvwjOhKkljBP+2kthnBkNU=;XazQgZZT+WyCUfVTa8NnGA=="
+secured: "kgk54916XnX8fgZdfTNCR4stw109jYpjKjxDfxAp2EIbZDqaAxQ2nMUjd8Bc6eTNp2GGyB0emCzb9K1mEC7oiFVWY6syKQvPEvP7D3N4NGjOiwrO+rRWxxX5jR4CZYhrfcyxarpF0VDqw755w00HPA1lSUBbFJx3AJNzG/mM+yiCNza05H7s/2HR0HLb6Oc+YAhM4MMmMaz/JV0IK7+IQx8+rp2XxrSII/D/swoPLWENyY3reDLQ7z6LIfwM0M4EHp1b3sLP2JOyFuKsMP5i549gaS1fw/QVXbnKLCc5yijjsQVSZi98nJti/72jMSAbf+2baARjOyt3LrYo6mOmkW+jlCoAfnOXX+yfEXWRtTM=;1DyBJIf0RULhEuf4eG5lgA=="
 ---
 
