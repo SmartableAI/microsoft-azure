@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/why-customers-including-sap-choos
 webUrl: "https://azure.microsoft.com/blog/why-customers-including-sap-choose-azure-for-their-sap-solutions/"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:
