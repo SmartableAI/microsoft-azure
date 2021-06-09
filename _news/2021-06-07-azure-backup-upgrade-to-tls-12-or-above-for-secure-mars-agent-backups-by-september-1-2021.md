@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/ab-tls-upgrade/"
 webUrl: "https://azure.microsoft.com/en-us/updates/ab-tls-upgrade/"
 type: article
 quality: 73
-heat: 75
+heat: 76
 published: true
 
 provider:
