@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-log-analy
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-log-analytics-workspace-insights-from-azure-monitor/"
 type: article
 quality: 101
-heat: 462
+heat: 461
 published: true
 
 provider:
