@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
-excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft (News - Alert) Azure to help public safety and justice sector organizations modernize their digital investigations."
-publishedDateTime: 2021-05-27T12:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-magnet-forensics-leverages-microsoft-azure-improve-digital-investigations-/2021/05/27/9379256.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-magnet-forensics-leverages-microsoft-azure-improve-digital-investigations-/2021/05/27/9379256.htm"
+excerpt: "WATERLOO, Ontario & HERNDON, Va.--(BUSINESS WIRE)--Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice ..."
+publishedDateTime: 2021-05-27T13:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210527005164/en/Magnet-Forensics-Leverages-Microsoft-Azure-to-Improve-Digital-Investigations-via-the-Cloud"
+webUrl: "https://www.businesswire.com/news/home/20210527005164/en/Magnet-Forensics-Leverages-Microsoft-Azure-to-Improve-Digital-Investigations-via-the-Cloud"
 type: article
 quality: 7
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -719,6 +719,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "thwuvpzAjLEELfX+eWSSV1szBQt/1/aaG8lWi5mdbNYU+QfX4ZzX7QALXfhcJhwxvIKfzKBVrAzs8m3DT/BmpNY6Eal5XADxOkHWzwagyqj9E7fbNlbkUsgaLIqdqkLbh/OREvvOVDFaMfpZxz13A8LDmNDpHgOhAoZtv1Q6ZhkMMV2uXp5vuw+Ryc6eWb5GISccqnKIlHkEqVcWiUEXVOhrUYib5fKJAcSU1moKdyQtj8gGeLEJ5bONLHh2YBamjVyTLWdG/8q2k4yILWLo7E/FewpV3s9H1yp/F8Xia9F3T1cGAjvwzaYJdC8gypMtAqsGqDUFcPsEYqinXRBa+zCUWpseOnx5PD7SIQTs/DM=;svEtphbcryUlmYypMaycWg=="
+secured: "WKO4NfHM3TM9XJnSgX7foawKin/Oh+C2C0IuYapKNZFK4CPrdAIubsAQ7V8fmuuzoNM8215Ph4tuttCCczqGjPVM1BINKJFluoRaucePV3MvTcOL5lO9t/NmkAJ7X6CrNJ4ncD4YYkCCEIaIJAJGA99N4DjPHCnG/oGHX1Ai2IadHe/dqYN3xFnvNz7J32e74xRwhG+Xg0ncwZ+uRIs9ov9VA6XfiaUU0LHoR6ajq3rKC3jwhNXK/ipwjIEh9jKaWFMKycwDMgcLhCXXMwu63CvZMOivQ69qcV3gy5gjgr9Nhs/5HdnUXqkKjINIjaED/O/RGKjMhQ5P3dWSKMYDn/lvELded2fR6V4M+4gW6Zo=;GUWNVlupvT8WTsFIt4wmsw=="
 ---
 

@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Defender for Azure Database for PostgreSQL – Single Server in general availability "
+    excerpt: "Azure Defender provides security alerts for anomalous activities so that you can detect potential threats and respond to them as they occur."
+    publishedDateTime: 2021-06-09T16:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-defender-for-azure-database-for-postgresql-single-server-in-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 90
   - title: "Azure Database for PostgreSQL ending support for PostgreSQL version 9.6 on 11 November 2021 "
     excerpt: "Community support for Azure Database PostgreSQL version 9.6 ends on 11 November 2021  "
     publishedDateTime: 2021-02-22T19:00:01Z
@@ -59,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 88
+  - title: "Azure Database for PostgreSQL - Hyperscale (Citus) now compliant with additional certifications"
+    excerpt: "New certifications are now available for Hyperscale (Citus) on Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure. "
+    publishedDateTime: 2021-06-09T16:00:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-now-compliant-with-additional-certifications/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
   - title: "Public preview of Azure PostgreSQL backup with long term retention "
     excerpt: "Now you can retain backups for up to 10 years by defining your own backup and retention policy for individual databases on PostgreSQL servers."
     publishedDateTime: 2020-09-22T16:03:01Z

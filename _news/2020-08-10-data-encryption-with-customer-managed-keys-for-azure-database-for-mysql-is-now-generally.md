@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Minimal TLS version setting is now available for Azure Database for MySQL"
+    excerpt: ""
+    publishedDateTime: 2020-06-04T17:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-minimal-tls-version/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 16
 
 secured: "+uierz2bt+A7M8uDMFEjpK/YJNFw7U16ioFvxf6VGPN5i9IPqNUQgGW6/BjeOW78T2pt9i7URolVlfys1Z6c8i/u70whFCx660a8/Tl0PkVxxHvv3Rmu0+lIv23HTDc6aDX1Y4siBjgdlsHXKSmoJHE6eTPRLDY1aWwCpr059noo24APu+pDvxBEC/qtLHfw2Z9G264V8oZvENWe39onGL2mvLkGasUx7nnSbSB96on8qrcZLgLTKy2cWKFk2U3zQFjZbX7MI51yUkEjZUAs+y77T5BRXLWOB3csbLfuIjIcM3ZWVXE2sJqt3dzjY5monCKsJ7r5pEOxfjiuqiyUVA==;TLJyBnprTxoblisqlZl7cw=="
 ---

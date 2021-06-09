@@ -388,6 +388,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
+  - title: "General availability: Enterprise-scale landing zone reference implementation for AKS"
+    excerpt: "Rapidly adopt Azure Kubernetes Service (AKS) using industry-proven practices."
+    publishedDateTime: 2021-06-09T16:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-enterprisescale-landing-zone-reference-implementation-for-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "General availability: Event source start options in Azure Time Series Insights Gen2"
     excerpt: "The new event source start options feature in Azure Time Series Insights Gen2 gives you flexibility when configuring an event source."
     publishedDateTime: 2021-04-15T16:00:17Z
@@ -460,6 +469,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "General availability: 6 new Locales added to Speech service to support speech transcription"
+    excerpt: "Speech service has added Speech to Text support for 6 new languages and locales."
+    publishedDateTime: 2021-06-09T16:00:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-6-new-locales-added-to-speech-service-to-support-speech-transcription/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 42
 
 secured: "Tn8yLGjIuDIN4FpvDQ31eAyUVVGIfNq33XukRaAmZ+VM4OcIigOVWTQwNAukWhgOi+fJAphI1G2D4/blUmfEBp2jlIaiwRsIDMYUJODmUoNvUhu42+Tn1bQLRlNVfIEDf2PsxPctZjqeI7V5X7jqzFpCTiwS+7hF9M+j088A4JdBtoHETnONYgcQnNRjp19CulvgQHMdS0lC+2zp1RmIq4gzvuL8u0zowRGJfQRi9YDPmY0F8NL4c+ZtAYgyqaP9pGU2QE87YUNONxua4wOgCm8tP/Q3jTaBPZfRTbcvMhu6gDByzjxVcxxZpQqH9UHZXD4iVslvLmieT/C2HpCpVKRRpJPJlLmAII+IKdijh0U=;4ZRVpQEDiGcr5q7P939UPw=="
 ---

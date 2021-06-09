@@ -396,6 +396,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
+  - title: "General availability: Enterprise-scale landing zone reference implementation for AKS"
+    excerpt: "Rapidly adopt Azure Kubernetes Service (AKS) using industry-proven practices."
+    publishedDateTime: 2021-06-09T16:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-enterprisescale-landing-zone-reference-implementation-for-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "General availability: Azure Media Services – HEVC encoding support in Standard Encoder "
     excerpt: "You can now use High Efficiency Video Coding (HEVC) or H.265 in the Standard Encoder. This new feature is available for Content Aware encoding, Adaptive Bitrate encoding, and creating your own custom transforms. Using HEVC along with supported decoding devices will provide you with the ability to deliver"
     publishedDateTime: 2021-03-12T20:19:26Z
@@ -459,6 +468,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "General availability: 6 new Locales added to Speech service to support speech transcription"
+    excerpt: "Speech service has added Speech to Text support for 6 new languages and locales."
+    publishedDateTime: 2021-06-09T16:00:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-6-new-locales-added-to-speech-service-to-support-speech-transcription/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 42
 
 secured: "Bkk/lRtaOFPFZftRoTK4s+DgCPuwpxKvkXmrpA0M9owhdfxB+Lt5bL10dJnp+3rXTkbtuDYJ/fESnDXJn5XbXJHza8tehfSzzKo9zTGmPTwtvqou/KxeS2fS/XKXIJ+n93og12RtBz3lqna5oJ0xARVXoNMdQMS3FLApBoIt3i0ggHRXyom5r2XOH8cRC+aW1hSUjh52QSLhwyu3geJzYiOKf2fRHmK4R+evLoGt/syvUySoiXFv/ivxtOWRF6APGaALoImT1Zbd13kfCkXwMl4IrI574auohrN7BKpFtFZB9WvNe7Bvq3xCt8KpQ05iIAY3tCUasFlQh9qy9675WF42lpG1swsI2L8uw7hKpeQ=;/NeNwS4/FDdCXTaB3PE8uw=="
 ---

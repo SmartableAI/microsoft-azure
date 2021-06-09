@@ -59,6 +59,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Cache for Redis zone redundancy for Premium tier now generally available"
+    excerpt: "Azure Cache for Redis zone redundancy allows you to deploy your Premium tier caches across multiple availability zones, delivering higher availability and resiliency.  "
+    publishedDateTime: 2021-06-09T16:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-zone-redundancy-for-premium-tier-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "New Enterprise and Enterprise Flash tiers for Azure Cache for Redis now generally available"
     excerpt: "The Enterprise and Enterprise Flash tiers for Azure Cache for Redis offer powerful new features, including Active Geo-Replication, higher availability, and Redis Module support. "
     publishedDateTime: 2021-03-02T17:00:05Z

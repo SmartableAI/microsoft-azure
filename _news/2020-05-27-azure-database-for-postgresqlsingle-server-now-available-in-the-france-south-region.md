@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-27T16:00:09Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-now-available-in-the-france-south-region/"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -21,33 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Database for MariaDB  is now available in the France South region"
-    excerpt: ""
-    publishedDateTime: 2020-06-01T16:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-is-now-available-in-the-france-south-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Minimal TLS version setting is now available for Azure Database for MySQL"
-    excerpt: ""
-    publishedDateTime: 2020-06-04T17:00:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-minimal-tls-version/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
-  - title: "Minimal TLS version setting is now available for Azure Database for MariaDB"
-    excerpt: ""
-    publishedDateTime: 2020-06-04T17:00:49Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-minimal-tls-version/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 15
   - title: "Azure Database for MySQL support for intelligent performance with MySQL 8.0 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-25T17:00:35Z

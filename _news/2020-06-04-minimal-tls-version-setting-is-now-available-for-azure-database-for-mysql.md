@@ -21,42 +21,24 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Database for MariaDB  is now available in the France South region"
+  - title: "Data encryption with customer-managed keys for Azure Database for MySQL"
     excerpt: ""
-    publishedDateTime: 2020-06-01T16:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-is-now-available-in-the-france-south-region/"
+    publishedDateTime: 2020-06-10T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customermanaged-keys-for-azure-database-for-mysql-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Minimal TLS version setting is now available for Azure Database for MariaDB"
-    excerpt: ""
-    publishedDateTime: 2020-06-04T17:00:49Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-minimal-tls-version/"
+  - title: "Data encryption with customer managed keys for Azure Database for MySQL is now generally "
+    excerpt: "Data encryption with customer-managed keys for Azure Database for MySQL enables you to bring your own key (BYOK) for data protection at rest. "
+    publishedDateTime: 2020-08-10T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customer-managed-keys-for-azure-database-for-mysql-is-now-generally/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 15
-  - title: "Azure Database for PostgreSQL—Single Server now available in the France South region"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-now-available-in-the-france-south-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
-  - title: "Azure Database for MySQL support for intelligent performance with MySQL 8.0 is now available"
-    excerpt: ""
-    publishedDateTime: 2020-05-25T17:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/intelligent-performance-mysql-8/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 6
+    quality: 8
 
 secured: "ZUz4GD50wQylwoLj0LQfr9gQRl74ecu7iRhKvCL9c1yRwzu+KomEuaKZ9RQpvp4WFmj6jnG4euwJ42QkGdumODtXj+n2RUSc5cQVKe7U6I9QGhQLoLTT4K/Qq7nT/IcQYtjh/a95mnsGWr4F1LPrI78T8fN328Rgx765svH/ACnHj+UZ7KTph49G3D+OC++fHTU96dsOgUH5M+B4lnFUwEMSypYYYMni4oFuP6S8mqoCfmfE++rFJKbiVuWj8+WvjFJo/5ZU59Wk4mPJ/Zv8+uswrS4R+RaFK7pLOKZR2NZXQN+ha+s+Llm9gPpbzBsBJNHGIMIfljBr6UePMZF/7g==;E78wcd6tY2DPXEfKRkGL1Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/stopstart-functionality-
 webUrl: "https://azure.microsoft.com/en-us/updates/stopstart-functionality-for-azure-database-for-mariadb/"
 type: article
 quality: 79
-heat: 119
+heat: 79
 published: true
 
 provider:
@@ -21,26 +21,6 @@ provider:
 topics:
   - Azure
   - Databases
-
-related:
-  - title: "Large storage for Azure Database for MariaDB"
-    excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/large-storage-for-azure-database-for-mariadb/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Large storage for Azure Database for MariaDB"
-    excerpt: "General availability support for up to 16TB of storage and up to 20,000 IOPS in Azure Database for MariaDB enables you to run the most demanding, large scale workloads."
-    publishedDateTime: 2020-08-05T16:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/large-storage-for-azure-database-for-mariadb-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "EEYkTHXvy6BnBr+n3K4LlGYmHaLHR7PahKeauLnNkTRC6tMX0S8XzOwGxYebHtr8jMQFaumb3GeLcewkawxBSKsbW1QxYvmG0QDgEBp/5ZkEj2T+5NTnrPbqP7JSzCUDT2BsTy74bRhrUINMKRlNcldfSLNuXJgKoHvkXDpbAMQIqGnUoOSrbzwTuHELCF+pFebkYKx096bRgD1stJp8jn53PXtsY/mqqk8TKBoI8NeOv7u4rWniDxcnXnKWfWzswoiaOR/pjCvPccXN0dbCwNbuns7JkFnVGyglbSSyKvHOo54ahYhYeh64aBQ75ghMsocNZywAt21+8za/qD3EHUdV6P7sy9loXqUwDc7BgvI=;QSLErs2z8tRYDrih0wCbzA=="
 ---

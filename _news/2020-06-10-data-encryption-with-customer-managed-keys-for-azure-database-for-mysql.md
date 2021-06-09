@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Minimal TLS version setting is now available for Azure Database for MySQL"
+    excerpt: ""
+    publishedDateTime: 2020-06-04T17:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-minimal-tls-version/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 16
   - title: "Data encryption with customer managed keys for Azure Database for MySQL is now generally "
     excerpt: "Data encryption with customer-managed keys for Azure Database for MySQL enables you to bring your own key (BYOK) for data protection at rest. "
     publishedDateTime: 2020-08-10T16:00:05Z

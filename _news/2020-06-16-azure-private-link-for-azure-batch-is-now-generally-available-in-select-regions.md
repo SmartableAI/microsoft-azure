@@ -57,15 +57,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Database engine auditing for Azure Database for MariaDB is now available"
-    excerpt: "Azure Database for MariaDB now provides general availability support for using audit logs to record database activity and events such as connections and queries."
-    publishedDateTime: 2020-06-24T16:01:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mariadb-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
 
 secured: "HTA/tvePOTPRsrRSmVC486sf2ItHY2vxjuIr2lF3fBv7vu9tOQIxcDjdjwT6WZ2S8Y+eSjT2nxOnrZNaSwkrgufbP8ZrvOeAY6JwpF1l0HBzOk+k8YqgG6kr7mLnF7611Rn9umCTDpZf6EgAGhT4Kel9VTL6xM3uelVKHswieVKYjYVQxElS+mF8pVVbBZNiHr9QKOnYoW9JYzUYn0hCwN3EPd5j5sXtjumSmM0F6AbZL/3gd3ei1+m3sG/PAYiH3kPIjC9WgYGpMNhspT8PsGERu3lnNyDQ+F0yqhCvCtmKR7DJpNu+rUlZdlfPXOHWEa1ArUZZin8c8mXOCTXeeQ==;Mn5zGf3V/R0sa3LuLS5dlQ=="
 ---

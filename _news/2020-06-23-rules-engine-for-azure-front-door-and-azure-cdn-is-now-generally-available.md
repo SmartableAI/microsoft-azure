@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/rules-engine-for-azure-front-door
 webUrl: "https://azure.microsoft.com/blog/rules-engine-for-azure-front-door-and-azure-cdn-is-now-generally-available/"
 type: article
 quality: 82
-heat: 182
+heat: 162
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Database engine auditing for Azure Database for MariaDB is now available"
-    excerpt: "Azure Database for MariaDB now provides general availability support for using audit logs to record database activity and events such as connections and queries."
-    publishedDateTime: 2020-06-24T16:01:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mariadb-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
   - title: "Azure Private Link for Azure Batch is now generally available in select regions"
     excerpt: "Azure Private Link for Azure Batch is now generally available in the West US 2, East US, South Central US, US Gov Virginia, and US Gov Arizona regions"
     publishedDateTime: 2020-06-16T21:00:05Z

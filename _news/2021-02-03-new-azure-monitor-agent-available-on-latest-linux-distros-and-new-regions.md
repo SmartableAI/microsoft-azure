@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/new-azure-monitor-agent-
 webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-monitor-agent-available-on-latest-linux-distros-and-new-regions/"
 type: article
 quality: 83
-heat: 103
+heat: 123
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - DevOps
 
 related:
+  - title: "Public preview: Syslog event collection from Azure Monitor Agent for Linux distros"
+    excerpt: "Upgrade to Azure Monitor Agent for Linux version 1.10 or above to enable syslog data collection using data collection rules for your Linux machines. "
+    publishedDateTime: 2021-06-09T16:00:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-syslog-event-collection-from-azure-monitor-agent-for-linux-distros/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 78
   - title: "Support for SAP Application (NetWeaver) and Operating System (Linux) telemetry in Azure Monitor for SAP Solutions"
     excerpt: "Azure Monitor for SAP Solutions (AMS) now supports SAP Application (NetWeaver) in private preview and Operating System (Linux) provider in Public Preview. Both providers are available in the following Azure regions - West Europe, US East, US East 2 and US West 2.  "
     publishedDateTime: 2021-02-03T17:00:02Z

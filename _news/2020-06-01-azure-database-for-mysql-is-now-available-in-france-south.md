@@ -66,6 +66,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 95
+  - title: "Azure Defender for Azure Database for MySQL – Single Server now generally available"
+    excerpt: "Azure Defender detects anomalous activities indicating unusual and potentially harmful attempts to access or exploit your Azure Database for MySQL. "
+    publishedDateTime: 2021-06-09T16:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-defender-for-azure-database-for-mysql-single-server-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 93
+  - title: "Azure Database for MySQL – Flexible Server standby server selection in public preview"
+    excerpt: "Select your standby server zone for Azure Database for MySQL - Flexible Server."
+    publishedDateTime: 2021-06-09T16:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-standby-server-selection-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 92
   - title: "Public preview: Azure Database for PostgreSQL – Flexible Server intelligent performance"
     excerpt: "The latest preview release of intelligent performance on Azure Database for PostgreSQL – Flexible Server on Postgres 11 and 12 is now available."
     publishedDateTime: 2021-04-28T16:01:21Z
@@ -84,6 +102,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 86
+  - title: "Azure Database for MySQL – Single Server: Planned maintenance notifications in general availability"
+    excerpt: "Setup alerts on the Azure portal to be notified about planned deployments with planned maintenance notifications for Azure Database for MySQL – Single Server."
+    publishedDateTime: 2021-06-09T16:00:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-single-server-planned-maintenance-notifications-in-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 85
   - title: "Azure Database for MySQL – Flexible Server: Zone redundant high availability now generally available in new regions"
     excerpt: "Azure Database for MySQL - Flexible Server zone redundant high availability is now available in two new regions: UK South and Japan East."
     publishedDateTime: 2021-04-28T16:01:46Z

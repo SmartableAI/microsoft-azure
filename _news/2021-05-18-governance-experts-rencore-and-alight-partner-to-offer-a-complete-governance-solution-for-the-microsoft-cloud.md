@@ -670,13 +670,13 @@ related:
       domain: bio-itworld.com
     quality: 13
   - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
-    excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft (News - Alert) Azure to help public safety and justice sector organizations modernize their digital investigations."
-    publishedDateTime: 2021-05-27T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-magnet-forensics-leverages-microsoft-azure-improve-digital-investigations-/2021/05/27/9379256.htm"
+    excerpt: "WATERLOO, Ontario & HERNDON, Va.--(BUSINESS WIRE)--Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice ..."
+    publishedDateTime: 2021-05-27T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210527005164/en/Magnet-Forensics-Leverages-Microsoft-Azure-to-Improve-Digital-Investigations-via-the-Cloud"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 7
   - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace | Morningstar"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."

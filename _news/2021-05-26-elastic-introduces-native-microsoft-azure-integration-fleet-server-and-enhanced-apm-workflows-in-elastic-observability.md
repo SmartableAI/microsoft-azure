@@ -43,6 +43,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
+    excerpt: "WARREN, N.J.  and BANGALORE, India, June 2, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today"
+    publishedDateTime: 2021-06-02T07:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485834"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
   - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
     excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
     publishedDateTime: 2021-06-08T14:20:00Z
@@ -116,20 +125,6 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/frrqr450308.jpg"
         width: 450
         height: 308
-        isCached: true
-  - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-    excerpt: "\"The Analytics on Microsoft Azure advanced specialization will bring our experience in accelerating data discovery and making data-driven business decisions more accessible to those organizations ..."
-    publishedDateTime: 2021-06-02T09:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-301303655.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-        width: 1496
-        height: 785
         isCached: true
   - title: "NexTech AR unveils EdTechx virtual education platform created with Microsoft Azure"
     excerpt: "EdTechX combines enterprise-scale video streaming, integrated assessments, augmented reality holograms and data analytics"

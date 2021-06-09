@@ -657,13 +657,13 @@ related:
       domain: bio-itworld.com
     quality: 13
   - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
-    excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft (News - Alert) Azure to help public safety and justice sector organizations modernize their digital investigations."
-    publishedDateTime: 2021-05-27T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-magnet-forensics-leverages-microsoft-azure-improve-digital-investigations-/2021/05/27/9379256.htm"
+    excerpt: "WATERLOO, Ontario & HERNDON, Va.--(BUSINESS WIRE)--Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice ..."
+    publishedDateTime: 2021-05-27T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210527005164/en/Magnet-Forensics-Leverages-Microsoft-Azure-to-Improve-Digital-Investigations-via-the-Cloud"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 7
   - title: "Governance experts Rencore and Alight partner to offer a complete governance solution for the Microsoft Cloud"
     excerpt: "Rencore, the provider of award-winning software essential for governing Microsoft 365, announced their partnership with Microsoft technology consultants Alight. The partnership combines Rencore's"

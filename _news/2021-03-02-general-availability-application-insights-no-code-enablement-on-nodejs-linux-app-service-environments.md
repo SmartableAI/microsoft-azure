@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-app
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insights-nocode-enablement-on-nodejs-linux-app-service-environments/"
 type: article
 quality: 53
-heat: 53
-published: false
+heat: 73
+published: true
 
 provider:
   name: Microsoft
@@ -21,6 +21,17 @@ provider:
 topics:
   - Azure
   - Compute
+
+related:
+  - title: "General availability: Application Insights Node.js pre-aggregated standard metrics"
+    excerpt: "Azure Monitor Application Insights Node.js SDK adds pre-aggregated standard metrics to enhance accuracy of alerts when telemetry sampling is enabled."
+    publishedDateTime: 2021-06-09T16:00:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insights-nodejs-preaggregated-standard-metrics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 46
 
 secured: "5VDA8QCkLSYtfHRo/GNFI9/rGWbInvs94vzolgYfTpaUZLoUJdGR4ov5c7xfV7simKRjluTwIVY8FPwFu+5V8/Ja3gPchQf+tiTpt7iRTkcp9IjGMXZZdtALcP5URIC458Ss7y/stnbkyfraVMwdGbfSnvRotHbF+UGbZbdb+bbEpXt5/3xTj4l4ji7pwUA9b71BvdBb+BzEAkKMY66nj1kBpWpJlmoyeHAUT/SBU90CYjkFFtYgFxAwwv4YECqekWl6EyczmdKZvY0HXf1erzc1AH6N75DSH//8sKonMUc3zW0dzA8a3VNSP24BCdJdTzayOty2aTTRpcDRVonBQVpWd7pU9y40Nm5JF/VoU0I=;aIcOMqPvXilq2Ke9W1iQ8w=="
 ---

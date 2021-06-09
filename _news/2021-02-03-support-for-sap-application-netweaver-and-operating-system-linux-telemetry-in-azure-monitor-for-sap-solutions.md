@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 83
+  - title: "Public preview: Syslog event collection from Azure Monitor Agent for Linux distros"
+    excerpt: "Upgrade to Azure Monitor Agent for Linux version 1.10 or above to enable syslog data collection using data collection rules for your Linux machines. "
+    publishedDateTime: 2021-06-09T16:00:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-syslog-event-collection-from-azure-monitor-agent-for-linux-distros/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 78
 
 secured: "grwss18I6dTw33fjmx5f42wbZCgpN8ccQV1Xe6tor1dcZ0sVgdC9d7LIbIWsDwXB8AVGYG8kHMHWg7koN9EJeDBWmdYNWi/d+BOrbK8uU7aeEly9j0fARPSs9Tts413vtRCltzdRvzHhSg/MtxksQLR5+Meov0CINvxRV0Ej5lfDt4XSy61dOBerw2kFiKsVOfSzEkb/9nFW0jSfsuRqGw/1F6bv8nRfkwHwqtYY5KzR2eDggf+eIy+KUHKKSKNjZqKSAzJo5J7pY2uVkYkCmFe4yFN2md8uynfZgOkZ9pRvGOjKe5KLOBcww3O2rYw7RwZ7e2kLjBAuqI+UdJXJEvL4d5sSxzlqcNWiMvQ3Pfw=;9yXBwvRrK71rNg5HgyfLtQ=="
 ---

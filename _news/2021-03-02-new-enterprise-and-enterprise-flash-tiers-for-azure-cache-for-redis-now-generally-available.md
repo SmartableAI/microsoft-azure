@@ -68,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Cache for Redis zone redundancy for Premium tier now generally available"
+    excerpt: "Azure Cache for Redis zone redundancy allows you to deploy your Premium tier caches across multiple availability zones, delivering higher availability and resiliency.  "
+    publishedDateTime: 2021-06-09T16:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-zone-redundancy-for-premium-tier-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "General Availability of the New Azure VMware Solution"
     excerpt: "Microsoft announces general availability (GA) of the Azure VMware Solution service. The new Azure VMware Solutions is a first party Microsoft Azure Compute services that is directly operated, delivered, and supported by Microsoft. "
     publishedDateTime: 2020-09-22T16:05:17Z

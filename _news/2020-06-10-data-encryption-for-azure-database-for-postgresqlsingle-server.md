@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 89
+  - title: "Azure Database for PostgreSQL - Flexible Server: Support for Postgres 13 (public preview) "
+    excerpt: "Create new Flexible Servers using PostgreSQL 13 version for Azure Database for PostgreSQL, a managed service running the open source Postgres database on Azure. "
+    publishedDateTime: 2021-06-09T16:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-support-for-postgres-13-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 89
   - title: "Azure Database for PostgreSQL - Single Server: logical decoding feature is now generally available"
     excerpt: "With logical decoding and wal2json support, unlock change data capture scenarios with Azure Database for PostgreSQL - Single Server. "
     publishedDateTime: 2020-12-09T17:00:18Z
@@ -66,6 +75,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 85
+  - title: "Azure Database for PostgreSQL – Flexible Server supports PostgreSQL minor versions (public preview)"
+    excerpt: "Benefit from the latest PostgreSQL minor versions that include many security updates and bug fixes for Azure Database for PostgreSQL – Flexible Server, a managed service running the open-source Postgres database."
+    publishedDateTime: 2021-06-09T16:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-supports-postgresql-minor-versions-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 85
+  - title: "Azure Database for PostgreSQL – Single Server: Planned Maintenance Notifications in general availability"
+    excerpt: "Set up alerts on the Azure portal to be notified about planned deployments for Azure Database for PostgreSQL – Single Server, a managed service running the open-source Postgres database."
+    publishedDateTime: 2021-06-09T16:00:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-planned-maintenance-notifications-in-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
 
 secured: "e+HxBAR9MQDMRF/bhjNEFwbD126ezLE1jfOGmR39yMbWFGh62emFVAVwFTMCe+9T9XbpP9BKGzGIkksyHXQRlXdiUiomn4Yijv5jdnem6HokXUJaere2VKm8O4W+qGFCRunTWvkCY0yuIsSzsDcBi2YvdiH56CZ4w9u5Gn0sKJS8SZPsLcGkeXyF6Gb5ms4myT1RvQODXIohPo4eBP0A8E/gHIYC//LOZxk1BSlTg1R0uf7DU+v7gWF4bvmdbDXD++FxvslGLVu4E61GMzWILmGiYAudtEV+GXIkBkxv/wFC06jbquQW8Ac+CNtMYcu7yDsGHvFrpDq4CYANOGnbVA==;ylOvkJNs5FGpOzU/bvoXCg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 1079
+heat: 1119
 published: true
 
 provider:
@@ -391,6 +391,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
+  - title: "General availability: Enterprise-scale landing zone reference implementation for AKS"
+    excerpt: "Rapidly adopt Azure Kubernetes Service (AKS) using industry-proven practices."
+    publishedDateTime: 2021-06-09T16:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-enterprisescale-landing-zone-reference-implementation-for-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "General availability: Event source start options in Azure Time Series Insights Gen2"
     excerpt: "The new event source start options feature in Azure Time Series Insights Gen2 gives you flexibility when configuring an event source."
     publishedDateTime: 2021-04-15T16:00:17Z
@@ -463,6 +472,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "General availability: 6 new Locales added to Speech service to support speech transcription"
+    excerpt: "Speech service has added Speech to Text support for 6 new languages and locales."
+    publishedDateTime: 2021-06-09T16:00:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-6-new-locales-added-to-speech-service-to-support-speech-transcription/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 42
 
 secured: "I6XjwR7z4DDUHnkWnbYctN7OJOJX8lhyp22jf0EaIUQh7L/6aJydXp/300FakQg5AoqrL5NeoCvd+5tRTB+K+QNLDpa1rALdI4wnmTDI/laLwe10Ntr9DRw7nHaHCzuk2WoXMDUREsowLRQP78YxbKhmL7QJBxSWExfY4s/qMIRwklfM791erqssVcLNDvs40zsOwWtM6SpabA7AfC+c1hY0QLYlhkrt2Uk1PKxE1Nxh+RSWJpK4JZuICSETFOsdmkGv6YVI7QL8zj7+Iiusfly70PkLWzNp7qc13Zz3lgAHYaAk+32uBDI1rwH7N33FPdI/1slgLGvFMLqibG1IPdv2aDxmrcmsFgIHHGc9Gsg=;k0/N5oeEqAV7c3lTEeVKYg=="
 ---
