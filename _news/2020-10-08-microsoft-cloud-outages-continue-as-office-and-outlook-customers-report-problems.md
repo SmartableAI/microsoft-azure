@@ -112,6 +112,22 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "How to Authenticate Users Via Microsoft Azure AD B2C"
+    excerpt: "With that in mind, this blog post will walk you through some of the various stages of the business-to-customer enterprise identity services provided by Microsoft Azure. For the purposes of this exercise,"
+    publishedDateTime: 2021-06-10T20:30:00Z
+    webUrl: "https://www.business2community.com/tech-gadgets/how-to-authenticate-users-via-microsoft-azure-ad-b2c-02411861"
+    ampWebUrl: "https://www.business2community.com/tech-gadgets/how-to-authenticate-users-via-microsoft-azure-ad-b2c-02411861/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/tech-gadgets/how-to-authenticate-users-via-microsoft-azure-ad-b2c-02411861/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/06/Azure-Blog-Img.jpg"
+        width: 930
+        height: 500
+        isCached: true
   - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
     excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the"
     publishedDateTime: 2020-09-30T13:00:00Z

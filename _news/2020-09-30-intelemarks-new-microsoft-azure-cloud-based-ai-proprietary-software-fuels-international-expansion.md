@@ -124,6 +124,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 57
+  - title: "How to Authenticate Users Via Microsoft Azure AD B2C"
+    excerpt: "With that in mind, this blog post will walk you through some of the various stages of the business-to-customer enterprise identity services provided by Microsoft Azure. For the purposes of this exercise,"
+    publishedDateTime: 2021-06-10T20:30:00Z
+    webUrl: "https://www.business2community.com/tech-gadgets/how-to-authenticate-users-via-microsoft-azure-ad-b2c-02411861"
+    ampWebUrl: "https://www.business2community.com/tech-gadgets/how-to-authenticate-users-via-microsoft-azure-ad-b2c-02411861/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/tech-gadgets/how-to-authenticate-users-via-microsoft-azure-ad-b2c-02411861/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/06/Azure-Blog-Img.jpg"
+        width: 930
+        height: 500
+        isCached: true
   - title: "Ooredoo launches Cloud Connect enabling connectivity to Microsoft Azure"
     excerpt: "Doha: Ooredoo, the region’s leading enabler of digital business innovation, announced yesterday the launch of Ooredoo Cloud Connect to Microsoft Azure, to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services ..."
     publishedDateTime: 2020-10-05T06:04:00Z
