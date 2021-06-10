@@ -1,18 +1,18 @@
 ---
 category: news
 title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
-excerpt: "Company standardizes on Microsoft Azure infrastructure, deepens integration with Microsoft Cloud services, and aligns on ‘Better Together’ solutionsCHICAGO, June 03, 2021 (GLOBE NEWSWIRE ..."
+excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
 publishedDateTime: 2021-06-03T10:07:00Z
-originalUrl: "https://www.generation-nt.com/imanage-adopts-microsoft-azure-as-global-cloud-platform-newswire-1988873.html"
-webUrl: "https://www.generation-nt.com/imanage-adopts-microsoft-azure-as-global-cloud-platform-newswire-1988873.html"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9382990.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9382990.htm"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: GNT
-  domain: generation-nt.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -2007,6 +2007,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "lkKYukLEDQFTnZrDFSihRsscbyqIo3V7mczL8eHwgTIgGIHelfbyYVvg3IBdn39rigofvEzGKuSOuOT+GFBxTXWNSgl8gQNlWE0WWYNaYAfRV+D41gpsQtcb0wThkLgAz6IMQzIZbGp8it3bSOX2+fJS+UDIa+/Wz+piZidLDZhBu1Kin4oon9/Rk0Tc0XpvtvLDGFDCgsIsG6CCXn8+xsaGCXYJewx2B8vqk6sngxLIqolJXK/s6shSDDcJgS239NEJG+78Nu3XSdcoeZBAQTmF8CbDTmvWoydRR2qyaCQnwyKv5JvzISjm381F8gGhX+m4m+9CbKsOCnCQlgSCb6GkyGnW7NbdeguHk2KX1W4=;oJiqRKgAmNy7ZEBtMeSeDQ=="
+secured: "hmc8M67NrhgMZ6do3q0aES0EzTeEymTgT9NbRTrNG7jgWaWxLgPWjrQkI99VyBcb/aeEuncNU2rmBwYUnpYPOR36t1Qdn9Bg+UW/6om16f6GLJkUOSb6wMPM2Pugbj2XTTC6ukn61t+w++z22l9RzBogRFBPAxK2ussmE48JckqeMZGt7vZnMuyL3TV+/qItnOkvBePt1sLTa2b10eRbhue6/sVNAWtfIVLKIEaxDtPLE51D52/N/sweNeGTk3UONnLp4x3Y/WHIeObCFSNeCM/P46dtYTTIZ9jVedwgXZ2J5kOSJBG/Q6B+e/LEqjn3pPu9LA61lnisYLELaH8iZCuCUdoUhMCnMAuRZrEN4b8=;e4D6s3rCH1xWUHscl7vVEA=="
 ---
 
