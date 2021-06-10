@@ -25,6 +25,10 @@ topics:
   - Azure
   - AI
   - IoT
+  - Integration
+  - Analytics
+  - Compute
+  - Serverless
 
 secured: "Zk0wuTBFJfhvVTe2SSPdK5tMWYpaSvs+r0ChRD8BAUIb1VwfdsAGn7eWaNilpUsuSWr5S4DRmawk1vaEk05XHo6TpLlbxKzZO/A2BN7csDqVYJ1M5gBZo8irvXgxhEDPXGvjtUgW1d8tFEklT3v9tVUIPc6oUh6mDq8d9/BZWRaLkxtuwD//uLdf8dwLMNdpIsTUgGK9ubqzxLdVAHOPYes+bOuRru+P84NzJwF+8Bm29mHfuDAoMJqxKZjSGAkRzgazVssgSNc5yz8+nGr0vP+vfXWBet1H+Axmttz5m6ZDLE48JYD+hZOSJ1kdY9QQspt85kncNh398FLxRJ+inWM2i4eV8f6cgEbEVV0zRVUSjdB9Ij4yyrXSbK+a2OeWxdugvaAiMyGAvYIWtombQmZe2vpRUDtUtE3vD0Iit28=;c077TyPB51W+dZJmjJnRfg=="
 ---
