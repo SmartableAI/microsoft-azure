@@ -2,7 +2,7 @@
 title: "Azure Portal “How To” Series"
 excerpt: "Welcome to our weekly series that highlights specific aspects of the Azure portal so you can be more efficient and productive while deploying your cloud workloads from the portal."
 type: collection
-heat: 62
+heat: 183
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-build-a-graph-and-use-links-in-azure-workbooks
   - videos/microsoft-how-to-get-started-with-azure-arc-enabled-kubernetes
   - videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series
   - videos/microsoft-how-to-get-started-with-azure-cosmos-db-built-in-notebooks-azure-portal-series
@@ -75,7 +76,7 @@ topics:
   - Management tools
 
 images:
-  - url: https://i.ytimg.com/vi/d4F83oblkWk/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/ODHczGpGmEQ/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
