@@ -146,6 +146,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "AlEH7+rMLniCErvigowunSwq/eSPxf449uP+2QT1LCN0jUJI3JA3U2AdrMZPbaOxz1/xLidKafNMR3s7wc2MpRs6xdVKQiDrOdk0sAP42OyVnD2uCcKVqtCdL+flLbzzz1cWtA4yzqVgQ+xBhg8JKeBrBwPtkcjZZUHrzvt7VQBYP9v1Jp7OKuQp4gKugqbAAvXcsXAfKLCnlG/Sq3ANQS4dcHQ5ac8hsM1Tox1UvkFgUpQfMHD/kcRbp9k+1o0baNP1bONXTmiHCPFs9CMXY+3S6OxnQuC0XuOHygAchUjJDsTHSq15jMiEKVOPMHiYEuk2/5pUFX9GNMURKjgCepHJiKCqFsxV7xCfSNplnno=;LrjJJpa/6f+73LxQWj9a/w=="
+secured: "sNzpdXCWwvlr9KrLKR6909x+KW/uUXgQQ+DL+ugjBLiqNAajctrtMpAPp5CdTkASC6O2PqSQsztXMfN1TaH+/WaGnVEeUOibtSTvJJJ1c7wmPhKqoQye3veuBxUrya5SKNZ4pjPKwG2z9QUX9qRvmacJuDvx3bC/vc1NAO5XGfO8arXqOkQRf38tE3YnFpnieHcrpZj0xKME40kJH2+o/wzNI5ai2Nx9g0RpMmCTPJKFrO91ezjBXPUxvapJYnhfaYmy+x4qbQ2M8Gb4nGIjWfZoy/ggQoVmmtJD8E8+x1b9hUObkHZeIZvVXoi3l3JEqZtvL7E+y8RkRBdMnc6A11L9jS67piWRa2/HI6mp5xQ=;sKYm3Hvm6dVs1RSmCTWOeA=="
 ---
 
