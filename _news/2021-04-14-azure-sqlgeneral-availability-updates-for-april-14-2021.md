@@ -67,6 +67,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "General availability: Azure Sphere OS version 21.06 expected on June 23"
+    excerpt: "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
+    publishedDateTime: 2021-06-10T15:04:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2106-expected-on-june-23/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: Azure Sphere version 21.04 expected on April 29, 2021"
     excerpt: "Participate in the retail evaluation now to ensure full compatibility.  The OS evaluation period provides 14 days for backward compatibility testing."
     publishedDateTime: 2021-04-15T22:00:21Z

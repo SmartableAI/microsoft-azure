@@ -1,14 +1,14 @@
 ---
 category: news
-title: "General availability: Azure Blob storage supports objects up to 200 TB in size"
-excerpt: "When moving from on premises, you no longer need to split your large files into separate parts to store and process in the cloud. Supporting a single object size up to 200TB removes one complexity when using Azure Storage."
-publishedDateTime: 2021-04-12T16:00:40Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-and-adls-gen2-storage-supports-objects-up-to-200-tb-in-size/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-and-adls-gen2-storage-supports-objects-up-to-200-tb-in-size/"
+title: "General availability: Azure Sphere OS version 21.06 expected on June 23"
+excerpt: "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
+publishedDateTime: 2021-06-10T15:04:41Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2106-expected-on-june-23/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2106-expected-on-june-23/"
 type: article
-quality: 95
-heat: 275
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,9 +20,17 @@ provider:
 
 topics:
   - Azure
-  - Storage
 
 related:
+  - title: "General availability: Azure Blob storage supports objects up to 200 TB in size"
+    excerpt: "When moving from on premises, you no longer need to split your large files into separate parts to store and process in the cloud. Supporting a single object size up to 200TB removes one complexity when using Azure Storage."
+    publishedDateTime: 2021-04-12T16:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-and-adls-gen2-storage-supports-objects-up-to-200-tb-in-size/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
   - title: "General availability: Azure DevOps Delivery Plans 2.0"
     excerpt: "With this update, we are including changes to Azure Boards and Azure Pipelines. You can now get total capacity for all teams in an iteration. In addition, we are previewing support for templates in the YAML editor."
     publishedDateTime: 2021-06-03T17:00:20Z
@@ -68,15 +76,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure Sphere OS version 21.06 expected on June 23"
-    excerpt: "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
-    publishedDateTime: 2021-06-10T15:04:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2106-expected-on-june-23/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "General availability: Azure Sphere version 21.04 expected on April 29, 2021"
     excerpt: "Participate in the retail evaluation now to ensure full compatibility.  The OS evaluation period provides 14 days for backward compatibility testing."
     publishedDateTime: 2021-04-15T22:00:21Z
@@ -105,6 +104,6 @@ related:
       domain: microsoft.com
     quality: 61
 
-secured: "CIS/tmvBeHZPKnXX/ogj8raMthzzYJeSbz5BDZh+nw5TH9wDSkmkSsq6rnlH1qtl69Nhst0zCMzklM0rLUnV2onG47/1Mnd5m231T62RVKzSrQwwTBiFW20IMELAZvZr4WI7Mp8HmfI2hlSiwlFBRfMLy+Ntr89UQzrmJnnuYQYmGrM0iPz0J/qr4LSa71ZhfVA1ZUhP2TBcZ8ugZi4aUhl2LqtTF/LaRsgG/ejrQVE4wGb/tW8MercP9OYohBh2zDH98ZB42ubs9Y04NaccMl59pI4hVyzkOp9iVwa75lVqFwuJ6oPjkpIuq/Y1mR893AAn3gN/GoE4zo7KyiWPha33OCmF6gs3Ec9nlW6ebok=;5V2RzItbnS49UoW1y0IVwA=="
+secured: "EXtD6/fCdEsHWZbbsGCeE4flJ8lIbpJjdSHBVG4PljcV/pkwjMI+bLTMaIuJ6d7qChbWaLUTuXARflT45DEXsEVUqIn0WPeFIR9cMYyewELc8Izukh4n+q6KTwpM34KIJ0Oa4t/29VeYnc9D7Ndafwdjp8/z5trqEc4fcWaNZt09cvMhfNapNBFnwFvKSvZONBu0vakVzB6wgxCecG67yPuxebxKm0sd9JHnpBBb4dfbHoyeU6hvPiUvayEes1d2JobKGyoone0zszBzZDOmtF0nVQPR2Rh7EB3EbpguDJJu7+E47UFFY6lIWCJG2Y7ybrL/kuCvj/akvdKz/hXnWHSRs51hiK+rO9PIpLpzEtM=;8XYDb0ngTPTm8Ta4apxbzA=="
 ---
 
