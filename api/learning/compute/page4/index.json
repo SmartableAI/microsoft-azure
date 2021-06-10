@@ -4,6 +4,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-deploy-sql-server-virtual-machine.md",
+      "title": "Deploy SQL Server in a virtual machine",
+      "excerpt": "Configure virtual machine sizing, storage, and networking options to ensure adequate performance for your database workloads. Choose and configure appropriate high availability options. Investigate options for migrating existing workloads.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-sql-server-virtual-machine/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sql-server-virtual-machine/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 2869,
+        "average": 4.777274
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-sql-server-in-a-virtual-machine-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-hpc.md",
       "title": "Introduction to high-performance computing (HPC) on Azure",
       "excerpt": "Discover the services available on Azure for your high-performance computing workloads.",
@@ -586,7 +630,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1660,50 +1704,6 @@
         "Azure",
         "Management Tools",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-automate-deployments-github-actions-azure.md",
-      "title": "Architect full-stack applications and automate deployments with GitHub",
-      "excerpt": "In the language of your choice (Node.js, Python, or .NET), deploy an end-to-end solution to solve the real-world scenario of catching the bus. You'll learn how to architect a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-deployments-github-actions-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-deployments-github-actions-azure/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 4,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Compute",
-        "Serverless",
-        "IoT",
-        "Blockchain",
-        "Integration",
-        "Web",
-        "Containers",
-        "Mobile",
-        "DevOps"
       ]
     },
     {

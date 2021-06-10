@@ -4,6 +4,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-automate-deployments-github-actions-azure.md",
+      "title": "Architect full-stack applications and automate deployments with GitHub",
+      "excerpt": "In the language of your choice (Node.js, Python, or .NET), deploy an end-to-end solution to solve the real-world scenario of catching the bus. You'll learn how to architect a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-deployments-github-actions-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-deployments-github-actions-azure/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 4,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "Serverless",
+        "IoT",
+        "Blockchain",
+        "Integration",
+        "Web",
+        "Containers",
+        "Mobile",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-3-describe-core-solutions-and-management-tools-on-azure.md",
       "title": "Azure Fundamentals part 3: Describe core solutions and management tools on Azure",
       "excerpt": "Learn how to choose the best services from Azure to build and manage cloud solutions.",
@@ -34,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 9337,
-            "average": 4.7860126
+            "count": 9341,
+            "average": 4.786104
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -77,8 +121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 10676,
-            "average": 4.7752905
+            "count": 10682,
+            "average": 4.7752295
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +164,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 6995,
-            "average": 4.7764115
+            "count": 7000,
+            "average": 4.7764287
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +211,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 8055,
-            "average": 4.723774
+            "count": 8058,
+            "average": 4.723877
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -236,8 +280,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 6995,
-        "average": 4.7764115
+        "count": 7000,
+        "average": 4.7764287
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -347,8 +391,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 3085,
-            "average": 4.7047
+            "count": 3087,
+            "average": 4.7048917
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -608,8 +652,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 42764,
-            "average": 4.7185016
+            "count": 42765,
+            "average": 4.7185082
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -790,8 +834,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 4422,
-            "average": 4.7550883
+            "count": 4424,
+            "average": 4.755199
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1378,8 +1422,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 10961,
-            "average": 4.7668095
+            "count": 10969,
+            "average": 4.766615
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3798,51 +3842,6 @@
         "Azure",
         "Integration",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-integrate-openapi-enabled-web-api-with-apim-and-visual-studio.md",
-      "title": "Integrate OpenAPI-enabled Web APIs with Azure API Management through Visual Studio",
-      "excerpt": "Learn how to add an OpenAPI-enabled Web API application to Azure API Management through Visual Studio.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-openapi-enabled-web-api-with-apim-and-visual-studio/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-openapi-enabled-web-api-with-apim-and-visual-studio/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 29,
-        "average": 4.827586
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/integrate-openapi-enabled-web-api-with-apim-and-visual-studio-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web",
-        "Developer tools"
       ]
     }
   ],

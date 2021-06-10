@@ -4,6 +4,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-control-network-traffic-flow-with-routes.md",
+      "title": "Manage and control traffic flow in your Azure deployment with routes",
+      "excerpt": "Learn how to control Azure virtual network traffic by implementing custom routes.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-network-traffic-flow-with-routes/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 3645,
+        "average": 4.6886144
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/control-network-traffic-flow-with-routes-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-create-a-virtual-machine-in-azure-azure-portal-series.md",
       "title": "How to create a virtual machine in Azure | Azure Portal Series",
       "excerpt": "Azure provides multiple virtual machine configuration options for you to set up your virtual machine exactly how you want for whatever you're trying to do. In this video of the Azure Portal “How To” Series, learn how to configure a basic virtual machine and connect to it in minutes in the Azure portal.",
@@ -51,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 3680,
-        "average": 4.5119567
+        "count": 3681,
+        "average": 4.5118175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -138,8 +182,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
       "length": "PT37M",
       "ratings": {
-        "count": 9492,
-        "average": 4.6696167
+        "count": 9493,
+        "average": 4.6696515
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -174,8 +218,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 8671,
-        "average": 4.656787
+        "count": 8672,
+        "average": 4.6568265
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1187,8 +1231,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 2090,
-        "average": 4.278469
+        "count": 2091,
+        "average": 4.278814
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1269,8 +1313,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-enrichment-pipeline-azure-cognitive-search/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 64,
-        "average": 4.75
+        "count": 65,
+        "average": 4.7384615
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1348,50 +1392,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-sql-server-virtual-machine.md",
-      "title": "Deploy SQL Server in a virtual machine",
-      "excerpt": "Configure virtual machine sizing, storage, and networking options to ensure adequate performance for your database workloads. Choose and configure appropriate high availability options. Investigate options for migrating existing workloads.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-sql-server-virtual-machine/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sql-server-virtual-machine/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 2869,
-        "average": 4.777274
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-sql-server-in-a-virtual-machine-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
         "Compute"
       ]
     }

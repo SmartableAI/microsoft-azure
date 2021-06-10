@@ -231,8 +231,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 1136,
-            "average": 4.7693663
+            "count": 1137,
+            "average": 4.76781
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -273,8 +273,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
           "length": "PT54M",
           "ratings": {
-            "count": 1390,
-            "average": 4.728777
+            "count": 1391,
+            "average": 4.728972
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -462,8 +462,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-visual-studio-code/",
       "length": "PT45M",
       "ratings": {
-        "count": 1662,
-        "average": 4.6991577
+        "count": 1663,
+        "average": 4.6993384
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -916,8 +916,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
       "length": "PT54M",
       "ratings": {
-        "count": 1390,
-        "average": 4.728777
+        "count": 1391,
+        "average": 4.728972
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -958,8 +958,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1136,
-        "average": 4.7693663
+        "count": 1137,
+        "average": 4.76781
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1236,6 +1236,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-github.md",
+      "title": "Introduction to GitHub",
+      "excerpt": "Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-github/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
+      "length": "PT1H12M",
+      "ratings": {
+        "count": 1441,
+        "average": 4.756419
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-m365-identity-authentication.md",
       "title": "Strengthen authentication (conditional access) with Azure Active Directory",
       "excerpt": "Learn about modern authentication and the security benefits it provides to your organization, such as enabling multi-factor authentication and a passwordless environment.",
@@ -1319,50 +1361,6 @@
       "topics": [
         "Azure",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-data-drift-with-azure-machine-learning.md",
-      "title": "Monitor data drift with Azure Machine Learning",
-      "excerpt": "Changing trends in data over time can reduce the accuracy of the predictions made by a model. Monitoring for this data drift is an important way to ensure your model continues to predict accurately.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-data-drift-with-azure-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 910,
-        "average": 4.7967033
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-data-drift-with-azure-machine-learning-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "AI"
       ]
     }
   ],
