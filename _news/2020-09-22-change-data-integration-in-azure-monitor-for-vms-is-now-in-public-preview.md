@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/change-data-integration-
 webUrl: "https://azure.microsoft.com/en-us/updates/change-data-integration-in-azure-monitor-for-vms-is-now-in-public-preview/"
 type: article
 quality: 120
-heat: 440
+heat: 460
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Azure IoT Edge integration with Azure Monitor is now in public preview"
+    excerpt: "Monitoring and troubleshooting your Azure IoT Edge devices just became more simple and efficient."
+    publishedDateTime: 2021-06-10T17:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge-azure-monitor-pp/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 118
   - title: "New Datadog integration with Azure offers a seamless configuration experience"
     excerpt: "With the new Azure integration with Datadog, organizations can now fully map their legacy and cloud-based systems, monitoring real-time data during every phase of the cloud transition, and ensure that migrated applications meet performance targets."
     publishedDateTime: 2020-09-29T09:00:03Z

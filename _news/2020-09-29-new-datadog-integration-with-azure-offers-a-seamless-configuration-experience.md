@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 463
         isCached: true
+  - title: "Azure IoT Edge integration with Azure Monitor is now in public preview"
+    excerpt: "Monitoring and troubleshooting your Azure IoT Edge devices just became more simple and efficient."
+    publishedDateTime: 2021-06-10T17:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge-azure-monitor-pp/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 118
   - title: "Azure Monitor Alerts for Azure Backup is in public preview"
     excerpt: "Manage your backup-related alert lifecycles in a manner that is consistent with native Azure management principles"
     publishedDateTime: 2021-03-02T17:00:03Z

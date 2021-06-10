@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Monitor Alerts for Azure Backup is in public preview"
-excerpt: "Manage your backup-related alert lifecycles in a manner that is consistent with native Azure management principles"
-publishedDateTime: 2021-03-02T17:00:03Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-alerts-for-azure-backup-is-in-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-alerts-for-azure-backup-is-in-preview/"
+title: "Azure IoT Edge integration with Azure Monitor is now in public preview"
+excerpt: "Monitoring and troubleshooting your Azure IoT Edge devices just became more simple and efficient."
+publishedDateTime: 2021-06-10T17:00:11Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/iot-edge-azure-monitor-pp/"
+webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge-azure-monitor-pp/"
 type: article
-quality: 101
+quality: 118
 heat: -1
 published: false
 
@@ -20,8 +20,9 @@ provider:
 
 topics:
   - Azure
+  - IoT
   - DevOps
-  - Management tools
+  - Integration
 
 related:
   - title: "Change data integration in Azure Monitor for VMs is now in public preview"
@@ -38,15 +39,6 @@ related:
         width: 1024
         height: 463
         isCached: true
-  - title: "Azure IoT Edge integration with Azure Monitor is now in public preview"
-    excerpt: "Monitoring and troubleshooting your Azure IoT Edge devices just became more simple and efficient."
-    publishedDateTime: 2021-06-10T17:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge-azure-monitor-pp/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 118
   - title: "New Datadog integration with Azure offers a seamless configuration experience"
     excerpt: "With the new Azure integration with Datadog, organizations can now fully map their legacy and cloud-based systems, monitoring real-time data during every phase of the cloud transition, and ensure that migrated applications meet performance targets."
     publishedDateTime: 2020-09-29T09:00:03Z
@@ -61,6 +53,15 @@ related:
         width: 1024
         height: 862
         isCached: true
+  - title: "Azure Monitor Alerts for Azure Backup is in public preview"
+    excerpt: "Manage your backup-related alert lifecycles in a manner that is consistent with native Azure management principles"
+    publishedDateTime: 2021-03-02T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-alerts-for-azure-backup-is-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "NFS 4.1 support for Azure Files is now in preview"
     excerpt: "Azure Files is a distributed cloud file system serving Server Messaging Block (SMB) and REST protocols. Azure Files enables customers to easily lift and shift their legacy workloads to the cloud without any modifications or changes in technology. SMB works on both Windows and UNIX operating systems for"
     publishedDateTime: 2020-09-15T13:00:18Z
@@ -193,6 +194,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "KxO4gsaQBxGM7yUESywO7c35s+lUehyBauBgZaIrY3Kw52oc12MWkGg/DiCBXxrWu4fm3e/7mKEROgyY2E+9hLm55S/xvzwfRnJN6TIaxVAxvs+TXzV+Ec7w5vTAQ8tB6xIx0GKmaBUkcRU6fhvIgxTGHfsacVjJ1ooBktxENLIfCtG+R3xT3l6NvWhXFljsuxB0ZgTeZ0yBdg68DOnUzF26fRctfx3qjYYZXUIriFF8zg5sUjQ5esU0MMotnGUrzg2jAI71q0dqH8Wt9dNW95MoAi0t4jvnxaTm1XdcsAtTbs3/kDfr1B/C/cDwzawcFTg3wt5euO0yL8pK1Dsg4atKwGF6IBwvvsA5h3xmlIE=;CifWhE4qp4Wgu8RSIRf0Qg=="
+secured: "g/N1jFtSaw3GT1lp8gDSV2sxFf8c+Z0QahBe1sP3mtwNX5qgMc0sxV8vxurTO8xktjxKBCSXr797vWqF6dGZ5ibfa6QNmp9XW5JNcDrZ68o4oD+OR0Com8k7kYFMwroRP2ymfNFIAcu/ToqSYuMfdt3MgWKhAbw7WG5o8vpT156eyA/8dkNRnUIPl8KabprHmSrHMG1j8m3Z/YOH9C5b1oCqEfuP8tWWUeMgJ7wLjlZ/vEygJw7oJGVZjTGVcJ8t7xSbhf+MeNjFZci8zPxI9gZCrutt96zzYYSvT62SlqxbG/h9PgosynMRdNuKyztmSbPPcv2D4JbBXw5Hl8X6UtzvqMuHq7yj1L8IbhzEFGM=;PHbI+FB+OajDpP5a7a2itw=="
 ---
 

@@ -35,6 +35,15 @@ related:
         width: 1024
         height: 463
         isCached: true
+  - title: "Azure IoT Edge integration with Azure Monitor is now in public preview"
+    excerpt: "Monitoring and troubleshooting your Azure IoT Edge devices just became more simple and efficient."
+    publishedDateTime: 2021-06-10T17:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge-azure-monitor-pp/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 118
   - title: "New Datadog integration with Azure offers a seamless configuration experience"
     excerpt: "With the new Azure integration with Datadog, organizations can now fully map their legacy and cloud-based systems, monitoring real-time data during every phase of the cloud transition, and ensure that migrated applications meet performance targets."
     publishedDateTime: 2020-09-29T09:00:03Z
