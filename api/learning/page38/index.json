@@ -4,6 +4,124 @@
   "page": 38,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-go-methods-interfaces.md",
+      "title": "Use methods and interfaces",
+      "excerpt": "Learn about best practices for writing methods and interfaces in Go.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-go-methods-interfaces/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-methods-interfaces/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 68,
+        "average": 4.8235292
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/go-methods-interfaces-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-go-to-market-commercial-marketplace.md",
+      "title": "Go to market through the commercial marketplace",
+      "excerpt": "This module provides tips and best practices to help organizations create their business plan for success in the commercial marketplace",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-go-to-market-commercial-marketplace/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-to-market-commercial-marketplace/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 63,
+        "average": 4.888889
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-go-variables-functions-packages.md",
+      "title": "Understand how to use packages, variables, and functions",
+      "excerpt": "Learn about the basic data types in Go and about how to declare variables, write functions, and use packages.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-go-variables-functions-packages/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-variables-functions-packages/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 209,
+        "average": 4.856459
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/go-variables-functions-packages-social.png",
+          "width": 640,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-go-write-test-program.md",
       "title": "Write and test a program",
       "excerpt": "By using what you've learned about Go, write and test a complete program.",
@@ -344,8 +462,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/image-classification-azure-sphere/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 101,
-        "average": 4.7623763
+        "count": 102,
+        "average": 4.7647057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -688,8 +806,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-cicd-iot-edge/",
       "length": "PT1H11M",
       "ratings": {
-        "count": 111,
-        "average": 4.6936936
+        "count": 112,
+        "average": 4.696429
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1128,136 +1246,6 @@
       "length": "PT27M",
       "ratings": {
         "count": 8,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-policy-tips-for-dlp-policies.md",
-      "title": "Implement policy tips for DLP policies",
-      "excerpt": "Implement policy tips for DLP policies",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-policy-tips-for-dlp-policies/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-policy-tips-for-dlp-policies/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 3,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-scale-high-availability-with-windows-server-vm.md",
-      "title": "Implement scale and high availability with Windows Server VM",
-      "excerpt": "You'll learn how to implement scaling for virtual machine scale sets and load-balanced VMs. You'll also learn how to implement Azure Site Recovery.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-scale-high-availability-with-windows-server-vm/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-scale-high-availability-windows-server-virtual-machine/",
-      "length": "PT58M",
-      "ratings": {
-        "count": 33,
-        "average": 4.818182
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-scale-and-high-availability-with-windows-server-vm-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-sensitivity-labels.md",
-      "title": "Implement sensitivity labels",
-      "excerpt": "Implement sensitivity labels",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-sensitivity-labels/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-sensitivity-labels/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 3,
         "average": 5.0
       },
       "provider": {

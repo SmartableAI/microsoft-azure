@@ -4,7 +4,7 @@ excerpt: "Manage content search and investigations in Microsoft 365"
 type: collection
 price: Free
 length: PT1H52M
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn

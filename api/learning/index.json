@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 69724,
-        "average": 4.7916927
+        "count": 69743,
+        "average": 4.791678
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -271,8 +271,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 69724,
-            "average": 4.7916927
+            "count": 69743,
+            "average": 4.791678
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -313,8 +313,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 41479,
-            "average": 4.8168955
+            "count": 41495,
+            "average": 4.816918
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -357,8 +357,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 22212,
-            "average": 4.7967315
+            "count": 22230,
+            "average": 4.796761
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -421,8 +421,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 41479,
-        "average": 4.8168955
+        "count": 41495,
+        "average": 4.816918
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -458,18 +458,13 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-roles-responsibilities-world-of-data.md",
-      "title": "Explore roles and responsibilities in the world of data",
-      "excerpt": "Explore roles and responsibilities in the world of data",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-roles-responsibilities-world-of-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
-      "length": "PT17M",
-      "ratings": {
-        "count": 4304,
-        "average": 4.8317842
-      },
+      "path": "_learning/collections/microsoft-azure-friday.md",
+      "title": "Azure Friday",
+      "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-friday/",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
@@ -480,21 +475,173 @@
           }
         ]
       },
-      "levels": [
-        "Beginner"
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-run-your-vmware-workloads-natively-on-azure-with-azure-vmware-solution-azure-friday.md",
+          "title": "Run your VMware workloads natively on Azure with Azure VMware Solution | Azure Friday",
+          "excerpt": "Azure VMware Solution delivers a VMware environment as a service, which enables you to run native VMware workloads on Azure.  Shannon Kuehn shows Scott Hanselman the seamless experience to migrate VMs directly from on-premises to Azure.  0:23 – Introduction 1:44 – Background 5:18 – Demo 15:02 – Wrap-up",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-run-your-vmware-workloads-natively-on-azure-with-azure-vmware-solution-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-run-your-vmware-workloads-natively-on-azure-with-azure-vmware-solution-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=Zcmbj0KHkaY",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zcmbj0KHkaY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT17M29S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-06-11T00:57:34-07:00",
+          "heat": 143,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/Zcmbj0KHkaY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-an-overview-of-azure-web-pubsub-azure-friday.md",
+          "title": "An overview of Azure Web PubSub | Azure Friday",
+          "excerpt": "Develop web applications with real-time messaging using Azure Web PubSub, a fully managed service that supports native and serverless WebSockets.  David Fowler and Liangying Wei join Scott Hanselman to show how to build real time applications with WebSockets and Azure Web PubSub.  0:23 – Introduction",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-an-overview-of-azure-web-pubsub-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-an-overview-of-azure-web-pubsub-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=OX4tNrjRr4w",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OX4tNrjRr4w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT19M51S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-06-04T01:00:07-07:00",
+          "heat": 132,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/OX4tNrjRr4w/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-azure-data-factory-update-governance-data-flow-startup-and-cicd-azure-friday.md",
+          "title": "Azure Data Factory update: governance, data flow startup, and CI/CD | Azure Friday",
+          "excerpt": "Wee Hyong Tok joins Scott Hanselman to provide an Azure Data Factory update with several members of the Azure Data Factory engineering team.  0:22 – Intro 2:48 – Using Azure Data Factory and Azure Purview for data governance and data integration (Linda Wang) 16:37 – Fast startup time to data flow compute",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-data-factory-update-governance-data-flow-startup-and-cicd-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-data-factory-update-governance-data-flow-startup-and-cicd-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=bxTU4Lx_TSM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bxTU4Lx_TSM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT49M49S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-05-28T09:44:13-07:00",
+          "heat": 90,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/bxTU4Lx_TSM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-azure-cosmos-db-update-mongodb-40-notebooks-and-continuous-backup-azure-friday.md",
+          "title": "Azure Cosmos DB update: MongoDB 4.0, notebooks, and continuous backup | Azure Friday",
+          "excerpt": "Kirill Gavrylyuk joins Scott Hanselman to provide another Azure Cosmos DB update with several members of the Azure Cosmos DB engineering team.  0:00 – Introduction 2:20 – MongoDB 4.0 (Gahl Levy) 12:30 – Azure Cosmos DB notebooks (Tanuj Mittal) 22:43 – Continuous backups (Govind Kanshi) 31:25 – Wrap-up",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-cosmos-db-update-mongodb-40-notebooks-and-continuous-backup-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-cosmos-db-update-mongodb-40-notebooks-and-continuous-backup-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=2gydxodDS_I",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2gydxodDS_I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT33M35S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-05-21T08:31:41-07:00",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/2gydxodDS_I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        }
       ],
-      "heat": 156,
+      "size": 261,
+      "heat": 158,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-roles-responsibilities-world-of-data-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/Zcmbj0KHkaY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free",
+      "type": "collection",
       "topics": [
         "Azure"
       ]
@@ -507,8 +654,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
       "length": "PT34M",
       "ratings": {
-        "count": 22212,
-        "average": 4.7967315
+        "count": 22230,
+        "average": 4.796761
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -657,6 +804,44 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-run-your-vmware-workloads-natively-on-azure-with-azure-vmware-solution-azure-friday.md",
+      "title": "Run your VMware workloads natively on Azure with Azure VMware Solution | Azure Friday",
+      "excerpt": "Azure VMware Solution delivers a VMware environment as a service, which enables you to run native VMware workloads on Azure.  Shannon Kuehn shows Scott Hanselman the seamless experience to migrate VMs directly from on-premises to Azure.  0:23 – Introduction 1:44 – Background 5:18 – Demo 15:02 – Wrap-up",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-run-your-vmware-workloads-natively-on-azure-with-azure-vmware-solution-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-run-your-vmware-workloads-natively-on-azure-with-azure-vmware-solution-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=Zcmbj0KHkaY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zcmbj0KHkaY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M29S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-06-11T00:57:34-07:00",
+      "heat": 143,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Zcmbj0KHkaY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-create-custom-handlers-for-azure-functions-azure-tips-and-tricks.md",
       "title": "How to create custom handlers for Azure Functions | Azure Tips and Tricks",
       "excerpt": "In this edition of Azure Tips and Tricks, learn how to create custom handlers for Microsoft Azure Functions.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit.  Create your free account today with Microsoft Azure:",
@@ -678,7 +863,7 @@
         ]
       },
       "publishedDateTime": "2021-06-08T08:00:02-07:00",
-      "heat": 143,
+      "heat": 137,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/roWbjuo-c30/maxresdefault.jpg",
@@ -693,6 +878,83 @@
       "topics": [
         "Azure",
         "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-an-overview-of-azure-web-pubsub-azure-friday.md",
+      "title": "An overview of Azure Web PubSub | Azure Friday",
+      "excerpt": "Develop web applications with real-time messaging using Azure Web PubSub, a fully managed service that supports native and serverless WebSockets.  David Fowler and Liangying Wei join Scott Hanselman to show how to build real time applications with WebSockets and Azure Web PubSub.  0:23 – Introduction",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-an-overview-of-azure-web-pubsub-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-an-overview-of-azure-web-pubsub-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=OX4tNrjRr4w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OX4tNrjRr4w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M51S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-06-04T01:00:07-07:00",
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OX4tNrjRr4w/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday.md",
+      "title": "Using Azure Cross-region Load Balancer for high availability scenarios | Azure Friday",
+      "excerpt": "Irene Huang joins Scott Hanselman to show him Cross-region Load Balancer, which recently became available for Public Preview. Cross-region Load Balancer is a Public layer-4 network load balancer serving as a single point of contact for global traffic. It provides efficient routing by leveraging Microsoft's",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=3awUwUIv950",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3awUwUIv950\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M11S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-26T08:29:39-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3awUwUIv950/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
       ]
     },
     {
@@ -726,8 +988,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 15609,
-            "average": 4.761676
+            "count": 15617,
+            "average": 4.76167
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -771,8 +1033,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 12982,
-            "average": 4.636882
+            "count": 12991,
+            "average": 4.6370564
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -814,8 +1076,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 11370,
-            "average": 4.7686014
+            "count": 11375,
+            "average": 4.7686152
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -857,8 +1119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 15908,
-            "average": 4.7294445
+            "count": 15912,
+            "average": 4.729387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -922,6 +1184,41 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-aks-secrets-configure-app.md",
+      "title": "Manage Application Configuration and Secrets in Azure Kubernetes Service (AKS)",
+      "excerpt": "Learn how to securely store application secrets and configurations using native Kubernetes resources in Azure Kubernetes Service (AKS).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-secrets-configure-app/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-secrets-configure-app/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 43,
+        "average": 4.744186
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
       "title": "Explore Azure compute services",
       "excerpt": "Learn about the different services that are available in Azure Compute.",
@@ -929,8 +1226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 15609,
-        "average": 4.761676
+        "count": 15617,
+        "average": 4.76167
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -967,15 +1264,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-cloud-adoption-framework-plan.md",
-      "title": "CAF Plan: Prepare for cloud adoption with a data-driven plan.",
-      "excerpt": "Prepare for cloud adoption with a data driven, cloud adoption plan from CAF. For new innovations, learn from others who have used the target platforms. For migrations, understand how to evaluate your assets and plan the efforts required to move them to the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-adoption-framework-plan/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-plan/",
-      "length": "PT1H53M",
+      "path": "_learning/courses/microsoft-learn-threat-modeling-enterprise-security.md",
+      "title": "Secure your infrastructure with threat modeling",
+      "excerpt": "Learn how to use the foundation of threat modeling to identify enterprise risks and find ways to reduce or eliminate them.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-threat-modeling-enterprise-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/threat-modeling-enterprise-infrastructure/",
+      "length": "PT1H12M",
       "ratings": {
-        "count": 9,
-        "average": 4.888889
+        "count": 6,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -990,103 +1287,17 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Beginner",
+        "Intermediate"
       ],
       "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cloud-adoption-framework-plan-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-get-started-azure-advisor.md",
-      "title": "Get started with Azure Advisor",
-      "excerpt": "Learn how to use Azure Advisor to optimize your Azure usage, lower costs, and increase efficiency.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-azure-advisor/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-azure-advisor/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 8,
-        "average": 4.875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-an-overview-of-azure-web-pubsub-azure-friday.md",
-      "title": "An overview of Azure Web PubSub | Azure Friday",
-      "excerpt": "Develop web applications with real-time messaging using Azure Web PubSub, a fully managed service that supports native and serverless WebSockets.  David Fowler and Liangying Wei join Scott Hanselman to show how to build real time applications with WebSockets and Azure Web PubSub.  0:23 – Introduction",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-an-overview-of-azure-web-pubsub-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-an-overview-of-azure-web-pubsub-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=OX4tNrjRr4w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OX4tNrjRr4w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M51S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-06-04T01:00:07-07:00",
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OX4tNrjRr4w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
+        "IoT",
+        "Security"
       ]
     },
     {
@@ -1121,8 +1332,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 11019,
-            "average": 4.7671294
+            "count": 11023,
+            "average": 4.767214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1164,8 +1375,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 1477,
-            "average": 4.747461
+            "count": 1481,
+            "average": 4.746793
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1207,8 +1418,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 42779,
-            "average": 4.7185535
+            "count": 42780,
+            "average": 4.71856
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1242,8 +1453,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6991,
-            "average": 4.682306
+            "count": 6992,
+            "average": 4.682351
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1298,8 +1509,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 15908,
-        "average": 4.7294445
+        "count": 15912,
+        "average": 4.729387
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1334,195 +1545,6 @@
         "Analytics",
         "AI",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-azure-friday.md",
-      "title": "Azure Friday",
-      "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-friday/",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/microsoft-an-overview-of-azure-web-pubsub-azure-friday.md",
-          "title": "An overview of Azure Web PubSub | Azure Friday",
-          "excerpt": "Develop web applications with real-time messaging using Azure Web PubSub, a fully managed service that supports native and serverless WebSockets.  David Fowler and Liangying Wei join Scott Hanselman to show how to build real time applications with WebSockets and Azure Web PubSub.  0:23 – Introduction",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-an-overview-of-azure-web-pubsub-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-an-overview-of-azure-web-pubsub-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=OX4tNrjRr4w",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OX4tNrjRr4w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT19M51S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-06-04T01:00:07-07:00",
-          "heat": 112,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/OX4tNrjRr4w/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-azure-data-factory-update-governance-data-flow-startup-and-cicd-azure-friday.md",
-          "title": "Azure Data Factory update: governance, data flow startup, and CI/CD | Azure Friday",
-          "excerpt": "Wee Hyong Tok joins Scott Hanselman to provide an Azure Data Factory update with several members of the Azure Data Factory engineering team.  0:22 – Intro 2:48 – Using Azure Data Factory and Azure Purview for data governance and data integration (Linda Wang) 16:37 – Fast startup time to data flow compute",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-data-factory-update-governance-data-flow-startup-and-cicd-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-data-factory-update-governance-data-flow-startup-and-cicd-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=bxTU4Lx_TSM",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bxTU4Lx_TSM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT49M49S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-05-28T09:44:13-07:00",
-          "heat": 90,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/bxTU4Lx_TSM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-azure-cosmos-db-update-mongodb-40-notebooks-and-continuous-backup-azure-friday.md",
-          "title": "Azure Cosmos DB update: MongoDB 4.0, notebooks, and continuous backup | Azure Friday",
-          "excerpt": "Kirill Gavrylyuk joins Scott Hanselman to provide another Azure Cosmos DB update with several members of the Azure Cosmos DB engineering team.  0:00 – Introduction 2:20 – MongoDB 4.0 (Gahl Levy) 12:30 – Azure Cosmos DB notebooks (Tanuj Mittal) 22:43 – Continuous backups (Govind Kanshi) 31:25 – Wrap-up",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-cosmos-db-update-mongodb-40-notebooks-and-continuous-backup-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-cosmos-db-update-mongodb-40-notebooks-and-continuous-backup-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=2gydxodDS_I",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2gydxodDS_I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT33M35S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-05-21T08:31:41-07:00",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/2gydxodDS_I/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-real-time-streaming-now-faster-easier-with-confluent-cloud-on-azure-azure-friday.md",
-          "title": "Real-time streaming now faster, easier with Confluent Cloud on Azure | Azure Friday",
-          "excerpt": "Ramya Oruganti shows Scott Hanselman how much faster and easier it is to provision Confluent Cloud resources directly from Azure.  Ramya also shows a real-time search use case demo that leverages Azure Database for MySQL, RediSearch, Azure Spring Cloud, and Confluent Cloud on Azure.  0:00 – Introduction",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-real-time-streaming-now-faster-easier-with-confluent-cloud-on-azure-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-real-time-streaming-now-faster-easier-with-confluent-cloud-on-azure-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=sLJxEKYMwiw",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sLJxEKYMwiw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT18M40S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-05-14T01:17:33-07:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/sLJxEKYMwiw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 260,
-      "heat": 108,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OX4tNrjRr4w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Azure"
       ]
     },
     {
@@ -1708,8 +1730,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 12982,
-        "average": 4.636882
+        "count": 12991,
+        "average": 4.6370564
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1774,8 +1796,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 9419,
-            "average": 4.7861767
+            "count": 9426,
+            "average": 4.7862296
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1817,8 +1839,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 10746,
-            "average": 4.7757306
+            "count": 10752,
+            "average": 4.7758555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1860,8 +1882,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 7065,
-            "average": 4.776787
+            "count": 7072,
+            "average": 4.777008
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1907,8 +1929,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 8114,
-            "average": 4.724057
+            "count": 8118,
+            "average": 4.724193
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1999,8 +2021,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 1477,
-            "average": 4.747461
+            "count": 1481,
+            "average": 4.746793
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2042,8 +2064,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 20012,
-            "average": 4.7038774
+            "count": 20014,
+            "average": 4.7039075
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2077,8 +2099,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 5790,
-            "average": 4.7331605
+            "count": 5791,
+            "average": 4.7332067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2112,8 +2134,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 4430,
-            "average": 4.736569
+            "count": 4432,
+            "average": 4.7366877
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2194,8 +2216,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 41479,
-            "average": 4.8168955
+            "count": 41495,
+            "average": 4.816918
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2280,8 +2302,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 20012,
-            "average": 4.7038774
+            "count": 20014,
+            "average": 4.7039075
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2315,8 +2337,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 10340,
-            "average": 4.6982594
+            "count": 10342,
+            "average": 4.697834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2392,8 +2414,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 1477,
-            "average": 4.747461
+            "count": 1481,
+            "average": 4.746793
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2435,8 +2457,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 20012,
-            "average": 4.7038774
+            "count": 20014,
+            "average": 4.7039075
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2470,8 +2492,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 5790,
-            "average": 4.7331605
+            "count": 5791,
+            "average": 4.7332067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2505,8 +2527,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 4430,
-            "average": 4.736569
+            "count": 4432,
+            "average": 4.7366877
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2587,8 +2609,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 15540,
-            "average": 4.759524
+            "count": 15545,
+            "average": 4.759601
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2649,8 +2671,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 11370,
-        "average": 4.7686014
+        "count": 11375,
+        "average": 4.7686152
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2692,8 +2714,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 15540,
-        "average": 4.759524
+        "count": 15545,
+        "average": 4.759601
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2768,7 +2790,7 @@
             ]
           },
           "publishedDateTime": "2021-06-08T08:00:02-07:00",
-          "heat": 143,
+          "heat": 137,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/roWbjuo-c30/maxresdefault.jpg",
@@ -2807,7 +2829,7 @@
             ]
           },
           "publishedDateTime": "2021-06-01T08:00:17-07:00",
-          "heat": 85,
+          "heat": 81,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/2iwHmaoi0wU/maxresdefault.jpg",
@@ -2902,7 +2924,7 @@
         }
       ],
       "size": 158,
-      "heat": 102,
+      "heat": 97,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/roWbjuo-c30/maxresdefault.jpg",
@@ -2925,8 +2947,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 9419,
-        "average": 4.7861767
+        "count": 9426,
+        "average": 4.7862296
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2958,49 +2980,6 @@
       "topics": [
         "Azure",
         "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-cloud-governance-strategy-azure.md",
-      "title": "Build a cloud governance strategy on Azure",
-      "excerpt": "Learn how to access policies, resource locks, and tags, as well as how Azure services such as Azure Policy and Azure Blueprints can help you build a comprehensive cloud governance strategy.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-cloud-governance-strategy-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 1477,
-        "average": 4.747461
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 94,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-governance-methodologies-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
       ]
     }
   ],
