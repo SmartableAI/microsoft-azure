@@ -75,18 +75,18 @@ related:
         height: 313
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-06-01T13:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/dataiku-now-available-in-the-microsoft-azure-marketplace/article_60ebf69b-3053-5584-b2a5-eee397d2378b.html"
+    excerpt: "Jake Zborowski, General Manager, Microsoft Azure Platform at Microsoft Corp., said, \"We're pleased to welcome Dataiku to the Microsoft Azure Marketplace, which gives our partners great exposure to ..."
+    publishedDateTime: 2021-06-01T13:48:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
   - title: "CertsInside Microsoft AZ-104 Exam Questions Based on Newly Added Azure Exam Topics"
     excerpt: "New topics have been added to the Microsoft Azure Administrator exam. Now the preparation must be in accordance with these new AZ-104 topics if success is the goal. CertsInside has also upgraded its Microsoft AZ-104 exam questions due to newly introduced topics."
@@ -146,6 +146,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "q5YLmMeDClYu3esjOfibAnEOZM3TpaSEeDLeXpFv0v2eqiMV0uyUhuAJvsG+xm/L/1ptiF3gRKZf+enix4CuBrs2LE+rbd/ZoUW9lY+Dz8go5vtcgQlYCyCc71ORYUeGLghA5ndjhVtLGyvnxQkIvrkk59/zDW9BZ2y20SzmGydgCeK4dvwTM+aCBIq4PxSpAfD2ga/iABFclKyugccrbzZpGivqIhxHo2KvUeYAQ6oiAuvxb7qNLqJUs4ljg90cvKO/JYq6NytUOrh6VvVDTMyHP5/KF4VphwfidwSJkakfxZ7swDWzTbuG9y/El+8r3G4n2nm742QNNRN5133/6pIrB0fKzJkrkLP13NF2rkw=;tcc6aA8h+pJ++ReVyDosQw=="
+secured: "Al7cREILSUDYaI4kaA4rPswyW/sFpCyeNHDKIUQaxm+y31CbGvy/uys8oobFA1YpawvQjDYrvn1mDa6hFCXnBnDlM9GLzJAB4H92Kw14OKnObElzNgXbeODTknB0DrEeEnuica0Ygi3MK2dPuUy5gQWfDgIb0czRvZxmYbBj0HOA9cvGkLKaUPOGH2MTHivyU5i4AzZX/yTwhGB1W1aWnRRJFHdsyin3a0sg0wt9+uOu72mCDfG6GimDB3tRd9Tph3NFhxKzHhsM56vo91wk7FR3xPQBtYDaj3/iNYujP0QO62MMcdXvJSFwHw0UuRHg1TZhnkH5nU4z9RUBRVIG7c8Y2SKGXpitgKn38ukF3HE=;OYbVb8RzQsTDx7VGVpwn+g=="
 ---
 
