@@ -4,7 +4,7 @@ excerpt: "Implement applications and external access in Azure AD"
 type: collection
 price: Free
 length: PT1H32M
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
