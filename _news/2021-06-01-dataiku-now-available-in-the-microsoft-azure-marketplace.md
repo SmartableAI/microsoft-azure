@@ -74,6 +74,20 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available ..."
+    publishedDateTime: 2021-06-02T02:50:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3060797"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 37
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2021/06/Dataiku_Now_Available_Microsoft_Azure_Marketplace.jpg"
+        width: 800
+        height: 338
+        isCached: true
   - title: "CertsInside Microsoft AZ-104 Exam Questions Based on Newly Added Azure Exam Topics"
     excerpt: "New topics have been added to the Microsoft Azure Administrator exam. Now the preparation must be in accordance with these new AZ-104 topics if success is the goal. CertsInside has also upgraded its Microsoft AZ-104 exam questions due to newly introduced topics."
     publishedDateTime: 2021-05-25T21:54:00Z
@@ -113,15 +127,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
-  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplac"
-    publishedDateTime: 2021-06-01T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
   - title: "Glance Networks: Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
     excerpt: "Glance Microsoft Azure customers can also credit Glance session data flowing through Azure towards their Microsoft Azure Consumption Commitment (MACC) requirements. Glance for Financial Services ..."
     publishedDateTime: 2021-05-25T17:10:00Z
@@ -141,6 +146,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "jeBBiDbtah3vnj7+8n81G7PqD8aXgU1aMJFydDFojaG1z6+iw8X8gsflLak1HFthoXrboWysFzX+qkKRXFSDcPeKxEs9A3CtTeS6zjHLYkbXNxvt0O2jH0RhIbUBU0vT7O8o7fYFwDbkeQkfFMq8N1tLGYid0dKMzviTFol7hoWjGYn4LKJnwDPQtAUqXuINEmCNt+Jyfpy80IrTGv7+IpRwTrOsdISUFgICMbObnORk2QK9zU14uWF1Y96oSzm6kIeCv1maMBqvvlmKt/m2+qPOo1Vz+rZ0SBfpm7wjb0PZomPbRKgU8rbd1GqY8JSlDJZmCYum5GC3pWpGDbjvPkKyqffQTye9VuJTmRcG60k=;3TI99AQQPm4znXgPkyB8dA=="
+secured: "ku7I0fa1vLuVCJMFx/F1zbAX+ypEUx6WhU2Og5rLAyrDnRoEC7zFj2+OiHSrsVZH4jxSQwZ2XoROdNC5ZghJ6ke7WkePDOVFozHRIU2NuMjcTj4FEyTJhu8S6IZ2HY5XLGI5+oDDzop2Uv3iWu3xjwJJYmehVGCgWMOTUVZBU6oSkjKYKPSrHj/64KDyqBRjWdxQX8LqafhCfRLVD0pWQYu0Zf+t5UbVgIVxywZwzY7FecjqLJJy7St8AZDtTX+QC4wESuI3FeEGRdouC7Of/Fo81AbFCt0s6SPA1cykBbFeKSla1i+S9x6ZgkDaHc+6Ij+Vy8VWY1/1HFE5qv4f8YqkK/h5ZnJQ72zkrqWyplg=;CJoDtzpqCh9Z6XPk4Ozqrg=="
 ---
 

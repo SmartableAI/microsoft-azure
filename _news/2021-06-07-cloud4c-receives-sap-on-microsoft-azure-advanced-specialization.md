@@ -2,20 +2,26 @@
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
 excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
-publishedDateTime: 2021-06-07T13:57:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
+publishedDateTime: 2021-06-07T13:36:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+    width: 1616
+    height: 846
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -79,6 +85,22 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/06/6CF52215-66AC-42DA-9307-7E975564CE3B.png"
         width: 800
         height: 598
+        isCached: true
+  - title: "Cloud4C awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization"
+    excerpt: "Cloud4C has been awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization. This stands as validation of Cloud4C's deep knowledge,"
+    publishedDateTime: 2021-06-11T13:01:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/cloud4c-awarded-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization-121061101060_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/cloud4c-awarded-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization-121061101060_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/cloud4c-awarded-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization-121061101060_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/11/full/20210611173936.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "NSW Police runs AI over evidence using Microsoft Azure"
     excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
@@ -198,16 +220,7 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
-  - title: "Cloud4C Awarded the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Cloud4C has been awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization. This stands as validation of Cloud4C's deep knowledge, extensive experience and proven expertise in migrating workloads running on Red Hat Enterprise Linux or SUSE virtual machines and/or utilizing MySQL,"
-    publishedDateTime: 2021-06-11T11:41:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-awarded-linux-open-source-databases-migration-microsoft-/2021/06/11/9388837.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
-secured: "P/O9b4cDNQHQNiCeHI8mP96ozM4wSoD5YsrgIg41uEqUfFFT2EYnOPkF7IF/Sb14O6jeA9nh5TTsqO36X2xlddvCp330hVWmSNy67mRUX+74wlHxt/pozDBsOaLuoqXZ5b5MVq3LUFMmKXhFIewYpB5a2X8mG6fgro6KD3f47NbID3PCI6AUXLyDRqvCakYXDOBAOkYdHdNZ1P3ukTyqlsxdraSZDQQjPivO6F3yxRMfIVVbdqG+n6syLjhLYUNmaohC3XJz1txt9K90h6LYJmMjwnRAwk9g0eNazK7Q6JLhCIIMOFWrBILV0HpPE0+pk+sgzAvuHMOdmihoq3jWR4pwGFLcp4aeR4nnKUL2Ig0=;x68xxJ/XSBHXAx9YIo09BQ=="
+secured: "zj8a3jQZnyofd+7pNV21z+sqpYaGIb41k06ixJ0r7j6HYvNjh1pFvzckmMruTZF0d3o1I206aiUDEaQk+GPb86Yr8UiPxDEWPP4jFeEk2TlRLjP9kt+j1ry5kSF6tkxaHf5xpz2/r4aBagIywC1SFr2uC9dhjQ8DSEvrqeouxaWYyYkfRz6Tmy4JbZ7Fo/mgcNLPjp0jQgemVCMbExyCRXeShnlmHCCaxmoZmnqJmX6XXpVnbqzd7pZ9sKTb9zknCrQiSt4BSKjKTJpKbqqgKRV3rac+uxG36AbDFBfn6T/FEgDANAk0Gr7pdX5UnNmYmCvX/xPgkyWi9XbSiOTh1IpTDOTxicV7LuNUPjYNh6c=;aL61128f5071eK9OmBxssA=="
 ---
 

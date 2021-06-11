@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplac"
-publishedDateTime: 2021-06-01T17:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace"
-webUrl: "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace"
+excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available ..."
+publishedDateTime: 2021-06-02T02:50:00Z
+originalUrl: "https://www.thaipr.net/en/it_en/3060797"
+webUrl: "https://www.thaipr.net/en/it_en/3060797"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: thaipr.net
+  domain: thaipr.net
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.thaipr.net/wp-content/uploads/2021/06/Dataiku_Now_Available_Microsoft_Azure_Marketplace.jpg"
+    width: 800
+    height: 338
+    isCached: true
 
 related:
   - title: "Microsoft adds enterprise support for PyTorch AI on Azure"
@@ -140,6 +146,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "R/x1ef+VZqbOyTnOjP44hR7TrCUOgNhYFyBLen2qXEOTkHTg6VdFsDABqGDpS+gZR3werrwroxjB2I3IKbyJj0MOrc26EELA/stfacQvnIySLZxMXHd16EkkN5M0eZKTzzjtcuTefFJyc506Gg88zt17BEceTlbF8oYitGk1QbQcxetykYpYZyLX4Y0FDLFbBrLhhzloGMKO2fgRHzkdj4juV86XsnifI6/KEFFGT6FhPTvCqk5FIRnOS7qAO7aUDmmfS7OkfKbxhlvky6FqdhB5m8dcvFsG/StE/WvBuMxQDvgaC/HDCPtOXFYQ+XqShUOWQTosn/zpN4rAPyH/Caw91OYPLKlYR+OdxQWBbWI=;P2oCFJmBdHSR0K5uRCe2Rw=="
+secured: "czW3HGDsdclfgfeMI22Jhplpo2j6nocRx9PfBlB+rqryxpXQApDMfU+/1aZ6ZN/DWBVRjRb7Km34q9rtEMIgOWzW43q5yC+SrUWIH8FUHhh5hM+FfmcqVarXptE1EIrp8KkmfTS3lPcf5YTeDpx4GPfWdEMKcGVAp10x3YIDHGjIOAIcAkA6yaGpD6eso2JXig1ItVKiyaw8mMsxuJRG2jxokPz0IiMcDNVY3ATv+e6hnXMD7H5+e2JrmZvAPRvPKy1qPW7AjRw8o6yE/B5wkBGB7hDniilflcodconG5C6CDr4fbTpBAny1+6vSQb2qXu1SMd6mvHp+m7RdwhHElNVeJPKEsuqQeDIM56Ow7Xs=;roR6N3z/VAxTUBc8EomfbQ=="
 ---
 

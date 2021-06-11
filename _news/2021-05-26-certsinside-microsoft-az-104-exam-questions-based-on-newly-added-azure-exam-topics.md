@@ -88,6 +88,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available ..."
+    publishedDateTime: 2021-06-02T02:50:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3060797"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 37
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2021/06/Dataiku_Now_Available_Microsoft_Azure_Marketplace.jpg"
+        width: 800
+        height: 338
+        isCached: true
   - title: "Red Hat Brings JBoss Enterprise Application Platform To Microsoft Azure, Easing Shift To The Cloud For Traditional Java Applications"
     excerpt: "Red Hat, Inc., the world's leading provider of open source solutions, today announced Red Hat JBoss Enterprise Application Platform (JBoss EAP) on Micro"
     publishedDateTime: 2021-05-31T09:35:00Z
@@ -112,15 +126,6 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
-    quality: 17
-  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplac"
-    publishedDateTime: 2021-06-01T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
     quality: 17
   - title: "Glance Networks: Glance Signs ISV Partner Agreement for Microsoft Azure Marketplace"
     excerpt: "Glance Microsoft Azure customers can also credit Glance session data flowing through Azure towards their Microsoft Azure Consumption Commitment (MACC) requirements. Glance for Financial Services ..."
