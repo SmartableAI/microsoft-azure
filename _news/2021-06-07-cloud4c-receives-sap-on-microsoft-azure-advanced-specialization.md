@@ -2,20 +2,26 @@
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
 excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
-publishedDateTime: 2021-06-07T13:57:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
+publishedDateTime: 2021-06-07T13:36:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+    width: 1616
+    height: 846
+    isCached: true
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -283,6 +289,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "8LsWCEawaTUaHh9tCWDKYMSAUz+xs24YHC1l5Px3THvHortzdG0pwSY5otIS4jG0Q07bvdlZqk10yyrlAda7gyB7N5exkt+2TFGZkhr3dlv6sgd+YcIc8pU2G9Ow94RCgZNrGjInBuAGHkA5cIb2EOO5oZXEiDC57fGuUdq5HSufEVFgSGNUfWliNGClwAwEhKYBsjzEbUeDgFMTbt9ni4okzKp6KlAPAKuxlCU0iN7PrnUaGvcDog8LH0i8Xc/rylWWJSYX2bHZ4SH74qB5htxeXv1RYRHFemq1kBTGIAAJ/NmaPw5KnE1uZ+LkpSXoOMywaPbnr2Vu3uteplonT0HIgi1FcCZWvF662k+PpA4=;1Ishj7txZHtd5mOry0TijQ=="
+secured: "qgAk0GMGrPAldD/GHQXYLvdZBcuBe6n3jXig2B5hDRgC5mWjnRI/pPLvyQdEy7yTI2EoKOhXGpm9gurzbTsE1a++xdMW3u4IzzhHuE4/ptdBJk1enZryGS4uNEYQBNkq5IU8P/hPHckuQdKirb5FfLsJZbGqSYHqrqH9+HMN/y/hRmEbzvO+NGOV7+R8v1dt1BUGT2vnNfvtyNdD5byiY8EEl1jsPoP/kIzpHimH3HDl/u8rz9aeNOWBhYyPAvjPOBZgB7bCFoTC7HPTti1tQLnA7ZYczbH1/GUIX8qYbOVCzgVer7d/QGOKTOOzA3+OOeV4xKvOs4aSiwuEE1Wawz7HOmzZH0jktixPS+pCiP8=;wW1BqH0XgwTgcKU2SduLig=="
 ---
 
