@@ -213,6 +213,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 86
+  - title: "Bitvore Announces Integration With Microsoft Azure Synapse Analytics"
+    excerpt: "June 8, 2021 /PRNewswire/ -- Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed its integration with Microsoft Azure Synapse ..."
+    publishedDateTime: 2021-06-08T12:40:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/bitvore-announces-integration-with-microsoft-azure-synapse-analytics-301307653.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 86
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Azure Stream Analytics Dedicated now generally available"
     excerpt: "Azure Stream Analytics Dedicated offers a single-tenant clustered deployment of Stream Analytics for complex and demanding streaming scenarios."
     publishedDateTime: 2021-03-02T17:00:21Z
@@ -319,15 +333,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Bitvore Announces Integration With Microsoft Azure Synapse Analytics"
-    excerpt: "Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed its integration with Microsoft Azure Synapse Analytics. Via the integration, customers can quickly and easily consume continuously updated Bitvore Cellenus datasets in Azure and integrate them with new and existing data sources to enhance predictive models and build augmented intelligence into their applications."
-    publishedDateTime: 2021-06-08T12:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-bitvore-announces-integration-with-microsoft-azure-synapse-analytics-/2021/06/08/9385938.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 66
   - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
     excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a launch partner for"
     publishedDateTime: 2020-12-03T18:44:00Z
