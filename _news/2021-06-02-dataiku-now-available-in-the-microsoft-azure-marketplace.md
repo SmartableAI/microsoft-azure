@@ -146,6 +146,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "qV8mJpYTwOLGsT6DrzYiJTKFa1sj9ybUSFKGFBAcDgr/zlrTx/T1gDNL/uVMMG2JHyeAcnK47DGhWPJrM1hwmTICHopr4O0hq1TeKC1I+QZAVQn6Kv63IUR3irBLJXASReDxLb2pWjlGCQ1mERfgjMmeoxNad8R6a/ScGDRIr0wNQJe9jpeKfpOnrjTroX6wlT/rwxobvt1kjwR0MekOf+BNIidmDOK2wnDjnP0hpJ04EY0payC5k5uQ6TE2EdQ1tf2h/And/fzK1VWWitSxAGLqqVX1lOQKqOExEp8Bm7zvioUcL7yY88Fi95ZcqIGG5BdJm/66ktfpGtN9T0O72SEluqk27LZe8xSroAwp40g=;zMMCVlk8vo7/LsDow/yXdQ=="
+secured: "C/srVzY4IzLhaFFh5ek/uHGObWoCD2bj2eZOlbxFxzmZo9/M5PX/Z5N32U2smwDPLYo9Ztm6vmXQy8ercU5wtdaUgcU9CJLRWWjd5qVbSNYj4V0J4Zl+VPifgHfZ4+nmL4vQ5S0aus8603IBdEwhFyYeSBG7nS5CmGoO2m8A8M7mGWcPi2Artu+Sv0z1D9V+tAI07VjiitzMHYQhGi8Lsu/Mvb6a0sl1HENzAecsL274P8zC+EnVKhawM/d6kz/ENLFuXtr3je4r4GM7HUfBOaN1F3cJ8Eikzb3CKSeJlGPkrn1Xo5SuCkcOHr9+nyYxpxN6mJMzB7fq/ua+UoKSPB+y/iabHj9BHeRgJ2bw99E=;GOLkH+PvKyD90pYn1FM72g=="
 ---
 
