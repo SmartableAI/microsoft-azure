@@ -8,7 +8,7 @@ length: PT31M
 ratings:
   count: 45
   average: 4.911111
-heat: 59
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 641
     isCached: true
 
-secured: "QmcflSlNT4l5ejVCUnZaDPagGQ8UOeEyhEJIgXX8MZJaRelqo3s7awyqBwYZ0MqxaO/onJ3N17eXU6E4tS9xaYu1y6712shnp0sLX0c8o304wQbG3Mez9JWHuuzGzEtqP/0oMXXMn6jMqY7lXiGKU0AziKxNyi1yhrPcp+bqak/lP4qWcn0j71O7hoTwyq2EiBoBxU0rfMUqcgK4qoJbVuXJe7kmv6acsptLck/w5gEEcj99ziTex6WMG+0Tr0HmSbI0Rd61WYyHc1WOWHoHtnqDxkyxVHa6iObA3e48D2tmYp4YBkVoVy1w0NS57RZ7nCxThPtUVvqfOolH1BXri5ZSza2jfBXK6272/ozr+JxmVvp4c+dd9Bl5ANxhs9VJa9uqdn7+orACAgof2xG2bCY7Gba0c4qdb3GHKtcgAlY=;6ZYCf8Ix3uyI2wP3/bU5rg=="
+secured: "Z/iCRjS/LOi5WG4KKLaUYXOnrxDo5chTAzIIcVpzUflAbav6sIpEp/x1i63b86JMa98xXm9I5pPh7db6wByygPK07zrKZ79yNMOebl3LquS1y3z2mF0FBFQgmG8eidoTCitE6UaXjG/ScebocAXURrOGltnWUWZCvPSU48UYg232B/GExaRozEdaRHHP96FMZRqtkMKKTWRYj0IGNv7BNgzZRDzObYIW40WGDqIA1c2O0OdhUnKu26zdf/dlL8AFmjBNU2DQNe6Wm3ZCzzL/eeQrK9gu2Wv35RqLln/CbhzuM5XllF+6CmaK38CjVZCCluCzFAu4UsL7HCoh1dO+lkHhvEKlXUZ/kVzNBSjo0VL54rqrCB2d2FiG790oCaBBsXIopoj/QJmKAkTY83Miy3SLS03FW9a/cI/+X8ok6FE=;7CZSDcuyvEvt02a0kboVjw=="
 ---
 

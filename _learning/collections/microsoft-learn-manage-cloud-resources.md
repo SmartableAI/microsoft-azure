@@ -4,7 +4,7 @@ excerpt: "The second learning path in a course on Cloud Administration from Carn
 type: collection
 price: Free
 length: PT2H31M
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
