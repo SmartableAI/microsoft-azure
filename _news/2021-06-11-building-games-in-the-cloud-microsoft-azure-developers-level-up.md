@@ -1,39 +1,35 @@
 ---
 category: news
-title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"
-excerpt: "BBIX, a subsidiary of SoftBank that conducts an internet exchange business, has expanded the 'BIX Multi-Cloud' service coverage to Osaka Area starting with Microsoft Azure. BBIX Multi-Cloud for Microsoft Azure in now available in the Osaka area."
-publishedDateTime: 2021-06-11T09:02:00Z
-originalUrl: "https://www.telecompaper.com/news/bbix-expands-multi-cloud-service-to-osaka-area-with-microsoft-azure--1386377"
-webUrl: "https://www.telecompaper.com/news/bbix-expands-multi-cloud-service-to-osaka-area-with-microsoft-azure--1386377"
+title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
+excerpt: "Danny Chen is a clean-cut non-corduroy-wearing software architect working in Microsoft’s game experiences team."
+publishedDateTime: 2021-06-11T10:26:00Z
+originalUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/"
+webUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/"
+ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/amp/"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 97
+heat: 377
+published: true
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c337a97be7f205231fea8c%2F0x0.jpg"
+    width: 640
+    height: 366
+    isCached: true
+
 related:
-  - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
-    excerpt: "Danny Chen is a clean-cut non-corduroy-wearing software architect working in Microsoft’s game experiences team."
-    publishedDateTime: 2021-06-11T10:26:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/"
-    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c337a97be7f205231fea8c%2F0x0.jpg"
-        width: 640
-        height: 366
-        isCached: true
   - title: "Microsoft rebrands WVD as 'Azure Virtual Desktop'; adds new app-streaming pricing option"
     excerpt: "Microsoft is broadening the charter of its Windows Desktop Virtualization service and simultaneously changing the name of this Azure-based service to 'Azure Virtual Desktop.'"
     publishedDateTime: 2021-06-07T06:03:00Z
@@ -198,6 +194,15 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 17
+  - title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"
+    excerpt: "BBIX, a subsidiary of SoftBank that conducts an internet exchange business, has expanded the 'BIX Multi-Cloud' service coverage to Osaka Area starting with Microsoft Azure. BBIX Multi-Cloud for Microsoft Azure in now available in the Osaka area."
+    publishedDateTime: 2021-06-11T09:02:00Z
+    webUrl: "https://www.telecompaper.com/news/bbix-expands-multi-cloud-service-to-osaka-area-with-microsoft-azure--1386377"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Cloud4C Awarded the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Cloud4C has been awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization. This stands as validation of Cloud4C's deep knowledge, extensive experience and proven expertise in migrating workloads running on Red Hat Enterprise Linux or SUSE virtual machines and/or utilizing MySQL,"
     publishedDateTime: 2021-06-11T11:41:00Z
@@ -208,6 +213,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "ZbYkjzsqYs/L6Ccu17a/6uY5Y8VEjTuy0S5KHSFKwY31Wycdfpi/bqUVhF3P+GBqwguKQM61TzQqoFthuY2kzUBPOoi2Ie1Kq+4c6pI5w1YhOnvhficHs27iYhtTYcTxVAXQYOL0UKwOoucdar+J8ZaLacvy9EhlmFonrUDvGXwl4siUV+vpUenclAtXOklCr5DBp8k+AY1uWzQDyU1oy0AR/BtWkVJ2iRagT4eAHpf4TwkKj9AaSw6xaoJdvVOkPhN26Gr7W3q9OqWM/9sqogq1vf8/aE06eEvxo7AF5CsT7SuYEllAATdcC63bTSZ+EPy2NOONcNJtl0d0u3aHAw3SHEXLPoqeIe2K3FfMhcM=;6zprlqhTIfBqASdmGpmiYg=="
+secured: "ekiMBQkZaXhjOvwowZqop5lfmMZ5Lbz3Ed9DRykBXbF69wrROBG+METa0yKzuqaZJFOxqd4dX6RyvKF35IwmXUZGZrgsBkvg6Hkzq9Eye6mDBMd+siLxCWzgPXQjS3x/sB2DpxjRBXiKkRU7W0kS76LnFDK+A0IkzMVV/Y8PN5adldzZtEwVwyPqGljnDgynOgNSjfKtNOjvPxqA8o2ZjpXNweOigv/OxkYbpqEQ2tfMvzpuPK0CegzBUp4nidwBzBS5vMrjkmGCtVpmfitVwbujgihZVuFR9E6I6vmx5vi5EC0vGLa+oRCfavXAXX5GVB6mkPAEgPBXHFtrPg2TGV+GJRzb+TejooM3dRrDuwc=;LezWVppvXVnP9wKNx6VYrQ=="
 ---
 

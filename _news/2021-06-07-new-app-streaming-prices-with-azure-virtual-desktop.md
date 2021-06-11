@@ -9,7 +9,7 @@ ampWebUrl: "https://windowsreport.com/azure-virtual-desktop-new-app-streaming-fe
 cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/azure-virtual-desktop-new-app-streaming-features/?amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,38 +24,6 @@ images:
     width: 1920
     height: 1280
     isCached: true
-
-related:
-  - title: "Microsoft rebrands WVD as 'Azure Virtual Desktop'; adds new app-streaming pricing option"
-    excerpt: "Microsoft is broadening the charter of its Windows Desktop Virtualization service and simultaneously changing the name of this Azure-based service to 'Azure Virtual Desktop.'"
-    publishedDateTime: 2021-06-07T06:03:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-rebrands-wvd-as-azure-virtual-desktop-adds-new-app-streaming-pricing-option/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-rebrands-wvd-as-azure-virtual-desktop-adds-new-app-streaming-pricing-option/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-rebrands-wvd-as-azure-virtual-desktop-adds-new-app-streaming-pricing-option/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 88
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/07/755f2e13-8b09-4d8d-8118-97dff095cb83/azurevirtualdesktop.jpg"
-        width: 853
-        height: 513
-        isCached: true
-  - title: "Microsoft Unveils Azure Virtual Desktop As New Name For WVD, Adds Management Features"
-    excerpt: "Microsoft has renamed Windows Virtual Desktop (WVD) to Azure Virtual Desktop and announced more control via the Microsoft Endpoint Manager."
-    publishedDateTime: 2021-06-08T00:12:00Z
-    webUrl: "https://www.crn.com/news/virtualization/microsoft-unveils-azure-virtual-desktop-as-new-name-for-wvd-adds-management-features"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 30
-    images:
-      - url: "https://www.crn.com/resources/026a-127769362b57-8ff94d6ce02b-1000/azure-virtual-desktop.jpg"
-        width: 609
-        height: 457
-        isCached: true
 
 secured: "ogISLZ7Zl6TytYxDRI5UG29IgNAWXgpsqB8eJ4NYTDif5MoTPga+wDT5hcXvleZelqPzH9UCJAEsW4903ng0zs7LGhf6th2ti8Ox2/+86vOosIGziwvBdGIGcW8Nv1Y27nSQnlPjAwqZQ18YlLealMfPgkHszhVCFxUZYtEW65A3nt1AQhYB/NDQkH1jmaPLyc73FIPz9VZTePDof2HdimR/oN5XkMSbBW7yGQA0jE0zeaOVMRHNBGQD+r3fqiaZDrSlAVkmqTrCPhPBkTpfAumsIFBuDfOl4a2s6rbZyPd0uCrWUaLZfB9J5tjgShZ6r+keyeQ5CMQOmIzD+XrMNhrruEqLJOya8zttFwmvySdBUt87uzE7lcbllSI4CRFYOuasmUIu6MeEQGmBtJXIn3nNXwXQDJ3mkhI24G4idAvjJi7hSHyBb8AsrFixwo9sY0UZZI9FBO5S2pVkCDiA0kfLAZE6Sci+t13aVCQyVroCeiJqC4DJb9hUJUZ7iVPYQbz2qTa/Of5qRmlaVSqnlw==;wrGW8D+21M0AwM0O7SFX0g=="
 ---

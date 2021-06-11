@@ -47,20 +47,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
-  - title: "NSW Police runs AI over evidence using Microsoft Azure"
-    excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
-    publishedDateTime: 2021-06-07T05:54:00Z
-    webUrl: "https://www.itnews.com.au/news/nsw-police-runs-ai-over-evidence-using-microsoft-azure-565596"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/crn-14_nsw_police_FOHO.jpg"
-        width: 1400
-        height: 900
-        isCached: true
 
 secured: "tJxzd6YNIrdD5fu11ibUnIP/WWoW4m5UeR7ya8Q3KC+RepUPaDC7O5QyA9RNj9AVmNWgT5jr4I53/m9fX5DHBuU9Vn+sWhnYHX+hNmbyaLdxZcQErJUOOo15iV4qD60vbo/LtgwR4Hqt4eIurWToGP5JlfQAybHDX/IgMiOYYtJQFH8I4IGY2qWJIAB89IsOgEadf6SsQb0wVol3SIYy6yh/kOWrvf98Np2P3TvTKyCvLZfjwwf6rC8YFuOT+ME+TdVQyLXGWtxtJEbiF65YSsu0OO5mj3h8HYWR5UBkcdO8CepDBY6F+BDmkV9T2l9tPPWwI4APKURo63nwBvf5FDi6gbKvXJJa15ThV7U9BlA=;juifOEohcCpXJH1J/2LRAw=="
 ---

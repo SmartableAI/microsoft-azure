@@ -40,20 +40,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "NSW Police runs AI over evidence using Microsoft Azure"
-    excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
-    publishedDateTime: 2021-06-07T05:54:00Z
-    webUrl: "https://www.itnews.com.au/news/nsw-police-runs-ai-over-evidence-using-microsoft-azure-565596"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/crn-14_nsw_police_FOHO.jpg"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "Vandis Announces New Offering in Microsoft Azure Lighthouse: Managed Virtual WAN Powered by Silver Peak"
     excerpt: "Vandis is pleased to announce the expansion of their offerings in the Microsoft Marketplace with the launch of Managed Virtual WAN Powered by Silver Peak. Vandis' offering allows organizations to connect branch sites,"
     publishedDateTime: 2021-05-26T10:30:00Z

@@ -27,42 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
-    excerpt: "The DataParser is widely used by regulated institutions to capture many types of on-line meeting and collaborative content such as Microsoft Teams, Cisco,"
-    publishedDateTime: 2021-06-02T07:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expanding-dataparser-with-microsofts-azure-blob-storage-integration/article_fd97f019-dc3c-524c-b58f-6ec97e86e202.html"
+  - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
+    excerpt: "Danny Chen is a clean-cut non-corduroy-wearing software architect working in Microsoft’s game experiences team."
+    publishedDateTime: 2021-06-11T10:26:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/amp/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 86
+      name: Forbes
+      domain: forbes.com
+    quality: 97
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c337a97be7f205231fea8c%2F0x0.jpg"
+        width: 640
+        height: 366
         isCached: true
-  - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
-    publishedDateTime: 2021-06-02T09:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485835"
+  - title: "Microsoft rebrands WVD as 'Azure Virtual Desktop'; adds new app-streaming pricing option"
+    excerpt: "Microsoft is broadening the charter of its Windows Desktop Virtualization service and simultaneously changing the name of this Azure-based service to 'Azure Virtual Desktop.'"
+    publishedDateTime: 2021-06-07T06:03:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-rebrands-wvd-as-azure-virtual-desktop-adds-new-app-streaming-pricing-option/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-rebrands-wvd-as-azure-virtual-desktop-adds-new-app-streaming-pricing-option/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-rebrands-wvd-as-azure-virtual-desktop-adds-new-app-streaming-pricing-option/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-  - title: "Elastic Introduces Native Microsoft Azure Integration, Fleet Server, and Enhanced APM Workflows in Elastic Observability"
-    excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, announces new features and updates across the Elastic"
-    publishedDateTime: 2021-05-26T15:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/elastic-introduces-native-microsoft-azure-integration-fleet-server-and-enhanced-apm-workflows-in-elastic-observability-2021-05-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 88
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/07/755f2e13-8b09-4d8d-8118-97dff095cb83/azurevirtualdesktop.jpg"
+        width: 853
+        height: 513
         isCached: true
   - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
     excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
@@ -78,35 +73,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "NexTech AR says EdTechX approved as a co-sell partner on Microsoft Azure"
-    excerpt: "Earning co-sell ready status allows NexTech to collaborate with Microsoft on promoting EdTechX as an augmented reality virtual education solution"
-    publishedDateTime: 2021-06-08T11:45:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/951690/nextech-ar-says-edtechx-approved-as-a-co-sell-partner-on-microsoft-azure-951690.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/951690"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/951690"
+  - title: "NSW Police runs AI over evidence using Microsoft Azure"
+    excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
+    publishedDateTime: 2021-06-07T05:54:00Z
+    webUrl: "https://www.itnews.com.au/news/nsw-police-runs-ai-over-evidence-using-microsoft-azure-565596"
     type: article
     provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 56
-    images:
-      - url: "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_06/1200z740_1623156012_shutterstock_1444620194.jpg"
-        width: 1200
-        height: 740
-        isCached: true
-  - title: "Mindtree has earned the Analytics on Microsoft Azure"
-    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling as well as pass a third-party audit of their analytics planning and deplo"
-    publishedDateTime: 2021-06-02T09:31:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269731394/mindtree-has-earned-the-analytics-on-microsoft-azure"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: IT News For Australia Business
+      domain: itnews.com.au
     quality: 54
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1622625655.jpg"
-        width: 630
-        height: 420
+      - url: "https://i.nextmedia.com.au/News/crn-14_nsw_police_FOHO.jpg"
+        width: 1400
+        height: 900
         isCached: true
   - title: "Mindtree Earned the Analytics on Microsoft Azure Advanced Specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, has declared that it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
@@ -121,45 +100,6 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/frrqr450308.jpg"
         width: 450
         height: 308
-        isCached: true
-  - title: "NexTech AR unveils EdTechx virtual education platform created with Microsoft Azure"
-    excerpt: "EdTechX combines enterprise-scale video streaming, integrated assessments, augmented reality holograms and data analytics"
-    publishedDateTime: 2021-06-03T11:59:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/951332/nextech-ar-unveils-edtechx-virtual-education-platform-created-with-microsoft-azure-951332.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/951332"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/951332"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 51
-    images:
-      - url: "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_06/1200z740_1622724222_shutterstock_1444620194.jpg"
-        width: 1200
-        height: 740
-        isCached: true
-  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
-    publishedDateTime: 2021-06-02T15:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-  - title: "Morgan Stanley goes all in on Microsoft Azure"
-    excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
-    publishedDateTime: 2021-06-03T10:20:00Z
-    webUrl: "https://www.finextra.com/pressarticle/87923/morgan-stanley-goes-all-in-on-microsoft-azure"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
         isCached: true
   - title: "Amdocs to Offer its BSS/OSS on Microsoft Azure to Operators"
     excerpt: "Amdocs extends its partnership with Microsoft, widening the availability of its portfolio on Microsoft Azure and the Azure for Operators"
@@ -189,6 +129,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft Azure Vs. AWS: 5 Partners On Why Azure Is ‘Superior’"
+    excerpt: "In comparing Microsoft Azure vs. AWS, partners told CRN that the Azure cloud platform offers unique cloud services and hybrid cloud capabilities from the AWS cloud."
+    publishedDateTime: 2021-06-10T16:53:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-azure-vs-aws-5-partners-on-why-azure-is-superior-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/026a-127cd4fdfd91-b71b3bf1f228-1000/microsoft-azure-vs-aws.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
     excerpt: "Deploying scalable and affordable enterprise grade IoT applications in the retail industry has previously been restricted by technology limitations. But digital retail"
     publishedDateTime: 2021-06-08T02:00:00Z
@@ -200,35 +154,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 35
-  - title: "Mindtree has earned the Analytics on Microsoft Azure advanced specialization"
-    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
-    publishedDateTime: 2021-06-02T21:14:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20210602/3765199.html"
+  - title: "Microsoft Unveils Azure Virtual Desktop As New Name For WVD, Adds Management Features"
+    excerpt: "Microsoft has renamed Windows Virtual Desktop (WVD) to Azure Virtual Desktop and announced more control via the Microsoft Endpoint Manager."
+    publishedDateTime: 2021-06-08T00:12:00Z
+    webUrl: "https://www.crn.com/news/virtualization/microsoft-unveils-azure-virtual-desktop-as-new-name-for-wvd-adds-management-features"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 31
-  - title: "Insight Recognized again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
-    excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all"
-    publishedDateTime: 2021-05-31T20:02:00Z
-    webUrl: "https://www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year"
-    ampWebUrl: "https://www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/press-release/insight-recognized-again-as-a-microsoft-security-20-20-winner-for-microsoft-azure-security-deployment-partner-of-the-year?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 29
-  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
-    excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
-    publishedDateTime: 2021-06-04T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
+      name: CRN
+      domain: crn.com
+    quality: 30
+    images:
+      - url: "https://www.crn.com/resources/026a-127769362b57-8ff94d6ce02b-1000/azure-virtual-desktop.jpg"
+        width: 609
+        height: 457
+        isCached: true
   - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
     excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
     publishedDateTime: 2021-06-02T12:03:00Z
@@ -252,38 +191,24 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 17
-  - title: "EU privacy watchdog to investigate EU institutions’ use of Amazon, Microsoft cloud services"
-    excerpt: "EU privacy watchdog EDPS opened on Thursday two investigations into EU institutions’ use of cloud computing services provided by Amazon and Microsoft, concerned about the transfer of Europeans ..."
-    publishedDateTime: 2021-06-02T09:56:00Z
-    webUrl: "https://cyprus-mail.com/2021/06/02/eu-privacy-watchdog-to-investigate-eu-institutions-use-of-amazon-microsoft-cloud-services/"
+  - title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"
+    excerpt: "BBIX, a subsidiary of SoftBank that conducts an internet exchange business, has expanded the 'BIX Multi-Cloud' service coverage to Osaka Area starting with Microsoft Azure. BBIX Multi-Cloud for Microsoft Azure in now available in the Osaka area."
+    publishedDateTime: 2021-06-11T09:02:00Z
+    webUrl: "https://www.telecompaper.com/news/bbix-expands-multi-cloud-service-to-osaka-area-with-microsoft-azure--1386377"
     type: article
     provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 12
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2021/05/Reuters-EU-watchdog-microsoft-story.jpg"
-        width: 800
-        height: 500
-        isCached: true
-  - title: "Elastic Announces the General Availability of the New Frozen Tier, Enhanced Analyst Experience With Schema on Read, and First-Party Integration With Microsoft Azure"
-    excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced new capabilities and enhancements across its"
-    publishedDateTime: 2021-05-26T19:40:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210526005861/en/"
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
+  - title: "Cloud4C Awarded the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Cloud4C has been awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization. This stands as validation of Cloud4C's deep knowledge, extensive experience and proven expertise in migrating workloads running on Red Hat Enterprise Linux or SUSE virtual machines and/or utilizing MySQL,"
+    publishedDateTime: 2021-06-11T11:41:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-awarded-linux-open-source-databases-migration-microsoft-/2021/06/11/9388837.htm"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-  - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
-    excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
-    publishedDateTime: 2021-06-02T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amesite-launches-remote-upskilling-courses-on-microsoft-azure-in-partnership-with-wayne-state-university/article_54e0d8a6-efbd-5f18-9291-5ec3685dcf89.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "iVGm1WB2S2x59Uglkrnwf4+ovMbuQGYlOMJjmZw/UiY+HxrGK5DnGyG/kvWc4q3u157bwZs6GUBKg4CcdxJBYbsg0arfOCINC5DPL2fMj0yh9bQFdTVK30fBtSsCl6Q0mo7xARSYnU/QNrBX2ue8NKN0lYIOtmP45AZ407gexWmoijvo1lJAjVZBIFnnM6Hn4vV2+b7sZH3Q+bsXV+eStZ5m6gGfMO2fiWizHlMIks3wsvmvsHOz6s328o9Y7hCV9zJpjZaCaXD9VUk55vYZWP2dDPET62SjN/Z7OEE1akxeV9q4w9oddbWziZbKC1joi/YlERLhsi9KVdVpxBWO5NaAew2CEKv30lKcLAA+vz4wrFhz6yfPHiA5bTdh5awDXZSzlWsZtKtRI2g6iHlDA6Fgp7T68Q4i8d0VB3SinIXIM9CFGOGGpC/cVR+hbVYTb6nSANCdrCLZiHJGNPG0sPMkgGj7KkAwFRMRrqAfl6mf++gF7lWeQqOCp7XGho4CbobYYOoe78g/1FQ+obQZtg==;lghY1y41M39VmFl/e5a8kA=="
 ---

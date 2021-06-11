@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Jake Zborowski, General Manager, Microsoft Azure Platform at Microsoft Corp., said, \"We're pleased to welcome Dataiku to the Microsoft Azure Marketplace, which gives our partners great exposure to ..."
-publishedDateTime: 2021-06-01T13:48:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-06-01T13:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/dataiku-now-available-in-the-microsoft-azure-marketplace/article_60ebf69b-3053-5584-b2a5-eee397d2378b.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/dataiku-now-available-in-the-microsoft-azure-marketplace/article_60ebf69b-3053-5584-b2a5-eee397d2378b.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -141,6 +141,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "dbWQeVR3rj7otaZGLa46WhlPl00etxg1EOxPbFHGMH++K0iJlUXr11QX4ASqVzgJUwks54AEIJ4vNQUF/fGjakpE/WFZmtpZ/2h/zYz0EhK3A1RmEZj6t5EYDBsM6JwmWgUra4D3+90wDZzqQX7/40kNeougJntkZZr1rmrYzUU7Vvxe4XSkkJS+vTapsZ2ek4Uv5H0UdiYeifQKRIiAcZOxFNKFxvr5aYyOzTDk/WF0oUVSq6GbWsDlGX7mHx9dvKePnTT44ZPxUPhWR4UKR2vrtCtrMdhlcHUKoTaxh0woQTvI6Y6qOmTDeIaNOBCUWLwmwMawr94h0SQ2SwlV1Iz7cu/d6iuVS8CeodZPfQY=;gaZB/9O4/NHCRJvdYPiR+w=="
+secured: "jeBBiDbtah3vnj7+8n81G7PqD8aXgU1aMJFydDFojaG1z6+iw8X8gsflLak1HFthoXrboWysFzX+qkKRXFSDcPeKxEs9A3CtTeS6zjHLYkbXNxvt0O2jH0RhIbUBU0vT7O8o7fYFwDbkeQkfFMq8N1tLGYid0dKMzviTFol7hoWjGYn4LKJnwDPQtAUqXuINEmCNt+Jyfpy80IrTGv7+IpRwTrOsdISUFgICMbObnORk2QK9zU14uWF1Y96oSzm6kIeCv1maMBqvvlmKt/m2+qPOo1Vz+rZ0SBfpm7wjb0PZomPbRKgU8rbd1GqY8JSlDJZmCYum5GC3pWpGDbjvPkKyqffQTye9VuJTmRcG60k=;3TI99AQQPm4znXgPkyB8dA=="
 ---
 
