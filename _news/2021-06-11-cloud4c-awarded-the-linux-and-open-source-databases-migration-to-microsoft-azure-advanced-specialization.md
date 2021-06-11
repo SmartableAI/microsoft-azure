@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Cloud4C awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization"
-excerpt: "Cloud4C has been awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization. This stands as validation of Cloud4C's deep knowledge,"
-publishedDateTime: 2021-06-11T13:01:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/cloud4c-awarded-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization-121061101060_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/cloud4c-awarded-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization-121061101060_1.html"
-ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/cloud4c-awarded-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization-121061101060_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/cloud4c-awarded-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization-121061101060_1.html"
+title: "Cloud4C Awarded the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
+excerpt: "Cloud4C has been awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization. This stands as validation of Cloud4C's deep knowledge, extensive experience and proven expertise in migrating workloads running on Red Hat Enterprise Linux or SUSE virtual machines and/or utilizing MySQL,"
+publishedDateTime: 2021-06-11T11:41:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/11/9388837.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/11/9388837.htm"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
   - Migration
-
-images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/11/full/20210611173936.jpg"
-    width: 600
-    height: 450
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -222,6 +214,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "BwoGM980GtW43zxN4DqlCV1FGaSZqMmp0AUJqrGvYdcAaahEr2BsSBk/qnB0Wl4ewQor1Cbus6veSC6vkoXI73nT4O5uc5YjyHvczwft22YarkVZaTIae4R7j4V8u/WRD8a2Nk6F/ho3f3c/85Wd5DNSN0IG7ShWQ2iBPxNfaAtsair7Iwh+4rOMaSa9deOh8DTl2cjYyrY0CrJh3eoY/HNC7Etek4qVlSMdmcPsXrCodA4G6nJI2OBL2ZoTVa0/FLSBOt1erXb2VtMn2wvudCMcjKbr6pmZJNqa4olQxwoKPVmNUhawadldlcixBzIEvECsnUbY5al2YDKB8A4pzxOHZ+dJii4ilASd+pLGGqw=;Wc2qekykI35/GAQuH5MVkQ=="
+secured: "evH7BKPNSA7Rim4Zz8YwcGJShoof+ptCMDcseQFTW+AOzw0y8Rbx3OEdvVNSuO/9aUZuzWinGoUXsQyoJEhsRe37Yecl9ZsohqurvlW337XlC93BgSGZ61rULVaaKTjvXQ3wWPQCWhmqlwVgkbWQVqtsfBuHI/MfkM2IgNcdAWHoOBDNGVVnthdoytKJpqvIkgmhv+GaxiaYD6DvqAhuNQq5QCmu8Mm2jRQY2A2bpOjttiIHEmOEyipgT9RiFpJ6AwHFxoG8QG7Cwyna3aMDDbqTNtKBl1/Kj7Sefy5ohh45wt0Uxwwbn8gwMNsNPklAiF1dz9WdZWVfKiYPWMgN3TRSJlxUbCfiXeblbUHGeiI=;KYedFxyPi2U5GibGBTc/0Q=="
 ---
 

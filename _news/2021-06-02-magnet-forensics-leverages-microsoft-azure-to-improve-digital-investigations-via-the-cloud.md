@@ -86,22 +86,6 @@ related:
         width: 800
         height: 598
         isCached: true
-  - title: "Cloud4C awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization"
-    excerpt: "Cloud4C has been awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization. This stands as validation of Cloud4C's deep knowledge,"
-    publishedDateTime: 2021-06-11T13:01:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/cloud4c-awarded-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization-121061101060_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/cloud4c-awarded-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization-121061101060_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/cloud4c-awarded-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization-121061101060_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/11/full/20210611173936.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "NSW Police runs AI over evidence using Microsoft Azure"
     excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
     publishedDateTime: 2021-06-07T05:54:00Z
@@ -219,6 +203,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 17
+  - title: "Cloud4C Awarded the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Cloud4C has been awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization. This stands as validation of Cloud4C's deep knowledge, extensive experience and proven expertise in migrating workloads running on Red Hat Enterprise Linux or SUSE virtual machines and/or utilizing MySQL,"
+    publishedDateTime: 2021-06-11T11:41:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/11/9388837.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
 
 secured: "DVc5D8WVADyWYpf2xtIum62RaXmd5jMeW9gD3I+Fn/L5cr6xatfMg9FhUlZ7zsqyYZ61qJBlmNEUoWkGlTK4/c/2DM0F2KnWKbdKFs7wzFgdzJA8Q9NMoPyrnH1SbnyxbPD9JDUcl0dcNpeQMRes/UYJ3HC3ecwTtGlFqNhk6OYUONi3/LinMe3sHp9ihQ985K134PE3S6qT0HBVi2W00UVkz9PYCvPqbaG9hrQbgfB8or0koB/d3S2XbJIG8ajIiGTQifxRt+0ZV8Ge4kkjRTQ0FUpnKqQ5lXvvqTbRkYlQ+DVT8WRlHtSpNqPrrZKnUSCJnZVKrBgA7a1WbUlaVNIud+5cxF9cXpYPabIo3aTLjkefosIciMagEScjbgHqxNd6VCRXRvqsbIKoWWDpDXAMb+W/qaB8Z1uqXoK6eh3ITN0vZ8JeR7cK89grh6t+dUx4opfbwQ34Dh20q4/Ei42bLMutjORQwYwNDiBtybuWHvl2xWM/WX6sP66MacdUkn0uVTf3YiNsSAyqAs5zpg==;MjOJh0QcNNqo4EyQdup16A=="
