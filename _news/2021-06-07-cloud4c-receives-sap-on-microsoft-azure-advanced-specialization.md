@@ -2,26 +2,20 @@
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
 excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
-publishedDateTime: 2021-06-07T13:36:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
-webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+publishedDateTime: 2021-06-07T13:57:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
-    width: 1616
-    height: 846
-    isCached: true
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -289,6 +283,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "p0mzbV7l/EnCqVoGSYxIXP5YRyzGUtm3ZI0y0SCGOAamvaoinmxPqD9Q3VHHwTpxnitd4WVmFu3Qw65hmGWofGds/THG1aVE+3CtrManVqtruqFDW+wmKnEmnOuGr6ZELOteI44P6DLqubWs3E+DNhVV9VJYMV/W/4ujY+pQcR2+HJkisN3PWfxWQeM42N+nj/Q2MuXOxH5kYM91Hi39K3ECpIAr73YAPAkRzKy4Ev1BiL+k06H8Rnt7eIYnTWn5NCcz313EPoCchojWo5c71F4ooc7plDiul01W5eVo5pHMHDEffezEVIVvGz+gq7/RFGqC82rqB/LQeYqR6G6oS2l8m1nWD55+Nm+MWCvNNa0=;s+jRt1etcjX+FIlQw/2eig=="
+secured: "P/O9b4cDNQHQNiCeHI8mP96ozM4wSoD5YsrgIg41uEqUfFFT2EYnOPkF7IF/Sb14O6jeA9nh5TTsqO36X2xlddvCp330hVWmSNy67mRUX+74wlHxt/pozDBsOaLuoqXZ5b5MVq3LUFMmKXhFIewYpB5a2X8mG6fgro6KD3f47NbID3PCI6AUXLyDRqvCakYXDOBAOkYdHdNZ1P3ukTyqlsxdraSZDQQjPivO6F3yxRMfIVVbdqG+n6syLjhLYUNmaohC3XJz1txt9K90h6LYJmMjwnRAwk9g0eNazK7Q6JLhCIIMOFWrBILV0HpPE0+pk+sgzAvuHMOdmihoq3jWR4pwGFLcp4aeR4nnKUL2Ig0=;x68xxJ/XSBHXAx9YIo09BQ=="
 ---
 

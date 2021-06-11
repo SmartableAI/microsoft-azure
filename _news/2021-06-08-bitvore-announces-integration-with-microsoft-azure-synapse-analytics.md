@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Bitvore Announces Integration With Microsoft Azure Synapse Analytics"
-excerpt: "Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed its integration with Microsoft Azure Synapse Analytics. Via the integration, customers can quickly and easily consume continuously updated Bitvore Cellenus datasets in Azure and integrate them with new and existing data sources to enhance predictive models and build augmented intelligence into their applications."
-publishedDateTime: 2021-06-08T12:49:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-bitvore-announces-integration-with-microsoft-azure-synapse-analytics-/2021/06/08/9385938.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-bitvore-announces-integration-with-microsoft-azure-synapse-analytics-/2021/06/08/9385938.htm"
+excerpt: "June 8, 2021 /PRNewswire/ -- Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed its integration with Microsoft Azure Synapse ..."
+publishedDateTime: 2021-06-08T12:40:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/bitvore-announces-integration-with-microsoft-azure-synapse-analytics-301307653.html"
+webUrl: "https://www.prnewswire.com/news-releases/bitvore-announces-integration-with-microsoft-azure-synapse-analytics-301307653.html"
 type: article
-quality: 66
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - Analytics
   - Integration
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Harness analytical and predictive power with Azure Synapse Analytics"
@@ -479,6 +485,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "uD7XjEppYaY/bkK6mp0Ene7wzKAwK4tTCVcpVwFb1jjqCH6+3Mc5rshr62S9BLZHOJbm2QmrfsPIKAJ1OIU647Y8Sk86Ac+SV1R8sMs938Z7lKdJriAXR7R9i6ZuvubFRiM7goaYig2MyBWBXJ41gRE7w7xD64+ASOFfZyNjz95lNA15WzHwPdENGviV5lTS2vNoYaVl07m7dGzQFl1f8xVAhmbuJ0j6o39IPGplKjCmhCG2gKgczKuvrMYb/56jVQ4U1PEIvMg482xjZXNl9covGCOc92yN9Sjo+8AKtFqRKK3+NZqref4gRYvjIShu5/6R7GnIgzrx/EAg0Yj6l/oua3O7OpLFmEyMBs+Ic0E=;5Ev24FNojNCRtRWBOuF+kg=="
+secured: "DVURlN38odij3mOLmPEWlzL/9ahivmJQBz2Z9WhFqiVC+wgl7XXIY5I1Nyl33aKcs1SJ9HLdpUBY6eihqA5ChcgW7afffwets1NCwPT7ASXXjXLJBaziXGXx7KLUEULGMcxQ/q+FL8PNljgDe+kRhWlnuj9BGVbWNZ4pNIoxlHPODfFwNrwR7kZz5iKqxHuQPpPyd/+uVaxVV/5dDPLHLQjT26gdwuZ4YB3IqkPT1PexJXwhKZFXWQIilDk1qPlwCRAZeQUztQTT+uFXLiIfd/1Ux/ylsI/s3hS2rO9FekMwHEP7hogQxYUz3/KpW+5EYuZ7oUk+f872u3XdF7ngaVNvYV6eoDJEYO+Wg887r6A=;fGoVXCRqJhxMIYrabNH9Rg=="
 ---
 
