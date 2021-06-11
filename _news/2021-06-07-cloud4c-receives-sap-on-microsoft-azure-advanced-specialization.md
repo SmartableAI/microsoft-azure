@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
-publishedDateTime: 2021-06-07T13:36:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
-webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
+publishedDateTime: 2021-06-07T13:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
-    width: 1616
-    height: 846
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -156,6 +150,20 @@ related:
         width: 610
         height: 457
         isCached: true
+  - title: "Cloud4C Awarded the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Cloud4C has been awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization. This stands as validation"
+    publishedDateTime: 2021-06-11T21:05:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-awarded-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization-862762147.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+        width: 1616
+        height: 846
+        isCached: true
   - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
     excerpt: "Deploying scalable and affordable enterprise grade IoT applications in the retail industry has previously been restricted by technology limitations. But digital retail"
     publishedDateTime: 2021-06-08T02:00:00Z
@@ -214,6 +222,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "njIJ08MYEIij3dJL7ELRN2K6kx3oxyQOZ6LzIea8L4fBauTWPz0RgEtCb8Oucy6NYK7pc6TfYktkOCUhGVJc42ohFfDTCj/5hLxv5tV9PojtyBqfgX9CuvygbeSmxl7xgmV5NxHlOJT9UJrk4mV3XzoV6bqBT/JrMFLLs+F8DMTehompG3tvZxSuGUiWYmDWNndwdOEm/rPdd3jhoh1xVF51/7pLho7Q4mOaEHrmakFyVVSWXOHhBbeaGCnZHJntmQP8KICM5PYodM1Y3tB5Bj7fIRECof4I+bnzkVUJWuhbrFoxDVDaMsGD/jS/g2pWAYkxe+626pEZBYMck0q4jXe1NKzROb9NUR4kwi5syqI=;VMkYwgNyR9m4ech5cejFLw=="
+secured: "o5ZaFlzdDieHHKPl5FG4ObMwsXHZBFtEgDRv8VxAFAwvHnAVtclhXDZSxG5l2/QkWJIDTr7ChRaevhYz9sleoXL03V+eqBV/G6jquOnzh4/VTBmGO2lsQ9OMHXJVnufSA/181i/UP0PMPg1rqTOtnBIMgofINqDPFa/ZcU9Ljc9qIAEzg63p0pHwrEgIYHBy1R8yMY4cM7fSphThpMXlwBFxETWMdnZCfhbvQNKUQ5/3UtLb40+bITnVcCByxM/BsH4/nzMH/41K0vcpgiF8pOj3VV/xpunjgyQ3pd2quaMvGc7W5mBsmKdI1gAY7PZl3grGioUpwPMevpw2Ud7fPSrlRl6SfkMOJsQ0McqeRmY=;pbpUfIO7y+5a0/56kSV7rA=="
 ---
 

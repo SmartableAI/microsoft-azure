@@ -1,23 +1,28 @@
 ---
 category: news
-title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
-excerpt: "Deploying scalable and affordable enterprise grade IoT applications in the retail industry has previously been restricted by technology limitations. But digital retail"
-publishedDateTime: 2021-06-08T02:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/b21463846/hanshow-marks-retail-digitization-at-breakthrough-scale-on-microsoft-azure"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/b21463846/hanshow-marks-retail-digitization-at-breakthrough-scale-on-microsoft-azure"
-ampWebUrl: "https://www.benzinga.com/amp/content/21463846"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21463846"
+title: "Cloud4C Awarded the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
+excerpt: "Cloud4C has been awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization. This stands as validation"
+publishedDateTime: 2021-06-11T21:05:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-awarded-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization-862762147.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-awarded-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization-862762147.html"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+  - Migration
+
+images:
+  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+    width: 1616
+    height: 846
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -152,20 +157,17 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "Cloud4C Awarded the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Cloud4C has been awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization. This stands as validation"
-    publishedDateTime: 2021-06-11T21:05:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-awarded-the-linux-and-open-source-databases-migration-to-microsoft-azure-advanced-specialization-862762147.html"
+  - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
+    excerpt: "Deploying scalable and affordable enterprise grade IoT applications in the retail industry has previously been restricted by technology limitations. But digital retail"
+    publishedDateTime: 2021-06-08T02:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21463846/hanshow-marks-retail-digitization-at-breakthrough-scale-on-microsoft-azure"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21463846"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21463846"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
-        width: 1616
-        height: 846
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
   - title: "Microsoft Unveils Azure Virtual Desktop As New Name For WVD, Adds Management Features"
     excerpt: "Microsoft has renamed Windows Virtual Desktop (WVD) to Azure Virtual Desktop and announced more control via the Microsoft Endpoint Manager."
     publishedDateTime: 2021-06-08T00:12:00Z
@@ -222,6 +224,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "sXOXGdYyxEveUNroHclpYBFHusS0a0Md9rhxywIlKoeUHAcuyX/dU47tlCfcFZ9rieT0txT7yHA4To0evsOmPRFCcbVa0AJ89/nYR1gUCDQ8dzxlzU5TnVPNSlCRLHdZJsoWXE+awCziheF4IHvdBOO+OJAiUddRwWJfDjqrGBu8Xfc8V+GBmbI+uUE9aItjh9E/Ccn/HCwAFy+dATCWZ1pP95D+F/b66Jq9UkE7PUeXSHbKr45Eg4rKO99Cvd7McXGmk8CASO1A4jYrZPK2DKzR+wG3wFnlzI2pD53GbTKX7+uC3DQ0qjHdhzaYlbLMlSUmTuIp2ZJq7klkwYQw0DFYlvFGfyR15ZWiCJaI1GY=;qn+47ZlAMS96l/E2TEtYjg=="
+secured: "FdqqxR3OGMSOIgVCVPcc9/sNF3RMZ3naR/zarCC66zqAD+jEmpndQL5eE4uYQgArrd1SyCMLX1wSban6zSjo0CSkxEl3yNblxkH5FVOeof8FO5U9qjrgwUyfzijTi7zbiy+TjcO2peONzwhbExxcWMSlNlZ3S1FO1OUAduotmgzVAYqMVMUYemNtLC4mEatCgcddfBHVpVcKFmKkvg5j5GzalrXTcybGcFlSgmWk+trqR82b/LhU/oP4suXlJK5qETTuVDWmwGWJNbcsRpgtMGxWHXOUy2Px4nyFsE9IKtSrVkGtwE/nyrz+Y9gFRam4+F1AyAUcjlzF2btAR4MbomuCxOZsOJiitr0zuI64kgY=;5SRM9azIcz8pDNCOmPtKBg=="
 ---
 

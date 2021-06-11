@@ -146,6 +146,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "hHapbEy1YKfbC/tvP/6Qk14kwNnnU6Q/ZdaqOyXuwyrdIk0bcEv0LJMlaOq5htIKYolJYSm0ipjoZSAT2ETi/prXl7diJ2vURE8uXKiuziRXYo3vFHxbCbRkpQmr77WRVEs0jsjj6Bo9qB+QK5AA0FUUs8XkpL6jKDUFHhVICkOI8KKIMj8IdUDgATggzNcoX2naM8nh1zVjzB2Y+XQJmhWhQuMDuWxCIdUif4AyRVClWLRvAi7/7cixhqAsMGluaLinAepftSRgJBa6MVv5C53T7DcWHLPfjqhY6TPskMoWay9LfMr9idM+DQpwW6QzM0AsWgC/pjyZbSYP2Y2AmTPzrapxSJBLizftW/yAo+M=;+5tYgbtW0rNvu67xT7NXgg=="
+secured: "Q5WztFq48wuvBUr1Qo5AudTdmu+U6mUEVPGxjEHfmBllDpF3M5XGR/sFeF4Iln1buw7r5+o6T3l0o/oF0JcnAdpAs+yVSE9uTwcQkUQadtOLUJRFXa/L/t7KF8p1QLnj8zStUx00STrFk/8dhje8QP4cjwkeSQ0wc9iAvZ0jZjlsi4Aa9cpwec4LlLI+bv1Q9lQan445lijbGVPy38Dtk4tAh7iIIx/6ihTE/MV1gsByIEMk0GkU3usjME1edPoEEU+aWu8ac/cqhua9U1/DFjYvI+ZJ4ZXGz4TBqemzrAQJx1kvl9yrOthV/DMnke+GcFk/iKVvd70qJTyKprl3UTwdbqkqbAkq547j2oLQxdw=;G77C24Sy9i2SPanRMS3Wug=="
 ---
 
