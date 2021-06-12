@@ -4,7 +4,7 @@ excerpt: "This learning path introduces you to Azure-supported SQL-based enterpr
 type: collection
 price: Free
 length: PT5H34M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn
