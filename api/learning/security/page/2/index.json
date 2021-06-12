@@ -4,6 +4,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-security.md",
+      "title": "Microsoft Azure Well-Architected Framework - Security",
+      "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 4445,
+        "average": 4.7556806
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
       "title": "Top 5 security items to consider before pushing to production",
       "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
@@ -325,8 +369,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-management-capabilities-of-azure/",
       "length": "PT27M",
       "ratings": {
-        "count": 151,
-        "average": 4.8410597
+        "count": 152,
+        "average": 4.8421054
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -545,8 +589,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/",
           "length": "PT27M",
           "ratings": {
-            "count": 149,
-            "average": 4.8791947
+            "count": 150,
+            "average": 4.88
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -588,8 +632,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-management-capabilities-of-azure/",
           "length": "PT27M",
           "ratings": {
-            "count": 151,
-            "average": 4.8410597
+            "count": 152,
+            "average": 4.8421054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -716,8 +760,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/",
           "length": "PT27M",
           "ratings": {
-            "count": 149,
-            "average": 4.8791947
+            "count": 150,
+            "average": 4.88
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -759,8 +803,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-management-capabilities-of-azure/",
           "length": "PT27M",
           "ratings": {
-            "count": 151,
-            "average": 4.8410597
+            "count": 152,
+            "average": 4.8421054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -950,8 +994,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/",
       "length": "PT27M",
       "ratings": {
-        "count": 149,
-        "average": 4.8791947
+        "count": 150,
+        "average": 4.88
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1267,50 +1311,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/introduction-to-threat-modeling-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tm-use-recommended-tools-to-create-a-data-flow-diagram.md",
-      "title": "Use recommended tools to create a data-flow diagram",
-      "excerpt": "You can use any canvas, physical or virtual, to create a data-flow diagram. Engineers at Microsoft recommend three tools to help you in your threat modeling journey.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-use-recommended-tools-to-create-a-data-flow-diagram/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-use-recommended-tools-to-create-a-data-flow-diagram/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 319,
-        "average": 4.708464
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/use-recommended-tools-to-create-a-data-flow-diagram-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
