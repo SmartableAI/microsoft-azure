@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure SQL: General availability updates for early June 2021 "
-excerpt: "General availability enhancements and updates released for Azure SQL in early June 2021"
-publishedDateTime: 2021-06-09T16:00:40Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-early-june-2021/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-early-june-2021/"
+title: "Azure Maps Elevation API is now in general availability"
+excerpt: "For any given point on the Earth surface, the Elevation API returns its elevation measured from mean sea level."
+publishedDateTime: 2021-06-11T23:19:55Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-elevation-service-is-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-elevation-service-is-now-generally-available/"
 type: article
 quality: 67
 heat: -1
@@ -49,10 +49,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 68
-  - title: "Azure Maps Elevation API is now in general availability"
-    excerpt: "For any given point on the Earth surface, the Elevation API returns its elevation measured from mean sea level."
-    publishedDateTime: 2021-06-11T23:19:55Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-elevation-service-is-now-generally-available/"
+  - title: "Azure SQL: General availability updates for early June 2021 "
+    excerpt: "General availability enhancements and updates released for Azure SQL in early June 2021"
+    publishedDateTime: 2021-06-09T16:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-early-june-2021/"
     type: article
     provider:
       name: Microsoft
@@ -104,6 +104,6 @@ related:
       domain: microsoft.com
     quality: 15
 
-secured: "nvHswHK8NTZpiV2B/dnrQ/rB63xvHHdYCPIt0bRZngwiWcjae9v1TizC72lGxVWJILEmduJNtwnBFU6yW4JJCqo+weiQTxOqgSvEJCFMo76K3/qPaB4VY/XVqf5iGzHBkFuSmkSdYhyEI/majkUvlyS32wu44LyhjAth9AXxnA64cT5p4uiD8dGV2HcPoioMx80VtwmQUJJ1ts9UJ4+e0awA0Pr3wYVrStXyJSyr9XwjQJhknmbI+3DWjmLRY4TdS3yfSoXzYITX6lC1UP6dI9aGjmcdThitravBSk4bLrdBX3fSx3sFsfohmnyVTHX+xn3DCBeymw57t+EftVZDDGgh2vQKJ0+4pjmli6nVQoM=;dMkk92HxCTt9iSLjax23xg=="
+secured: "bDu7JbI90OpSJGrrClznSvtsVy9tEmJeyEqlUEAQ9EjuR979lkHC9S/XSCQm2VoL9BWkLIlekMl+OGUsO+Ghyqby+ZEXZXOGyoAnfYzSWYCVOFstrrYTJv2yOoQNEIO+krBg+cuJ098RfysYKORxhtu/a6LAGZ65cTggDAsfpGHf1gGl8Xc1hTYCMYBKjUdc5MnJNEPZvxMIFZdmYbmun3rJoYE3IhmQAo3QgyIfBtNIoz1eR9rGB0voEkP16MrT/A64WtXaZtOubSZ6bpDoSTwfgDRlA/DWkiAB2Ng9UQNZ2+ILsHZSC9NR6sQOyrLdgl2lNT/SY9JOMk+eyAUKDqnHKKc7epxGSLys7BBsY98=;0a4NGqZlFLK+BJtXw2Tsag=="
 ---
 

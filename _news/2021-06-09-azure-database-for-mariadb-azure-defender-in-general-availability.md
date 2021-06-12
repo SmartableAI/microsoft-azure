@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-maria
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-azure-defender-in-general-availability/"
 type: article
 quality: 84
-heat: 244
+heat: 264
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
     excerpt: "General availability enhancements and updates released for Azure SQL in early June 2021"
     publishedDateTime: 2021-06-09T16:00:40Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-early-june-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Maps Elevation API is now in general availability"
+    excerpt: "For any given point on the Earth surface, the Elevation API returns its elevation measured from mean sea level."
+    publishedDateTime: 2021-06-11T23:19:55Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-elevation-service-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

@@ -57,6 +57,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Maps Elevation API is now in general availability"
+    excerpt: "For any given point on the Earth surface, the Elevation API returns its elevation measured from mean sea level."
+    publishedDateTime: 2021-06-11T23:19:55Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-elevation-service-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Large storage for Azure Database for MariaDB"
     excerpt: ""
     publishedDateTime: 2020-06-10T16:00:18Z
