@@ -8,7 +8,7 @@ length: PT34M
 ratings:
   count: 375
   average: 4.805333
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Blockchain
 
-secured: "0ZQIyjp87UtHrUqVdV1obeq6PMdxFiF+2NAdfeL3NqCC7Tj1ciRy+U9MWDU8nBJIQcd3RK1lzj2ifCjhoZSmAcde2GXzOM/H2gHKNZng3JkAzMuGRv18BJZeWetmCJZ1uJyVxQDp7fNRrog/HCGNh6HtvxvQMjh1I28dQLfpksk30e7PMe6TRB28QyBsjkHgoKTaO0DlShIfB3vNzi+9onh4mNwYZONiOImA3xfQELE/Wi9bC7CNVA0RYAWQ1oJS2wxrs6iSaP/tKIYvCtZFftjspFqNzz4rkZTuzDEouHWrktdjaE287Gl3Boc5b5ZqpHVWEfaYhU+DFHm3IkwbXXDCDDJuFLbyWuyQtWAnbMjAQJOiB6EYBhAqiCr8EASGofZuZmIyPnRRx5+YGEczS0CHP0F62bbZ11PnFqoInr8=;yUbV6YqeMt/eaxB8BJmp3A=="
+secured: "9/blITqV7JeqKXoMlmOj1XtCKhiUk8ld1ST7OWOVvc2E7L/KzFHYw4Edcxz3q+UloZaLtYz4lyBXfiizkjB9tt7BkmXr7+Io/v2Tqsn4yIku/rDq6hL88M5rvgDHDBcJFRWmEcCYLdBrLWuXOKzjfHPq4rgO9cNftVoAOjeVcPCH6FGeVqwqRK0+Ko6gcaDaMcqHY7o3eB871T6Fayr47b5bZjs9ubnF4o/tzDxpehzm6VHfaCn6x1fAGyDxvMgAPd0icDm/RjcfePMFSyprBUqEcymfgqInMOfTTZ2a+BNBD1Nw0VN8ISL13uv/bd2UHi/ANSx+JDPcCK7MKOMe9WHYknVRMwxAobk4F0YGnd88YzZ3fy84ZD6U91ta0TZgQ5TsGm35XpsJYfeFq5ooJNjqp9tEBHH8nPcV/oQ+vqw=;3MHSuvoH3k3Plhd9FKYmEw=="
 ---
 
