@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-private-en
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-private-endpoint-support-available-in-public-preview/"
 type: article
 quality: 84
-heat: 127
+heat: 126
 published: true
 
 provider:
