@@ -40,6 +40,17 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure NetApp Files now available in the UAE"
+    excerpt: "The availability of Azure NetApp Files in the UAE allows Microsoft Azure cloud’s local users to benefit from local certifications to meet local data sovereignty requirements"
+    publishedDateTime: 2021-06-13T17:48:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/98245-azure-netapp-files-now-available-in-the-uae"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/98245-azure-netapp-files-now-available-in-the-uae?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/98245-azure-netapp-files-now-available-in-the-uae?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 37
 
 secured: "NInWk+qw/f8LcQVXo2IC3wQMP9zV+kGUaL1Gy7kbXNJfVUGm2HbJUUvKI+POwhBj9RVna+FjPl3uL8qab9MSG9DiEq2bLhmMBMYOBzs7FfniddPCiQ0EUx7lJ6KzPw98FAqwrPboJu59Cr40Kpztv+KGp/uPCUglHuvHtnhRIUx8QQ8iV5cDzrq6XDwxdDsdNP9ACccELAfkevYgoynRmewdmWF0vBV5VFYIq4GS1fi7Wa1/uub6yEC5x4Jp67DeLS7DcRik9P3OK2fgNezumHU8fjXTo/9y9PQwsF+OxPkudtjH/zDaTvzTCg5tIxPYbSKEpdPnNagENvOFxskLjmigUp/XOHNBevh8VMTfNGY=;u6OqtlixOrRubfI2SOvUxg=="
 ---
