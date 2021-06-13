@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-excerpt: "WARREN, N.J.  and BANGALORE, India, June 2, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today"
-publishedDateTime: 2021-06-02T07:45:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485834"
-webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485834"
+excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
+publishedDateTime: 2021-06-02T09:40:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485835"
+webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485835"
 type: article
 quality: 71
 heat: -1
@@ -140,15 +140,6 @@ related:
       name: IT Business
       domain: itbusiness.ca
     quality: 29
-  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
-    excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
-    publishedDateTime: 2021-06-04T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
   - title: "EU privacy watchdog to investigate EU institutions’ use of Amazon, Microsoft cloud services"
     excerpt: "EU privacy watchdog EDPS opened on Thursday two investigations into EU institutions’ use of cloud computing services provided by Amazon and Microsoft, concerned about the transfer of Europeans ..."
     publishedDateTime: 2021-06-02T09:56:00Z
@@ -162,6 +153,20 @@ related:
       - url: "https://cyprus-mail.com/wp-content/uploads/2021/05/Reuters-EU-watchdog-microsoft-story.jpg"
         width: 800
         height: 500
+        isCached: true
+  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
+    excerpt: "Companies in manufacturing, retail, logistics, warehousing, transportation, and other industries, constantly need to determine logistic charges and increase warehouse and vehicle efficiency."
+    publishedDateTime: 2021-06-04T09:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology/article_1520de70-d64f-5ab7-81a9-702331711b9a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 8
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/a7/aa78a8c6-83de-5004-b501-de332a69eeea/60b9ebc250460.image.jpg?resize=1200%2C579"
+        width: 1200
+        height: 579
         isCached: true
   - title: "Elastic Announces the General Availability of the New Frozen Tier, Enhanced Analyst Experience With Schema on Read, and First-Party Integration With Microsoft Azure"
     excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced new capabilities and enhancements across its"
@@ -182,6 +187,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "q2odcaS2qnasDAXEFEDY3JhIMMgkQ3WeSjY7ERVymX7qto4cfydkQRSw6ZXtM+unXit9APhaYHfZgiuwMZO/24YhhFMQoLMW+DyntBWSRV/SKP22bYcT8MVL+uGRSn8aANcNpd45usDKyTqfZH9gqgIGlfPz3/YnEiMkZiJEqwz1nON48x7Q7nZSSSlflHjcAtUpfR421mAEsLiv2tmxwVaeA9lK5IUmIONbBPgwK4fnjpBRt94oP/vwyqEs0X59QebupvCjtTbr8b3hQ1A9Ij0FqaU734W4I9pqoF2WHNos/IV86cuByRIytX2QLbJgtCliyeb+LIViRTEi8UQar+VsbhFjlL7PT0sVRfpHaak=;vbz0vtGtM/+iNuL/P2tOlA=="
+secured: "dpqA5hwR2hMqMOmUAGngxpHl/0rxr8aX1ksXGgXqDByayDcG47qArfRBSDpA+FYugZw08tptMVqJN63n0Q3WHl9C1DJ7B7g+3qmUBmsYqPq+0fIyvpMuGmqczh4eeAhOX9rf0/d4D/Yc85LIvCu+Kvv7OWZWqDZItvkn4pJMwI+w7R+gtpeSClKpK5Hn+anqq+CsIarHjwudv4ajGAKxEuYe7J4ZvvWKnJam3dNuzgup2KEOt6ZI+Fa1M5/Y7wdwoCeK2iuK7NsjUNyqRnAc8rUG939/wZrWrFO9usHJWqPxrjzpshVPC4XOFw4wMHNbe0wstoLljEZG19Z08YzLONN9hwpfKcUpe2/DoMwYyQE=;6u9Snov4zfpeorzRPZzpoQ=="
 ---
 

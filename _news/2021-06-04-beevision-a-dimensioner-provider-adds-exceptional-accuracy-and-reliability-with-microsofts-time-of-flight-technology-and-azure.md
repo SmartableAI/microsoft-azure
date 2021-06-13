@@ -1,25 +1,27 @@
 ---
 category: news
 title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
-excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
-publishedDateTime: 2021-06-04T11:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
-webUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
+excerpt: "Companies in manufacturing, retail, logistics, warehousing, transportation, and other industries, constantly need to determine logistic charges and increase warehouse and vehicle efficiency."
+publishedDateTime: 2021-06-04T09:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology/article_1520de70-d64f-5ab7-81a9-702331711b9a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology/article_1520de70-d64f-5ab7-81a9-702331711b9a.html"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/a7/aa78a8c6-83de-5004-b501-de332a69eeea/60b9ebc250460.image.jpg?resize=1200%2C579"
+    width: 1200
+    height: 579
+    isCached: true
 
 related:
   - title: "Expanding DataParser with Microsoft's Azure Blob Storage integration"
@@ -37,9 +39,9 @@ related:
         height: 720
         isCached: true
   - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-    excerpt: "WARREN, N.J.  and BANGALORE, India, June 2, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today"
-    publishedDateTime: 2021-06-02T07:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485834"
+    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
+    publishedDateTime: 2021-06-02T09:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-has-earned-the-analytics-on-microsoft-azure-advanced-specialization-1030485835"
     type: article
     provider:
       name: Business Insider
@@ -181,6 +183,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "RpMgG6T5WYTVPPV3yPWQ64lCmDahx8i4e+QjApEPnI0onioqhTiQnZn8TbWaZpyvWzjQ7l7VlJjyz6HpWQp8pftU6tCI9e7QsYIl9gUcmo4sneVj9hJQLY+FYZHIAZGcEP0p0BxQokgfMjQ0eSyrvQL0leGMkQ8QNMzHWz7Oo4URBHcOb9/ezsfEJvLSSoERw45jgpQLII770cctY5FetSCTFH+S4Di/AvwQGTkwkXg/13iYUcDKhopTyxLe3QY7RO7hPWq3jZLLA+BlKFH1s/Nh5Wr9BxsBjXkRz7DJjcmPAnoOZ4GvNvR2ENWT6fW39bRkDrqjXxBX+yAhmI2T3F4Xq5twCfLWQR4y85ElcoD1XxS+McSTP5G5/hhLoyYW8icbfIaHApHPeVN0DqmerWN5FGBNdTTHnJj2hMbqTfk2CSzWBWjApeOxqASrmE4kQyIaJVBv/1m1hGc0zNVI/204oiav9NtxYRBuOPUmX9+UrNjM2wmDA1Ipan6AX6e7n+d58MMX4/FRTsJ0WGozCA==;ZWWd8TnUa1AfR14BK8W6RA=="
+secured: "6LZ3ZfW5UO/6KuVTELTfbRaykWdKJxaNy8DbR4wNsUe3JfgVbX2Q5sM+eyTGinFbRgL8xOmkIfw4wWdEu2/6MDCI0M3Xl6uo6msTNtJqSMNaNQQmisFCR2gmU1/T346W+oVnGQN8ZhdEtrEJuMJhxGyvS1HPh2s4gllzU01kr9hvTRx2cW/R3Wc/nVUNGECcTdFRSifSbsAQ4hk7Npq62vxaVPh0g2W+E9TqcNxCnLBma20YFO2aUQy1knmPd4O3WvtvAtax/R0V6VU2T0zLPqtGgwG7cYkEoDcMSB92469q20YPRqbQRUtR33Ey8iU8DUvgLkecaZJwyPoRwp95+W7TW961InswRIWIslfWQlI=;HAxmVDlnQchF2CVZYabvXA=="
 ---
 

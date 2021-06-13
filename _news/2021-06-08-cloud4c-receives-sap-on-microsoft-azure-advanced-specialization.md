@@ -170,17 +170,6 @@ related:
         width: 1616
         height: 846
         isCached: true
-  - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
-    excerpt: "Deploying scalable and affordable enterprise grade IoT applications in the retail industry has previously been restricted by technology limitations. But digital retail"
-    publishedDateTime: 2021-06-08T02:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21463846/hanshow-marks-retail-digitization-at-breakthrough-scale-on-microsoft-azure"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21463846"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21463846"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
   - title: "Microsoft Unveils Azure Virtual Desktop As New Name For WVD, Adds Management Features"
     excerpt: "Microsoft has renamed Windows Virtual Desktop (WVD) to Azure Virtual Desktop and announced more control via the Microsoft Endpoint Manager."
     publishedDateTime: 2021-06-08T00:12:00Z
@@ -227,6 +216,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
+    excerpt: "Hanshow has developed a SaaS solution that is connecting an unprecedented 10 million IoT devices across a network of Ahold Delhaize stores in Europe."
+    publishedDateTime: 2021-06-08T06:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210607005244/en/Hanshow-Marks-Retail-Digitization-at-Breakthrough-Scale-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
 
 secured: "jJQ11o4mMzHzIPzPf3sAJb8YSdPHj0Jok7ulsVjKZIRBzBUGqGGY9LcmdGejI1SJOwmxXnEl9BFhIEU0mpwS0xXAvO8FgOTDEfcbXJflHQzMUpq3On8yOgrH1CKv53HiQZWzyAOgYoTPM4HzbWY7sWstTG0jeaTzScsw2zQIf2jZBlr4VcgCjC+8EC/TklvRBEQosLWwS2dsDPCQckYbw2OGlMnoEOIK27AdcQylUu7JR6xG0FSaXvnM+T3gx1mMNQ2XqkOp5Ue0xml4osX8GSE/IpbP5cJu6aiXSsQjMo/p7jjvgh21b8urW/EruhfF27g5S/EOj3nWdweuuuqxGEPuHT80gMfBgdHj0wkHo60=;eSf6CFxVqHyK4NLsfmkI3A=="
 ---

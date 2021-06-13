@@ -174,17 +174,6 @@ related:
         width: 1616
         height: 846
         isCached: true
-  - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
-    excerpt: "Deploying scalable and affordable enterprise grade IoT applications in the retail industry has previously been restricted by technology limitations. But digital retail"
-    publishedDateTime: 2021-06-08T02:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21463846/hanshow-marks-retail-digitization-at-breakthrough-scale-on-microsoft-azure"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21463846"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21463846"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
   - title: "Microsoft Unveils Azure Virtual Desktop As New Name For WVD, Adds Management Features"
     excerpt: "Microsoft has renamed Windows Virtual Desktop (WVD) to Azure Virtual Desktop and announced more control via the Microsoft Endpoint Manager."
     publishedDateTime: 2021-06-08T00:12:00Z
@@ -231,6 +220,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
+    excerpt: "Hanshow has developed a SaaS solution that is connecting an unprecedented 10 million IoT devices across a network of Ahold Delhaize stores in Europe."
+    publishedDateTime: 2021-06-08T06:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210607005244/en/Hanshow-Marks-Retail-Digitization-at-Breakthrough-Scale-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
 
 secured: "xNqj/vwPqCsckqKg8tOol6Rvqso+rh2fviFuXh5l55tb4Ac2Kf78p5R7NIambjQ7bCaO/zjS6mDJ8Gb2//sSVuq7/BxFQ6qlr/+GPpcX6rWlI/vgp//dmCoxKjhvkh0ni+wBx1g58DaDIbIKcLhacHMRU7oNgMElADetUMAdCHjNnEzv5LRPGmFiUDgF5SjADdMggDO2M3V6xhKBiULgaZKvF6T6A0v1SOqrYONBTZx4JyY1Y0ORuG/UAnJqleVAR9t4RLBDNGMYHdMMgP13a3EfTkpm2MvzwFjzUU7k+jJ/hgRhvn5m1CmqETluSR46cv78Dpm437JJoiRRdcVSO8Thw7iBDiYZ8rud2LhBlWlZ/yDHT6ct5CtefH1yXhww4BUhw0C3DlL+cu5GfQjuJMPYbspjnTvEQjm7iOdQV0ZY5HL1SxEoeP0We50TForCiknKeB/u9qiXanBEwW1bxodxhglzxq/CLJj6qC240V2HIQ5xjk/Bb7etCgbjelAli+i4x2d1VjR4ZaJs2NBshQ==;tRVmbO/Lpu1uxOpbstASLg=="
 ---

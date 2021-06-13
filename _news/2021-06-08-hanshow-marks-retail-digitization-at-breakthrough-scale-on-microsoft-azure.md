@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
-excerpt: "Deploying scalable and affordable enterprise grade IoT applications in the retail industry has previously been restricted by technology limitations. But digital retail"
-publishedDateTime: 2021-06-08T02:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/b21463846/hanshow-marks-retail-digitization-at-breakthrough-scale-on-microsoft-azure"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/b21463846/hanshow-marks-retail-digitization-at-breakthrough-scale-on-microsoft-azure"
-ampWebUrl: "https://www.benzinga.com/amp/content/21463846"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21463846"
+excerpt: "Hanshow has developed a SaaS solution that is connecting an unprecedented 10 million IoT devices across a network of Ahold Delhaize stores in Europe."
+publishedDateTime: 2021-06-08T06:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210607005244/en/Hanshow-Marks-Retail-Digitization-at-Breakthrough-Scale-on-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210607005244/en/Hanshow-Marks-Retail-Digitization-at-Breakthrough-Scale-on-Microsoft-Azure"
 type: article
-quality: 35
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -227,6 +225,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "sXOXGdYyxEveUNroHclpYBFHusS0a0Md9rhxywIlKoeUHAcuyX/dU47tlCfcFZ9rieT0txT7yHA4To0evsOmPRFCcbVa0AJ89/nYR1gUCDQ8dzxlzU5TnVPNSlCRLHdZJsoWXE+awCziheF4IHvdBOO+OJAiUddRwWJfDjqrGBu8Xfc8V+GBmbI+uUE9aItjh9E/Ccn/HCwAFy+dATCWZ1pP95D+F/b66Jq9UkE7PUeXSHbKr45Eg4rKO99Cvd7McXGmk8CASO1A4jYrZPK2DKzR+wG3wFnlzI2pD53GbTKX7+uC3DQ0qjHdhzaYlbLMlSUmTuIp2ZJq7klkwYQw0DFYlvFGfyR15ZWiCJaI1GY=;qn+47ZlAMS96l/E2TEtYjg=="
+secured: "+AvagIhrqCDR9ovhHHTVQGuEZ6BfGoc2dSlgpEpBoYMZyG6iztDj4Y6Lw8KkmpY0jQ0MOfhgLOfiL5jT4g1shQrE0Si4freW6kNF1q365yGrjkssQ3JGqqtKHQMDtCTZmEa6G37XwX77377y9jiNDJ64vdS6bR1k6AuOce5rzU+q5PVUcvRKT5/HXHvRIBtmLOcsLNdoviG++JbnWkBwUtkRE7g/b1MRFe4sF0LVYY1kE6mNJJPN+qg7LLo+AX9fkCKJVyxxhY9ih+mS6YgkUU1wpBjFfGWBps0MQ+TwUDmfSNkveaWHRfJ9gnQ78RBmKlQSyolwPguGT40kNsOl1v0N18zS+j/WAjfc/y1eVnZS2bL9ryeyQOCUyrxV6XF/mBBdzN2ybqxnhGMk6l3V954EFQGjg39qkFzxNXeEohj6iQktDK10xnzL8IGFZk2dCjWy3LMQ1NlXsd6v83EomJV+fWLjZmnp5W0k+qOPb6y2tSs6xBowvXfQSpTZ5DY9q+N1tQjyoXIFfkiYy6cDbA==;9H9cz6x5OQ5uTJ3Gr7FiWQ=="
 ---
 

@@ -184,17 +184,6 @@ related:
         width: 1616
         height: 846
         isCached: true
-  - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
-    excerpt: "Deploying scalable and affordable enterprise grade IoT applications in the retail industry has previously been restricted by technology limitations. But digital retail"
-    publishedDateTime: 2021-06-08T02:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21463846/hanshow-marks-retail-digitization-at-breakthrough-scale-on-microsoft-azure"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21463846"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21463846"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
   - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
     excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
     publishedDateTime: 2021-06-02T12:03:00Z
@@ -227,6 +216,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
+    excerpt: "Hanshow has developed a SaaS solution that is connecting an unprecedented 10 million IoT devices across a network of Ahold Delhaize stores in Europe."
+    publishedDateTime: 2021-06-08T06:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210607005244/en/Hanshow-Marks-Retail-Digitization-at-Breakthrough-Scale-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
 
 secured: "ernTm7hQlHmO5MBfmfqbN5s73URw4ilczaK5w5NeGKKzxbYWIAx2FQjqR6Qb9uH3ijyH/A4oYjCZozuZlhrVEA4QooUzvVvBUvVmO5aekJega4guNDiFMBdgLR8F0m3NfPwSrQhPfxS2w16ZTDwdDVsQUMQMSNZN/33N96pDolulUlvlS9Vwm6CqryDddNoC14CYBDLyZIDlk3CyIv2XBsvfuAFsz86FoIbPWK8NA91GWjaRNkTPaDrkpGNL6wzPkxdJGzUTMB0Jl7ePCVUHmsMGhJktl+6ipMGJeYGKzlmiqsXgoRWOlf8YBChx5UcowzVn4cHkVcJ1ugMJ+McGI+2oMCqZFoSBeEQxFGzsCKo=;OFjFXPWroSCxqJTDpnoKvQ=="
 ---
