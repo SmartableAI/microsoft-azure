@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/06/11/building-ga
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/amp/"
 type: article
 quality: 97
-heat: 397
+heat: 417
 published: true
 
 provider:
@@ -188,6 +188,17 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "Microsoft and NetApp announce availability of Azure NetApp Files in the UAE North Region"
+    excerpt: "The high-performance Azure NetApp Files (ANF) cloud file storage service is now available for data storage in the United Arab Emirates North region, located in Dubai. Azure NetApp Files is currently Microsoft Azure's fastest growing file service worldwide."
+    publishedDateTime: 2021-06-13T08:23:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Microsoft_and_NetApp_announce_availability_of_Azure_NetApp_Files_in_the_UAE_North_Region-ZAWYA20210613065422/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210613065422/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210613065422/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 28
   - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
     excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
     publishedDateTime: 2021-06-02T12:03:00Z

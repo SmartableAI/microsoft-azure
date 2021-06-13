@@ -184,6 +184,17 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "Microsoft and NetApp announce availability of Azure NetApp Files in the UAE North Region"
+    excerpt: "The high-performance Azure NetApp Files (ANF) cloud file storage service is now available for data storage in the United Arab Emirates North region, located in Dubai. Azure NetApp Files is currently Microsoft Azure's fastest growing file service worldwide."
+    publishedDateTime: 2021-06-13T08:23:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Microsoft_and_NetApp_announce_availability_of_Azure_NetApp_Files_in_the_UAE_North_Region-ZAWYA20210613065422/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210613065422/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210613065422/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 28
   - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
     excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
     publishedDateTime: 2021-06-02T12:03:00Z
@@ -226,6 +237,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "iwmG6x1uSjJVSzTxXjLyCJuFZSCmKTZs5K5ben4j7vS4zrug+XfHZHFOctMtVL7q3W3wOhmKm/GHy8spFKaSKaZED6APTrIyzLHNNojIhzIWC/0ah7JsdJEZYjuwWbBGJtW6pYbk7lYH9tRae0J6luOzxLptRK+/WJ4yEu4CnlPWsIf/eyA5ZXqooBCmBQKvDrTpFxcHUV66Xlx+anykSeYt7uTHg/r1ClcvsvvEEiDWiWVMKf9UFXSxN2jYwHf9c5TZS4eUDqBfiwmxz9cAVXz5WIo8LOPDF/LZk6bSkeoS8u9XJvt2Tx2AekgZGDiL7zqVqrO5SwWbDo3tJ6sAF+AtsG8IAuROalzdAgWvOxA=;7WoU2aVVePHx9S1zEudl6Q=="
+secured: "yxRy0MDulUERiLtvyTqAvbgTa+sHUuN76LIW2BIIn87Sy7ggBywxPjs2K0GhS9PClpzF7idru3RwKp2vN955nEV+1f5qvNo/Jc7SsNMVhIDlK8IDPCt9+FSBf9H2XmXn8T8/spuA8NXYELrqYHDwQ0y/8ysTpzPYanGekDFWg98vnAl594MmqzPFXgxxJDN0B6AlXWX3R5HiFKZqgKBZfZwVJRYEJJP3FPI6YIM4RphWhbHV79CvLrVBteeQgfp+rZYzEeR7znEf4CTl2d3IhJ4A6a25zQNkwOj0OxgzdavqwMk/aiJ+M83fmMifVMey7oHqDqf3xYY5k0aa6/OE53Y4gFzVd+HYc47fvhlyS3A=;TBk6SJ8ibnVH4OFMs6p49w=="
 ---
 

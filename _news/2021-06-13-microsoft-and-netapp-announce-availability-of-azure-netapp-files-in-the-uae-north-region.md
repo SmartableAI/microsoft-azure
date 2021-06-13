@@ -1,31 +1,23 @@
 ---
 category: news
-title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
-excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
-publishedDateTime: 2021-06-08T14:20:00Z
-originalUrl: "https://thenextweb.com/news/this-17-course-mega-pack-can-help-you-run-microsoft-365-windows-and-azure-like-a-pro"
-webUrl: "https://thenextweb.com/news/this-17-course-mega-pack-can-help-you-run-microsoft-365-windows-and-azure-like-a-pro"
+title: "Microsoft and NetApp announce availability of Azure NetApp Files in the UAE North Region"
+excerpt: "The high-performance Azure NetApp Files (ANF) cloud file storage service is now available for data storage in the United Arab Emirates North region, located in Dubai. Azure NetApp Files is currently Microsoft Azure's fastest growing file service worldwide."
+publishedDateTime: 2021-06-13T08:23:00Z
+originalUrl: "https://www.zawya.com/mena/en/press-releases/story/Microsoft_and_NetApp_announce_availability_of_Azure_NetApp_Files_in_the_UAE_North_Region-ZAWYA20210613065422/"
+webUrl: "https://www.zawya.com/mena/en/press-releases/story/Microsoft_and_NetApp_announce_availability_of_Azure_NetApp_Files_in_the_UAE_North_Region-ZAWYA20210613065422/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210613065422/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210613065422/"
 type: article
-quality: 69
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: The Next Web
-  domain: thenextweb.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/thenextweb.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FMicrosoft-365-Windows-and-Azure.jpeg&signature=4473b14db4efb228b77123ed96a80077"
-    width: 1280
-    height: 640
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -59,6 +51,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/07/755f2e13-8b09-4d8d-8118-97dff095cb83/azurevirtualdesktop.jpg"
         width: 853
         height: 513
+        isCached: true
+  - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
+    excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
+    publishedDateTime: 2021-06-08T14:20:00Z
+    webUrl: "https://thenextweb.com/news/this-17-course-mega-pack-can-help-you-run-microsoft-365-windows-and-azure-like-a-pro"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FMicrosoft-365-Windows-and-Azure.jpeg&signature=4473b14db4efb228b77123ed96a80077"
+        width: 1280
+        height: 640
         isCached: true
   - title: "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement"
     excerpt: "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time."
@@ -188,17 +194,6 @@ related:
         width: 609
         height: 457
         isCached: true
-  - title: "Microsoft and NetApp announce availability of Azure NetApp Files in the UAE North Region"
-    excerpt: "The high-performance Azure NetApp Files (ANF) cloud file storage service is now available for data storage in the United Arab Emirates North region, located in Dubai. Azure NetApp Files is currently Microsoft Azure's fastest growing file service worldwide."
-    publishedDateTime: 2021-06-13T08:23:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Microsoft_and_NetApp_announce_availability_of_Azure_NetApp_Files_in_the_UAE_North_Region-ZAWYA20210613065422/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210613065422/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210613065422/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 28
   - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
     excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
     publishedDateTime: 2021-06-02T12:03:00Z
@@ -241,6 +236,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "lrpQfsB4/98OGrcbYBl+fjnG4EFfR0LM6Mn9X9Dmqe6Xy/EZkyDlDXZzmDegwoFi8Z9VlybqIHOkBHbXHb1ewKM3kZ5O4ZH+d2gnkjj6950LmMqncemLtxtfdybXF/HgnXOMniyhK90xpj1/3GGys+2VhI+Zc13I5ZwC+5I0/I7ZrXigmGtztAa0TnfmFgz3bjpY6q9H5NSQ85C0CAkKgKLzBofwbcA0XuvKvnY9bKPv3PDjRP3dVqQsUv3uhbKayp+s7wKDD3s+RPXrrqvK/v04u0fMQVbS6VqKRpxQm6RmLI6Hvjz4p4Y6zo018pSTzwhZxxEvYUV45WPxGgz4LRxNWOTDf/PEehI9otNgbQaBzuH3zEx4EbzQYWHH3ixF/mK5UFGi5kTmGdQIrx1VAf8F83hvm6XdZXmhzlw3gZMQnafGL9elau82VaIk+vALrLCsf4pOaR59QXgbRPCDvj2EntiLrKZl69IXL4YEuX3du5vX35gvTtbCUmTw9zG5RExXPFBsmAdJdvR5Fvde2Q==;8TtC0aJ17atB+4R+NjzR+Q=="
+secured: "mXYkZuttccSOdE/K0k/kcJ+3hrIPQbN8rfbD+2EikVOY8AI1beKjnGiAyrK18hlFW7JXRs79bD7PfcUWJRFNHlZlmTvdgadCsoESCYUbK/FaaR/nZQkWu7EUovTZeJRf07jXg4s6BAVW6o/AAPiSNGdg63/JLDKFmHm9OyU+DloLpLE9azJiCgeiIxr9jDq2zLz/1DTIjgA1au8Qtes3SinGQRW393jRxgFwWC7EuHskMkuOLPetbABQkY1XBCKTDJx+sUuobLtTjgTCzBDRTHwr/xhhwYjYC/e0hCw2niVTa4rcPISTtQp6Q3rTLlIEEXweKJp4AL4/Q+4ywVlBoua/glKS0wVYoyPPPnRGYeg=;naxukg5aopWHbgP7dHVCPg=="
 ---
 

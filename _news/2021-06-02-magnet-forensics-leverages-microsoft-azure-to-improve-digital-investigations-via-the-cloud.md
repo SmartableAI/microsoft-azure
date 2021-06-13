@@ -198,6 +198,17 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "Microsoft and NetApp announce availability of Azure NetApp Files in the UAE North Region"
+    excerpt: "The high-performance Azure NetApp Files (ANF) cloud file storage service is now available for data storage in the United Arab Emirates North region, located in Dubai. Azure NetApp Files is currently Microsoft Azure's fastest growing file service worldwide."
+    publishedDateTime: 2021-06-13T08:23:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Microsoft_and_NetApp_announce_availability_of_Azure_NetApp_Files_in_the_UAE_North_Region-ZAWYA20210613065422/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210613065422/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210613065422/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 28
   - title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"
     excerpt: "BBIX, a subsidiary of SoftBank that conducts an internet exchange business, has expanded the 'BIX Multi-Cloud' service coverage to Osaka Area starting with Microsoft Azure. BBIX Multi-Cloud for Microsoft Azure in now available in the Osaka area."
     publishedDateTime: 2021-06-11T09:02:00Z
