@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-publishedDateTime: 2021-06-07T13:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
+excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
+publishedDateTime: 2021-06-07T13:57:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -245,6 +245,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "5Gyd6vZHJ6g/yfnxGzzcY1m4ic1rfV7ZV1CA9nuDlf7IeFe3oUGcFtH7qM6Mq0/ihp7Q/q7IawDq517cugZn4bbiojxLkV1inVPtCsPzO8Ml7eyV1FqK9L6fgvIPJqNiqdn9C/RDPFLsHxQg675zLjPXT+ycC6XeRDzr1frVzLSvo9zpkTOJ/J5uQg3ciyAjb9P90b7yLmz+Ch77X4aywcnWn3O9VK/lyUrLGq6TgZ/oGJqe7hH5j6X7XPzMrEhPTayxnTF272JbIvO2AdrfbvWZPhlsq34LZF05NnPu94eTYmwlvndAYePcF0dMdG2LaFaISVT/2cJWx0ZO9MZMpTku5bE9vyqrzPERr7jesW0=;gEHwpGrrSmhOq1iyjGwiwA=="
+secured: "JPlCdivQUyfxDHbDa3Zu4FmS7GW3mv3p50EYFNbuijxd+11l/zDKYzkNk3p8smxOrjXJSTCs2ZfjFX0IS/wNElK0Er7tVhZHvZQp8nR36dOhD4StDmgFQKnLAR4Rd4vokMlDI0MiOL8tL5GWFuvsGprBpJfFZGV34LCZpT0ZZUSoiqc07NA4HaMTFbeCVGm7AV+tBay0Eii50ZbIRYATQpe/Tstb/3H+Dy3A6vN/YtHO+m9tHzYNfZaiu69qBmDa/5ZISt7/mc5M2VNdNfAHhP6rHNmT/li1BhLVlktPF4j13x9whXXvNEzbG72ObWsJoVKgIcHuk0mZslRI5iO7Pl+OJartrwbHKawFClCnMfE=;XdXvEcEfRdvfWFFUIlbeEQ=="
 ---
 
