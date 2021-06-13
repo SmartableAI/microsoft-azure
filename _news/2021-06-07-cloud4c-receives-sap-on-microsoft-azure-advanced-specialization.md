@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-publishedDateTime: 2021-06-07T13:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
+excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
+publishedDateTime: 2021-06-07T13:36:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+    width: 1616
+    height: 846
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -220,6 +226,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "Fo8aC6YX7KWb/gyoMl18HCnHw8aJQJd0riJXZ2/asJZW58gJBuPecMqktBRQNr/bl+zDuGnNWqC8Vk+56s5OmWyssnvvMaa++VQlyrCVZ2Rpt0vRACttIGPNMRvCq+x9z1n5ufPuXEh6hxCAHwH5vr5ojop5SJniwxVBS84s6kSL5+3N8UKCWoeJAul6mb2edRQhcHFEnGetXor1DwshVaIcEbFASOq+UQf/etKP9D3izCCfp+JgtvLQi3ADloKadRRPtHw7txjloHeAHkTwYSq+6c1DD5LoRujnU394o548Rb4jUWx6cl2nN9BU4WxSdkgdXJqgjTgu8/JmIxjuUyUZw4Qm2IgrapgvejoxBZ0=;qdn/A3/WLmrp1Z1RZ2diEQ=="
+secured: "iwmG6x1uSjJVSzTxXjLyCJuFZSCmKTZs5K5ben4j7vS4zrug+XfHZHFOctMtVL7q3W3wOhmKm/GHy8spFKaSKaZED6APTrIyzLHNNojIhzIWC/0ah7JsdJEZYjuwWbBGJtW6pYbk7lYH9tRae0J6luOzxLptRK+/WJ4yEu4CnlPWsIf/eyA5ZXqooBCmBQKvDrTpFxcHUV66Xlx+anykSeYt7uTHg/r1ClcvsvvEEiDWiWVMKf9UFXSxN2jYwHf9c5TZS4eUDqBfiwmxz9cAVXz5WIo8LOPDF/LZk6bSkeoS8u9XJvt2Tx2AekgZGDiL7zqVqrO5SwWbDo3tJ6sAF+AtsG8IAuROalzdAgWvOxA=;7WoU2aVVePHx9S1zEudl6Q=="
 ---
 
