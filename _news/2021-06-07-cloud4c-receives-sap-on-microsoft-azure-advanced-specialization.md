@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
-publishedDateTime: 2021-06-07T13:36:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
-webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
+publishedDateTime: 2021-06-07T13:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
-    width: 1616
-    height: 846
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -55,6 +49,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/07/755f2e13-8b09-4d8d-8118-97dff095cb83/azurevirtualdesktop.jpg"
         width: 853
         height: 513
+        isCached: true
+  - title: "Provision BIG-IP on Microsoft Azure Red Hat OpenShift"
+    excerpt: "BIG-IP virtual editions (VE) for Microsoft Azure integrated with Microsoft Azure Red Hat® OpenShift® lets you take advantage of the elasticity of the public cloud while continuing to manage and ..."
+    publishedDateTime: 2021-06-11T16:32:00Z
+    webUrl: "https://www.infoworld.com/resources/220095/provision-big-ip-on-microsoft-azure-red-hat-openshift"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
     excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
@@ -237,6 +245,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "yxRy0MDulUERiLtvyTqAvbgTa+sHUuN76LIW2BIIn87Sy7ggBywxPjs2K0GhS9PClpzF7idru3RwKp2vN955nEV+1f5qvNo/Jc7SsNMVhIDlK8IDPCt9+FSBf9H2XmXn8T8/spuA8NXYELrqYHDwQ0y/8ysTpzPYanGekDFWg98vnAl594MmqzPFXgxxJDN0B6AlXWX3R5HiFKZqgKBZfZwVJRYEJJP3FPI6YIM4RphWhbHV79CvLrVBteeQgfp+rZYzEeR7znEf4CTl2d3IhJ4A6a25zQNkwOj0OxgzdavqwMk/aiJ+M83fmMifVMey7oHqDqf3xYY5k0aa6/OE53Y4gFzVd+HYc47fvhlyS3A=;TBk6SJ8ibnVH4OFMs6p49w=="
+secured: "5Gyd6vZHJ6g/yfnxGzzcY1m4ic1rfV7ZV1CA9nuDlf7IeFe3oUGcFtH7qM6Mq0/ihp7Q/q7IawDq517cugZn4bbiojxLkV1inVPtCsPzO8Ml7eyV1FqK9L6fgvIPJqNiqdn9C/RDPFLsHxQg675zLjPXT+ycC6XeRDzr1frVzLSvo9zpkTOJ/J5uQg3ciyAjb9P90b7yLmz+Ch77X4aywcnWn3O9VK/lyUrLGq6TgZ/oGJqe7hH5j6X7XPzMrEhPTayxnTF272JbIvO2AdrfbvWZPhlsq34LZF05NnPu94eTYmwlvndAYePcF0dMdG2LaFaISVT/2cJWx0ZO9MZMpTku5bE9vyqrzPERr7jesW0=;gEHwpGrrSmhOq1iyjGwiwA=="
 ---
 

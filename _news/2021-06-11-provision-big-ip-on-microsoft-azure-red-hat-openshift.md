@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Cloud4C Receives 'SAP On Microsoft Azure Advanced Specialization'"
-excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true va"
-publishedDateTime: 2021-06-08T11:02:00Z
-originalUrl: "https://www.hostreview.com/news/210608-cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
-webUrl: "https://www.hostreview.com/news/210608-cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
+title: "Provision BIG-IP on Microsoft Azure Red Hat OpenShift"
+excerpt: "BIG-IP virtual editions (VE) for Microsoft Azure integrated with Microsoft Azure Red Hat® OpenShift® lets you take advantage of the elasticity of the public cloud while continuing to manage and ..."
+publishedDateTime: 2021-06-11T16:32:00Z
+originalUrl: "https://www.infoworld.com/resources/220095/provision-big-ip-on-microsoft-azure-red-hat-openshift"
+webUrl: "https://www.infoworld.com/resources/220095/provision-big-ip-on-microsoft-azure-red-hat-openshift"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Host Review
-  domain: hostreview.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-    width: 400
-    height: 400
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -55,20 +59,6 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/07/755f2e13-8b09-4d8d-8118-97dff095cb83/azurevirtualdesktop.jpg"
         width: 853
         height: 513
-        isCached: true
-  - title: "Provision BIG-IP on Microsoft Azure Red Hat OpenShift"
-    excerpt: "BIG-IP virtual editions (VE) for Microsoft Azure integrated with Microsoft Azure Red Hat® OpenShift® lets you take advantage of the elasticity of the public cloud while continuing to manage and ..."
-    publishedDateTime: 2021-06-11T16:32:00Z
-    webUrl: "https://www.infoworld.com/resources/220095/provision-big-ip-on-microsoft-azure-red-hat-openshift"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 77
-    images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
         isCached: true
   - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
     excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
@@ -141,6 +131,20 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/04d63a816388b94e314f79610c152242.jpg?t=20210607_010546"
         width: 752
         height: 408
+        isCached: true
+  - title: "Cloud4C Receives 'SAP On Microsoft Azure Advanced Specialization'"
+    excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true va"
+    publishedDateTime: 2021-06-08T11:02:00Z
+    webUrl: "https://www.hostreview.com/news/210608-cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 37
+    images:
+      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Microsoft Azure Vs. AWS: 5 Partners On Why Azure Is ‘Superior’"
     excerpt: "In comparing Microsoft Azure vs. AWS, partners told CRN that the Azure cloud platform offers unique cloud services and hybrid cloud capabilities from the AWS cloud."
@@ -246,6 +250,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "jJQ11o4mMzHzIPzPf3sAJb8YSdPHj0Jok7ulsVjKZIRBzBUGqGGY9LcmdGejI1SJOwmxXnEl9BFhIEU0mpwS0xXAvO8FgOTDEfcbXJflHQzMUpq3On8yOgrH1CKv53HiQZWzyAOgYoTPM4HzbWY7sWstTG0jeaTzScsw2zQIf2jZBlr4VcgCjC+8EC/TklvRBEQosLWwS2dsDPCQckYbw2OGlMnoEOIK27AdcQylUu7JR6xG0FSaXvnM+T3gx1mMNQ2XqkOp5Ue0xml4osX8GSE/IpbP5cJu6aiXSsQjMo/p7jjvgh21b8urW/EruhfF27g5S/EOj3nWdweuuuqxGEPuHT80gMfBgdHj0wkHo60=;eSf6CFxVqHyK4NLsfmkI3A=="
+secured: "/2FPY4b8VKnZdPPAl1qcAqjBPV5bQfizXVxE+HikLnTfE7xkBSXJgID9bypX9cnHYMVDWMiYYIZ5v5owRY8DxlDQPBM6MNNtn1yqeXGnbfzEV05lAb5BJPtw5lXYXDk+cK3KrgwN+/XKAtDFY4j9Yh6e8p2kvOD3K9ycvvd2NuWWCy9uGvdynlZPyKfkNCtC012+PHj6RGMqAVy9c3xCXYzDHnLKGbQMrSbmyhAeKrmhaoMPZotpWJywDARW5Y70Ucs75WLaZUGGEx6LXygJywMcNHN+cDVDDYFAx5gjEeVyq0iq8oA7IZilcSkHM7qBfgzy+9h3+6poeehA2C8tdDW+7oIlAQHZV7Q/HHZjS0U=;VaX7d3TrBccqufwFEIzlwg=="
 ---
 
