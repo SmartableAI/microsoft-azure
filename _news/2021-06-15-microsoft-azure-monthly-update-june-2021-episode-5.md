@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Microsoft Azure Vs. AWS: 5 Partners On Why Azure Is ‘Superior’"
-excerpt: "In comparing Microsoft Azure vs. AWS, partners told CRN that the Azure cloud platform offers unique cloud services and hybrid cloud capabilities from the AWS cloud."
-publishedDateTime: 2021-06-10T16:53:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-azure-vs-aws-5-partners-on-why-azure-is-superior-"
-webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-azure-vs-aws-5-partners-on-why-azure-is-superior-"
+title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
+excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
+publishedDateTime: 2021-06-14T19:56:00Z
+originalUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-june-2021-episode-5"
+webUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-june-2021-episode-5"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: Pluralsight
+  domain: pluralsight.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/pluralsight.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.crn.com/resources/026a-127cd4fdfd91-b71b3bf1f228-1000/microsoft-azure-vs-aws.jpg"
-    width: 610
-    height: 457
+  - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
+    width: 1280
+    height: 721
     isCached: true
 
 related:
@@ -156,6 +160,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft Azure Vs. AWS: 5 Partners On Why Azure Is ‘Superior’"
+    excerpt: "In comparing Microsoft Azure vs. AWS, partners told CRN that the Azure cloud platform offers unique cloud services and hybrid cloud capabilities from the AWS cloud."
+    publishedDateTime: 2021-06-10T16:53:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-azure-vs-aws-5-partners-on-why-azure-is-superior-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/026a-127cd4fdfd91-b71b3bf1f228-1000/microsoft-azure-vs-aws.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "Cloud4C Awarded the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Cloud4C has been awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization. This stands as validation"
     publishedDateTime: 2021-06-11T21:05:00Z
@@ -169,20 +187,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
         width: 1616
         height: 846
-        isCached: true
-  - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
-    excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
-    publishedDateTime: 2021-06-14T19:56:00Z
-    webUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-june-2021-episode-5"
-    type: article
-    provider:
-      name: Pluralsight
-      domain: pluralsight.com
-    quality: 37
-    images:
-      - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
-        width: 1280
-        height: 721
         isCached: true
   - title: "Microsoft Unveils Azure Virtual Desktop As New Name For WVD, Adds Management Features"
     excerpt: "Microsoft has renamed Windows Virtual Desktop (WVD) to Azure Virtual Desktop and announced more control via the Microsoft Endpoint Manager."
@@ -260,6 +264,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "ns/et3k2khsy0z30Dj/sTSWoPYC1Djd+2BZoEp2NiIpRWmnAWNOptAy8Kw7sVyHiXbi3zOT2MEInFjh4GnwWF2cXQFiCZuzd0Zu6vwgaeD6NHRR0cTvKk4Y9fJw6CFpfwXkSueqcHKqiirUnV7oJeSM1eXa5cg3wX5e/Y08wX0BeoIt3kWS9B91aOQ8hw/mad1lqmNI4Hs9vdQ2Yj9R2NyISuSFk3dxFxZQFtNTPhW+y05ZeWRUs//F4qf0N7/2PRphiJVGUFlDua2fmgMQQNLWooPp1d8VWnjKuzZPuxu+g701tI9vIM/mfNW3TjVglPcDgO1NA2llN/JNkd7Syc4iHNb21ILQX//acGUE4E5G2IiUvXruTRdmeHuRCqKfieEGAIFDhVy48bAx//0a+Y6367JISo/vAIcQByjR2fTqTeHsH+JOFTIbX2ZzKf+JW5RlUzp+4jp6gOSf2+HySlea5A9f+7QoTOUdKVrVuAnXBGOnNMKwFgho9OkVspWWpnYy887Jo+b5PSzwq/9nUgw==;tQDsIn+1lhevqwFFrpppGw=="
+secured: "0odXv8/Rbsv5vLkcJj4prIcqhvEaxzMTwjQRpqO1h1/ZNj3DaYiMiUnE+uwaLRiif/B8SECtDzE1w7pAQtU4DLqAMYX6UgH7TsKJRVZlZtTngP2Py1qYhuRvtV5KjA5obT4dsNACxsVVR3ab/Rnjk4SgRwPDtAfRS6TT32nHacNu+Nwr/GxI4bnWufMAtsF4KMmH9KDoSHzBY1R0MIHM8X3B1j4Z37BvZ9b4AAhkUq6k3OFbwlHfSpckj9NPvUljbHptKZizEpklWTmumsdCEVkpK5OsbbtBH07BqCl4G27dudL21NqpeYijPZFyr6Re2dUlRhudXB7057YFUXF1bxmsvdzoOi6wuN04wiDiVqA=;9K93EK0kXpkdZzH7TkQimQ=="
 ---
 

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public Preview: Azure Percept DK May (2105) software update is available"
-excerpt: "Azure Percept DK May (2105) SW update is available. The Azure Percept May update includes improvements for example to security, log rotation fixes, and provisioning experience."
-publishedDateTime: 2021-05-20T17:00:07Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/apdk2105update/"
-webUrl: "https://azure.microsoft.com/en-us/updates/apdk2105update/"
+title: "Private preview: NVIDIA GPU Acceleration for Apache Spark™ in Azure Synapse Analytics"
+excerpt: "Beginning today, this GPU acceleration feature in Azure Synapse is available for private preview by request."
+publishedDateTime: 2021-05-25T16:00:00Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/private-preview-nvidia-gpu-acceleration-for-apache-spark-in-azure-synapse-analytics/"
+webUrl: "https://azure.microsoft.com/en-us/updates/private-preview-nvidia-gpu-acceleration-for-apache-spark-in-azure-synapse-analytics/"
 type: article
-quality: 66
+quality: 92
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Analytics
 
 related:
   - title: "Public preview: Log Analytics workspace insights from Azure Monitor"
@@ -58,15 +59,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 93
-  - title: "Private preview: NVIDIA GPU Acceleration for Apache Spark™ in Azure Synapse Analytics"
-    excerpt: "Beginning today, this GPU acceleration feature in Azure Synapse is available for private preview by request."
-    publishedDateTime: 2021-05-25T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/private-preview-nvidia-gpu-acceleration-for-apache-spark-in-azure-synapse-analytics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 92
   - title: "Public preview: Save and share log analytics queries with new query packs in Azure Monitor"
     excerpt: "Query packs are a new capability within log analytics intended to make creating, saving, managing, and discovering log analytics queries simpler and more efficient."
     publishedDateTime: 2021-05-25T16:00:25Z
@@ -198,6 +190,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Public Preview: Azure Percept DK May (2105) software update is available"
+    excerpt: "Azure Percept DK May (2105) SW update is available. The Azure Percept May update includes improvements for example to security, log rotation fixes, and provisioning experience."
+    publishedDateTime: 2021-05-20T17:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/apdk2105update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 66
   - title: "Public preview: Easily onboard Application Insights for Java apps on Azure App Services"
     excerpt: "Customers writing Java apps on Azure App Services can now onboard to application insights for application monitoring, without making any code changes. App Service Linux, both code-based and custom containers, and App Service Windows code-based are supported. "
     publishedDateTime: 2021-05-25T16:00:25Z
@@ -217,6 +218,6 @@ related:
       domain: microsoft.com
     quality: 48
 
-secured: "MUN9t3/8OTlgR1L/W9NLvWom9jY0KNz3CL9fJXOGdf1pC7hj8K/r8FXX0JwrWo7tJA4mFTeehkHeSlLxjbdL3kUs09FFGzbPA3k8v7Ov1CZkwj86WnuVBrXZpSMtVQnhSxcI4yXedYKdF7nu4Z6Osc1g45DNyXT4vjFfzqiw96JAXJtDWzxzvbts26M3jmFGW6QhvH+ZRjhhecgky+dsKT+tmIGSXlXL5H7tJUaQGcmfQEGgG4AqjWs829fHk1bjIMiam3/VeJXZ0Q2dI7CrLfBH9SfLPW56ExvV6Oajm+0bKlf/ULZxYrwG+Rtx+dgo29+HmsuN+1L1Okqd7DN3RsfS9ct5M4PTBRgclCKlDF0=;clnMtUFhJI1lSqzdkGcj0w=="
+secured: "N8wLwwvP4czOY3ILkmMJHQSayk8BPU85OkwC9MCayt0mVq1DndhUVlwdwuBSAlHS9D2u2MM5FNB/6x7KmNYCKuJir/W0tp740h6p8uXeBdMZgHGrg2yPdMpzrBWkYxcVt7/1JgCgD/u+LugGBYo4oYTELenMhHckNW6RNPv+lCORVfGqkxcyc7yRf8/WDQURN27ZpDaO2ErWYZL602RyEgZ5LvwlGpe4xOjH8S6P3xDago0VOfZKwA4SWvvAI2YftmrPAkzaaF2/+sE/82WH+ge1c2mC3nR/fPqvvX3xMHiZWztc5HL4KqNx6Fev5yyMppB8H++AlINGajRoSslP7QeeWS6qmyuar9zkwSFP0Hc=;sy7yZ4DIspY5gAXO9s6gfA=="
 ---
 

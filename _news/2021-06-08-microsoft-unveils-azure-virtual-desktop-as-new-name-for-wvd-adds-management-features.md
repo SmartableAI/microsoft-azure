@@ -184,6 +184,20 @@ related:
         width: 1616
         height: 846
         isCached: true
+  - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
+    excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
+    publishedDateTime: 2021-06-14T19:56:00Z
+    webUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-june-2021-episode-5"
+    type: article
+    provider:
+      name: Pluralsight
+      domain: pluralsight.com
+    quality: 37
+    images:
+      - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
+        width: 1280
+        height: 721
+        isCached: true
   - title: "Microsoft and NetApp announce availability of Azure NetApp Files in the UAE North Region"
     excerpt: "The high-performance Azure NetApp Files (ANF) cloud file storage service is now available for data storage in the United Arab Emirates North region, located in Dubai. Azure NetApp Files is currently Microsoft Azure's fastest growing file service worldwide."
     publishedDateTime: 2021-06-13T08:23:00Z

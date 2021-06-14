@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public Preview: Azure Percept DK May (2105) software update is available"
-excerpt: "Azure Percept DK May (2105) SW update is available. The Azure Percept May update includes improvements for example to security, log rotation fixes, and provisioning experience."
-publishedDateTime: 2021-05-20T17:00:07Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/apdk2105update/"
-webUrl: "https://azure.microsoft.com/en-us/updates/apdk2105update/"
+title: "Public preview: Announcing Azure Synapse Link for Dataverse"
+excerpt: "Power your business applications data with analytical and predictive insights."
+publishedDateTime: 2021-05-26T16:00:00Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-synapse-link-for-dataverse/"
+webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-synapse-link-for-dataverse/"
 type: article
-quality: 66
+quality: 84
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Analytics
 
 related:
   - title: "Public preview: Log Analytics workspace insights from Azure Monitor"
@@ -135,15 +136,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Public preview: Announcing Azure Synapse Link for Dataverse"
-    excerpt: "Power your business applications data with analytical and predictive insights."
-    publishedDateTime: 2021-05-26T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-synapse-link-for-dataverse/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "General availability: Azure Log Analytics in South India"
     excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in South India. "
     publishedDateTime: 2021-05-27T00:22:34Z
@@ -198,6 +190,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Public Preview: Azure Percept DK May (2105) software update is available"
+    excerpt: "Azure Percept DK May (2105) SW update is available. The Azure Percept May update includes improvements for example to security, log rotation fixes, and provisioning experience."
+    publishedDateTime: 2021-05-20T17:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/apdk2105update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 66
   - title: "Public preview: Easily onboard Application Insights for Java apps on Azure App Services"
     excerpt: "Customers writing Java apps on Azure App Services can now onboard to application insights for application monitoring, without making any code changes. App Service Linux, both code-based and custom containers, and App Service Windows code-based are supported. "
     publishedDateTime: 2021-05-25T16:00:25Z
@@ -217,6 +218,6 @@ related:
       domain: microsoft.com
     quality: 48
 
-secured: "MUN9t3/8OTlgR1L/W9NLvWom9jY0KNz3CL9fJXOGdf1pC7hj8K/r8FXX0JwrWo7tJA4mFTeehkHeSlLxjbdL3kUs09FFGzbPA3k8v7Ov1CZkwj86WnuVBrXZpSMtVQnhSxcI4yXedYKdF7nu4Z6Osc1g45DNyXT4vjFfzqiw96JAXJtDWzxzvbts26M3jmFGW6QhvH+ZRjhhecgky+dsKT+tmIGSXlXL5H7tJUaQGcmfQEGgG4AqjWs829fHk1bjIMiam3/VeJXZ0Q2dI7CrLfBH9SfLPW56ExvV6Oajm+0bKlf/ULZxYrwG+Rtx+dgo29+HmsuN+1L1Okqd7DN3RsfS9ct5M4PTBRgclCKlDF0=;clnMtUFhJI1lSqzdkGcj0w=="
+secured: "4wgOQGcKPfJwdUFIhkPb6SQWA0+opKbEXq/LATwCQ6SdBfZInXYtb2pgImrtQ9hY266U8KPSmeYSuFhECKuoqAaHUPcPgluLcsP0rhWyoCXw/GC4JYGo/fR3jld3Nge16wFMYqIoogFCh6DJntzsTOmg/bB/VYAbJ+lR/VyvkSspbNmPBZMIbhZxiynJvo/SEJZ8ehh85xf260CylYZp2Qq6mKlk8fTknqV/HoMvAelMwiermAn0cMfh7JcMsbGv09UfL0K3tpFBCTw5+NRxmjAZBZycMkqXLNVUZfp65K0FUMUh6g4WMrP0TygNiMTvgPGsR2DO+pwYeubElBVCDOgW7IyhXPgsOn42UcGvP9w=;a0FyiZwCc8KcyvxjxbG8lQ=="
 ---
 

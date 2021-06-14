@@ -38,6 +38,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
+  - title: "Public preview: Apache Spark 3.0 support in Azure Synapse Analytics"
+    excerpt: "The public preview announced today starts with the foundation based on the open-source Apache Spark 3.0 branch with subsequent updates leading up to a Generally Available version derived from the latest 3.1 branch."
+    publishedDateTime: 2021-05-25T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-apache-spark-30-support-in-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Public preview: Azure Purview powered search in Azure Synapse Analytics workspaces"
     excerpt: "Enable effortless discovery of trustworthy, valuable data with an Azure Purview powered search within Synapse Studio. "
     publishedDateTime: 2021-03-02T17:00:19Z
@@ -56,6 +65,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 93
+  - title: "Private preview: NVIDIA GPU Acceleration for Apache Spark™ in Azure Synapse Analytics"
+    excerpt: "Beginning today, this GPU acceleration feature in Azure Synapse is available for private preview by request."
+    publishedDateTime: 2021-05-25T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/private-preview-nvidia-gpu-acceleration-for-apache-spark-in-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 92
   - title: "Public preview: Save and share log analytics queries with new query packs in Azure Monitor"
     excerpt: "Query packs are a new capability within log analytics intended to make creating, saving, managing, and discovering log analytics queries simpler and more efficient."
     publishedDateTime: 2021-05-25T16:00:25Z
@@ -105,6 +123,15 @@ related:
     excerpt: "Logs export can be separated between multiple destinations to overcome destination rate limit and to maintain access control in destinations."
     publishedDateTime: 2021-05-25T16:00:25Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-export-azure-monitor-logs-to-multiple-destinations/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Public preview: Announcing Azure Synapse Link for Dataverse"
+    excerpt: "Power your business applications data with analytical and predictive insights."
+    publishedDateTime: 2021-05-26T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-synapse-link-for-dataverse/"
     type: article
     provider:
       name: Microsoft
