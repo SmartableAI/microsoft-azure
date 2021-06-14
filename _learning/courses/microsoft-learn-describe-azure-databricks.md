@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT53M
 ratings:
-  count: 949
-  average: 4.547945
+  count: 950
+  average: 4.548421
 heat: 52
 
 provider:
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "dMKp0P8sfvixqXrDbR2wCIRNehzFSac7vFY5BFUBPRJTIxG2fsxey+ka6k1LA8cB6v8usWyALTrPpZokDXvguY31vQUmv1qRRKtzw1XTzS7HNo0/0PHcEipcVwbFhoDXzRr6I87ePU1TuNXyWOLBr7bbur1vTU93+rLg/En7yVCZfSfTX6KerZNjMyg4v2VaZlaj4+W+Jei+F6Ftsog+QhEp5Evbh5A5i7vKfIZKCjXDDekN0zu+RoNvya4Lbfa7rYfUVWFqNbjG0uH8KmVAICros3NXRkwLKuXiOA6coTLNbKGQSaII7Qboaiv7750UMse00bUwYO8uYvCAaCtfnh5NZX6A/Ho79niauq4tJrmzcmdwFTnI2yr8HqMvZlef7C2H+YVDvPbzrwshBDJj01K6oZIxxql2vvjy5t0Y0S4=;Dvy9/S9uhCW2tbQofyoVFg=="
+secured: "bqmlxQiPXqnvnQf9Dk6LL5LSxUZOQchVEG/hqKvZZseH0VOcn0SEHEmLXlS9ziAORvE+7UV++27I/deJsP9kBt3Jo8uPKf+neiizN/cOge39A9xFWS71XPfDsJSCNUDQlZREp0VOWsgbqYg/NVWX+4/JQ8CpDgdrR+ult8PXaJdH+gyiAaZcNcHmr2sZTQMrEw5HezvKP5eCOKYgAcQ7J3urhAzhCkspXZowmBKRgaSO2/SADeqMYRBTlDjFb+4dWoJLMWhPLvPaQfMKn1snQ3UwwlaoAp64/5GQ6ZW8PwStpnlACkVEoM1FBbTSMFUlFq9Fcv4AY2yVRlOoFsR3k6zx6kK9nCcuWrur3gALvGqPQA7Y14AdF5U7tEI1Q/65ulhUyIflVYAxg9mZOIpD1A1fOcppsCmfOGCZQW4Pvew=;XAYvZvrBsbywb1/3pFPGtA=="
 ---
 
