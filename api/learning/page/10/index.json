@@ -4,48 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-custom-roles-rbac.md",
-      "title": "Create custom roles for Azure resources with role-based access control (RBAC)",
-      "excerpt": "Learn how to create custom roles for Azure resources with role-based access control (RBAC).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-custom-roles-rbac/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 3499,
-        "average": 4.723635
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-custom-azure-roles-with-rbac-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-language-model-with-luis.md",
       "title": "Create a language model with Language Understanding",
       "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model.",
@@ -53,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 1461,
-        "average": 4.744695
+        "count": 1464,
+        "average": 4.7452188
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -139,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 3109,
-        "average": 4.7060146
+        "count": 3110,
+        "average": 4.7061095
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -182,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 5089,
-        "average": 4.6677146
+        "count": 5090,
+        "average": 4.66778
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -217,8 +175,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
       "length": "PT59M",
       "ratings": {
-        "count": 1507,
-        "average": 4.569343
+        "count": 1508,
+        "average": 4.5696287
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -254,6 +212,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-recognize-synthesize-speech.md",
+      "title": "Recognize and synthesize speech",
+      "excerpt": "Learn how to recognize and synthesize speech by using Azure Cognitive Services.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recognize-synthesize-speech/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 1255,
+        "average": 4.720319
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Developer Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-translate-text-with-translation-service.md",
       "title": "Translate text and speech",
       "excerpt": "Automated translation capabilities in an AI solution enables closer collaboration by removing language barriers.",
@@ -261,8 +263,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 1112,
-        "average": 4.6870503
+        "count": 1114,
+        "average": 4.687612
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -445,8 +447,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
           "length": "PT24M",
           "ratings": {
-            "count": 2205,
-            "average": 4.7873015
+            "count": 2206,
+            "average": 4.787398
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -487,8 +489,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 1628,
-            "average": 4.7800984
+            "count": 1631,
+            "average": 4.780503
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -529,8 +531,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
           "length": "PT24M",
           "ratings": {
-            "count": 1718,
-            "average": 4.725262
+            "count": 1721,
+            "average": 4.725741
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -698,8 +700,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
           "length": "PT54M",
           "ratings": {
-            "count": 1418,
-            "average": 4.729196
+            "count": 1419,
+            "average": 4.729387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -930,8 +932,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "PT42M",
       "ratings": {
-        "count": 3007,
-        "average": 4.623545
+        "count": 3008,
+        "average": 4.62367
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -966,8 +968,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 4209,
-        "average": 4.619862
+        "count": 4210,
+        "average": 4.6199527
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1003,8 +1005,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 6348,
-        "average": 4.635003
+        "count": 6349,
+        "average": 4.635061
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1047,8 +1049,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 141979,
-        "average": 4.702625
+        "count": 141981,
+        "average": 4.702629
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1082,8 +1084,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 3229,
-        "average": 4.6714153
+        "count": 3231,
+        "average": 4.671309
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1125,8 +1127,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 1416,
-        "average": 4.6560736
+        "count": 1419,
+        "average": 4.6568007
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1168,8 +1170,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
       "length": "PT24M",
       "ratings": {
-        "count": 2205,
-        "average": 4.7873015
+        "count": 2206,
+        "average": 4.787398
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1247,8 +1249,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 1628,
-        "average": 4.7800984
+        "count": 1631,
+        "average": 4.780503
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1373,8 +1375,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
       "length": "PT54M",
       "ratings": {
-        "count": 2890,
-        "average": 4.6429067
+        "count": 2891,
+        "average": 4.64303
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1408,8 +1410,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 5439,
-        "average": 4.7556534
+        "count": 5441,
+        "average": 4.7557435
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1451,8 +1453,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/",
       "length": "PT1H32M",
       "ratings": {
-        "count": 3706,
-        "average": 4.6508365
+        "count": 3708,
+        "average": 4.651025
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1494,8 +1496,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 5163,
-        "average": 4.7400737
+        "count": 5164,
+        "average": 4.7393494
       },
       "provider": {
         "name": "Microsoft Learn",
