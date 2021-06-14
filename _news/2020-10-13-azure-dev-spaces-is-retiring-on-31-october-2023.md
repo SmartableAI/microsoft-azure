@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-dev-spaces-is-reti
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-dev-spaces-is-retiring-on-31-october-2023/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 87
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Azure Dev Spaces retired on May 15, 2021"
+    excerpt: "Take advantage of Bridge for Kubernetes for development scenarios that Azure Dev Spaces previously supported."
+    publishedDateTime: 2021-06-14T16:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-dev-spaces-retired-on-may-15-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "bK5hQCzzhmHbkZ9DfIsvQJ4C1BieyMBehdp8RyzOm5OndSnMG0ogVTduMu05920LmcvC9V8EzevYZs4WWe6ecs6WTgkvHHuOWTnuG1eL5rYiPs6bVQ3Dh3qLRZP31dqnhkRa7SbVnlqLmOWMoxG9qtwxaD4WkJGFch9YAvg3U7SvploFxw2aeUHy38sZfXJ35JsAWTu158+x8JTAjVKs3xyP1Yto0O88MlIEWhMsgkD9MfP9izar1B+T/ocVcGKgjfvNZFGO+o/COXWlgDeW+mgHwRltDRa5ViBOaVK9t91Ytrf7+2rMKtWncIjNI/BiALv6f8YhtYKBrPOPUs/fF+lRcWoD1jyju1cF1OeSwV8=;taI5f1ISC2qCLUTnXmsZfg=="
 ---
