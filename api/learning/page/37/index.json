@@ -4,6 +4,50 @@
   "page": 37,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-security-solutions-microsoft-365.md",
+      "title": "Explore security solutions in Microsoft 365",
+      "excerpt": "Explore security solutions in Microsoft 365",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security-solutions-microsoft-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-security-solutions-microsoft-365/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 4,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/m365-introduction-security-solutions-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-threat-vectors-data-breaches.md",
       "title": "Examine threat vectors and data breaches",
       "excerpt": "Examine threat vectors and data breaches",
@@ -536,8 +580,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
       "length": "PT24M",
       "ratings": {
-        "count": 4591,
-        "average": 4.7856674
+        "count": 4592,
+        "average": 4.785714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -579,8 +623,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
       "length": "PT21M",
       "ratings": {
-        "count": 3289,
-        "average": 4.7810884
+        "count": 3290,
+        "average": 4.781155
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1254,48 +1298,6 @@
       "topics": [
         "Azure",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-devices-with-microsoft-endpoint-manager.md",
-      "title": "Understand device management using Microsoft Endpoint Manager",
-      "excerpt": "In this module, you'll learn about how your organization's devices can be provisioned and managed. Additionally, you will learn about the different types of enrollment methods available using Microsoft Endpoint Manager.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-devices-with-microsoft-endpoint-manager/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-devices-with-microsoft-endpoint-manager/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 2,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/device-management-with-microsoft-endpoint-manager-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

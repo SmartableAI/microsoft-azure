@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/",
       "length": "PT24M",
       "ratings": {
-        "count": 1277,
-        "average": 4.7000785
+        "count": 1278,
+        "average": 4.700313
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -280,8 +280,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-management-capabilities-of-azure/",
           "length": "PT27M",
           "ratings": {
-            "count": 153,
-            "average": 4.8431373
+            "count": 154,
+            "average": 4.844156
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -323,8 +323,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-capabilities-of-azure-sentinel/",
           "length": "PT18M",
           "ratings": {
-            "count": 152,
-            "average": 4.881579
+            "count": 153,
+            "average": 4.882353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -451,8 +451,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-management-capabilities-of-azure/",
           "length": "PT27M",
           "ratings": {
-            "count": 153,
-            "average": 4.8431373
+            "count": 154,
+            "average": 4.844156
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -494,8 +494,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-capabilities-of-azure-sentinel/",
           "length": "PT18M",
           "ratings": {
-            "count": 152,
-            "average": 4.881579
+            "count": 153,
+            "average": 4.882353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -939,8 +939,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-resource-governance-capabilities-azure/",
       "length": "PT21M",
       "ratings": {
-        "count": 170,
-        "average": 4.8235292
+        "count": 171,
+        "average": 4.8245616
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -981,8 +981,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-management-capabilities-of-azure/",
       "length": "PT27M",
       "ratings": {
-        "count": 153,
-        "average": 4.8431373
+        "count": 154,
+        "average": 4.844156
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1014,49 +1014,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-export-data-with-azure-import-export.md",
-      "title": "Export large amounts of data from Azure by using Azure Import/Export",
-      "excerpt": "Learn how and when to use Azure Import/Export to copy large amounts of data from Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-export-data-with-azure-import-export/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 1810,
-        "average": 4.774033
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/export-data-with-azure-import-export-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     },
     {
@@ -1111,8 +1068,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-integration-azure-data-factory/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 492,
-        "average": 4.644309
+        "count": 493,
+        "average": 4.638945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1512,6 +1469,51 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-persist-data-ef-core.md",
+      "title": "Persist and retrieve relational data with Entity Framework Core",
+      "excerpt": "This module guides you through creating a data access project, connecting to a relational database, and writing CRUD queries.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-persist-data-ef-core/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/",
+      "length": "PT1H4M",
+      "ratings": {
+        "count": 1158,
+        "average": 4.6511226
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/persist-data-ef-core-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools",
+        "Databases"
       ]
     }
   ],
