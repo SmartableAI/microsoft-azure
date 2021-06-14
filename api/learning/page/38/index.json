@@ -4,6 +4,41 @@
   "page": 38,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-database-for-mariadb.md",
+      "title": "Introduction to Azure Database for MariaDB",
+      "excerpt": "Describe how Azure Database for MariaDB supports mission-critical workloads with predictable performance and dynamic scalability. Evaluate whether you can implement Azure Database for MariaDB to address your relational database needs.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-database-for-mariadb/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-database-for-mariadb/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 5,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-database-for-mysql.md",
       "title": "Introduction to Azure Database for MySQL",
       "excerpt": "Describe how Azure Database for MySQL supports mission-critical workloads with predictable performance and dynamic scalability. Determine whether you should implement Azure Database for MySQL to address your relational database needs.",
@@ -126,40 +161,6 @@
       "ratings": {
         "count": 8,
         "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-front-door.md",
-      "title": "Introduction to Azure Front Door",
-      "excerpt": "Azure Front Door provides a fast, reliable, and secure modern cloud content delivery network, integrated with intelligent threat protection.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-front-door/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-front-door/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 16,
-        "average": 4.6875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -630,8 +631,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
       "length": "PT31M",
       "ratings": {
-        "count": 642,
-        "average": 4.721184
+        "count": 643,
+        "average": 4.7200623
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -800,8 +801,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-mixed-reality/",
       "length": "PT41M",
       "ratings": {
-        "count": 273,
-        "average": 4.7545786
+        "count": 274,
+        "average": 4.7554746
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1137,8 +1138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-infrastructure-as-code-using-bicep/",
       "length": "PT40M",
       "ratings": {
-        "count": 96,
-        "average": 4.7916665
+        "count": 97,
+        "average": 4.7938147
       },
       "provider": {
         "name": "Microsoft Learn",
