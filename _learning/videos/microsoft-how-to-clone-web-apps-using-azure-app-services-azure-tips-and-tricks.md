@@ -4,9 +4,9 @@ excerpt: "In this edition of Azure Tips and Tricks, you'll learn how to clone we
 originalUrl: https://youtube.com/watch?v=23kFf-GnJoc
 type: video
 price: Free
-length: PT1M20S
+length: PT1M19S
 publishedDateTime: 2018-10-11T17:09:17Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/23kFf-GnJoc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "dSv012r/l5zdvAIdM5hTbmWi8u1OyacmC8KIryD4ph28CoYyHO4AWjhzllREzkzRA/XKeVpwC9P8xIccXjxruexCJpOyTJ1ViGuYh7JEZiITER3zkc03lFMmSqHtd/uYjT+W+C789lB3h7c9zS1rMRxWJ1/QfwyFXFNPct+NBncK1s8OvxchV/tvrX64nIGS8TapQlqlL9LQfZp7YCvEOtHYfhwL+lym/ywBZZy9q5x57ppNJq9v5xdE1DgXm2lAvcvIZhfcajRXjgOiG6eRSGDSVSFluUkFibInExr2zSzCauMEhy6nA80l2uIyt3HAs1kvGYnt93i16yPORdskeW4v2Uoy0W+u0axtUZlgpo2WJxFXkkWwllYg9Qct9Fd1T34x+IkoYcvXaHj9ihAZR+fAI1SbBDyHEkYBlq4nxNs=;JNtXlOCpYoPo8DZZ0MTGng=="
+secured: "C8G4cZz3Yh5r+Scse4tRg+WnjNMDX3ybDSF+JwbIRD6TUPAm5VS+UTANdE9FRUCXBRZxuhmldghF81RchuibVzhK1sdWOIpBD0lwYHCyjdXJCAa7HM4oD5KPVz079GYiYImLfFKXguPD2M6IXRDDSxHzOeL37ARWxyx+BhOSNpSm0kG7P1SGEtwkaW7uJtx8gpV4rInHWmHCApT19bryk2D50dm5MyWpVC+cUBm0Y5rpP/vQZZkwOveB9OHx2wlxP8/gug1+ySzWYYyNusCWUIjVxC1/d0KXW4mdwGQEoDCub4T1XD8LrQZsFfdzjatJ6EODajcEA4HwNPe0b1bM4f3n4wf2wI3d1Zt7Cy76J7C7DFepCJY57Eu8ME2efii0cnMlGwyG9A7kfZXiFeyo8n+0BysQQZlzv/wYJX/dEDc=;Ai0UiA9i5YG+93ckDJpddQ=="
 ---
 
