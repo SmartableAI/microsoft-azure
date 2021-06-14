@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT49M
 ratings:
-  count: 11
-  average: 4.818182
+  count: 12
+  average: 4.8333335
 heat: 50
 
 provider:
@@ -29,6 +29,6 @@ topics:
   - Storage
   - DevOps
 
-secured: "tj4I000cVwqWNKQvHl+BAEc1CWGXIZ1cIaiQKiGXR9UiPBa8MUgLoCSGRb2xmmbWfOrz7UxLJ/i37I+rtOcuI5A8gsjJoQu+Wp2AiXwzC+FHFnm1Yg6Izr551/4S2CefpsPuw1JKrKTARv1xPo6kfU+aWCs/yqv6uf1AjpAyplSNScnqtObSmNMlXcJKMI8d90FSJ6RAmECPeDIe74Q234y5r6IdZ/15+1ktTbhkR/lICJE1gGtjqNqTVE9XkG598E7I+O8BIJAfO7EyBk/OZoTrQo/JMBQBleOyUuxHACdq+zQzm6nZ8fUw1nmqiMfUkRPMNHWE/6cm24D0pLq1KLWscPMKM5bRdSpFnwzRNV4mwSpJ2VlBuSZlsE5XPvTEreV6BPnTdMe+sIv+WMckkXucr3lVPu4kpRXJlGSQBn8=;Dkp8NaNXk5r2ygCloyj+Tw=="
+secured: "eHv21eIMV3aIPdbR6Eaqa/H3JzOPMVfxJZKpbgj1fEKf3ks8eae1NCEKWxMtH+XgbcclsWSRC50k0WVYU6qBR/qIs9vG0xcJT6xlheUeFI90NWwk/lW5mIkgFsC951INKofWmQvOH2WY2FwEGmkBTCqenYaCqUMfqo5Ms6Un1DKYCIHo0RPO5W8/30nAPYSmeigT6mywRBUXYmojMgcH7SFWdPLdPDTIGcU6KE3Ophw74/YYK/Astu1qOXs5W+ShdGChqtk8c3T5ohvsCmwl7nDPFReh21e4uwp0mNwrmbNB7/8F7ftkeU2+AeQcuoX2r16EuIASXFBs0p5rGUqqp5zSE7KK17wWReDq/DZ6MiO1nMq645kVCFiGcSaZCeUadgegQF7mJTFflHJ8cfLgQ042ZZlC23Uaof20ZQokzS4=;qhVkxM5sbVCIDtOU6d1+Zg=="
 ---
 
