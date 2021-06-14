@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-public-preview
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-early-june-2021/"
 type: article
 quality: 84
-heat: 84
+heat: 87
 published: true
 
 provider:

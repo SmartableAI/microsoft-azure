@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-maria
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-azure-defender-in-general-availability/"
 type: article
 quality: 84
-heat: 265
+heat: 266
 published: true
 
 provider:
