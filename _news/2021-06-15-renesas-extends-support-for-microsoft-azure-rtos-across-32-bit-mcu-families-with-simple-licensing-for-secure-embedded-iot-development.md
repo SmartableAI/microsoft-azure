@@ -71,20 +71,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
-    publishedDateTime: 2021-06-15T11:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
     excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
     publishedDateTime: 2021-06-08T14:20:00Z
@@ -199,6 +185,20 @@ related:
         width: 1616
         height: 846
         isCached: true
+  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Ardenna ( a leader in image processing and machine learning software that automatically extracts objective and"
+    publishedDateTime: 2021-06-15T11:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-830329300.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg?p=publish&p=facebook"
+        width: 1500
+        height: 845
+        isCached: true
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
     publishedDateTime: 2021-06-14T19:56:00Z
@@ -303,6 +303,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "zzo1CTbOr0r+5fDvO9KEo7Nzeu7oyvNGdtXQEVB54tLK5vqzKTQuJRaszri+N3SyDKA0eQ5ByZm/42iQy1efjgBGmYKBrIpsw0gdGjlZYpi4Tn8YQDOazovWppHYbL96LkEXc5OmwS4NemP5UDfesXTlsWdiDkYR+cc1SynK084vnJutpVhNTUde1dfx3OJHdoJsvsHN3q42iontZMgsCmt/DriMcDv45GpbmfqU0/OzosnPQucedqyKn64LH+BNDaKpIdYAcC3txOy2HHsseebrS+/zj3TgBophWWFsP+7TuNAAENly7cJ+WAUGsQ0korU0PVfTtMVN2GMpCU7aJOoLXg4TsgOpx2a7Muy5xKI=;eJJ8WAyAOB63bd+aBxlZHw=="
+secured: "YCUaobEH86FR+mVOqohs9bA6loNF/srO3LCgu0y4OM1kBQExwKtsQmfP/w8SudhEy977aSGxwhCmeVql5ExuGI2jV8vXTR8YfcAUvvv8F+I/fdlpXmoUb7mJPAzJ4pH5iPuL0aUSb7GFuC1uOIyHZnNtfITvbh9LLxagWN4vSkumC0cThAO2infFLHB3MkrSGtyM9GZhJBRNTp+54Sfz+u8togaROTMWxlU4ovSOipO4xGtBwuyM/j8J1jZq1u5VgPDHjo3iknA6VO3cCb7JB7mVx3TP/0kMJyxkJJi3HWUllLMJF8DbG/zbBlXoQBY7A68/iog0fiQb8UYYXdabmsYbHB29TLWVCf9HB8D79R3vZw2pVg65j4xxQoVbam5boEBPgvTkS05pA5/1YYQe6wcU3/yeyzyHWWB5YO9TBNpwEbpAo64+/mbman+7YXUw6nEWG9kaDt2Yr0elgaYDLhyTqtAlI3i/Ki+rudom5ixjwnEfaWaP7JI+QzxmQKj8dOJ2V6k+yDQqECoI0sOPnQ==;Mh9iMrLTEwygxQoDOdEccw=="
 ---
 
