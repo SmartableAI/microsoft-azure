@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Text Analytics' Named Entity Recognition v3 now supports 10 languages with improved AI quality"
-excerpt: "With support for more entity categories and more languages, using Text Analytics NER enables organizations to extract higher quality insights from unstructured text."
-publishedDateTime: 2021-01-30T01:00:01Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-ner-improved-ai-quality/"
-webUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-ner-improved-ai-quality/"
+title: "General availability: Support for SQL Server in data flows using Azure Data Factory & Azure Synapse"
+excerpt: "SQL Server is now available as a data flow source sink from your on-premises and VM-based instances in ADF and Synapse Analytics."
+publishedDateTime: 2021-06-14T22:23:56Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-announces-general-availability-for-sql-server-in-data-flows/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-announces-general-availability-for-sql-server-in-data-flows/"
 type: article
-quality: 63
+quality: 70
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - AI
   - Analytics
 
 related:
@@ -47,16 +46,16 @@ related:
         width: 432
         height: 415
         isCached: true
-  - title: "General availability: Support for SQL Server in data flows using Azure Data Factory & Azure Synapse"
-    excerpt: "SQL Server is now available as a data flow source sink from your on-premises and VM-based instances in ADF and Synapse Analytics."
-    publishedDateTime: 2021-06-14T22:23:56Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-announces-general-availability-for-sql-server-in-data-flows/"
+  - title: "General availability: Text Analytics' Named Entity Recognition v3 now supports 10 languages with improved AI quality"
+    excerpt: "With support for more entity categories and more languages, using Text Analytics NER enables organizations to extract higher quality insights from unstructured text."
+    publishedDateTime: 2021-01-30T01:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-ner-improved-ai-quality/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 70
+    quality: 63
 
-secured: "C9dLNuyzY9pPrTcLuc6cEf81r/m7+wD1JXxkIgCbMVDSriEd0YulPxciMQH8GJV7HzQunGT/csK6uYzoKndBxndRqiAjVCEFHyY/B3lh/KETHokZjbneGm4phl7xZjHecoqwGKUlbzWNkiSJHaCaG+JleSj/IQ6FYsngezQXvkALXAsDIkmVv2UUcQE2y2AwBsRBXmdN/r+RNIvsKUS6/1f4On7srtVF28Cv3J0U8TJxhzyV2TnRRqpka7dq/+zV+Qc6FzWw8e7KQ/PTnuXjxVMvNepurfZ6LJhEmTzbwRp3mgT1PQfVbnzcBKH04hzJ1AnqlEC5+sB8M/wjSiW0ER7hN9dENKBcBHFNqMVxyTE=;HG0odJ60wdDv9EqlYnUl4Q=="
+secured: "AnoykT0N4IMVDzdkOeuwJMRCOhEokkZRI+VzPyaZAKwkEWm+3e90G20ELapBe4SCUdMtEo7KM1F2NG9GXbdLsKY5vjQmSjxc4c6cbJwvRj/1hOQNRyqb27sZuivqrGCgzBXAoggdLbGrzQeo3gLIKdnkUO0/9ae1bM2b385jAcdAVhr+71b8exa96AYA5CIigMyHN0m/4cwWYUw6fCaBzuxiq8UaqOYt9QIXEvf3Qo0ZKqqO+bSLhc78tYSOZGA3sk91IhKvDK/6Z0el3Xequsw48cUWaXAocAyLNuT7Gq7XC6PWU5xWRpArlcpaePThzwOHfwCXs6EvcmGQ1ILQhs2fBPzwVxxC8ztmj+pWuAQ=;0zdvm3ItGYHXyfjxYFre/g=="
 ---
 

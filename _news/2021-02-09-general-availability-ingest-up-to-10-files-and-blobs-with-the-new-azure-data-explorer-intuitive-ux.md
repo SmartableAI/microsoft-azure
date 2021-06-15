@@ -37,6 +37,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 97
+  - title: "General availability: Support for SQL Server in data flows using Azure Data Factory & Azure Synapse"
+    excerpt: "SQL Server is now available as a data flow source sink from your on-premises and VM-based instances in ADF and Synapse Analytics."
+    publishedDateTime: 2021-06-14T22:23:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-announces-general-availability-for-sql-server-in-data-flows/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
   - title: "General availability: Text Analytics' Named Entity Recognition v3 now supports 10 languages with improved AI quality"
     excerpt: "With support for more entity categories and more languages, using Text Analytics NER enables organizations to extract higher quality insights from unstructured text."
     publishedDateTime: 2021-01-30T01:00:01Z
