@@ -4,6 +4,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-sql-edge.md",
+      "title": "Introduction to Azure SQL Edge",
+      "excerpt": "Azure SQL Edge is an optimized relational database engine geared for IoT and IoT Edge deployments. It provides capabilities to create a high-performance data storage and processing layer for IoT applications and solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-sql-edge/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sql-edge/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 5,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +69,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 15994,
-            "average": 4.7617855
+            "count": 16000,
+            "average": 4.76175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -79,8 +114,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 13211,
-            "average": 4.636742
+            "count": 13215,
+            "average": 4.6367764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +157,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 11569,
-            "average": 4.768692
+            "count": 11575,
+            "average": 4.768639
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +200,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 16155,
-            "average": 4.7294955
+            "count": 16160,
+            "average": 4.7295175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -237,8 +272,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 16155,
-        "average": 4.7294955
+        "count": 16160,
+        "average": 4.7295175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -343,8 +378,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 11205,
-            "average": 4.7672467
+            "count": 11209,
+            "average": 4.7673297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -464,8 +499,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10653,
-            "average": 4.6768985
+            "count": 10654,
+            "average": 4.676929
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -529,8 +564,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 14981,
-        "average": 4.692544
+        "count": 14983,
+        "average": 4.692518
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -588,8 +623,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 6999,
-            "average": 4.717245
+            "count": 7002,
+            "average": 4.7173667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -813,8 +848,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 447,
-            "average": 4.706935
+            "count": 448,
+            "average": 4.707589
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -929,8 +964,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3923,
-            "average": 4.5495796
+            "count": 3924,
+            "average": 4.5494394
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1056,8 +1091,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3570,
-            "average": 4.6915965
+            "count": 3571,
+            "average": 4.691683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1130,8 +1165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 7035,
-            "average": 4.6834397
+            "count": 7036,
+            "average": 4.683485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1340,8 +1375,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 1044,
-            "average": 4.7442527
+            "count": 1045,
+            "average": 4.744498
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1440,8 +1475,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 16155,
-            "average": 4.7294955
+            "count": 16160,
+            "average": 4.7295175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1646,8 +1681,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/",
           "length": "PT56M",
           "ratings": {
-            "count": 103,
-            "average": 4.728155
+            "count": 104,
+            "average": 4.730769
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1946,8 +1981,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1914,
-            "average": 4.6807733
+            "count": 1915,
+            "average": 4.68094
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2275,8 +2310,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
           "length": "PT44M",
           "ratings": {
-            "count": 1313,
-            "average": 4.760853
+            "count": 1314,
+            "average": 4.761035
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2489,8 +2524,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 6999,
-            "average": 4.717245
+            "count": 7002,
+            "average": 4.7173667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3428,7 +3463,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-virtual-machines-social.png",
@@ -4173,8 +4208,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 3923,
-        "average": 4.5495796
+        "count": 3924,
+        "average": 4.5494394
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4280,56 +4315,6 @@
         "Azure",
         "Management Tools",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
-      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
-      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 1044,
-        "average": 4.7442527
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Web",
-        "Compute",
-        "Databases",
-        "Serverless",
-        "Containers",
-        "DevOps",
-        "Management Tools"
       ]
     }
   ],
