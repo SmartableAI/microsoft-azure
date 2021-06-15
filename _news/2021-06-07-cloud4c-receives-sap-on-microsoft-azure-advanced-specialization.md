@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-publishedDateTime: 2021-06-07T13:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
+excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
+publishedDateTime: 2021-06-07T09:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+    width: 1616
+    height: 846
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -178,6 +184,20 @@ related:
         width: 1616
         height: 846
         isCached: true
+  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Ardenna's Rail-Inspector is a SaaS offering, only available on Azure. \"Through the Microsoft Azure Marketplace, Rail-Inspector will have a broader exposure to domestic and international railroad track asset owners,"
+    publishedDateTime: 2021-06-15T11:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ardenna-rail-inspector-now-available-the-microsoft-azure-/2021/06/15/9390197.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
     publishedDateTime: 2021-06-14T19:56:00Z
@@ -273,6 +293,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "jFysVGX6UfDab1EsDH7OruTzu8SwckrO3g66pYzipjycYX1O5PGJhbN/aq1NYidVfFdZPyuQx4Ex/hw3I8+682YU4mmt7Of4/4+FONkcVxW33GfKB/JYeswM2tv8fGcpG/0siM56OC4nmHUflA1XefFUBpdLlGSzun1LtNil5BWLyIu6VN2R98nB/+X7cOH4Puc2EoPZDK+K7hwGGPHrVM09fiQcvX9Vxy4KukyRvCMCEgyj1vW0ExZO4TDJUQ3pZUZ/A8NiljUCNy54JKdiSBjrMMhqM5nhhhyQoAZArnM5rORcBNUFogTJ7Xkm3dO1M2M1nR5Z/8a2mWG5+HATtGx2fXb/XioELIgPnVjFX98=;/RPvQyTmCx+snI5Y3mU9OQ=="
+secured: "8yV5S5VpCVkk5MHa51jXOOsl50Lz/fAX+FeQa3F/+NxHhk0DBvx/L4khGQzjsRL4Zajm3pT6TNovv7lEk9JfTt/evtnBFzS6v/9by7VnsZy8LSPAy2hbHENgAVFm3vuU/KYh/ln7qPxlgvQ7dTKWM3QaBlslWS/pW3jbJGzEN90W3eJTqSSv3PFG0yFzYIVXsmDte1qquORQ2kVfxHf4EdnQ6QsRXAn7v/4V158VP5rQ0NGvGuXDwrfM1qt2s2k+wD1twRM4jMlZVWqBE7LbhiwA2/Pffe8ChjmKvqX5a9qFXvjJ771BAg0Jv11DiQAlyZ21jrEO9wcFQ/URUlF58REISGtu+Ntpfow7A55qs8M=;sQvSs6gFB8z4sUfXG5uDXA=="
 ---
 

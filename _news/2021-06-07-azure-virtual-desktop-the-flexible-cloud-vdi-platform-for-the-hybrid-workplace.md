@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-virtual-desktop-the-desktop
 webUrl: "https://azure.microsoft.com/blog/azure-virtual-desktop-the-desktop-and-app-virtualization-platform-for-the-hybrid-workplace/"
 type: article
 quality: 85
-heat: 85
+heat: 87
 published: true
 
 provider:

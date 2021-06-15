@@ -1,29 +1,26 @@
 ---
 category: news
-title: "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement"
-excerpt: "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time."
-publishedDateTime: 2021-06-05T09:17:00Z
-originalUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/"
-webUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/"
-ampWebUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/"
-cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/"
+title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
+excerpt: "Ardenna's Rail-Inspector is a SaaS offering, only available on Azure. \"Through the Microsoft Azure Marketplace, Rail-Inspector will have a broader exposure to domestic and international railroad track asset owners,"
+publishedDateTime: 2021-06-15T11:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ardenna-rail-inspector-now-available-the-microsoft-azure-/2021/06/15/9390197.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ardenna-rail-inspector-now-available-the-microsoft-azure-/2021/06/15/9390197.htm"
 type: article
-quality: 64
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Dataquest
-  domain: dqindia.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-  - AI
 
 images:
-  - url: "https://www.dqindia.com/wp-content/uploads/2021/06/6CF52215-66AC-42DA-9307-7E975564CE3B.png"
-    width: 800
-    height: 598
+  - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -86,6 +83,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FMicrosoft-365-Windows-and-Azure.jpeg&signature=4473b14db4efb228b77123ed96a80077"
         width: 1280
         height: 640
+        isCached: true
+  - title: "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement"
+    excerpt: "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time."
+    publishedDateTime: 2021-06-05T09:17:00Z
+    webUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/"
+    ampWebUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 64
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/6CF52215-66AC-42DA-9307-7E975564CE3B.png"
+        width: 800
+        height: 598
         isCached: true
   - title: "NSW Police runs AI over evidence using Microsoft Azure"
     excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
@@ -185,20 +198,6 @@ related:
         width: 1616
         height: 846
         isCached: true
-  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Ardenna's Rail-Inspector is a SaaS offering, only available on Azure. \"Through the Microsoft Azure Marketplace, Rail-Inspector will have a broader exposure to domestic and international railroad track asset owners,"
-    publishedDateTime: 2021-06-15T11:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ardenna-rail-inspector-now-available-the-microsoft-azure-/2021/06/15/9390197.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
     publishedDateTime: 2021-06-14T19:56:00Z
@@ -294,6 +293,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "iVGm1WB2S2x59Uglkrnwf4+ovMbuQGYlOMJjmZw/UiY+HxrGK5DnGyG/kvWc4q3u157bwZs6GUBKg4CcdxJBYbsg0arfOCINC5DPL2fMj0yh9bQFdTVK30fBtSsCl6Q0mo7xARSYnU/QNrBX2ue8NKN0lYIOtmP45AZ407gexWmoijvo1lJAjVZBIFnnM6Hn4vV2+b7sZH3Q+bsXV+eStZ5m6gGfMO2fiWizHlMIks3wsvmvsHOz6s328o9Y7hCV9zJpjZaCaXD9VUk55vYZWP2dDPET62SjN/Z7OEE1akxeV9q4w9oddbWziZbKC1joi/YlERLhsi9KVdVpxBWO5NaAew2CEKv30lKcLAA+vz4wrFhz6yfPHiA5bTdh5awDXZSzlWsZtKtRI2g6iHlDA6Fgp7T68Q4i8d0VB3SinIXIM9CFGOGGpC/cVR+hbVYTb6nSANCdrCLZiHJGNPG0sPMkgGj7KkAwFRMRrqAfl6mf++gF7lWeQqOCp7XGho4CbobYYOoe78g/1FQ+obQZtg==;lghY1y41M39VmFl/e5a8kA=="
+secured: "do6pVd1car/Tekza308XxTx0IGP+VKbR7ICWyKNc9yGTI5Hjj+/qLCvfyeh9MfyKvvBdJLUnfWKPCCjTCO4Py3P72ZUacDMPavXX/uuhQXezoxgdjWS8It9uDXmY7+0kFMNK5hTkBEfwg1mXedohjI/oZntV8mlpYwVrEP/qtxDX+h+fJrl4VMQ0MUcm682gg3yo6KKgeRhtz6ioAszoAGxCh3JTZU7vx7ofCBNzYDJhGXDcKhZrfpB4jjbiJPP7DIL7uAk40OSlD1j02OTaAkSB0IheYHesxfhcCXpvWhlQDCYmE7H6rPSfmgpo7oXveSufNENP+3g3AV2YBGC4635chSvpKM1T2oJQ9+Rwwsc=;XFjL3DP6mFsez6KfqJZCjw=="
 ---
 

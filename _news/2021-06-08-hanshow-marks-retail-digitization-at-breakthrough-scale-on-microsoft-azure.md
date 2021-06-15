@@ -136,6 +136,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
+    excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
+    publishedDateTime: 2021-06-07T09:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+        width: 1616
+        height: 846
+        isCached: true
   - title: "Cloud4C Receives 'SAP On Microsoft Azure Advanced Specialization'"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true va"
     publishedDateTime: 2021-06-08T11:02:00Z
@@ -177,6 +191,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
         width: 1616
         height: 846
+        isCached: true
+  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Ardenna's Rail-Inspector is a SaaS offering, only available on Azure. \"Through the Microsoft Azure Marketplace, Rail-Inspector will have a broader exposure to domestic and international railroad track asset owners,"
+    publishedDateTime: 2021-06-15T11:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ardenna-rail-inspector-now-available-the-microsoft-azure-/2021/06/15/9390197.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
@@ -245,15 +273,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-    excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-    publishedDateTime: 2021-06-07T13:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"
     excerpt: "BBIX, a subsidiary of SoftBank that conducts an internet exchange business, has expanded the 'BIX Multi-Cloud' service coverage to Osaka Area starting with Microsoft Azure. BBIX Multi-Cloud for Microsoft Azure in now available in the Osaka area."
     publishedDateTime: 2021-06-11T09:02:00Z
