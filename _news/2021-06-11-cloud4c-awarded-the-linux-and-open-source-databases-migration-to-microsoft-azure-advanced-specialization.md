@@ -3,8 +3,8 @@ category: news
 title: "Cloud4C Awarded the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
 excerpt: "Cloud4C has been awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization. This stands as validation of Cloud4C's deep knowledge, extensive experience and proven expertise in migrating workloads running on Red Hat Enterprise Linux or SUSE virtual machines and/or utilizing MySQL,"
 publishedDateTime: 2021-06-11T11:41:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-awarded-linux-open-source-databases-migration-microsoft-/2021/06/11/9388837.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-awarded-linux-open-source-databases-migration-microsoft-/2021/06/11/9388837.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/11/9388837.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/11/9388837.htm"
 type: article
 quality: 17
 heat: -1
@@ -260,6 +260,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "cDUMB6BcqB1Q+MmXMfnVuRjPbPLTgP6wnnZ8yvPSyLxrfEZiFNT+t9vgK0tD4qQIxkcitJNSe+m8VeULtYuU4kb3/scg8y9DpAH2wFcxrh6a3gSxKanQr2xT5DKgArzoaMgOVJQmwIIBv+PMC/9RMH4H8P5ge7gh885nADdWqVSGXZxNVrV8qbKPVWR9s6n9IUYpAmn4Ky9TRXhJ7NbZ5qudIqLfk97rgsR+ueekgFdwDt/8vmBINYkkXW5ZLsrFHRzcs3zNCYU/eOpXblBUfXy4rcJmKWVJWJ2c6CCdzc94J9twsb7BPylVBe8L35WKKBBzusD1KOUXNih0iZbCo+q8Brdiuk9n/BF0iVFurxM=;NClYZoeCuyTSaqefXpwk2A=="
+secured: "tPEa8AomyX6zBLwOwo1tQnFOjTl/MYNNu9YnPZGPt71nwZhfJ5gLvu0oIW/8As4wU2eVZ2ouddhH8+5Hl0BqM1fl6lbHg5duUf9R2lQQKQlIyRrmWRHWXt/CJl0hPkiO7S/YP/fAskTUNos5DmEY6soHVP9dZL38Xvlch7bZkpA4maFlhwZ0Uj9SVQpV7bqQM0ek4qgCUXFBviIeMYtWrNx2WhE6nqUQ5dBbpvJREZjt131YKygGhOhW5cCan+D3igpaHQXEV8OlHzLWjBLBIK7Ny13JPSP7EH3x65VpZ5SvAYDWtEG8McQ9OhK1JF8NqCtZrXkdEqlVI3vu4XPLEI/m6NkxToLN8IJijqa7aLc=;bjHvPN3DOHLymkdJQAEmYg=="
 ---
 
