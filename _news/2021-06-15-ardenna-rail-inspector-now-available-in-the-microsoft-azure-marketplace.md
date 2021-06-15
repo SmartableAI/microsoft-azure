@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-excerpt: "Ardenna's Rail-Inspector is a SaaS offering, only available on Azure. \"Through the Microsoft Azure Marketplace, Rail-Inspector will have a broader exposure to domestic and international railroad track asset owners,"
-publishedDateTime: 2021-06-15T11:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ardenna-rail-inspector-now-available-the-microsoft-azure-/2021/06/15/9390197.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ardenna-rail-inspector-now-available-the-microsoft-azure-/2021/06/15/9390197.htm"
+excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
+publishedDateTime: 2021-06-15T11:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
+webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -142,20 +146,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-    excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
-    publishedDateTime: 2021-06-07T09:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
-        width: 1616
-        height: 846
-        isCached: true
   - title: "Cloud4C Receives 'SAP On Microsoft Azure Advanced Specialization'"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true va"
     publishedDateTime: 2021-06-08T11:02:00Z
@@ -265,6 +255,29 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
+    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
+    publishedDateTime: 2021-06-15T12:02:00Z
+    webUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_aaaaf413-cac8-5608-a19f-180153ad5954.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 23
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/5f/a5fa6bb3-b488-5885-85eb-b7c34123e627/60c89aae29b02.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
+    excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
+    publishedDateTime: 2021-06-07T13:57:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 17
   - title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"
     excerpt: "BBIX, a subsidiary of SoftBank that conducts an internet exchange business, has expanded the 'BIX Multi-Cloud' service coverage to Osaka Area starting with Microsoft Azure. BBIX Multi-Cloud for Microsoft Azure in now available in the Osaka area."
     publishedDateTime: 2021-06-11T09:02:00Z
@@ -293,6 +306,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "do6pVd1car/Tekza308XxTx0IGP+VKbR7ICWyKNc9yGTI5Hjj+/qLCvfyeh9MfyKvvBdJLUnfWKPCCjTCO4Py3P72ZUacDMPavXX/uuhQXezoxgdjWS8It9uDXmY7+0kFMNK5hTkBEfwg1mXedohjI/oZntV8mlpYwVrEP/qtxDX+h+fJrl4VMQ0MUcm682gg3yo6KKgeRhtz6ioAszoAGxCh3JTZU7vx7ofCBNzYDJhGXDcKhZrfpB4jjbiJPP7DIL7uAk40OSlD1j02OTaAkSB0IheYHesxfhcCXpvWhlQDCYmE7H6rPSfmgpo7oXveSufNENP+3g3AV2YBGC4635chSvpKM1T2oJQ9+Rwwsc=;XFjL3DP6mFsez6KfqJZCjw=="
+secured: "ybWpaHLZrWwyo6+GTfMQlrveFk1GCN1KbeCcnIawjeSSyAABr4XmoW1fzCyJlN9RKqbZQXt1oxdLpuyXg0C+FFGg8SZQv2Uyu+qjhqUhZtcLgOvT1Kd6VYVwPz4iY8rs7VJiAUJ2oKowG/u5hlClYKgYOjs3c7HsVMlv7onKEy9Zjnbgd8gv7YSIVcdDGHMIP2Oq7cXetNbnsB1ye7C5r95cOKVOht/m83SPxETwIL9WRED8kJ2kzoGOb++F7QVo0QY4l8jdqwJoBJ38geZBaCk965VLcJHr0B5gkEy/Nuus2oXEuPHc21idj9rSqFZTWuGhyWIELde+q7/xNI0MdIE1PChTvsJj6t1aUTeORy0=;FKtZ2cF8ZDnp9JeFyDm/GQ=="
 ---
 

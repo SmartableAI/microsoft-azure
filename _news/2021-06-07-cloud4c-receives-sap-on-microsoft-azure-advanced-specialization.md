@@ -2,26 +2,20 @@
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
 excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
-publishedDateTime: 2021-06-07T09:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
-webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+publishedDateTime: 2021-06-07T13:57:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
-    width: 1616
-    height: 846
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -69,6 +63,20 @@ related:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
+    publishedDateTime: 2021-06-15T11:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
     excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
@@ -184,20 +192,6 @@ related:
         width: 1616
         height: 846
         isCached: true
-  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Ardenna's Rail-Inspector is a SaaS offering, only available on Azure. \"Through the Microsoft Azure Marketplace, Rail-Inspector will have a broader exposure to domestic and international railroad track asset owners,"
-    publishedDateTime: 2021-06-15T11:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ardenna-rail-inspector-now-available-the-microsoft-azure-/2021/06/15/9390197.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
     publishedDateTime: 2021-06-14T19:56:00Z
@@ -265,6 +259,20 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
+    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
+    publishedDateTime: 2021-06-15T12:02:00Z
+    webUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_aaaaf413-cac8-5608-a19f-180153ad5954.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 23
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/5f/a5fa6bb3-b488-5885-85eb-b7c34123e627/60c89aae29b02.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"
     excerpt: "BBIX, a subsidiary of SoftBank that conducts an internet exchange business, has expanded the 'BIX Multi-Cloud' service coverage to Osaka Area starting with Microsoft Azure. BBIX Multi-Cloud for Microsoft Azure in now available in the Osaka area."
     publishedDateTime: 2021-06-11T09:02:00Z
@@ -293,6 +301,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "8yV5S5VpCVkk5MHa51jXOOsl50Lz/fAX+FeQa3F/+NxHhk0DBvx/L4khGQzjsRL4Zajm3pT6TNovv7lEk9JfTt/evtnBFzS6v/9by7VnsZy8LSPAy2hbHENgAVFm3vuU/KYh/ln7qPxlgvQ7dTKWM3QaBlslWS/pW3jbJGzEN90W3eJTqSSv3PFG0yFzYIVXsmDte1qquORQ2kVfxHf4EdnQ6QsRXAn7v/4V158VP5rQ0NGvGuXDwrfM1qt2s2k+wD1twRM4jMlZVWqBE7LbhiwA2/Pffe8ChjmKvqX5a9qFXvjJ771BAg0Jv11DiQAlyZ21jrEO9wcFQ/URUlF58REISGtu+Ntpfow7A55qs8M=;sQvSs6gFB8z4sUfXG5uDXA=="
+secured: "YmwCWTB5aRaQp3rsI528Hycep+glr9WV7DW2lfMcnp6ga+jeAZb/xmtb1GXFWPPRJ6UY7RIy4as2thr7LKg38O/KgCO4HAUR445in7vFo71mww6oCo6xmNhRX95J1wHFZ8luoPdzrvZT9QVq6XHd/WUTsY7UQIUD46wXCq75RZSSgZWtbYB2WD5Go6g2morHxuKSLGwUIJATCt0FaUi0N8UU0pk9YWtn3/5IBw4FUfx/mREZKfJXtbvKIUcEJdhu40CjURwZjhR+lVwhvUyIPwOoMkzFHFkxp6VRCQiBOz+VUuJYQBphkcs9ZH4ZP3lJ1UkHzrBz1IgR48SGzXgpwkaPACtIVrLulpy+zFbnGe0=;iaWL7qJDnMZFOmKn3eUIlQ=="
 ---
 

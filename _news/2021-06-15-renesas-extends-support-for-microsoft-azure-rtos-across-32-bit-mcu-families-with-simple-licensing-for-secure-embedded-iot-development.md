@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Microsoft Unveils Azure Virtual Desktop As New Name For WVD, Adds Management Features"
-excerpt: "Microsoft has renamed Windows Virtual Desktop (WVD) to Azure Virtual Desktop and announced more control via the Microsoft Endpoint Manager."
-publishedDateTime: 2021-06-08T00:12:00Z
-originalUrl: "https://www.crn.com/news/virtualization/microsoft-unveils-azure-virtual-desktop-as-new-name-for-wvd-adds-management-features"
-webUrl: "https://www.crn.com/news/virtualization/microsoft-unveils-azure-virtual-desktop-as-new-name-for-wvd-adds-management-features"
+title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
+excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
+publishedDateTime: 2021-06-15T12:02:00Z
+originalUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_aaaaf413-cac8-5608-a19f-180153ad5954.html"
+webUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_aaaaf413-cac8-5608-a19f-180153ad5954.html"
 type: article
-quality: 30
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
+  - IoT
 
 images:
-  - url: "https://www.crn.com/resources/026a-127769362b57-8ff94d6ce02b-1000/azure-virtual-desktop.jpg"
-    width: 609
-    height: 457
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/5f/a5fa6bb3-b488-5885-85eb-b7c34123e627/60c89aae29b02.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -226,6 +227,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Microsoft Unveils Azure Virtual Desktop As New Name For WVD, Adds Management Features"
+    excerpt: "Microsoft has renamed Windows Virtual Desktop (WVD) to Azure Virtual Desktop and announced more control via the Microsoft Endpoint Manager."
+    publishedDateTime: 2021-06-08T00:12:00Z
+    webUrl: "https://www.crn.com/news/virtualization/microsoft-unveils-azure-virtual-desktop-as-new-name-for-wvd-adds-management-features"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 30
+    images:
+      - url: "https://www.crn.com/resources/026a-127769362b57-8ff94d6ce02b-1000/azure-virtual-desktop.jpg"
+        width: 609
+        height: 457
+        isCached: true
   - title: "Microsoft and NetApp announce availability of Azure NetApp Files in the UAE North Region"
     excerpt: "The high-performance Azure NetApp Files (ANF) cloud file storage service is now available for data storage in the United Arab Emirates North region, located in Dubai. Azure NetApp Files is currently Microsoft Azure's fastest growing file service worldwide."
     publishedDateTime: 2021-06-13T08:23:00Z
@@ -250,20 +265,6 @@ related:
       - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/06/16x9/magnetforensics.60b773162031e.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 673
-        isCached: true
-  - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
-    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
-    publishedDateTime: 2021-06-15T12:02:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_aaaaf413-cac8-5608-a19f-180153ad5954.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 23
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/5f/a5fa6bb3-b488-5885-85eb-b7c34123e627/60c89aae29b02.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
     excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
@@ -302,6 +303,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "ernTm7hQlHmO5MBfmfqbN5s73URw4ilczaK5w5NeGKKzxbYWIAx2FQjqR6Qb9uH3ijyH/A4oYjCZozuZlhrVEA4QooUzvVvBUvVmO5aekJega4guNDiFMBdgLR8F0m3NfPwSrQhPfxS2w16ZTDwdDVsQUMQMSNZN/33N96pDolulUlvlS9Vwm6CqryDddNoC14CYBDLyZIDlk3CyIv2XBsvfuAFsz86FoIbPWK8NA91GWjaRNkTPaDrkpGNL6wzPkxdJGzUTMB0Jl7ePCVUHmsMGhJktl+6ipMGJeYGKzlmiqsXgoRWOlf8YBChx5UcowzVn4cHkVcJ1ugMJ+McGI+2oMCqZFoSBeEQxFGzsCKo=;OFjFXPWroSCxqJTDpnoKvQ=="
+secured: "zzo1CTbOr0r+5fDvO9KEo7Nzeu7oyvNGdtXQEVB54tLK5vqzKTQuJRaszri+N3SyDKA0eQ5ByZm/42iQy1efjgBGmYKBrIpsw0gdGjlZYpi4Tn8YQDOazovWppHYbL96LkEXc5OmwS4NemP5UDfesXTlsWdiDkYR+cc1SynK084vnJutpVhNTUde1dfx3OJHdoJsvsHN3q42iontZMgsCmt/DriMcDv45GpbmfqU0/OzosnPQucedqyKn64LH+BNDaKpIdYAcC3txOy2HHsseebrS+/zj3TgBophWWFsP+7TuNAAENly7cJ+WAUGsQ0korU0PVfTtMVN2GMpCU7aJOoLXg4TsgOpx2a7Muy5xKI=;eJJ8WAyAOB63bd+aBxlZHw=="
 ---
 
