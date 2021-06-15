@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-excerpt: "Ardenna ( a leader in image processing and machine learning software that automatically extracts objective and"
-publishedDateTime: 2021-06-15T11:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-830329300.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-830329300.html"
+excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
+publishedDateTime: 2021-06-15T11:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
+webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg?p=publish&p=facebook"
-    width: 1500
-    height: 845
+  - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -290,12 +294,12 @@ related:
         isCached: true
   - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-    publishedDateTime: 2021-06-07T08:30:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
+    publishedDateTime: 2021-06-07T13:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
   - title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"
     excerpt: "BBIX, a subsidiary of SoftBank that conducts an internet exchange business, has expanded the 'BIX Multi-Cloud' service coverage to Osaka Area starting with Microsoft Azure. BBIX Multi-Cloud for Microsoft Azure in now available in the Osaka area."
@@ -325,6 +329,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "S/V6qAWhcIsZVCYpdbNWc3CvsXU/VbGgfswHPQketfHXAfWTHYDlWAs8lwg+sSGoCurYQBw3FnRzeobQcX+Wjw8PEDaQ7zGShoWzUdMFAjMDw+gQU4s+5rcVPOLKQQ/FSc3U6Xo3JE6X1okojr8S07nqQF1ArK5mDAArKwT1fM+hbp9cwLsIwTWtNsGCQq023dfndSY+fFeZwXiSIFfefRXxF0nwF5zmc9rPF1E0syKc7W6mGfp51pyHN8FbxaNaHrI4woL1JOfmTLkpC0Bx9Lll13XMocJ+etiFE06twqqABBm+f03Z581oSY/lToaiosUqPHSXWsijR1UMuPjekeVe1geCTG9yH5JZco/OZ654u0D1+/Ci6RK1Ippc22tQzCFrHp9xQkjJWfIpnzO2I3xa6bBASJWUS4DmiMvSv5OyAp1KeffqLoUN4HwoVwsANd2bV1TNlWLJevWXCvJdnCI/1IOXX/uaUN6X8VBG9x37lmGFYn2OKz46kM1oOyXnU5l0DnPADTFnmKC8OVvQCw==;DPM9ablgA0HFGgkYHvdqaA=="
+secured: "77PZzbBwfKgzb7yA+9b1ClMJj0NDdkW+4xQP2ktHMWs4DUqEW71EDbNLOQ/qsoRI4mjG8Pj3el4ff4HQweWzTkWEFCg9TnhoiN5BG23zrtm8kSTUDTv00kMRjyrPkTNz2vNavJA2NmAfPGCbSkfhMAktN3bqe+b3Iq6IYX+XDdOcUh8pIsOT7Yj5NH5gNAE4QIP/Hq+85OgaksUmGenMJi5U18CrTwbUU22NYsENcNCyalIvOPBkE3IrDsTQojO+dwOYOPlvAv/KTMbZJtlGQ4LSm9EzCxa88QkeDnXWrHbu9FqfWCR0O9fZIklSzlkQy7pOhBO2Wp3TFO962lpA8Afj07hkWoxBnlvxnhruA+0=;fED1i4sjnEuSU5LCCjdQTg=="
 ---
 

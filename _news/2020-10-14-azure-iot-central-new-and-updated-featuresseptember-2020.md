@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-featur
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-september-2020/"
 type: article
 quality: 104
-heat: 304
+heat: 324
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/86fdc786-9af7-434c-8d27-d92a21d6b7ac.png"
         width: 448
         height: 299
+        isCached: true
+  - title: "General availability: Azure IoT Central new and updated features—May 2021"
+    excerpt: "May updates include device template DTDL editing, displaying external content on dashboards, other UI and doc enhancements, and CDE parity with CDE v1."
+    publishedDateTime: 2021-06-15T18:06:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-may-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 103
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/164c2542-bf9a-4bf2-a0c5-ba75e00a7206.png"
+        width: 729
+        height: 496
         isCached: true
   - title: "General availability: Azure IoT Central new and updated features—March 2021"
     excerpt: "March updates include jobs, data export, monitoring, and documentation improvemnets."

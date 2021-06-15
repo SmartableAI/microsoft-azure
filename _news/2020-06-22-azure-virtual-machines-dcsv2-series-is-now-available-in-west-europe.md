@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Virtual Machines DCsv2-series are now available in Australia"
+    excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in Australia"
+    publishedDateTime: 2021-06-15T18:15:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-australia/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "New DCsv2-series virtual machines are now available"
     excerpt: ""
     publishedDateTime: 2020-04-27T19:00:00Z

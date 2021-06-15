@@ -2,17 +2,17 @@
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
 excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-publishedDateTime: 2021-06-07T08:30:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
+publishedDateTime: 2021-06-07T13:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -63,6 +63,20 @@ related:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
+    publishedDateTime: 2021-06-15T11:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
     excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
@@ -201,20 +215,6 @@ related:
         width: 1616
         height: 846
         isCached: true
-  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Ardenna ( a leader in image processing and machine learning software that automatically extracts objective and"
-    publishedDateTime: 2021-06-15T11:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-830329300.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg?p=publish&p=facebook"
-        width: 1500
-        height: 845
-        isCached: true
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
     publishedDateTime: 2021-06-14T19:56:00Z
@@ -324,6 +324,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "asm4MxgB0vYqTXMy5j1hMFR36oPsFaT6hEMK84CKtLUSVUC/V8lfIFsqhMSImajOt7RsxroCT9CrYvIv/fzNLyymD7QlrsNsFgC9d7JmJbtKtVOeCGrub1mE4ahVcfgM87QRBpFO4C0+RHI2mr5NKCL3kAWFMbE5XsM1KXhcf+UU/AhVWfrjY6XfOwvEQRLSPH68xkSY+CDukBN489IrWeZoLRYOYkKAf9Qa+kAGdL1OeFieqj/UlFvPXINKZoL8b5KC/OgMRSTChG8BI52NMX1ztBvsFNt9fCsLP2DQFlNKRFfFqOvTHXg/BsbtWav49Kv2DLDaFK4UNKiKfem9rgKr1eqOKen7wUrtsf6ETNM=;VduEZeHw4vKP9Rva5JoGhw=="
+secured: "KK/CQTe9TR+CZ40E/obB4t6PXRj8I4aP66PeBZD7rbN/z3wT+1aPK9YUKzHpEuUj6oHPb322HMEA1Bet3vBozsQ08xJRNkHc5W69cWmJlhYT2Z3X9aiJ/ng5pRV/UOhHAKgxwH+egolBJDoVn9i+nempR8i3iPrnCui2GO7JQ2xcPECipi2koqMvzDFJoVAEwJMv4o9yG/Zush/7ytWx/8Cqtb0KNTGEXWqhTgoRstBzuwN/1vU6nKv8sBQvMkwFK14m8Fy3VHp4qLpSwX8QAoTWXnfjnLKL1Ndk6jqFrXyU52tS/BVLBl5g2sgU9b6ng5Zm4t0HrpLPIDSmzIin5YJRN7/HQ50ROom3HWAwJr0=;B76o2XEbBgepaO3sp4c/RQ=="
 ---
 

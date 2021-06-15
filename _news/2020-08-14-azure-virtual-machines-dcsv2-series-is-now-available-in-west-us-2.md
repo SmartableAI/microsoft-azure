@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-14T03:11:14Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-us2/"
 type: article
 quality: 67
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -34,6 +34,15 @@ related:
     excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, Canada East, Southeast Asia, UK South, West Europe, and West US 2."
     publishedDateTime: 2020-09-11T20:44:54Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-southeast-asia/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Virtual Machines DCsv2-series are now available in Australia"
+    excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in Australia"
+    publishedDateTime: 2021-06-15T18:15:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-australia/"
     type: article
     provider:
       name: Microsoft

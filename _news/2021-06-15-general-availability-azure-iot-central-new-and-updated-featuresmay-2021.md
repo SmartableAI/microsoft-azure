@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure IoT Central new and updated features—January 2021"
-excerpt: "January updates include jobs improvements, new API features, new data export features, and documentation enhancements."
-publishedDateTime: 2021-02-05T18:00:28Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-january-2021/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-january-2021/"
+title: "General availability: Azure IoT Central new and updated features—May 2021"
+excerpt: "May updates include device template DTDL editing, displaying external content on dashboards, other UI and doc enhancements, and CDE parity with CDE v1."
+publishedDateTime: 2021-06-15T18:06:13Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-may-2021/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-may-2021/"
 type: article
-quality: 104
+quality: 103
 heat: -1
 published: false
 
@@ -23,9 +23,9 @@ topics:
   - IoT
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/86fdc786-9af7-434c-8d27-d92a21d6b7ac.png"
-    width: 448
-    height: 299
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/164c2542-bf9a-4bf2-a0c5-ba75e00a7206.png"
+    width: 729
+    height: 496
     isCached: true
 
 related:
@@ -57,19 +57,19 @@ related:
         width: 918
         height: 650
         isCached: true
-  - title: "General availability: Azure IoT Central new and updated features—May 2021"
-    excerpt: "May updates include device template DTDL editing, displaying external content on dashboards, other UI and doc enhancements, and CDE parity with CDE v1."
-    publishedDateTime: 2021-06-15T18:06:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-may-2021/"
+  - title: "Azure IoT Central new and updated features—January 2021"
+    excerpt: "January updates include jobs improvements, new API features, new data export features, and documentation enhancements."
+    publishedDateTime: 2021-02-05T18:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-january-2021/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 103
+    quality: 104
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/164c2542-bf9a-4bf2-a0c5-ba75e00a7206.png"
-        width: 729
-        height: 496
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/86fdc786-9af7-434c-8d27-d92a21d6b7ac.png"
+        width: 448
+        height: 299
         isCached: true
   - title: "General availability: Azure IoT Central new and updated features—March 2021"
     excerpt: "March updates include jobs, data export, monitoring, and documentation improvemnets."
@@ -154,6 +154,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "KEE2TP8jcq/TQ7bvChICHcoK5FdzQ2YBB1BDaxpXr18axBNSuGAoyPTvaV8pPEtns6sUPbR8MyPRvNo2046Sln1gJdQuNuQFDHVj1B8CH0lkBLkEQOWAwDFeMCJ1hv3qIk4OJVCqsLw4Ff/Sn7mQr0L90j6N9cFRwZ+bm826xYubiV7Dx8xJm2BbS/nUom97CTVJEUn/zfemPysKndvbEbBSjbqCxlTXOdpKrdgguGta2dwC43izkMUsI70nlM0yDRpfMM/tex0rKxw1oCMjnsgT6P2b8k5ppBRuFk/6z7ygEUaAZp9iaeWGrPchmuTtRNRXZifHM5MykZQ06w9VEiC2nbQgRHI+ZTUC58tzkc4=;0Simsgzv/s9+tU4e9DcoeA=="
+secured: "+3mIYyxolCRRycVW8ztYSGVmwo4ul8t0EdYMD66IXZJUXaAz2Jbcpvhp6kZunGyFoy2QOyQ3Bc5gDN59heAJf5Ab2yZamwFKQl2H+xIXkZ+RxvqTczhebJf9qOAN/6peA3oqU2REwtdUD5SNSrdplFD3V3V2hcm/+FJEM7vsCJxX5f9/HQYcSgj8ka82UrLWW2XHuiqhUpEx7SG4ezQA2veKrSfC2/dLrGipiCHuKMyBRuNEWlZlcZfiNuooyWnSxbgrLVm9ecpzw8ZFhJJXChro83dvYJF0p/F+UoRL8MSIo9T1X27ZeRsWHFc3fJMax3bQ7SDAUrPctxPu2JnjujM7u9wltghk1Ji6hZiII5g=;YgA4GxzvowoezWcpNW8T7A=="
 ---
 
