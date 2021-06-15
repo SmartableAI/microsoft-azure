@@ -1,35 +1,45 @@
 ---
 category: news
-title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
-excerpt: "Danny Chen is a clean-cut non-corduroy-wearing software architect working in Microsoft’s game experiences team."
-publishedDateTime: 2021-06-11T10:26:00Z
-originalUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/"
-webUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/"
-ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/amp/"
+title: "Renesas extends support for Microsoft Azure RTOS across 32-bit MCU families"
+excerpt: "Renesas Electronics has said that all customers designing with mainstream Renesas 32-bit MCU families will now have access to the Microsoft Azure Real-Time Operating System (RTOS) embedded development suite."
+publishedDateTime: 2021-06-15T07:58:00Z
+originalUrl: "https://www.newelectronics.co.uk/electronics-news/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families/238040/"
+webUrl: "https://www.newelectronics.co.uk/electronics-news/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families/238040/"
 type: article
-quality: 97
-heat: 481
-published: true
+quality: 35
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New Electronics
+  domain: newelectronics.co.uk
 
 topics:
   - Azure
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c337a97be7f205231fea8c%2F0x0.jpg"
-    width: 640
-    height: 366
+  - url: "https://www.newelectronics.co.uk/article-images/238040/renesas.jpg?width=375&height=250&scale=canvas"
+    width: 375
+    height: 250
     isCached: true
 
 related:
+  - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
+    excerpt: "Danny Chen is a clean-cut non-corduroy-wearing software architect working in Microsoft’s game experiences team."
+    publishedDateTime: 2021-06-11T10:26:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 97
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c337a97be7f205231fea8c%2F0x0.jpg"
+        width: 640
+        height: 366
+        isCached: true
   - title: "Microsoft rebrands WVD as 'Azure Virtual Desktop'; adds new app-streaming pricing option"
     excerpt: "Microsoft is broadening the charter of its Windows Desktop Virtualization service and simultaneously changing the name of this Azure-based service to 'Azure Virtual Desktop.'"
     publishedDateTime: 2021-06-07T06:03:00Z
@@ -188,20 +198,6 @@ related:
         width: 1280
         height: 721
         isCached: true
-  - title: "Renesas extends support for Microsoft Azure RTOS across 32-bit MCU families"
-    excerpt: "Renesas Electronics has said that all customers designing with mainstream Renesas 32-bit MCU families will now have access to the Microsoft Azure Real-Time Operating System (RTOS) embedded development suite."
-    publishedDateTime: 2021-06-15T07:58:00Z
-    webUrl: "https://www.newelectronics.co.uk/electronics-news/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families/238040/"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 35
-    images:
-      - url: "https://www.newelectronics.co.uk/article-images/238040/renesas.jpg?width=375&height=250&scale=canvas"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Microsoft Unveils Azure Virtual Desktop As New Name For WVD, Adds Management Features"
     excerpt: "Microsoft has renamed Windows Virtual Desktop (WVD) to Azure Virtual Desktop and announced more control via the Microsoft Endpoint Manager."
     publishedDateTime: 2021-06-08T00:12:00Z
@@ -278,6 +274,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "xNqj/vwPqCsckqKg8tOol6Rvqso+rh2fviFuXh5l55tb4Ac2Kf78p5R7NIambjQ7bCaO/zjS6mDJ8Gb2//sSVuq7/BxFQ6qlr/+GPpcX6rWlI/vgp//dmCoxKjhvkh0ni+wBx1g58DaDIbIKcLhacHMRU7oNgMElADetUMAdCHjNnEzv5LRPGmFiUDgF5SjADdMggDO2M3V6xhKBiULgaZKvF6T6A0v1SOqrYONBTZx4JyY1Y0ORuG/UAnJqleVAR9t4RLBDNGMYHdMMgP13a3EfTkpm2MvzwFjzUU7k+jJ/hgRhvn5m1CmqETluSR46cv78Dpm437JJoiRRdcVSO8Thw7iBDiYZ8rud2LhBlWlZ/yDHT6ct5CtefH1yXhww4BUhw0C3DlL+cu5GfQjuJMPYbspjnTvEQjm7iOdQV0ZY5HL1SxEoeP0We50TForCiknKeB/u9qiXanBEwW1bxodxhglzxq/CLJj6qC240V2HIQ5xjk/Bb7etCgbjelAli+i4x2d1VjR4ZaJs2NBshQ==;tRVmbO/Lpu1uxOpbstASLg=="
+secured: "AmdJ6R6M3MjR4D6EoUvb0krXHCCcKFF+/xq+H/0LQ4D7hkxcD+czWIPlqULmMBriukZTSaV5E+fb/nJkSpHQ3/t4Yn8RKBZWDDiSbD0Gsh0XIrQbTmKTMFpMSqHXVPVxmNvydrDHZQRD1jvDW/n9uzlTax4QMYuN9xxJeYWjixSHDPmZ442NN1YA2wWracaY86c4yZjTPuPR5MGmJ8LxNd5HaaRXonC938I09aYh8JKWUuZ5l2BF8KUYBGYcYpwAzKwjbRUTKHaygCQF26gAD6moPyiPAJMHoVNqYyyXK7KoiMItCkTs/2I08m67J39kZVP9ExXJoKZbg6Klf0sxLUCRTT1X5ewyYkLfySo0pj0=;lvL7GkAKgj+LBCkNw2GfFw=="
 ---
 

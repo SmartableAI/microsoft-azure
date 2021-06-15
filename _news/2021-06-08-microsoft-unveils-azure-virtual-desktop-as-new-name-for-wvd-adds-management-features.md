@@ -198,6 +198,20 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "Renesas extends support for Microsoft Azure RTOS across 32-bit MCU families"
+    excerpt: "Renesas Electronics has said that all customers designing with mainstream Renesas 32-bit MCU families will now have access to the Microsoft Azure Real-Time Operating System (RTOS) embedded development suite."
+    publishedDateTime: 2021-06-15T07:58:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families/238040/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 35
+    images:
+      - url: "https://www.newelectronics.co.uk/article-images/238040/renesas.jpg?width=375&height=250&scale=canvas"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Microsoft and NetApp announce availability of Azure NetApp Files in the UAE North Region"
     excerpt: "The high-performance Azure NetApp Files (ANF) cloud file storage service is now available for data storage in the United Arab Emirates North region, located in Dubai. Azure NetApp Files is currently Microsoft Azure's fastest growing file service worldwide."
     publishedDateTime: 2021-06-13T08:23:00Z
