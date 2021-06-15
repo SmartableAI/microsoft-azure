@@ -4,6 +4,90 @@
   "page": 46,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-run-quantum-algorithms-hardware.md",
+      "title": "Run algorithms on quantum hardware by using Azure Quantum",
+      "excerpt": "Get started with quantum computing on Azure Quantum and learn how create and run Q# quantum programs on quantum computers on the cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-quantum-algorithms-hardware/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-algorithms-quantum-hardware-azure-quantum/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 23,
+        "average": 4.6086955
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-rust-automated-tests.md",
+      "title": "Write automated tests",
+      "excerpt": "Learn about the types of testing you can do with Rust.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-rust-automated-tests/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-automated-tests/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 65,
+        "average": 4.4615383
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/rust-automated-tests-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-rust-create-command-line-program.md",
       "title": "Build a command-line to-do list program",
       "excerpt": "Create a Rust command-line program to manage to-do list items.",
@@ -1194,82 +1278,6 @@
         "Azure",
         "Compute",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-simplify-cloud-procurement-governance-azure-marketplace.md",
-      "title": "Simplify cloud procurement and governance with Azure Marketplace",
-      "excerpt": "Overview of using Azure Marketplace for cloud procurement and governance for customers",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-simplify-cloud-procurement-governance-azure-marketplace/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/simplify-cloud-procurement-governance-azure-marketplace/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 34,
-        "average": 4.9117646
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-simulate-distribution-regression-coefficients.md",
-      "title": "Simulate the distribution of regression coefficients",
-      "excerpt": "Learn",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-simulate-distribution-regression-coefficients/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/simulate-distribution-regression-coefficients/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 76,
-        "average": 4.736842
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

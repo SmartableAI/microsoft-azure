@@ -4,6 +4,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
+      "title": "Secure your Azure Storage account",
+      "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 10656,
+        "average": 4.6769896
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
       "title": "Connect an app to Azure Storage",
       "excerpt": "Create a simple application and add configuration, client library references, and C# or JavaScript code to connect it to Azure Storage.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 6356,
-        "average": 4.635148
+        "count": 6357,
+        "average": 4.6352053
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -55,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 5172,
-        "average": 4.739559
+        "count": 5173,
+        "average": 4.7396097
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -101,8 +144,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 3599,
-        "average": 4.7427063
+        "count": 3600,
+        "average": 4.742778
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -145,8 +188,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
       "length": "PT58M",
       "ratings": {
-        "count": 6019,
-        "average": 4.7027745
+        "count": 6020,
+        "average": 4.7026577
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -527,7 +570,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 140,
+          "heat": 60,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
@@ -689,8 +732,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 4188,
-        "average": 4.5434575
+        "count": 4189,
+        "average": 4.5435667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1018,8 +1061,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 2107,
-        "average": 4.27907
+        "count": 2108,
+        "average": 4.2779884
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1346,45 +1389,6 @@
         "Databases",
         "Storage",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday.md",
-      "title": "Bring compute, storage, and intelligence to the edge with Azure Stack Edge | Azure Friday",
-      "excerpt": "Dipti Pai joins Scott Hanselman to show how to run containerized and VM workloads to get quick, actionable insights at the edge—where data is created—using purpose-built hardware-as-a-service with Azure Stack Edge.  0:00 – Overview 0:55 – What is Azure Stack Edge? 4:09 – Azure Stack Edge in the house",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=RHec5lNuYqQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RHec5lNuYqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M27S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-16T11:17:57-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RHec5lNuYqQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

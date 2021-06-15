@@ -4,6 +4,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
+      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
+      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 1047,
+        "average": 4.7449856
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases",
+        "Serverless",
+        "Containers",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-cosmos-db-for-scale.md",
       "title": "Create an Azure Cosmos DB database built to scale",
       "excerpt": "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows.",
@@ -11,8 +61,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
       "length": "PT35M",
       "ratings": {
-        "count": 4432,
-        "average": 4.6583934
+        "count": 4433,
+        "average": 4.6584706
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -47,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 2107,
-        "average": 4.27907
+        "count": 2108,
+        "average": 4.2779884
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -292,8 +342,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 5577,
-        "average": 4.666846
+        "count": 5578,
+        "average": 4.6665473
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -407,8 +457,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-mutable-and-partial-data-in-a-redis-cache/",
       "length": "PT1H5M",
       "ratings": {
-        "count": 882,
-        "average": 4.654195
+        "count": 883,
+        "average": 4.654587
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -626,8 +676,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-sql-server-query-plans/",
           "length": "PT54M",
           "ratings": {
-            "count": 716,
-            "average": 4.7444134
+            "count": 717,
+            "average": 4.74477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1076,8 +1126,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
       "length": "PT38M",
       "ratings": {
-        "count": 2523,
-        "average": 4.6888623
+        "count": 2524,
+        "average": 4.6885896
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1162,8 +1212,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-sql-server-query-plans/",
       "length": "PT54M",
       "ratings": {
-        "count": 716,
-        "average": 4.7444134
+        "count": 717,
+        "average": 4.74477
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1369,8 +1419,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 1563,
-        "average": 4.488164
+        "count": 1564,
+        "average": 4.488491
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1439,51 +1489,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-data-at-rest.md",
-      "title": "Introduction to securing data at rest on Azure",
-      "excerpt": "Identify the data in your organization and store it on Azure. Store secrets securely, and use client-side encryption and Storage Service Encryption to help protect your data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-data-at-rest/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-at-rest/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 362,
-        "average": 4.70442
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-data-at-rest-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Storage",
-        "Security"
       ]
     }
   ],

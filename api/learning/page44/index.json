@@ -4,6 +4,92 @@
   "page": 44,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-plan-your-hybrid-requirements-for-your-microsoft-365-deployment.md",
+      "title": "Plan your hybrid requirements for your Microsoft 365 deployment",
+      "excerpt": "Plan your hybrid requirements for your Microsoft 365 deployment",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-your-hybrid-requirements-for-your-microsoft-365-deployment/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-hybrid-requirements-for-your-microsoft-365-deployment/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 11,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-plan-your-identity-authentication-solution-for-microsoft-365.md",
+      "title": "Plan your identity and authentication solution for Microsoft 365",
+      "excerpt": "Plan your identity and authentication solution for Microsoft 365",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-your-identity-authentication-solution-for-microsoft-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-identity-authentication-solution-for-microsoft-365/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 13,
+        "average": 4.8461537
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/plan-your-identity-and-authentication-solution-for-microsoft-365-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-plan-your-premises-infrastructure-for-microsoft-365.md",
       "title": "Plan your on-premises infrastructure for Microsoft 365",
       "excerpt": "Plan your on-premises infrastructure for Microsoft 365",
@@ -140,8 +226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-sap-solutions/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 304,
-        "average": 4.8026314
+        "count": 305,
+        "average": 4.803279
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -394,8 +480,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-migrate-sap-workloads/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 380,
-        "average": 4.786842
+        "count": 381,
+        "average": 4.7874017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -436,8 +522,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/process-streaming-data-azure-databricks-structured-streaming/",
       "length": "PT46M",
       "ratings": {
-        "count": 156,
-        "average": 4.5897436
+        "count": 157,
+        "average": 4.585987
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1176,92 +1262,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-qsharp-explore-key-concepts-quantum-computing.md",
-      "title": "Explore the key concepts of quantum computing by using Q#",
-      "excerpt": "Learn the fundamental concepts of quantum computing by using tools in Q# and the Quantum Development Kit.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-qsharp-explore-key-concepts-quantum-computing/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/qsharp-explore-key-concepts-quantum-computing/",
-      "length": "PT58M",
-      "ratings": {
-        "count": 92,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/quantum/qsharp-explore-key-concepts-quantum-computing-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics.md",
-      "title": "Query Azure Cosmos DB with Apache Spark for Azure Synapse Analytics",
-      "excerpt": "Query Azure Cosmos DB with Apache Spark for Azure Synapse Analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 41,
-        "average": 4.731707
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "Databases"
       ]
     }
   ],

@@ -4,6 +4,94 @@
   "page": 14,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-describe-identity-protection-governance-capabilities-of-azure-ad.md",
+      "title": "Describe the identity protection and governance capabilities of Azure AD",
+      "excerpt": "Describe the identity protection and governance capabilities of Azure AD",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-identity-protection-governance-capabilities-of-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-protection-governance-capabilities/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 267,
+        "average": 4.8277154
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-the-identity-protection-and-governance-capabilities-of-azure-ad-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
+      "title": "Design a holistic monitoring strategy on Azure",
+      "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
+      "length": "PT57M",
+      "ratings": {
+        "count": 2721,
+        "average": 4.6313853
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio.md",
       "title": "Develop, test, and deploy an Azure Function with Visual Studio",
       "excerpt": "Use Visual Studio together with a test framework to create, deploy, and test an Azure Function.",
@@ -220,8 +308,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/",
       "length": "PT36M",
       "ratings": {
-        "count": 351,
-        "average": 4.7492876
+        "count": 352,
+        "average": 4.747159
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -305,8 +393,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "PT53M",
       "ratings": {
-        "count": 2874,
-        "average": 4.68302
+        "count": 2875,
+        "average": 4.6817393
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -595,8 +683,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/",
       "length": "PT35M",
       "ratings": {
-        "count": 3462,
-        "average": 4.5300403
+        "count": 3463,
+        "average": 4.530176
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1019,8 +1107,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/",
       "length": "PT50M",
       "ratings": {
-        "count": 2544,
-        "average": 4.671384
+        "count": 2546,
+        "average": 4.671642
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1172,84 +1260,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-event-hubs-for-apache-kafka-azure-friday.md",
-      "title": "Azure Event Hubs for Apache Kafka | Azure Friday",
-      "excerpt": "Shubha Vijayasarathy joins Scott Hanselman to discuss Azure Event Hubs, which makes data ingestion simple, secure, and scalable. As a distributed streaming platform, Event Hubs enables you to stream your data from any source—storing and processing millions of events per second— so you can build dynamic",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-event-hubs-for-apache-kafka-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-event-hubs-for-apache-kafka-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=m3UEDhVYc-Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m3UEDhVYc-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M4S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T16:57:20-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/m3UEDhVYc-Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday.md",
-      "title": "Deploy your Web App in Windows Containers on Azure App Service | Azure Friday",
-      "excerpt": "Windows Container support is available in preview in Azure App Service. By deploying applications via Windows Containers in Azure App Service you can install your dependencies inside the container, call APIs currently blocked by the Azure App Service sandbox and use the power of containers to migrate",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=Fe_AYBD5m0I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Fe_AYBD5m0I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M48S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-10T08:31:31-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Fe_AYBD5m0I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Containers"
       ]
     }
   ],
