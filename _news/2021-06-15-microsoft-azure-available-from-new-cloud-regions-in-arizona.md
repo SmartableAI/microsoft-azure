@@ -1,27 +1,25 @@
 ---
 category: news
-title: "Microsoft Azure Vs. AWS: 5 Partners On Why Azure Is ‘Superior’"
-excerpt: "In comparing Microsoft Azure vs. AWS, partners told CRN that the Azure cloud platform offers unique cloud services and hybrid cloud capabilities from the AWS cloud."
-publishedDateTime: 2021-06-10T16:53:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-azure-vs-aws-5-partners-on-why-azure-is-superior-"
-webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-azure-vs-aws-5-partners-on-why-azure-is-superior-"
+title: "Microsoft Azure available from new cloud regions in Arizona"
+excerpt: "Azure is now available from our newest sustainable datacenter region West US 3 in Arizona. "
+publishedDateTime: 2021-06-15T16:00:00Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-generally-available-from-new-cloud-regions-in-arizona/"
+webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-generally-available-from-new-cloud-regions-in-arizona/"
 type: article
-quality: 37
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.crn.com/resources/026a-127cd4fdfd91-b71b3bf1f228-1000/microsoft-azure-vs-aws.jpg"
-    width: 610
-    height: 457
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -84,15 +82,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft Azure available from new cloud regions in Arizona"
-    excerpt: "Azure is now available from our newest sustainable datacenter region West US 3 in Arizona. "
-    publishedDateTime: 2021-06-15T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-generally-available-from-new-cloud-regions-in-arizona/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Expanding cloud services: Microsoft launches its sustainable datacenter region in Arizona"
     excerpt: "Today we are launching our newest sustainable datacenter region in Arizona, known as “West US 3.” Datacenters are today’s engine for modern business, providing organizations of all sizes the cloud services and tools to innovate, collaborate, and operate securely and efficiently at scale. We build datacenters"
     publishedDateTime: 2021-06-15T09:00:00Z
@@ -178,6 +167,20 @@ related:
       - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Microsoft Azure Vs. AWS: 5 Partners On Why Azure Is ‘Superior’"
+    excerpt: "In comparing Microsoft Azure vs. AWS, partners told CRN that the Azure cloud platform offers unique cloud services and hybrid cloud capabilities from the AWS cloud."
+    publishedDateTime: 2021-06-10T16:53:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-azure-vs-aws-5-partners-on-why-azure-is-superior-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/026a-127cd4fdfd91-b71b3bf1f228-1000/microsoft-azure-vs-aws.jpg"
+        width: 610
+        height: 457
         isCached: true
   - title: "Cloud4C Awarded the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Cloud4C has been awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization. This stands as validation"
@@ -325,6 +328,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "ns/et3k2khsy0z30Dj/sTSWoPYC1Djd+2BZoEp2NiIpRWmnAWNOptAy8Kw7sVyHiXbi3zOT2MEInFjh4GnwWF2cXQFiCZuzd0Zu6vwgaeD6NHRR0cTvKk4Y9fJw6CFpfwXkSueqcHKqiirUnV7oJeSM1eXa5cg3wX5e/Y08wX0BeoIt3kWS9B91aOQ8hw/mad1lqmNI4Hs9vdQ2Yj9R2NyISuSFk3dxFxZQFtNTPhW+y05ZeWRUs//F4qf0N7/2PRphiJVGUFlDua2fmgMQQNLWooPp1d8VWnjKuzZPuxu+g701tI9vIM/mfNW3TjVglPcDgO1NA2llN/JNkd7Syc4iHNb21ILQX//acGUE4E5G2IiUvXruTRdmeHuRCqKfieEGAIFDhVy48bAx//0a+Y6367JISo/vAIcQByjR2fTqTeHsH+JOFTIbX2ZzKf+JW5RlUzp+4jp6gOSf2+HySlea5A9f+7QoTOUdKVrVuAnXBGOnNMKwFgho9OkVspWWpnYy887Jo+b5PSzwq/9nUgw==;tQDsIn+1lhevqwFFrpppGw=="
+secured: "Tl2mk0AcUzyahTK/j7wiypQ0C1DSLlg8jc5OH8Qnh3QYwJIqKMZMvKLLUy/6R05S6Ijl2sucbW4q3v9s7ErAZ0zEwsuZoTNiMq5tL7qlQpWaeU2Vplk/MlThrxprnF9ZuxFimcOh1T9oEzhcOV/5kceXPT0dSMq3Z3F1T5dmyF9DyVOb+uHjixBLNTRWQ9uSi5nkNwb8upqQ4QqF19tV/Exgt5VEoRNFPJVc2MyxE0+x2nwv7Tq929+iyc7T6osDdp1OUua9w9R79yStYiph0sPP8PXGNsaarH9bgChWHIIaeWhTay7nF3zSIovIXBjPxf2F8dnV7NmjnJDKGp/VGbMjJomYxMAL9Vm4Y31lr7g=;boMx3JOijltBJLYltpil+A=="
 ---
 

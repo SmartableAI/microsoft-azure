@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Monitor Agent and Data Collection Rules now generally available"
+    excerpt: "Start using or migrating to the new Azure Monitor Agent and Data Collection Rules in your production environments to leverage key new capabilities and save on ingestion costs. With support for private links and direct proxies coming soon, you would be able to use these features without compromising on"
+    publishedDateTime: 2021-06-15T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-agent-and-data-collection-rules-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Data Lake Storage Gen2 access control list recursive update in public preview"
     excerpt: "Set, update, or remove access control lists (ACLs) recursively for existing Azure Data Lake Storage Gen2 directories and files."
     publishedDateTime: 2020-08-27T17:32:23Z

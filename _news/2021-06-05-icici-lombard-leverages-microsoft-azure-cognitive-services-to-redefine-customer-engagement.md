@@ -87,6 +87,29 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Microsoft Azure available from new cloud regions in Arizona"
+    excerpt: "Azure is now available from our newest sustainable datacenter region West US 3 in Arizona. "
+    publishedDateTime: 2021-06-15T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-generally-available-from-new-cloud-regions-in-arizona/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Expanding cloud services: Microsoft launches its sustainable datacenter region in Arizona"
+    excerpt: "Today we are launching our newest sustainable datacenter region in Arizona, known as “West US 3.” Datacenters are today’s engine for modern business, providing organizations of all sizes the cloud services and tools to innovate, collaborate, and operate securely and efficiently at scale. We build datacenters"
+    publishedDateTime: 2021-06-15T09:00:00Z
+    webUrl: "https://azure.microsoft.com/blog/expanding-cloud-services-microsoft-launches-its-sustainable-datacenter-region-in-arizona/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b9d843e1-b83c-4f4e-a2b8-3ece2d48b194.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "NSW Police runs AI over evidence using Microsoft Azure"
     excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
     publishedDateTime: 2021-06-07T05:54:00Z
@@ -267,12 +290,12 @@ related:
         height: 630
         isCached: true
   - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-    excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
-    publishedDateTime: 2021-06-07T13:57:00Z
+    excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
+    publishedDateTime: 2021-06-07T08:30:00Z
     webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
     type: article
     provider:
-      name: Morningstar%2c Inc.
+      name: Morningstar, Inc.
       domain: morningstar.com
     quality: 17
   - title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"

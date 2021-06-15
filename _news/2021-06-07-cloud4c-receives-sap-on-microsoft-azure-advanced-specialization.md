@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
-publishedDateTime: 2021-06-07T13:57:00Z
+excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
+publishedDateTime: 2021-06-07T08:30:00Z
 originalUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
 webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
 type: article
@@ -11,7 +11,7 @@ heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
+  name: Morningstar, Inc.
   domain: morningstar.com
 
 topics:
@@ -77,6 +77,29 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FMicrosoft-365-Windows-and-Azure.jpeg&signature=4473b14db4efb228b77123ed96a80077"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Microsoft Azure available from new cloud regions in Arizona"
+    excerpt: "Azure is now available from our newest sustainable datacenter region West US 3 in Arizona. "
+    publishedDateTime: 2021-06-15T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-generally-available-from-new-cloud-regions-in-arizona/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Expanding cloud services: Microsoft launches its sustainable datacenter region in Arizona"
+    excerpt: "Today we are launching our newest sustainable datacenter region in Arizona, known as “West US 3.” Datacenters are today’s engine for modern business, providing organizations of all sizes the cloud services and tools to innovate, collaborate, and operate securely and efficiently at scale. We build datacenters"
+    publishedDateTime: 2021-06-15T09:00:00Z
+    webUrl: "https://azure.microsoft.com/blog/expanding-cloud-services-microsoft-launches-its-sustainable-datacenter-region-in-arizona/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b9d843e1-b83c-4f4e-a2b8-3ece2d48b194.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement"
     excerpt: "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time."
@@ -301,6 +324,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "YmwCWTB5aRaQp3rsI528Hycep+glr9WV7DW2lfMcnp6ga+jeAZb/xmtb1GXFWPPRJ6UY7RIy4as2thr7LKg38O/KgCO4HAUR445in7vFo71mww6oCo6xmNhRX95J1wHFZ8luoPdzrvZT9QVq6XHd/WUTsY7UQIUD46wXCq75RZSSgZWtbYB2WD5Go6g2morHxuKSLGwUIJATCt0FaUi0N8UU0pk9YWtn3/5IBw4FUfx/mREZKfJXtbvKIUcEJdhu40CjURwZjhR+lVwhvUyIPwOoMkzFHFkxp6VRCQiBOz+VUuJYQBphkcs9ZH4ZP3lJ1UkHzrBz1IgR48SGzXgpwkaPACtIVrLulpy+zFbnGe0=;iaWL7qJDnMZFOmKn3eUIlQ=="
+secured: "asm4MxgB0vYqTXMy5j1hMFR36oPsFaT6hEMK84CKtLUSVUC/V8lfIFsqhMSImajOt7RsxroCT9CrYvIv/fzNLyymD7QlrsNsFgC9d7JmJbtKtVOeCGrub1mE4ahVcfgM87QRBpFO4C0+RHI2mr5NKCL3kAWFMbE5XsM1KXhcf+UU/AhVWfrjY6XfOwvEQRLSPH68xkSY+CDukBN489IrWeZoLRYOYkKAf9Qa+kAGdL1OeFieqj/UlFvPXINKZoL8b5KC/OgMRSTChG8BI52NMX1ztBvsFNt9fCsLP2DQFlNKRFfFqOvTHXg/BsbtWav49Kv2DLDaFK4UNKiKfem9rgKr1eqOKen7wUrtsf6ETNM=;VduEZeHw4vKP9Rva5JoGhw=="
 ---
 

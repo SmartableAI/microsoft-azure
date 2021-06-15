@@ -84,6 +84,29 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Microsoft Azure available from new cloud regions in Arizona"
+    excerpt: "Azure is now available from our newest sustainable datacenter region West US 3 in Arizona. "
+    publishedDateTime: 2021-06-15T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-generally-available-from-new-cloud-regions-in-arizona/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Expanding cloud services: Microsoft launches its sustainable datacenter region in Arizona"
+    excerpt: "Today we are launching our newest sustainable datacenter region in Arizona, known as “West US 3.” Datacenters are today’s engine for modern business, providing organizations of all sizes the cloud services and tools to innovate, collaborate, and operate securely and efficiently at scale. We build datacenters"
+    publishedDateTime: 2021-06-15T09:00:00Z
+    webUrl: "https://azure.microsoft.com/blog/expanding-cloud-services-microsoft-launches-its-sustainable-datacenter-region-in-arizona/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b9d843e1-b83c-4f4e-a2b8-3ece2d48b194.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement"
     excerpt: "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time."
     publishedDateTime: 2021-06-05T09:17:00Z
@@ -266,12 +289,12 @@ related:
         height: 630
         isCached: true
   - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-    excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
-    publishedDateTime: 2021-06-07T13:57:00Z
+    excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
+    publishedDateTime: 2021-06-07T08:30:00Z
     webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
     type: article
     provider:
-      name: Morningstar%2c Inc.
+      name: Morningstar, Inc.
       domain: morningstar.com
     quality: 17
   - title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"
@@ -302,6 +325,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "3CwRx271efpWmv79mkoAaEW2A4rQcSpBQ/VgSEqfUVTRxCR9OpZQn9SPVw3Jb8muhYdP+2bazZdLDNAun5/dQPK8y1aVuKtBN2Z59/XuOnwqpJ/YYIHlpaKnLdzeAC1NrXmQb4z/InXseHg3tIomxolXFW3ey3igQl7rI0560r5fepgC8sb8VL4h77w7HO/iX6F+aUismpXD5lCZyCymsozaYUky1v5wQ7GJ6qVyaWOIzjBD6w8n2pKlKl+aOi42SaC41BqUnN0aOIYgOjS0WJAys92e6ZoqH7qAZPHnKhaXGrkBOmkV0z25/8msNJurAYFjLxuRZHgTVeYhpPHdPwjojKYDAaocqBPnC6UgUoA=;SRHh5llnUWtPLXtE5EyF8g=="
+secured: "S/V6qAWhcIsZVCYpdbNWc3CvsXU/VbGgfswHPQketfHXAfWTHYDlWAs8lwg+sSGoCurYQBw3FnRzeobQcX+Wjw8PEDaQ7zGShoWzUdMFAjMDw+gQU4s+5rcVPOLKQQ/FSc3U6Xo3JE6X1okojr8S07nqQF1ArK5mDAArKwT1fM+hbp9cwLsIwTWtNsGCQq023dfndSY+fFeZwXiSIFfefRXxF0nwF5zmc9rPF1E0syKc7W6mGfp51pyHN8FbxaNaHrI4woL1JOfmTLkpC0Bx9Lll13XMocJ+etiFE06twqqABBm+f03Z581oSY/lToaiosUqPHSXWsijR1UMuPjekeVe1geCTG9yH5JZco/OZ654u0D1+/Ci6RK1Ippc22tQzCFrHp9xQkjJWfIpnzO2I3xa6bBASJWUS4DmiMvSv5OyAp1KeffqLoUN4HwoVwsANd2bV1TNlWLJevWXCvJdnCI/1IOXX/uaUN6X8VBG9x37lmGFYn2OKz46kM1oOyXnU5l0DnPADTFnmKC8OVvQCw==;DPM9ablgA0HFGgkYHvdqaA=="
 ---
 
