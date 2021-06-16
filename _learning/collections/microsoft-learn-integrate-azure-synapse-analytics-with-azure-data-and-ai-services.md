@@ -4,7 +4,7 @@ excerpt: "Integrate Azure Synapse Analytics with Azure Data and AI services"
 type: collection
 price: Free
 length: PT1H46M
-heat: 130
+heat: 50
 
 provider:
   name: Microsoft Learn
