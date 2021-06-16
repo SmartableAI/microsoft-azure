@@ -396,10 +396,19 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-16T18:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
     publishedDateTime: 2021-06-16T12:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9391505.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-smartronix-recognized-as-microsoft-azure-expert-managed-service-/2021/06/16/9391505.htm"
     type: article
     provider:
       name: TMCnet

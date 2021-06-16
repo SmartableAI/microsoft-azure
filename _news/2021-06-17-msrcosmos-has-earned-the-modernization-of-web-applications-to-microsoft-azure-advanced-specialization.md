@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
-excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
-publishedDateTime: 2021-06-16T12:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-smartronix-recognized-as-microsoft-azure-expert-managed-service-/2021/06/16/9391505.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-smartronix-recognized-as-microsoft-azure-expert-managed-service-/2021/06/16/9391505.htm"
+title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+publishedDateTime: 2021-06-16T18:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
 type: article
-quality: 0
+quality: 2
 heat: -1
 published: false
 
@@ -401,16 +401,16 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-    publishedDateTime: 2021-06-16T18:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+  - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
+    excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
+    publishedDateTime: 2021-06-16T12:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-smartronix-recognized-as-microsoft-azure-expert-managed-service-/2021/06/16/9391505.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 2
+    quality: 0
 
-secured: "7RMDlwnbqlTNTVqrDyShQFFyiHyWInVGzc151JfniBl/r9MS5WK/1rlCxp1w1kste/7Zw1fRluDulC54WTgVkIslzhxQhnkpsBKa3KsUUQ007WjBf4Po0XdC4nlpJwOtuBw2sjHC+dnGuChUG2qlnp2UsVIUk3wo+a1Y0cHnVMvS7ZHtk6ooaausjJQ60K0YUiECDgB52sZoF7TfWBmRt9O5+CtKMF3bowBECMPzz+CTIRQNAN6wvgqWbZ06r7byXDiCECY/g34gSPBKXwEQKnbti6j63+UdIdFXFFInroH8DCEiJz7a1uqTFhFQTXTioBZnzERDEo1QvksoGb0Ez3wtB1E2xFUiCwCDs4267g4=;z3ak9189r5z/mad2wtFYkQ=="
+secured: "ocs7oImomafe5HjpV+F1nx3UvSYlC+lStxHf6GN4VkYU0TOp2+nAMoSBrd4cJSbu1UIx+r17erjAdBNyp0qe8/qqEDLitAOyP6io5CpEfpr9l3/5GFyYoEBnucfM0MMJFs1M6d7v/luoyd6w/FM0gwnYPBK7Vm97VsUsY71Irc/djg80P/HrUuBejRBozDxoe/rWKzuz8ZZWVMnbLZWFTc2LQy2ZbaSMV4QgNzZdaV/y6ueHFeDEtogeyHd4sVKbDhWN9JkCf9FmZKI/fPQY0n6jvX9NJ6rUPl3VfggPx8U/ZqRuveV7Eth480ns3SD5jTW+MBD0Tj5Sy5gf0OmQCISQAD0AsFSMteH2BdabbXk=;EUfl+WCchHXqSRlWAJf0Vg=="
 ---
 
