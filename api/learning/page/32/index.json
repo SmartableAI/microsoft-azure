@@ -4,6 +4,49 @@
   "page": 32,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-build-webapp-java-tomcat.md",
+      "title": "Deploy a Java web app to Azure",
+      "excerpt": "You'll learn how to create a Java web application and deploy it to Azure App Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-webapp-java-tomcat/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-java-webapp-to-app-service-linux/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 37,
+        "average": 4.675676
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-caching-and-performance-azure-storage-and-disks.md",
       "title": "Caching and performance in Azure storage disks",
       "excerpt": "Learn about Azure VM disk performance and how to enable caching to help optimize read and write access to storage.",
@@ -621,8 +664,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-storage/",
       "length": "PT2H43M",
       "ratings": {
-        "count": 69,
-        "average": 4.826087
+        "count": 70,
+        "average": 4.8142858
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -656,8 +699,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-build-apps-cloud/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 328,
-        "average": 4.621951
+        "count": 329,
+        "average": 4.6231003
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1035,8 +1078,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-orchestration/",
       "length": "PT55M",
       "ratings": {
-        "count": 148,
-        "average": 4.6554055
+        "count": 149,
+        "average": 4.657718
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1184,48 +1227,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-computing-power-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cmu-virtualize-input-output.md",
-      "title": "Virtualize I/O",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about how computer input/output is virtualized. Covers I/O basics and a case study of virtualizing I/O.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-input-output/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-input-output/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 78,
-        "average": 4.3846154
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/resource-virtualization-input-output-social.png",
           "width": 1000,
           "height": 500,
           "isCached": true
