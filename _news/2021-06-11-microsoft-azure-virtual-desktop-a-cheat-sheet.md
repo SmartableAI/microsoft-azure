@@ -1,27 +1,32 @@
 ---
 category: news
-title: "Mindtree Earned the Analytics on Microsoft Azure Advanced Specialization"
-excerpt: "Mindtree, a global technology services and digital transformation company, has declared that it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
-publishedDateTime: 2021-06-08T06:01:00Z
-originalUrl: "https://www.cioapplications.com/news/mindtree-earned-the-analytics-on-microsoft-azure-advanced-specialization-nid-7883.html"
-webUrl: "https://www.cioapplications.com/news/mindtree-earned-the-analytics-on-microsoft-azure-advanced-specialization-nid-7883.html"
+title: "Microsoft Azure Virtual Desktop: A cheat sheet"
+excerpt: "Azure Virtual desktop is available through the Microsoft Azure Portal. For current subscribers to Microsoft 365 and enterprise versions of Windows, desktop instances are available for each user at ..."
+publishedDateTime: 2021-06-11T15:16:00Z
+originalUrl: "https://www.techrepublic.com/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
+webUrl: "https://www.techrepublic.com/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
 type: article
-quality: 53
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: CIO Applications
-  domain: cioapplications.com
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Analytics
 
 images:
-  - url: "https://www.cioapplications.com/newstransfer/upload/frrqr450308.jpg"
-    width: 450
-    height: 308
+  - url: "https://www.techrepublic.com/a/hub/i/r/2020/10/19/1afccff5-82cd-4a39-8fc3-4aaffc73e841/resize/1200x/97e578a262f02a01bcf1481143450478/istock-1176802969.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -40,22 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c337a97be7f205231fea8c%2F0x0.jpg"
         width: 640
         height: 366
-        isCached: true
-  - title: "Microsoft Azure Virtual Desktop: A cheat sheet"
-    excerpt: "Azure Virtual desktop is available through the Microsoft Azure Portal. For current subscribers to Microsoft 365 and enterprise versions of Windows, desktop instances are available for each user at ..."
-    publishedDateTime: 2021-06-11T15:16:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 97
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2020/10/19/1afccff5-82cd-4a39-8fc3-4aaffc73e841/resize/1200x/97e578a262f02a01bcf1481143450478/istock-1176802969.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Microsoft rebrands WVD as 'Azure Virtual Desktop'; adds new app-streaming pricing option"
     excerpt: "Microsoft is broadening the charter of its Windows Desktop Virtualization service and simultaneously changing the name of this Azure-based service to 'Azure Virtual Desktop.'"
@@ -167,6 +156,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/crn-14_nsw_police_FOHO.jpg"
         width: 1400
         height: 900
+        isCached: true
+  - title: "Mindtree Earned the Analytics on Microsoft Azure Advanced Specialization"
+    excerpt: "Mindtree, a global technology services and digital transformation company, has declared that it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
+    publishedDateTime: 2021-06-08T06:01:00Z
+    webUrl: "https://www.cioapplications.com/news/mindtree-earned-the-analytics-on-microsoft-azure-advanced-specialization-nid-7883.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 53
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/frrqr450308.jpg"
+        width: 450
+        height: 308
         isCached: true
   - title: "Amdocs to Offer its BSS/OSS on Microsoft Azure to Operators"
     excerpt: "Amdocs extends its partnership with Microsoft, widening the availability of its portfolio on Microsoft Azure and the Azure for Operators"
@@ -347,6 +350,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "fQjSYhjeR2+xWdxjEcZNFbqvcTbBCpbjl5D/eb/I9rY3+zdNOCCANOeHRz1maRsh8nJgjYdMhI7x0DsjynSpa6FMN6m+99k2eOoTj3Va5V+8kHde8uuqLEu6REcn4VPEEGAeMHh+oSTMbCdLN6On5Id6gSFFZ4aIOy/Ma8x9SdO96iNHLFDinMcxijPCziLpqTtm5KEEysEShwtxXNl45JfbUbPwjPF0x9cx+1zDT2p5NGQsBpxC0+MR+1cnYaBzce7Jw6tCuSC91132yppZy2z8aoNY1w/gdG8+2x4cyswhV1bpJUFW5w7Wyry7wNBGPAFYhs1xnfu4hn+9pvU3jjnTyaZPlOEKKTbQU+My/6IuwRyhJ9hM7ugQT5XCtryCPwBE9tkMA3jvpV8R36qk5OKda/+JIXBDZGPqEFU9/p9iw9+GDquzYIgC5X7K3GT85joGo0oY6fUKvmoKWNmglt2FXsaeToIKMx0l0xE76rDZpcUytIXXXuOpb/+weyDxyRZW+tus6wujrESnZMwK/Q==;7Ev6MtsAWDzLMPFOazXUIA=="
+secured: "ZITnz8VxYuT8OO2/XwZIHxNWGSvaXEYUAe2aPdH2lDkHjMDH901Lm3bAqRo14G44bo5TCUgTZ9qFx8aiuOO6jr51hT4QvVkb53mnSskpTZd3kbEFgkgFkPByIqi7jcyPQEoTDK++PPi7NmoGq6kgsfh3wNjtpQ5e+E2qxiyxoxGwH4pE7N8CQ4PwSvYiITS4O4VPebmNfEyPa1jfMVxrnaZmX3hsOPhLO+UD5uFh8nd5YNdwFkweuejSICusNvbDghJupPyR3Js8MRylfY4VLAtUnfK6hQv6WAzdR0tEmIkpvDp3+SsRuuCuxNSiSj+6nAQqZvHdaH7kUc8h20bT4/tNqkPpRF4FEzG5TMxSlQo=;FmmhhY+/KUNMGieqI6WP8g=="
 ---
 

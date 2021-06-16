@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-publishedDateTime: 2021-06-07T13:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-receives-sap-microsoft-azure-advanced-specialization-/2021/06/07/9385042.htm"
+excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
+publishedDateTime: 2021-06-07T09:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+    width: 1616
+    height: 846
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -33,6 +39,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c337a97be7f205231fea8c%2F0x0.jpg"
         width: 640
         height: 366
+        isCached: true
+  - title: "Microsoft Azure Virtual Desktop: A cheat sheet"
+    excerpt: "Azure Virtual desktop is available through the Microsoft Azure Portal. For current subscribers to Microsoft 365 and enterprise versions of Windows, desktop instances are available for each user at ..."
+    publishedDateTime: 2021-06-11T15:16:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 97
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/10/19/1afccff5-82cd-4a39-8fc3-4aaffc73e841/resize/1200x/97e578a262f02a01bcf1481143450478/istock-1176802969.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft rebrands WVD as 'Azure Virtual Desktop'; adds new app-streaming pricing option"
     excerpt: "Microsoft is broadening the charter of its Windows Desktop Virtualization service and simultaneously changing the name of this Azure-based service to 'Azure Virtual Desktop.'"
@@ -324,6 +346,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "KK/CQTe9TR+CZ40E/obB4t6PXRj8I4aP66PeBZD7rbN/z3wT+1aPK9YUKzHpEuUj6oHPb322HMEA1Bet3vBozsQ08xJRNkHc5W69cWmJlhYT2Z3X9aiJ/ng5pRV/UOhHAKgxwH+egolBJDoVn9i+nempR8i3iPrnCui2GO7JQ2xcPECipi2koqMvzDFJoVAEwJMv4o9yG/Zush/7ytWx/8Cqtb0KNTGEXWqhTgoRstBzuwN/1vU6nKv8sBQvMkwFK14m8Fy3VHp4qLpSwX8QAoTWXnfjnLKL1Ndk6jqFrXyU52tS/BVLBl5g2sgU9b6ng5Zm4t0HrpLPIDSmzIin5YJRN7/HQ50ROom3HWAwJr0=;B76o2XEbBgepaO3sp4c/RQ=="
+secured: "DnqqIXw8DoUpumcaRzharzln/m3bcS6siz5VwsxQLhtc/jk1VHx57Ei1qcF85o6BB29d40FoDRY0tgjWaByHjV6Ms9ey+UK93A3PHLjiZorZmj1i9++epr9dzfmNAmF5lh43PxiZuurLUnv05gqJYsbtlhEi3CXPbBn4nn3kkRjR3uixuoYbZn4IKq/MPlT8TJ0gcg0ARyEetuR4kCPtOhVdjoNtuFo5ff0CzZAeR+K5WweIikqp+485eZo9B7MdnYZrzm4u53n+JnlNQAMKGCVPVr69ojVr/0YRS0giJ3kHTboGbEeQm4fogv71hj9hmgr+rWh3F7b/07NZl+GyQg3HxVsNc+2h7dt3gRAHevc=;RSoltdYUwYF29FQozdOp3Q=="
 ---
 
