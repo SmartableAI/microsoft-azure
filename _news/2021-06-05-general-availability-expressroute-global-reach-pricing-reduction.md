@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/grpricing/"
 webUrl: "https://azure.microsoft.com/en-us/updates/grpricing/"
 type: article
 quality: 52
-heat: 74
+heat: 72
 published: true
 
 provider:

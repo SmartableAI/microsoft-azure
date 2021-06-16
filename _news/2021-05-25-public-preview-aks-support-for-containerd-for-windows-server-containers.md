@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-suppo
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-containerd-for-windows-server-containers/"
 type: article
 quality: 83
-heat: 145
+heat: 143
 published: true
 
 provider:
