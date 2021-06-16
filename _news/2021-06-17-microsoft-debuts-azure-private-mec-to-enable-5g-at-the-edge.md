@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Provision BIG-IP on Microsoft Azure Red Hat OpenShift"
-excerpt: "BIG-IP virtual editions (VE) for Microsoft Azure integrated with Microsoft Azure Red Hat® OpenShift® lets you take advantage of the elasticity of the public cloud while continuing to manage and ..."
-publishedDateTime: 2021-06-11T16:32:00Z
-originalUrl: "https://www.infoworld.com/resources/220095/provision-big-ip-on-microsoft-azure-red-hat-openshift"
-webUrl: "https://www.infoworld.com/resources/220095/provision-big-ip-on-microsoft-azure-red-hat-openshift"
+title: "Microsoft debuts Azure private MEC to enable 5G at the edge"
+excerpt: "Microsoft Corp. today debuted Azure private MEC, a suite of edge computing hardware, software and cloud services that enterprises can use to set up private 5G networks at locations such as factories."
+publishedDateTime: 2021-06-16T20:27:00Z
+originalUrl: "https://siliconangle.com/2021/06/16/microsoft-debuts-azure-private-mec-enable-5g-edge/"
+webUrl: "https://siliconangle.com/2021/06/16/microsoft-debuts-azure-private-mec-enable-5g-edge/"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-    width: 300
-    height: 300
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/microsoft2-1-1.png"
+    width: 718
+    height: 400
     isCached: true
 
 related:
@@ -75,6 +71,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/07/755f2e13-8b09-4d8d-8118-97dff095cb83/azurevirtualdesktop.jpg"
         width: 853
         height: 513
+        isCached: true
+  - title: "Provision BIG-IP on Microsoft Azure Red Hat OpenShift"
+    excerpt: "BIG-IP virtual editions (VE) for Microsoft Azure integrated with Microsoft Azure Red Hat® OpenShift® lets you take advantage of the elasticity of the public cloud while continuing to manage and ..."
+    publishedDateTime: 2021-06-11T16:32:00Z
+    webUrl: "https://www.infoworld.com/resources/220095/provision-big-ip-on-microsoft-azure-red-hat-openshift"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
@@ -269,20 +279,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft debuts Azure private MEC to enable 5G at the edge"
-    excerpt: "Microsoft Corp. today debuted Azure private MEC, a suite of edge computing hardware, software and cloud services that enterprises can use to set up private 5G networks at locations such as factories."
-    publishedDateTime: 2021-06-16T20:27:00Z
-    webUrl: "https://siliconangle.com/2021/06/16/microsoft-debuts-azure-private-mec-enable-5g-edge/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/microsoft2-1-1.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "Renesas extends support for Microsoft Azure RTOS across 32-bit MCU families"
     excerpt: "Renesas Electronics has said that all customers designing with mainstream Renesas 32-bit MCU families will now have access to the Microsoft Azure Real-Time Operating System (RTOS) embedded development suite."
     publishedDateTime: 2021-06-15T07:58:00Z
@@ -425,6 +421,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "/2FPY4b8VKnZdPPAl1qcAqjBPV5bQfizXVxE+HikLnTfE7xkBSXJgID9bypX9cnHYMVDWMiYYIZ5v5owRY8DxlDQPBM6MNNtn1yqeXGnbfzEV05lAb5BJPtw5lXYXDk+cK3KrgwN+/XKAtDFY4j9Yh6e8p2kvOD3K9ycvvd2NuWWCy9uGvdynlZPyKfkNCtC012+PHj6RGMqAVy9c3xCXYzDHnLKGbQMrSbmyhAeKrmhaoMPZotpWJywDARW5Y70Ucs75WLaZUGGEx6LXygJywMcNHN+cDVDDYFAx5gjEeVyq0iq8oA7IZilcSkHM7qBfgzy+9h3+6poeehA2C8tdDW+7oIlAQHZV7Q/HHZjS0U=;VaX7d3TrBccqufwFEIzlwg=="
+secured: "TcegsR07SIW6bG01yT0FcPv3D4ac0KvK3U0GYGi4jFHZLnQ444IWBm1K7FoWIQ1ox5ldtkl5YhtPCjWngGHGAhSB7Biclq0y/cG4dbjAjCz72yy+v+da3nFs/tEVbEvJY4vvMMavu+o5uIBFlfisfBVYZjci70FtFZJ7AhYXbgiLRzGmFHY71D8PfVGVhzA5VveVlJ2GutKMj8wZOt2HHD0ol6c1C5igZcxpChCit3BjMgRLka3E15wM2HOQ69XwdMevYY0bj5mma+s+qz220XiQdthpBmvuHybkjbBpu7ReNsKjPKguCATT4gX58V5I2ZltP8qKJvxwGdW2MB+yv3p+TgnG4ipS4awmK2c1Ts4=;B1R0Tnev/uWBl6NlvcXWIg=="
 ---
 

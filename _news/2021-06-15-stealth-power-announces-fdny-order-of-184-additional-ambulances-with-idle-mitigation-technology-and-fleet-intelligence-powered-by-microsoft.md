@@ -19,19 +19,14 @@ topics:
 
 related:
   - title: "Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
-    excerpt: "Cyient, a global engineering and technology solutions company, has announced the launch of Mobius, a software-as-a-service"
-    publishedDateTime: 2021-06-15T12:51:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cyient-to-release-mobius-a-saas-based-solution-for-utility-company-outage-planning-and-scheduling-powered-by-microsoft-azure-301312586.html"
+    excerpt: "Solution from Microsoft Gold Partner Cyient leverages Microsoft technologies to address challenges faced by utilities industry HYDERABAD,"
+    publishedDateTime: 2021-06-15T12:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cyient-to-release-mobius-a-saas-based-solution-for-utility-company-outage-planning-and-scheduling-powered-by-microsoft-azure-1030523800"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 9
-    images:
-      - url: "https://mma.prnewswire.com/media/289359/cyient_logo.jpg?p=facebook"
-        width: 1210
-        height: 634
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
 
 secured: "mObatHN9TNm2oh0a7X3w0//5X8jdO79cyQ6EorXI0k/6UbyQ079hvn7xSmAf5arEjg4Pt8rBthQHjx2RAkMwXmvvUEgy+jDP9yLFniCxx+zdrOB06vvBWJrsKKFq0gYN/iTHdr+MMQnTjbabkuUrUH6VwUh9Lo9UGu0xhxDatnABBP1pN0VkmSISO7XQBIax8+Td3nOwZk9ymY/NGgjuaDjZPf41e9y9m90re/n8F/rPW7OD1BnFs6OnVjZ7Ui5lqgyQEoyqNM0KtGEsyxLyaNHM/3SOyjNrkHgAM6yy3YqQGeTq4/jIpYEV2fe1ZAArzkLtkUK4k+TdRgxAswr683y4A75BPjVjnG0jzy1cbLA=;YnEiKOlitJfeQlL27rRr2w=="
 ---

@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
-excerpt: "Cyient, a global engineering and technology solutions company, has announced the launch of Mobius, a software-as-a-service"
-publishedDateTime: 2021-06-15T12:51:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cyient-to-release-mobius-a-saas-based-solution-for-utility-company-outage-planning-and-scheduling-powered-by-microsoft-azure-301312586.html"
-webUrl: "https://www.prnewswire.com/news-releases/cyient-to-release-mobius-a-saas-based-solution-for-utility-company-outage-planning-and-scheduling-powered-by-microsoft-azure-301312586.html"
+excerpt: "Solution from Microsoft Gold Partner Cyient leverages Microsoft technologies to address challenges faced by utilities industry HYDERABAD,"
+publishedDateTime: 2021-06-15T12:59:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cyient-to-release-mobius-a-saas-based-solution-for-utility-company-outage-planning-and-scheduling-powered-by-microsoft-azure-1030523800"
+webUrl: "https://markets.businessinsider.com/news/stocks/cyient-to-release-mobius-a-saas-based-solution-for-utility-company-outage-planning-and-scheduling-powered-by-microsoft-azure-1030523800"
 type: article
-quality: 9
-heat: 9
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/289359/cyient_logo.jpg?p=facebook"
-    width: 1210
-    height: 634
-    isCached: true
 
 related:
   - title: "Stealth Power Announces FDNY Order of 184 Additional Ambulances with Idle Mitigation Technology and Fleet Intelligence, Powered by Microsoft Azure"
@@ -34,6 +32,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "RC3xi+TYnQ9KWh7KFsllU74R8ea9J58U/TVuRnmb7CwOogSR8OfoZnjdS+XPzieJE1k9ipS1HEOeg6OSMdujIBkMI4MK/XN6oHNtPEFDToufR5xnvUZLZyp8pyOxBhhXg6ANiHqREgShCGAS3p+G1bSLezGXcHalT2ZaPotef5Bc2fMCjTZA+5BjVm3nlDiNeqimVBw1XXWCwHa/BxB0wo3EjtT5Oc1Wzo8lcD52/M2X8504pI23VbLDF+zG4V+dU+qo2tzw2NDnzqAVnL17Yme9COTWGc6Dcg2eMZ3luJUtiN/b1J6I5ADXAQju5Yn1Y41kTduyCOUCpBmQrMA5li9XjazCPdix87QtgBYXA4N5Rwa4xKK1gt42dadKLBtW/VX8paEC3iKYj2OiaMxPYVAKqp5c2MPixDMTxtXYFyurqKfJ6OlKyoPeAdst2rHTPJHJW2mKN8f8czdF9/WRBfqUg2nfL5FoMT++XqeQRbDzn5E9ZvIYGIdcUlYD8CU1MmC3WyQgAzpSFgFiSNj8Xw==;rdPloQssKYuCiTviulNDQA=="
+secured: "TT0IOALmQx36wwMJw3N5Ce9H+RVpLESAC1EKhPWH9ZaGGsi29CsGioSWTKHf2KGMnNOOUGAPYt5LnYvSmjyVMiz6ZwGBr0m5pG+1CBTiZyIrrnnKa/FFNwWOhsBLk91jbQVV6J4VG3Rf9Izq5h1N0p4MEDv8okEdo1Th2Lf8Hub88hN6z8GNMiCflneTa3txDbkkBxMMTKSoVuKbwKTIrsj8rmwiIzo1qlZttPgMl8GUmO1tATwNsSBIT+DtkKB/wO7GYNrBsOoKSdscekCmiwLlbPjd1EkDMO5st/JL/Lmw1gsxCf9VZTutRuScoqpED9/zl0satKr8mj1pbvCsKeQbRvOz6gwhf/nV0l1sXrU=;iDeu6YFujNKQVxDNsf4ytg=="
 ---
 

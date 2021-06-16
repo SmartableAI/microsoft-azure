@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
-publishedDateTime: 2021-06-07T09:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
-webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
+publishedDateTime: 2021-06-07T08:30:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
-    width: 1616
-    height: 846
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -279,6 +273,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft debuts Azure private MEC to enable 5G at the edge"
+    excerpt: "Microsoft Corp. today debuted Azure private MEC, a suite of edge computing hardware, software and cloud services that enterprises can use to set up private 5G networks at locations such as factories."
+    publishedDateTime: 2021-06-16T20:27:00Z
+    webUrl: "https://siliconangle.com/2021/06/16/microsoft-debuts-azure-private-mec-enable-5g-edge/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/microsoft2-1-1.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Renesas extends support for Microsoft Azure RTOS across 32-bit MCU families"
     excerpt: "Renesas Electronics has said that all customers designing with mainstream Renesas 32-bit MCU families will now have access to the Microsoft Azure Real-Time Operating System (RTOS) embedded development suite."
     publishedDateTime: 2021-06-15T07:58:00Z
@@ -394,13 +402,13 @@ related:
       domain: businesswire.com
     quality: 15
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-    publishedDateTime: 2021-06-16T18:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
+    publishedDateTime: 2021-06-16T18:31:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 2
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
@@ -412,6 +420,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "OBowjUHynWKCbcAOTDPdCa+dM7Pn64ja2V6+ntcX+zMh72qdhfT6/saawyoV6/s01E4/isgIrafwb50NPAwrCp5h7FpDVb/eMabpG8mTyoKaP3+i9S9ek9wjLcpnAJ1dDWGkf677DoVj42zmHn6P6/i1QwXwJdx/Zjh0OJjeEU8dLzORO7jUrZJXlTpIaS2Xr/OrVlqfpTQE2wymzCPQTaTd7NorgNQFUPP61XlwD0lRq7nTYR4GqJmyhreA2kUWumBjmFLGPIHc9QDClj4q1qApctMC8NJNjZ0nu68ZRhH0noS0wjJ1vRF38h1QXW9ynvpu6izipyxLFS/M/DN6hy4NintXrSt8Oysb/h+sHGU=;gqayE9+nb90vnYcJj8CPtw=="
+secured: "VMX7LaasyJJSzMU8NJy0AfW14HHvx+ihxl++RtYdXpjDzUuNvFZoOgmK8HwoI17JlaXo7tQsJD/Gf7KO879/ResOosdluvWlfPDOeHlFu/e7CemnybZHKaV4qq6emFdylxHzF9cGGfP5UF4XRIGHCGPIbucUTtHrFMTsW2MCdnBLDOQvTulTmhh3LfiI5Oil+PjVqjnujWJtHjiecfXzp06M6oQo7bg5EapzwNSZFVkZOWgHJDJIDUenRG/fisu8f+RneEglQQE99cLGNUrjAenXElFmaszQ0et21d8SHZXx4SN+HB34ijRbNadK18IaLHie7dlTv//f4sBh+0MKWprGQlQPw4sF89/grT1l/2I=;nM3z67BwIPkMzhg2hCl9Vw=="
 ---
 
