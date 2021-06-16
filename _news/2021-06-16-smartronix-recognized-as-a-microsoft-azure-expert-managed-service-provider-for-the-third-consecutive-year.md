@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Amdocs to Offer its BSS/OSS on Microsoft Azure to Operators"
-excerpt: "Amdocs extends its partnership with Microsoft, widening the availability of its portfolio on Microsoft Azure and the Azure for Operators"
-publishedDateTime: 2021-06-07T01:10:00Z
-originalUrl: "https://www.thefastmode.com/technology-solutions/19918-amdocs-to-offer-its-bss-oss-on-microsoft-azure-to-operators"
-webUrl: "https://www.thefastmode.com/technology-solutions/19918-amdocs-to-offer-its-bss-oss-on-microsoft-azure-to-operators"
+title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
+excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
+publishedDateTime: 2021-06-16T12:04:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9391505.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9391505.htm"
 type: article
-quality: 37
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Deep
-  domain: thefastmode.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.thefastmode.com/media/k2/items/src/04d63a816388b94e314f79610c152242.jpg?t=20210607_010546"
-    width: 752
-    height: 408
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -180,6 +174,20 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/frrqr450308.jpg"
         width: 450
         height: 308
+        isCached: true
+  - title: "Amdocs to Offer its BSS/OSS on Microsoft Azure to Operators"
+    excerpt: "Amdocs extends its partnership with Microsoft, widening the availability of its portfolio on Microsoft Azure and the Azure for Operators"
+    publishedDateTime: 2021-06-07T01:10:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/19918-amdocs-to-offer-its-bss-oss-on-microsoft-azure-to-operators"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/04d63a816388b94e314f79610c152242.jpg?t=20210607_010546"
+        width: 752
+        height: 408
         isCached: true
   - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
     excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
@@ -365,16 +373,7 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 3
-  - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
-    excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
-    publishedDateTime: 2021-06-16T12:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9391505.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
-secured: "sqNxg6rUVC5kZauFdGfWK3JXlSAvkY/kxZPiHdzOXUrGvQ1fli35LccOQEyX+FZj6mRaOpYnnJYFLcCAAM9SqMs248w/nSC4vHbThUmyAhtHV6FnGXRgYQXsANrPit3eEDRdEsImaCF32lqNp8sf2Fl3wdccvpoTUQRGA6AMI1hr7eJjQhdUTM4VsYuqnZY5uCeOSTJuV89fa9qoZF5AZOT1n4jjKM5ExtqUwaQN7KuQgtr6JLh7ffglFYQrZaoayxvnFaCzAbfOPL0//bJ60Oqt9GE4t2ops+XBcIuWzZxEe0IlKJDhNZV+I6w3YnxTPrhI7NmKfGJn0WDM8YklozbIE+jZKOyURXPoQDxTX4E=;CLtIcG59FWBuhneZRPuJPQ=="
+secured: "ukqoYhaZMREATYLgl6DuKtqzQkEagwX31SpN3dX9HaJzyQ8uzf48CfKJr3lqSzSpuSWQOz5CGwKL86W5nZvICb1ypG36vzp1WLpq8pUZslw8RtfWvjFw50E/W0UheMr9+3hQpoMhtu8BH8KlMGAnjD8PWlOJi9FWv1guvZ8PSpr5zC74rVJNRkhvm6sEupgNf3J2EbkLEAHCJrfE4mnYx/bO1+7bAPuh466fzsXSbuEhczy7DyL+V81/3pyxq+jSq9F5jWLrv2X2iQWDjtthBtK2GkwxKwbNFR/FNaRZpzZdn0zbIZz6ADwOokYzM9oMK2iOgobqsmL+jYjxfE04ikoM29le3PY4PyGzDeFndEc=;E3ScdhyQOGbVmiPpOX/ucA=="
 ---
 

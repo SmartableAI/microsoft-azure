@@ -337,20 +337,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
-    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
-    publishedDateTime: 2021-06-15T12:02:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_aaaaf413-cac8-5608-a19f-180153ad5954.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 23
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/5f/a5fa6bb3-b488-5885-85eb-b7c34123e627/60c89aae29b02.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Cloud4C Awarded the Linux and Open Source Databases Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Cloud4C has been awarded the Linux and Open Source Databases Migration to Microsoft Azure advanced specialization. This stands as validation of Cloud4C's deep knowledge, extensive experience and proven expertise in migrating workloads running on Red Hat Enterprise Linux or SUSE virtual machines and/or utilizing MySQL,"
     publishedDateTime: 2021-06-11T11:41:00Z
@@ -369,6 +355,24 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
+  - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
+    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
+    publishedDateTime: 2021-06-15T12:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-renesas-extends-support-microsoft-azure-rtos-across-32-/2021/06/15/9390419.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
+  - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
+    excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
+    publishedDateTime: 2021-06-16T12:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9391505.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "ZbYkjzsqYs/L6Ccu17a/6uY5Y8VEjTuy0S5KHSFKwY31Wycdfpi/bqUVhF3P+GBqwguKQM61TzQqoFthuY2kzUBPOoi2Ie1Kq+4c6pI5w1YhOnvhficHs27iYhtTYcTxVAXQYOL0UKwOoucdar+J8ZaLacvy9EhlmFonrUDvGXwl4siUV+vpUenclAtXOklCr5DBp8k+AY1uWzQDyU1oy0AR/BtWkVJ2iRagT4eAHpf4TwkKj9AaSw6xaoJdvVOkPhN26Gr7W3q9OqWM/9sqogq1vf8/aE06eEvxo7AF5CsT7SuYEllAATdcC63bTSZ+EPy2NOONcNJtl0d0u3aHAw3SHEXLPoqeIe2K3FfMhcM=;6zprlqhTIfBqASdmGpmiYg=="
 ---

@@ -1,28 +1,21 @@
 ---
 category: news
-title: "Microsoft Azure Active Directory breaks, causes Teams, Office, Xbox, Dynamics outages"
-excerpt: "Microsoft's Azure Active Directory (AAD) service was temporarily down on Monday, bringing a number of services with it. Microsoft Teams, Office, Dynamics, Xbox Live, the Azure Portal, Forms, Exchange Online, Azure Kubernetes Service, Intune, and Yammer ..."
-publishedDateTime: 2021-03-16T11:55:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-active-directory-breaks-causes-teams-office-xbox-dynamics-outages/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-active-directory-breaks-causes-teams-office-xbox-dynamics-outages/"
+title: "Bupa migrates more applications to Microsoft Azure platform"
+excerpt: "Global healthcare company Bupa is increasing its focus on digital healthcare with further commitments to migrating key applications to the Microsoft Azure cloud platforms. The agreement applies to its core markets"
+publishedDateTime: 2021-06-16T12:42:00Z
+originalUrl: "https://www.telecompaper.com/news/bupa-migrates-more-applications-to-microsoft-azure-platform--1386946"
+webUrl: "https://www.telecompaper.com/news/bupa-migrates-more-applications-to-microsoft-azure-platform--1386946"
 type: article
-quality: 47
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
-  - Identity
-
-images:
-  - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -743,6 +736,20 @@ related:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/10/WIS_Category.jpg"
         width: 521
         height: 313
+        isCached: true
+  - title: "Microsoft Azure Active Directory breaks, causes Teams, Office, Xbox, Dynamics outages"
+    excerpt: "Microsoft's Azure Active Directory (AAD) service was temporarily down on Monday, bringing a number of services with it. Microsoft Teams, Office, Dynamics, Xbox Live, the Azure Portal, Forms, Exchange Online, Azure Kubernetes Service, Intune, and Yammer ..."
+    publishedDateTime: 2021-03-16T11:55:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-active-directory-breaks-causes-teams-office-xbox-dynamics-outages/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 47
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft Azure Outage: Services Mostly Restored But Some Users May Still Encounter Issues"
     excerpt: "The outage, which has affected Xbox Live, Office 365 and Microsoft Teams, was reported by users from all around the world."
@@ -1894,15 +1901,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Bupa migrates more applications to Microsoft Azure platform"
-    excerpt: "Global healthcare company Bupa is increasing its focus on digital healthcare with further commitments to migrating key applications to the Microsoft Azure cloud platforms. The agreement applies to its core markets"
-    publishedDateTime: 2021-06-16T12:42:00Z
-    webUrl: "https://www.telecompaper.com/news/bupa-migrates-more-applications-to-microsoft-azure-platform--1386946"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
     publishedDateTime: 2021-03-18T16:11:00Z
@@ -2018,6 +2016,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "t+oewINWzoGyMoxiWgIJBwvDSFxl5bZ2T7bEYeJhk/4DpY3uF0VlXf4SfwfaYmFhWfwGUffi3/8VYpHOhydDTMc52S9TXtksicR3d/GfCwFSfHzvamXd7M2NjZqcqTU3yVd+OC4b5htf7b9CCCLSGerSkqOlfV/Xxhf69dEF7/UlSSXE4y8UGV7cwQ7BTviVWVu20oy4DPu97OfsEv918OZHfgkdSA+ARI9sX0r3P5Zb3eoYLh7dl7iIlQp5qK5Jx45X16sSgPe3+6im670ZkgIiZYrTJO0C/cTusWj5J5yU1dFy2AeR2fRIEY3sZ+tx2p4PRw0caGMDQIDuwgX7ngKTRVQObmlUUiLZ9nzpeow=;/jexjyN+FLAaWdl9JnrcuA=="
+secured: "zHwdszoYGz558rItkaE+H+5WyZWP8vcUJCPUITrhFy2H+guqHtm+sPuDztZmoRibMtSGDhG2jS22EOlbwHMuHG4dho3y2WE7ydfSiGYv0X/7jRNOKRR4w7PQ+/nJMI9WXd2EnwBexzsU4r+gN4KOMFBl3lu3dmFW7ECVVxZy7y8ZOy8EJUDlEbNrI3Ee2rY3DgJG0oSP5p7bhlFRvE97zl5wctPf0Qbi9URZ0X4YdBftv0U851voSzNAZ3VQfS6jqiA8MCGeUDTLCNkWVSmF5NZRPt7EWkh4Q+FhwYPqypdN5aEkBrZJAgDdZ1cLzyfWhAXRKWjMozsFuRhKE95ZPjvcfjJWAP45ppAd8wgYZmI=;MSpBHQSi+zYwvcwa6PJEWA=="
 ---
 

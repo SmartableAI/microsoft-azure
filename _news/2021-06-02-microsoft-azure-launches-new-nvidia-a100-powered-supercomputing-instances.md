@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft Azure launches new Nvidia A100-powered supercomputing instances"
-excerpt: "Microsoft’s cloud computing service Azure has launched what it claims is the fastest public cloud supercomputer. The new service named Azure ND A100 v4 Cloud GPU instances is powered by Nvidia’s A100 Tensor Core GPUs and is targeted at users with high performance and demanding workloads."
-publishedDateTime: 2021-06-02T13:29:00Z
-originalUrl: "https://www.techradar.com/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
-webUrl: "https://www.techradar.com/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
-ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+excerpt: "Microsoft’s cloud computing service Azure has launched what it claims is the fastest public cloud supercomputer. The new service named Azure ND A100 v4 Cloud GPU instances is powered by Nvidia ..."
+publishedDateTime: 2021-06-02T14:07:00Z
+originalUrl: "https://www.techradar.com/au/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+webUrl: "https://www.techradar.com/au/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
 type: article
 quality: 96
 heat: 136
@@ -49,6 +49,6 @@ related:
       domain: businessinsider.com
     quality: 41
 
-secured: "7y+JnR/8fIoI+nAI2/M5ECJ7yj+yObdXfBClXgF4kLnyLDoQAIqv8JXGrV0pMOmrDMEciqJit2EsQSIDPS2I6ocDUui8UoK0eCWHuF5NMHm6Ucf7OwCoyJQrOMIDOGxJVCra6viJH+OBErGB+cNaRmRRN80bpABMweMCI1gCfZ17hpVi66j6CNnc6F9FgLh9dZ8ewAK6OVCdJe/GLMDXjijzf4fKHClao5jvb5EEKiRUH749L0AqK+Xt+Pj79X9jBVvG4QCcnsoX5L/8fOdArCu0RMVnkI4lFWTg4FVtp1Th5dLkzCwx9wtkwRZNxcK3ODbTojtYmJddAtUt1r5rwAOb9qHR0lKbIAI4tpNwDZo=;wnmzHspMb2oHIMplw4iTZQ=="
+secured: "snzFr6uauTwnDaPIE9odLo16d8iRQq3DBCm54yT62XZrpbOwO9vjMVtrlSTjjaKLyk+bE2/BGYzLbzoqhK55zqZ86W5j0seRZ6+DYIeDijzoP26s3JjwyNmVOTi5981rhA2CVD6AB+6a4OYQ4MzemhGcoZrfbfI2d+aJscb6LvqGwiFJ5TEHMTXcOcDuSJjAxug1wk2pg7+Ntf5ZA0Yrkp4yfyVdU4DnE15+/M51VjgtlryzGkQhEKjbbjifImfi2FB0y7x7TT2ieqj/NEsuqRcRRem/M32iV1IjaPAT4G89aw+FEcW4OCDWzJ4k5TUt+znTqacwNj2o+hwXueCxlO18qSKnEuWClaSULPJo2DI=;eGOnsHVnSQHe8Cz1g82VfA=="
 ---
 

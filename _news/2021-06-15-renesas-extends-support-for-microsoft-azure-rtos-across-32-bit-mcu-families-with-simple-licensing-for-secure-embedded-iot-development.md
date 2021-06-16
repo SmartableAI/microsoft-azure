@@ -2,27 +2,21 @@
 category: news
 title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
 excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
-publishedDateTime: 2021-06-15T12:02:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_aaaaf413-cac8-5608-a19f-180153ad5954.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_aaaaf413-cac8-5608-a19f-180153ad5954.html"
+publishedDateTime: 2021-06-15T12:12:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-renesas-extends-support-microsoft-azure-rtos-across-32-/2021/06/15/9390419.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-renesas-extends-support-microsoft-azure-rtos-across-32-/2021/06/15/9390419.htm"
 type: article
-quality: 23
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
   - IoT
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/5f/a5fa6bb3-b488-5885-85eb-b7c34123e627/60c89aae29b02.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -371,7 +365,16 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
+  - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
+    excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
+    publishedDateTime: 2021-06-16T12:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9391505.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "YCUaobEH86FR+mVOqohs9bA6loNF/srO3LCgu0y4OM1kBQExwKtsQmfP/w8SudhEy977aSGxwhCmeVql5ExuGI2jV8vXTR8YfcAUvvv8F+I/fdlpXmoUb7mJPAzJ4pH5iPuL0aUSb7GFuC1uOIyHZnNtfITvbh9LLxagWN4vSkumC0cThAO2infFLHB3MkrSGtyM9GZhJBRNTp+54Sfz+u8togaROTMWxlU4ovSOipO4xGtBwuyM/j8J1jZq1u5VgPDHjo3iknA6VO3cCb7JB7mVx3TP/0kMJyxkJJi3HWUllLMJF8DbG/zbBlXoQBY7A68/iog0fiQb8UYYXdabmsYbHB29TLWVCf9HB8D79R3vZw2pVg65j4xxQoVbam5boEBPgvTkS05pA5/1YYQe6wcU3/yeyzyHWWB5YO9TBNpwEbpAo64+/mbman+7YXUw6nEWG9kaDt2Yr0elgaYDLhyTqtAlI3i/Ki+rudom5ixjwnEfaWaP7JI+QzxmQKj8dOJ2V6k+yDQqECoI0sOPnQ==;Mh9iMrLTEwygxQoDOdEccw=="
+secured: "J1md8G0eWvuSgFlKWTVPxP76spzScIvm7QCESlPaG7UYgc9Is3Oejq4pVyyFtkGgIdGdJ6IWD05wQjNQylJsy+LRj0F4pymb0hWHbggHoGkYic9eZZL4pAXwhK5y6/gRKk0iG0e5lNYuEYJNzKfnKoEcazubar3snJY+IQmk4k1nEDSmWUAO62YRt8rNkp6aYlw/3csGystQpx4Pq7DC8MqViT2PG2ofDAeY9dDSdqKhEwpGuTVzuf1QnD7z5cHUCicXOknfBZ7LYMoIe8yya9Zf7qpSMWNuj/I12ZE1Le19Wg9SNmdUSa5q2GtOILy0YLrUR8p7BKggFwxi+YktH10TgoTvKfsagBehFjvHzfyQZtqBdqhlz081MkafBXvosv05B0pc+xbPObiWjuNRSmjWU5A2gx6oOHoAJMtR1Bq641JM4q3h+XklTDpzFCBz85w+zp3vmMbhQf3uBLNSV3AJAzkM6bStKwxgvAmrKgUCgGoN0MZiKAvcjfkLdJqOFklkD5othmrm0Ygialvakw==;l9HNfqPVSoDGueYYqJRuMA=="
 ---
 

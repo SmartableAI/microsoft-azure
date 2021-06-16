@@ -1907,6 +1907,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Bupa migrates more applications to Microsoft Azure platform"
+    excerpt: "Global healthcare company Bupa is increasing its focus on digital healthcare with further commitments to migrating key applications to the Microsoft Azure cloud platforms. The agreement applies to its core markets"
+    publishedDateTime: 2021-06-16T12:42:00Z
+    webUrl: "https://www.telecompaper.com/news/bupa-migrates-more-applications-to-microsoft-azure-platform--1386946"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
     excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
     publishedDateTime: 2021-03-12T13:05:00Z
