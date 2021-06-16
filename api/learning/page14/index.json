@@ -4,92 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
-      "title": "Capture Web Application Logs with App Service Diagnostics Logging",
-      "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-capture-application-logs-app-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 2682,
-        "average": 4.704325
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-and-manage-azure-key-vault.md",
-      "title": "Configure and manage secrets in Azure Key Vault",
-      "excerpt": "Configure and manage secrets in Azure Key Vault",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-and-manage-azure-key-vault/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 2439,
-        "average": 4.633046
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-and-manage-azure-key-vault-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
       "title": "Configure the network for your virtual machines",
       "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
@@ -169,8 +83,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-protection-governance-capabilities/",
       "length": "PT29M",
       "ratings": {
-        "count": 272,
-        "average": 4.8308825
+        "count": 273,
+        "average": 4.831502
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -257,8 +171,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "PT43M",
       "ratings": {
-        "count": 2628,
-        "average": 4.6149163
+        "count": 2629,
+        "average": 4.6150627
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -551,8 +465,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "PT53M",
       "ratings": {
-        "count": 2878,
-        "average": 4.6817236
+        "count": 2879,
+        "average": 4.6818337
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -595,8 +509,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-integration-azure-data-factory/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 503,
-        "average": 4.6302185
+        "count": 504,
+        "average": 4.6309524
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -638,8 +552,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 5445,
-        "average": 4.755923
+        "count": 5446,
+        "average": 4.7559676
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -920,8 +834,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
       "length": "PT24M",
       "ratings": {
-        "count": 4599,
-        "average": 4.7856054
+        "count": 4600,
+        "average": 4.785652
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1255,6 +1169,92 @@
       "topics": [
         "Azure",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad.md",
+      "title": "Secure your application by using OpenID Connect and Azure AD",
+      "excerpt": "In this module, you will learn how to enable users to authenticate in multiple systems by using their Azure AD identities.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 2548,
+        "average": 4.671507
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-app-with-oidc-and-azure-ad-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-transcribe-speech-input-text.md",
+      "title": "Transcribe speech input to text",
+      "excerpt": "Speech to text from the speech service, known as speech recognition, enables real time transcription of audio streams into text. Your applications, tools, or devices can consume, display, and take action on this text as command input.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-transcribe-speech-input-text/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 826,
+        "average": 4.7348666
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

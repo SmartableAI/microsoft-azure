@@ -4,6 +4,93 @@
   "page": 47,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-set-up-cors-website-storage.md",
+      "title": "Core Cloud Services - Set up CORS for your website and storage assets",
+      "excerpt": "Set up Cross-Origin Resource Sharing (CORS) for your Azure website and storage assets in order to allow cross-domain access to your resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-set-up-cors-website-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-cors-website-storage/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 99,
+        "average": 4.7272725
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/setup-cors-for-your-website-and-storage-assets-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-set-up-iot-edge-gateway.md",
+      "title": "Set up an IoT Edge Gateway",
+      "excerpt": "This module is theoretical and will walk you through how an IoT Edge device can be used as a gateway.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-set-up-iot-edge-gateway/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-iot-edge-gateway/",
+      "length": "PT1H40M",
+      "ratings": {
+        "count": 306,
+        "average": 4.5457516
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/set-up-iot-edge-gateway-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-set-up-mixed-reality-azure-digital-twins-unity.md",
       "title": "Set up a mixed reality project for Azure Digital Twins in Unity",
       "excerpt": "Get step-by-step guidance on how to set up and configure a mixed reality project in Unity for HoloLens 2. Learn about the Azure Digital Twins and SignalR services and common use cases for the Azure platform in Mixed Reality.",
@@ -1160,94 +1247,6 @@
         "Azure",
         "IoT",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-train-machine-learning-model.md",
-      "title": "Train a machine learning model",
-      "excerpt": "Train a machine learning model",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-machine-learning-model/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-machine-learning-model/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 67,
-        "average": 4.8208957
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/train-machine-learning-model-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-train-package-azure-ml-module-iot-edge.md",
-      "title": "Train and package an Azure machine learning module for deployment to IoT Edge device",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-package-azure-ml-module-iot-edge/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-package-module-iot-edge/",
-      "length": "PT1H26M",
-      "ratings": {
-        "count": 245,
-        "average": 4.5142856
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/train-and-package-an-azure-machine-learning-module-for-deployment-to-iot-edge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "AI"
       ]
     }
   ],
