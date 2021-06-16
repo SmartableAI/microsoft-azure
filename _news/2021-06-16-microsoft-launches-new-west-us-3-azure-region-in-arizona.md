@@ -1,31 +1,26 @@
 ---
 category: news
-title: "Expanding cloud services: Microsoft launches its sustainable datacenter region in Arizona"
-excerpt: "Today we are launching our newest sustainable datacenter region in Arizona, known as “West US 3.” Datacenters are today’s engine for modern business, providing organizations of all sizes the cloud services and tools to innovate, collaborate, and operate securely and efficiently at scale. We build datacenters"
-publishedDateTime: 2021-06-15T09:00:00Z
-originalUrl: "https://azure.microsoft.com/blog/expanding-cloud-services-microsoft-launches-its-sustainable-datacenter-region-in-arizona/"
-webUrl: "https://azure.microsoft.com/blog/expanding-cloud-services-microsoft-launches-its-sustainable-datacenter-region-in-arizona/"
+title: "Microsoft launches new West US 3 Azure region in Arizona"
+excerpt: "Microsoft has launched a new Azure cloud data center region in Arizona. As with other regions, West US 3 is made up of at least three separate facilities known as Availability Zones. The region has data centers located in the cities of Goodyear and El Mirage,"
+publishedDateTime: 2021-06-16T09:46:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-new-west-us-3-azure-region-in-arizona/"
+webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-new-west-us-3-azure-region-in-arizona/"
 type: article
-quality: 65
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
-  - Databases
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b9d843e1-b83c-4f4e-a2b8-3ece2d48b194.jpg"
-    width: 1024
-    height: 683
+  - url: "https://media.datacenterdynamics.com/media/images/Phoenix_AZ_Downtown_from_airplane.2e16d0ba.fill-1200x630_LPGabwB.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -128,6 +123,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Expanding cloud services: Microsoft launches its sustainable datacenter region in Arizona"
+    excerpt: "Today we are launching our newest sustainable datacenter region in Arizona, known as “West US 3.” Datacenters are today’s engine for modern business, providing organizations of all sizes the cloud services and tools to innovate, collaborate, and operate securely and efficiently at scale. We build datacenters"
+    publishedDateTime: 2021-06-15T09:00:00Z
+    webUrl: "https://azure.microsoft.com/blog/expanding-cloud-services-microsoft-launches-its-sustainable-datacenter-region-in-arizona/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b9d843e1-b83c-4f4e-a2b8-3ece2d48b194.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement"
     excerpt: "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time."
     publishedDateTime: 2021-06-05T09:17:00Z
@@ -256,20 +265,6 @@ related:
         width: 1280
         height: 721
         isCached: true
-  - title: "Microsoft launches new West US 3 Azure region in Arizona"
-    excerpt: "Microsoft has launched a new Azure cloud data center region in Arizona. As with other regions, West US 3 is made up of at least three separate facilities known as Availability Zones. The region has data centers located in the cities of Goodyear and El Mirage,"
-    publishedDateTime: 2021-06-16T09:46:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-new-west-us-3-azure-region-in-arizona/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Phoenix_AZ_Downtown_from_airplane.2e16d0ba.fill-1200x630_LPGabwB.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Renesas extends support for Microsoft Azure RTOS across 32-bit MCU families"
     excerpt: "Renesas Electronics has said that all customers designing with mainstream Renesas 32-bit MCU families will now have access to the Microsoft Azure Real-Time Operating System (RTOS) embedded development suite."
     publishedDateTime: 2021-06-15T07:58:00Z
@@ -376,6 +371,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "yqOuq9sWQTsk59SmPFmNykxzvZKP6dxdufHXetZfV/17/kjjFRlU5Q0eMSPs0t2jkac0z5oKW5FipdMmr/CifnYJIyS0ZAeUn3+C+TbFSvAKdGXghZcSt7qi+4tR7RoXCfSd+ARHhODxnWGDxXzj9mAuJLMHuiR1rvg9D4xSAOy/a+MoYJVRGiPdUzaiPedC97M/vO6Do2X/enX3RZHs3/gmv5+Jjb+gq9JDV1E3pH3V5N0rDSMkab6YerRgoM1U0Rg532Kg/hA0mhG7mOqXX0w9DxHaZfWnbd5vf9xJv8rC0QcVhilfRWJ1milP/zaprbDd1xPAU/gyP0VE7h/435Oaj8OxHthkfIyPO/EZElg=;uu2mVcMQpxJqncWNVVI7sQ=="
+secured: "UH8OlwHsKpuQsXwZ4iLIW5+w9QZ7Z9dzT1dq8I8h3nri9VUhpD/zW70kwD2Q5aWfOAvI7QTv1ZcB1Q5b6TxAyitHU9H0Ax6KIYbk7H/aeoUDG/QUiY5P5gwh6FSSavHsGMd8z+jfIYgYX0UOOXsV1W8wgJkloDDQWs43p2LzDxvIK4bcON9hZ/6as55wdNx8iAeuFWqwI+tcAxUjfHQiWqVSO5kCa+xRjqEygIGKGLGOVnRM14C7+OuvjeYotP/W6nHfJuVyZJk/ZqalvnSFNRf7RxKqhllDjSXOmXPfl+OssqdF1KS0ZvzTvKUQLrlxdYUxgClgZHXGUXMMZqtKf44/dlMfuHIr09rm9lTQ8Ko=;cnOyKqlszwjSZayv0cB8tQ=="
 ---
 

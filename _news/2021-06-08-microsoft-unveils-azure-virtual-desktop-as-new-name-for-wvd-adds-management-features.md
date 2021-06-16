@@ -265,6 +265,20 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "Microsoft launches new West US 3 Azure region in Arizona"
+    excerpt: "Microsoft has launched a new Azure cloud data center region in Arizona. As with other regions, West US 3 is made up of at least three separate facilities known as Availability Zones. The region has data centers located in the cities of Goodyear and El Mirage,"
+    publishedDateTime: 2021-06-16T09:46:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-new-west-us-3-azure-region-in-arizona/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Phoenix_AZ_Downtown_from_airplane.2e16d0ba.fill-1200x630_LPGabwB.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Renesas extends support for Microsoft Azure RTOS across 32-bit MCU families"
     excerpt: "Renesas Electronics has said that all customers designing with mainstream Renesas 32-bit MCU families will now have access to the Microsoft Azure Real-Time Operating System (RTOS) embedded development suite."
     publishedDateTime: 2021-06-15T07:58:00Z
@@ -279,6 +293,17 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Bupa goes deeper into Microsoft Azure cloud for personalised healthcare push"
+    excerpt: "International private healthcare provider is on a multi-year, cloud-led digital transformation push with the help of long-time tech collaborator Microsoft."
+    publishedDateTime: 2021-06-16T03:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252502474/Bupa-goes-deeper-into-Microsoft-Azure-cloud-for-personalised-healthcare-push"
+    ampWebUrl: "https://www.computerweekly.com/news/252502474/Bupa-goes-deeper-into-Microsoft-Azure-cloud-for-personalised-healthcare-push?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252502474/Bupa-goes-deeper-into-Microsoft-Azure-cloud-for-personalised-healthcare-push?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 34
   - title: "Microsoft and NetApp announce availability of Azure NetApp Files in the UAE North Region"
     excerpt: "The high-performance Azure NetApp Files (ANF) cloud file storage service is now available for data storage in the United Arab Emirates North region, located in Dubai. Azure NetApp Files is currently Microsoft Azure's fastest growing file service worldwide."
     publishedDateTime: 2021-06-13T08:23:00Z

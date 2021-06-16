@@ -1,32 +1,23 @@
 ---
 category: news
-title: "Expanding cloud services: Microsoft launches its sustainable datacenter region in Arizona"
-excerpt: "Today we are launching our newest sustainable datacenter region in Arizona, known as “West US 3.” Datacenters are today’s engine for modern business, providing organizations of all sizes the cloud services and tools to innovate, collaborate, and operate securely and efficiently at scale. We build datacenters"
-publishedDateTime: 2021-06-15T09:00:00Z
-originalUrl: "https://azure.microsoft.com/blog/expanding-cloud-services-microsoft-launches-its-sustainable-datacenter-region-in-arizona/"
-webUrl: "https://azure.microsoft.com/blog/expanding-cloud-services-microsoft-launches-its-sustainable-datacenter-region-in-arizona/"
+title: "Bupa goes deeper into Microsoft Azure cloud for personalised healthcare push"
+excerpt: "International private healthcare provider is on a multi-year, cloud-led digital transformation push with the help of long-time tech collaborator Microsoft."
+publishedDateTime: 2021-06-16T03:00:00Z
+originalUrl: "https://www.computerweekly.com/news/252502474/Bupa-goes-deeper-into-Microsoft-Azure-cloud-for-personalised-healthcare-push"
+webUrl: "https://www.computerweekly.com/news/252502474/Bupa-goes-deeper-into-Microsoft-Azure-cloud-for-personalised-healthcare-push"
+ampWebUrl: "https://www.computerweekly.com/news/252502474/Bupa-goes-deeper-into-Microsoft-Azure-cloud-for-personalised-healthcare-push?amp=1"
+cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252502474/Bupa-goes-deeper-into-Microsoft-Azure-cloud-for-personalised-healthcare-push?amp=1"
 type: article
-quality: 65
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computer Weekly
+  domain: computerweekly.com
 
 topics:
   - Azure
-  - Databases
-
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b9d843e1-b83c-4f4e-a2b8-3ece2d48b194.jpg"
-    width: 1024
-    height: 683
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -128,6 +119,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Expanding cloud services: Microsoft launches its sustainable datacenter region in Arizona"
+    excerpt: "Today we are launching our newest sustainable datacenter region in Arizona, known as “West US 3.” Datacenters are today’s engine for modern business, providing organizations of all sizes the cloud services and tools to innovate, collaborate, and operate securely and efficiently at scale. We build datacenters"
+    publishedDateTime: 2021-06-15T09:00:00Z
+    webUrl: "https://azure.microsoft.com/blog/expanding-cloud-services-microsoft-launches-its-sustainable-datacenter-region-in-arizona/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b9d843e1-b83c-4f4e-a2b8-3ece2d48b194.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement"
     excerpt: "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time."
     publishedDateTime: 2021-06-05T09:17:00Z
@@ -284,17 +289,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Bupa goes deeper into Microsoft Azure cloud for personalised healthcare push"
-    excerpt: "International private healthcare provider is on a multi-year, cloud-led digital transformation push with the help of long-time tech collaborator Microsoft."
-    publishedDateTime: 2021-06-16T03:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252502474/Bupa-goes-deeper-into-Microsoft-Azure-cloud-for-personalised-healthcare-push"
-    ampWebUrl: "https://www.computerweekly.com/news/252502474/Bupa-goes-deeper-into-Microsoft-Azure-cloud-for-personalised-healthcare-push?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252502474/Bupa-goes-deeper-into-Microsoft-Azure-cloud-for-personalised-healthcare-push?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 34
   - title: "Microsoft Unveils Azure Virtual Desktop As New Name For WVD, Adds Management Features"
     excerpt: "Microsoft has renamed Windows Virtual Desktop (WVD) to Azure Virtual Desktop and announced more control via the Microsoft Endpoint Manager."
     publishedDateTime: 2021-06-08T00:12:00Z
@@ -376,6 +370,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "yqOuq9sWQTsk59SmPFmNykxzvZKP6dxdufHXetZfV/17/kjjFRlU5Q0eMSPs0t2jkac0z5oKW5FipdMmr/CifnYJIyS0ZAeUn3+C+TbFSvAKdGXghZcSt7qi+4tR7RoXCfSd+ARHhODxnWGDxXzj9mAuJLMHuiR1rvg9D4xSAOy/a+MoYJVRGiPdUzaiPedC97M/vO6Do2X/enX3RZHs3/gmv5+Jjb+gq9JDV1E3pH3V5N0rDSMkab6YerRgoM1U0Rg532Kg/hA0mhG7mOqXX0w9DxHaZfWnbd5vf9xJv8rC0QcVhilfRWJ1milP/zaprbDd1xPAU/gyP0VE7h/435Oaj8OxHthkfIyPO/EZElg=;uu2mVcMQpxJqncWNVVI7sQ=="
+secured: "/G1V2r9TLe1uPS4Rq1H5uOIv5KxOcon2uBuLwBLQ69b8lZ5jCgqvE5GuAqor63Up8UiMZSU+zK0KaVUFgVRD6r9G7fFZNdvPXdYEVLn1Cdfn6kl0qZTv2vRjIp1XtEZ6Eztj0KX+HN6Jr23zaSGw1amNY7F/RKe6WuFTlWdDRezN2ePTcPTmCVfp5POlxZsXz3XX2OWFvIEzH319PJaFuyn2JGCHQ8wxUQ2Hx7bnUGwlM0w1ZbaI/KGLDKhiEqcHux2PtYSG3eNSXnGmo2P4BGk+Qr8NAxpcUcxt5En1YqDSdNN5ZS+ZNChbkHGzL43BLXwggM2FTfkt2abb0CvJ3l46eLNQTyafq4GdsNj1Ykjw/sdeBYaeh4Kmqa2LlBmsuHHgsV3SwP6cJKX73etsHrMkbBPkgtSoFHka6kZuAM46Hms24+7r7fW9HXXbmchK196/ekhZy7Jyba2lOZIhX3LvxvXqcfOEpWVi9ghOneWgqekUpzTAUW2P6JDVpkCZ8NptJYgPY9Yc29JOyq2RrA==;C+N0q1Xa2lJMkMR9yAnYtw=="
 ---
 
