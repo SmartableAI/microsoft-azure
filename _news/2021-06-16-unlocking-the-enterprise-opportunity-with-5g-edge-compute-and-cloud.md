@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-16T07:00:09Z
 originalUrl: "https://azure.microsoft.com/blog/unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud/"
 webUrl: "https://azure.microsoft.com/blog/unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud/"
 type: article
-quality: 74
-heat: 74
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -21,6 +21,8 @@ provider:
 topics:
   - Azure
   - Networking
+  - AI
+  - IoT
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fa65174f-da4b-455a-9df3-f85a7f2fee42.jpg"

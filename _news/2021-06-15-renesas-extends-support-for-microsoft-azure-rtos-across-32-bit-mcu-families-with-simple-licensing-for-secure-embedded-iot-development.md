@@ -2,21 +2,27 @@
 category: news
 title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
 excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
-publishedDateTime: 2021-06-15T12:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-renesas-extends-support-microsoft-azure-rtos-across-32-/2021/06/15/9390419.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-renesas-extends-support-microsoft-azure-rtos-across-32-/2021/06/15/9390419.htm"
+publishedDateTime: 2021-06-15T12:02:00Z
+originalUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_aaaaf413-cac8-5608-a19f-180153ad5954.html"
+webUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_aaaaf413-cac8-5608-a19f-180153ad5954.html"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
   - IoT
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/5f/a5fa6bb3-b488-5885-85eb-b7c34123e627/60c89aae29b02.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -175,6 +181,20 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/frrqr450308.jpg"
         width: 450
         height: 308
+        isCached: true
+  - title: "Here's how AWS, Google Cloud, IBM, and Microsoft Azure are pitching themselves to finance firms in their fight to win Wall Street's business"
+    excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
+    publishedDateTime: 2021-06-15T21:00:00Z
+    webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: "https://i.insider.com/60ac14aa5e3457001926545c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Amdocs to Offer its BSS/OSS on Microsoft Azure to Operators"
     excerpt: "Amdocs extends its partnership with Microsoft, widening the availability of its portfolio on Microsoft Azure and the Azure for Operators"
@@ -375,6 +395,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "J1md8G0eWvuSgFlKWTVPxP76spzScIvm7QCESlPaG7UYgc9Is3Oejq4pVyyFtkGgIdGdJ6IWD05wQjNQylJsy+LRj0F4pymb0hWHbggHoGkYic9eZZL4pAXwhK5y6/gRKk0iG0e5lNYuEYJNzKfnKoEcazubar3snJY+IQmk4k1nEDSmWUAO62YRt8rNkp6aYlw/3csGystQpx4Pq7DC8MqViT2PG2ofDAeY9dDSdqKhEwpGuTVzuf1QnD7z5cHUCicXOknfBZ7LYMoIe8yya9Zf7qpSMWNuj/I12ZE1Le19Wg9SNmdUSa5q2GtOILy0YLrUR8p7BKggFwxi+YktH10TgoTvKfsagBehFjvHzfyQZtqBdqhlz081MkafBXvosv05B0pc+xbPObiWjuNRSmjWU5A2gx6oOHoAJMtR1Bq641JM4q3h+XklTDpzFCBz85w+zp3vmMbhQf3uBLNSV3AJAzkM6bStKwxgvAmrKgUCgGoN0MZiKAvcjfkLdJqOFklkD5othmrm0Ygialvakw==;l9HNfqPVSoDGueYYqJRuMA=="
+secured: "yD4A0jEQWtDto0Jznph0QPq0pGH+mdrYMcQ8gze9HUmpuB441X/5iPT+/rGu3OZAoRfsS1leIvz+r0hMMWMlHg71489kHZHxErzicF/w5MWI8BTxCPrxDEnkyPzM2diTSHWIgosYA6rthvlLMWqY5HvyASv+XsMH1xhU0VtCsLnf6KBj9TobK+fj8zR9QQynac7XuUrrIveSz151jOjVutjX7e8WTt1G2S5F7JsiLf2nem7le6WA6Ljf/3n96i/heiQDX6vAyS5D51nVCSRuj4Bs6c3r+nJEq3G3Mk10p6VQ5bmd/zn/0wTlpCHKbnJszHOMScUVLfWSBHYdbyvs+77TuuOkAPfNz65ZCwhhJ8w=;nafKoOjGtc70GboGGpcI/A=="
 ---
 

@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Renesas extends support for Microsoft Azure RTOS across 32-bit MCU families"
-excerpt: "Renesas Electronics has said that all customers designing with mainstream Renesas 32-bit MCU families will now have access to the Microsoft Azure Real-Time Operating System (RTOS) embedded development suite."
-publishedDateTime: 2021-06-15T07:58:00Z
-originalUrl: "https://www.newelectronics.co.uk/electronics-news/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families/238040/"
-webUrl: "https://www.newelectronics.co.uk/electronics-news/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families/238040/"
+title: "Here's how AWS, Google Cloud, IBM, and Microsoft Azure are pitching themselves to finance firms in their fight to win Wall Street's business"
+excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
+publishedDateTime: 2021-06-15T21:00:00Z
+originalUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
+webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
 type: article
-quality: 35
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: New Electronics
-  domain: newelectronics.co.uk
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.newelectronics.co.uk/article-images/238040/renesas.jpg?width=375&height=250&scale=canvas"
-    width: 375
-    height: 250
+  - url: "https://i.insider.com/60ac14aa5e3457001926545c?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -181,20 +185,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "Here's how AWS, Google Cloud, IBM, and Microsoft Azure are pitching themselves to finance firms in their fight to win Wall Street's business"
-    excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
-    publishedDateTime: 2021-06-15T21:00:00Z
-    webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: "https://i.insider.com/60ac14aa5e3457001926545c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Amdocs to Offer its BSS/OSS on Microsoft Azure to Operators"
     excerpt: "Amdocs extends its partnership with Microsoft, widening the availability of its portfolio on Microsoft Azure and the Azure for Operators"
     publishedDateTime: 2021-06-07T01:10:00Z
@@ -292,6 +282,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Phoenix_AZ_Downtown_from_airplane.2e16d0ba.fill-1200x630_LPGabwB.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Renesas extends support for Microsoft Azure RTOS across 32-bit MCU families"
+    excerpt: "Renesas Electronics has said that all customers designing with mainstream Renesas 32-bit MCU families will now have access to the Microsoft Azure Real-Time Operating System (RTOS) embedded development suite."
+    publishedDateTime: 2021-06-15T07:58:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families/238040/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 35
+    images:
+      - url: "https://www.newelectronics.co.uk/article-images/238040/renesas.jpg?width=375&height=250&scale=canvas"
+        width: 375
+        height: 250
         isCached: true
   - title: "Bupa goes deeper into Microsoft Azure cloud for personalised healthcare push"
     excerpt: "International private healthcare provider is on a multi-year, cloud-led digital transformation push with the help of long-time tech collaborator Microsoft."
@@ -394,6 +398,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "AmdJ6R6M3MjR4D6EoUvb0krXHCCcKFF+/xq+H/0LQ4D7hkxcD+czWIPlqULmMBriukZTSaV5E+fb/nJkSpHQ3/t4Yn8RKBZWDDiSbD0Gsh0XIrQbTmKTMFpMSqHXVPVxmNvydrDHZQRD1jvDW/n9uzlTax4QMYuN9xxJeYWjixSHDPmZ442NN1YA2wWracaY86c4yZjTPuPR5MGmJ8LxNd5HaaRXonC938I09aYh8JKWUuZ5l2BF8KUYBGYcYpwAzKwjbRUTKHaygCQF26gAD6moPyiPAJMHoVNqYyyXK7KoiMItCkTs/2I08m67J39kZVP9ExXJoKZbg6Klf0sxLUCRTT1X5ewyYkLfySo0pj0=;lvL7GkAKgj+LBCkNw2GfFw=="
+secured: "vv1A9LvG2ylyT1f6+yq4OYPDE1E1ugtu5iwAfNVUdem6jGpB2NDe0rnRoaP1XXsuLvZ9zZPceGXjBhbYuXRDCRtRjAYGUUr26gc0vVR70zqfV3FQXfq05p2iaqADlPIv5NJy6AY4Bkr5Z0d/0RwoYlrWEzSwJClsCmc9It6EuOCLdCi6hFC/2gi9bd5V1hRknUSvPdF8X/VwLJpSYOVK0V1PWr4XoVAfNlY238C8O0CUr9IPTp42WrKgAF5xom/EqSmGYubONCTf79Ik/O1VIDW3mbNz8FpTHxJJDmS75HCfJnzT+lIjwXq0CGbxrwhzcSApw4t+U9BJCV+zDcvbMfTgRf8poE05TRfhwf7cUJs=;Bl/1HN28JqGJ8Zzc/5MEkg=="
 ---
 

@@ -181,6 +181,20 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "Here's how AWS, Google Cloud, IBM, and Microsoft Azure are pitching themselves to finance firms in their fight to win Wall Street's business"
+    excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
+    publishedDateTime: 2021-06-15T21:00:00Z
+    webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: "https://i.insider.com/60ac14aa5e3457001926545c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
     excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
     publishedDateTime: 2021-06-07T09:30:00Z
@@ -329,6 +343,20 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
+    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
+    publishedDateTime: 2021-06-15T12:02:00Z
+    webUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_aaaaf413-cac8-5608-a19f-180153ad5954.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 23
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/5f/a5fa6bb3-b488-5885-85eb-b7c34123e627/60c89aae29b02.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"
     excerpt: "BBIX, a subsidiary of SoftBank that conducts an internet exchange business, has expanded the 'BIX Multi-Cloud' service coverage to Osaka Area starting with Microsoft Azure. BBIX Multi-Cloud for Microsoft Azure in now available in the Osaka area."
     publishedDateTime: 2021-06-11T09:02:00Z
@@ -356,15 +384,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
-  - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
-    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
-    publishedDateTime: 2021-06-15T12:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-renesas-extends-support-microsoft-azure-rtos-across-32-/2021/06/15/9390419.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
     publishedDateTime: 2021-06-16T12:04:00Z
