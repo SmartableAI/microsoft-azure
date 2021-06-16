@@ -376,6 +376,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Tigera's Calico Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Tigera today announced the availability of Calico Cloud in the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. Tigera customers can now take advantage of the scalability,"
+    publishedDateTime: 2021-06-16T16:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-tigeras-calico-cloud-now-available-the-microsoft-azure-/2021/06/16/9392025.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
     excerpt: "Hanshow has developed a SaaS solution that is connecting an unprecedented 10 million IoT devices across a network of Ahold Delhaize stores in Europe."
     publishedDateTime: 2021-06-08T06:00:00Z
@@ -395,6 +404,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "yD4A0jEQWtDto0Jznph0QPq0pGH+mdrYMcQ8gze9HUmpuB441X/5iPT+/rGu3OZAoRfsS1leIvz+r0hMMWMlHg71489kHZHxErzicF/w5MWI8BTxCPrxDEnkyPzM2diTSHWIgosYA6rthvlLMWqY5HvyASv+XsMH1xhU0VtCsLnf6KBj9TobK+fj8zR9QQynac7XuUrrIveSz151jOjVutjX7e8WTt1G2S5F7JsiLf2nem7le6WA6Ljf/3n96i/heiQDX6vAyS5D51nVCSRuj4Bs6c3r+nJEq3G3Mk10p6VQ5bmd/zn/0wTlpCHKbnJszHOMScUVLfWSBHYdbyvs+77TuuOkAPfNz65ZCwhhJ8w=;nafKoOjGtc70GboGGpcI/A=="
+secured: "KhDy5uDMrNYKS/gCT2eHrXj/CMrr31Yso8eX+/kpI+M1WJdYLihO5UbUwd0ZKF5KZiujnQ5is3gzD3ddLB0QuVXAB9Wq4BCHoYJmzo45Xu5Gs2v2Vo7I+DIjZx500+rblsZyDssoxRTlcuQc5ODw/RnpaJrNn1Mc3mybllAzitmAFls4aSSq94A1Dd/4DP0WInaKT+GQmXF/TWx/pbXC70gc5jLmW2Pr6s86muyb+CsIyW/W+Ycn5P/SqVbBBWpQUBz7mCnTKzBpjecCnB5gMFjNsBLuvBMk07SXoHy+pBpvYQtj8iVwmhpuKKXH2UtgZwP5sRofa6OMIrCbK3LqWws+idl1IcDnFO3cQoFjSWVVWnN0RaOHxo3YmSBmLKBG3+mMiGrEm2wT26R+ZvzaJE40Lauhjr5dSxEoZqSKAoEJVd9aGkKtQAqXKfo3j9FXg5wV47A7UlsUbZkP+IWhXLf2zOP8Y8z374bc14qMv+oX21ciH5YGT6xN7llZ02oQvztopgweMx/X0oZzIY7AFQ==;MQg7zb3l62SWHACaVyywGQ=="
 ---
 

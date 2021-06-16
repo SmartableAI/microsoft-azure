@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Encryption scopes in Azure Storage now generally available "
-excerpt: "Encryption scopes enable you to provision multiple encryption keys to manage encryption at the container or blob level.  Customers and ISVs can now use a single storage account for multi-tenancy scenarios by provisioning separate encryption keys for each customer. The key that protects an encryption"
-publishedDateTime: 2021-03-29T16:00:28Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/encryption-scopes/"
-webUrl: "https://azure.microsoft.com/en-us/updates/encryption-scopes/"
+title: "Azure Data Lake Storage Static Website is now generally available"
+excerpt: "Directly host static content from Azure Data Lake Storage and view that content from a browser by using the public URL of that website."
+publishedDateTime: 2021-06-16T17:00:11Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-data-lake-storage-static-website-is-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-lake-storage-static-website-is-now-generally-available/"
 type: article
 quality: 84
 heat: -1
@@ -86,10 +86,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure Data Lake Storage Static Website is now generally available"
-    excerpt: "Directly host static content from Azure Data Lake Storage and view that content from a browser by using the public URL of that website."
-    publishedDateTime: 2021-06-16T17:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-lake-storage-static-website-is-now-generally-available/"
+  - title: "Encryption scopes in Azure Storage now generally available "
+    excerpt: "Encryption scopes enable you to provision multiple encryption keys to manage encryption at the container or blob level.  Customers and ISVs can now use a single storage account for multi-tenancy scenarios by provisioning separate encryption keys for each customer. The key that protects an encryption"
+    publishedDateTime: 2021-03-29T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/encryption-scopes/"
     type: article
     provider:
       name: Microsoft
@@ -272,6 +272,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "+UDCmo9jlhAhRZxgNbxwbDNHFTA8nUuBSOJz246clQljgeoDFHYRDpNabDr2T+RO7X0Ldt29v0uNZ9BphBUP2oPEgbepK11M4Pb18l1rPwFInm9cCnYNS3Q53jroBCOC3ZAOjqcEv0p44m4K079A0nm+yHxeyRKwEqcsSYDADVvRxQUBcBJ24mZcjf08LjB5plmENiVAaEEhj/sEGgFYY4IehCHbEgq/ZcyeCEs2HDZPX8Xerduefx1OUQgbZDtkkzGKLw5rlzRTFbxSyOQb3O2MmBN4bIMHOgqKTUJ9TT0Wu/SB08MjQkIfJaKky3iaPjmji2oQUqqi5I9rKN1t2ca+Ro5pckmRZZ4VaVdqMBU=;fPXsh2Y2of3Wz9ZgAAc/xg=="
+secured: "/J8cGucVDbmuxbuWCaCtGXT5lTsbE1hOzPvpYjbLSYxFwA9wOHVTzpE8ijFQwwOW/7JKN0fctKf0poI7lof6Gonnuds0Gzlv6tOE/mn4CZTkI/a+112AzIlqkjmhOD4mmJrbpCEsH81nAuDcfKUm9LQfVh8ElHuItUl7X0MhSAoOhq59GKnqdhQURjWFM098OG60GyKwZjB2SRQz2+ZOVYDKDn2YeGW/hJyivtFKggSxomHoi6ov3wJA3ncRKNuTytUyPXhbiR1w3P660IVDcyi20ZDyVP13/eS/yOdrkR6dltPN00VMi2kSg2I+awGfGoLoLba+denp6iBPlP2pgYzs+OfVSZ3byQKz/Q9+ng4=;5DUoNxlPYMmaHmN2lKmlDA=="
 ---
 

@@ -379,6 +379,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Tigera's Calico Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Tigera today announced the availability of Calico Cloud in the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. Tigera customers can now take advantage of the scalability,"
+    publishedDateTime: 2021-06-16T16:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-tigeras-calico-cloud-now-available-the-microsoft-azure-/2021/06/16/9392025.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
     excerpt: "Hanshow has developed a SaaS solution that is connecting an unprecedented 10 million IoT devices across a network of Ahold Delhaize stores in Europe."
     publishedDateTime: 2021-06-08T06:00:00Z
@@ -398,6 +407,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "vv1A9LvG2ylyT1f6+yq4OYPDE1E1ugtu5iwAfNVUdem6jGpB2NDe0rnRoaP1XXsuLvZ9zZPceGXjBhbYuXRDCRtRjAYGUUr26gc0vVR70zqfV3FQXfq05p2iaqADlPIv5NJy6AY4Bkr5Z0d/0RwoYlrWEzSwJClsCmc9It6EuOCLdCi6hFC/2gi9bd5V1hRknUSvPdF8X/VwLJpSYOVK0V1PWr4XoVAfNlY238C8O0CUr9IPTp42WrKgAF5xom/EqSmGYubONCTf79Ik/O1VIDW3mbNz8FpTHxJJDmS75HCfJnzT+lIjwXq0CGbxrwhzcSApw4t+U9BJCV+zDcvbMfTgRf8poE05TRfhwf7cUJs=;Bl/1HN28JqGJ8Zzc/5MEkg=="
+secured: "eU0jekrV9kv8hdgXUrmm8xymtJyFoklvArN4YvM3pIy0/WCZJQVkFwEjMpxLMx4AYdnyoQWNmhTW2yYutkh8biUosZbfV91ohywbTCbTOXoqqa91j9zl/D8mcy5J/IHHU7EGjlLwcFFOoVMFpiboJyJ6kx9WlFJZlfapV8QwZQiSmIEVMF7zxVdB8JNNtmkCawvVOPZa4chc5C8jSHpJ5tEk3CPOToYAuXIQ+TgARWl1WPbxbtd3aR84jsuzQEOuGFM8tcwe/CSlWOhjMy/kO6cr+jZZOT1SYVQHgG3tooDFMiclBinqMeUbOz3hDz8pUkHCdc4Z1C0i/tgsHnVpT4oxsFKRTEfz21l6xOUyML9NnMT/m7bbqhPCHX2ughF6kmhh3rh/r5Je3SX1wqAzMPlSpPl24EAxz5k4c9K6zzEwt0t0lsXhVxQJOoJE1rdrKMHOGIn3/pyGVfvHH44nnCjsZ9eQePjmGGypv9PsU6L9K0dmpG+oe3SDClitzxUO7HXZVPiu51kW9LTXcaDIkQ==;cLiRKnZpKAP2339bQkAETw=="
 ---
 

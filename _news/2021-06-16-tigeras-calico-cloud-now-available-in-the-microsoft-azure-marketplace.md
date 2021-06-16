@@ -1,31 +1,21 @@
 ---
 category: news
-title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
-publishedDateTime: 2021-06-15T11:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
-webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
+title: "Tigera's Calico Cloud Now Available in the Microsoft Azure Marketplace"
+excerpt: "Tigera today announced the availability of Calico Cloud in the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. Tigera customers can now take advantage of the scalability,"
+publishedDateTime: 2021-06-16T16:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-tigeras-calico-cloud-now-available-the-microsoft-azure-/2021/06/16/9392025.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-tigeras-calico-cloud-now-available-the-microsoft-azure-/2021/06/16/9392025.htm"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
-    width: 400
-    height: 225
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -89,6 +79,20 @@ related:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
+    publishedDateTime: 2021-06-15T11:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
     excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
@@ -379,15 +383,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Tigera's Calico Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Tigera today announced the availability of Calico Cloud in the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. Tigera customers can now take advantage of the scalability,"
-    publishedDateTime: 2021-06-16T16:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-tigeras-calico-cloud-now-available-the-microsoft-azure-/2021/06/16/9392025.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
     excerpt: "Hanshow has developed a SaaS solution that is connecting an unprecedented 10 million IoT devices across a network of Ahold Delhaize stores in Europe."
     publishedDateTime: 2021-06-08T06:00:00Z
@@ -407,6 +402,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "hXs8DdI4cNaJpjeVIy7Es4GttEuT1r3Lz5/UnU67yGIda9KY+TAz0x6eVnYUBpAeY5fbAsBYvP0WELqq34mG3iQe5PC2OEW+Btc9BUF1+ianmcMwYaNTxuPNWmtsv0ttojLaRuog7NgsiIx1Sc43O6XbHtqpGJg+J0gGhiFqfCVc+lEhxvy96PxHpeA+1OXunWKvUXgVGL/XiASg28L0DcMpwbLpyrCSTGnnzMxiC7bWtA86Om7qEe9IyqitOZ1piWBlqEzJBqaZ/AkeEdArbhdB30Hf0kmNWR53DLLj99LgPQ0gcMML4EzI+dMB12aduiho/Q1BnDIOwfv39gg5p+veZtYUtmeF3+LcLoF4gSXJpPTyONdm06PLlM+B38x7v+Gfs1zIRp2Jz6se0QTOmuiOlctSvTQtBB8//UCwGc1Iwky/tZ/fXH92CetnMeVX1q7+hNZ7tuOk2VJruao8BXVknI/GZGFlfOE1nnBO8W1tDlabE3IixcKWjvdidBTgCZi/6l6toQNiF5IaZ1bpHA==;NAEqcDR+aqj/c45ttlVakw=="
+secured: "wNfhRr0LDEDwUZQ++W+lPzUWAOOCUFtCENB8TbsD5G3FlIPUL5VryyW9itzBkxMsKAdifmrmJBYJaO+eySrz06EVAyXAh4KZOGgudzATGmW0WHrAOoEDpcUJ+/A2u62QIDdEGEyAllnhC9qQzj3DZ4eoB/1SrtAtSMcreHOoAwBNwCGTgPq/gNy1+bMIgDaQDEkqYr7MImNSgq+L3wdKAb02XMADw160u9cMyuGuDfPMjaY2MbztEnecRaEjvjoIARyalIq9EniYa7jg4xZBMvzwYSgYwh6XlBmxq+PBltESrnuyrIdqPcjg5v4QjGDPOJidYB5zNbDNDpLVyNYfbxNRw+V/5mxyCeOcZwLOL3U=;4uBCgN8ksCmf34gQMbmg1Q=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-objec
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
 type: article
 quality: 99
-heat: 619
+heat: 639
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
     excerpt: "Encryption scopes enable you to provision multiple encryption keys to manage encryption at the container or blob level.  Customers and ISVs can now use a single storage account for multi-tenancy scenarios by provisioning separate encryption keys for each customer. The key that protects an encryption"
     publishedDateTime: 2021-03-29T16:00:28Z
     webUrl: "https://azure.microsoft.com/en-us/updates/encryption-scopes/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure Data Lake Storage Static Website is now generally available"
+    excerpt: "Directly host static content from Azure Data Lake Storage and view that content from a browser by using the public URL of that website."
+    publishedDateTime: 2021-06-16T17:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-lake-storage-static-website-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

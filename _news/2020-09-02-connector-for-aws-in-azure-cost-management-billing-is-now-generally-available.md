@@ -100,6 +100,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Data Lake Storage Static Website is now generally available"
+    excerpt: "Directly host static content from Azure Data Lake Storage and view that content from a browser by using the public URL of that website."
+    publishedDateTime: 2021-06-16T17:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-lake-storage-static-website-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Query Acceleration for Azure Data Lake Storage is now generally available"
     excerpt: "Query Acceleration for Azure Data Lake Storage is now generally available in all Azure regions."
     publishedDateTime: 2020-09-10T18:00:21Z
