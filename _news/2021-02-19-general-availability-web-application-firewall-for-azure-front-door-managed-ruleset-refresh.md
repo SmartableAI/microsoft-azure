@@ -67,6 +67,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Maintenance control for Virtual Machine Scale Sets OS image upgrades"
+    excerpt: "Take control of OS image upgrades on your virtual machine scale sets by using the new maintenance control feature. Now you can update at the time chosen by you with all the safety checks in place."
+    publishedDateTime: 2021-06-17T16:50:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-maintenance-control-for-vmss-os-image-upgrades/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
   - title: "General availability: Update in Policy Compliance for Resource Type Policies"
     excerpt: "Azure Policy built-in policies in which resource type is the only evaluation criterion (e.g. Allowed Resource Types, Disallowed Resource Types) have updated logic to provide a more accurate assessment of your overall environment when aggregated with other policies."
     publishedDateTime: 2021-06-07T20:19:54Z

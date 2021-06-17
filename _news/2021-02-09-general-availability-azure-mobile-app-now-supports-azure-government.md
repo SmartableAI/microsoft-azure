@@ -371,6 +371,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Data Explorer and subnet delegation"
+    excerpt: "Injecting an Azure Data Explorer cluster into a virtual network has never been easier."
+    publishedDateTime: 2021-06-17T16:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/adx-vnet-subnetdelegation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Updated App Service Authentication portal experience is now generally available"
     excerpt: "The new Authentication portal experience for App Service and Azure Functions, improving usability, initial setup, and increased security, is now available.”"
     publishedDateTime: 2021-04-01T21:02:34Z

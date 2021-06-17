@@ -102,6 +102,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Blob index tags now generally available"
+    excerpt: "Azure Blob index tags now generally available. Blob index tags allows developers and IT Pros to first tag specific blobs (for example, StoreID = \"1234\") and then filter or query for all blobs to more easily find or use them."
+    publishedDateTime: 2021-06-17T17:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-index-tags-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Connector for AWS in Azure Cost Management + Billing is now generally available"
     excerpt: "The connector for AWS that helps you manage Azure and AWS costs from a single location is now generally available."
     publishedDateTime: 2020-09-02T08:00:01Z

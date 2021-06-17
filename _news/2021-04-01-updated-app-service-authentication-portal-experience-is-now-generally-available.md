@@ -379,6 +379,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Data Explorer and subnet delegation"
+    excerpt: "Injecting an Azure Data Explorer cluster into a virtual network has never been easier."
+    publishedDateTime: 2021-06-17T16:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/adx-vnet-subnetdelegation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: App Service Managed Certificates now supports apex domains"
     excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
     publishedDateTime: 2021-03-17T16:00:26Z

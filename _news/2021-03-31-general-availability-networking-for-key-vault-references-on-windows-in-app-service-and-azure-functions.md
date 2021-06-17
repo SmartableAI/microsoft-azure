@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 1119
+heat: 1139
 published: true
 
 provider:
@@ -368,6 +368,15 @@ related:
     excerpt: "You can now deploy Azure Bastion in a peered Virtual Network (VNet), enabling RDP/SSH connectivity to virtual machines deployed in a peered Virtual network (VNet)"
     publishedDateTime: 2021-05-14T17:00:25Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vnet-peering-support-for-azure-bastion/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: Azure Data Explorer and subnet delegation"
+    excerpt: "Injecting an Azure Data Explorer cluster into a virtual network has never been easier."
+    publishedDateTime: 2021-06-17T16:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/adx-vnet-subnetdelegation/"
     type: article
     provider:
       name: Microsoft

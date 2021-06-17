@@ -116,6 +116,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Asset Panda Introduces New Integration with Microsoft Azure Active Directory"
+    excerpt: "Asset Panda aims to help companies streamline onboarding efforts while protecting data integrity FRISCO, Texas (PRWEB) As part of its continued product"
+    publishedDateTime: 2021-06-17T16:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/p21611599/asset-panda-introduces-new-integration-with-microsoft-azure-active-directory"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21611599"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21611599"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 68
   - title: "Microsoft Azure available from new cloud regions in Arizona"
     excerpt: "Azure is now available from our newest sustainable datacenter region West US 3 in Arizona. "
     publishedDateTime: 2021-06-15T16:00:00Z
@@ -417,6 +428,20 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "VAST Grows Microsoft Partnership with Microsoft Cloud Gold Partner Status"
+    excerpt: "VAST, a leader in Data Protection, IT Infrastructure Management, and Optimization of On-Premise and Cloud Computing Operations, has announced today it has"
+    publishedDateTime: 2021-06-17T17:10:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vast-grows-microsoft-partnership-with-microsoft-cloud-gold-partner-status/article_1e7269b0-87bb-5c09-ba43-e2bbe8c7dc1b.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 21
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"
     excerpt: "BBIX, a subsidiary of SoftBank that conducts an internet exchange business, has expanded the 'BIX Multi-Cloud' service coverage to Osaka Area starting with Microsoft Azure. BBIX Multi-Cloud for Microsoft Azure in now available in the Osaka area."
     publishedDateTime: 2021-06-11T09:02:00Z
@@ -508,6 +533,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "nue/wf4qe1rTDK1qIE+dKEiFuQo3tjuaDfUcDgwo3ywAzFQxe4iKd3ZJPRbmDf4PMIJUCPRXwdwVl9ZWe4xorE4JSgjHBFR/XvIeCuqaovqvDqgeL33fAdExI8WSUjNOLT8vg8OO0wIIChM/CRofIJOKEu6l7jv0/DVN+E6H7rkj7/4PyPITLe2vJVCQEMIAxm5QuRkVHx7XUjCJOSR8Ilgbv4NbebMceW0jc91s2PavRrQmBl1r5NPAQc2dZo4PZIfn8Dbz1/+KDeiYsh6M9B33CyeUCqXaBXViluXvfwdDhXTJPFKfpbIuFTZvGM47luZgr3qF07cRm6bY2dm0/P+W7DMU7Wns2eINlmLBNeE=;1w/2f6UBV/d4FODCV5zMnQ=="
+secured: "9s8a7BjfWH/jnh1f4mr1arBNBqfbcNj5W8fPXlZH0NGSbtKgns5rh1hkGCjF7cm+1IOgTaklkX47TOWviBrwvd+4oRtikDBlHmVRWd0Q8smVX9LuGGrTECPNadLY4IrRqQtt4KFd1UGDjkpx3L7WkAG9xrabPBf2yVXuH+ZR9VMiOGsJY570lBjvou8AY6WsOcFrPygSEe+T0+oadiO78bUEij1/rqs53nCbfUDVt6+k6C1/LB8YHrBjkp654/sJRomTleRAg8KoV9Hy0dE5K6XN5r02EhoAnJZkpxQ30qATxyOhjyjYe33qAC4UbsVJyF5WO2l4ICMj7uJRRIIwC0wfHQbpTdePq8XUjNqUY9eD0V5ZWuNxoi/5rHepDxmV2n58EGmMLz6RbzzrobdgmbbDc0UyF1ywBVEUlgoF6UeechLWtut5WMjiEaDUi+/faA8YT7FJaKb1BEYsUdIpXdDbztKBq3zmJjyvVZn5/ym+OvtA4j0amQQgOgiq61HKa7mhZniNXTQ+MvQutgaPXQ==;kXv9RHSCc5BzlwJNAktTCw=="
 ---
 

@@ -109,6 +109,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Blob index tags now generally available"
+    excerpt: "Azure Blob index tags now generally available. Blob index tags allows developers and IT Pros to first tag specific blobs (for example, StoreID = \"1234\") and then filter or query for all blobs to more easily find or use them."
+    publishedDateTime: 2021-06-17T17:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-index-tags-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Query Acceleration for Azure Data Lake Storage is now generally available"
     excerpt: "Query Acceleration for Azure Data Lake Storage is now generally available in all Azure regions."
     publishedDateTime: 2020-09-10T18:00:21Z

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
 type: article
 quality: 97
-heat: 217
+heat: 237
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Maintenance control for Virtual Machine Scale Sets OS image upgrades"
+    excerpt: "Take control of OS image upgrades on your virtual machine scale sets by using the new maintenance control feature. Now you can update at the time chosen by you with all the safety checks in place."
+    publishedDateTime: 2021-06-17T16:50:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-maintenance-control-for-vmss-os-image-upgrades/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
   - title: "General availability: Web Application Firewall for Azure Front Door managed ruleset refresh"
     excerpt: "Use Microsoft_DefaultRuleSet_1.1 to protect your web applications from OWASP top 10 vulnerabilities."
     publishedDateTime: 2021-02-19T18:54:37Z

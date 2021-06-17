@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-objec
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
 type: article
 quality: 99
-heat: 639
+heat: 659
 published: true
 
 provider:
@@ -90,6 +90,15 @@ related:
     excerpt: "Directly host static content from Azure Data Lake Storage and view that content from a browser by using the public URL of that website."
     publishedDateTime: 2021-06-16T17:00:11Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-lake-storage-static-website-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure Blob index tags now generally available"
+    excerpt: "Azure Blob index tags now generally available. Blob index tags allows developers and IT Pros to first tag specific blobs (for example, StoreID = \"1234\") and then filter or query for all blobs to more easily find or use them."
+    publishedDateTime: 2021-06-17T17:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-index-tags-now-generally-available/"
     type: article
     provider:
       name: Microsoft
