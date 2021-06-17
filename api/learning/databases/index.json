@@ -4,16 +4,18 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/microsoft-how-to-get-started-with-azure-cosmos-db-built-in-notebooks-azure-portal-series.md",
-      "title": "How to get started with Azure Cosmos DB built-in notebooks | Azure Portal Series",
-      "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to use Microsoft Azure Cosmos DB’s built-in C# and Python notebooks. We’ll show how to get started, use notebooks to visualize and analyze your data, and share your notebooks with others.     Try out these features in the Azure portal: https://portal.azure.com",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-azure-cosmos-db-built-in-notebooks-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-azure-cosmos-db-built-in-notebooks-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=OrnZMkP5Eq4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OrnZMkP5Eq4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M2S",
+      "path": "_learning/courses/microsoft-learn-build-node-cosmos-app-vscode.md",
+      "title": "Build a Node.js app for Azure Cosmos DB in Visual Studio Code",
+      "excerpt": "Build a database app to store and query data in Azure Cosmos DB by using Visual Studio Code, Node.js and JavaScript.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-node-cosmos-app-vscode/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-node-cosmos-app-vscode/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 348,
+        "average": 4.534483
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -24,23 +26,25 @@
           }
         ]
       },
-      "publishedDateTime": "2021-05-03T08:24:32-07:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/OrnZMkP5Eq4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/build-node-cosmos-app-vscode-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Management tools",
-        "Databases"
+        "Databases",
+        "Developer tools"
       ]
     },
     {
@@ -74,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 16191,
-            "average": 4.762584
+            "count": 16196,
+            "average": 4.7625957
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +123,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 13338,
-            "average": 4.6363773
+            "count": 13341,
+            "average": 4.636459
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +166,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 11691,
-            "average": 4.7689676
+            "count": 11696,
+            "average": 4.768981
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -205,8 +209,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 16302,
-            "average": 4.7295423
+            "count": 16309,
+            "average": 4.7294745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -277,8 +281,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 16302,
-        "average": 4.7295423
+        "count": 16309,
+        "average": 4.7294745
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -323,8 +327,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 15048,
-        "average": 4.693182
+        "count": 15049,
+        "average": 4.693202
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -419,8 +423,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 11305,
-            "average": 4.766652
+            "count": 11310,
+            "average": 4.766755
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -629,8 +633,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 478,
-            "average": 4.713389
+            "count": 479,
+            "average": 4.7139874
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -671,8 +675,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9269,
-            "average": 4.667494
+            "count": 9270,
+            "average": 4.6675296
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -909,8 +913,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 1946,
-            "average": 4.594039
+            "count": 1947,
+            "average": 4.5942473
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -946,8 +950,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 7061,
-            "average": 4.684039
+            "count": 7062,
+            "average": 4.6839423
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1115,8 +1119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
           "length": "PT59M",
           "ratings": {
-            "count": 1519,
-            "average": 4.566162
+            "count": 1520,
+            "average": 4.5664473
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1480,8 +1484,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 16302,
-            "average": 4.7295423
+            "count": 16309,
+            "average": 4.7294745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1772,8 +1776,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/write-subqueries/",
           "length": "PT50M",
           "ratings": {
-            "count": 26,
-            "average": 4.923077
+            "count": 27,
+            "average": 4.9259257
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1901,8 +1905,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9899,
-            "average": 4.6973433
+            "count": 9900,
+            "average": 4.697374
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4202,8 +4206,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 2111,
-        "average": 4.278541
+        "count": 2112,
+        "average": 4.2788825
       },
       "provider": {
         "name": "Microsoft Learn",
