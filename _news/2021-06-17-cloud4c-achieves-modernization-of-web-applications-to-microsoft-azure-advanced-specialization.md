@@ -1,18 +1,18 @@
 ---
 category: news
-title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-publishedDateTime: 2021-06-17T04:02:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
+title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
+publishedDateTime: 2021-06-17T11:37:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-achieves-modernization-web-applications-microsoft-azure-advanced-/2021/06/17/9392455.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-achieves-modernization-web-applications-microsoft-azure-advanced-/2021/06/17/9392455.htm"
 type: article
-quality: 2
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -426,15 +426,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
-  - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
-    publishedDateTime: 2021-06-17T11:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-achieves-modernization-web-applications-microsoft-azure-advanced-/2021/06/17/9392455.htm"
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
+    publishedDateTime: 2021-06-17T04:02:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 2
   - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
     excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
     publishedDateTime: 2021-06-17T07:06:00Z
@@ -454,6 +454,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "bZ+rmv47/CwioNKEopuHVuW++utovAcSLAOTFH38Hr9pQnggIPn9KYyAPxcZtMRCsnF/NWOQnZyou/alrCiHHAPjLltiG+6jYe68E2zJYNKz4nBi/rpT3e3OIGfFBxHJzyk0LJUpRB4mD0UjbAyU4J+xvpUD/bAHH6d/Bien8fZkYGThKGESKo0JaQ/iAggt6IbALxtHKqRe+uthl8iX6kccFZqll76ONyZ8k299LE/c7k4PeHLCDC907obw/VgAvSV9vvLvuBlkOcebLHmYw93pTPkC35Ra0EAL6ufNU815JC4w8Yunkm0WMqS8nzxL8zt9dw66nXnvE81VE+L3By+dffSo58g9W1a1/qqrRkA=;y3tqZZiGm5mDuvkusp6FGQ=="
+secured: "yTPaP2cDPiezGTXtQpRnhVtqanqFFMncnOC5R+WGzHf66BKx5+f+fK96loVXZk2ep1oYSI/qYMxCWPXwYJ+hUGKsL0LIorQmDmvYpcDaHmXVqRa6rxt2f27GY3TMQpXGqNiUHwZwCtlaBoxzCk8cubVYGQ1hHMep3nuOgUy+pqhdu3Sqgbhrah66wCBN9mp5sG42/mGLTVmCehspNwMFne54aL+mWaMQ2RHmv5sMk4Ud3GJiOhWmRp5E6WNp9dO+pg7ouv3AaJRCnTvbmF109XSBNRWSsRMNnuV3wQfssQ8jQd+5/TjkvELzXtcbE0kwSpNXHuL0NvjONPPF2gH7mUodYjmBLmPkv20CXH9DYy0=;7b1drD+sXWqxrIxpdiicow=="
 ---
 

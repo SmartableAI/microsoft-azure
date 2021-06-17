@@ -418,6 +418,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
+  - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
+    publishedDateTime: 2021-06-17T11:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-achieves-modernization-web-applications-microsoft-azure-advanced-/2021/06/17/9392455.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
     publishedDateTime: 2021-06-17T04:02:00Z
@@ -446,6 +455,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "4JZSfVYnHNdigaWZK/o5dDNIuXj9gN1SgqclrxmilGp8Z20pX7qADp9PW68aob6bhiqqg/mnQNxy1VAljHm4d2I1ko870ge3mbnPDteH+W7bL7rnoWpjuPVxsj93qIhAs8k9nZFjwT29oXFuqyo+MxD6TLLuwhkBJUGPu5UqY1F4/l6HcpAtgFZn3oQfh8Cytei2VfcC3Wy7JvQBvj2jehQloNjE2UycKmASx8IhgZa9ZnbkDilcn6jDFSMEyfsye0uZPcw7vODQQvAds3UqMgR9wcLANiCiTxlxEVvOXTx6GaD/yybip2NpXOMWwLsclqwJ3ZC4TmfvTTHQQJvPAcDeuU2xupRwKjbsgWxbPM0=;F/try2BuSd/9j8Qdq3hvZQ=="
+secured: "FgXLjaFyOu0eGMXKBbnnFsUunfE5g2My/cFbBCkc2pkSb6SrFe9AO2t1ewB9rfC8mS6fBJwlzaCQaL+dJQa/neze+CCoK5D+KoqAKgs0VBeGAqPmVZkYcybUFq3NelAkEIQTuz11y5h/+JqAVlbD+TRKEk79ihXUHAkLKsoailG2s0ZAHI86mbWxXRR9LwczyheoK0dC30fEl8J5DZv3oXkVSXra6++4g3CdO5+wuRWR3mfJY1w4bJ6FNUClo2DFgth3c68sRLt+6Mqs2vOMlXycqkFweIHyGOOjBeclMm3AnXct8+CxTXO8mpPjU7+12zAFlILlfyV8fdG9OfRUIv/nry+KL708hYP2Ai0EHjc=;Ucfoy7vlaoqxL0edweQWmQ=="
 ---
 
