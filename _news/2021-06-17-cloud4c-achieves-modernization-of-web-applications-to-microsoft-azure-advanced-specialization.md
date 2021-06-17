@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure advanced specialization"
-excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their"
-publishedDateTime: 2021-06-17T12:31:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-121061701081_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-121061701081_1.html"
-ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-121061701081_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-121061701081_1.html"
+title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
+publishedDateTime: 2021-06-17T11:37:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392455.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392455.htm"
 type: article
-quality: 46
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/17/full/20210617172204.jpg"
-    width: 600
-    height: 450
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -171,6 +163,22 @@ related:
         width: 1600
         height: 800
         isCached: true
+  - title: "Theum Now Available in the Microsoft Azure Cloud"
+    excerpt: "Intelligent answer oriented access to documented knowledge in just a few clicks Stuttgart Germany June 17 2021 Theum AG www theum com announced the availability of its AI based software Theum for the automated deployment of and direct access to"
+    publishedDateTime: 2021-06-17T14:57:00Z
+    webUrl: "https://www.openpr.com/news/2307901/theum-now-available-in-the-microsoft-azure-cloud"
+    ampWebUrl: "https://www.openpr.com/amp/2307901/theum-now-available-in-the-microsoft-azure-cloud"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2307901/theum-now-available-in-the-microsoft-azure-cloud"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/6/U617781440_g.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "NSW Police runs AI over evidence using Microsoft Azure"
     excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
     publishedDateTime: 2021-06-07T05:54:00Z
@@ -240,6 +248,20 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/04d63a816388b94e314f79610c152242.jpg?t=20210607_010546"
         width: 752
         height: 408
+        isCached: true
+  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
+    excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
+    publishedDateTime: 2021-06-07T09:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+        width: 1616
+        height: 846
         isCached: true
   - title: "Cloud4C Receives 'SAP On Microsoft Azure Advanced Specialization'"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true va"
@@ -376,18 +398,18 @@ related:
       domain: zawya.com
     quality: 28
   - title: "Perforce Releases Free, Turnkey Solution for Game Dev and VFX Studios on Microsoft Azure"
-    excerpt: "Perforce Software, a provider of solutions to teams requiring security, visibility, and scale along the development lifecycle,"
+    excerpt: "Perforce Software, a provider of solutions to teams requiring security, visibility, and scale along the development lifecycle, announces partnership with Microsoft to deliver the"
     publishedDateTime: 2021-06-17T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/perforce-releases-free-turnkey-solution-for-game-dev-and-vfx-studios-on-microsoft-azure-301314721.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/perforce-releases-free-turnkey-solution-for-game-dev-and-vfx-studios-on-microsoft-azure/article_0a52591e-4af5-5a65-bbef-bc905a9f138f.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 28
     images:
-      - url: "https://mma.prnewswire.com/media/153498/perforce_software_logo.jpg?p=facebook"
-        width: 2691
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
     excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
@@ -403,15 +425,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-    excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-    publishedDateTime: 2021-06-07T08:30:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
   - title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"
     excerpt: "BBIX, a subsidiary of SoftBank that conducts an internet exchange business, has expanded the 'BIX Multi-Cloud' service coverage to Osaka Area starting with Microsoft Azure. BBIX Multi-Cloud for Microsoft Azure in now available in the Osaka area."
     publishedDateTime: 2021-06-11T09:02:00Z
@@ -430,14 +443,14 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Tigera's Calico Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Tigera today announced the availability of Calico Cloud in the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. Tigera customers can now take advantage of the scalability,"
-    publishedDateTime: 2021-06-16T16:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-tigeras-calico-cloud-now-available-the-microsoft-azure-/2021/06/16/9392025.htm"
+  - title: "Tigera’s Calico Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Tigera today announced the availability of Calico Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. Tigera customers can now take advantage of the scalability,"
+    publishedDateTime: 2021-06-16T11:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210616005267/tigeras-calico-cloud-now-available-in-the-microsoft-azure-marketplace"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 17
   - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
     excerpt: "Hanshow has developed a SaaS solution that is connecting an unprecedented 10 million IoT devices across a network of Ahold Delhaize stores in Europe."
@@ -494,6 +507,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "KkKst3+Jyy9eQJISCabAy5jNhqEULWHm0WxTgnAAqppFjDE7mxCgB6HwE6CCDyRJ9YWVL5WTHmzqoZpR92xTDOz4orl6Njnnfp/Cjl7ANotYAT8d5BrWQWHhoWhfQb+Kuf8vnFE77w5XrgRrjVbrzyx4aX+dkizknCHtCK4JyFQN4/Z8aJQLYHwicRU9eVhHIDZXMtvzwKOAOp1mKePhEfPcegWe1g4JLQ3DwwHj2mKIh9qQDvDEmQHOgfDDyxGzHQlyg2ydUB5BfkMhOVSIwFVjL72X3gDFcZYoyvod1LCl3oE2QYnH2Fzh9+fH8lg+x+h/gUqMbzexWbfMJ+PEBm9B30s1nUbJMzoAqTVVL54=;skMFCCKlGmjwFThKYJ4ubw=="
+secured: "u6UFrkm/wJ7ZzhRAMu/pKSy9wU3daUr6+4TRdWHyzk5iA5+F4JxL/kQtmTgTasHEddt82IZQzYGuQi+20ft/rdys3oHa3H5tSjnLFD9zwHbnt8usq+aSaksMBl3D7Ss+ER+ZecOaAwYoWcf73/TxdOOu8+8OlPoTlYrsXnqe4lHIi9v1kNnmi3JYI26WB29fHzAOhOi+b3O3JxLrkgpnkmhLniWYXey/o1UWYWSgjJNNZCWKu9RQ5mosB/2a3tNSAMY4KK2cUXBXlYN9xQYBRN5Xe0tWPolA+PTZeMgw6i3fMk+u1eOkFK6Ix1YxwdYYzEfpLibz6HvkacdgxvIUMomVzDHEFYD56od9BLOlvQY=;ImkKOtkZBpbJDQYNQTLwEg=="
 ---
 

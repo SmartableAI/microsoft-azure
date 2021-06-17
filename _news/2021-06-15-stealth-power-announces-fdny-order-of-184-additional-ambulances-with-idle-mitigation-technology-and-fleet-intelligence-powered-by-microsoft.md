@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Stealth Power Announces FDNY Order of 184 Additional Ambulances with Idle Mitigation Technology and Fleet Intelligence, Powered by Microsoft Azure"
-excerpt: "FDNY orders 184 additional ambulances with Stealth Power idle mitigation technology and fleet intelligence, bringing the total number to 500."
+excerpt: "Stealth Power announced that the Fire Department of New York (FDNY) has ordered an additional 184 ambulances with the company’s Vehicle Power System, bringing the total number to 500 by the end of 2021."
 publishedDateTime: 2021-06-15T12:05:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210615005123/en/Stealth-Power-Announces-FDNY-Order-of-184-Additional-Ambulances-with-Idle-Mitigation-Technology-and-Fleet-Intelligence-Powered-by-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210615005123/en/Stealth-Power-Announces-FDNY-Order-of-184-Additional-Ambulances-with-Idle-Mitigation-Technology-and-Fleet-Intelligence-Powered-by-Microsoft-Azure"
+originalUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
+webUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Azure
@@ -28,6 +28,6 @@ related:
       domain: businessinsider.com
     quality: 29
 
-secured: "mObatHN9TNm2oh0a7X3w0//5X8jdO79cyQ6EorXI0k/6UbyQ079hvn7xSmAf5arEjg4Pt8rBthQHjx2RAkMwXmvvUEgy+jDP9yLFniCxx+zdrOB06vvBWJrsKKFq0gYN/iTHdr+MMQnTjbabkuUrUH6VwUh9Lo9UGu0xhxDatnABBP1pN0VkmSISO7XQBIax8+Td3nOwZk9ymY/NGgjuaDjZPf41e9y9m90re/n8F/rPW7OD1BnFs6OnVjZ7Ui5lqgyQEoyqNM0KtGEsyxLyaNHM/3SOyjNrkHgAM6yy3YqQGeTq4/jIpYEV2fe1ZAArzkLtkUK4k+TdRgxAswr683y4A75BPjVjnG0jzy1cbLA=;YnEiKOlitJfeQlL27rRr2w=="
+secured: "mWF6gF8q/k8ofXpf60m3OhtfhH0/lSjfySzpvD7MQj32NFCn5NDADqIap4FhtoaRlj4klM4+aGL2JRPagT/LLOkC8q6TGMLhpn4vWKwwaJnXWGfXGMFRgBCV3BxN2No2iNTlvaH8pTjK0oDEO1xQH7VcWzjjwyxJiU6ZWO3+IJ67kM3hw+q8IEosgsHNF2xrB+WJLfw1fl6pX3PH+/UHFmkOmaitwqYwh0zrMeQal/A6d/jmTjCmebNFvaCt3eDfETWlmkdKK/e1KPc9CDzBQPlutmsksLS7ITWDRst31Nam9n1HeLCyyLJaUbhdqM6LNLuW1TzLCl8S7BoOmeSkY5h9GcHDoYStlE3loRfvMvo=;xBxiIPl6AuOIN9d/1+CbNg=="
 ---
 

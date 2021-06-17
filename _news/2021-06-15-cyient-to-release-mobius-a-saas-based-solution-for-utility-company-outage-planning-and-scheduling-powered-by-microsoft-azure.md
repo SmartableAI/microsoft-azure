@@ -23,13 +23,13 @@ topics:
 
 related:
   - title: "Stealth Power Announces FDNY Order of 184 Additional Ambulances with Idle Mitigation Technology and Fleet Intelligence, Powered by Microsoft Azure"
-    excerpt: "FDNY orders 184 additional ambulances with Stealth Power idle mitigation technology and fleet intelligence, bringing the total number to 500."
+    excerpt: "Stealth Power announced that the Fire Department of New York (FDNY) has ordered an additional 184 ambulances with the company’s Vehicle Power System, bringing the total number to 500 by the end of 2021."
     publishedDateTime: 2021-06-15T12:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210615005123/en/Stealth-Power-Announces-FDNY-Order-of-184-Additional-Ambulances-with-Idle-Mitigation-Technology-and-Fleet-Intelligence-Powered-by-Microsoft-Azure"
+    webUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 0
 
 secured: "TT0IOALmQx36wwMJw3N5Ce9H+RVpLESAC1EKhPWH9ZaGGsi29CsGioSWTKHf2KGMnNOOUGAPYt5LnYvSmjyVMiz6ZwGBr0m5pG+1CBTiZyIrrnnKa/FFNwWOhsBLk91jbQVV6J4VG3Rf9Izq5h1N0p4MEDv8okEdo1Th2Lf8Hub88hN6z8GNMiCflneTa3txDbkkBxMMTKSoVuKbwKTIrsj8rmwiIzo1qlZttPgMl8GUmO1tATwNsSBIT+DtkKB/wO7GYNrBsOoKSdscekCmiwLlbPjd1EkDMO5st/JL/Lmw1gsxCf9VZTutRuScoqpED9/zl0satKr8mj1pbvCsKeQbRvOz6gwhf/nV0l1sXrU=;iDeu6YFujNKQVxDNsf4ytg=="
