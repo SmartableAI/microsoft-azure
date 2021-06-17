@@ -29,6 +29,7 @@ items:
   - courses/microsoft-learn-deploy-java-ee-app-to-app-service
   - courses/microsoft-learn-deploy-java-azure-pipeline-terraform
   - courses/microsoft-learn-cloud-scale-messaging-jms-service-bus
+  - courses/microsoft-learn-azure-java-app-enable-authentication-authorization
   - courses/microsoft-learn-accelerate-scale-spring-boot-application-azure-cache-redis
   - courses/microsoft-learn-cosmos-db-java-app
   - courses/microsoft-learn-publish-azure-web-app-with-azure-toolkit-intellij
@@ -44,6 +45,7 @@ topics:
   - Databases
   - Containers
   - Mobile
+  - Integration
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png

@@ -18,7 +18,6 @@ levels:
   - Beginner
 
 items:
-  - courses/microsoft-learn-describe-identity-principles-concepts
   - courses/microsoft-learn-explore-basic-services-identity-types-of-azure-active-directory-azure-ad
   - courses/microsoft-learn-explore-authentication-capabilities-of-azure-ad
   - courses/microsoft-learn-explore-access-management-capabilities-of-azure-ad
@@ -29,7 +28,7 @@ topics:
   - Identity
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/describe-identity-principles-and-concepts-social.png
+  - url: https://docs.microsoft.com/learn/achievements/explore-basic-services-identity-types-azure-active-directory-social.png
     width: 641
     height: 321
     isCached: true

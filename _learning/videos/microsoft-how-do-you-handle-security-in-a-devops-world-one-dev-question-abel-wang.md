@@ -4,7 +4,7 @@ excerpt: "In the One Dev Question series, Cloud Developer Advocate Abel Wang exp
 originalUrl: https://youtube.com/watch?v=pPs6O4bpe3A
 type: video
 price: Free
-length: PT2M9S
+length: PT2M8S
 publishedDateTime: 2019-07-17T15:07:40Z
 heat: 50
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "/Bz7lxcElxyxYrx5r3LnP1YPDRubLgIH1UNzDHfUIqNWphkmB5GeRyoW6I9yry64RD0RXv0H4N+XhNRxeSb57T6GyEoj23p0LtAXCXlGWQR6FBuvtW0SI1vJgIQzd1lJN3vaxDXqpWj9krry+DpKThka2MqymDK7p3AwAxskr+xB8jhJ2E5Vno6q/Lvryh5amfTblBvVcFbWoeGWQCQrmqRYG5Q4EruEkCvmfP3E5Bvvk7mnz+WPXsct3xWO4TiIIrDj+8Hq4G5YPPzvxhJIHcU8q1MOq1gDyLmZRAO9+lO5d7kLqSoJCO5o8l509Fb+l6vlBB2AOufFjtNL0znBaQvn1MKF7OE0aTJtH5567RHKA+Mjtw61+v1dYSggKc9SIqklr9oypZu7Wh+EphxHRqlSY0qKAlhaYt4F/Rz8nuA=;WFTAXM2gKdRUEwbXCOd7wQ=="
+secured: "7hpZ9nPrGLvZRI+HUiS+Bhf8qcEbXYnqjNagZ0cD63FKozRbM1C65gnTc+VBmU/k4Lbc3I+HxKBHRBWi1fd6sDule8kEvhlHNFziFOhlDNmVNBXEz4y+nEqkZmcsMyF65932nyx86Qj0o/6A7k1IWPYkDGzBMiCnQ85bfKoQ2Zpn4Rk+5L0u9e1+C8fm9TO2UHqmK5CiIARzLl4YpO0XZbLw763dLZY0H83NASE76Sdn3K+kgZ0jbqtdR+SIRwO7Zenwh9GPK5fMF/I6IO499q9tirvxRO/aNtG1N3XGL7zyy1psIVL4eKzHl/MHTiu6YUT1/u47JGY2GEY5h4RqWrLfYo8rM50OFf/QGFD1KVoroA2DvNIw4bp63RSA4FoP4H7+i4XHWNoqOCXdBhEF+WoNjW1B0FBiktfvxIRXb50=;Vd/evTrXSrjC+WYqafEMLQ=="
 ---
 

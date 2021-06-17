@@ -19,7 +19,7 @@ levels:
 
 items:
   - courses/microsoft-learn-describe-security-concepts-methodologies
-  - courses/microsoft-learn-describe-microsoft-security-compliance-principles
+  - courses/microsoft-learn-describe-identity-principles-concepts
 
 topics:
   - Azure
