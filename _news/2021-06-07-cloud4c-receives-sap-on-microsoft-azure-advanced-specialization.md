@@ -2,26 +2,20 @@
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
 excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
-publishedDateTime: 2021-06-07T09:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
-webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+publishedDateTime: 2021-06-07T15:26:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization/article_92a909a6-843c-53cc-98c8-ff882291e644.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization/article_92a909a6-843c-53cc-98c8-ff882291e644.html"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
-    width: 1616
-    height: 846
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -408,13 +402,13 @@ related:
       domain: businesswire.com
     quality: 15
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-    publishedDateTime: 2021-06-16T18:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
+    publishedDateTime: 2021-06-16T18:31:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 2
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
@@ -426,6 +420,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "RqWzU3eWRL+uhJnWbQyLuptFmldOtYG7FagHlcRh7lJzKZw5/ysYYMKmi5x/xMPU4W5xzXqPa3U9Xgfggiw5HlH+MQRbPqzybY2whnzyt8xk1D6FF64iBcUx+X4DGEv8fMT9H77OSTvjI22zTWZWhzESmg9pJWvgleexOChgUwsnZModentY6PMivdmA5Qxvz9a9Dg34IqYjMJJE6ZfHXsbl8V66Ykn9xG3ywYzcLK33Z+OZI6j+IIl3U0RfkA2SyA04MVJVXnsMaTT/Cyh/TMmfSPkaxqMQ5LuvM7wgop42XPaCJMw9bBF9BE1M4HtQAFlj3/1DiH4KOnWVLc5hyfUW9w1jq1za6N6b0Ohly3k=;KUST7NorTsztXZ+/VRGQYg=="
+secured: "SVFGKTqGWm2YDiNo18AxMHKaftcSq+XpdVsjAdPvnDPew5JdLEcLE7X6V0VfBqpva1IOU94fAxzI74dscvWuj508lK8L608VpcRkTBJ3qo6dNuhR6yOobTpHNMnBE4jXUAMCkEu7RP5JVnIKJh6gg7oSFhsld/2PpUfpLc7jChJwHyaXqwQvyy1Fh7cEyW4ZakXz6LIJELFHmTiSFFp5IMvl9J330C+HV81WwVbujfFofFopXskpkpt7k3h5uZ7/A24RslAFHdBCi7qV6BN2G46LsNgqpxUv+oOGQFDnEDa60ZBsm4cPEZN+DU3510DFyNHsvC79E9fLfjFY335tm7CYdWyxEBTpDhcAGrSP6kU=;T0XtZxi7dx2/7jylwyD0EQ=="
 ---
 
