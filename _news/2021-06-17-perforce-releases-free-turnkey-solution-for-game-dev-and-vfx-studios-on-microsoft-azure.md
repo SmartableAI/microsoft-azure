@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Perforce Releases Free, Turnkey Solution for Game Dev and VFX Studios on Microsoft Azure"
-excerpt: "Perforce Software, a provider of solutions to teams requiring security, visibility, and scale along the development lifecycle, announces partnership with Microsoft to deliver the"
-publishedDateTime: 2021-06-17T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/perforce-releases-free-turnkey-solution-for-game-dev-and-vfx-studios-on-microsoft-azure/article_0a52591e-4af5-5a65-bbef-bc905a9f138f.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/perforce-releases-free-turnkey-solution-for-game-dev-and-vfx-studios-on-microsoft-azure/article_0a52591e-4af5-5a65-bbef-bc905a9f138f.html"
+excerpt: "For studios looking to capitalize on cloud benefits and avoid a costly hardware investment, the Enhanced Studios Pack combines the world-class development tools trusted by the largest AAA game development studios to enable creativity,"
+publishedDateTime: 2021-06-17T13:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-perforce-releases-free-turnkey-solution-game-dev-vfx-/2021/06/17/9392710.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-perforce-releases-free-turnkey-solution-game-dev-vfx-/2021/06/17/9392710.htm"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -442,6 +436,20 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure"
+    publishedDateTime: 2021-06-17T21:04:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-871941275.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+        width: 1616
+        height: 846
+        isCached: true
   - title: "VAST Grows Microsoft Partnership with Microsoft Cloud Gold Partner Status"
     excerpt: "VAST, a leader in Data Protection, IT Infrastructure Management, and Optimization of On-Premise and Cloud Computing Operations, has announced today it has"
     publishedDateTime: 2021-06-17T17:10:00Z
@@ -511,13 +519,13 @@ related:
       domain: financialbuzz.com
     quality: 3
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-    publishedDateTime: 2021-06-17T04:02:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-16T18:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 2
   - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
     excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
@@ -547,6 +555,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "0wJZQTTq957r6fNsLOgfw+UnNgVxTTqo5q/dTR8GmLpqH+Qi+BeNeqoPhnfOr9/kBYyihfJtR2c1YTciVvBT0j+8Jb5YsT10lwD5uTW2DDPQwbkTbfTI4TAcDrgBPyhBzNW9RzlsDRqxm29mMo+m++gkfZK+yRol7yVbZ2UogLwBzgaQkAsbK/+FeqeqKPHzf/S1v1SOrpydNj37IUiffwoom/WXWPdWy4TF9zBYb4QCwlxOg8jC37LbdMB+dfqv/iiiySOTek46nZgHJ2JOzruXWBWqc7nC7Qn3bZ4bqqyL3fNmS9uTE7QU5d2JatNX8xpiFK7IwpD+Xr0UKd2rkjFskrSG/Ptu3w5qcbhBOpE=;23eLVRYhZ8OISm5SpWIHoA=="
+secured: "6oefComqq3Uy7VPTuiOvniuN/j4g4WMtNXuW/SsEhX+ocrbZ4mVPIK0L7QOHQqx3Ad8xbb2e7koML6eGKozagA9RnoMHtms8jnHmUpy66HfM8e89YlRiU3rkRAX3+mrncaDQT8gb1nIh1LRgwrRkN5+cTlo0MZ1MDoYPY0b5SpjyhMgpyON0fUzs2258Cmvzcl1gVkWeyJpsrh8fd5bZ/6lDih9rgC7VjsnyErzZSIekATOtBp/8pH/UWH2caLAiS6J2AAiV9P7b+P0ksBAjYbKN9bCP/5wdce/CDM2qebnI2AafoqNXjvkW16m4uCVryR+70/U3Y0X9ICywRQPNbCSDcPuHXjreEkz1XUVpDiU=;34lpAdZZ95dQGAzlEJothQ=="
 ---
 

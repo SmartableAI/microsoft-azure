@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Tigera’s Calico Cloud Now Available in the Microsoft Azure Marketplace"
-excerpt: "Tigera today announced the availability of Calico Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. Tigera customers can now take advantage of the scalability,"
-publishedDateTime: 2021-06-16T11:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210616005267/tigeras-calico-cloud-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.morningstar.com/news/business-wire/20210616005267/tigeras-calico-cloud-now-available-in-the-microsoft-azure-marketplace"
+title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure"
+publishedDateTime: 2021-06-17T21:04:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-871941275.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-871941275.html"
 type: article
-quality: 17
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+    width: 1616
+    height: 846
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -436,20 +442,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure"
-    publishedDateTime: 2021-06-17T21:04:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-871941275.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
-        width: 1616
-        height: 846
-        isCached: true
   - title: "VAST Grows Microsoft Partnership with Microsoft Cloud Gold Partner Status"
     excerpt: "VAST, a leader in Data Protection, IT Infrastructure Management, and Optimization of On-Premise and Cloud Computing Operations, has announced today it has"
     publishedDateTime: 2021-06-17T17:10:00Z
@@ -481,6 +473,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 17
+  - title: "Tigera’s Calico Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Tigera today announced the availability of Calico Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. Tigera customers can now take advantage of the scalability,"
+    publishedDateTime: 2021-06-16T11:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210616005267/tigeras-calico-cloud-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 17
   - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
     excerpt: "Hanshow has developed a SaaS solution that is connecting an unprecedented 10 million IoT devices across a network of Ahold Delhaize stores in Europe."
@@ -555,6 +556,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "SUhW/L0W0YCYTtOpQFSeax/brbL/B2zMdVfqSqdGG4NZyi2mFz1FvM7gfeGstaHPan8R9K88vi+Hy3ZKrsBuRGJ2FCM+67eJW5NWA5BeTxboPyDbG/j3DN1hj09BSoZNG1li8Ny7DmarsisMYK6iKGCp7hvXQ1GL9n50P0tUDkXjr+Un5GBzcEPHSiLhKnGtAJlXRzer5ELzuuUdJxA1lH+PAqiw/DX6LyCLgcXgbff1brkJov0ujO0lTPB43O2MeJSpB/5FSNR3mF5gS/f8sgsDN/Vb8/Vj82VEINavcTLhZygXr8onofFcWj85tNL7qZkynZeh+WG/FaOlk9OIoyrf77mu1MEcZlJosp3x1jM=;CuVEjYpOs/GU9HR13FfYKw=="
+secured: "B6ovl4X8zUcHcF6OQE9hazFRSCHZ3h4SjNhZsvcjGZPcgqT8JyAdrTY3DqkKIs2uwWhcmRS/4DpEOyjJZVZNr9OipIP7ZN9CRKdSteTjyKVcNVcyjhM5dBSimFbEzK95/UKAf8+qgr6IYIBiKWWT9j3ZI5m45Ej4H2ObKJECdtUV5czGOMegQ0EUId+9E06rKh06jQXzooSuMYmw5MuXvA1qib56qFsztACY9j5v3feoDPdEcmpcsg+ykgXA8okzCQToS32igZEf1GSeuqDtjoqLCq/CFZpylMEUm+Z1wEevIskun3j+UA6AfP/vXyOkJAUH5ywKtnHxpIQBCuqsxBufM1HJ6SOKuINcvEUMzn4=;7wn+rcioo3TMlDIhJRvR3A=="
 ---
 

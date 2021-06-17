@@ -1,18 +1,18 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-publishedDateTime: 2021-06-17T04:02:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
+excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+publishedDateTime: 2021-06-16T18:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
 type: article
 quality: 2
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -422,20 +422,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 28
-  - title: "Perforce Releases Free, Turnkey Solution for Game Dev and VFX Studios on Microsoft Azure"
-    excerpt: "Perforce Software, a provider of solutions to teams requiring security, visibility, and scale along the development lifecycle, announces partnership with Microsoft to deliver the"
-    publishedDateTime: 2021-06-17T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/perforce-releases-free-turnkey-solution-for-game-dev-and-vfx-studios-on-microsoft-azure/article_0a52591e-4af5-5a65-bbef-bc905a9f138f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 28
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
     excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
     publishedDateTime: 2021-06-02T12:03:00Z
@@ -449,6 +435,20 @@ related:
       - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/06/16x9/magnetforensics.60b773162031e.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 673
+        isCached: true
+  - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure"
+    publishedDateTime: 2021-06-17T21:04:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-871941275.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+        width: 1616
+        height: 846
         isCached: true
   - title: "VAST Grows Microsoft Partnership with Microsoft Cloud Gold Partner Status"
     excerpt: "VAST, a leader in Data Protection, IT Infrastructure Management, and Optimization of On-Premise and Cloud Computing Operations, has announced today it has"
@@ -500,6 +500,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
+  - title: "Perforce Releases Free, Turnkey Solution for Game Dev and VFX Studios on Microsoft Azure"
+    excerpt: "For studios looking to capitalize on cloud benefits and avoid a costly hardware investment, the Enhanced Studios Pack combines the world-class development tools trusted by the largest AAA game development studios to enable creativity,"
+    publishedDateTime: 2021-06-17T13:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-perforce-releases-free-turnkey-solution-game-dev-vfx-/2021/06/17/9392710.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
   - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
     publishedDateTime: 2021-06-17T11:37:00Z
@@ -546,6 +555,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "bZ+rmv47/CwioNKEopuHVuW++utovAcSLAOTFH38Hr9pQnggIPn9KYyAPxcZtMRCsnF/NWOQnZyou/alrCiHHAPjLltiG+6jYe68E2zJYNKz4nBi/rpT3e3OIGfFBxHJzyk0LJUpRB4mD0UjbAyU4J+xvpUD/bAHH6d/Bien8fZkYGThKGESKo0JaQ/iAggt6IbALxtHKqRe+uthl8iX6kccFZqll76ONyZ8k299LE/c7k4PeHLCDC907obw/VgAvSV9vvLvuBlkOcebLHmYw93pTPkC35Ra0EAL6ufNU815JC4w8Yunkm0WMqS8nzxL8zt9dw66nXnvE81VE+L3By+dffSo58g9W1a1/qqrRkA=;y3tqZZiGm5mDuvkusp6FGQ=="
+secured: "h+gGBcqRpD7pmARa1AEqRSheq73MnssUCb0xDnMFeXOZE7GSIJoKCSbcfah12xdfR/CWpf8XmaFqvc4bJOcpqRWtwUjMR8B8iQb5iIJR7KD8WlDXcvbQd0s0IvNQ4Dl8yyUknNdow138T03ZkpGd7EtIxFVpSEHE+bxNA2IjEG0FGFY+bM3gZeUOZylF/IhTyfWbtd8Hs/GQHbenHlZNBr2lPMODGPo4wf7KVQfQ9n0Eg+TsFlGrT2cKqkBTPi23eA6fjUymWbxn8vpmRvCd2y9n8MoA2xe6InOjoSXtHaRQguVCPMt8vl//6wIdl45Qhr4msT7wph2lCJo/TobXphb+5rroh2Mm9eK/mrbSgYk=;0uf7mt4Q6XIYhjyEIKNZyg=="
 ---
 
