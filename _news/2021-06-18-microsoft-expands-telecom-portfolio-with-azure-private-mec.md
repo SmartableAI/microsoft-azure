@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
-excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
-publishedDateTime: 2021-06-17T07:06:00Z
-originalUrl: "https://www.pr.com/press-release/838501"
-webUrl: "https://www.pr.com/press-release/838501"
+title: "Microsoft expands telecom portfolio with Azure private MEC"
+excerpt: "An 'evolution' of Microsoft's previous offering in the area, Azure private MEC represents a melding of the company's cloud computing technology with its new Affirmed and Metaswitch assets."
+publishedDateTime: 2021-06-17T19:00:00Z
+originalUrl: "https://www.lightreading.com/service-provider-cloud/microsoft-expands-telecom-portfolio-with-azure-private-mec/d/d-id/770311"
+webUrl: "https://www.lightreading.com/service-provider-cloud/microsoft-expands-telecom-portfolio-with-azure-private-mec/d/d-id/770311"
 type: article
-quality: 2
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR
-  domain: pr.com
+  name: Light Reading
+  domain: lightreading.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+    width: 600
+    height: 600
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -358,20 +364,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "Microsoft expands telecom portfolio with Azure private MEC"
-    excerpt: "An 'evolution' of Microsoft's previous offering in the area, Azure private MEC represents a melding of the company's cloud computing technology with its new Affirmed and Metaswitch assets."
-    publishedDateTime: 2021-06-17T19:00:00Z
-    webUrl: "https://www.lightreading.com/service-provider-cloud/microsoft-expands-telecom-portfolio-with-azure-private-mec/d/d-id/770311"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 37
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Renesas extends support for Microsoft Azure RTOS across 32-bit MCU families"
     excerpt: "Renesas Electronics has said that all customers designing with mainstream Renesas 32-bit MCU families will now have access to the Microsoft Azure Real-Time Operating System (RTOS) embedded development suite."
     publishedDateTime: 2021-06-15T07:58:00Z
@@ -527,6 +519,15 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 2
+  - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
+    excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
+    publishedDateTime: 2021-06-17T07:06:00Z
+    webUrl: "https://www.pr.com/press-release/838501"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 2
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
     publishedDateTime: 2021-06-16T12:04:00Z
@@ -546,6 +547,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Sh54uyZrRc4k3EKrVfjncxN4XsqPJwiGRVldoJXDdBXKN1TnkIF4aQtTGLAxteYOlwfDyjdD+quoUxBuIPGHQFtDSAMpFXhruWoJ5ziz/4iIt4dNK4mNyuD7orYJBUXJh7cZyujWzBlbRXiWu80Dz1VI6roYIvym133qNGgyjZufCR/eyyPTOjVgelWU4fv6xbG1m5hrZhLv43hmjWAfQutMhBJXczl7XwtSpLezWwSvZUDVjRMIi71l73IliJg1HowFBIhN6kY1Nx9aQJIC6eLemWEOzVIaTSoFIc5MPCvZGYQxt7T52ZwE7o6N2G+prTw/1lepBmm2zrCIQn3IbZlpIzh9h+vna3Xf+Heu3zo=;mFGh9zUnnIwoIov6NOqJVg=="
+secured: "GaqJSSH6OkSV3Dck/S3jzyrX22mxAhQqA+/d5LesgYvh26/mIw9tMihdgLlhpqxN7M0TdRqm1KZLUBZ9aNqTcSvUrCFzHc0G3w+JlyXN1am0oXR3MAwzcrFveu/ZMOcZ9ktDcnmapBdBq2MW3tCW0/DcRMBF7El/m4JOpFuk40+m4DqzizOvftJVo+jshLkgq4YcxZ7hrXvUauMQqPSij271KOkXQxr9SYHNegaDV50WSJGM4Nk7IvLMfRjEH6yJz/J2kxa44fw1n/3MqAyvBAEinPshjsg+l92HmW4ObhL2UcYhn3CHW9Sbckjrekbt+3i8kFfeV718mCmhOVVavnVXfxut9OeE8ToL0X/9640=;gkSW3IyiKsnu6UqVRBrq5A=="
 ---
 

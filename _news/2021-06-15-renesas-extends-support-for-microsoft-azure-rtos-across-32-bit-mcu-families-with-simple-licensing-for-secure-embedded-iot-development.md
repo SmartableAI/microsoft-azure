@@ -2,17 +2,17 @@
 category: news
 title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
 excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
-publishedDateTime: 2021-06-15T12:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-renesas-extends-support-microsoft-azure-rtos-across-32-/2021/06/15/9390419.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-renesas-extends-support-microsoft-azure-rtos-across-32-/2021/06/15/9390419.htm"
+publishedDateTime: 2021-06-15T12:00:00Z
+originalUrl: "https://www.financialbuzz.com/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing-for-secure-embedded-iot-development/"
+webUrl: "https://www.financialbuzz.com/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing-for-secure-embedded-iot-development/"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Azure
@@ -359,6 +359,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Microsoft expands telecom portfolio with Azure private MEC"
+    excerpt: "An 'evolution' of Microsoft's previous offering in the area, Azure private MEC represents a melding of the company's cloud computing technology with its new Affirmed and Metaswitch assets."
+    publishedDateTime: 2021-06-17T19:00:00Z
+    webUrl: "https://www.lightreading.com/service-provider-cloud/microsoft-expands-telecom-portfolio-with-azure-private-mec/d/d-id/770311"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 37
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Renesas extends support for Microsoft Azure RTOS across 32-bit MCU families"
     excerpt: "Renesas Electronics has said that all customers designing with mainstream Renesas 32-bit MCU families will now have access to the Microsoft Azure Real-Time Operating System (RTOS) embedded development suite."
     publishedDateTime: 2021-06-15T07:58:00Z
@@ -533,6 +547,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "nvfm/MpMOJhXJjOwYodCXKWp0wEqUDxyOsVkZZg7u+ZDiPsiRXkuhqG3fW9t1lg37HSe6oOEL3DZSDWuDh8ZOsV35vuq3s/MNg1rXCi4wpTjCBjk15oMDvWaLVgB9RSsT18f/OwmdF6XfZeoGYvwjDLYCCkGvm9IT5cJUJR1+U2R0kQRILiE+iEGQcaCi5wjOkiuRqr4BBkKE94C4/l79ZqJDSFBcsclG3H81kp849aHZRxPQPk9R1R4UIWG2kx4j3hHIevupeC/ekdW8I4UvuOlaUMfb9a6OtKgbhaQfI/JT+znQCRIW6/0aST7k0tMXkFXkRvA60o6Zk2Wnwc28WJ3yJEyOgCWhKMgd+0MOe93S8ji7UszjLeqTRUgHcNNUKmHrHfbSmQX6Ci74U/LM1P2+gyueMBX08DWRNBNj4Hpwi4wW2RriUHQ6rmo5CIKqLTiHZUyMSMogPbixIVNMfw39L1In7JlC7MLwbiDsEUmtq7qMU7Afc7rEPdy+rzwcZJiItmlyXt0XGQhJu+CEA==;qxkPdxEsmzjCCk5VxibQeg=="
+secured: "HrY0F6eeCJSPiwXgiLZv/LZOI+G6uaOnjc+z3Q776QoDREXgWEgg96QgoF1JHOTUyCwjiJaoZSFLd0w9qP77Wfe9CLZFDxN5qRhzk4TVHJEopuXsC90ivwWdw15p+uZvfbj0fK07aM266nD9jy1vkkFDnoMbgaspBHHnBuerycsBCHoJBA/9CrDPvG6a9wKpQogNVTclC8wSQakVMMMPwURfHyc97eEEApM8tfwFRVheeiYFK0wPsQNPa/S8u14gVD0dB++YjDemDfopZCt6u0Ellgeg644NLRYpiU7zyB14o9CQthTz+yhkbnGCKt69hmH5XMmRG96NHXUUb2KcYCHFofzdcOb0ueXQE5UTXLtUTBKmgnE92F2BejROUiYNUS1JtVrQtrGAXmqvWVqcaITe6UcDJy/b73EWQNlUG1bLwIxJfyBTpUw8e6XrfIJvlhSlRQKN/o/e1yv5tJU2YO7bkiKAFfw+nxa+gFrxyF2GuQtyM9ShqSHujPMePJM1WcJ4ifbj0XCENUOLkuyFpQ==;cfL3V0semSYvR3E2X+VvoQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/06/11/building-ga
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/amp/"
 type: article
 quality: 97
-heat: 897
+heat: 917
 published: true
 
 provider:
@@ -354,6 +354,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Microsoft expands telecom portfolio with Azure private MEC"
+    excerpt: "An 'evolution' of Microsoft's previous offering in the area, Azure private MEC represents a melding of the company's cloud computing technology with its new Affirmed and Metaswitch assets."
+    publishedDateTime: 2021-06-17T19:00:00Z
+    webUrl: "https://www.lightreading.com/service-provider-cloud/microsoft-expands-telecom-portfolio-with-azure-private-mec/d/d-id/770311"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 37
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Renesas extends support for Microsoft Azure RTOS across 32-bit MCU families"
     excerpt: "Renesas Electronics has said that all customers designing with mainstream Renesas 32-bit MCU families will now have access to the Microsoft Azure Real-Time Operating System (RTOS) embedded development suite."
     publishedDateTime: 2021-06-15T07:58:00Z
@@ -493,12 +507,12 @@ related:
     quality: 6
   - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
     excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
-    publishedDateTime: 2021-06-15T12:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-renesas-extends-support-microsoft-azure-rtos-across-32-/2021/06/15/9390419.htm"
+    publishedDateTime: 2021-06-15T12:00:00Z
+    webUrl: "https://www.financialbuzz.com/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing-for-secure-embedded-iot-development/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 3
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
