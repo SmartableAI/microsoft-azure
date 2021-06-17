@@ -1,18 +1,18 @@
 ---
 category: news
-title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-publishedDateTime: 2021-06-17T04:02:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
+title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
+excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
+publishedDateTime: 2021-06-17T07:06:00Z
+originalUrl: "https://www.pr.com/press-release/838501"
+webUrl: "https://www.pr.com/press-release/838501"
 type: article
 quality: 2
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: PR
+  domain: pr.com
 
 topics:
   - Azure
@@ -426,14 +426,14 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
-  - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
-    excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
-    publishedDateTime: 2021-06-17T07:06:00Z
-    webUrl: "https://www.pr.com/press-release/838501"
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
+    publishedDateTime: 2021-06-17T04:02:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
     type: article
     provider:
-      name: PR
-      domain: pr.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 2
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
@@ -445,6 +445,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "bZ+rmv47/CwioNKEopuHVuW++utovAcSLAOTFH38Hr9pQnggIPn9KYyAPxcZtMRCsnF/NWOQnZyou/alrCiHHAPjLltiG+6jYe68E2zJYNKz4nBi/rpT3e3OIGfFBxHJzyk0LJUpRB4mD0UjbAyU4J+xvpUD/bAHH6d/Bien8fZkYGThKGESKo0JaQ/iAggt6IbALxtHKqRe+uthl8iX6kccFZqll76ONyZ8k299LE/c7k4PeHLCDC907obw/VgAvSV9vvLvuBlkOcebLHmYw93pTPkC35Ra0EAL6ufNU815JC4w8Yunkm0WMqS8nzxL8zt9dw66nXnvE81VE+L3By+dffSo58g9W1a1/qqrRkA=;y3tqZZiGm5mDuvkusp6FGQ=="
+secured: "Sh54uyZrRc4k3EKrVfjncxN4XsqPJwiGRVldoJXDdBXKN1TnkIF4aQtTGLAxteYOlwfDyjdD+quoUxBuIPGHQFtDSAMpFXhruWoJ5ziz/4iIt4dNK4mNyuD7orYJBUXJh7cZyujWzBlbRXiWu80Dz1VI6roYIvym133qNGgyjZufCR/eyyPTOjVgelWU4fv6xbG1m5hrZhLv43hmjWAfQutMhBJXczl7XwtSpLezWwSvZUDVjRMIi71l73IliJg1HowFBIhN6kY1Nx9aQJIC6eLemWEOzVIaTSoFIc5MPCvZGYQxt7T52ZwE7o6N2G+prTw/1lepBmm2zrCIQn3IbZlpIzh9h+vna3Xf+Heu3zo=;mFGh9zUnnIwoIov6NOqJVg=="
 ---
 

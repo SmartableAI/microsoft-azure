@@ -2,22 +2,26 @@
 category: news
 title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
 excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape ..."
-publishedDateTime: 2021-06-15T11:49:00Z
-originalUrl: "https://www.iltempo.it/adnkronos/2021/06/15/news/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-27600751/"
-webUrl: "https://www.iltempo.it/adnkronos/2021/06/15/news/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-27600751/"
-ampWebUrl: "https://www.iltempo.it/adnkronos/2021/06/15/news/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-27600751/amp/"
-cdnAmpWebUrl: "https://www-iltempo-it.cdn.ampproject.org/c/s/www.iltempo.it/adnkronos/2021/06/15/news/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-27600751/amp/"
+publishedDateTime: 2021-06-15T11:05:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53153180-ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53153180-ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-008.htm"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Il Tempo
-  domain: iltempo.it
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
+    width: 400
+    height: 225
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -370,13 +374,13 @@ related:
         height: 630
         isCached: true
   - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-    excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
-    publishedDateTime: 2021-06-07T15:26:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization/article_92a909a6-843c-53cc-98c8-ff882291e644.html"
+    excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
+    publishedDateTime: 2021-06-07T08:30:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 17
   - title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"
     excerpt: "BBIX, a subsidiary of SoftBank that conducts an internet exchange business, has expanded the 'BIX Multi-Cloud' service coverage to Osaka Area starting with Microsoft Azure. BBIX Multi-Cloud for Microsoft Azure in now available in the Osaka area."
@@ -423,6 +427,15 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 2
+  - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
+    excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
+    publishedDateTime: 2021-06-17T07:06:00Z
+    webUrl: "https://www.pr.com/press-release/838501"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 2
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
     publishedDateTime: 2021-06-16T12:04:00Z
@@ -433,6 +446,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "U6ZoE7JJoz3v4pS4pvUwLvob9gQKWkCOiCPo50RXEaPutgdnyiLP6eQWldzQW35mLJuj8QlmfewVPP/Y1SYcQs1+joVhLvwloY/WAreV70TdQoI1RVKCOz8kgcRCmxLF7Vhp8H3aFzPveY54ebI67kKN2b8nLxePOzMVfl+MXfHYUauCzU27EEq3fBKjNDUOw5now0nB6XVuZ8vThuqmUWFNx/NqcEUlEPCcsG+pcJft4mkH1FHksIx/IfXkxacLjjdgB94XErhxWQYtL5YtEEwe2ZC8fOA32hKQQzy91LosLRi2cARFoHS55VUvrCyPwduuf0fVj3I01Ladfx4KX6mzdmewyIXl35jHJ2/djRk=;z1LlX5IM2iCtzgd3gmbvew=="
+secured: "MB+LW1i4lexUcyiMyvrqGsWMWOoi5cDMNwBGYtviqKN410G+V/Ew+jobkjmwUvhk8ZswqkrSWjQmfaAs83QR6LRrGVaJ42Ex+BPlYpzZlMY37kWmdxlwt1yI/YG1UqjdFqDrqknmPAJ1D/BF+Sv9CQcnyuLufObLVhgrL34PF+WZ66feeQRNnFXpWmeeFTAoVaUFwSueKi+okx02AmnEMKJ7MB8DktrtSjsZY9uZ96AzHPSZZK+kQHvDwNq4QOn7fwr7xzEGwKhV4qx0qSpTJRQHJWPsRuJOlTZLIlnQ+em40hgEDWXCD2AI1o/Y6RIfT7JsV3Pd/NpUOianTU8oOhakTriDghonv74PPALUTYw=;3210GF8Dp64WYWLBeRMtew=="
 ---
 
