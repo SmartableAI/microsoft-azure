@@ -140,6 +140,22 @@ related:
         width: 800
         height: 598
         isCached: true
+  - title: "This bundle helps you become a fully-certified Microsoft Azure expert"
+    excerpt: "One of the best ways to learn the ropes and prove your knowledge is by taking the Microsoft Azure certification exams. Passing these tests will help you catch the eye of recruiters, and you should ..."
+    publishedDateTime: 2021-06-14T16:52:00Z
+    webUrl: "https://www.bleepingcomputer.com/offer/deals/this-bundle-helps-you-become-a-fully-certified-microsoft-azure-expert/"
+    ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/this-bundle-helps-you-become-a-fully-certified-microsoft-azure-expert/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/this-bundle-helps-you-become-a-fully-certified-microsoft-azure-expert/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 57
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2021/01/10/microsoft-azure.png"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "Mindtree Earned the Analytics on Microsoft Azure Advanced Specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, has declared that it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
     publishedDateTime: 2021-06-08T06:01:00Z
@@ -401,13 +417,13 @@ related:
       domain: businesswire.com
     quality: 15
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-    publishedDateTime: 2021-06-16T18:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
+    publishedDateTime: 2021-06-17T04:02:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 2
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."

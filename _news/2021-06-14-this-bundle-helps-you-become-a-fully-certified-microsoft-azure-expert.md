@@ -1,31 +1,28 @@
 ---
 category: news
-title: "Expanding cloud services: Microsoft launches its sustainable datacenter region in Arizona"
-excerpt: "Today we are launching our newest sustainable datacenter region in Arizona, known as “West US 3.” Datacenters are today’s engine for modern business, providing organizations of all sizes the cloud services and tools to innovate, collaborate, and operate securely and efficiently at scale. We build datacenters"
-publishedDateTime: 2021-06-15T09:00:00Z
-originalUrl: "https://azure.microsoft.com/blog/expanding-cloud-services-microsoft-launches-its-sustainable-datacenter-region-in-arizona/"
-webUrl: "https://azure.microsoft.com/blog/expanding-cloud-services-microsoft-launches-its-sustainable-datacenter-region-in-arizona/"
+title: "This bundle helps you become a fully-certified Microsoft Azure expert"
+excerpt: "One of the best ways to learn the ropes and prove your knowledge is by taking the Microsoft Azure certification exams. Passing these tests will help you catch the eye of recruiters, and you should ..."
+publishedDateTime: 2021-06-14T16:52:00Z
+originalUrl: "https://www.bleepingcomputer.com/offer/deals/this-bundle-helps-you-become-a-fully-certified-microsoft-azure-expert/"
+webUrl: "https://www.bleepingcomputer.com/offer/deals/this-bundle-helps-you-become-a-fully-certified-microsoft-azure-expert/"
+ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/this-bundle-helps-you-become-a-fully-certified-microsoft-azure-expert/amp/"
+cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/this-bundle-helps-you-become-a-fully-certified-microsoft-azure-expert/amp/"
 type: article
-quality: 65
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Bleeping Computer
+  domain: bleepingcomputer.com
 
 topics:
   - Azure
-  - Databases
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b9d843e1-b83c-4f4e-a2b8-3ece2d48b194.jpg"
-    width: 1024
-    height: 683
+  - url: "https://www.bleepstatic.com/content/hl-images/2021/01/10/microsoft-azure.png"
+    width: 1600
+    height: 800
     isCached: true
 
 related:
@@ -114,6 +111,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Expanding cloud services: Microsoft launches its sustainable datacenter region in Arizona"
+    excerpt: "Today we are launching our newest sustainable datacenter region in Arizona, known as “West US 3.” Datacenters are today’s engine for modern business, providing organizations of all sizes the cloud services and tools to innovate, collaborate, and operate securely and efficiently at scale. We build datacenters"
+    publishedDateTime: 2021-06-15T09:00:00Z
+    webUrl: "https://azure.microsoft.com/blog/expanding-cloud-services-microsoft-launches-its-sustainable-datacenter-region-in-arizona/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b9d843e1-b83c-4f4e-a2b8-3ece2d48b194.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement"
     excerpt: "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time."
     publishedDateTime: 2021-06-05T09:17:00Z
@@ -129,22 +140,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/06/6CF52215-66AC-42DA-9307-7E975564CE3B.png"
         width: 800
         height: 598
-        isCached: true
-  - title: "This bundle helps you become a fully-certified Microsoft Azure expert"
-    excerpt: "One of the best ways to learn the ropes and prove your knowledge is by taking the Microsoft Azure certification exams. Passing these tests will help you catch the eye of recruiters, and you should ..."
-    publishedDateTime: 2021-06-14T16:52:00Z
-    webUrl: "https://www.bleepingcomputer.com/offer/deals/this-bundle-helps-you-become-a-fully-certified-microsoft-azure-expert/"
-    ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/this-bundle-helps-you-become-a-fully-certified-microsoft-azure-expert/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/this-bundle-helps-you-become-a-fully-certified-microsoft-azure-expert/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 57
-    images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2021/01/10/microsoft-azure.png"
-        width: 1600
-        height: 800
         isCached: true
   - title: "NSW Police runs AI over evidence using Microsoft Azure"
     excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
@@ -439,6 +434,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "yqOuq9sWQTsk59SmPFmNykxzvZKP6dxdufHXetZfV/17/kjjFRlU5Q0eMSPs0t2jkac0z5oKW5FipdMmr/CifnYJIyS0ZAeUn3+C+TbFSvAKdGXghZcSt7qi+4tR7RoXCfSd+ARHhODxnWGDxXzj9mAuJLMHuiR1rvg9D4xSAOy/a+MoYJVRGiPdUzaiPedC97M/vO6Do2X/enX3RZHs3/gmv5+Jjb+gq9JDV1E3pH3V5N0rDSMkab6YerRgoM1U0Rg532Kg/hA0mhG7mOqXX0w9DxHaZfWnbd5vf9xJv8rC0QcVhilfRWJ1milP/zaprbDd1xPAU/gyP0VE7h/435Oaj8OxHthkfIyPO/EZElg=;uu2mVcMQpxJqncWNVVI7sQ=="
+secured: "7JPWyARX6a9uxuaOqpgUgX6zFZPVpQglQum1PSmMGs9YUWVSY2CsULa+lh78DR8aiMahX6Bzlb5dOtCSxfxQljVD9XF6Cg1IaZul+41MAFXXlniutz9TafIGWWsbzE51fWG6NsDR6qSRY7VbC9v22Y6xNqKo6Cq6LefGOUrZ6JNmRhCZ1CIvjq0FxkW/dI06gZj9lreycuMFFDcA/MPtKL7nOYTDiG1em5Cxswp73szCUbb+ZH1FwDULwCPEHraCf5LDwxnXrIbMAUFFhjC7aZuhMOEJ397AYXeqlzLi5exGAaJzdkcoAmvSom9Ofi1Xi0aDp4TfLKmiN+MnO1M+ZFjLn2nVgfOKOVMjwz7OpYI=;d1SJdzA/pJCl70TFoLveeg=="
 ---
 

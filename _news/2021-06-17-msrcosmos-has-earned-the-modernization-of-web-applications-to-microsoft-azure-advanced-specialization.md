@@ -1,18 +1,18 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-publishedDateTime: 2021-06-16T18:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
+publishedDateTime: 2021-06-17T04:02:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
 type: article
 quality: 2
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
@@ -132,6 +132,22 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/06/6CF52215-66AC-42DA-9307-7E975564CE3B.png"
         width: 800
         height: 598
+        isCached: true
+  - title: "This bundle helps you become a fully-certified Microsoft Azure expert"
+    excerpt: "One of the best ways to learn the ropes and prove your knowledge is by taking the Microsoft Azure certification exams. Passing these tests will help you catch the eye of recruiters, and you should ..."
+    publishedDateTime: 2021-06-14T16:52:00Z
+    webUrl: "https://www.bleepingcomputer.com/offer/deals/this-bundle-helps-you-become-a-fully-certified-microsoft-azure-expert/"
+    ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/this-bundle-helps-you-become-a-fully-certified-microsoft-azure-expert/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/this-bundle-helps-you-become-a-fully-certified-microsoft-azure-expert/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 57
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2021/01/10/microsoft-azure.png"
+        width: 1600
+        height: 800
         isCached: true
   - title: "NSW Police runs AI over evidence using Microsoft Azure"
     excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
@@ -417,6 +433,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "7TCw8dgPMYbzFvDp99QYvBE8zX9aPDgwJIeNMp0QpYB7oZArNBIy5/6ksfp9k3cNQZl0mDwRfUARQx++WjOrLUUbRZznhjjFqWLPDuLESHafoskZX21nwqFurZYvVBAYoQQKjD7gGA1mrbJ1qW0wsbW8rkZ3bUX+P5KbB0ki19M/M0ogick0jllVOv1AqHQba1DnKxnPbphK+IznFEeW1j06FEubtx3YoWF1Nq3P8hDzeyYBmPPBdXwAd30N6/fprtPrr2vh33VuT8Ga2BxAkqM5BDsk+7uq9bh0PIIpAzUZwH8ugPEf6oH5E5AcY37kr8EJWaCuaKClyFoyTF2c0XHGtPtzt6YZx3VtlrVywvs=;1MWJt65nLbpkD3bI6m1jxA=="
+secured: "bZ+rmv47/CwioNKEopuHVuW++utovAcSLAOTFH38Hr9pQnggIPn9KYyAPxcZtMRCsnF/NWOQnZyou/alrCiHHAPjLltiG+6jYe68E2zJYNKz4nBi/rpT3e3OIGfFBxHJzyk0LJUpRB4mD0UjbAyU4J+xvpUD/bAHH6d/Bien8fZkYGThKGESKo0JaQ/iAggt6IbALxtHKqRe+uthl8iX6kccFZqll76ONyZ8k299LE/c7k4PeHLCDC907obw/VgAvSV9vvLvuBlkOcebLHmYw93pTPkC35Ra0EAL6ufNU815JC4w8Yunkm0WMqS8nzxL8zt9dw66nXnvE81VE+L3By+dffSo58g9W1a1/qqrRkA=;y3tqZZiGm5mDuvkusp6FGQ=="
 ---
 
