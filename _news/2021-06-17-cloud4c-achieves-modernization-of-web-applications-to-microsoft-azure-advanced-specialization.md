@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
-publishedDateTime: 2021-06-17T11:37:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-achieves-modernization-web-applications-microsoft-azure-advanced-/2021/06/17/9392455.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-achieves-modernization-web-applications-microsoft-azure-advanced-/2021/06/17/9392455.htm"
+title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure advanced specialization"
+excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their"
+publishedDateTime: 2021-06-17T12:31:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-121061701081_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-121061701081_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-121061701081_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-121061701081_1.html"
 type: article
-quality: 6
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/17/full/20210617172204.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -79,6 +87,20 @@ related:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
+    publishedDateTime: 2021-06-15T11:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
     excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
@@ -191,6 +213,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "These are the biggest strengths AWS, Google Cloud, IBM, and Microsoft Azure bring to Wall Street firms looking to migrate to the public cloud"
+    excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
+    publishedDateTime: 2021-06-17T13:37:00Z
+    webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: "https://i.insider.com/60ac14aa5e3457001926545c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Amdocs to Offer its BSS/OSS on Microsoft Azure to Operators"
     excerpt: "Amdocs extends its partnership with Microsoft, widening the availability of its portfolio on Microsoft Azure and the Azure for Operators"
     publishedDateTime: 2021-06-07T01:10:00Z
@@ -246,20 +282,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
         width: 1616
         height: 846
-        isCached: true
-  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape ..."
-    publishedDateTime: 2021-06-15T11:05:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53153180-ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
@@ -353,6 +375,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 28
+  - title: "Perforce Releases Free, Turnkey Solution for Game Dev and VFX Studios on Microsoft Azure"
+    excerpt: "Perforce Software, a provider of solutions to teams requiring security, visibility, and scale along the development lifecycle,"
+    publishedDateTime: 2021-06-17T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/perforce-releases-free-turnkey-solution-for-game-dev-and-vfx-studios-on-microsoft-azure-301314721.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/153498/perforce_software_logo.jpg?p=facebook"
+        width: 2691
+        height: 1414
+        isCached: true
   - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
     excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
     publishedDateTime: 2021-06-02T12:03:00Z
@@ -366,20 +402,6 @@ related:
       - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/06/16x9/magnetforensics.60b773162031e.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 673
-        isCached: true
-  - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
-    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
-    publishedDateTime: 2021-06-15T12:02:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_aaaaf413-cac8-5608-a19f-180153ad5954.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 23
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/5f/a5fa6bb3-b488-5885-85eb-b7c34123e627/60c89aae29b02.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
@@ -426,6 +448,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
+  - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
+    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
+    publishedDateTime: 2021-06-15T12:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-renesas-extends-support-microsoft-azure-rtos-across-32-/2021/06/15/9390419.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
     publishedDateTime: 2021-06-17T04:02:00Z
@@ -453,7 +484,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
+    excerpt: "Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise, is partnering with Microsoft (News - Alert) and making its comprehensive suite of solutions available through Microsoft Azure."
+    publishedDateTime: 2021-06-17T13:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-logility-partners-with-microsoft-azure-power-high-performing-/2021/06/17/9392726.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "yTPaP2cDPiezGTXtQpRnhVtqanqFFMncnOC5R+WGzHf66BKx5+f+fK96loVXZk2ep1oYSI/qYMxCWPXwYJ+hUGKsL0LIorQmDmvYpcDaHmXVqRa6rxt2f27GY3TMQpXGqNiUHwZwCtlaBoxzCk8cubVYGQ1hHMep3nuOgUy+pqhdu3Sqgbhrah66wCBN9mp5sG42/mGLTVmCehspNwMFne54aL+mWaMQ2RHmv5sMk4Ud3GJiOhWmRp5E6WNp9dO+pg7ouv3AaJRCnTvbmF109XSBNRWSsRMNnuV3wQfssQ8jQd+5/TjkvELzXtcbE0kwSpNXHuL0NvjONPPF2gH7mUodYjmBLmPkv20CXH9DYy0=;7b1drD+sXWqxrIxpdiicow=="
+secured: "KkKst3+Jyy9eQJISCabAy5jNhqEULWHm0WxTgnAAqppFjDE7mxCgB6HwE6CCDyRJ9YWVL5WTHmzqoZpR92xTDOz4orl6Njnnfp/Cjl7ANotYAT8d5BrWQWHhoWhfQb+Kuf8vnFE77w5XrgRrjVbrzyx4aX+dkizknCHtCK4JyFQN4/Z8aJQLYHwicRU9eVhHIDZXMtvzwKOAOp1mKePhEfPcegWe1g4JLQ3DwwHj2mKIh9qQDvDEmQHOgfDDyxGzHQlyg2ydUB5BfkMhOVSIwFVjL72X3gDFcZYoyvod1LCl3oE2QYnH2Fzh9+fH8lg+x+h/gUqMbzexWbfMJ+PEBm9B30s1nUbJMzoAqTVVL54=;skMFCCKlGmjwFThKYJ4ubw=="
 ---
 

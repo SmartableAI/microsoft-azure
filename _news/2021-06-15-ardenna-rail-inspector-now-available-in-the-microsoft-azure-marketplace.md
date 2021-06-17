@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape ..."
-publishedDateTime: 2021-06-15T11:05:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53153180-ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53153180-ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-008.htm"
+excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
+publishedDateTime: 2021-06-15T11:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
+webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -183,9 +187,39 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure advanced specialization"
+    excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their"
+    publishedDateTime: 2021-06-17T12:31:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-121061701081_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-121061701081_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-121061701081_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 46
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/17/full/20210617172204.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Here's how AWS, Google Cloud, IBM, and Microsoft Azure are pitching themselves to finance firms in their fight to win Wall Street's business"
     excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
     publishedDateTime: 2021-06-15T21:00:00Z
+    webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: "https://i.insider.com/60ac14aa5e3457001926545c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "These are the biggest strengths AWS, Google Cloud, IBM, and Microsoft Azure bring to Wall Street firms looking to migrate to the public cloud"
+    excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
+    publishedDateTime: 2021-06-17T13:37:00Z
     webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
     type: article
     provider:
@@ -345,6 +379,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 28
+  - title: "Perforce Releases Free, Turnkey Solution for Game Dev and VFX Studios on Microsoft Azure"
+    excerpt: "Perforce Software, a provider of solutions to teams requiring security, visibility, and scale along the development lifecycle,"
+    publishedDateTime: 2021-06-17T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/perforce-releases-free-turnkey-solution-for-game-dev-and-vfx-studios-on-microsoft-azure-301314721.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/153498/perforce_software_logo.jpg?p=facebook"
+        width: 2691
+        height: 1414
+        isCached: true
   - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
     excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
     publishedDateTime: 2021-06-02T12:03:00Z
@@ -358,20 +406,6 @@ related:
       - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/06/16x9/magnetforensics.60b773162031e.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 673
-        isCached: true
-  - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
-    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
-    publishedDateTime: 2021-06-15T12:02:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_aaaaf413-cac8-5608-a19f-180153ad5954.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 23
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/5f/a5fa6bb3-b488-5885-85eb-b7c34123e627/60c89aae29b02.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
@@ -418,15 +452,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
-  - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
-    publishedDateTime: 2021-06-17T11:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-achieves-modernization-web-applications-microsoft-azure-advanced-/2021/06/17/9392455.htm"
+  - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
+    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
+    publishedDateTime: 2021-06-15T12:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-renesas-extends-support-microsoft-azure-rtos-across-32-/2021/06/15/9390419.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 6
+    quality: 3
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
     publishedDateTime: 2021-06-17T04:02:00Z
@@ -454,7 +488,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
+    excerpt: "Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise, is partnering with Microsoft (News - Alert) and making its comprehensive suite of solutions available through Microsoft Azure."
+    publishedDateTime: 2021-06-17T13:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-logility-partners-with-microsoft-azure-power-high-performing-/2021/06/17/9392726.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "FgXLjaFyOu0eGMXKBbnnFsUunfE5g2My/cFbBCkc2pkSb6SrFe9AO2t1ewB9rfC8mS6fBJwlzaCQaL+dJQa/neze+CCoK5D+KoqAKgs0VBeGAqPmVZkYcybUFq3NelAkEIQTuz11y5h/+JqAVlbD+TRKEk79ihXUHAkLKsoailG2s0ZAHI86mbWxXRR9LwczyheoK0dC30fEl8J5DZv3oXkVSXra6++4g3CdO5+wuRWR3mfJY1w4bJ6FNUClo2DFgth3c68sRLt+6Mqs2vOMlXycqkFweIHyGOOjBeclMm3AnXct8+CxTXO8mpPjU7+12zAFlILlfyV8fdG9OfRUIv/nry+KL708hYP2Ai0EHjc=;Ucfoy7vlaoqxL0edweQWmQ=="
+secured: "fwjkDXuI1Bdr6DLdC0ZEY7cQkkR+651S6+2DcJXEHFYLZ3q8eKOoEpEL1xpkefydaLgfVGMVqpcIOG1G88/95WrF4ID7a+SlWlFxCHf/l71grUFrVrXbYvc1e9U1ybxdHvKQi9iaT9wkT4p12PgdLNI4p31BV59xmjW+9R24pA+79SHeBmMD0oWumYwx25y/8UhpJmaawp0zkERFbaBdswRixAjOOrKcZhIW99qljveLVFCGzqrKTmqekN8z3+lHbxe9Cg/wNEVhAWa3LSn4NkSdoaucVdBTkxaEulUAreiV9CIc/s477gegwp358OW9D9+fYuSeWmN1jVmBZ2xkikdPXj/z6VAguCYgUDeb6r4=;i3/xvJLB8P/kjxsBuSTuAA=="
 ---
 

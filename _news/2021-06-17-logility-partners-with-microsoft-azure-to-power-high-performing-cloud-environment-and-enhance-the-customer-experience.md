@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Microsoft launches new West US 3 Azure region in Arizona"
-excerpt: "Microsoft has launched a new Azure cloud data center region in Arizona. As with other regions, West US 3 is made up of at least three separate facilities known as Availability Zones. The region has data centers located in the cities of Goodyear and El Mirage,"
-publishedDateTime: 2021-06-16T09:46:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-new-west-us-3-azure-region-in-arizona/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-new-west-us-3-azure-region-in-arizona/"
+title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
+excerpt: "Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise, is partnering with Microsoft (News - Alert) and making its comprehensive suite of solutions available through Microsoft Azure."
+publishedDateTime: 2021-06-17T13:18:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-logility-partners-with-microsoft-azure-power-high-performing-/2021/06/17/9392726.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-logility-partners-with-microsoft-azure-power-high-performing-/2021/06/17/9392726.htm"
 type: article
-quality: 37
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://media.datacenterdynamics.com/media/images/Phoenix_AZ_Downtown_from_airplane.2e16d0ba.fill-1200x630_LPGabwB.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -311,6 +305,20 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "Microsoft launches new West US 3 Azure region in Arizona"
+    excerpt: "Microsoft has launched a new Azure cloud data center region in Arizona. As with other regions, West US 3 is made up of at least three separate facilities known as Availability Zones. The region has data centers located in the cities of Goodyear and El Mirage,"
+    publishedDateTime: 2021-06-16T09:46:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-new-west-us-3-azure-region-in-arizona/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Phoenix_AZ_Downtown_from_airplane.2e16d0ba.fill-1200x630_LPGabwB.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft debuts Azure private MEC to enable 5G at the edge"
     excerpt: "Microsoft Corp. today debuted Azure private MEC, a suite of edge computing hardware, software and cloud services that enterprises can use to set up private 5G networks at locations such as factories."
     publishedDateTime: 2021-06-16T20:27:00Z
@@ -484,16 +492,7 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
-  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
-    excerpt: "Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise, is partnering with Microsoft (News - Alert) and making its comprehensive suite of solutions available through Microsoft Azure."
-    publishedDateTime: 2021-06-17T13:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-logility-partners-with-microsoft-azure-power-high-performing-/2021/06/17/9392726.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
-secured: "m4mxvDLAZqr9jROF1xDhzpExBh65/5gsRVzy2INCJ4xj0q3WLr07vsCisrKQD3JbciFXAMTNRFl+U84pWKIpbIvT12WjNnUXohpN0B1p5Lt/jjRlDjOaEhmT2vzt38XpHlPluA8nhF/yAfbKJJ02GyBWyo3U5o2TwMXjw2C+NaaOoMqjIziwSCg+ZNwyymlbIXCDGfKD+sGCKmXgMt+winnHYP4byiR7nbMyFdbauE3GdzvuKgckghDZFHF9lzOTx7q4TyNR608ARCVNE751vCNhIq6wSoSnpSuqUDqwBM1XyPDhT2PwkLA3TB3MbpybMT4dhiEr6eqay1adIRFXcT7SdgTUp9VwOiTosdMXc9Cjjp89Sz36VnIsyUE9jksauficCTX5vCh9gwufbEdKZxJU+Ob7+hPGCg0EIISPxl3pHI9WftnKqdNqpW/v1NAiwz5BgpA5VzLcrgENMhBmEBNubd/j5ee34QoLn7qDRQMVb+T0ijJp5W6Xu9tajOschQxuApF1TDrmkjdWkZV9SA==;SDuL9uTa1tKZB/dgbAUjHA=="
+secured: "wGDWyLkC1Yq3JG++cc6RiVbqeK6EV/Oo4lDWoQSHTdWv2jKNpiVS0KSpZGvW6fXqR89fOeWW9/tBP6jRp5nmP7l7u7c4dN4b7aId3eiOJxA3nJJyHoJKf6HGSohMAnLdW7785nTo8r/Fiz7vF824v1dX+7dCj3neh/1oyCboTsBu3HJhS9d9sms8PhNG4vECjUmMO5WKwHf0IyDMdvqx7G2ghOUDsC6ppFiMDZnhwlRvGbNkbbyMuU8xwBC2XDBtb5zxtb6JGOAGNFmmHE8WWLulIN7KcIPe10VTjuUg0cpJ5ZEGkPULVLzh9TN1IRzhXB90A8bj3RSw5P8Yi5OGGC+jA+Gi2V1EIy28RdiLvts=;rTFC0IRLIBTWMegt7DgLGQ=="
 ---
 

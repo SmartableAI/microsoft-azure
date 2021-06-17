@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft launches new West US 3 Azure region in Arizona"
-excerpt: "Microsoft has launched a new Azure cloud data center region in Arizona. As with other regions, West US 3 is made up of at least three separate facilities known as Availability Zones. The region has data centers located in the cities of Goodyear and El Mirage,"
-publishedDateTime: 2021-06-16T09:46:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-new-west-us-3-azure-region-in-arizona/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-new-west-us-3-azure-region-in-arizona/"
+title: "Perforce Releases Free, Turnkey Solution for Game Dev and VFX Studios on Microsoft Azure"
+excerpt: "Perforce Software, a provider of solutions to teams requiring security, visibility, and scale along the development lifecycle,"
+publishedDateTime: 2021-06-17T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/perforce-releases-free-turnkey-solution-for-game-dev-and-vfx-studios-on-microsoft-azure-301314721.html"
+webUrl: "https://www.prnewswire.com/news-releases/perforce-releases-free-turnkey-solution-for-game-dev-and-vfx-studios-on-microsoft-azure-301314721.html"
 type: article
-quality: 37
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/Phoenix_AZ_Downtown_from_airplane.2e16d0ba.fill-1200x630_LPGabwB.jpg"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/153498/perforce_software_logo.jpg?p=facebook"
+    width: 2691
+    height: 1414
     isCached: true
 
 related:
@@ -311,6 +311,20 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "Microsoft launches new West US 3 Azure region in Arizona"
+    excerpt: "Microsoft has launched a new Azure cloud data center region in Arizona. As with other regions, West US 3 is made up of at least three separate facilities known as Availability Zones. The region has data centers located in the cities of Goodyear and El Mirage,"
+    publishedDateTime: 2021-06-16T09:46:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-new-west-us-3-azure-region-in-arizona/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Phoenix_AZ_Downtown_from_airplane.2e16d0ba.fill-1200x630_LPGabwB.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft debuts Azure private MEC to enable 5G at the edge"
     excerpt: "Microsoft Corp. today debuted Azure private MEC, a suite of edge computing hardware, software and cloud services that enterprises can use to set up private 5G networks at locations such as factories."
     publishedDateTime: 2021-06-16T20:27:00Z
@@ -375,20 +389,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 28
-  - title: "Perforce Releases Free, Turnkey Solution for Game Dev and VFX Studios on Microsoft Azure"
-    excerpt: "Perforce Software, a provider of solutions to teams requiring security, visibility, and scale along the development lifecycle,"
-    publishedDateTime: 2021-06-17T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/perforce-releases-free-turnkey-solution-for-game-dev-and-vfx-studios-on-microsoft-azure-301314721.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/153498/perforce_software_logo.jpg?p=facebook"
-        width: 2691
-        height: 1414
-        isCached: true
   - title: "Magnet Forensics Leverages Microsoft Azure to Improve Digital Investigations via the Cloud"
     excerpt: "Magnet Forensics, a developer of digital investigation software, announced it is leveraging Microsoft Azure to help public safety and justice sector organizations modernize their digital investigations."
     publishedDateTime: 2021-06-02T12:03:00Z
@@ -494,6 +494,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "m4mxvDLAZqr9jROF1xDhzpExBh65/5gsRVzy2INCJ4xj0q3WLr07vsCisrKQD3JbciFXAMTNRFl+U84pWKIpbIvT12WjNnUXohpN0B1p5Lt/jjRlDjOaEhmT2vzt38XpHlPluA8nhF/yAfbKJJ02GyBWyo3U5o2TwMXjw2C+NaaOoMqjIziwSCg+ZNwyymlbIXCDGfKD+sGCKmXgMt+winnHYP4byiR7nbMyFdbauE3GdzvuKgckghDZFHF9lzOTx7q4TyNR608ARCVNE751vCNhIq6wSoSnpSuqUDqwBM1XyPDhT2PwkLA3TB3MbpybMT4dhiEr6eqay1adIRFXcT7SdgTUp9VwOiTosdMXc9Cjjp89Sz36VnIsyUE9jksauficCTX5vCh9gwufbEdKZxJU+Ob7+hPGCg0EIISPxl3pHI9WftnKqdNqpW/v1NAiwz5BgpA5VzLcrgENMhBmEBNubd/j5ee34QoLn7qDRQMVb+T0ijJp5W6Xu9tajOschQxuApF1TDrmkjdWkZV9SA==;SDuL9uTa1tKZB/dgbAUjHA=="
+secured: "Xr/fnk48yfutGp3gFhNiVuDTh941CARyX0xz0mZ8qDafNA1wzivSy/lPe6syTXx//9JGJei05zFdPiyqOvEZueaqnBPHVr42GvTBoMxDtjHP/I+/p0uG6Z11TOn/foYIg39FGMA4W2D8Aa0/6+/JsQEck2+UWi2Vkw9jy4xhpS9HYFVUJkIBi/L/f4zz6b+kTuax37FkvEXI0JVcp9z9zC1tMOypEhyV+FjK6Oq/L1qunvNBrkfPXE/t1KqMpAncy+KOFw0kNriHcJb2PqXu8SfTHjTDNDQp5aZFepmATau/Xk1XO2MvI6zPy4CP4GHGixhopmRf5XPyQwsa/SKhkbMehb2uLp5UFPNp3KS6OVo=;zhdbE0WavpqHLT/HnT9vrQ=="
 ---
 

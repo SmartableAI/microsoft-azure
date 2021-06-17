@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Microsoft launches new West US 3 Azure region in Arizona"
-excerpt: "Microsoft has launched a new Azure cloud data center region in Arizona. As with other regions, West US 3 is made up of at least three separate facilities known as Availability Zones. The region has data centers located in the cities of Goodyear and El Mirage,"
-publishedDateTime: 2021-06-16T09:46:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-new-west-us-3-azure-region-in-arizona/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-new-west-us-3-azure-region-in-arizona/"
+title: "These are the biggest strengths AWS, Google Cloud, IBM, and Microsoft Azure bring to Wall Street firms looking to migrate to the public cloud"
+excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
+publishedDateTime: 2021-06-17T13:37:00Z
+originalUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
+webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
 type: article
-quality: 37
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/Phoenix_AZ_Downtown_from_airplane.2e16d0ba.fill-1200x630_LPGabwB.jpg"
+  - url: "https://i.insider.com/60ac14aa5e3457001926545c?width=1200&format=jpeg"
     width: 1200
-    height: 630
+    height: 600
     isCached: true
 
 related:
@@ -227,20 +231,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "These are the biggest strengths AWS, Google Cloud, IBM, and Microsoft Azure bring to Wall Street firms looking to migrate to the public cloud"
-    excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
-    publishedDateTime: 2021-06-17T13:37:00Z
-    webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: "https://i.insider.com/60ac14aa5e3457001926545c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Amdocs to Offer its BSS/OSS on Microsoft Azure to Operators"
     excerpt: "Amdocs extends its partnership with Microsoft, widening the availability of its portfolio on Microsoft Azure and the Azure for Operators"
     publishedDateTime: 2021-06-07T01:10:00Z
@@ -310,6 +300,20 @@ related:
       - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
         width: 1280
         height: 721
+        isCached: true
+  - title: "Microsoft launches new West US 3 Azure region in Arizona"
+    excerpt: "Microsoft has launched a new Azure cloud data center region in Arizona. As with other regions, West US 3 is made up of at least three separate facilities known as Availability Zones. The region has data centers located in the cities of Goodyear and El Mirage,"
+    publishedDateTime: 2021-06-16T09:46:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-new-west-us-3-azure-region-in-arizona/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Phoenix_AZ_Downtown_from_airplane.2e16d0ba.fill-1200x630_LPGabwB.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft debuts Azure private MEC to enable 5G at the edge"
     excerpt: "Microsoft Corp. today debuted Azure private MEC, a suite of edge computing hardware, software and cloud services that enterprises can use to set up private 5G networks at locations such as factories."
@@ -494,6 +498,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "m4mxvDLAZqr9jROF1xDhzpExBh65/5gsRVzy2INCJ4xj0q3WLr07vsCisrKQD3JbciFXAMTNRFl+U84pWKIpbIvT12WjNnUXohpN0B1p5Lt/jjRlDjOaEhmT2vzt38XpHlPluA8nhF/yAfbKJJ02GyBWyo3U5o2TwMXjw2C+NaaOoMqjIziwSCg+ZNwyymlbIXCDGfKD+sGCKmXgMt+winnHYP4byiR7nbMyFdbauE3GdzvuKgckghDZFHF9lzOTx7q4TyNR608ARCVNE751vCNhIq6wSoSnpSuqUDqwBM1XyPDhT2PwkLA3TB3MbpybMT4dhiEr6eqay1adIRFXcT7SdgTUp9VwOiTosdMXc9Cjjp89Sz36VnIsyUE9jksauficCTX5vCh9gwufbEdKZxJU+Ob7+hPGCg0EIISPxl3pHI9WftnKqdNqpW/v1NAiwz5BgpA5VzLcrgENMhBmEBNubd/j5ee34QoLn7qDRQMVb+T0ijJp5W6Xu9tajOschQxuApF1TDrmkjdWkZV9SA==;SDuL9uTa1tKZB/dgbAUjHA=="
+secured: "TZVxtdfB8lyMbU+Aa9GgCwfABd0gzAHOZVkgRXlp+NOIRexgTlZnB84IPNVQfuM8aPLmu4+q0ospGBEmMxawfl8wKWQeL+mA9b+8evoMoL1jiiYStIsPFanO8dSCPKvxQCYudkuDZ0iFHSlunX+L8rE9Za9v0A+OoesUaUw/BJZ5QpWmwNpc7vZ/krVZLrLn5/sux7FsK/zLW/t0TVG1Nc2qOgMMKhcbJuKAiz+9tjU5h6TA2Upwr6tE5QcYf2azbMjCKgKlCYk7WhnqvkFW3TEb2QiGjURxh0vx7xjfog1HifAnK7aC1KBumB6lWI0gYsSy40cMbUciywbRW5BuZ2/4NNOjIZttZehAX83zOLA=;jfgLtO0E+8lr+wJyrPebCA=="
 ---
 
