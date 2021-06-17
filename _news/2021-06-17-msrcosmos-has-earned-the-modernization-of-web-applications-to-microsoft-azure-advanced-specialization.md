@@ -1,18 +1,18 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-publishedDateTime: 2021-06-16T18:31:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
-webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
+excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+publishedDateTime: 2021-06-16T18:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
 type: article
 quality: 2
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -203,6 +203,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
+    excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
+    publishedDateTime: 2021-06-07T09:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+        width: 1616
+        height: 846
+        isCached: true
   - title: "Cloud4C Receives 'SAP On Microsoft Azure Advanced Specialization'"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true va"
     publishedDateTime: 2021-06-08T11:02:00Z
@@ -365,15 +379,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-    excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-    publishedDateTime: 2021-06-07T08:30:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
   - title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"
     excerpt: "BBIX, a subsidiary of SoftBank that conducts an internet exchange business, has expanded the 'BIX Multi-Cloud' service coverage to Osaka Area starting with Microsoft Azure. BBIX Multi-Cloud for Microsoft Azure in now available in the Osaka area."
     publishedDateTime: 2021-06-11T09:02:00Z
@@ -420,6 +425,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Ohk4jWOQVW9JuSbbOV3a5b0jka0egCC0EkfkdwD8izgU7udMTOJaTkvK/Cxa/9V++BpyjanDXWDFdeY1dPwhuIRK0e6PQ7Y6A318yASU3Ub/O+50cnJv73ooVNQkOm8lK5Wa7WWouMPA+EWZUkwhV462Pmd6Tb88JLIEeu4u8aH2OHJRsEsR+FhqQQYz0GiHREPmiU/CWdifTJI3Ur83POq95oi5NVlRSvW4StE/xJz5YUxMoanZXCGt965ptRZGMzSw/NNyOXl37OUYtDD7SDDbKFJJ6KVjaQ5rzh2wpHznnOPaNuH1jQYdiROh68d7oqlVmTL25wa+A0/Ux0A6GsLrCUnjwLIvv+tfIlGopsM=;tEZw8wxll0i346MmPYS8sg=="
+secured: "I7Fa7+azjAj9jou8ii03LNgCwuq3Gk9kbZ2gnq3Wetv+QYs/h1mH2YLPiNiZbKWNrBEtkwwenqOgKyedbcea/TmpWcULClO+I2+BI8WmdnN74B4iygYSH4qZ3EUy4DMuFA64hvw/58jyN0d3izk+v5LZq+5J182eERTadbBbDh01zcsc3AoSmG4q9CISewsMHCsV395o/VNOt5vsMFm2cRFok/4dm9FyxvTeKAOFr0fi52C15t30J/p5xrJE13oHJnyRsZvkvM1d2Dq6vfh4yvsoCYtGbEXknJkOkoiq3SwyNUkXUi74xyBa637Pcc2acDBlm2SPKHtE4blqOEDSZje4J/x1mQhDIctyGCPP2tc=;LgmjCsv7x3xV2QrebvIriQ=="
 ---
 

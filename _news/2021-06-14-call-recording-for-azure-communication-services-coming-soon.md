@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/call-recording-for-azure
 webUrl: "https://azure.microsoft.com/en-us/updates/call-recording-for-azure-communication-services-coming-soon/"
 type: article
 quality: 67
-heat: 88
+heat: 87
 published: true
 
 provider:

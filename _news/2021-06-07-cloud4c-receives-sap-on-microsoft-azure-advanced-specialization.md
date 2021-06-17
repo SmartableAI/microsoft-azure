@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-publishedDateTime: 2021-06-07T08:30:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
+excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
+publishedDateTime: 2021-06-07T09:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+    width: 1616
+    height: 846
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -402,13 +408,13 @@ related:
       domain: businesswire.com
     quality: 15
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-    publishedDateTime: 2021-06-16T18:31:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-16T18:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 2
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
@@ -420,6 +426,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "VMX7LaasyJJSzMU8NJy0AfW14HHvx+ihxl++RtYdXpjDzUuNvFZoOgmK8HwoI17JlaXo7tQsJD/Gf7KO879/ResOosdluvWlfPDOeHlFu/e7CemnybZHKaV4qq6emFdylxHzF9cGGfP5UF4XRIGHCGPIbucUTtHrFMTsW2MCdnBLDOQvTulTmhh3LfiI5Oil+PjVqjnujWJtHjiecfXzp06M6oQo7bg5EapzwNSZFVkZOWgHJDJIDUenRG/fisu8f+RneEglQQE99cLGNUrjAenXElFmaszQ0et21d8SHZXx4SN+HB34ijRbNadK18IaLHie7dlTv//f4sBh+0MKWprGQlQPw4sF89/grT1l/2I=;nM3z67BwIPkMzhg2hCl9Vw=="
+secured: "RqWzU3eWRL+uhJnWbQyLuptFmldOtYG7FagHlcRh7lJzKZw5/ysYYMKmi5x/xMPU4W5xzXqPa3U9Xgfggiw5HlH+MQRbPqzybY2whnzyt8xk1D6FF64iBcUx+X4DGEv8fMT9H77OSTvjI22zTWZWhzESmg9pJWvgleexOChgUwsnZModentY6PMivdmA5Qxvz9a9Dg34IqYjMJJE6ZfHXsbl8V66Ykn9xG3ywYzcLK33Z+OZI6j+IIl3U0RfkA2SyA04MVJVXnsMaTT/Cyh/TMmfSPkaxqMQ5LuvM7wgop42XPaCJMw9bBF9BE1M4HtQAFlj3/1DiH4KOnWVLc5hyfUW9w1jq1za6N6b0Ohly3k=;KUST7NorTsztXZ+/VRGQYg=="
 ---
 

@@ -203,6 +203,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
+    excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
+    publishedDateTime: 2021-06-07T09:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+        width: 1616
+        height: 846
+        isCached: true
   - title: "Cloud4C Receives 'SAP On Microsoft Azure Advanced Specialization'"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true va"
     publishedDateTime: 2021-06-08T11:02:00Z
@@ -365,15 +379,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-    excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-    publishedDateTime: 2021-06-07T08:30:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
   - title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"
     excerpt: "BBIX, a subsidiary of SoftBank that conducts an internet exchange business, has expanded the 'BIX Multi-Cloud' service coverage to Osaka Area starting with Microsoft Azure. BBIX Multi-Cloud for Microsoft Azure in now available in the Osaka area."
     publishedDateTime: 2021-06-11T09:02:00Z
@@ -411,13 +416,13 @@ related:
       domain: businesswire.com
     quality: 15
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-    publishedDateTime: 2021-06-16T18:31:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-16T18:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 2
 
 secured: "7RMDlwnbqlTNTVqrDyShQFFyiHyWInVGzc151JfniBl/r9MS5WK/1rlCxp1w1kste/7Zw1fRluDulC54WTgVkIslzhxQhnkpsBKa3KsUUQ007WjBf4Po0XdC4nlpJwOtuBw2sjHC+dnGuChUG2qlnp2UsVIUk3wo+a1Y0cHnVMvS7ZHtk6ooaausjJQ60K0YUiECDgB52sZoF7TfWBmRt9O5+CtKMF3bowBECMPzz+CTIRQNAN6wvgqWbZ06r7byXDiCECY/g34gSPBKXwEQKnbti6j63+UdIdFXFFInroH8DCEiJz7a1uqTFhFQTXTioBZnzERDEo1QvksoGb0Ez3wtB1E2xFUiCwCDs4267g4=;z3ak9189r5z/mad2wtFYkQ=="

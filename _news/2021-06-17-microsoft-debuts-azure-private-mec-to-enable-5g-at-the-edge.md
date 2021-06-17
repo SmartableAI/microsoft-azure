@@ -209,6 +209,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
+    excerpt: "June 7, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its ..."
+    publishedDateTime: 2021-06-07T09:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization-301306814.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+        width: 1616
+        height: 846
+        isCached: true
   - title: "Cloud4C Receives 'SAP On Microsoft Azure Advanced Specialization'"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true va"
     publishedDateTime: 2021-06-08T11:02:00Z
@@ -357,15 +371,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Cloud4C receives 'SAP on Microsoft Azure Advanced Specialization'"
-    excerpt: "Cloud4C, World's leading Cloud Managed Services Provider today announced it has received the SAP on Microsoft Azure advanced specialization, a true validation of its extensive experience, rich knowledge and proven success at implementing SAP solutions on Azure."
-    publishedDateTime: 2021-06-07T08:30:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210607io02297/cloud4c-receives-sap-on-microsoft-azure-advanced-specialization"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
   - title: "BBIX expands Multi-Cloud service to Osaka Area with Microsoft Azure"
     excerpt: "BBIX, a subsidiary of SoftBank that conducts an internet exchange business, has expanded the 'BIX Multi-Cloud' service coverage to Osaka Area starting with Microsoft Azure. BBIX Multi-Cloud for Microsoft Azure in now available in the Osaka area."
     publishedDateTime: 2021-06-11T09:02:00Z
@@ -403,13 +408,13 @@ related:
       domain: businesswire.com
     quality: 15
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-    publishedDateTime: 2021-06-16T18:31:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-16T18:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 2
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
@@ -421,6 +426,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "TcegsR07SIW6bG01yT0FcPv3D4ac0KvK3U0GYGi4jFHZLnQ444IWBm1K7FoWIQ1ox5ldtkl5YhtPCjWngGHGAhSB7Biclq0y/cG4dbjAjCz72yy+v+da3nFs/tEVbEvJY4vvMMavu+o5uIBFlfisfBVYZjci70FtFZJ7AhYXbgiLRzGmFHY71D8PfVGVhzA5VveVlJ2GutKMj8wZOt2HHD0ol6c1C5igZcxpChCit3BjMgRLka3E15wM2HOQ69XwdMevYY0bj5mma+s+qz220XiQdthpBmvuHybkjbBpu7ReNsKjPKguCATT4gX58V5I2ZltP8qKJvxwGdW2MB+yv3p+TgnG4ipS4awmK2c1Ts4=;B1R0Tnev/uWBl6NlvcXWIg=="
+secured: "zXShDxh/TM2mIodgusOQKZIK3rZ1x+xwqbqZxr6f9FzhrxZKEfk8G2UMl6oTw/eqDdXG2ZuI+WHxgWXe/QAZVIghb5eHXWRbSmWeKd5yrPPxgRUva3eo6SUTcQulBugDp5afFNRETzqY9erB0uxnTZZiSWCcPoCV/CvHbk9O0vqUM3hwlSSp+DEEu0NT6QR3A+QTEREHNRDBX9nKYwxZP11d4XCQe5yiUki4dqOC2BspZDS8qtxD0oosMTGhrCrAqjyJiO+end255LT1uQASz/HKZDpvtW++Zcp56v71xRKCz6WrNbkt4NUOGgJe86eDHk5RNADsOVZbMNumBsVybvg63Mx4f4S4IQaDrjrKVbvCbqIZXOGnpQW5qqzvlJ6EYWggPzQ0aYf39etai4nX/yRazuxTy7gohpBBHEdnSFHRkdk4ev6lMoldrAqxu0WtUoeOqXU4UU2ABjVBAcp9eNz7gQz1MRH2+OC5vp5XGGtQmETfmCZrelGeiCqDWoiM/hOLit2P2xZoROVFzdW2Yg==;JKUccYqmpE6C1vKn5SccsA=="
 ---
 
