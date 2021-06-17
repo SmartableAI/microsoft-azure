@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
-publishedDateTime: 2021-06-15T11:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
-webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
+excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape ..."
+publishedDateTime: 2021-06-15T11:49:00Z
+originalUrl: "https://www.iltempo.it/adnkronos/2021/06/15/news/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-27600751/"
+webUrl: "https://www.iltempo.it/adnkronos/2021/06/15/news/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-27600751/"
+ampWebUrl: "https://www.iltempo.it/adnkronos/2021/06/15/news/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-27600751/amp/"
+cdnAmpWebUrl: "https://www-iltempo-it.cdn.ampproject.org/c/s/www.iltempo.it/adnkronos/2021/06/15/news/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-27600751/amp/"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Il Tempo
+  domain: iltempo.it
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
-    width: 400
-    height: 225
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -407,13 +399,13 @@ related:
       domain: businesswire.com
     quality: 15
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-    publishedDateTime: 2021-06-16T18:31:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-16T18:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 2
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
@@ -425,6 +417,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "hXs8DdI4cNaJpjeVIy7Es4GttEuT1r3Lz5/UnU67yGIda9KY+TAz0x6eVnYUBpAeY5fbAsBYvP0WELqq34mG3iQe5PC2OEW+Btc9BUF1+ianmcMwYaNTxuPNWmtsv0ttojLaRuog7NgsiIx1Sc43O6XbHtqpGJg+J0gGhiFqfCVc+lEhxvy96PxHpeA+1OXunWKvUXgVGL/XiASg28L0DcMpwbLpyrCSTGnnzMxiC7bWtA86Om7qEe9IyqitOZ1piWBlqEzJBqaZ/AkeEdArbhdB30Hf0kmNWR53DLLj99LgPQ0gcMML4EzI+dMB12aduiho/Q1BnDIOwfv39gg5p+veZtYUtmeF3+LcLoF4gSXJpPTyONdm06PLlM+B38x7v+Gfs1zIRp2Jz6se0QTOmuiOlctSvTQtBB8//UCwGc1Iwky/tZ/fXH92CetnMeVX1q7+hNZ7tuOk2VJruao8BXVknI/GZGFlfOE1nnBO8W1tDlabE3IixcKWjvdidBTgCZi/6l6toQNiF5IaZ1bpHA==;NAEqcDR+aqj/c45ttlVakw=="
+secured: "1hiB1mlQ/kKVGWdjz9IV9aHVb93WwGZ2JeXt2Z7SDnR2ALCTlFO2mqovGMKanM8NQGvOeQQ2EBQGmxv4VG7dDiK1pMKE5qnYQBqZHy2RRAUORS4Xe7++syMJlzSkoxNH0kROpZZcglEUYpmGognYwwjcqBOs8cGUoUTC03SBs/aMJj08d6PZvXoun+umUG4WnphoCiLI1hwyzHyWe5SEbsWoAbiuUdsDqRpxoWtpBJQCf4xMI6T2dMSAdgWVsnnaEYoxDkWrYX0a+4mT2f6nVZU4FNK3UdYQ+py+W8TGbWRMM9FSNtxGPnZiax1AJhtSbcEUBSG8ymTRwtF+YTTq9ntD7uc+MF+d8WB/FTxV5uA=;pOPZzEd/T3gN8Nm8ng7kBA=="
 ---
 

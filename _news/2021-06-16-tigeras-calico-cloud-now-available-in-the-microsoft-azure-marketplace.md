@@ -80,20 +80,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
-    publishedDateTime: 2021-06-15T11:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
     excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
     publishedDateTime: 2021-06-08T14:20:00Z
@@ -245,6 +231,17 @@ related:
         width: 1616
         height: 846
         isCached: true
+  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape ..."
+    publishedDateTime: 2021-06-15T11:49:00Z
+    webUrl: "https://www.iltempo.it/adnkronos/2021/06/15/news/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-27600751/"
+    ampWebUrl: "https://www.iltempo.it/adnkronos/2021/06/15/news/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-27600751/amp/"
+    cdnAmpWebUrl: "https://www-iltempo-it.cdn.ampproject.org/c/s/www.iltempo.it/adnkronos/2021/06/15/news/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-27600751/amp/"
+    type: article
+    provider:
+      name: Il Tempo
+      domain: iltempo.it
+    quality: 37
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
     publishedDateTime: 2021-06-14T19:56:00Z
@@ -402,13 +399,13 @@ related:
       domain: businesswire.com
     quality: 15
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-    publishedDateTime: 2021-06-16T18:31:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-16T18:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 2
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
