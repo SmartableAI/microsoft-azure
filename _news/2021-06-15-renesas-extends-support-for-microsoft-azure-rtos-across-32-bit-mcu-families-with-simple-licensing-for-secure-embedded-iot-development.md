@@ -2,17 +2,17 @@
 category: news
 title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
 excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
-publishedDateTime: 2021-06-15T12:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-renesas-extends-support-microsoft-azure-rtos-across-32-/2021/06/15/9390419.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-renesas-extends-support-microsoft-azure-rtos-across-32-/2021/06/15/9390419.htm"
+publishedDateTime: 2021-06-15T12:00:00Z
+originalUrl: "https://www.financialbuzz.com/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing-for-secure-embedded-iot-development/"
+webUrl: "https://www.financialbuzz.com/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing-for-secure-embedded-iot-development/"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Azure
@@ -551,6 +551,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "O0sBq/dJrgzrXgPhILgze8rOA5KPdWtGPwh1x2MO4ysWWv/ykFhb83izCBaT8ZQVCh8G+I2xhA1yRs1vrYue1FD8umdDzj7JJjYRCNG9pqtcPqRwxHokkdjyYK2R5ysIHJ7kE2y8DuzQ8DLfaj7zIu/zv6coJtamVjTGQXZk8FJHp6v/oEvHLcC6skO1FtMtd8F0vuM5sDzVkQ74/8FlC3yxQTn29ACsZ33esRkMDGQ8d2vwuwI6W9XEArPkUeUo1mCGO/BoT8Lg0464iHX/9URwfDyxFmtetPmn4k4R5FGfWiyIaC423D1+Rd0l2CHNq087HmuDNWRuqjdvA7hFujOibMLpq0Po21hvgO1ttCM5Q95ZIVF53084eZ5wI9sOYN9n4oYS5M3PbPdv3hmS3KbBm0KkqMaLrEki4h5IMjPagKsctrV/HHvKBFMs7TMfT/P3druXr9TUuyRKhQNmt6H7VzTTdAu2ejHbS6txYpnTdUcSTqmRqmwFD+PBic/YlZu7iQZGV9L9FqlujAyDjA==;r+SD1kn/QNMFnuLFtSnbEw=="
+secured: "+Db9Glt0SvHnr0AmvCQAaQxRTMSxMkLWYAitBCpmMq8ihUBhXbCvj5uLF1IflZH8153qLSw8N2RvKxLvYEJftc9g5XnQPTlDCNjaIWDPl1RGpW7+lZyaCGU9vL/7hhzntzdHAhhXeT/IIU1j2w4isUYv1ETqTB3Izjkuy7s/rGSjIfDmG6WMZGwSGsX8NBIQqcSn0mEdJkuMRLd52kq7MZhD2TkeVk6tKq/kUJAZU2exHdwLBpL0jvpydT91n54jz5PhfGFTL/3Cu2dZKvYxaZcdcw/mKzErMd4X5wxi+kVbneV0dNl8syBFj6dWMEBQdblmi755gKnC68X7bX/maJKr1GzT95CsolZ2WeY0wW6ZtoMrbk7yD1YrIktk5iJbtvbKRZD4c6o4p/uw4n5fSaEYY4WsbRjW6UdQTBy+mCsbaWVsZOFWLyOFqJn+nx4cc7zKAaeGvakUVRNwbGt0uhCuiQ3P09NwVItsKCmh9GhwCY0bfpPZ3nzVqF4oTdUBq0NMN21yHkWAG4boHsPkkg==;nwCPNKJoe8sPPd/7TKpXUQ=="
 ---
 
