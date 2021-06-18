@@ -1,18 +1,18 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
 publishedDateTime: 2021-06-16T18:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+originalUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
 type: article
 quality: 2
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
@@ -550,6 +550,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "H3kfoY6W7pgD2fzKiBIod5TSg/P4+o9N6r/j40F5fjN/Aiix+9SmOBP31P6EZclD2RThwcFI+xrk/drQ+x/LKSF80PtU8nuNjNy6InUY30/fTGjSx6M6FoUMxE8eAtmb+xtPaK7a63pcmtyOe52I9F+/9cDMrJxLC66+gtpssjoXzkTkkV3Fu/8ZjhGMmkYwVwjnx22on0YLrxRRlZJzKKgH7HhN2JwGk2RknUYikToiMRmjptgamOh62pZ3nAv4Gxq9JqWRMnb9zZHQ3KC/b7pdqx/JUPdPZXTEoJzky8zhyDribtEnMibV1QgKNX8LeKlUyqCW3X+Ow3ATVpvkby1BZYU3ud8taeOL5mddhfY=;COpYS3/kmPclN36XpdkHsw=="
+secured: "hxn0yMOd2wlIwdGpbc8fpfJUD8eEh5QROGY4rostb0H3/ydP7BZMuBZ/TQ3qN+Bf4z4unOqsqeA3VWE91KYMKpkd8l7P655SE/gmO6WgtQGYorBB6Pu5Xnf4qurD6SYPpoea5tJaT80MSEOSwt+qwWGQsthvD8ESPJ9F5fEEDhMRrPj/uPBpZAPcgB9j6xJzhJnY0CiE+WfbMjHvEX5jkYwfUW07XWB+GeK/dqoXjsTrnSV68OQMxqXiMGlLr0aS4jyqUXoucfo+cYK5PU4VNKYF2B0N/HW2bKou4ROp5OkFOgz7EvPRseaS6YtlmKh/xKMVzBxFUnhPV82xt53g/dRkc2mgFAaxEtCAgjErGqo=;CY7MieX8eWdAOpwZg4S2qg=="
 ---
 
