@@ -59,6 +59,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Data Explorer adds new geospatial capabilities"
+    excerpt: "The new support for H3 based geospatial clustering in KQL enables users to visualize and explore spatial data stored in Azure Data Explorer."
+    publishedDateTime: 2021-06-18T16:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-adds-new-geospatial-capabilities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
   - title: "General availability: Maintenance control for Virtual Machine Scale Sets OS image upgrades"
     excerpt: "Take control of OS image upgrades on your virtual machine scale sets by using the new maintenance control feature. Now you can update at the time chosen by you with all the safety checks in place."
     publishedDateTime: 2021-06-17T16:50:37Z

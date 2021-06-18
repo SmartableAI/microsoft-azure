@@ -1,14 +1,14 @@
 ---
 category: news
-title: "General availability: Azure Machine Learning updates for native terminal  "
-excerpt: "Users can now perform any CLI operation directly in the Azure ML Studio."
-publishedDateTime: 2021-02-17T17:06:59Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
+title: "General availability: Azure Data Explorer adds new geospatial capabilities"
+excerpt: "The new support for H3 based geospatial clustering in KQL enables users to visualize and explore spatial data stored in Azure Data Explorer."
+publishedDateTime: 2021-06-18T16:00:12Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-adds-new-geospatial-capabilities/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-adds-new-geospatial-capabilities/"
 type: article
-quality: 97
-heat: 257
-published: true
+quality: 65
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,9 +20,17 @@ provider:
 
 topics:
   - Azure
-  - AI
 
 related:
+  - title: "General availability: Azure Machine Learning updates for native terminal  "
+    excerpt: "Users can now perform any CLI operation directly in the Azure ML Studio."
+    publishedDateTime: 2021-02-17T17:06:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
   - title: "General availability: Azure Log Analytics UI updates May 2021"
     excerpt: "Azure Log Analytics for May 2021 include a new and updated experience for custom logs management and pinned parts filter integration."
     publishedDateTime: 2021-05-05T16:00:31Z
@@ -59,15 +67,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure Data Explorer adds new geospatial capabilities"
-    excerpt: "The new support for H3 based geospatial clustering in KQL enables users to visualize and explore spatial data stored in Azure Data Explorer."
-    publishedDateTime: 2021-06-18T16:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-adds-new-geospatial-capabilities/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 65
   - title: "General availability: Maintenance control for Virtual Machine Scale Sets OS image upgrades"
     excerpt: "Take control of OS image upgrades on your virtual machine scale sets by using the new maintenance control feature. Now you can update at the time chosen by you with all the safety checks in place."
     publishedDateTime: 2021-06-17T16:50:37Z
@@ -96,6 +95,6 @@ related:
       domain: microsoft.com
     quality: 49
 
-secured: "UBETId48a7quUTfSzcv4jQk0UyVJURsmJIJg7mCl3Z5+OkBII5YA0paecU8P6FsdfbZwixRB43i+R6tekF+ZwPtCoumcfIdfNBL40xwrFLnn0FRt65uBDZ3g//tVQdymTd1N6ENxQ7Bzpr4eBsuXELK+j1UJ+lsphlBkynJTi7U9qsCbaQ+A6TEwUpWJ7XLOUuA3jBRbJ2ZL0wQNs1lo6PAG+BeKIgVwu+QpoD2+0Q7k+sfwK6cBEh174YpI1wWVX6uxw4c+peajxFqRP44H2VQkrpIMXAHYFIsNf640u0wV0HMKNEKEqimxjiXGJkAtT4YcnqDsFq7pNjQRE3ldkzbQXMB4wNb6WnkCxJ2lBco=;9Wtv0gG/5jedWvXGD88I8g=="
+secured: "AkyrT/H+SiK5I1X0V1Xin9nTEur65Swr7C5hy91/9iANyt5HC5jEnurlFeDtDTeJVkPhNc4MS8EpwNlqp1Wo4QoKZqT/hFiuuzjodRSHcgzi1ijEcbwY+dJwKqeXgc2k4VCoaV2SuX6kxBV1gg8K3Wh6Q1AZiBUhsFEsJVrYgD9P4CFiJvtKqiNo1JFOsX+rUirzIOEp2oNSynv/fkSlbrDvqdsIYhH5Iv4OW/DinK7+3qeFQQ3VkUKjDhliLj94+rEjO7eJqEGv29CjwPY1euGnkQVJF55XfPtn51/LuCon5VJCvCjHogdptXcWpF1euV99G+yUwNhoURnaU1WkQx83nYcDZrl7x73bxYXcBB4=;PripK3uQrnwJx+k5cAB6/g=="
 ---
 

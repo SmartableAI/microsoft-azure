@@ -68,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Data Explorer adds new geospatial capabilities"
+    excerpt: "The new support for H3 based geospatial clustering in KQL enables users to visualize and explore spatial data stored in Azure Data Explorer."
+    publishedDateTime: 2021-06-18T16:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-adds-new-geospatial-capabilities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
   - title: "General availability: Web Application Firewall for Azure Front Door managed ruleset refresh"
     excerpt: "Use Microsoft_DefaultRuleSet_1.1 to protect your web applications from OWASP top 10 vulnerabilities."
     publishedDateTime: 2021-02-19T18:54:37Z
