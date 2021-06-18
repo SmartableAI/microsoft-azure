@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
-excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
-publishedDateTime: 2021-06-15T12:00:00Z
-originalUrl: "https://www.financialbuzz.com/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing-for-secure-embedded-iot-development/"
-webUrl: "https://www.financialbuzz.com/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing-for-secure-embedded-iot-development/"
+excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now ..."
+publishedDateTime: 2021-06-15T12:24:00Z
+originalUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_aaaaf413-cac8-5608-a19f-180153ad5954.html"
+webUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_aaaaf413-cac8-5608-a19f-180153ad5954.html"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
   - IoT
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/5f/a5fa6bb3-b488-5885-85eb-b7c34123e627/60c89aae29b02.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -96,6 +102,20 @@ related:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
+    publishedDateTime: 2021-06-15T11:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
     excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
@@ -335,20 +355,6 @@ related:
         width: 1616
         height: 846
         isCached: true
-  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape ..."
-    publishedDateTime: 2021-06-15T11:05:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53153180-ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
     publishedDateTime: 2021-06-14T19:56:00Z
@@ -531,7 +537,7 @@ related:
   - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
     publishedDateTime: 2021-06-17T11:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392455.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-achieves-modernization-web-applications-microsoft-azure-advanced-/2021/06/17/9392455.htm"
     type: article
     provider:
       name: TMCnet
@@ -547,13 +553,13 @@ related:
       domain: webindia123.com
     quality: 6
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
     publishedDateTime: 2021-06-16T18:43:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 2
   - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
     excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
@@ -601,6 +607,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "+Db9Glt0SvHnr0AmvCQAaQxRTMSxMkLWYAitBCpmMq8ihUBhXbCvj5uLF1IflZH8153qLSw8N2RvKxLvYEJftc9g5XnQPTlDCNjaIWDPl1RGpW7+lZyaCGU9vL/7hhzntzdHAhhXeT/IIU1j2w4isUYv1ETqTB3Izjkuy7s/rGSjIfDmG6WMZGwSGsX8NBIQqcSn0mEdJkuMRLd52kq7MZhD2TkeVk6tKq/kUJAZU2exHdwLBpL0jvpydT91n54jz5PhfGFTL/3Cu2dZKvYxaZcdcw/mKzErMd4X5wxi+kVbneV0dNl8syBFj6dWMEBQdblmi755gKnC68X7bX/maJKr1GzT95CsolZ2WeY0wW6ZtoMrbk7yD1YrIktk5iJbtvbKRZD4c6o4p/uw4n5fSaEYY4WsbRjW6UdQTBy+mCsbaWVsZOFWLyOFqJn+nx4cc7zKAaeGvakUVRNwbGt0uhCuiQ3P09NwVItsKCmh9GhwCY0bfpPZ3nzVqF4oTdUBq0NMN21yHkWAG4boHsPkkg==;nwCPNKJoe8sPPd/7TKpXUQ=="
+secured: "cTqrccS1VSgXbDWxwXvZsFdhGRIMVfBTADL+DFpGeIH5HJMPgZd+PXmZOi1fxpWRt2eFDiMOq1MiBp2vjA+f1Tn5vObw+AT1/je/yO9UoRMy68VMB6rjtQoorRQFIcgaQBfz4yMswZhsCcpGjX/Ul8amUJxepcvwjPcsbZcsU8cACweX8fprwv/aTrvlG9dPDo5l9LnZSHuuuy6hhoCc6SPARe6HXUfkpDS4Tsnv178DbqNes6InspDRLX6CieoA0IBT+quF3R7ZbsfMi2Sv1DbiLU31GedvgrvoBPGuIrAMq4zp/CQbHXXpONnsa7fPdE8ZoFrE4xa8NRcGIKAeWINa4gpp8YEw/QKymPSaAzM=;Mt3zZPKCbnvFwnDteCNVEw=="
 ---
 
