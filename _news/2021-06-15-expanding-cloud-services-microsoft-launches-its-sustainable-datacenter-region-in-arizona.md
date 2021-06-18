@@ -189,6 +189,22 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "What’s up with… Google Cloud, Microsoft Azure, Verizon"
+    excerpt: "Significant activity in the edge networking sector from Google Cloud and Azure, plus a major engagement with the US Department of Defense for Verizon lead the way in today’s news roundup. Google Cloud has bolstered its position in the networking and telecoms sector with the addition of more than 20 new network edge functionality partners and a partnership with Axiata."
+    publishedDateTime: 2021-06-18T15:17:00Z
+    webUrl: "https://www.telecomtv.com/content/edge/what-s-up-with-google-cloud-microsoft-azure-verizon-41722/"
+    ampWebUrl: "https://www.telecomtv.com/content/edge/what-s-up-with-google-cloud-microsoft-azure-verizon-41722/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/what-s-up-with-google-cloud-microsoft-azure-verizon-41722/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 57
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/google-cloud-12040.jpeg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NSW Police runs AI over evidence using Microsoft Azure"
     excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
     publishedDateTime: 2021-06-07T05:54:00Z

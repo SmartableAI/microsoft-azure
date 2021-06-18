@@ -1,21 +1,29 @@
 ---
 category: news
-title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
-publishedDateTime: 2021-06-16T18:43:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
+title: "What’s up with… Google Cloud, Microsoft Azure, Verizon"
+excerpt: "Significant activity in the edge networking sector from Google Cloud and Azure, plus a major engagement with the US Department of Defense for Verizon lead the way in today’s news roundup. Google Cloud has bolstered its position in the networking and telecoms sector with the addition of more than 20 new network edge functionality partners and a partnership with Axiata."
+publishedDateTime: 2021-06-18T15:17:00Z
+originalUrl: "https://www.telecomtv.com/content/edge/what-s-up-with-google-cloud-microsoft-azure-verizon-41722/"
+webUrl: "https://www.telecomtv.com/content/edge/what-s-up-with-google-cloud-microsoft-azure-verizon-41722/"
+ampWebUrl: "https://www.telecomtv.com/content/edge/what-s-up-with-google-cloud-microsoft-azure-verizon-41722/amp/"
+cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/what-s-up-with-google-cloud-microsoft-azure-verizon-41722/amp/"
 type: article
-quality: 2
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TelecomTV
+  domain: telecomtv.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://assets.telecomtv.com/assets/telecomtv/google-cloud-12040.jpeg?w=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -191,22 +199,6 @@ related:
       - url: "https://cdn.openpr.com/U/6/U617781440_g.jpg"
         width: 800
         height: 800
-        isCached: true
-  - title: "What’s up with… Google Cloud, Microsoft Azure, Verizon"
-    excerpt: "Significant activity in the edge networking sector from Google Cloud and Azure, plus a major engagement with the US Department of Defense for Verizon lead the way in today’s news roundup. Google Cloud has bolstered its position in the networking and telecoms sector with the addition of more than 20 new network edge functionality partners and a partnership with Axiata."
-    publishedDateTime: 2021-06-18T15:17:00Z
-    webUrl: "https://www.telecomtv.com/content/edge/what-s-up-with-google-cloud-microsoft-azure-verizon-41722/"
-    ampWebUrl: "https://www.telecomtv.com/content/edge/what-s-up-with-google-cloud-microsoft-azure-verizon-41722/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/what-s-up-with-google-cloud-microsoft-azure-verizon-41722/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 57
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/google-cloud-12040.jpeg?w=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "NSW Police runs AI over evidence using Microsoft Azure"
     excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
@@ -554,6 +546,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 3
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
+    publishedDateTime: 2021-06-16T18:43:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 2
   - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
     excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
     publishedDateTime: 2021-06-17T07:06:00Z
@@ -600,6 +601,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "O5D7iCjIUvyIIK8lH4IVk++aA7WB1IdlFHbF6hUsU4AgUSMhF/rALsBYAlPwiiSvAY2GA3zweXiZQcqqR3n+HmNzAkjLfw59g9PPnlexpH48UNMl5jzb4Nx248R24MJgvaSrgLbQpEnNNtgXJiMlsBOev0H5Kj0he1N8ylxiXANEidVzvS/ES6adP7oYfAamGC8nRTc7m+4s4M3ze84jqdrgwRKJ7tTj/HCT4MH7dOtRglApXBBkKa+zCMwLSPlC0GBxfNtnZapS7icK+XabTq8OQoSVQOlvCB68u1Nhx8NGaN1opDYrSie4NNBdBj+t+ZK/vcQIhZ29dSDzUCNdhrtKFyoqf/pY09PVkFg/im0=;dhnKKlSkUzDwzPlxjGT80g=="
+secured: "RUg4wPSFEdL1PjmogPn1NGHmnbDpLHmOHz8Tf5L/kSrfr44zq2aKJur8bhQlc3AA4Sry7jy8cs+bUhtQFALbjj5usum5npYbSp+EuSkl7oviOnQLhLrUtbPtcI+F7Xg4PWHpkUCeO2NS1PpFybhuxpNjQK21VWZkXj+6tVR79qNr0c9FRj7jU9wvODIfvloPg4z/jg0jzmlvIW4t54EmCXiLFtSy2PdxJskeukg1OimmJTccvwLkavEeHeshIP8So3aL7dDyV3Ux+hEUqVLlXNFEhU2mtCeHegedvhgMbqn7ES7qw5k0XvyA0MlG7oGjAOZ2Kql7AczWt8KozqBtnGgauC53k+QwWICy552cos8=;eVPJqN6Bcm+EH6QKjNNqjw=="
 ---
 

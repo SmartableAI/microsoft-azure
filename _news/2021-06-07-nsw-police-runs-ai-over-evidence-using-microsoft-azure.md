@@ -199,6 +199,22 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "What’s up with… Google Cloud, Microsoft Azure, Verizon"
+    excerpt: "Significant activity in the edge networking sector from Google Cloud and Azure, plus a major engagement with the US Department of Defense for Verizon lead the way in today’s news roundup. Google Cloud has bolstered its position in the networking and telecoms sector with the addition of more than 20 new network edge functionality partners and a partnership with Axiata."
+    publishedDateTime: 2021-06-18T15:17:00Z
+    webUrl: "https://www.telecomtv.com/content/edge/what-s-up-with-google-cloud-microsoft-azure-verizon-41722/"
+    ampWebUrl: "https://www.telecomtv.com/content/edge/what-s-up-with-google-cloud-microsoft-azure-verizon-41722/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/what-s-up-with-google-cloud-microsoft-azure-verizon-41722/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 57
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/google-cloud-12040.jpeg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mindtree Earned the Analytics on Microsoft Azure Advanced Specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, has declared that it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored analytics solutions,"
     publishedDateTime: 2021-06-08T06:01:00Z
