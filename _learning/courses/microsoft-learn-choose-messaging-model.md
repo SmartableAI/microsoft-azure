@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT45M
 ratings:
-  count: 4227
-  average: 4.6212444
-heat: 56
+  count: 4228
+  average: 4.621334
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - IoT
   - Analytics
 
-secured: "7/aRUJ9RYfCAkUmZhesd/5sdslwEjpUTsLQ/kOCfPMmWyPPn6NSTmisFX87Suj7lE9vL0aVz1iWO1n49MPqSgIzz+WTdLdMuYJwny0vRjm5Ghin1LDit1jGoXtTjFQAxUm5JGz/hgLlBMzdQEuKUH/KvSUdDZ2+Slj+/mTyBAwuEf0RiWwNnQMOHzdgMrbfn5Y/g5Uf/KgZ1HMMYWftPw/Stk6h1crVFmOooM2znsaQXo+zE0lyZYMGzudgbqpGNs0NfyUL5yfaw3HiGA3I0ICtYxe0L4LfxaemnO7d2OvxEs9ltbxSg1RkeDyfJHcztAJs3SResscUPPkUQL0RZ9IPaeqnmw4dWnz0hOZkyJGZSI1Q1LijPNhfzZbkaD0g4r5NG8k85a/uBgQZBQznDdDKl5E8mbgtqGl+aCuc2vCY=;P/FhWZ7lP57MZ9qqoBo9ug=="
+secured: "Zxz3CXaaifHx+N+z3c5xyLwdUnZW25mrA4wK+cyqXKyIPRYiRKdWMeX5xVO/6vyB2q2XaCDgtqPJSO2PQJzM2HMnqcnVK00zMNyifK9anBYDycCMFot7Jt85a0tJUTevMDqDfiykah1MAuRgQwXqRCvl5jDRT57yvSET+Yne8AK6ZXNWJNNs2iZQTFc9RPAfyKFHfZlx4TFrTr0iznjhMIPr/FACtedrDNmefyCAgczasWNIdnP3SYqRn6qwhETQkh980G9EikP30aE0ZUtJaufsrW0dU6HhmErzqOrtTWyukeIEkASK1LlH4oNUIHYFepi6fWVMK9DghQlkZcxNIB5ew+Y1b6OMnNdGtHwDC7rsDEDi5QfckWdHkmFXq/pnI/af7TOoekA4/hNaIdrSP/ub3MTJw1uQ1NfoZ5+qBsA=;lKP+Rps/5oZ6hoXXIRJ88g=="
 ---
 
