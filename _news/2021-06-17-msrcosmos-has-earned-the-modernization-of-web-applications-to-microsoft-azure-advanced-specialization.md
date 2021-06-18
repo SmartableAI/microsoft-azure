@@ -436,20 +436,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure"
-    publishedDateTime: 2021-06-17T21:04:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-871941275.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
-        width: 1616
-        height: 846
-        isCached: true
   - title: "VAST Grows Microsoft Partnership with Microsoft Cloud Gold Partner Status"
     excerpt: "VAST, a leader in Data Protection, IT Infrastructure Management, and Optimization of On-Premise and Cloud Computing Operations, has announced today it has"
     publishedDateTime: 2021-06-17T17:10:00Z
@@ -518,6 +504,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 6
+  - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure advanced specialization"
+    excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
+    publishedDateTime: 2021-06-18T00:14:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20210617/3773187.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 6
   - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
     excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
     publishedDateTime: 2021-06-15T12:12:00Z
@@ -555,6 +550,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "h+gGBcqRpD7pmARa1AEqRSheq73MnssUCb0xDnMFeXOZE7GSIJoKCSbcfah12xdfR/CWpf8XmaFqvc4bJOcpqRWtwUjMR8B8iQb5iIJR7KD8WlDXcvbQd0s0IvNQ4Dl8yyUknNdow138T03ZkpGd7EtIxFVpSEHE+bxNA2IjEG0FGFY+bM3gZeUOZylF/IhTyfWbtd8Hs/GQHbenHlZNBr2lPMODGPo4wf7KVQfQ9n0Eg+TsFlGrT2cKqkBTPi23eA6fjUymWbxn8vpmRvCd2y9n8MoA2xe6InOjoSXtHaRQguVCPMt8vl//6wIdl45Qhr4msT7wph2lCJo/TobXphb+5rroh2Mm9eK/mrbSgYk=;0uf7mt4Q6XIYhjyEIKNZyg=="
+secured: "H3kfoY6W7pgD2fzKiBIod5TSg/P4+o9N6r/j40F5fjN/Aiix+9SmOBP31P6EZclD2RThwcFI+xrk/drQ+x/LKSF80PtU8nuNjNy6InUY30/fTGjSx6M6FoUMxE8eAtmb+xtPaK7a63pcmtyOe52I9F+/9cDMrJxLC66+gtpssjoXzkTkkV3Fu/8ZjhGMmkYwVwjnx22on0YLrxRRlZJzKKgH7HhN2JwGk2RknUYikToiMRmjptgamOh62pZ3nAv4Gxq9JqWRMnb9zZHQ3KC/b7pdqx/JUPdPZXTEoJzky8zhyDribtEnMibV1QgKNX8LeKlUyqCW3X+Ow3ATVpvkby1BZYU3ud8taeOL5mddhfY=;COpYS3/kmPclN36XpdkHsw=="
 ---
 

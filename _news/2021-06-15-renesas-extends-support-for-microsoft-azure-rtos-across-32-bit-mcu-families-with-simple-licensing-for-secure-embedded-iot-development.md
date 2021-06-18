@@ -437,20 +437,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure"
-    publishedDateTime: 2021-06-17T21:04:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-871941275.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
-        width: 1616
-        height: 846
-        isCached: true
   - title: "VAST Grows Microsoft Partnership with Microsoft Cloud Gold Partner Status"
     excerpt: "VAST, a leader in Data Protection, IT Infrastructure Management, and Optimization of On-Premise and Cloud Computing Operations, has announced today it has"
     publishedDateTime: 2021-06-17T17:10:00Z
@@ -518,6 +504,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 6
+  - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure advanced specialization"
+    excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
+    publishedDateTime: 2021-06-18T00:14:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20210617/3773187.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 6
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."

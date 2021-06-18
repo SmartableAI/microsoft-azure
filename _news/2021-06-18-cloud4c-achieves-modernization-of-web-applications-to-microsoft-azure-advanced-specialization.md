@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure"
-publishedDateTime: 2021-06-17T21:04:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-871941275.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-871941275.html"
+title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure advanced specialization"
+excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
+publishedDateTime: 2021-06-18T00:14:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Business/20210617/3773187.html"
+webUrl: "https://news.webindia123.com/news/Articles/Business/20210617/3773187.html"
 type: article
-quality: 26
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
-    width: 1616
-    height: 846
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -556,6 +550,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "B6ovl4X8zUcHcF6OQE9hazFRSCHZ3h4SjNhZsvcjGZPcgqT8JyAdrTY3DqkKIs2uwWhcmRS/4DpEOyjJZVZNr9OipIP7ZN9CRKdSteTjyKVcNVcyjhM5dBSimFbEzK95/UKAf8+qgr6IYIBiKWWT9j3ZI5m45Ej4H2ObKJECdtUV5czGOMegQ0EUId+9E06rKh06jQXzooSuMYmw5MuXvA1qib56qFsztACY9j5v3feoDPdEcmpcsg+ykgXA8okzCQToS32igZEf1GSeuqDtjoqLCq/CFZpylMEUm+Z1wEevIskun3j+UA6AfP/vXyOkJAUH5ywKtnHxpIQBCuqsxBufM1HJ6SOKuINcvEUMzn4=;7wn+rcioo3TMlDIhJRvR3A=="
+secured: "cT+Vkdt4ZZ8xoGKWaymu1rzA4qLjKynjv/U9juVJznGXLIcRWkM3W2uYZlCE9COhpmI1OrKcqJK+BV9309hk7f2BKNnXy0646jIuYkBQVQxnX67fJFVcbRGWe/QGz4DstutnT8FU7OlU4F3RnYXIf9DCfpK9w0NgDWvUWeWb2yG/SeEOo7VtAq5fWdyTZUS662dscN0Lh8J2EwsOvlSFBBppWdHJY9x5fnzNpqAHAsut+lDMPTaBHSI+2Vk+G1nFeJGCHRfnkCdHr+cGUZOZtpLu5OESjTpCOBo1cTkVPxsXUljXLq4KffgE0y6C2uu7c69Qn06jac+Tpwjk49ujqTLpgiKZTgfkw5UKS+yRm2A=;mybNcnYBBOBSQ16qHTCH+A=="
 ---
 
