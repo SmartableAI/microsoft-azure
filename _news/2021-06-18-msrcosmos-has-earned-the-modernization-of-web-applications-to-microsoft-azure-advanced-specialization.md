@@ -1,18 +1,18 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
-publishedDateTime: 2021-06-16T18:43:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
+excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+publishedDateTime: 2021-06-18T09:45:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192261&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192261&cat=PR News Wire"
 type: article
 quality: 2
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Azure
@@ -538,6 +538,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 3
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
+    publishedDateTime: 2021-06-16T18:43:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 2
   - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
     excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
     publishedDateTime: 2021-06-17T07:06:00Z
@@ -546,15 +555,6 @@ related:
     provider:
       name: PR
       domain: pr.com
-    quality: 2
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-    publishedDateTime: 2021-06-18T09:45:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192261&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
     quality: 2
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
@@ -575,6 +575,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "hxn0yMOd2wlIwdGpbc8fpfJUD8eEh5QROGY4rostb0H3/ydP7BZMuBZ/TQ3qN+Bf4z4unOqsqeA3VWE91KYMKpkd8l7P655SE/gmO6WgtQGYorBB6Pu5Xnf4qurD6SYPpoea5tJaT80MSEOSwt+qwWGQsthvD8ESPJ9F5fEEDhMRrPj/uPBpZAPcgB9j6xJzhJnY0CiE+WfbMjHvEX5jkYwfUW07XWB+GeK/dqoXjsTrnSV68OQMxqXiMGlLr0aS4jyqUXoucfo+cYK5PU4VNKYF2B0N/HW2bKou4ROp5OkFOgz7EvPRseaS6YtlmKh/xKMVzBxFUnhPV82xt53g/dRkc2mgFAaxEtCAgjErGqo=;CY7MieX8eWdAOpwZg4S2qg=="
+secured: "a4brdCr7LJiiF9332VdG4i7RFoAzm5KqEvUt8urKMFFE6BqynaeMyl3vQ4q/nSGMD1jk0Vu/WguGDr1tMP/pfCbtti+VD+P1gxqCMQd2nojHfW0JdCEnPl1M7c2Z/wKtXD4AYmnmCJQRa2E8bnir6kuzvuhcfIC9Ptk/4FnlOnpOv07l73x/SMILkXGRQRpgPZzB6dHpGoiYZ7OCiByx+5pt6GQ9/CF8yqgOzOMDngsmKRRZVP6/FL/+tWD7mKgcawdivjngMPCTJvM6IrSnYrAVI2NyBIXOrNRFnZd3DmUCvXQe3Nywx9z/Qs6u1TCzLD8l3zCPqZONarMWw2EUv2DOOA9AmWqxzfy/8ER/E5A=;rPzGq4r3tsr3F+opm3nm6A=="
 ---
 

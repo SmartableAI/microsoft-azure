@@ -1,21 +1,33 @@
 ---
 category: news
-title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
-publishedDateTime: 2021-06-16T18:43:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
+title: "Microsoft Azure Virtual Desktop: A cheat sheet"
+excerpt: "Cloud-based DaaS offers several advantages to a remote workforce. This guide to Microsoft Azure Virtual Desktop (formerly Windows Virtual Desktop) assesses the platform and what it can offer."
+publishedDateTime: 2021-06-11T22:16:00Z
+originalUrl: "https://www.techrepublic.com/index.php/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
+webUrl: "https://www.techrepublic.com/index.php/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
+ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
 type: article
-quality: 2
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.techrepublic.com/a/hub/i/r/2020/10/19/1afccff5-82cd-4a39-8fc3-4aaffc73e841/resize/1200x/97e578a262f02a01bcf1481143450478/istock-1176802969.jpg"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -40,22 +52,6 @@ related:
     webUrl: "https://www.techrepublic.com/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
     ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
     cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 97
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2020/10/19/1afccff5-82cd-4a39-8fc3-4aaffc73e841/resize/1200x/97e578a262f02a01bcf1481143450478/istock-1176802969.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft Azure Virtual Desktop: A cheat sheet"
-    excerpt: "Cloud-based DaaS offers several advantages to a remote workforce. This guide to Microsoft Azure Virtual Desktop (formerly Windows Virtual Desktop) assesses the platform and what it can offer."
-    publishedDateTime: 2021-06-11T22:16:00Z
-    webUrl: "https://www.techrepublic.com/index.php/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
     type: article
     provider:
       name: TechRepublic
@@ -538,6 +534,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 3
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
+    publishedDateTime: 2021-06-16T18:43:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 2
   - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
     excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
     publishedDateTime: 2021-06-17T07:06:00Z
@@ -575,6 +580,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "hxn0yMOd2wlIwdGpbc8fpfJUD8eEh5QROGY4rostb0H3/ydP7BZMuBZ/TQ3qN+Bf4z4unOqsqeA3VWE91KYMKpkd8l7P655SE/gmO6WgtQGYorBB6Pu5Xnf4qurD6SYPpoea5tJaT80MSEOSwt+qwWGQsthvD8ESPJ9F5fEEDhMRrPj/uPBpZAPcgB9j6xJzhJnY0CiE+WfbMjHvEX5jkYwfUW07XWB+GeK/dqoXjsTrnSV68OQMxqXiMGlLr0aS4jyqUXoucfo+cYK5PU4VNKYF2B0N/HW2bKou4ROp5OkFOgz7EvPRseaS6YtlmKh/xKMVzBxFUnhPV82xt53g/dRkc2mgFAaxEtCAgjErGqo=;CY7MieX8eWdAOpwZg4S2qg=="
+secured: "9o8KV2yN1KyZCgr9gelQU8v/8nSmnGXeFIFa9ZFP0mccHfK0cBt0PDiLbSrvYB2y+gkDz9p4KNXCBUKoQ7c7N5HzIPxH83ZmnYA3j8jg+rZ/QNPiMUliry7q7hGHzCdlJz3wEOW4dsdtMvkipRxmHnPuQrZg6Yf/H6m+DwgBlWIjfwfmiLqnrOEWFhhp3sVilohjs9uUGsIQpgxjFuI8iODT5issa0BZWdI8NL6LtnkzkhX2Pdqusm9h4w9sI4aQUL7VTGFVICgq0UaUpgxCnYdF0S6ysSS5olFHZShGgzt0wpfCL+kK+9bsYozLn8CUB04H4MoOY4y/rTQHbE8woPmFxdojYP3RmFliz2wOEYs=;J087+nSctG3WJDZrbOe5sA=="
 ---
 

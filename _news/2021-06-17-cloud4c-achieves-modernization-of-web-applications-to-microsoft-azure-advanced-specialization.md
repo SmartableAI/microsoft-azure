@@ -50,6 +50,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Azure Virtual Desktop: A cheat sheet"
+    excerpt: "Cloud-based DaaS offers several advantages to a remote workforce. This guide to Microsoft Azure Virtual Desktop (formerly Windows Virtual Desktop) assesses the platform and what it can offer."
+    publishedDateTime: 2021-06-11T22:16:00Z
+    webUrl: "https://www.techrepublic.com/index.php/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsoft-azure-virtual-desktop-a-cheat-sheet/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 97
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/10/19/1afccff5-82cd-4a39-8fc3-4aaffc73e841/resize/1200x/97e578a262f02a01bcf1481143450478/istock-1176802969.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft rebrands WVD as 'Azure Virtual Desktop'; adds new app-streaming pricing option"
     excerpt: "Microsoft is broadening the charter of its Windows Desktop Virtualization service and simultaneously changing the name of this Azure-based service to 'Azure Virtual Desktop.'"
     publishedDateTime: 2021-06-07T06:03:00Z
@@ -530,6 +546,15 @@ related:
     provider:
       name: PR
       domain: pr.com
+    quality: 2
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-18T09:45:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192261&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 2
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
