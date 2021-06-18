@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Save 98% off this Complete 2021 Microsoft, Windows, & Azure Bundle"
-excerpt: "Deliver smooth, secure, and configured process to users and organizations with 17 hands-on courses on the top 3 cloud service platforms with today's highlighted deal that includes certification."
-publishedDateTime: 2021-04-29T14:00:00Z
-originalUrl: "https://www.neowin.net/news/save-98-off-this-complete-2021-microsoft-windows--azure-bundle/"
-webUrl: "https://www.neowin.net/news/save-98-off-this-complete-2021-microsoft-windows--azure-bundle/"
+title: "Mining giant BHP signs cloud deals with AWS and Microsoft Azure"
+excerpt: "Mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
+publishedDateTime: 2021-06-18T11:13:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/mining-giant-bhp-signs-cloud-deals-with-aws-and-microsoft-azure/"
+webUrl: "https://www.datacenterdynamics.com/en/news/mining-giant-bhp-signs-cloud-deals-with-aws-and-microsoft-azure/"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Neowin
-  domain: neowin.net
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg"
-      width: 50
-      height: 50
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619700240_sale_232555_primary_image_story.jpg"
-    width: 760
-    height: 428
+  - url: "https://media.datacenterdynamics.com/media/images/Bento_Rodrigues_Mariana_Minas_Ger.2e16d0ba.fill-1200x630.jpg"
+    width: 1080
+    height: 568
     isCached: true
 
 related:
@@ -107,6 +103,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/05/sale_25748_article_image.jpg?w=1200&strip=all"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Save 98% off this Complete 2021 Microsoft, Windows, & Azure Bundle"
+    excerpt: "Deliver smooth, secure, and configured process to users and organizations with 17 hands-on courses on the top 3 cloud service platforms with today's highlighted deal that includes certification."
+    publishedDateTime: 2021-04-29T14:00:00Z
+    webUrl: "https://www.neowin.net/news/save-98-off-this-complete-2021-microsoft-windows--azure-bundle/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 77
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619700240_sale_232555_primary_image_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
     excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
@@ -235,20 +245,6 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Azure-clou-AWS-Google-Cloud.png"
         width: 1024
         height: 442
-        isCached: true
-  - title: "Mining giant BHP signs cloud deals with AWS and Microsoft Azure"
-    excerpt: "Mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
-    publishedDateTime: 2021-06-18T11:13:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/mining-giant-bhp-signs-cloud-deals-with-aws-and-microsoft-azure/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Bento_Rodrigues_Mariana_Minas_Ger.2e16d0ba.fill-1200x630.jpg"
-        width: 1080
-        height: 568
         isCached: true
   - title: "WANdisco Launched As A First-Party Service On Microsoft's Azure Platform"
     excerpt: "There are very few companies that are selected to be first-party services on the Azure platform. Since the launch in June, the company has signed on 11 new customers."
@@ -505,6 +501,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "5gBv4Z86laT30n3HXqY8frShIpjkQgziIul7qI9LwwP37y71b5W3P6nHGKk4qI0zbMmsS13ge4xal0Z3TndsnoQSO2hkmpGox+FJDk4B9ZqCuBbBBYRCIjXI6BcnnMr1dVws9p+5MqhJxf3AjLV2T1fAVUNEcV38uUnwcM4EfE57wqPH1vOclDQz3ba94x7C2YxkpefV+TxD2cTbqzMlxPXSm5V+tS9BITMb6S283jRCXg5ZNMJzxDamgjBiBqmbFiwlJfU1FbNHbtcEerir7cHghsstw6WXto+TD4aZ/S4Ffp4GDRhMFUfuca9fYNzw/II3+I1EYA+b0uTvYK500/RzJXhHOuCYyJEWpkzIvzdi/NNMNfako7lxLoM+GVVcdyeyYyMKZfIlQimh3AutQIr5AJ8KgjAh1+RBoQ8yCg2Gw04098xcz5b98fUWHxL5HUyMZXOuXQOrHpMn3qgG3Qk9cdOj+tDbjkaXKGcYmFVIYbXHruUe8Hu/o1m5r8zi5iMIxOnha09quFurPyLgog==;tYw0sv3a4jGrdQxCJL8vpQ=="
+secured: "op6cUfWfP7I26XsuuEctfYwQ2qgsWpqe019cVLLS5PQltGOpfcdBS1ajJXNBRlnQ8BUA0d/cQnw6IwLdRDLewcQ4qr2DSTR8sjSV6jgFuHlPAeQEsTAZKo3fG3RFl6GH7SsUoXUG3l+FJ8X3bQnxe7JgJRmorK1O09gieLGH17Toomk2X+n+9rcG/P7R5DKh8xpOsbV18RulEUaE8GfYwsnad1iREqY6JB1JJCWXZXAurBNgFGw4VnL8OaHrMlVm1LFQF77lO/CpXIW7UWWLwxITkEz1IxIoDRKGqTcgX0nXmSAK4IK5QeKXqPtfyPZAq6RvBxdeYPM8dAawlloRQjVdVPs6+YdvAj94CFwk5OA=;ITpG7ZZszUITk8GMTCE4NA=="
 ---
 
