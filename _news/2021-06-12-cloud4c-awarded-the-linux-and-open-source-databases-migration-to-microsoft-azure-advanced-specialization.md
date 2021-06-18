@@ -576,6 +576,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
+    excerpt: "Logility partners with Microsoft Azure to power high performing cloud environment and enhance the customer experience."
+    publishedDateTime: 2021-06-17T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210617005071/en/Logility-Partners-with-Microsoft-Azure-to-Power-High-Performing-Cloud-Environment-and-Enhance-the-Customer-Experience"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "YU+0aVPWQVLGXgXz/OVNOSVBTmk/E1s4lc/LJuJABJXtBTq4LGI7Td+xBubNWHjJEjOL1mosAkGrtdxM2xee0hT13WB1KHzeKYtz2J6XM4A3Y/VTrLzTClIhr7QSeP0MRimnhp3C43s1aQhXwTI54WA3FOblxYFlLAOmoBtUx84qs7DlfZ/1MLKLM8IiO+ZnXFC4C8M1g+32pjKQ7MAckvaPdO55okSAf0myExsIQR/d2ooPgO8gnRnkXuWKnN/055k3uPJhvvdL1O8eK4JVHsErkvlkMmD6xbfc59SZmMXS6ey4CAww8awifbIuD9zaDHM8Jo4XzktO6m1bg+I7VGILf+JM8+cQn8TbXzk2Dy6hFnWMO0gD39glG1taJgCNWK8I8mB4EcmhnAAkRLAe4As+nHo2WApu9YWUBhrks70oZxcFgWQ0MK4m9PrswYgZx6+/AlfF+sxF0uGpbhBiDIvifzSGIbygjoabVl/PbmXAnDl+ueEtOkwIL0THGNGSkNynGwPjkonL3SY8Cg8SLw==;L09r5e33aCnTEG/C2/ZBWw=="
 ---

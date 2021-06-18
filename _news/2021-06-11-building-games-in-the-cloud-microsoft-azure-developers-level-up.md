@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/06/11/building-ga
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/amp/"
 type: article
 quality: 97
-heat: 977
+heat: 997
 published: true
 
 provider:
@@ -578,6 +578,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 0
+  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
+    excerpt: "Logility partners with Microsoft Azure to power high performing cloud environment and enhance the customer experience."
+    publishedDateTime: 2021-06-17T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210617005071/en/Logility-Partners-with-Microsoft-Azure-to-Power-High-Performing-Cloud-Environment-and-Enhance-the-Customer-Experience"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
 
 secured: "xNqj/vwPqCsckqKg8tOol6Rvqso+rh2fviFuXh5l55tb4Ac2Kf78p5R7NIambjQ7bCaO/zjS6mDJ8Gb2//sSVuq7/BxFQ6qlr/+GPpcX6rWlI/vgp//dmCoxKjhvkh0ni+wBx1g58DaDIbIKcLhacHMRU7oNgMElADetUMAdCHjNnEzv5LRPGmFiUDgF5SjADdMggDO2M3V6xhKBiULgaZKvF6T6A0v1SOqrYONBTZx4JyY1Y0ORuG/UAnJqleVAR9t4RLBDNGMYHdMMgP13a3EfTkpm2MvzwFjzUU7k+jJ/hgRhvn5m1CmqETluSR46cv78Dpm437JJoiRRdcVSO8Thw7iBDiYZ8rud2LhBlWlZ/yDHT6ct5CtefH1yXhww4BUhw0C3DlL+cu5GfQjuJMPYbspjnTvEQjm7iOdQV0ZY5HL1SxEoeP0We50TForCiknKeB/u9qiXanBEwW1bxodxhglzxq/CLJj6qC240V2HIQ5xjk/Bb7etCgbjelAli+i4x2d1VjR4ZaJs2NBshQ==;tRVmbO/Lpu1uxOpbstASLg=="
