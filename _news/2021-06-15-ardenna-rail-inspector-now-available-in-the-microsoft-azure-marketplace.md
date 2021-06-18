@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
-publishedDateTime: 2021-06-15T11:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
-webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
+excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape ..."
+publishedDateTime: 2021-06-15T11:05:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53153180-ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53153180-ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-008.htm"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Azure
@@ -516,12 +512,12 @@ related:
     quality: 6
   - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
     excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
-    publishedDateTime: 2021-06-15T12:00:00Z
-    webUrl: "https://www.financialbuzz.com/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing-for-secure-embedded-iot-development/"
+    publishedDateTime: 2021-06-15T12:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-renesas-extends-support-microsoft-azure-rtos-across-32-/2021/06/15/9390419.htm"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 3
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
@@ -560,6 +556,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "mx6kShuzfqJyOj7w720Q66UDSnx5cB8cxwusz6ziu4BTt4GMzpOkFBko+JABpVculLc7w14TFWIj0pxeoR1GcyPiMUzt48vTjOmY1e3eb43pJw87OJ9Pc+DlNy5MMSpLwanVa4FkERM1FTJge/drgcn7CsBbE2BUrFxRL7ZFnw1Hs84O9zZpDPhelN4ndo7gp7jZiEbP70GbG+8Wz10d0wBlvOMIt3AekdLXqvDN9Ri980xAGwUptKsE0SpQXZsgzrNaIXh241uE8GYgqqp0ij5uP5+sU8D4ce/RFGuwlHbqGPkTTpdO5Wk45PEVmfS85UUnpFnPx6dIGX7HfkMQgomALw/f0aLIjnpZBp3sNJi1zzFP6en82Mr4r2ZxSRspovWutiYdDzLtKBLoXvdr/HikYztd4/x6L0e2EOdc6GUb19q6Mo8vqMRUdUTChxcld6X5Lqm/6GLFTY5YAIwm2cRnzNmNJ62Cc1OlZNgIbnAdtvreFoJCoDKfpUWBTZ5qXw/wB6RnRXwG2HNvTDRRcQ==;jpt6XUnlnFMGsqKXP25fZQ=="
+secured: "6r9wtZsd11sithMTV3sBGYUYxvcWdpuqcRF4VQK6bru86jMOlz0IKbSi1u7i7Ozb/TiuaU67nLv5tuh3vLZJ+SprAXmZj05SOYJwmPJoSp1uuNWz+rwwWk9kKnxibd3FNkENq5rH29L0D92Vd3GHK/R3q0CcCNnoysDIht8EVCJDJbzcYfUkEmOzoeK7fG/fqUGSPLgp97bA09Ux24AEpMflm3O66cPShMbtS0XX11d3oVx1yZhDIZ+OsIn8FH0OCCIVy6YuNzR7XLgf0+2QNPqTHIPfMEJzOBeaKZC0yvGAfzPfyYfZqUjBVgfZ5drIJSj8Ezut0Xd4f/hGKJhZExvBF2HaURuYoBSJYYrABjo=;EV/oaoXJ/IwtqhSMKOyrsQ=="
 ---
 

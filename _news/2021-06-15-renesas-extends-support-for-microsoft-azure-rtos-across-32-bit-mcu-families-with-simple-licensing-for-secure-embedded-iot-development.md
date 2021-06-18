@@ -2,17 +2,17 @@
 category: news
 title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
 excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
-publishedDateTime: 2021-06-15T12:00:00Z
-originalUrl: "https://www.financialbuzz.com/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing-for-secure-embedded-iot-development/"
-webUrl: "https://www.financialbuzz.com/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing-for-secure-embedded-iot-development/"
+publishedDateTime: 2021-06-15T12:12:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-renesas-extends-support-microsoft-azure-rtos-across-32-/2021/06/15/9390419.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-renesas-extends-support-microsoft-azure-rtos-across-32-/2021/06/15/9390419.htm"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -80,20 +80,6 @@ related:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
-        isCached: true
-  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
-    publishedDateTime: 2021-06-15T11:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
     excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
@@ -316,6 +302,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
         width: 1616
         height: 846
+        isCached: true
+  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape ..."
+    publishedDateTime: 2021-06-15T11:05:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53153180-ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
@@ -556,6 +556,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "HrY0F6eeCJSPiwXgiLZv/LZOI+G6uaOnjc+z3Q776QoDREXgWEgg96QgoF1JHOTUyCwjiJaoZSFLd0w9qP77Wfe9CLZFDxN5qRhzk4TVHJEopuXsC90ivwWdw15p+uZvfbj0fK07aM266nD9jy1vkkFDnoMbgaspBHHnBuerycsBCHoJBA/9CrDPvG6a9wKpQogNVTclC8wSQakVMMMPwURfHyc97eEEApM8tfwFRVheeiYFK0wPsQNPa/S8u14gVD0dB++YjDemDfopZCt6u0Ellgeg644NLRYpiU7zyB14o9CQthTz+yhkbnGCKt69hmH5XMmRG96NHXUUb2KcYCHFofzdcOb0ueXQE5UTXLtUTBKmgnE92F2BejROUiYNUS1JtVrQtrGAXmqvWVqcaITe6UcDJy/b73EWQNlUG1bLwIxJfyBTpUw8e6XrfIJvlhSlRQKN/o/e1yv5tJU2YO7bkiKAFfw+nxa+gFrxyF2GuQtyM9ShqSHujPMePJM1WcJ4ifbj0XCENUOLkuyFpQ==;cfL3V0semSYvR3E2X+VvoQ=="
+secured: "O0sBq/dJrgzrXgPhILgze8rOA5KPdWtGPwh1x2MO4ysWWv/ykFhb83izCBaT8ZQVCh8G+I2xhA1yRs1vrYue1FD8umdDzj7JJjYRCNG9pqtcPqRwxHokkdjyYK2R5ysIHJ7kE2y8DuzQ8DLfaj7zIu/zv6coJtamVjTGQXZk8FJHp6v/oEvHLcC6skO1FtMtd8F0vuM5sDzVkQ74/8FlC3yxQTn29ACsZ33esRkMDGQ8d2vwuwI6W9XEArPkUeUo1mCGO/BoT8Lg0464iHX/9URwfDyxFmtetPmn4k4R5FGfWiyIaC423D1+Rd0l2CHNq087HmuDNWRuqjdvA7hFujOibMLpq0Po21hvgO1ttCM5Q95ZIVF53084eZ5wI9sOYN9n4oYS5M3PbPdv3hmS3KbBm0KkqMaLrEki4h5IMjPagKsctrV/HHvKBFMs7TMfT/P3druXr9TUuyRKhQNmt6H7VzTTdAu2ejHbS6txYpnTdUcSTqmRqmwFD+PBic/YlZu7iQZGV9L9FqlujAyDjA==;r+SD1kn/QNMFnuLFtSnbEw=="
 ---
 
