@@ -1,22 +1,18 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization"
-publishedDateTime: 2021-06-16T18:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030530211"
-webUrl: "https://markets.businessinsider.com/news/stocks/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030530211"
+excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+publishedDateTime: 2021-06-16T18:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
 type: article
-quality: 42
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -472,20 +468,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "SINGAPORE and HYDERABAD, India, June 17, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced ..."
-    publishedDateTime: 2021-06-17T11:52:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-871941275.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
-        width: 1616
-        height: 846
-        isCached: true
   - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
     excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now ..."
     publishedDateTime: 2021-06-15T12:24:00Z
@@ -559,6 +541,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 8
+  - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
+    publishedDateTime: 2021-06-17T11:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-achieves-modernization-web-applications-microsoft-azure-advanced-/2021/06/17/9392455.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
   - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure advanced specialization"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
     publishedDateTime: 2021-06-18T00:14:00Z
@@ -614,6 +605,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "GdzeGHyMH9zUQjKcG1Awokh2s/l72xdOycb5wnxqbpznPPWGD1faiFctUv4HjxuK7rJrNvGp/CEU1eRO2LFouDgX17sena//L9UbHIxFWkJXGH9n7H6uT3lvSFaF+8XvKa+F/CKerXhYBMxoPmcMmUu2aKe+yDLimlb1pod+yv0SBh5QizPM87E/1WDh7rAImEYan/s0l8wuaZCoo01/jK54NJdzyEpkNKZLTiYHecynXpO0fb4T4uKKMSvAaWLOdA3FzWojSF7n0tHuOq66Asb+HVRp5IrD6xn4v5KEtr3ZEtchLzGPSzca8EkPwQPQPBRL0WEx9nD5GUWwVCiQsDhUrRiYjRGuY0lAaV9/jf0=;oP7twmngKV1wGGwQXcVQxg=="
+secured: "3b21YqFiHLnKs8+q0qAWVXEREW9djrW4kLQVMazcUlWrQvuoNHHZ/WRLVvvWYFG9/sIa0SdbhPdyyXgSEDJsEX6QJH2RDgA8ESW9l2zvT3fPU1YrhUg6Krz79G+21y6y6uu4n0+3aUt1Cwke9rJfx5U+zkUZ1Sxa+zGfMkCsKIjS+yiBs5Ofw6hRbXULUV+UpLGYtnz9RUPQcPjlXru+iVHkLgFotgGMagR1GM0KqoQwCRroHaxgzgHwgZixYEktCX95/Jl11y2NItohXd8WuU5KfFeHipt3Xi6ISh42N5tHC1nJ+RlGFbaolLywrA30bQe+EUodrU/zVuCyzx1OcDYHsXbNSCgo/0fAinjB9PQ=;v243Tnil+jfaft4jMHh1Ew=="
 ---
 
