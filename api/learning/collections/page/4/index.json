@@ -927,8 +927,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 2394,
-            "average": 4.6679196
+            "count": 2395,
+            "average": 4.6680584
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1057,8 +1057,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/",
           "length": "PT36M",
           "ratings": {
-            "count": 355,
-            "average": 4.7492957
+            "count": 356,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2666,8 +2666,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 7075,
-            "average": 4.719011
+            "count": 7078,
+            "average": 4.7188473
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3268,6 +3268,220 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-plan-your-windows-10-deployment-strategy.md",
+      "title": "Plan your Windows 10 deployment strategy",
+      "excerpt": "Plan your Windows 10 deployment strategy",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-plan-your-windows-10-deployment-strategy/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-plan-your-windows-10-deployment-strategy/",
+      "length": "PT2H41M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-examine-windows-10-deployment-scenarios.md",
+          "title": "Examine Windows 10 deployment scenarios",
+          "excerpt": "Examine Windows 10 deployment scenarios",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-examine-windows-10-deployment-scenarios/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-windows-10-deployment-scenarios/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 2,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-implement-windows-autopilot.md",
+          "title": "Explore Windows Autopilot deployment models",
+          "excerpt": "Explore Windows Autopilot deployment models",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-windows-autopilot/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-windows-autopilot/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 3,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-plan-your-windows-10-subscription-activation-strategy.md",
+          "title": "Plan your Windows 10 Subscription Activation strategy",
+          "excerpt": "Plan your Windows 10 Subscription Activation strategy",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-your-windows-10-subscription-activation-strategy/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-windows-10-subscription-activation-strategy/",
+          "length": "PT21M",
+          "ratings": {
+            "count": 2,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-resolve-windows-10-upgrade-errors.md",
+          "title": "Resolve Windows 10 upgrade errors",
+          "excerpt": "Resolve Windows 10 upgrade errors",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-resolve-windows-10-upgrade-errors/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-windows-10-upgrade-errors/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 2,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
       ]
     },
     {
@@ -4396,8 +4610,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
           "length": "PT38M",
           "ratings": {
-            "count": 210,
-            "average": 4.8190475
+            "count": 212,
+            "average": 4.8207545
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4439,8 +4653,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
           "length": "PT40M",
           "ratings": {
-            "count": 2067,
-            "average": 4.8050313
+            "count": 2068,
+            "average": 4.8051257
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5991,213 +6205,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-cloud-native-security-operations-with-azure-sentinel.md",
-      "title": "Cloud-native security operations with Azure Sentinel",
-      "excerpt": "This learning path describes basic architecture, core capabilities, and primary use cases of its products. You'll also learn about differences and Get familiar with Azure Sentinel, a cloud-native, security information and event management (SIEM) service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-cloud-native-security-operations-with-azure-sentinel/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-cloud-native-security-operations-with-azure-sentinel/",
-      "length": "PT6H19M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-sentinel.md",
-          "title": "Introduction to Azure Sentinel",
-          "excerpt": "Get familiar with Azure Sentinel, a cloud-native, security information and event management (SIEM) service.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 762,
-            "average": 4.7939634
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-sentinel-deploy-connect.md",
-          "title": "Deploy Azure Sentinel and connect data sources",
-          "excerpt": "Learn how to deploy Azure Sentinel and connect the services you want to monitor. Then you can use Azure and AI to provide analysis of security alerts.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sentinel-deploy-connect/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sentinel-deploy-configure/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 199,
-            "average": 4.753769
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-analyze-data-in-sentinel.md",
-          "title": "Threat detection with Azure Sentinel analytics",
-          "excerpt": "Threat detection with Azure Sentinel analytics",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-data-in-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-in-sentinel/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 136,
-            "average": 4.75
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-incident-management-sentinel.md",
-          "title": "Security incident management in Azure Sentinel",
-          "excerpt": "Security incident management in Azure Sentinel",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-incident-management-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-management-sentinel/",
-          "length": "PT1H5M",
-          "ratings": {
-            "count": 119,
-            "average": 4.7647057
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/incident-management-sentinel-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],

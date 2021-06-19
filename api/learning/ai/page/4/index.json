@@ -449,8 +449,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tune-hyperparameters-with-azure-machine-learning/",
       "length": "PT46M",
       "ratings": {
-        "count": 606,
-        "average": 4.7656765
+        "count": 607,
+        "average": 4.7660627
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -636,45 +636,6 @@
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-execute-azure-machine-learning-service-pipelines-in-azure-data-factory-azure-friday.md",
-      "title": "How to execute Azure Machine Learning service pipelines in Azure Data Factory | Azure Friday",
-      "excerpt": "Gaurav Malhotra joins Scott Hanselman to show how you can run your Azure Machine Learning (AML) service pipelines as a step in your Azure Data Factory (ADF) pipelines. This enables you to run your machine learning models with data from multiple sources (85+ data connectors supported in ADF). This seamless",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-execute-azure-machine-learning-service-pipelines-in-azure-data-factory-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-execute-azure-machine-learning-service-pipelines-in-azure-data-factory-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=9i8yJDpEKhQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9i8yJDpEKhQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M35S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-10-10T16:23:03-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9i8yJDpEKhQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Azure",
@@ -1011,8 +972,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/",
           "length": "PT1H17M",
           "ratings": {
-            "count": 505,
-            "average": 4.718812
+            "count": 506,
+            "average": 4.7193675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1860,8 +1821,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-search/",
       "length": "PT53M",
       "ratings": {
-        "count": 263,
-        "average": 4.631179
+        "count": 264,
+        "average": 4.632576
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1978,6 +1939,49 @@
         "Azure",
         "AI",
         "Management tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-ml-model-with-azure-stream-analytics.md",
+      "title": "Track wild polar bears with AI",
+      "excerpt": "Detect and track polar bears through photos using AI, then use Power BI to show where polar bears are being spotted.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-ml-model-with-azure-stream-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-ml-model-with-azure-stream-analytics/",
+      "length": "PT1H20M",
+      "ratings": {
+        "count": 327,
+        "average": 4.688073
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/build-ml-model-with-azure-stream-analytics-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

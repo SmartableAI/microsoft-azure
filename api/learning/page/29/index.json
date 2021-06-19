@@ -4,84 +4,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-aks-deploy-container-app.md",
-      "title": "Deploy a containerized application on Azure Kubernetes Service",
-      "excerpt": "Explore how to create and deploy a containerized application by using Azure Kubernetes Service declarative manifest files.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-deploy-container-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 302,
-        "average": 4.7417216
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-aks-deployment-pipeline-github-actions.md",
-      "title": "Configure an Azure Kubernetes Service deployment pipeline using GitHub Actions",
-      "excerpt": "Explore how to create an automated deployment pipeline by using GitHub Actions along with Azure Kubernetes Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-deployment-pipeline-github-actions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deployment-pipeline-github-actions/",
-      "length": "PT1H34M",
-      "ratings": {
-        "count": 71,
-        "average": 4.4788733
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-aks-manage-application-state.md",
       "title": "Deploy and manage a stateful application using CosmosDB and Azure Kubernetes Service",
       "excerpt": "Create and manage a stateful application with an external storage using CosmosDB and Azure Kubernetes Service",
@@ -1250,6 +1172,93 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-diagnose-application-startup-errors-with-kudu-console.md",
+      "title": "Diagnose startup errors in your application using Kudu console",
+      "excerpt": "This module explains how to use kudu console to examine the application event log to identify the event that caused the error.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-diagnose-application-startup-errors-with-kudu-console/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-diagnose-application-startup-errors-with-kudu-console/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 23,
+        "average": 4.347826
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-diagnose-application-startup-errors-with-kudu-console-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-in-action.md",
+      "title": "See Azure in action",
+      "excerpt": "The demos in this module provide an opportunity to see Azure in action.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-in-action/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-in-action/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 2196,
+        "average": 4.701275
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-in-action-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Databases",
+        "Compute"
       ]
     }
   ],

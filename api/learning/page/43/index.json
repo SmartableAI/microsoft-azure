@@ -4,127 +4,6 @@
   "page": 43,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-nodejs-files.md",
-      "title": "Work with files and directories in a Node.js app",
-      "excerpt": "Build an app that manipulates files and directories with Node.js and JavaScript.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-nodejs-files/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/nodejs-files/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 189,
-        "average": 4.5978837
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/nodejs-files-social.png",
-          "width": 642,
-          "height": 322,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-object-detection-lva-edge-device.md",
-      "title": "Object detection on Edge devices with Live Video Analytics using YOLO model",
-      "excerpt": "This module helps learner to deploy object detection solution using Live Video Analytics on IoT Edge.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-object-detection-lva-edge-device/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/object-detection-iot-edge-live-video-analytics/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 2,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-optimize-blob-storage-costs.md",
-      "title": "Optimize storage performance and costs using Blob storage tiers",
-      "excerpt": "Learn what the different storage tiers are for blob storage and how they can improve performance and reduce costs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-optimize-blob-storage-costs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-archive-costs-blob-storage/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 96,
-        "average": 4.59375
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/optimize-blob-storage-costs-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-optimize-costs-data-analysis-powerbi.md",
       "title": "Optimize Azure costs with data analysis in Power BI",
       "excerpt": "Use Power BI to understand where your money is being spent in Azure so you can help your organization to optimize its costs.",
@@ -628,6 +507,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-plan-design-integration-of-enterprise-apps-for-sso.md",
+      "title": "Plan and design the integration of enterprise apps for SSO",
+      "excerpt": "Plan and design the integration of enterprise apps for SSO",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-design-integration-of-enterprise-apps-for-sso/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 180,
+        "average": 4.822222
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-plan-for-azure-ad-connect-implementation.md",
       "title": "Plan for Azure AD Connect implementation",
       "excerpt": "Plan for Azure AD Connect implementation",
@@ -1102,49 +1025,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-plan-your-windows-10-subscription-activation-strategy.md",
-      "title": "Plan your Windows 10 Subscription Activation strategy",
-      "excerpt": "Plan your Windows 10 Subscription Activation strategy",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-your-windows-10-subscription-activation-strategy/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-windows-10-subscription-activation-strategy/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 2,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-planning-implementing-sap-solutions-azure.md",
       "title": "Planning for implementing SAP solutions on Azure",
       "excerpt": "Planning for implementing SAP solutions on Azure",
@@ -1260,6 +1140,134 @@
           "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/predict-classes-with-knn-classifier-social.png",
           "width": 640,
           "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-prepare-onpremises-workloads-migration-azure.md",
+      "title": "Prepare on-premises workloads for migration to Azure",
+      "excerpt": "Prepare on-premises workloads for migration to Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-prepare-onpremises-workloads-migration-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-onpremises-workloads-migration-azure/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 402,
+        "average": 4.6890545
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/prepare-on-premises-workloads-for-migration-to-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Migration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-prepare-your-windows-10-devices-for-co-management.md",
+      "title": "Prepare your Windows 10 devices for Co-management",
+      "excerpt": "Prepare your Windows 10 devices for Co-management",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-prepare-your-windows-10-devices-for-co-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-windows-10-devices-for-co-management/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 7,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-preparing-migrate-sap-workloads-azure.md",
+      "title": "Prepare to migrate SAP workloads to Azure",
+      "excerpt": "This module provides details on the important steps prior to deploying SAP workloads to Azure: project preparation and planning, pilot, non-production, production preparation, go live, and post production.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-preparing-migrate-sap-workloads-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-migrate-sap-workloads/",
+      "length": "PT1H1M",
+      "ratings": {
+        "count": 385,
+        "average": 4.7844157
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/preparing-migrate-sap-workloads-azure-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
