@@ -1087,8 +1087,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
       "length": "PT49M",
       "ratings": {
-        "count": 1248,
-        "average": 4.7459936
+        "count": 1249,
+        "average": 4.7461967
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1130,8 +1130,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 2085,
-        "average": 4.6393285
+        "count": 2087,
+        "average": 4.6387157
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1166,49 +1166,6 @@
         "Web",
         "Compute",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-web-app-blazor-webassembly-vscode.md",
-      "title": "Build a web app with Blazor WebAssembly and Visual Studio Code",
-      "excerpt": "Learn how to set up your development environment and build your first WebAssembly app with Blazor, Visual Studio Code, and C#.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-web-app-blazor-webassembly-vscode/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-visual-studio-code/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 1699,
-        "average": 4.7021775
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-a-web-app-with-blazor-webassembly-and-vs-code-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Developer tools"
       ]
     },
     {
@@ -1587,6 +1544,50 @@
       "topics": [
         "Azure",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools.md",
+      "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
+      "excerpt": "Find out how to develop an Azure Function in Visual Studio with a test framework to create, deploy, and test this scalable and secure service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 2555,
+        "average": 4.712329
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-core-tools-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
       ]
     }
   ],

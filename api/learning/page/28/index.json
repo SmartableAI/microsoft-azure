@@ -4,6 +4,177 @@
   "page": 28,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-manage-content-search-and-investigations-in-microsoft-365.md",
+      "title": "Manage content search and investigations in Microsoft 365",
+      "excerpt": "Manage content search and investigations in Microsoft 365",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-content-search-and-investigations-in-microsoft-365/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-content-search-and-investigations-in-microsoft-365/",
+      "length": "PT1H52M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-search-for-content-security-compliance-center.md",
+          "title": "Search for content in the Microsoft 365 compliance center",
+          "excerpt": "Search for content in the Microsoft 365 compliance center",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-search-for-content-security-compliance-center/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/search-for-content-security-compliance-center/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 4,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-conduct-audit-log-investigations.md",
+          "title": "Conduct audit log investigations",
+          "excerpt": "Conduct audit log investigations",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-conduct-audit-log-investigations/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/conduct-audit-log-investigations/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 6,
+            "average": 4.8333335
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-advanced-ediscovery.md",
+          "title": "Manage Advanced eDiscovery",
+          "excerpt": "Manage Advanced eDiscovery",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-advanced-ediscovery/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-advanced-ediscovery/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 6,
+            "average": 4.6666665
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-manage-hybrid-infrastructure-with-azure-arc.md",
       "title": "Manage hybrid infrastructure with Azure Arc",
       "excerpt": "Learn how to work with Azure Arc enabled servers and describe Azure Arc enabled Kubernetes.",
@@ -1467,8 +1638,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/",
           "length": "PT54M",
           "ratings": {
-            "count": 245,
-            "average": 4.7469387
+            "count": 246,
+            "average": 4.7479672
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2303,8 +2474,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-retail/",
       "length": "PT40M",
       "ratings": {
-        "count": 737,
-        "average": 4.7747626
+        "count": 738,
+        "average": 4.7737126
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2494,49 +2665,6 @@
         "Beginner"
       ],
       "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-aks-deployment-pipeline-github-actions.md",
-      "title": "Configure an Azure Kubernetes Service deployment pipeline using GitHub Actions",
-      "excerpt": "Explore how to create an automated deployment pipeline by using GitHub Actions along with Azure Kubernetes Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-deployment-pipeline-github-actions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deployment-pipeline-github-actions/",
-      "length": "PT1H34M",
-      "ratings": {
-        "count": 71,
-        "average": 4.4788733
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",

@@ -4,6 +4,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-pipelines-in-aml.md",
+      "title": "Orchestrate machine learning with pipelines",
+      "excerpt": "Create pipelines in Azure Machine Learning",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-pipelines-in-aml/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 938,
+        "average": 4.6684437
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-cv-classify-bird-species.md",
       "title": "Classify endangered bird species with Custom Vision",
       "excerpt": "Learn how to use Azure Cognitive Services Custom Vision to build a machine learning model that identifies the species of a bird in an image, to help with gathering data.",
@@ -186,8 +221,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/",
       "length": "PT38M",
       "ratings": {
-        "count": 275,
-        "average": 4.6036363
+        "count": 276,
+        "average": 4.6014495
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -528,8 +563,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-columns-azure-databricks/",
       "length": "PT43M",
       "ratings": {
-        "count": 247,
-        "average": 4.5587044
+        "count": 248,
+        "average": 4.556452
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -572,8 +607,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
       "length": "PT45M",
       "ratings": {
-        "count": 1224,
-        "average": 4.6617646
+        "count": 1225,
+        "average": 4.6612244
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -925,8 +960,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/",
           "length": "PT56M",
           "ratings": {
-            "count": 1119,
-            "average": 4.6720285
+            "count": 1120,
+            "average": 4.6723213
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -968,8 +1003,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices-government/",
           "length": "PT42M",
           "ratings": {
-            "count": 304,
-            "average": 4.7796054
+            "count": 305,
+            "average": 4.780328
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1011,8 +1046,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/",
           "length": "PT1H17M",
           "ratings": {
-            "count": 504,
-            "average": 4.720238
+            "count": 505,
+            "average": 4.718812
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1817,8 +1852,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-retail/",
       "length": "PT40M",
       "ratings": {
-        "count": 737,
-        "average": 4.7747626
+        "count": 738,
+        "average": 4.7737126
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1934,50 +1969,6 @@
         "Analytics",
         "Compute",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-chat-bot-with-azure-portal.md",
-      "title": "Build a chat bot with the Azure portal",
-      "excerpt": "Create and test a basic chat bot using the Azure portal",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-chat-bot-with-azure-portal/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-chat-bot-azure-portal/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 121,
-        "average": 4.7768593
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Management tools"
       ]
     }
   ],

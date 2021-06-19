@@ -4,7 +4,7 @@ excerpt: "Azure Virtual Desktop on Microsoft Azure is a desktop and app virtuali
 type: collection
 price: Free
 length: PT3H48M
-heat: 63
+heat: 62
 
 provider:
   name: Microsoft Learn
