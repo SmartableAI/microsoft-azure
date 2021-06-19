@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-hci-60day-fr
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-hci-60day-free-trial-now-available/"
 type: article
 quality: 67
-heat: 88
+heat: 87
 published: true
 
 provider:
