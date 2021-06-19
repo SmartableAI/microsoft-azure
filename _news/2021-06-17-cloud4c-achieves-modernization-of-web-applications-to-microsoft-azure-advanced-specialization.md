@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
-publishedDateTime: 2021-06-17T11:37:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cloud4c-achieves-modernization-web-applications-microsoft-azure-advanced-/2021/06/17/9392455.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-achieves-modernization-web-applications-microsoft-azure-advanced-/2021/06/17/9392455.htm"
+excerpt: "SINGAPORE and HYDERABAD, India, June 17, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced ..."
+publishedDateTime: 2021-06-17T11:52:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-871941275.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-871941275.html"
 type: article
-quality: 6
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+    width: 1616
+    height: 846
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -264,6 +270,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization"
+    publishedDateTime: 2021-06-16T18:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030530211"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "These are the biggest strengths AWS, Google Cloud, IBM, and Microsoft Azure bring to Wall Street firms looking to migrate to the public cloud"
     excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
     publishedDateTime: 2021-06-17T13:37:00Z
@@ -550,15 +565,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 6
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-    publishedDateTime: 2021-06-16T18:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
   - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
     excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
     publishedDateTime: 2021-06-17T07:06:00Z
@@ -605,6 +611,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "yV6oKFBfJAKW1H0P9m+NMMeCKfaUKZCpav+ceOAx2Yr4I0KJUmNPdVkGGGJypnjFFuoJHCyvw26Lcmp22zlXgWvWD+4B1i+E/CvbFYunnkRcEOztO5swLdDkqb/669hHOAtP9HAtDh4/7qKqafZIvn2oNnC/Lm/naGoxZxQvxDPs2kbD8zsQbKji6EKy1830jy+QBRY6WHVzrbonEf55cku0KcCzIxYlQj+UbY00lujrEegO30WP+6GYW4pkXf4o5ePWqtiSbIjFJZ465qfuyVy6SVtoyezoCGpHDEA6UcMOjGpO0M72aIazNOkUznWVudcYleuAaVpjsvJL9WpErPqM3j3Csvl0rV3OylqUMXw=;jiQ9BYjpDfCtMX/tXCrhQw=="
+secured: "IRZsbbvbEg1KM6dYcfBxqudMbwI22UGId93o6NIwI1nORjKlmoCTzq1xazFLznou8l9s++J/uUt6Jlr7e4e8ecpCVwmGjZ7tWTGpQLG1fS0ocwR24P/6pAF+gEh+mGNpXRLpAMNGxyaTQw76YtWqJxXK2WsenTMqVV8C7UQFmnzdkNbgG71RLgsJohUOpJD4PlQuiijlXsogfMky4tB56smmUmnQIcPZWr67xkg1pWNL92z46sxCxVNDot7EErw+HPKuSZyRe20UcLOrDP+ZGR9oP/K5tr9GRlGfOzuL0TPaKwZiPffvUlani/jdVfipPv/hwbjGKWVB82L3F1J4DcJAL9hbCALJN2soDUCJrik=;cTz+1LhC3e3bZoOuze00KQ=="
 ---
 
