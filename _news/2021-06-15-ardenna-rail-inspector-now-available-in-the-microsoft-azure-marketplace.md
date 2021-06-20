@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-excerpt: "Ardenna's Rail-Inspector is a SaaS offering, only available on Azure. \"Through the Microsoft Azure Marketplace, Rail-Inspector will have a broader exposure to domestic and international railroad ..."
-publishedDateTime: 2021-06-15T11:09:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-301310454.html"
-webUrl: "https://www.prnewswire.com/news-releases/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-301310454.html"
+excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
+publishedDateTime: 2021-06-15T11:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
+webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg?p=facebook"
-    width: 1499
-    height: 785
+  - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -460,6 +464,20 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "SEATTLE, June 16, 2021 /CNW/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a ..."
+    publishedDateTime: 2021-06-16T18:37:00Z
+    webUrl: "https://www.goskagit.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_24eb5b6c-65dd-5f2c-bbfd-574140671390.html"
+    type: article
+    provider:
+      name: Skagit Valley Herald
+      domain: goskagit.com
+    quality: 22
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/e1586314-89a9-11e7-be8f-ef31f934c462.png"
+        width: 1024
+        height: 500
+        isCached: true
   - title: "VAST Grows Microsoft Partnership with Microsoft Cloud Gold Partner Status"
     excerpt: "VAST, a leader in Data Protection, IT Infrastructure Management, and Optimization of On-Premise and Cloud Computing Operations, has announced today it has"
     publishedDateTime: 2021-06-17T17:10:00Z
@@ -546,15 +564,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 3
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-    publishedDateTime: 2021-06-16T18:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
   - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
     excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
     publishedDateTime: 2021-06-17T07:06:00Z
@@ -601,6 +610,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "CTgykaizyIEDo3i40o1QQi57I/NeAbW02EwukxTmS5CiGvXGVHZCBfMXGyzi1Q75C1zwwRIFbZ4ZU2MNFaWW2x34nk0NgAgWwDpQlSCQG8PurRswkxnmcW+oRcpqcQqYm3m/kv6rquSFwzmEksqDnXfa4jj/J+gYrqZ6pGee9Ll6OIOLdqSIGgGKP/MJ2B2ld1aGmtYy31W5JXdohupH65eTRd1L4rpMIlKm4fS1csIsr4QTFVhpgD9c79MYxiyGvqRn995GrFGcETYyuK7pHkIi/aiNzC9+js2sQJ5OZGuin2sxIrYlOj2xZX1uRzTH0mTRJjtYLATSOpxusYG1SSmowRUO4sk+QsO8dwyGIp0=;B4eWvIepyF0br4UZ9Ftjmg=="
+secured: "Vwa/GhkfqIu3p4ip914rt0v4f5UICtsWB5DVj6YFC2w2Z2a66Q2q0R3JhrwNvg2KFv4tWF1TpkCH3l0gkUCYg7aV6Xj+M2HIuHvZ4pgpo1asYdr7ChvMikd1exF4V8/yq8LKtp4OKvRgYydHQxeDO0pYz+7kfhhQYVZ0bnXFUYlbnEud5rNqHYcau4CAZxXLU8OdlADqNWBc7W11SULKlSSzQ1l4MmNS4v87xzMmg46eAg7N2QBgzT+xNEP92Qu9623K5XyqjaaWfBsm1SPey1xIpBURU2UYkvtv3vkTwQmzABiEeXFIw+NtGEBb7mBCQudtVA8s/Jy3Eut8hdatMHnmoRvmKAcylfrrD7OxJlA=;t3gzQoZo18uUe4B6qpPL9g=="
 ---
 
