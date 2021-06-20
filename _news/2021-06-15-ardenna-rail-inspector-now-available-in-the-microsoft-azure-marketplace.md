@@ -256,15 +256,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization"
-    publishedDateTime: 2021-06-16T18:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030530211"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "These are the biggest strengths AWS, Google Cloud, IBM, and Microsoft Azure bring to Wall Street firms looking to migrate to the public cloud"
     excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
     publishedDateTime: 2021-06-17T13:37:00Z
@@ -555,6 +546,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 3
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-16T18:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
   - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
     excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
     publishedDateTime: 2021-06-17T07:06:00Z
@@ -601,6 +601,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "fgyUC4eP5QD2OdGX2p2tATSsEffMLnSaWq3uzVal8b+/KZ1x1m8fVZQ8fRy034cUJ+gYfFdU4VycK4a3xcEK1U3IUDYBWQ6fTt20+GfJWeHSOAutCXamccwoxdXSGqiq3mI/6H7zI8/UW0jNwViS43fujTJWg4tNALq6/BVW+ytbb3Dm0D78brYjjzaOK8HmpYsDp1RXkqx9j7aaBSqZ+wwHJVX2T9xmJU2WX1xWvcg8oh6Du8yOufXpzLU+yAO95lAzOGO9/dKIEC2TpxpMmQVKfgzjn+nXfKNy5NIfGqG9ocfx8+/Rz98GzfSw7nOu/lG87P59LsVixjvlmdJJ5u7hD7JvwC2jhWObMz09nug=;NHG6n1E3qIS+TPB64yJH1Q=="
+secured: "CTgykaizyIEDo3i40o1QQi57I/NeAbW02EwukxTmS5CiGvXGVHZCBfMXGyzi1Q75C1zwwRIFbZ4ZU2MNFaWW2x34nk0NgAgWwDpQlSCQG8PurRswkxnmcW+oRcpqcQqYm3m/kv6rquSFwzmEksqDnXfa4jj/J+gYrqZ6pGee9Ll6OIOLdqSIGgGKP/MJ2B2ld1aGmtYy31W5JXdohupH65eTRd1L4rpMIlKm4fS1csIsr4QTFVhpgD9c79MYxiyGvqRn995GrFGcETYyuK7pHkIi/aiNzC9+js2sQJ5OZGuin2sxIrYlOj2xZX1uRzTH0mTRJjtYLATSOpxusYG1SSmowRUO4sk+QsO8dwyGIp0=;B4eWvIepyF0br4UZ9Ftjmg=="
 ---
 
