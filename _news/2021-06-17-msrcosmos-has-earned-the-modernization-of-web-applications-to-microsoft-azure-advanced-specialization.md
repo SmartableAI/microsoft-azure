@@ -1,22 +1,18 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization"
-publishedDateTime: 2021-06-16T18:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030530211"
-webUrl: "https://markets.businessinsider.com/news/stocks/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030530211"
+excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+publishedDateTime: 2021-06-16T18:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
 type: article
-quality: 42
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -604,6 +600,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "FZ/sGWQcDJG58MIZAEC9+TKl3G+pDmxOOgyi1SUjWtGWVVpU73s/VH7rsn8sYn49FqmVhiu9uBWjPiutDPxlTr6/v9pR7evLNLgRQjmIQBBRs5m1c0GQp/oQYf3eqPcJqh1nL571u3iVX90zjwesh6CvN1NNwguqg5WtkapQ7R/+JRPmfmTFN1Ve4k60MXj8MrpgWq266tq+VQXEjuwasXpNqy9AX9NHDiHeylyDUxXfvYY7GfLm3vlYqaeMQuIHsW2Vo1JxXN0HwELy1VrCcOlg6UE+Gk7TsZAQu+MmQ9rnHl3JEc+mbhunGJp8wA7GO1I3ec1Jn8cKqIYZeg7dyS7BEcpBTTpKJXMT8pjZbcU=;fah/XAA1kkOInWF9R77Dlw=="
+secured: "+QQp8X8v3JWjCin0GYest/4M+BPqmTu73MqfNbEcf7e1ngyo4bL7JjxJTDSlr6qzibNXTzHiKn85WUvo2nhBftUqDSqZVfhqV9IaexDGLPjLuOithAQ4Tw+XnU/w9QaGPNoD4/dMx9WP20YlKgAZXGb0nMRCF7+o0URLkoLjyoJmRD0uhRajLe3/Rw939agmC0sddRFOTSyOsfLi/TLe7xSW8oqCbIFN5F7tVsrdME2QHyCBD8GNUwtCICQiIz718Wg7c4cCPb5gOnbMQxxq1acdsmPFV18VyjtKw1GLfGAo7oT5mjXi/A2GPBlzFEBML6N8JG26NJjiGeZpVWhumH1uZ/c+0WpHb5H+QAacSu0=;/ZPRb0lC/fCP0zvuPy/7oQ=="
 ---
 
