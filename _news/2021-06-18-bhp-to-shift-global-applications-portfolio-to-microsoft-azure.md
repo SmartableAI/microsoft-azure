@@ -1,26 +1,26 @@
 ---
 category: news
-title: "NHS migrates millions of mailboxes to Microsoft Azure cloud"
-excerpt: "Microsoft has announced that over two million NHS mailboxes have been moved to its Azure cloud, building towards a cloud-first health service"
-publishedDateTime: 2021-02-02T10:39:00Z
-originalUrl: "https://www.information-age.com/nhs-migrates-millions-mailboxes-microsoft-azure-cloud-123493600/"
-webUrl: "https://www.information-age.com/nhs-migrates-millions-mailboxes-microsoft-azure-cloud-123493600/"
+title: "BHP to shift global applications portfolio to Microsoft Azure"
+excerpt: "BHP will shift its global portfolio of applications, including those currently hosted on SAP S/4 HANA, to Microsoft Azure under one of two new long-term cloud agreements. The miner on Friday ..."
+publishedDateTime: 2021-06-18T12:37:00Z
+originalUrl: "https://www.itnews.com.au/news/bhp-to-shift-global-applications-portfolio-to-microsoft-azure-566119"
+webUrl: "https://www.itnews.com.au/news/bhp-to-shift-global-applications-portfolio-to-microsoft-azure-566119"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Information Age
-  domain: information-age.com
+  name: IT News For Australia Business
+  domain: itnews.com.au
 
 topics:
   - Azure
 
 images:
-  - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/nhs-migrates-millions-mailboxes-microsoft-azure-cloud.jpeg"
-    width: 1013
-    height: 675
+  - url: "https://i.nextmedia.com.au/News/20210618121956_bhp.jpg"
+    width: 1500
+    height: 844
     isCached: true
 
 related:
@@ -1162,6 +1162,20 @@ related:
         width: 971
         height: 520
         isCached: true
+  - title: "NHS migrates millions of mailboxes to Microsoft Azure cloud"
+    excerpt: "Microsoft has announced that over two million NHS mailboxes have been moved to its Azure cloud, building towards a cloud-first health service"
+    publishedDateTime: 2021-02-02T10:39:00Z
+    webUrl: "https://www.information-age.com/nhs-migrates-millions-mailboxes-microsoft-azure-cloud-123493600/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 37
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/nhs-migrates-millions-mailboxes-microsoft-azure-cloud.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
   - title: "How We Leveraged Microsoft Azure To Meet On-Demand Needs"
     excerpt: "How We Leveraged Microsoft Azure To Meet On-Demand Needs By Chad Leverenz, VP, IT Infrastructure & Development, Mercy Housing - Like most non-profit organizations, we experienced rapidly growing needs for visualizing analytics,"
     publishedDateTime: 2021-02-19T04:24:00Z
@@ -1427,20 +1441,6 @@ related:
       - url: "https://res.infoq.com/news/2021/05/azure-elastic-stack/en/resources/11afb6ffe-56f4-48ee-b800-940178032fcb-1622313479776.jpg"
         width: 1462
         height: 1056
-        isCached: true
-  - title: "BHP to shift global applications portfolio to Microsoft Azure"
-    excerpt: "BHP will shift its global portfolio of applications, including those currently hosted on SAP S/4 HANA, to Microsoft Azure under one of two new long-term cloud agreements. The miner on Friday ..."
-    publishedDateTime: 2021-06-18T12:37:00Z
-    webUrl: "https://www.itnews.com.au/news/bhp-to-shift-global-applications-portfolio-to-microsoft-azure-566119"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 37
-    images:
-      - url: "https://i.nextmedia.com.au/News/20210618121956_bhp.jpg"
-        width: 1500
-        height: 844
         isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
@@ -2031,6 +2031,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "/dw9j4V+m6J3FNQ1QNwbLNxveHkt9gJliQoARl8QFcUvN2RcyRuwwoXN7/hufzRizbyOwDtkdPmSqcKZHqP4WPeIquONlNuPT89/W5vY8s1jxkWisIOaeWahdf+yWceICwRT9uyEj9SL1W5yQUhaMMNmdPyBlSFruSlfClhrjlKKP7tC87U9LQ6xqrOYWT4oHJP1KQ18AmQaHWCXApVbKeknqaXRtSUncqf9k7+a/E8M61WIpUxEvEiuWQhtkPaddLk/se+ggc8BKMBl/llr9+EKeKV2QZdIVOohWCdyAmyuVU0F/EvDxlq9Z65fnY9ITxX4OtPdWATa11FS4KaH0NEQnYmjp3mK3R2snItMBN5hTxKDCYjMTz0K1gKFHJCpCLkE1V0/JbUEIDlWGtPF7HxGLZxATqq5gPPadMUfSBTVjkl4jqiD4AK/Pw5OW5U923MX6PMqvllDpDtHAysgeQ4WdvWuwdu0npPGP9v2imOCOWPKu3xP6sDaQ0p1Tl2ZFyrxGRCowsmrkEhTIfY6JQ==;6EgwEZYOtcwCAnI7KPh/rw=="
+secured: "dADXzc3kZ+8Q/iDe5Gct8WeVOnZ2/Qzr4xrxnV6J1FpDOeKvvTq7JXNB2c+J1uo5gsr5vrgnzjp6lvy+0zMLep8iuElq3bXuSquFduX2w4X0RrnoAwwvi5tq4/mly590UgKwnM0/zHyzhGTh9bC27mWpcV3BpzZ7X50Tsp/z3jCUtNRF3AsFQMD23eH4XNL7MCF5yK2s9vp3Um/nfO1Nv0m885wkYXvHwbjAeJRB2TKf7MwB6i2EAXmL9+rbB/d+lESEmJ3ZACoakVFjxVME5LRT7gWHIjT/1o+E0DMZFlEIqYQSE3BKe9e68yuSBDf0CU+UKEQmaaGlYgFxaqFpmfIux1l4BgfdGtmUj26Dz2U=;USu2oT3MpwrVyqJT2OG73Q=="
 ---
 

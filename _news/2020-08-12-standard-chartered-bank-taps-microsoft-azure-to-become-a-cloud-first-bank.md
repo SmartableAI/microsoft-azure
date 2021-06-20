@@ -1437,6 +1437,20 @@ related:
         width: 1462
         height: 1056
         isCached: true
+  - title: "BHP to shift global applications portfolio to Microsoft Azure"
+    excerpt: "BHP will shift its global portfolio of applications, including those currently hosted on SAP S/4 HANA, to Microsoft Azure under one of two new long-term cloud agreements. The miner on Friday ..."
+    publishedDateTime: 2021-06-18T12:37:00Z
+    webUrl: "https://www.itnews.com.au/news/bhp-to-shift-global-applications-portfolio-to-microsoft-azure-566119"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/20210618121956_bhp.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Standard Chartered to Adopt Microsoft Azure to Become a Cloud-first Bank"
     excerpt: "Standard Chartered Bank and Microsoft have announced a three-year strategic partnership to accelerate the bank’s digital"
     publishedDateTime: 2020-08-18T00:39:00Z
