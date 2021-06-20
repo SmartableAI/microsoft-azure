@@ -7,7 +7,7 @@ price: Free
 length: PT56M
 ratings:
   count: 2701
-  average: 4.47649
+  average: 4.47612
 heat: 54
 
 provider:
