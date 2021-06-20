@@ -1,23 +1,27 @@
 ---
 category: news
-title: "ZEDEDA Announces Integration with Microsoft Azure IoT to Seamlessly and Securely Orchestrate Distributed Edge Computing Workloads at Scale"
-excerpt: "ZEDEDA, a leader in orchestration for the distributed edge, today announced an integration with Microsoft Azure IoT services that provides customers w"
-publishedDateTime: 2021-02-23T13:07:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210223005252/en/ZEDEDA-Announces-Integration-with-Microsoft-Azure-IoT-to-Seamlessly-and-Securely-Orchestrate-Distributed-Edge-Computing-Workloads-at-Scale"
-webUrl: "https://www.businesswire.com/news/home/20210223005252/en/ZEDEDA-Announces-Integration-with-Microsoft-Azure-IoT-to-Seamlessly-and-Securely-Orchestrate-Distributed-Edge-Computing-Workloads-at-Scale"
+title: "Microsoft Announces Preview of a New Set of Azure Arc-Enabled Services"
+excerpt: "Microsoft, during its annual Build conference, announced a new set of Azure Service in preview that customers can run on virtually any CNCF-conformant Kubernetes cluster with the help of its Azure Arc multi-cloud service."
+publishedDateTime: 2021-06-20T14:07:00Z
+originalUrl: "https://www.infoq.com/news/2021/06/arc-enabled-app-services-preview/"
+webUrl: "https://www.infoq.com/news/2021/06/arc-enabled-app-services-preview/"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Azure
-  - IoT
-  - Integration
+
+images:
+  - url: "https://res.infoq.com/news/2021/06/arc-enabled-app-services-preview/en/headerimage/header+%287%29-1623870457725.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -1331,20 +1335,6 @@ related:
         width: 300
         height: 350
         isCached: true
-  - title: "Microsoft Announces Preview of a New Set of Azure Arc-Enabled Services"
-    excerpt: "Microsoft, during its annual Build conference, announced a new set of Azure Service in preview that customers can run on virtually any CNCF-conformant Kubernetes cluster with the help of its Azure Arc multi-cloud service."
-    publishedDateTime: 2021-06-20T14:07:00Z
-    webUrl: "https://www.infoq.com/news/2021/06/arc-enabled-app-services-preview/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 37
-    images:
-      - url: "https://res.infoq.com/news/2021/06/arc-enabled-app-services-preview/en/headerimage/header+%287%29-1623870457725.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
     publishedDateTime: 2020-05-27T20:23:00Z
@@ -1600,6 +1590,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "ZEDEDA Announces Integration with Microsoft Azure IoT to Seamlessly and Securely Orchestrate Distributed Edge Computing Workloads at Scale"
+    excerpt: "ZEDEDA, a leader in orchestration for the distributed edge, today announced an integration with Microsoft Azure IoT services that provides customers w"
+    publishedDateTime: 2021-02-23T13:07:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210223005252/en/ZEDEDA-Announces-Integration-with-Microsoft-Azure-IoT-to-Seamlessly-and-Securely-Orchestrate-Distributed-Edge-Computing-Workloads-at-Scale"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
   - title: "The Essential Starters Guide for Microsoft Azure for IT Leaders"
     excerpt: "The essential guide to cloud adoption in Microsoft Azure for those new to public cloud and those with some Azure services already in place. Cloud consumption is on the rise as enterprise ..."
     publishedDateTime: 2021-02-25T18:16:00Z
@@ -1671,6 +1670,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "PUuEDVdMI61hhHDnmVq0z73bbbMkI2SFtB+ab+7OMUZCWmgM1JLRXxTo/1gwXZ9wwY4yEwUExZoOz1nM6kmGFN1zegmMy9ZX+Q2s7SynOnNpw95k5mHwV8zY8jQUyDuRBoaKHIzMxeymH9vPsQijsCCy6ZZ8jW/Zj/aLNR01XvwWYF4uXg2bIdblJldAE0lOuB/F4xaVNwuEuuIuvyNRYGVo0llwDdQxG3y0yCuPVqKbCXnDBxHoJw+hGfHWAruYL4iRvfKPZIf4Mhwi3WjEhKWexMjvXNoF5gLBZrLDzX+2jWrRX2oaErZsrffur0PDO78kVSzq8B4OBAEWkAvSwM5iMlXB3L009eAVmpynjVw=;sFO40xhVBEpbxOzaNiiWbw=="
+secured: "ZJXr49Cj77qDeNabSJeEuS4aXHgtP6KPbvsAJ0yeQz1y9KwKLPvG9rC2fn3Z7/PyhIxGoENww6Ts2VP3BNIqhPOuicB4V+Qa7FkHDC+P9uJa4RfONcakt29EyLrRGhQhtYA4qqNZgiawBuVy7MCvI4fdeR/Mt2iP0HRAvbop/AKRH24rFEuZ+aSMJARKyz1WKVvKDsGA9E+mT2yJVbq+h2VJ/DaB4i7v5AnA8I4/WK/cB9g29GNUppcnay8exvtCFXckacO9rxLc2S2RHWFXcJB29AZ5AqZkrasgTK5EiW89a39IqJVSe15C8q56aR1ythcDzwXLc2s4MhxM177a6gfAYn6HKmyqZY647c3+70I=;b7wjF4mgvzDBZekmDxQLvA=="
 ---
 

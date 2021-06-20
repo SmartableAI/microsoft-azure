@@ -1335,6 +1335,20 @@ related:
         width: 300
         height: 350
         isCached: true
+  - title: "Microsoft Announces Preview of a New Set of Azure Arc-Enabled Services"
+    excerpt: "Microsoft, during its annual Build conference, announced a new set of Azure Service in preview that customers can run on virtually any CNCF-conformant Kubernetes cluster with the help of its Azure Arc multi-cloud service."
+    publishedDateTime: 2021-06-20T14:07:00Z
+    webUrl: "https://www.infoq.com/news/2021/06/arc-enabled-app-services-preview/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2021/06/arc-enabled-app-services-preview/en/headerimage/header+%287%29-1623870457725.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IOTech Edge XRT: A time-critical edge platform for Microsoft Azure Sphere"
     excerpt: "IOTech announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere."
     publishedDateTime: 2021-03-05T01:33:00Z

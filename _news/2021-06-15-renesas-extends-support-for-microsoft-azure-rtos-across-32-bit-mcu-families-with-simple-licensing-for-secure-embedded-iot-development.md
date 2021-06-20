@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
-excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
+excerpt: "Renesas customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure RTOS embedded development suite."
 publishedDateTime: 2021-06-15T12:00:00Z
-originalUrl: "https://www.financialbuzz.com/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing-for-secure-embedded-iot-development/"
-webUrl: "https://www.financialbuzz.com/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing-for-secure-embedded-iot-development/"
+originalUrl: "https://www.businesswire.com/news/home/20210615005481/en/Renesas-Extends-Support-for-Microsoft-Azure-RTOS-Across-32-bit-MCU-Families-With-Simple-Licensing-for-Secure-Embedded-IoT-Development"
+webUrl: "https://www.businesswire.com/news/home/20210615005481/en/Renesas-Extends-Support-for-Microsoft-Azure-RTOS-Across-32-bit-MCU-Families-With-Simple-Licensing-for-Secure-Embedded-IoT-Development"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -96,20 +96,6 @@ related:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
-        isCached: true
-  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
-    publishedDateTime: 2021-06-15T11:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
     excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
@@ -265,6 +251,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "\"It is a very proud moment for MSRcosmos to earn the Modernization of Web Applications to Microsoft Azure advanced specialization,\" stated Devi Kondapi, CEO of MSRcosmos. \"As companies look to ..."
+    publishedDateTime: 2021-06-16T18:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030529697"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "These are the biggest strengths AWS, Google Cloud, IBM, and Microsoft Azure bring to Wall Street firms looking to migrate to the public cloud"
     excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
     publishedDateTime: 2021-06-17T13:37:00Z
@@ -348,6 +343,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
         width: 1616
         height: 846
+        isCached: true
+  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Ardenna's Rail-Inspector is a SaaS offering, only available on Azure. \"Through the Microsoft Azure Marketplace, Rail-Inspector will have a broader exposure to domestic and international railroad ..."
+    publishedDateTime: 2021-06-15T11:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-301310454.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg?p=facebook"
+        width: 1499
+        height: 785
         isCached: true
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
@@ -468,20 +477,6 @@ related:
       - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/06/16x9/magnetforensics.60b773162031e.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 673
-        isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "SEATTLE, June 16, 2021 /CNW/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a ..."
-    publishedDateTime: 2021-06-16T18:37:00Z
-    webUrl: "https://www.goskagit.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_24eb5b6c-65dd-5f2c-bbfd-574140671390.html"
-    type: article
-    provider:
-      name: Skagit Valley Herald
-      domain: goskagit.com
-    quality: 22
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/e1586314-89a9-11e7-be8f-ef31f934c462.png"
-        width: 1024
-        height: 500
         isCached: true
   - title: "VAST Grows Microsoft Partnership with Microsoft Cloud Gold Partner Status"
     excerpt: "VAST, a leader in Data Protection, IT Infrastructure Management, and Optimization of On-Premise and Cloud Computing Operations, has announced today it has"
@@ -606,6 +601,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "OJWI3AMryjyK8jWZ3VofogIYvQVy/koxRd1SvNMA9JObXU5tSapMqx9xo467LQlBChkew2xySOw11eGlTFqiBGToAv9D3ZgMAdYR7Mwb6hnQzE9FF7klvvyrMvvZozyHNtrxvpIY+78peX66nLETqsoUEu1XiDg6oE9RZ38CrO5HqoJAcklzPJRJq603eMWZw4s9qPhyuGR0NiQxNXA0O3IFsYqMtR4gEfBFGSB9lYIIGlUjBUGM0IVqx1+NLrIkFJjlwWxolmowExANaE1UueyOOAFG65M5VBbY3ysYwbtMc6CI18VU4RN1YfdmeYHaS+MAFPhyKXfAyD/5qMytmxrVORQ4yilVhik+A5zPXxmMe2gJV2lcLtE5Ii8DkIdJvt6eC9rfeARpKaAbplm8SsXHdL+XSTdK9NPLFTrrYxKGg6kuTjptD+ZZ3Rnzf8HJBl4jOjvPFzBcEq5pAV/BRoMas3FerAylfvp+gM84P2so83TTWRC3eSXDV5VMTU0LQQw4HEw0VZFwv8EmQOF4/Q==;GmBGXOZV2JNBPG+moNnJXA=="
+secured: "DrCSZriPtkyDo72FPKaIdn5bpjz2/Eka3VFFNOppr0Qeq/HtRn+6SDDr+KvKaai92JrBbtyjCNmwslzsXngUwNADsiS9ZcsQh2zjvIF0sB0MtpfSnPQ7oKq29rwX3m0TFplk1IiX17YeVdiJW5wBBpHuv1vGEGrH+c+f++CdS5gWU5bunnJRYtXd93akw/5TVPQjhMfqQdoLhk0rJaHLcChHNzj2E8bb6fnea0MI/Jg2hdcAscOIQaVNCZPYEMLtILaxPIXxSAhOfLcDGud9suzJNST7ltIxdw6BpweBxwFX89Xt6DZro38TjyUHhFcJxalJlArTric/4BY8nLWXsJ97v4urtYaWEzPdlvOHASZ8VYJf/1ecgoRTWptECsSl1ORsoboVPvh+8Izna9wz0xglShC700Zl8jNAz+mZF9/+H8wTDJDkAfhFLm/UwhArNl0j0QYQGruBpeoG850fkPPginBxxFIPBZcwSeT2h84BL3fxXFOmlJchIjm6OPDaqvTFJjhV3eTd70lHvIVx1w==;ZMWYdF375iA9E9iR34NKFg=="
 ---
 

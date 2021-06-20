@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
-publishedDateTime: 2021-06-15T11:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
-webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
+excerpt: "Ardenna's Rail-Inspector is a SaaS offering, only available on Azure. \"Through the Microsoft Azure Marketplace, Rail-Inspector will have a broader exposure to domestic and international railroad ..."
+publishedDateTime: 2021-06-15T11:09:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-301310454.html"
+webUrl: "https://www.prnewswire.com/news-releases/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-301310454.html"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
-    width: 400
-    height: 225
+  - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg?p=facebook"
+    width: 1499
+    height: 785
     isCached: true
 
 related:
@@ -260,6 +256,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "\"It is a very proud moment for MSRcosmos to earn the Modernization of Web Applications to Microsoft Azure advanced specialization,\" stated Devi Kondapi, CEO of MSRcosmos. \"As companies look to ..."
+    publishedDateTime: 2021-06-16T18:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030529697"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "These are the biggest strengths AWS, Google Cloud, IBM, and Microsoft Azure bring to Wall Street firms looking to migrate to the public cloud"
     excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
     publishedDateTime: 2021-06-17T13:37:00Z
@@ -464,20 +469,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "SEATTLE, June 16, 2021 /CNW/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a ..."
-    publishedDateTime: 2021-06-16T18:37:00Z
-    webUrl: "https://www.goskagit.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_24eb5b6c-65dd-5f2c-bbfd-574140671390.html"
-    type: article
-    provider:
-      name: Skagit Valley Herald
-      domain: goskagit.com
-    quality: 22
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/e1586314-89a9-11e7-be8f-ef31f934c462.png"
-        width: 1024
-        height: 500
-        isCached: true
   - title: "VAST Grows Microsoft Partnership with Microsoft Cloud Gold Partner Status"
     excerpt: "VAST, a leader in Data Protection, IT Infrastructure Management, and Optimization of On-Premise and Cloud Computing Operations, has announced today it has"
     publishedDateTime: 2021-06-17T17:10:00Z
@@ -556,13 +547,13 @@ related:
       domain: webindia123.com
     quality: 6
   - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
-    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
+    excerpt: "Renesas customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure RTOS embedded development suite."
     publishedDateTime: 2021-06-15T12:00:00Z
-    webUrl: "https://www.financialbuzz.com/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing-for-secure-embedded-iot-development/"
+    webUrl: "https://www.businesswire.com/news/home/20210615005481/en/Renesas-Extends-Support-for-Microsoft-Azure-RTOS-Across-32-bit-MCU-Families-With-Simple-Licensing-for-Secure-Embedded-IoT-Development"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 3
   - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
     excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
@@ -610,6 +601,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "Vwa/GhkfqIu3p4ip914rt0v4f5UICtsWB5DVj6YFC2w2Z2a66Q2q0R3JhrwNvg2KFv4tWF1TpkCH3l0gkUCYg7aV6Xj+M2HIuHvZ4pgpo1asYdr7ChvMikd1exF4V8/yq8LKtp4OKvRgYydHQxeDO0pYz+7kfhhQYVZ0bnXFUYlbnEud5rNqHYcau4CAZxXLU8OdlADqNWBc7W11SULKlSSzQ1l4MmNS4v87xzMmg46eAg7N2QBgzT+xNEP92Qu9623K5XyqjaaWfBsm1SPey1xIpBURU2UYkvtv3vkTwQmzABiEeXFIw+NtGEBb7mBCQudtVA8s/Jy3Eut8hdatMHnmoRvmKAcylfrrD7OxJlA=;t3gzQoZo18uUe4B6qpPL9g=="
+secured: "BK6x3AgMz7Pg1nvC7ERAYnXEeRU4BU6QqtCiDVEQ5+dfWP3nCG2FWakijUEFwO66NBv33tJRZsKd0NP6vhAsy+wWc4BXipU1EoiaEmD2U0jMmPshzciSm5nukTfcjREASL9vBcLEGdezDyunGv0/lijM1CuopxQefnKCLwQ+EDK2NYL+y+gUooJdsPATHLoC6C56o8sei5haXme+BNm/+CyAtj7uondPbzN7unZ0KZjVJTlFrdeRPzzyqKOJBW7MoGWfpT3W7XpODIat/g05X0n3pB56q1aTuH5O6pewQT2ImGkmsNHaPC/5P3TOkWGklsTuHSHZiS8WPaduol4cGf7UImiokDbYqxcCeeHzhsE=;5gt8i1+XTYWkiuRrwcGhNA=="
 ---
 
