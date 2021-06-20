@@ -4,7 +4,7 @@ excerpt: "Learn how to create reliable messaging for your applications, and how 
 type: collection
 price: Free
 length: PT6H20M
-heat: 66
+heat: 67
 
 provider:
   name: Microsoft Learn
