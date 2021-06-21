@@ -1,27 +1,21 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "SEATTLE, June 16, 2021 /CNW/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a ..."
-publishedDateTime: 2021-06-16T18:37:00Z
-originalUrl: "https://www.goskagit.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_24eb5b6c-65dd-5f2c-bbfd-574140671390.html"
-webUrl: "https://www.goskagit.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_24eb5b6c-65dd-5f2c-bbfd-574140671390.html"
+excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+publishedDateTime: 2021-06-16T18:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
 type: article
-quality: 22
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Skagit Valley Herald
-  domain: goskagit.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/e1586314-89a9-11e7-be8f-ef31f934c462.png"
-    width: 1024
-    height: 500
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -536,7 +530,7 @@ related:
   - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
     publishedDateTime: 2021-06-17T11:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392455.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-achieves-modernization-web-applications-microsoft-azure-advanced-/2021/06/17/9392455.htm"
     type: article
     provider:
       name: TMCnet
@@ -606,6 +600,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "7Vp+rlfzPmBVr+Draya46XHXzCNaB/QVVxoNWJTAJZSzXkjOBd3PzLZEQ+/Dt2cuW4Q51nu3W4hIEU1yKdsH2Q7xGhcsofCet1cuFHBezEqI0pSq79zBs20xs1FDwXJo+LRwdl/1a0/ySoiLNBqM/HH+7utkWxOhRjNjs6w7Oie+K+G75OwF4Y7mr+/CfbOJHhR+O0T1/gfq8JyfhGjpQKm/3H7Iut7oWTCwV5eCO6cCR8LQ+k/VXtThr5lqHlLba2gPIhLIoS83zbJpQRxDVPW9cUEupXOooR+l2MHid1OIVlBIaoegjR4nVIqHfXgBcgU0PHYCqIFGeGN35bF4LV+7uEhpMdADV/yCtlxUF14=;enfeWBwPY1P1qqxdPYQlDQ=="
+secured: "ebHv01eOecQy/msiC/NSsE/oytrQgHvSk4NagmLhQKZj1ClJwWe2Y0Wp8T4NgnKh/S0HEf/lOlwzekCJLa8gR5O183NjCq1KhF9eBQl/VPjjjxf+TIrtPKfOjoWaHm7i31kCUz+xUXJBftUjkO9Nb9xN3Dr3iHGdjdmQ+27SJlsmCaaMhNupGnsQcnct4fcGClgWk20f4i5RIXntWhag4wmynpvL28+co3yzSPb5tpCkcGC21pzWdiO5daSZE8AabcYw+VVXaiCfyP0c4g0SGAE/QC1qc2RHdIFYulXPsqSyha3biRaTmFXzJlDMMdK+hZs6ndoBGd1Pn4kOBidlMuFc1G+26ONJ3G3lcl0yhEY=;mX9b3ovU31Yqt2Tss9ElJg=="
 ---
 

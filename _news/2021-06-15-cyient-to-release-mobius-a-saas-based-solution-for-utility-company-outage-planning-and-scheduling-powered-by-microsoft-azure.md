@@ -31,15 +31,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 0
-  - title: "ï»¿ Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
-    excerpt: "Cyient, a global engineering and technology solutions company, has announced the launch of Mobius, a software-as-a-service (SaaS)-based solution and decision support platform. Mobiusâ€”hosted on Microsoft Azureâ€”consolidates the outage planning and approval process within a central location to provide improved information flow for optimizing schedule plans."
-    publishedDateTime: 2021-06-18T09:46:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192212&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "TT0IOALmQx36wwMJw3N5Ce9H+RVpLESAC1EKhPWH9ZaGGsi29CsGioSWTKHf2KGMnNOOUGAPYt5LnYvSmjyVMiz6ZwGBr0m5pG+1CBTiZyIrrnnKa/FFNwWOhsBLk91jbQVV6J4VG3Rf9Izq5h1N0p4MEDv8okEdo1Th2Lf8Hub88hN6z8GNMiCflneTa3txDbkkBxMMTKSoVuKbwKTIrsj8rmwiIzo1qlZttPgMl8GUmO1tATwNsSBIT+DtkKB/wO7GYNrBsOoKSdscekCmiwLlbPjd1EkDMO5st/JL/Lmw1gsxCf9VZTutRuScoqpED9/zl0satKr8mj1pbvCsKeQbRvOz6gwhf/nV0l1sXrU=;iDeu6YFujNKQVxDNsf4ytg=="
 ---

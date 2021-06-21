@@ -1,37 +1,29 @@
 ---
 category: news
-title: "ï»¿ Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
-excerpt: "Cyient, a global engineering and technology solutions company, has announced the launch of Mobius, a software-as-a-service (SaaS)-based solution and decision support platform. Mobiusâ€”hosted on Microsoft Azureâ€”consolidates the outage planning and approval process within a central location to provide improved information flow for optimizing schedule plans."
-publishedDateTime: 2021-06-18T09:46:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192212&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192212&cat=PR News Wire"
+title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
+excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
+publishedDateTime: 2021-06-21T11:51:00Z
+originalUrl: "https://www.techcentral.ie/2ep3q"
+webUrl: "https://www.techcentral.ie/2ep3q"
 type: article
-quality: 0
-heat: -1
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Mozilla
+  domain: techcentral.ie
 
 topics:
   - Azure
 
+images:
+  - url: "https://www.techcentral.ie/wp-content/uploads/2021/06/Yvonne-Dennis.jpg"
+    width: 620
+    height: 350
+    isCached: true
+
 related:
-  - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
-    excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
-    publishedDateTime: 2021-06-21T11:51:00Z
-    webUrl: "https://www.techcentral.ie/2ep3q"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 35
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2021/06/Yvonne-Dennis.jpg"
-        width: 620
-        height: 350
-        isCached: true
   - title: "Microsoft Cloud Regions Mark Two-year Milestone Of Empowering Ambitious Middle East Organizations"
     excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyp"
     publishedDateTime: 2021-06-20T10:16:00Z
@@ -78,7 +70,16 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "ï»¿ Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
+    excerpt: "Cyient, a global engineering and technology solutions company, has announced the launch of Mobius, a software-as-a-service (SaaS)-based solution and decision support platform. Mobiusâ€”hosted on Microsoft Azureâ€”consolidates the outage planning and approval process within a central location to provide improved information flow for optimizing schedule plans."
+    publishedDateTime: 2021-06-18T09:46:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192212&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
-secured: "W969SKBWiCecDtCoAYA3H6tHLfjdKaupa48hjmwBw1Cm6Y5YaoMxJjvnip0Gr4td1RXWWqyeR9zerOuOy/P4KgdaE19aKfOd2w7Bi/PsZV4CjbHRC3aSyFOEVp7CwcLDPUea6C5GIergDN+DcT2qw43uNBhUL0eWqdiQVEJjRYYaCt9cMpnPnQGKbbs+X5wH+v16bvLoiPUm7JgfZUthBbKts0xB5jwgYplwfAQR7p0MG7fNwkLoK7c/2kixgu5r5AfsSCyfLqbEKhRdx8fZqKg7HSXkdn410D0Gc9yGSl1jb1TXjZznhT320A+HBJBe+spuFA5F2x5RnzL7Fs1HNcB+T9TID+90YktSkvh2NIk=;3/qZFViCUIXmIMIZ2qvuXA=="
+secured: "MprwLNfXz6s7Q3O0umjOtPU5TvLGo8rQMwoV2MS3N6IthDFs5EGX0ELr5/bMAwX0/9H6VsSAAENvnpPuuzZBefirJZXETlxidRFTxdc7ua1RPRTyQi3oZ3hHmMrUK6sAR/inylt5btc55BgdgTOoryt3p5hN+ICPGT5PTbVwymjQNhbJVbd2XDbIX6ealt9D6QK8CIjgJcEqvF30BeWhgmGYQENdz5yDo6cIxWRXdGZIEmPBp0iOUWXTklYbNdBNduIb5gVhgwcXNy+B6wl3Cg5dNT0Pm/6In5kariVKsHDeBPpt7o3w3xOB6j1WmrJ+brHWYHUiCRYM5mqB9xjlALLSuw0lBeYO3jrccWcBtQo=;ELYaV9rCMVB/WMyFFwtgYg=="
 ---
 
