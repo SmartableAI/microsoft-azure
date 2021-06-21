@@ -4,7 +4,7 @@ excerpt: "Azure Data Fundamentals: Explore core data concepts"
 type: collection
 price: Free
 length: PT1H48M
-heat: 82
+heat: 73
 
 provider:
   name: Microsoft Learn
