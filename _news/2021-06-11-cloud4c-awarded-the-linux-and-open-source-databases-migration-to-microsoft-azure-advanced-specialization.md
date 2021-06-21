@@ -469,6 +469,20 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
+    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
+    publishedDateTime: 2021-06-15T12:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_649b460d-e5e8-5377-a79a-b3ed07673d4a.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 23
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/47/747470be-1c66-505e-ac7a-17a3924f662c/60c8970d41797.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "VAST Grows Microsoft Partnership with Microsoft Cloud Gold Partner Status"
     excerpt: "VAST, a leader in Data Protection, IT Infrastructure Management, and Optimization of On-Premise and Cloud Computing Operations, has announced today it has"
     publishedDateTime: 2021-06-17T17:10:00Z
@@ -537,15 +551,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 6
-  - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
-    excerpt: "Renesas customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure RTOS embedded development suite."
-    publishedDateTime: 2021-06-15T12:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210615005481/en/Renesas-Extends-Support-for-Microsoft-Azure-RTOS-Across-32-bit-MCU-Families-With-Simple-Licensing-for-Secure-Embedded-IoT-Development"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 3
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
     publishedDateTime: 2021-06-16T18:43:00Z

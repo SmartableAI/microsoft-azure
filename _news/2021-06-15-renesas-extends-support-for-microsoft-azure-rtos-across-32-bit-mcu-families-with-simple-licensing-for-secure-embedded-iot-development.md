@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
-excerpt: "Renesas customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure RTOS embedded development suite."
-publishedDateTime: 2021-06-15T12:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210615005481/en/Renesas-Extends-Support-for-Microsoft-Azure-RTOS-Across-32-bit-MCU-Families-With-Simple-Licensing-for-Secure-Embedded-IoT-Development"
-webUrl: "https://www.businesswire.com/news/home/20210615005481/en/Renesas-Extends-Support-for-Microsoft-Azure-RTOS-Across-32-bit-MCU-Families-With-Simple-Licensing-for-Secure-Embedded-IoT-Development"
+excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
+publishedDateTime: 2021-06-15T12:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_649b460d-e5e8-5377-a79a-b3ed07673d4a.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families-with-simple-licensing/article_649b460d-e5e8-5377-a79a-b3ed07673d4a.html"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Azure
   - IoT
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/47/747470be-1c66-505e-ac7a-17a3924f662c/60c8970d41797.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -601,6 +607,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "DrCSZriPtkyDo72FPKaIdn5bpjz2/Eka3VFFNOppr0Qeq/HtRn+6SDDr+KvKaai92JrBbtyjCNmwslzsXngUwNADsiS9ZcsQh2zjvIF0sB0MtpfSnPQ7oKq29rwX3m0TFplk1IiX17YeVdiJW5wBBpHuv1vGEGrH+c+f++CdS5gWU5bunnJRYtXd93akw/5TVPQjhMfqQdoLhk0rJaHLcChHNzj2E8bb6fnea0MI/Jg2hdcAscOIQaVNCZPYEMLtILaxPIXxSAhOfLcDGud9suzJNST7ltIxdw6BpweBxwFX89Xt6DZro38TjyUHhFcJxalJlArTric/4BY8nLWXsJ97v4urtYaWEzPdlvOHASZ8VYJf/1ecgoRTWptECsSl1ORsoboVPvh+8Izna9wz0xglShC700Zl8jNAz+mZF9/+H8wTDJDkAfhFLm/UwhArNl0j0QYQGruBpeoG850fkPPginBxxFIPBZcwSeT2h84BL3fxXFOmlJchIjm6OPDaqvTFJjhV3eTd70lHvIVx1w==;ZMWYdF375iA9E9iR34NKFg=="
+secured: "MCltxPK1+JVg720eDpFLj8w8Xl7uqwNFcBN0DwrrXtSqwBoojLFG7cWbIQBoRLU5G+cSRVzTxSrFh4eyZ3FodAJBr0/nM20YgdOLxCoSfBnb4CGpuP+J9eyyGB1CFdMUWaw2EykZE/kWs6TcVa+MC3FNtcvCRcJb2RzZTz9PKgMwPfiV7Oqfvh3JefxXWM9hO5qn1GLcGxoNrY4xF8QSuoVhDYQUCseUVDUxsy0PRpkdvdOMPJ9DTRePkqvcqPVxJgjaJbsmjn8PAs7FwT5e0HHttruHqb0Av2NhICA4sHTn6XfuUBKNOYAJ8xanXZ+V+BqZmFTGiyDd/ggmX9+chDHg6Gs3KkWKzqCqqjuosyk=;vk9gzOAhD/nF1ZD582ZjOw=="
 ---
 

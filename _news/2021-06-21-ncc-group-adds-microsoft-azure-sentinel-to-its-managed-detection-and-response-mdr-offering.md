@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "HPE expands GreenLake offerings for Microsoft Azure"
+    excerpt: "HPE GreenLake now supports Microsoft Azure Stack HCI and SQL Server. The announcement of the new integration came just ahead of the company’s annual HPE Discover conference, held virtually for the second time in a row,"
+    publishedDateTime: 2021-06-21T12:25:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 97
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1595502135/itpro/HPE_shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
     excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
     publishedDateTime: 2021-06-21T12:09:00Z
@@ -38,19 +54,19 @@ related:
         width: 1920
         height: 1152
         isCached: true
-  - title: "HPE expands GreenLake offerings for Microsoft Azure"
-    excerpt: "HPE GreenLake now supports Microsoft Azure Stack HCI and SQL Server. The announcement of the new integration came just ahead of the company’s annual HPE Discover conference, held virtually for the second time in a row,"
-    publishedDateTime: 2021-06-21T13:30:00Z
-    webUrl: "https://www.cloudpro.co.uk/saas/9123/hpe-expands-greenlake-offerings-for-microsoft-azure"
+  - title: "Azure Stack HCI and SQL Server set sail on HPE’s GreenLake"
+    excerpt: "HPE has added on-premises Azure Stack HCI and Microsoft SQL Server availability to its GreenLake offer, complementing existing SimpliVity and Nimble dHCI hyperconverged systems support in GreenLake, and Nutanix as well."
+    publishedDateTime: 2021-06-21T12:00:00Z
+    webUrl: "https://blocksandfiles.com/2021/06/21/azure-stack-hci-and-sql-server-set-sail-on-hpes-greenlake/"
     type: article
     provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
+      name: blocksandfiles
+      domain: blocksandfiles.com
     quality: 37
     images:
-      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/06/antonio_neri_hpe_discover_2019_keynote_greenlake.jpg"
-        width: 800
-        height: 450
+      - url: "https://blocksandfiles.com/wp-content/uploads/2021/06/GreenLake.jpg"
+        width: 950
+        height: 445
         isCached: true
   - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
     excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
@@ -66,15 +82,6 @@ related:
         width: 620
         height: 350
         isCached: true
-  - title: "Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
-    excerpt: "Solution from Microsoft Gold Partner Cyient leverages Microsoft technologies to address challenges faced by utilities industry HYDERABAD,"
-    publishedDateTime: 2021-06-15T12:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cyient-to-release-mobius-a-saas-based-solution-for-utility-company-outage-planning-and-scheduling-powered-by-microsoft-azure-1030523800"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
   - title: "Microsoft Cloud Regions Mark Two-year Milestone Of Empowering Ambitious Middle East Organizations"
     excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyp"
     publishedDateTime: 2021-06-20T10:16:00Z
@@ -107,25 +114,16 @@ related:
         width: 450
         height: 375
         isCached: true
-  - title: "Stealth Power Announces FDNY Order of 184 Additional Ambulances with Idle Mitigation Technology and Fleet Intelligence, Powered by Microsoft Azure"
-    excerpt: "Stealth Power announced that the Fire Department of New York (FDNY) has ordered an additional 184 ambulances with the company’s Vehicle Power System, bringing the total number to 500 by the end of 2021."
-    publishedDateTime: 2021-06-15T12:05:00Z
-    webUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
+  - title: "Hewlett Packard Enterprise Fuels HPE GreenLake Expansion with Cloud Services Support for Microsoft Azure Stack HCI and Microsoft SQL Server"
+    excerpt: "Hewlett Packard Enterprise (NYSE: HPE) today announced the expansion of its HPE GreenLake edge to cloud platform to include support for Microsoft (News - Alert) Azure Stack HCI and Microsoft SQL Server."
+    publishedDateTime: 2021-06-21T12:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393915.htm"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
-  - title: "ï»¿ Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
-    excerpt: "Cyient, a global engineering and technology solutions company, has announced the launch of Mobius, a software-as-a-service (SaaS)-based solution and decision support platform. Mobiusâ€”hosted on Microsoft Azureâ€”consolidates the outage planning and approval process within a central location to provide improved information flow for optimizing schedule plans."
-    publishedDateTime: 2021-06-18T09:46:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192212&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
-secured: "7MMj1fkSU/0sZdTxFo/yaH0zHIKivs7tdj2zWoAUxvJufh2I2mTqFP6Iyg4ERjmLzyTehg31ymdMDFN0oEgQnPISkcKb5YIj9bXuUFmxEFkliF5hBk3tSEvvPR85YpowvfVa+Xp9nLGwNux+uQ+1ndBFNNRX1zV8Snyb4yhLAE7HejaCqp4OAI1z3J3iNALlK8+WPlwZ1Fe8R6GQw5BADD2YHH6ONsGfy/YUD5m0VAHJ2zgoIffj9uQZec4GH58VuatcDSVICX8aypP1HmzdzczZHkEK5LjvdX47UGvaax6czhwbpYD23qcaqlVyMwzSAyXF/ITmRVm2iu6ggymE+jxXh39kYwzgZu7UiwJ/Jbs=;XLphx8UgG67TzCzu/XrEXw=="
+secured: "nGcUDnOpJUIHbXwm5ht1xDSYrWs1C3FF+dwuJQBoIdVvJ74DAwJccuJOcGBiDSmJ3ALk5XrHYHV/+lNm/BeJrgudbrk73tqbcknialbQYemiA29/NUQR72zalmaN7lIDgTgp8Sfer3gp01qZ54Serrzl6p3CWHTMnawPDCODrDRbV6T7/sY4BStF8W6ICFA0UcNQrONMWjKzTSWrNxJE3BvU7bij5QXlP6orwK8dUCd64wZjg1Wn+Cb55OKBUGIWMGKydTy07Vi4CSsvQGgx36Z0Rlh7l7d8vwN4ErJ/gpV9ej7FOqvzgWq4iWxq3xqu+A2ci0uxlU8401muxG003gHQyjTRen1RRmma79Az9M7tuyB7soTf+RV5n2RRjvQXLRToQc1VOkzz0qa4qDgvn1jCtB7/eJXb+/sxPA+r6DOd/rOsStWqVDT2OrPNF8IFsg0nZFNJSocPp/WId8TNKT5py0NLbBZgAQ/Fz4Ew1e5wbi20b8tLxFYEj6uUNTd3gscJOr3Ue88hrHE1F38AYA==;fcbBBRBfGM7BhrlZQz2NwQ=="
 ---
 

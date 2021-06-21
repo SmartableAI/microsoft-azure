@@ -2,25 +2,31 @@
 category: news
 title: "HPE expands GreenLake offerings for Microsoft Azure"
 excerpt: "HPE GreenLake now supports Microsoft Azure Stack HCI and SQL Server. The announcement of the new integration came just ahead of the company’s annual HPE Discover conference, held virtually for the second time in a row,"
-publishedDateTime: 2021-06-21T13:30:00Z
-originalUrl: "https://www.cloudpro.co.uk/saas/9123/hpe-expands-greenlake-offerings-for-microsoft-azure"
-webUrl: "https://www.cloudpro.co.uk/saas/9123/hpe-expands-greenlake-offerings-for-microsoft-azure"
+publishedDateTime: 2021-06-21T12:25:00Z
+originalUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure"
+webUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure"
+ampWebUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 97
+heat: 237
+published: true
 
 provider:
-  name: Cloud Pro
-  domain: cloudpro.co.uk
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/06/antonio_neri_hpe_discover_2019_keynote_greenlake.jpg"
-    width: 800
-    height: 450
+  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1595502135/itpro/HPE_shutterstock.jpg"
+    width: 1260
+    height: 710
     isCached: true
 
 related:
@@ -38,6 +44,20 @@ related:
         width: 1920
         height: 1152
         isCached: true
+  - title: "Azure Stack HCI and SQL Server set sail on HPE’s GreenLake"
+    excerpt: "HPE has added on-premises Azure Stack HCI and Microsoft SQL Server availability to its GreenLake offer, complementing existing SimpliVity and Nimble dHCI hyperconverged systems support in GreenLake, and Nutanix as well."
+    publishedDateTime: 2021-06-21T12:00:00Z
+    webUrl: "https://blocksandfiles.com/2021/06/21/azure-stack-hci-and-sql-server-set-sail-on-hpes-greenlake/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 37
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2021/06/GreenLake.jpg"
+        width: 950
+        height: 445
+        isCached: true
   - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
     excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
     publishedDateTime: 2021-06-21T11:51:00Z
@@ -52,15 +72,6 @@ related:
         width: 620
         height: 350
         isCached: true
-  - title: "Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
-    excerpt: "Solution from Microsoft Gold Partner Cyient leverages Microsoft technologies to address challenges faced by utilities industry HYDERABAD,"
-    publishedDateTime: 2021-06-15T12:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cyient-to-release-mobius-a-saas-based-solution-for-utility-company-outage-planning-and-scheduling-powered-by-microsoft-azure-1030523800"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
   - title: "Microsoft Cloud Regions Mark Two-year Milestone Of Empowering Ambitious Middle East Organizations"
     excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyp"
     publishedDateTime: 2021-06-20T10:16:00Z
@@ -107,25 +118,16 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Stealth Power Announces FDNY Order of 184 Additional Ambulances with Idle Mitigation Technology and Fleet Intelligence, Powered by Microsoft Azure"
-    excerpt: "Stealth Power announced that the Fire Department of New York (FDNY) has ordered an additional 184 ambulances with the company’s Vehicle Power System, bringing the total number to 500 by the end of 2021."
-    publishedDateTime: 2021-06-15T12:05:00Z
-    webUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
+  - title: "Hewlett Packard Enterprise Fuels HPE GreenLake Expansion with Cloud Services Support for Microsoft Azure Stack HCI and Microsoft SQL Server"
+    excerpt: "Hewlett Packard Enterprise (NYSE: HPE) today announced the expansion of its HPE GreenLake edge to cloud platform to include support for Microsoft (News - Alert) Azure Stack HCI and Microsoft SQL Server."
+    publishedDateTime: 2021-06-21T12:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393915.htm"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
-  - title: "ï»¿ Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
-    excerpt: "Cyient, a global engineering and technology solutions company, has announced the launch of Mobius, a software-as-a-service (SaaS)-based solution and decision support platform. Mobiusâ€”hosted on Microsoft Azureâ€”consolidates the outage planning and approval process within a central location to provide improved information flow for optimizing schedule plans."
-    publishedDateTime: 2021-06-18T09:46:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192212&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
-secured: "dmeHwTBP2+AGfcdM+aI76JCrQ0UYwXa2O1n4n+HuBBSx9+hhWj6bcs6Pn3LKNhzdoDrmObjm0RMXMPWEUHHq3nh99AWHY4U+vm1vFRTmccM75mdJCuXLejFCCigU414eAbKHXpAiCaNVe/HjJfm8YO6cAFOZSDhbgx8weoDytHtjnDH1i08Qv4JUG5nOftrAOM4gWrjFDr5QBPvQJ0pXZ3CDvOOmgC5QOBEXwMBGGS+FfDsYlhHqW/rmZbNaHA0xryhptnbNDzqzN4pl+EDMjgtKFJ2wGePoyxXHMCq2pfhsbtSz/FkfLrIA86jSilyXqxyaZG6/GgGRhh5J1JMYJ7goTi02dKl5oBBhmivW1do=;ufbYkudTlH/AbmiT/V2yZA=="
+secured: "qYW1dNSJDVVjn3CqzeWtJg5zIRI2w1a74K2+SFKz9rhFFMbAHcqR7x6uSG87JCU10B1oIC4F5RFSoqJ8YuViX+Uy0toYe3mCn0dwbAam4jAHe7N2jBzqTHqSFC1cGqy2BJmkgk4kjHk4dpQ1F6bFTucQyk6NU6Tm2xfpWIn/tjFjL+ec7m/u0oRoJ/Y8foao+7m5bINx6jMlU5IpcSPo+UbkjJBnTu1DySFd76SrH/OrUBloEAZkr8VH7NmBorMPsI8EQqsnpohc8d6dlNoZxsw7wAjTkpI9UccMIoKo7tNB5ePTJChv5m0p5mptTzpgH9hHpfzscrJQKR8nd0kWLu+9Nkfi24HDB+1zMhp86/I=;eENfJ0l6M/5mFJm8TXDEdg=="
 ---
 
