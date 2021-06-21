@@ -7,7 +7,7 @@ originalUrl: "https://www.techcentral.ie/2ep3q"
 webUrl: "https://www.techcentral.ie/2ep3q"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,43 @@ images:
     isCached: true
 
 related:
+  - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
+    excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
+    publishedDateTime: 2021-06-21T12:09:00Z
+    webUrl: "https://www.hstoday.us/industry/sts-and-ais-joint-venture-wins-treasurys-microsoft-azure-migration-contract/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 51
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2020/01/cloud-computing-4246668_1920.jpg"
+        width: 1920
+        height: 1152
+        isCached: true
+  - title: "HPE expands GreenLake offerings for Microsoft Azure"
+    excerpt: "HPE GreenLake now supports Microsoft Azure Stack HCI and SQL Server. The announcement of the new integration came just ahead of the company’s annual HPE Discover conference, held virtually for the second time in a row,"
+    publishedDateTime: 2021-06-21T13:30:00Z
+    webUrl: "https://www.cloudpro.co.uk/saas/9123/hpe-expands-greenlake-offerings-for-microsoft-azure"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 37
+    images:
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/06/antonio_neri_hpe_discover_2019_keynote_greenlake.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
+    excerpt: "Solution from Microsoft Gold Partner Cyient leverages Microsoft technologies to address challenges faced by utilities industry HYDERABAD,"
+    publishedDateTime: 2021-06-15T12:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cyient-to-release-mobius-a-saas-based-solution-for-utility-company-outage-planning-and-scheduling-powered-by-microsoft-azure-1030523800"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
   - title: "Microsoft Cloud Regions Mark Two-year Milestone Of Empowering Ambitious Middle East Organizations"
     excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyp"
     publishedDateTime: 2021-06-20T10:16:00Z
@@ -56,20 +93,29 @@ related:
         width: 450
         height: 375
         isCached: true
-  - title: "Ukrainian Azure Expert MSP Partner strengthens its Azure skills with achieved two Microsoft Advanced Specializations"
-    excerpt: "Cloud Services has earned the Modernization of Web Applications in Microsoft Azure advanced specialization, and Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s in-depth knowledge ..."
-    publishedDateTime: 2020-07-24T10:12:00Z
-    webUrl: "https://news.microsoft.com/en-cee/2020/07/24/ukrainian-azure-expert-msp-partner-strengthens-its-azure-skills-with-achieved-two-microsoft-advanced-specializations/"
+  - title: "NCC Group adds Microsoft Azure Sentinel to its Managed Detection and Response (MDR) offering"
+    excerpt: "Today we’re excited to announce a further development in our collaboration with Microsoft with the addition of Microsoft Azure Sentinel to our"
+    publishedDateTime: 2021-06-21T13:45:00Z
+    webUrl: "https://www.mynewsdesk.com/nccgroup/pressreleases/ncc-group-adds-microsoft-azure-sentinel-to-its-managed-detection-and-response-mdr-offering-3111012"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 14
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 26
     images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/566/2020/07/Ukraine-768x512.jpg"
-        width: 768
-        height: 512
+      - url: "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/y1xbr1yo8dctprqoqwnw.jpg"
+        width: 600
+        height: 315
         isCached: true
+  - title: "Stealth Power Announces FDNY Order of 184 Additional Ambulances with Idle Mitigation Technology and Fleet Intelligence, Powered by Microsoft Azure"
+    excerpt: "Stealth Power announced that the Fire Department of New York (FDNY) has ordered an additional 184 ambulances with the company’s Vehicle Power System, bringing the total number to 500 by the end of 2021."
+    publishedDateTime: 2021-06-15T12:05:00Z
+    webUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
   - title: "ï»¿ Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
     excerpt: "Cyient, a global engineering and technology solutions company, has announced the launch of Mobius, a software-as-a-service (SaaS)-based solution and decision support platform. Mobiusâ€”hosted on Microsoft Azureâ€”consolidates the outage planning and approval process within a central location to provide improved information flow for optimizing schedule plans."
     publishedDateTime: 2021-06-18T09:46:00Z
@@ -80,6 +126,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "MprwLNfXz6s7Q3O0umjOtPU5TvLGo8rQMwoV2MS3N6IthDFs5EGX0ELr5/bMAwX0/9H6VsSAAENvnpPuuzZBefirJZXETlxidRFTxdc7ua1RPRTyQi3oZ3hHmMrUK6sAR/inylt5btc55BgdgTOoryt3p5hN+ICPGT5PTbVwymjQNhbJVbd2XDbIX6ealt9D6QK8CIjgJcEqvF30BeWhgmGYQENdz5yDo6cIxWRXdGZIEmPBp0iOUWXTklYbNdBNduIb5gVhgwcXNy+B6wl3Cg5dNT0Pm/6In5kariVKsHDeBPpt7o3w3xOB6j1WmrJ+brHWYHUiCRYM5mqB9xjlALLSuw0lBeYO3jrccWcBtQo=;ELYaV9rCMVB/WMyFFwtgYg=="
+secured: "KdolaWfFTHLRCqorVBT2U1wZMSudC+x6YQtiDN/xzM+fwAShhRiZc1Hx2zaMBrkwxQ/eLqnUTi0CDXdd2FKRlt1ivvYwOmmHRAkYvOV13OfCvM89V1jKxPg0IG6a/tZsj6j9LvqmBwDWrBZXfIQUmCgxt8Cz5862rlmYi/x8uPO6aFjKWknLYbhiv40RyaOR4g7kCsq+Fl4nhDmDS3b4Cobr2SRmKqYVpyCwPvcQtjW+Kxe1+RUlUkYTmMyK8mmPTdgVfL+LKblaJPu+M3vB5/ev7cbSjQ2ITuJjKhtUwxM5r6jl+6fl52HMl5FdNUvJKW6OquDrvhwR84KnWIWbFbj7I4KYJmxHtdkcRGJaK6zDSh4pEfBhhNVRlAdWTLhOXIlE8Kbfrlmlj46c7t4vwbvUXD2ZsZ6wukxZtJde4JnhMy9tRKCZ5I4MiaKu7OAxjW5O0zxpsd4PbDxf2T6nRCZy2kubTMxvozwUjTRm5saY8sOmlMBhJhsHAojrSmKKgviIu4M7sFY7BMkareyibg==;uuRbuy9/vLhcDSfYqdGtAQ=="
 ---
 

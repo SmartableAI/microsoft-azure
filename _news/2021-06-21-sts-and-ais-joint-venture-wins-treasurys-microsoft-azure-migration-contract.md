@@ -1,37 +1,30 @@
 ---
 category: news
-title: "Stealth Power Announces FDNY Order of 184 Additional Ambulances with Idle Mitigation Technology and Fleet Intelligence, Powered by Microsoft Azure"
-excerpt: "Stealth Power announced that the Fire Department of New York (FDNY) has ordered an additional 184 ambulances with the company’s Vehicle Power System, bringing the total number to 500 by the end of 2021."
-publishedDateTime: 2021-06-15T12:05:00Z
-originalUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
-webUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
+title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
+excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
+publishedDateTime: 2021-06-21T12:09:00Z
+originalUrl: "https://www.hstoday.us/industry/sts-and-ais-joint-venture-wins-treasurys-microsoft-azure-migration-contract/"
+webUrl: "https://www.hstoday.us/industry/sts-and-ais-joint-venture-wins-treasurys-microsoft-azure-migration-contract/"
 type: article
-quality: 0
-heat: -1
-published: false
+quality: 51
+heat: 211
+published: true
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Homeland Security Today
+  domain: hstoday.us
 
 topics:
   - Azure
+  - Migration
+
+images:
+  - url: "https://www.hstoday.us/wp-content/uploads/2020/01/cloud-computing-4246668_1920.jpg"
+    width: 1920
+    height: 1152
+    isCached: true
 
 related:
-  - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
-    excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
-    publishedDateTime: 2021-06-21T12:09:00Z
-    webUrl: "https://www.hstoday.us/industry/sts-and-ais-joint-venture-wins-treasurys-microsoft-azure-migration-contract/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 51
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/01/cloud-computing-4246668_1920.jpg"
-        width: 1920
-        height: 1152
-        isCached: true
   - title: "HPE expands GreenLake offerings for Microsoft Azure"
     excerpt: "HPE GreenLake now supports Microsoft Azure Stack HCI and SQL Server. The announcement of the new integration came just ahead of the company’s annual HPE Discover conference, held virtually for the second time in a row,"
     publishedDateTime: 2021-06-21T13:30:00Z
@@ -115,6 +108,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Stealth Power Announces FDNY Order of 184 Additional Ambulances with Idle Mitigation Technology and Fleet Intelligence, Powered by Microsoft Azure"
+    excerpt: "Stealth Power announced that the Fire Department of New York (FDNY) has ordered an additional 184 ambulances with the company’s Vehicle Power System, bringing the total number to 500 by the end of 2021."
+    publishedDateTime: 2021-06-15T12:05:00Z
+    webUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
   - title: "ï»¿ Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
     excerpt: "Cyient, a global engineering and technology solutions company, has announced the launch of Mobius, a software-as-a-service (SaaS)-based solution and decision support platform. Mobiusâ€”hosted on Microsoft Azureâ€”consolidates the outage planning and approval process within a central location to provide improved information flow for optimizing schedule plans."
     publishedDateTime: 2021-06-18T09:46:00Z
@@ -125,6 +127,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "mWF6gF8q/k8ofXpf60m3OhtfhH0/lSjfySzpvD7MQj32NFCn5NDADqIap4FhtoaRlj4klM4+aGL2JRPagT/LLOkC8q6TGMLhpn4vWKwwaJnXWGfXGMFRgBCV3BxN2No2iNTlvaH8pTjK0oDEO1xQH7VcWzjjwyxJiU6ZWO3+IJ67kM3hw+q8IEosgsHNF2xrB+WJLfw1fl6pX3PH+/UHFmkOmaitwqYwh0zrMeQal/A6d/jmTjCmebNFvaCt3eDfETWlmkdKK/e1KPc9CDzBQPlutmsksLS7ITWDRst31Nam9n1HeLCyyLJaUbhdqM6LNLuW1TzLCl8S7BoOmeSkY5h9GcHDoYStlE3loRfvMvo=;xBxiIPl6AuOIN9d/1+CbNg=="
+secured: "2taMjOc4/k1oOuv+swIkutM5PtwFU05olqfjdBW9EY15I0NcCvhrt7Nn432jI43J6ODGBSvmYO0rJIqn58WiQ5UyjS2+g3vYXFZ8MADTKDsPXiZNpYY88ai6NsJ4UXK/hY3a7wSFhTjtavwDuN9t2unM2+A3KftOcUdSPV1vGHxEflqoPRpe1jg8LubzGUBTerA+4Fy+lsCcYnvtEBKaJcvhcxh6MgnuarFXzxb7KC1fio6Iw+hzAST1sIO787eeuN2Wx6ygLZsBbla6fl3IyHCNu09Bo1G0HnDe/XsPs1PPfS9Rynf6s0CRXzeJgprggS4Kb4SwzLRMiMexDjMARuXffTJvEyEkjaXQEuFVfqU=;xnhhAjSFx0GZikQO2fDvDQ=="
 ---
 

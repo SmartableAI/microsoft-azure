@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Stealth Power Announces FDNY Order of 184 Additional Ambulances with Idle Mitigation Technology and Fleet Intelligence, Powered by Microsoft Azure"
-excerpt: "Stealth Power announced that the Fire Department of New York (FDNY) has ordered an additional 184 ambulances with the company’s Vehicle Power System, bringing the total number to 500 by the end of 2021."
-publishedDateTime: 2021-06-15T12:05:00Z
-originalUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
-webUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
+title: "HPE expands GreenLake offerings for Microsoft Azure"
+excerpt: "HPE GreenLake now supports Microsoft Azure Stack HCI and SQL Server. The announcement of the new integration came just ahead of the company’s annual HPE Discover conference, held virtually for the second time in a row,"
+publishedDateTime: 2021-06-21T13:30:00Z
+originalUrl: "https://www.cloudpro.co.uk/saas/9123/hpe-expands-greenlake-offerings-for-microsoft-azure"
+webUrl: "https://www.cloudpro.co.uk/saas/9123/hpe-expands-greenlake-offerings-for-microsoft-azure"
 type: article
-quality: 0
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Cloud Pro
+  domain: cloudpro.co.uk
 
 topics:
   - Azure
+
+images:
+  - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/06/antonio_neri_hpe_discover_2019_keynote_greenlake.jpg"
+    width: 800
+    height: 450
+    isCached: true
 
 related:
   - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
@@ -31,20 +37,6 @@ related:
       - url: "https://www.hstoday.us/wp-content/uploads/2020/01/cloud-computing-4246668_1920.jpg"
         width: 1920
         height: 1152
-        isCached: true
-  - title: "HPE expands GreenLake offerings for Microsoft Azure"
-    excerpt: "HPE GreenLake now supports Microsoft Azure Stack HCI and SQL Server. The announcement of the new integration came just ahead of the company’s annual HPE Discover conference, held virtually for the second time in a row,"
-    publishedDateTime: 2021-06-21T13:30:00Z
-    webUrl: "https://www.cloudpro.co.uk/saas/9123/hpe-expands-greenlake-offerings-for-microsoft-azure"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 37
-    images:
-      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/06/antonio_neri_hpe_discover_2019_keynote_greenlake.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
     excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
@@ -115,6 +107,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Stealth Power Announces FDNY Order of 184 Additional Ambulances with Idle Mitigation Technology and Fleet Intelligence, Powered by Microsoft Azure"
+    excerpt: "Stealth Power announced that the Fire Department of New York (FDNY) has ordered an additional 184 ambulances with the company’s Vehicle Power System, bringing the total number to 500 by the end of 2021."
+    publishedDateTime: 2021-06-15T12:05:00Z
+    webUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
   - title: "ï»¿ Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
     excerpt: "Cyient, a global engineering and technology solutions company, has announced the launch of Mobius, a software-as-a-service (SaaS)-based solution and decision support platform. Mobiusâ€”hosted on Microsoft Azureâ€”consolidates the outage planning and approval process within a central location to provide improved information flow for optimizing schedule plans."
     publishedDateTime: 2021-06-18T09:46:00Z
@@ -125,6 +126,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "mWF6gF8q/k8ofXpf60m3OhtfhH0/lSjfySzpvD7MQj32NFCn5NDADqIap4FhtoaRlj4klM4+aGL2JRPagT/LLOkC8q6TGMLhpn4vWKwwaJnXWGfXGMFRgBCV3BxN2No2iNTlvaH8pTjK0oDEO1xQH7VcWzjjwyxJiU6ZWO3+IJ67kM3hw+q8IEosgsHNF2xrB+WJLfw1fl6pX3PH+/UHFmkOmaitwqYwh0zrMeQal/A6d/jmTjCmebNFvaCt3eDfETWlmkdKK/e1KPc9CDzBQPlutmsksLS7ITWDRst31Nam9n1HeLCyyLJaUbhdqM6LNLuW1TzLCl8S7BoOmeSkY5h9GcHDoYStlE3loRfvMvo=;xBxiIPl6AuOIN9d/1+CbNg=="
+secured: "dmeHwTBP2+AGfcdM+aI76JCrQ0UYwXa2O1n4n+HuBBSx9+hhWj6bcs6Pn3LKNhzdoDrmObjm0RMXMPWEUHHq3nh99AWHY4U+vm1vFRTmccM75mdJCuXLejFCCigU414eAbKHXpAiCaNVe/HjJfm8YO6cAFOZSDhbgx8weoDytHtjnDH1i08Qv4JUG5nOftrAOM4gWrjFDr5QBPvQJ0pXZ3CDvOOmgC5QOBEXwMBGGS+FfDsYlhHqW/rmZbNaHA0xryhptnbNDzqzN4pl+EDMjgtKFJ2wGePoyxXHMCq2pfhsbtSz/FkfLrIA86jSilyXqxyaZG6/GgGRhh5J1JMYJ7goTi02dKl5oBBhmivW1do=;ufbYkudTlH/AbmiT/V2yZA=="
 ---
 

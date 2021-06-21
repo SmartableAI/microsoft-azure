@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Stealth Power Announces FDNY Order of 184 Additional Ambulances with Idle Mitigation Technology and Fleet Intelligence, Powered by Microsoft Azure"
-excerpt: "Stealth Power announced that the Fire Department of New York (FDNY) has ordered an additional 184 ambulances with the company’s Vehicle Power System, bringing the total number to 500 by the end of 2021."
-publishedDateTime: 2021-06-15T12:05:00Z
-originalUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
-webUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
+title: "NCC Group adds Microsoft Azure Sentinel to its Managed Detection and Response (MDR) offering"
+excerpt: "Today we’re excited to announce a further development in our collaboration with Microsoft with the addition of Microsoft Azure Sentinel to our"
+publishedDateTime: 2021-06-21T13:45:00Z
+originalUrl: "https://www.mynewsdesk.com/nccgroup/pressreleases/ncc-group-adds-microsoft-azure-sentinel-to-its-managed-detection-and-response-mdr-offering-3111012"
+webUrl: "https://www.mynewsdesk.com/nccgroup/pressreleases/ncc-group-adds-microsoft-azure-sentinel-to-its-managed-detection-and-response-mdr-offering-3111012"
 type: article
-quality: 0
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: mynewsdesk.com
+  domain: mynewsdesk.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/y1xbr1yo8dctprqoqwnw.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
@@ -101,20 +107,15 @@ related:
         width: 450
         height: 375
         isCached: true
-  - title: "NCC Group adds Microsoft Azure Sentinel to its Managed Detection and Response (MDR) offering"
-    excerpt: "Today we’re excited to announce a further development in our collaboration with Microsoft with the addition of Microsoft Azure Sentinel to our"
-    publishedDateTime: 2021-06-21T13:45:00Z
-    webUrl: "https://www.mynewsdesk.com/nccgroup/pressreleases/ncc-group-adds-microsoft-azure-sentinel-to-its-managed-detection-and-response-mdr-offering-3111012"
+  - title: "Stealth Power Announces FDNY Order of 184 Additional Ambulances with Idle Mitigation Technology and Fleet Intelligence, Powered by Microsoft Azure"
+    excerpt: "Stealth Power announced that the Fire Department of New York (FDNY) has ordered an additional 184 ambulances with the company’s Vehicle Power System, bringing the total number to 500 by the end of 2021."
+    publishedDateTime: 2021-06-15T12:05:00Z
+    webUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
     type: article
     provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 26
-    images:
-      - url: "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/y1xbr1yo8dctprqoqwnw.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
   - title: "ï»¿ Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
     excerpt: "Cyient, a global engineering and technology solutions company, has announced the launch of Mobius, a software-as-a-service (SaaS)-based solution and decision support platform. Mobiusâ€”hosted on Microsoft Azureâ€”consolidates the outage planning and approval process within a central location to provide improved information flow for optimizing schedule plans."
     publishedDateTime: 2021-06-18T09:46:00Z
@@ -125,6 +126,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "mWF6gF8q/k8ofXpf60m3OhtfhH0/lSjfySzpvD7MQj32NFCn5NDADqIap4FhtoaRlj4klM4+aGL2JRPagT/LLOkC8q6TGMLhpn4vWKwwaJnXWGfXGMFRgBCV3BxN2No2iNTlvaH8pTjK0oDEO1xQH7VcWzjjwyxJiU6ZWO3+IJ67kM3hw+q8IEosgsHNF2xrB+WJLfw1fl6pX3PH+/UHFmkOmaitwqYwh0zrMeQal/A6d/jmTjCmebNFvaCt3eDfETWlmkdKK/e1KPc9CDzBQPlutmsksLS7ITWDRst31Nam9n1HeLCyyLJaUbhdqM6LNLuW1TzLCl8S7BoOmeSkY5h9GcHDoYStlE3loRfvMvo=;xBxiIPl6AuOIN9d/1+CbNg=="
+secured: "7MMj1fkSU/0sZdTxFo/yaH0zHIKivs7tdj2zWoAUxvJufh2I2mTqFP6Iyg4ERjmLzyTehg31ymdMDFN0oEgQnPISkcKb5YIj9bXuUFmxEFkliF5hBk3tSEvvPR85YpowvfVa+Xp9nLGwNux+uQ+1ndBFNNRX1zV8Snyb4yhLAE7HejaCqp4OAI1z3J3iNALlK8+WPlwZ1Fe8R6GQw5BADD2YHH6ONsGfy/YUD5m0VAHJ2zgoIffj9uQZec4GH58VuatcDSVICX8aypP1HmzdzczZHkEK5LjvdX47UGvaax6czhwbpYD23qcaqlVyMwzSAyXF/ITmRVm2iu6ggymE+jxXh39kYwzgZu7UiwJ/Jbs=;XLphx8UgG67TzCzu/XrEXw=="
 ---
 
