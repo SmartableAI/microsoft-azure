@@ -4,49 +4,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-azure-synapse-analytics.md",
-      "title": "Introduction to Azure Synapse Analytics",
-      "excerpt": "Introduction to Azure Synapse Analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-synapse-analytics/",
-      "length": "PT26M",
-      "ratings": {
-        "count": 257,
-        "average": 4.785992
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-azure-synapse-analytics-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-m365-identity-authentication.md",
       "title": "Strengthen authentication (conditional access) with Azure Active Directory",
       "excerpt": "Learn about modern authentication and the security benefits it provides to your organization, such as enabling multi-factor authentication and a passwordless environment.",
@@ -97,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-cultural-shift/",
       "length": "PT31M",
       "ratings": {
-        "count": 3124,
-        "average": 4.786812
+        "count": 3125,
+        "average": 4.78624
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -312,8 +269,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
       "length": "PT44M",
       "ratings": {
-        "count": 1348,
-        "average": 4.699555
+        "count": 1350,
+        "average": 4.7
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -389,8 +346,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-merge-conflicts-github/",
       "length": "PT52M",
       "ratings": {
-        "count": 387,
-        "average": 4.8294573
+        "count": 388,
+        "average": 4.829897
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -431,8 +388,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/",
       "length": "PT50M",
       "ratings": {
-        "count": 2394,
-        "average": 4.745614
+        "count": 2395,
+        "average": 4.7457204
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -647,8 +604,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/",
       "length": "PT25M",
       "ratings": {
-        "count": 1731,
-        "average": 4.7440786
+        "count": 1732,
+        "average": 4.7442265
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1265,6 +1222,49 @@
       "topics": [
         "Azure",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-resolve-windows-10-upgrade-errors.md",
+      "title": "Resolve Windows 10 upgrade errors",
+      "excerpt": "Resolve Windows 10 upgrade errors",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-resolve-windows-10-upgrade-errors/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-windows-10-upgrade-errors/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 3,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
       ]
     }
   ],
