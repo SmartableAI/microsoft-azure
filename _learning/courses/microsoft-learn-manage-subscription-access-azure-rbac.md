@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT21M
 ratings:
-  count: 12675
-  average: 4.764497
+  count: 12676
+  average: 4.7644367
 heat: 58
 
 provider:

@@ -4,7 +4,7 @@ excerpt: "Get Started Querying with Transact-SQL"
 type: collection
 price: Free
 length: PT5H40M
-heat: 61
+heat: 63
 
 provider:
   name: Microsoft Learn
