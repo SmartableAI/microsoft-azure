@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Key Vault Managed HSM is generally available"
+    excerpt: "Azure Key Vault Managed HSM (hardware security module) is now generally available. Managed HSM offers a fully managed, highly available, single-tenant, high-throughput, standards-compliant cloud service to safeguard cryptographic keys for your cloud applications, using FIPS 140-2 Level 3 validated HSMs.\n"
+    publishedDateTime: 2021-06-21T18:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/akv-managed-hsm-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "Vx0wSYHHVaGhIeWnS4acIOEOlUxmsYztd91p0Js06x9T2rTiEh2esjZx8ejePN00eM3A0hB2RDOq7ldb9DaKRdnZejGbsPNxzm1AoDaepG8PqW8W6gltYf46b83bCWxA4vAL3aNptcre0ji9YiODkNo1BiX2qadrB+U6ofTcZg/mWSkI5ipoeJvhCDkbAlJ4BGT4kvqZAr579zW26FKb1vbcn93pXGoYVVD/HDcG4fryPOn2qaDD9yWjPpwvUBNmYUJIoGOhhLqcbosJnykBMhBnInMcWJqMKxQRgUuJ3i25iiZIhTcn6njk1KCuQy6rh3BtzE0fJeff91E+jwQrSg0cU90uc5Qn0Pz0LmhPgu8=;AHuN7tT/thwS2r5W72pY+A=="
 ---

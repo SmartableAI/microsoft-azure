@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/akv-managed-hsm-public-p
 webUrl: "https://azure.microsoft.com/en-us/updates/akv-managed-hsm-public-preview/"
 type: article
 quality: 84
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Security
 
 related:
+  - title: "Azure Key Vault Managed HSM is generally available"
+    excerpt: "Azure Key Vault Managed HSM (hardware security module) is now generally available. Managed HSM offers a fully managed, highly available, single-tenant, high-throughput, standards-compliant cloud service to safeguard cryptographic keys for your cloud applications, using FIPS 140-2 Level 3 validated HSMs.\n"
+    publishedDateTime: 2021-06-21T18:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/akv-managed-hsm-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Announcing the public preview of Azure Automanage"
     excerpt: "A new approach to managing Windows Server virtual machines in Azure."
     publishedDateTime: 2020-09-22T16:05:29Z

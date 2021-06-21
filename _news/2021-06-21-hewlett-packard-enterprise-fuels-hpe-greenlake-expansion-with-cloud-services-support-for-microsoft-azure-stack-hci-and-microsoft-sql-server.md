@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Hewlett Packard Enterprise Fuels HPE GreenLake Expansion with Cloud Services Support for Microsoft Azure Stack HCI and Microsoft SQL Server"
-excerpt: "Hewlett Packard Enterprise (NYSE: HPE) today announced the expansion of its HPE GreenLake edge to cloud platform to include support for Microsoft (News - Alert) Azure Stack HCI and Microsoft SQL Server."
-publishedDateTime: 2021-06-21T12:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393915.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393915.htm"
+excerpt: "Hewlett Packard Enterprise today announced the expansion of its HPE GreenLake edge to cloud platform to include support for Microsoft Azure Stack HCI and Microsoft SQL Server. The new HPE GreenLake cloud services deliver the agility and flexibility organizations are looking for in a scalable,"
+publishedDateTime: 2021-06-21T12:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/hewlett-packard-enterprise-fuels-hpe-greenlake-expansion-with-cloud-services-support"
+webUrl: "https://www.nasdaq.com/press-release/hewlett-packard-enterprise-fuels-hpe-greenlake-expansion-with-cloud-services-support"
 type: article
-quality: 0
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
@@ -33,6 +33,6 @@ related:
         height: 445
         isCached: true
 
-secured: "vPdSqTD1jJy+ZdT34eWeh2LV0Jy4eJ6ESsVhS4raaO8VDk8uAr5i8IqGVYyale+tiNz5zEEA64y2c4iy2fKswS8egKXqPS7x8lM2GTAUxIkUxsWiHtA6ZqijahJVw+TuuBtIdFrClYNKAqH0vFWjbg9yNwXtNfxC/Ca1UU00/ZTbyzdCH92Urr2ECey17kaHzdV5SXfqo8b9GYNpARqYKo84jFCPiixyfyCrmZmp+1m0Pyv1CwVM3GkLD3KmLdvcEysXUUpl3EK5R7wLyT+Q27M/vGkwD3SLnuAVrxd1BlTxoHfaaLk8YMpAPVgpTdhRF7js2rcXF5cq41H8B515i7iDrFdxTbPG5DIKuF4+kKs=;vJcXAp3Sqn235RCn70/qZg=="
+secured: "nhDX1jRs+zmqCo5CN1oCtUICPQb4dx6S1OU1IdFKr4HoGECK/2qI9QbOvVCf+HnT6EG7RMDQwFRU6lAAzSuDMtwPaNyLR6LgXjqxY6uRRjc5psMGnBYnWNGn3M1VwTpInwBswIxkAge9f6LrL7oN3lPXOkSxXO33eb9r/VNKtu/FWe9CMIQGQhzmlapEo4zDNhPCOpVL5Da7hpwjq42v4bOyKERotVmPCkzAuOdYU+PyortGh3C/XGzzDctHdAyAixZp6s75GVi2Klq1krJickK/VffkNsJxJOhVexzsx9MJVeMQjDQT7YMKDMDWCPTQPPhfMaC/tul8XhFtJucD0yj0r0TlOVUg9ODuEDzBA1k=;5X4kCh+oXj9X4jq9gE/YzA=="
 ---
 
