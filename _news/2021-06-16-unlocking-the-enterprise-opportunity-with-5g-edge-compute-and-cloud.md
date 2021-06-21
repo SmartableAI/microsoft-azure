@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/unlocking-the-enterprise-opportun
 webUrl: "https://azure.microsoft.com/blog/unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud/"
 type: article
 quality: 78
-heat: 79
+heat: 78
 published: true
 
 provider:
