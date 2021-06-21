@@ -4,49 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-connect-vm-with-azure-bastion.md",
-      "title": "Connect to virtual machines through the Azure portal by using Azure Bastion",
-      "excerpt": "Learn how to deploy Azure Bastion to securely connect to Azure Virtual Machines directly within the Azure portal.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-vm-with-azure-bastion/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-vm-with-azure-bastion/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 1668,
-        "average": 4.7595925
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/connect-vm-with-azure-bastion-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-describe-identity-protection-governance-capabilities-of-azure-ad.md",
       "title": "Describe the identity protection and governance capabilities of Azure AD",
       "excerpt": "Describe the identity protection and governance capabilities of Azure AD",
@@ -140,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "PT28M",
       "ratings": {
-        "count": 6843,
-        "average": 4.703785
+        "count": 6844,
+        "average": 4.7038283
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -182,8 +139,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
       "length": "PT30M",
       "ratings": {
-        "count": 244,
-        "average": 4.8237705
+        "count": 245,
+        "average": 4.8244896
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -497,8 +454,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
       "length": "PT48M",
       "ratings": {
-        "count": 6851,
-        "average": 4.715808
+        "count": 6852,
+        "average": 4.7158494
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -841,8 +798,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 2091,
-        "average": 4.639407
+        "count": 2092,
+        "average": 4.638623
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1016,8 +973,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 3259,
-        "average": 4.671985
+        "count": 3260,
+        "average": 4.672086
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1059,8 +1016,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 5136,
-        "average": 4.641939
+        "count": 5137,
+        "average": 4.642009
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1181,8 +1138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 5067,
-        "average": 4.7298203
+        "count": 5068,
+        "average": 4.7298737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1250,6 +1207,50 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-incident-response-with-alerting-on-azure.md",
+      "title": "Improve incident response with alerting on Azure",
+      "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-incident-response-with-alerting-on-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 2904,
+        "average": 4.6828513
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools"
       ]
     }
   ],
