@@ -8,7 +8,7 @@ length: PT1H24M
 ratings:
   count: 385
   average: 4.742857
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 325
     isCached: true
 
-secured: "jl6qfZLgrPHA9vq+s33B7u6LQWLjsD1DJu/txjsHTJ4De9CEN5gU1WsIlYqtytrKTJmwy2cHzbUnbTdBwEVy691BxRTaiCpjh6x6BriFpx6qnk0pGy+Gu2ZxCjg/09Qd0bGxIZay+XRSI1Usat9PoTfasZtvRuwb9IiPIVJL2yM0W7gA5yEu7uk7OGN5xdvlm5+eh1kOb5SjP3TSsooog8KuL8f7FwTn7ypcPxZtRQWlD1uZdkYjjaejsFGeVOQP/NGt7JCDWLpyzxTLKI+s5bvyMFlntY+DuyNAb2XPrloheZpiOCD4Q2dzQFsNe5a46QANv7OxQo99t84XRmooINqIuM5qMt1HZdDMrbnU7aLrFEyf9MQXVgfEUgs01sgRYUhKXr5MUMFOKvnkArUSLkQdcNFNBgCJLdqN8x4VAtA=;0vN1UqsmU5BpebPE9zHoYg=="
+secured: "4nAkGmu1LbPNTCzhCJ+MKbdt6RhxT6/hc9JoG8aibCg/gbUkWRqu5p/yGmM93Q+x8xo/2aYTvvNcfKJd/F3ox3GIgVRQwRUGFK3YqfRfs+J6ABfoTn/2AuvEGiMyrBKrr5fTsqKsS7depye+TOXInnZJLoIjcEM1lCluOP6z7mPTCKiDNrSC0R8/J1kXoFSU/VyNTXBj/aZbnFOrsLoxXq6yC8E7hnF1r3FYUAI+0hfSg25ywAS0RECj90EGpKxcgRv9y9jdmei316K/N7U4o+AfvSub8vqsIggHDpaEV+DwHPd84a2zjgEWDLMHJ8D/J8rvlrwKKU5AEd/+HPf4TezJ/CIQJfV57s6Gevsb2sq83zWxJeZWi6pNlYRBgw/LJGmD+qGVaOL4jucl3FvEOt/Cqb8dTBBR0z2eYVdajAw=;MgHAOuMT77r6bHYiAAUdRA=="
 ---
 
