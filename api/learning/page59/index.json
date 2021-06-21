@@ -4,14 +4,14 @@
   "page": 59,
   "value": [
     {
-      "path": "_learning/videos/microsoft-introducing-azure-confidential-computing.md",
-      "title": "Introducing Azure confidential computing",
-      "excerpt": "Azure confidential computing allows you to take the security of your applications to the next level by protecting data while being processed.   Learn more: https://aka.ms/azurecc",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-introducing-azure-confidential-computing/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-introducing-azure-confidential-computing/",
-      "originalUrl": "https://youtube.com/watch?v=rT6zMOoLEqI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rT6zMOoLEqI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M1S",
+      "path": "_learning/videos/microsoft-interning-in-azure-engineering-and-the-visual-studio-code-extension-for-acr-build-azure-friday.md",
+      "title": "Interning in Azure Engineering and the Visual Studio Code extension for ACR Build | Azure Friday",
+      "excerpt": "What is it like to intern at Microsoft? Scott Hanselman meets with three interns from the Microsoft Explorer Program (a cross-discipline internship designed for college freshmen and sophomores) to talk about their experience working on the Azure Container Registry and their contribution of ACR Build",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-interning-in-azure-engineering-and-the-visual-studio-code-extension-for-acr-build-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-interning-in-azure-engineering-and-the-visual-studio-code-extension-for-acr-build-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=JNd-3nNaePg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JNd-3nNaePg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M23S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -24,11 +24,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-27T09:00:07-07:00",
+      "publishedDateTime": "2019-02-27T16:59:04-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/rT6zMOoLEqI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/JNd-3nNaePg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -39,7 +39,46 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Security"
+        "Developer tools"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-intro-to-rudr-a-kubernetes-implementation-of-the-open-application-model-azure-friday.md",
+      "title": "Intro to Rudr: A Kubernetes Implementation of the Open Application Model | Azure Friday",
+      "excerpt": "Curious to see the Open Application Model (OAM) in action? Look no further than Rudr - the Kubernetes reference implementation of OAM. In this episode, Mackenzie Olson and Sudhanva Huruli join Donovan Brown to demo how Rudr provides clear separation of concerns for DevOps practices for application developers,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-intro-to-rudr-a-kubernetes-implementation-of-the-open-application-model-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-intro-to-rudr-a-kubernetes-implementation-of-the-open-application-model-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=3xykOuZ9960",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3xykOuZ9960\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M12S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-06T22:36:28-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3xykOuZ9960/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
       ]
     },
     {
@@ -1085,46 +1124,6 @@
         "Azure",
         "Security",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday.md",
-      "title": "Operational best practices for web apps on Azure App Service | Azure Friday",
-      "excerpt": "Azure App Service hosts millions of apps, serves trillions of requests per day, and has an SLA of 99.95%. But what should you do when your app has issues in production? Byron Tardif joins Scott Hanselman to discuss some operational best practices for running your web apps on Azure App Service.  0:00",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=JAqoLC2dv-M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JAqoLC2dv-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-05T17:09:42-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JAqoLC2dv-M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
       ]
     },
     {
