@@ -25,6 +25,24 @@ images:
     height: 540
     isCached: true
 
+related:
+  - title: "Microsoft cloud regions mark two-year milestone of empowering ambitious Middle East organizations"
+    excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyper-scale Cloud in the country and the Middle East,"
+    publishedDateTime: 2021-06-21T06:43:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Microsoft_cloud_regions_mark_twoyear_milestone_of_empowering_ambitious_Middle_East_organizations-ZAWYA20210621055741/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210621055741/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210621055741/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 29
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/SayedHashishGMMSUAE_2021_06_21.jpg"
+        width: 450
+        height: 375
+        isCached: true
+
 secured: "VOewHBwsNrncapidEV6hpXSJFDYAO+kjx0vDDX70qQhcQLql8TfUV/FkeJAFS0oSliDwnlWn8mHWnlKeyhG7k9/45CMNuu60ZRmgOXvGXy+MOWPyUYjpzIo6c5AwrRfzA1LjhQC0Ilw2yvgh1zwzUas62t23Zwfj6V4vcwm4lIdxl85ch4wqIJX2VQnHYKjt+iUf8qi67GpsMR3aguQ+9bMcJ4xbWn4+c1Q3yY8hGBMc6ddEsvIpwSvG7yxQ13+iGm4INLVef57CcoJq1+8x5JVMT/Fx9Vl1rbBBhNsl2MG65ue3LS/G4irmcMW8jwp/1ke2rEERAt42X2DLuguAQTbrLgsFtqwsB1VC1xYP6g4j3eijcQaS/LZNlzbdOHWrbtRLgVd/wRSeYSnSk7oovM1qKa0xWbO48JvXc6IaYDOZZIzjnO7TLt9aKB1SSaAgNI89LS00TVfLTHN5alsEKZz0cCNRPmGh2SIKdpyg7SIok2W7Zg7IZt/HOUQ2teqBYVffhaGROeI3f6yORnapaA==;l369LCV4Up4jbSrMXut+Wg=="
 ---
 

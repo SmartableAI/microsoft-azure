@@ -1,21 +1,27 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-publishedDateTime: 2021-06-16T18:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+excerpt: "SEATTLE, June 16, 2021 /CNW/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a ..."
+publishedDateTime: 2021-06-16T18:37:00Z
+originalUrl: "https://www.goskagit.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_24eb5b6c-65dd-5f2c-bbfd-574140671390.html"
+webUrl: "https://www.goskagit.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_24eb5b6c-65dd-5f2c-bbfd-574140671390.html"
 type: article
-quality: 2
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Skagit Valley Herald
+  domain: goskagit.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/e1586314-89a9-11e7-be8f-ef31f934c462.png"
+    width: 1024
+    height: 500
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -95,6 +101,20 @@ related:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of"
+    publishedDateTime: 2021-06-15T11:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
     excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
@@ -333,20 +353,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
         width: 1616
         height: 846
-        isCached: true
-  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Ardenna's Rail-Inspector is a SaaS offering, only available on Azure. \"Through the Microsoft Azure Marketplace, Rail-Inspector will have a broader exposure to domestic and international railroad ..."
-    publishedDateTime: 2021-06-15T11:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-301310454.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg?p=facebook"
-        width: 1499
-        height: 785
         isCached: true
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
@@ -600,6 +606,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "Hfr3FDlEoahQ9xAjUI/SL/6g1kYRiNlSyV0dmdLOBJQqdhnspC2hkQWlEa46zaxaFRIP2Bl/0WdgcwnmisDgfFPCimSmu81TSnGX9ffolCWc/UiEJagN61nrXNCUdZAFO2lZDDp7hP/Lt8VZyXMnh1BBwsaALnUCViSDx65boBY4RpmjjpUcDtO373zrmO7JkO1k68NVZGinrbstdbCd1FH16/udxV8nPB+zmQPv8vXCTY+ZX0n2KIkSYRQRgO38dX8qRbDJmdfzHGCX5jYQF7DSZFMqhlqs05/EhPyKXh60dO1+XgNQBnn45Gn0ML0AGj3vR8/nyVuKcNuMXDlwjW6sBU6Pvp+mNyMfk+YzFwA=;kJBeDSS1YfMNueVmrmfX1Q=="
+secured: "7Vp+rlfzPmBVr+Draya46XHXzCNaB/QVVxoNWJTAJZSzXkjOBd3PzLZEQ+/Dt2cuW4Q51nu3W4hIEU1yKdsH2Q7xGhcsofCet1cuFHBezEqI0pSq79zBs20xs1FDwXJo+LRwdl/1a0/ySoiLNBqM/HH+7utkWxOhRjNjs6w7Oie+K+G75OwF4Y7mr+/CfbOJHhR+O0T1/gfq8JyfhGjpQKm/3H7Iut7oWTCwV5eCO6cCR8LQ+k/VXtThr5lqHlLba2gPIhLIoS83zbJpQRxDVPW9cUEupXOooR+l2MHid1OIVlBIaoegjR4nVIqHfXgBcgU0PHYCqIFGeGN35bF4LV+7uEhpMdADV/yCtlxUF14=;enfeWBwPY1P1qqxdPYQlDQ=="
 ---
 
