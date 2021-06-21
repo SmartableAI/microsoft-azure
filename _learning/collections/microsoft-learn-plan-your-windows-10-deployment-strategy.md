@@ -4,7 +4,7 @@ excerpt: "Plan your Windows 10 deployment strategy"
 type: collection
 price: Free
 length: PT2H41M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
