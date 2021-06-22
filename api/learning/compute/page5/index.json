@@ -4,49 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-build-webapp-java-tomcat.md",
-      "title": "Deploy a Java web app to Azure",
-      "excerpt": "You'll learn how to create a Java web application and deploy it to Azure App Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-webapp-java-tomcat/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-java-webapp-to-app-service-linux/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 39,
-        "average": 4.6666665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-caching-and-performance-azure-storage-and-disks.md",
       "title": "Caching and performance in Azure storage disks",
       "excerpt": "Learn about Azure VM disk performance and how to enable caching to help optimize read and write access to storage.",
@@ -54,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/caching-and-performance-azure-storage-and-disks/",
       "length": "PT44M",
       "ratings": {
-        "count": 2067,
-        "average": 4.7015
+        "count": 2068,
+        "average": 4.7011604
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -434,8 +391,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-enrichment-pipeline-azure-cognitive-search/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 65,
-        "average": 4.7384615
+        "count": 66,
+        "average": 4.742424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1306,6 +1263,51 @@
       "topics": [
         "Azure",
         "Management Tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-implement-hybrid-file-server-infrastructure.md",
+      "title": "Implement a hybrid file server infrastructure",
+      "excerpt": "In this module, you’ll learn to deploy Azure File Sync, migrate from DFS, and use Storage Migration Services to migrate file servers to Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-hybrid-file-server-infrastructure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-file-server-infrastructure/",
+      "length": "PT1H32M",
+      "ratings": {
+        "count": 33,
+        "average": 4.787879
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/implement-a-hybrid-file-server-infrastructure-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Storage",
         "Compute"
       ]
     }

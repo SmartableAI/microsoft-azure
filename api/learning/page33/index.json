@@ -4,6 +4,92 @@
   "page": 33,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-cosmos-db-java-app.md",
+      "title": "Build a Java app for Azure Cosmos DB",
+      "excerpt": "Learn how to create a Java application to store and query data in Azure Cosmos DB",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cosmos-db-java-app/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cosmos-db-java-app/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 26,
+        "average": 4.8846154
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cosmos-db-java-app-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-an-app-to-run-parallel-compute-jobs-in-azure-batch.md",
+      "title": "Create an app to run parallel compute jobs in Azure Batch",
+      "excerpt": "Learn to use the Azure Batch platform to write a .NET Core console app that performs parallel, large-scale, high-performance video transcoding.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-an-app-to-run-parallel-compute-jobs-in-azure-batch/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-app-to-run-parallel-compute-jobs-in-azure-batch/",
+      "length": "PT1H13M",
+      "ratings": {
+        "count": 113,
+        "average": 4.5840707
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-an-app-to-run-parallel-compute-jobs-in-azure-batch-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-and-connect-to-azure-database-postgresql.md",
       "title": "Create and connect to an Azure Database for PostgreSQL",
       "excerpt": "Azure Database for PostgreSQL is a fully managed relational database solution. Learn how - and when - to use it. You’ll review different configurations and features, create and develop a database, and query it from an ASP.NET app.",
@@ -54,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-cognitive-search-solution/",
       "length": "PT46M",
       "ratings": {
-        "count": 83,
-        "average": 4.759036
+        "count": 85,
+        "average": 4.7647057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -187,8 +273,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-bot-with-bot-framework-composer/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 112,
-        "average": 4.758929
+        "count": 113,
+        "average": 4.761062
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -483,8 +569,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-enrichment-pipeline-azure-cognitive-search/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 65,
-        "average": 4.7384615
+        "count": 66,
+        "average": 4.742424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -700,8 +786,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-knowledge-store-azure-cognitive-search/",
       "length": "PT48M",
       "ratings": {
-        "count": 74,
-        "average": 4.810811
+        "count": 75,
+        "average": 4.8133335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1200,90 +1286,6 @@
       "topics": [
         "Azure",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-web-app-with-refreshable-models.md",
-      "title": "Build a Web App with Refreshable Machine Learning Models",
-      "excerpt": "Build a web app powered by machine learning models trained using Custom Vision AI service, and learn how to refresh them with GitHub Actions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-web-app-with-refreshable-models/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-web-app-with-refreshable-models/",
-      "length": "PT1H22M",
-      "ratings": {
-        "count": 36,
-        "average": 4.361111
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Web",
-        "Compute",
-        "Containers",
-        "Mobile"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-your-first-app-with-azure-maps.md",
-      "title": "Create your first route finding app with Azure Maps",
-      "excerpt": "Learn about writing code to interact with Azure Maps. Develop and test a fun app using JavaScript and Visual Studio Code to find the best route for a truck, car, or bicycle. The route is from the west coast of the USA, to the east coast. You will see how routes change based on vehicle. And, for trucks, how routes vary if the contents are hazardous. You will get the chance to add in your own locations.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-your-first-app-with-azure-maps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-app-with-azure-maps/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 23,
-        "average": 4.7826085
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/create-your-first-app-with-azure-maps-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Mobile",
-        "Web"
       ]
     }
   ],

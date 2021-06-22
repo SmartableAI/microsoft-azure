@@ -4,6 +4,91 @@
   "page": 44,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-migrate-onpremises-workloads-azure.md",
+      "title": "Migrate on-premises workloads to Azure",
+      "excerpt": "Migrate on-premises workloads to Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-onpremises-workloads-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-workloads-azure/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 318,
+        "average": 4.6855345
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/migrate-onpremises-workloads-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-migrate-premises-mongodb-databases-azure-database-mongodb.md",
+      "title": "Migrate on-premises MongoDB databases to Cosmos DB",
+      "excerpt": "Migrate MongoDB workloads to Cosmos DB",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-premises-mongodb-databases-azure-database-mongodb/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-mongodb-databases-azure-database-mongodb/",
+      "length": "PT19M",
+      "ratings": {
+        "count": 81,
+        "average": 4.814815
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-mongodb-databases-to-cosmos-db-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-migrate-premises-mysql-databases-azure-database-mysql.md",
       "title": "Migrate on-premises MySQL databases to Azure Database for MySQL",
       "excerpt": "&quot;Migrate on-premises MySQL to Azure Database for MySQL&quot;",
@@ -425,49 +510,6 @@
         "Azure",
         "Compute",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-modify-data-with-transact-sql.md",
-      "title": "Modify data with T-SQL",
-      "excerpt": "Modify data with T-SQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-modify-data-with-transact-sql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modify-data-with-transact-sql/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 51,
-        "average": 4.901961
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     },
     {
@@ -1221,49 +1263,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-perform-zero-etl-analytics-hdinsight-interactive-query.md",
-      "title": "Perform Zero ETL analytics with HDInsight Interactive Query",
-      "excerpt": "Perform Zero ETL analytics with HDInsight Interactive Query",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-zero-etl-analytics-hdinsight-interactive-query/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-zero-etl-analytics-hdinsight-interactive-query/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 115,
-        "average": 4.6434784
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/perform-zero-etl-analytics-with-hdinsights-interactive-query-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     }
   ],

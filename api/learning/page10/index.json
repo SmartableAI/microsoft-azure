@@ -4,6 +4,175 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-azure-data-fundamentals-explore-modern-data-warehouse-analytics-in-azure.md",
+      "title": "Azure Data Fundamentals: Explore modern data warehouse analytics in Azure",
+      "excerpt": "Azure Data Fundamentals: Explore modern data warehouse analytics in Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-data-fundamentals-explore-modern-data-warehouse-analytics-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-data-fundamentals-explore-modern-data-warehouse-analytics-in-azure/",
+      "length": "PT1H58M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-examine-components-of-modern-data-warehouse.md",
+          "title": "Examine components of a modern data warehouse",
+          "excerpt": "Examine components of a modern data warehouse",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-examine-components-of-modern-data-warehouse/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 2273,
+            "average": 4.790585
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 61,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/examine-components-of-modern-data-warehouse-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-explore-data-ingestion-azure.md",
+          "title": "Explore data ingestion in Azure",
+          "excerpt": "Explore data ingestion in Azure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-data-ingestion-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
+          "length": "PT23M",
+          "ratings": {
+            "count": 1680,
+            "average": 4.7803574
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-data-ingestion-azure-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-explore-data-storage-processing-azure.md",
+          "title": "Explore data storage and processing in Azure",
+          "excerpt": "Explore data storage and processing in Azure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-data-storage-processing-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 1771,
+            "average": 4.7295313
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-data-storage-processing-azure-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/examine-components-of-modern-data-warehouse-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines.md",
       "title": "Add and size disks in Azure virtual machines",
       "excerpt": "Learn about your virtual machine storage options and how to choose between standard and premium, managed and unmanaged disks for your Azure virtual machine.",
@@ -47,8 +216,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 1472,
-        "average": 4.7466035
+        "count": 1473,
+        "average": 4.746775
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -127,8 +296,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
       "length": "PT55M",
       "ratings": {
-        "count": 2723,
-        "average": 4.705472
+        "count": 2724,
+        "average": 4.704846
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -170,8 +339,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 3964,
-        "average": 4.5486884
+        "count": 3966,
+        "average": 4.5479074
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -208,8 +377,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 6415,
-        "average": 4.635542
+        "count": 6416,
+        "average": 4.6354427
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -295,8 +464,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 8240,
-        "average": 4.7319174
+        "count": 8241,
+        "average": 4.73195
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -330,8 +499,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 3161,
-        "average": 4.70832
+        "count": 3164,
+        "average": 4.7082806
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -373,8 +542,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/",
       "length": "PT24M",
       "ratings": {
-        "count": 1348,
-        "average": 4.7062316
+        "count": 1349,
+        "average": 4.706449
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -416,8 +585,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 7110,
-        "average": 4.6842475
+        "count": 7112,
+        "average": 4.684336
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -593,8 +762,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 6860,
-            "average": 4.70379
+            "count": 6861,
+            "average": 4.703833
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -678,8 +847,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 6467,
-            "average": 4.73589
+            "count": 6469,
+            "average": 4.7359715
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -860,8 +1029,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
       "length": "PT31M",
       "ratings": {
-        "count": 3495,
-        "average": 4.744492
+        "count": 3497,
+        "average": 4.7446384
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -903,8 +1072,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
       "length": "PT36M",
       "ratings": {
-        "count": 6501,
-        "average": 4.7369637
+        "count": 6502,
+        "average": 4.737004
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1069,8 +1238,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 3657,
-        "average": 4.743779
+        "count": 3661,
+        "average": 4.743786
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1113,8 +1282,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
       "length": "PT34M",
       "ratings": {
-        "count": 6015,
-        "average": 4.7710724
+        "count": 6018,
+        "average": 4.7710204
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1183,8 +1352,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 3555,
-        "average": 4.724332
+        "count": 3556,
+        "average": 4.7244096
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1225,8 +1394,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "PT25M",
       "ratings": {
-        "count": 6467,
-        "average": 4.73589
+        "count": 6469,
+        "average": 4.7359715
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1355,8 +1524,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 2766,
-        "average": 4.63449
+        "count": 2767,
+        "average": 4.634622
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1390,48 +1559,6 @@
         "DevOps",
         "Management Tools",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-enable-digital-transformation.md",
-      "title": "Enabling digital transformation",
-      "excerpt": "Digital transformation is a wave of business innovation fueled by the explosion of technology—data, applications, and devices are everywhere. The cloud, artificial intelligence (AI), and the internet of things (IoT) give organizations new ways to make sense of information and generate insights to transform their business. Realizing the benefits of digital transformation requires business leaders to look beyond technology to reimagine existing business models and embrace a different way of bringing together people, data, and processes to create value for customers.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-digital-transformation/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 9923,
-        "average": 4.6978736
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

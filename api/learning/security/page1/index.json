@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-explore-reporting-microsoft-365-security-services.md",
-      "title": "Explore reporting in the Microsoft 365 security services",
-      "excerpt": "Explore reporting in the Microsoft 365 security services",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-reporting-microsoft-365-security-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-reporting-microsoft-365-security-services/",
-      "length": "PT37M",
+      "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
+      "title": "Top 5 security items to consider before pushing to production",
+      "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-top-5-security-items-to-consider/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
+      "length": "PT45M",
       "ratings": {
-        "count": 10,
-        "average": 4.8
+        "count": 7897,
+        "average": 4.6748133
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,21 +29,12 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
+      "heat": 139,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Identity",
         "Security"
       ]
     },
@@ -79,8 +70,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 11573,
-            "average": 4.7666984
+            "count": 11583,
+            "average": 4.766468
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +113,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 1977,
-            "average": 4.7612543
+            "count": 1983,
+            "average": 4.7619767
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +156,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 42972,
-            "average": 4.719096
+            "count": 42974,
+            "average": 4.719109
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -200,8 +191,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 7110,
-            "average": 4.6842475
+            "count": 7112,
+            "average": 4.684336
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -249,6 +240,216 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-secure-your-cloud-data.md",
+      "title": "Secure your cloud data",
+      "excerpt": "This learning path helps you leverage the built-in Azure services for securing app data, ensuring that only authorized services and clients have access.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-secure-your-cloud-data/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-secure-your-cloud-data/",
+      "length": "PT5H38M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-protect-against-security-threats-azure.md",
+          "title": "Protect against security threats on Azure",
+          "excerpt": "Learn how Azure can help you protect the workloads that you run both in the cloud and in your on-premises datacenter.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-against-security-threats-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
+          "length": "PT23M",
+          "ratings": {
+            "count": 11583,
+            "average": 4.766468
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 91,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
+          "title": "Top 5 security items to consider before pushing to production",
+          "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-top-5-security-items-to-consider/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 7897,
+            "average": 4.6748133
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 139,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
+          "title": "Configure security policies to manage data",
+          "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-security-policies-to-manage-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 2377,
+            "average": 4.6171646
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
+          "title": "Secure your Azure Storage account",
+          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 10723,
+            "average": 4.6777954
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        }
+      ],
+      "size": 7,
+      "heat": 109,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security",
+        "Storage",
+        "Databases",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-4-describe-general-security-and-network-security-features.md",
       "title": "Azure Fundamentals part 4: Describe general security and network security features",
       "excerpt": "Learn about the various Azure services you can use to help ensure that your cloud resources are safe, secure, and trusted.",
@@ -279,8 +480,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 11573,
-            "average": 4.7666984
+            "count": 11583,
+            "average": 4.766468
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -322,8 +523,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 8419,
-            "average": 4.7821593
+            "count": 8434,
+            "average": 4.7824283
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -383,8 +584,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 11573,
-        "average": 4.7666984
+        "count": 11583,
+        "average": 4.766468
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -452,216 +653,6 @@
         "Azure",
         "Identity",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-secure-your-cloud-data.md",
-      "title": "Secure your cloud data",
-      "excerpt": "This learning path helps you leverage the built-in Azure services for securing app data, ensuring that only authorized services and clients have access.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-secure-your-cloud-data/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-secure-your-cloud-data/",
-      "length": "PT5H38M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-protect-against-security-threats-azure.md",
-          "title": "Protect against security threats on Azure",
-          "excerpt": "Learn how Azure can help you protect the workloads that you run both in the cloud and in your on-premises datacenter.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-against-security-threats-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
-          "length": "PT23M",
-          "ratings": {
-            "count": 11573,
-            "average": 4.7666984
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 91,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
-          "title": "Top 5 security items to consider before pushing to production",
-          "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-top-5-security-items-to-consider/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 7897,
-            "average": 4.6748133
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 59,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
-          "title": "Configure security policies to manage data",
-          "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-security-policies-to-manage-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 2377,
-            "average": 4.6171646
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
-          "title": "Secure your Azure Storage account",
-          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 10722,
-            "average": 4.6777654
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 70,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security",
-        "Storage",
-        "Databases",
-        "Analytics"
       ]
     },
     {
@@ -740,8 +731,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3264,
-            "average": 4.6721816
+            "count": 3265,
+            "average": 4.6722817
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -783,8 +774,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 10509,
-            "average": 4.6999717
+            "count": 10511,
+            "average": 4.7000284
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -906,8 +897,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 3161,
-            "average": 4.70832
+            "count": 3164,
+            "average": 4.7082806
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -949,8 +940,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 5797,
-            "average": 4.744868
+            "count": 5799,
+            "average": 4.744956
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1124,8 +1115,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2723,
-            "average": 4.705472
+            "count": 2724,
+            "average": 4.704846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1167,8 +1158,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 42972,
-            "average": 4.719096
+            "count": 42974,
+            "average": 4.719109
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1246,8 +1237,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 1065,
-            "average": 4.748357
+            "count": 1066,
+            "average": 4.748593
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1411,7 +1402,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 59,
+          "heat": 139,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1428,8 +1419,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3264,
-            "average": 4.6721816
+            "count": 3265,
+            "average": 4.6722817
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1555,8 +1546,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 8419,
-            "average": 4.7821593
+            "count": 8434,
+            "average": 4.7824283
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1597,8 +1588,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 8737,
-            "average": 4.658006
+            "count": 8738,
+            "average": 4.6580453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1633,8 +1624,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 9117,
-            "average": 4.669628
+            "count": 9120,
+            "average": 4.669737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1677,8 +1668,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
           "length": "PT1H17M",
           "ratings": {
-            "count": 1312,
-            "average": 4.644817
+            "count": 1313,
+            "average": 4.6450877
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1807,8 +1798,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3609,
-            "average": 4.693267
+            "count": 3611,
+            "average": 4.6934366
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1881,8 +1872,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 7110,
-            "average": 4.6842475
+            "count": 7112,
+            "average": 4.684336
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1964,8 +1955,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 11573,
-            "average": 4.7666984
+            "count": 11583,
+            "average": 4.766468
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2007,8 +1998,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3264,
-            "average": 4.6721816
+            "count": 3265,
+            "average": 4.6722817
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4731,41 +4722,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
-      "title": "Top 5 security items to consider before pushing to production",
-      "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-top-5-security-items-to-consider/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 7897,
-        "average": 4.6748133
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 59,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-security.md",
       "title": "Microsoft Azure Well-Architected Framework - Security",
       "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
@@ -4817,8 +4773,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 2766,
-        "average": 4.63449
+        "count": 2767,
+        "average": 4.634622
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4862,8 +4818,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
       "length": "PT36M",
       "ratings": {
-        "count": 4539,
-        "average": 4.7384887
+        "count": 4540,
+        "average": 4.7385464
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4897,8 +4853,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 9117,
-        "average": 4.669628
+        "count": 9120,
+        "average": 4.669737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4931,6 +4887,135 @@
         "Azure",
         "Networking",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-describe-the-concepts-of-security-compliance-and-identity.md",
+      "title": "Describe the concepts of security, compliance, and identity",
+      "excerpt": "Describe the concepts of security, compliance, and identity",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-describe-the-concepts-of-security-compliance-and-identity/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-describe-the-concepts-of-security-compliance-and-identity/",
+      "length": "PT42M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-describe-security-concepts-methodologies.md",
+          "title": "Describe security concepts and methodologies",
+          "excerpt": "Describe security concepts and methodologies",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-security-concepts-methodologies/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 1061,
+            "average": 4.810556
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-describe-microsoft-security-compliance-principles.md",
+          "title": "Describe Microsoft security and compliance principles",
+          "excerpt": "Describe Microsoft security and compliance principles",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-microsoft-security-compliance-principles/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
+          "length": "PT18M",
+          "ratings": {
+            "count": 1300,
+            "average": 4.792308
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-microsoft-security-and-compliance-principles-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security",
+        "Identity"
       ]
     }
   ],

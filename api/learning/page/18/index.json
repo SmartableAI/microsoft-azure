@@ -4,6 +4,134 @@
   "page": 18,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-release-based-workflow-github.md",
+      "title": "Manage software delivery by using a release based workflow on GitHub",
+      "excerpt": "Learn to implement a release based workflow on GitHub using project boards, branches, and releases.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-release-based-workflow-github/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/release-based-workflow-github/",
+      "length": "PT1H44M",
+      "ratings": {
+        "count": 362,
+        "average": 4.8066297
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/release-based-workflow-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-resolve-threats-with-azure-security-center.md",
+      "title": "Resolve security threats with Azure Security Center",
+      "excerpt": "In this module, you’ll use the alert capabilities of Azure Security Center to watch for and respond to threats.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-resolve-threats-with-azure-security-center/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 1572,
+        "average": 4.604962
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-responsible-ai-governing-practices.md",
+      "title": "Identify governing practices for responsible AI",
+      "excerpt": "Learn guiding principles for organizations, and how to choose and operationalize a governance system to responsibly and successfully use AI in the enterprise.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-governing-practices/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 513,
+        "average": 4.6588693
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-governing-practices-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-run-functional-tests-azure-pipelines.md",
       "title": "Run functional tests in Azure Pipelines",
       "excerpt": "Run Selenium UI tests, a form of functional testing, in Azure Pipelines.",
@@ -96,8 +224,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 2690,
-        "average": 4.7375464
+        "count": 2692,
+        "average": 4.7377415
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -397,8 +525,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
       "length": "PT45M",
       "ratings": {
-        "count": 1229,
-        "average": 4.6623273
+        "count": 1230,
+        "average": 4.6593494
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1084,122 +1212,6 @@
         "Azure",
         "Serverless",
         "Developer tools"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-edit-and-debug-code-in-real-time-with-visual-studio-code-live-share-azure-tips-and-tricks.md",
-      "title": "How to edit and debug code in real time with Visual Studio Code Live Share | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, you’ll learn how to instantly and securely share your current project, debugging session, terminal instance, localhost web app, and voice and text chat with Live Share extension for Visual Studio Code.     For more tips and tricks, visit: https://aka.ms/azuretipsandtricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-edit-and-debug-code-in-real-time-with-visual-studio-code-live-share-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-edit-and-debug-code-in-real-time-with-visual-studio-code-live-share-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=WFbSejNQ1bc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WFbSejNQ1bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M28S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-08T08:15:36-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WFbSejNQ1bc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Developer tools"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-get-better-outbound-connectivity-using-azure-nat-gateway-azure-friday.md",
-      "title": "How to get better outbound connectivity using Azure NAT Gateway | Azure Friday",
-      "excerpt": "When your private virtual networks in Azure need to talk to the Internet, a network translation is needed for your applications to talk to endpoints on the Internet. Christian Kuhtz joins Scott Hanselman to show how it works and why Azure NAT Gateway is the best and most scalable way to do Source Network",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-better-outbound-connectivity-using-azure-nat-gateway-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-better-outbound-connectivity-using-azure-nat-gateway-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=2Ng_uM0ZaB4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2Ng_uM0ZaB4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M15S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-12T07:48:32-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2Ng_uM0ZaB4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series.md",
-      "title": "How to get started with Azure Arc | Azure Portal Series",
-      "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to get started with Azure Arc offerings in the Microsoft Azure portal. You will learn what Azure Arc is and how to easily add, view, and manage your hybrid, edge, or multi-cloud resources from Azure.     Try out these features in the Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=pF0-KbgxUOQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pF0-KbgxUOQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M4S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-05-10T08:40:11-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pF0-KbgxUOQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
       ]
     }
   ],

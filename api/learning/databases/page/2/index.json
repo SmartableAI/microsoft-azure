@@ -4,6 +4,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-modify-data-with-transact-sql.md",
+      "title": "Modify data with T-SQL",
+      "excerpt": "Modify data with T-SQL",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-modify-data-with-transact-sql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modify-data-with-transact-sql/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 51,
+        "average": 4.901961
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-persist-data-ef-core.md",
       "title": "Persist and retrieve relational data with Entity Framework Core",
       "excerpt": "This module guides you through creating a data access project, connecting to a relational database, and writing CRUD queries.",
@@ -327,8 +370,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-iot-edge-gateway/",
           "length": "PT1H40M",
           "ratings": {
-            "count": 309,
-            "average": 4.5469255
+            "count": 310,
+            "average": 4.5451612
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -395,8 +438,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 2127,
-        "average": 4.276446
+        "count": 2128,
+        "average": 4.276786
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -519,8 +562,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 1065,
-        "average": 4.748357
+        "count": 1066,
+        "average": 4.748593
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2409,8 +2452,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
           "length": "PT48M",
           "ratings": {
-            "count": 2230,
-            "average": 4.7878923
+            "count": 2231,
+            "average": 4.787987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2503,51 +2546,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-accelerate-scale-spring-boot-application-azure-cache-redis.md",
-      "title": "Accelerate and scale a Spring Boot application with Azure Cache for Redis",
-      "excerpt": "In this module, you'll learn what Azure Cache for Redis is, and how to use it with a Java and Spring Boot application. You'll use it to cache some business data using Spring Data Redis, and also to store HTTP session data using Spring Session.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-accelerate-scale-spring-boot-application-azure-cache-redis/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/accelerate-scale-spring-boot-application-azure-cache-redis/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 20,
-        "average": 4.95
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
         "Databases"
       ]
     }

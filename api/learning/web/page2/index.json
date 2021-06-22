@@ -49,51 +49,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-publish-static-web-app-authentication.md",
-      "title": "Authenticate users with Azure Static Web Apps",
-      "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app with API and authentication using Azure Static Web Apps and Azure Functions. Deploy your code from GitHub to a staging site using preview URLs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-static-web-app-authentication/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-static-web-app-authentication/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 16,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-authentication-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central.md",
       "title": "Set up rules and take action on telemetry data in Azure IoT Central",
       "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. We build the IoT Central app from a downloaded JSON file, defining all the device capabilities. Source code is also downloaded for the device app. The focus of this module is on creating rules and actions, to respond to certain telemetry input. Rules and actions enable greater automation of an IoT Central system.",
@@ -415,8 +370,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-cognitive-search-solution/",
           "length": "PT46M",
           "ratings": {
-            "count": 83,
-            "average": 4.759036
+            "count": 85,
+            "average": 4.7647057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -460,8 +415,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-enrichment-pipeline-azure-cognitive-search/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 65,
-            "average": 4.7384615
+            "count": 66,
+            "average": 4.742424
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -507,8 +462,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-knowledge-store-azure-cognitive-search/",
           "length": "PT48M",
           "ratings": {
-            "count": 74,
-            "average": 4.810811
+            "count": 75,
+            "average": 4.8133335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1209,8 +1164,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-cognitive-search-solution/",
       "length": "PT46M",
       "ratings": {
-        "count": 83,
-        "average": 4.759036
+        "count": 85,
+        "average": 4.7647057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1299,8 +1254,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-enrichment-pipeline-azure-cognitive-search/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 65,
-        "average": 4.7384615
+        "count": 66,
+        "average": 4.742424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1346,8 +1301,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-knowledge-store-azure-cognitive-search/",
       "length": "PT48M",
       "ratings": {
-        "count": 74,
-        "average": 4.810811
+        "count": 75,
+        "average": 4.8133335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1775,6 +1730,52 @@
         "Azure",
         "Integration",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-java-target-destinations.md",
+      "title": "Choose an Azure service for deploying your Java application",
+      "excerpt": "In this tutorial, you'll learn about running your Java applications on Azure, and choose the best option between Virtual Machines, Azure App Services, Serverless functions, Kubernetes and Azure Spring Cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-java-target-destinations/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/java-target-destinations/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 76,
+        "average": 4.8289475
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Serverless",
+        "Containers"
       ]
     }
   ],
