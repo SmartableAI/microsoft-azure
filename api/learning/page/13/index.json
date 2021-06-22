@@ -386,8 +386,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
           "length": "PT24M",
           "ratings": {
-            "count": 1049,
-            "average": 4.8093424
+            "count": 1050,
+            "average": 4.8095236
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -535,8 +535,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 3733,
-        "average": 4.5129924
+        "count": 3734,
+        "average": 4.5131226
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -840,8 +840,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
       "length": "PT24M",
       "ratings": {
-        "count": 1049,
-        "average": 4.8093424
+        "count": 1050,
+        "average": 4.8095236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1046,8 +1046,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
       "length": "PT55M",
       "ratings": {
-        "count": 1365,
-        "average": 4.7619047
+        "count": 1368,
+        "average": 4.760965
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1123,8 +1123,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-git/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 121,
-        "average": 4.752066
+        "count": 122,
+        "average": 4.7540984
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1282,15 +1282,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-responsible-ai-guiding-principles.md",
-      "title": "Identify guiding principles for responsible AI",
-      "excerpt": "Explore six principles to guide AI development and use - fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-guiding-principles/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/",
-      "length": "PT56M",
+      "path": "_learning/courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery.md",
+      "title": "Protect your Azure infrastructure with Azure Site Recovery",
+      "excerpt": "Provide disaster recovery for your Azure infrastructure by managing and orchestrating replication, failover, and failback of Azure virtual machines with Azure Site Recovery.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
+      "length": "PT59M",
       "ratings": {
-        "count": 1125,
-        "average": 4.6737776
+        "count": 1540,
+        "average": 4.568831
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1310,7 +1310,7 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/protect-infrastructure-with-azure-site-recovery-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -1321,7 +1321,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
+        "Migration",
+        "Management Tools"
       ]
     }
   ],

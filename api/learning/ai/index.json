@@ -4,6 +4,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-knowledge-store-with-azure-cognitive-search.md",
+      "title": "Create a knowledge store with Azure Cognitive Search",
+      "excerpt": "Learn how to persist the output from an Azure Cognitive Search enrichment pipeline for independent analysis or downstream processing.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-knowledge-store-with-azure-cognitive-search/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-knowledge-store-azure-cognitive-search/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 74,
+        "average": 4.810811
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/implementing-a-knowledge-store-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Storage",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +79,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 16688,
-            "average": 4.763123
+            "count": 16696,
+            "average": 4.7632365
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -79,8 +124,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 13646,
-            "average": 4.6364503
+            "count": 13649,
+            "average": 4.63653
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 11983,
-            "average": 4.769924
+            "count": 11988,
+            "average": 4.7699366
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +210,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 16628,
-            "average": 4.7307553
+            "count": 16633,
+            "average": 4.7307763
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -260,8 +305,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 16573,
-            "average": 4.7623243
+            "count": 16581,
+            "average": 4.762258
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -322,8 +367,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 16573,
-        "average": 4.7623243
+        "count": 16581,
+        "average": 4.762258
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -388,8 +433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 10036,
-            "average": 4.787266
+            "count": 10039,
+            "average": 4.787329
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -431,8 +476,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 11292,
-            "average": 4.777896
+            "count": 11296,
+            "average": 4.7779746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -474,8 +519,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 7533,
-            "average": 4.7800345
+            "count": 7538,
+            "average": 4.780048
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -521,8 +566,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 8497,
-            "average": 4.7257857
+            "count": 8502,
+            "average": 4.725829
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -590,8 +635,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 16628,
-        "average": 4.7307553
+        "count": 16633,
+        "average": 4.7307763
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -636,8 +681,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 11292,
-        "average": 4.777896
+        "count": 11296,
+        "average": 4.7779746
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1126,8 +1171,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
           "length": "PT29M",
           "ratings": {
-            "count": 1308,
-            "average": 4.720948
+            "count": 1309,
+            "average": 4.7211614
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1213,8 +1258,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
           "length": "PT39M",
           "ratings": {
-            "count": 1528,
-            "average": 4.749346
+            "count": 1529,
+            "average": 4.7495093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1300,8 +1345,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 4162,
-            "average": 4.712398
+            "count": 4163,
+            "average": 4.712467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1363,8 +1408,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 4162,
-        "average": 4.712398
+        "count": 4163,
+        "average": 4.712467
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1473,8 +1518,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
           "length": "PT40M",
           "ratings": {
-            "count": 84,
-            "average": 4.5595236
+            "count": 86,
+            "average": 4.5465117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1673,8 +1718,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
           "length": "PT40M",
           "ratings": {
-            "count": 84,
-            "average": 4.5595236
+            "count": 86,
+            "average": 4.5465117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3240,8 +3285,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 1162,
-            "average": 4.6764197
+            "count": 1163,
+            "average": 4.6758385
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3372,8 +3417,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 984,
-            "average": 4.5447154
+            "count": 985,
+            "average": 4.5451775
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3805,8 +3850,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 984,
-            "average": 4.5447154
+            "count": 985,
+            "average": 4.5451775
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4482,8 +4527,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-basic-conversational-intelligence/",
           "length": "PT27M",
           "ratings": {
-            "count": 72,
-            "average": 4.9166665
+            "count": 73,
+            "average": 4.917808
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4672,8 +4717,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 1744,
-        "average": 4.722477
+        "count": 1745,
+        "average": 4.722636
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4694,49 +4739,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/analyze-receipts-form-recognizer-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-detect-objects-images-custom-vision.md",
-      "title": "Detect objects in images with the Custom Vision service",
-      "excerpt": "Object detection is a form of computer vision in which artificial intelligence (AI) agents can identify and locate specific types of object in an image or camera feed.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-detect-objects-images-custom-vision/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 1476,
-        "average": 4.6626015
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/detect-objects-images-custom-vision-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
