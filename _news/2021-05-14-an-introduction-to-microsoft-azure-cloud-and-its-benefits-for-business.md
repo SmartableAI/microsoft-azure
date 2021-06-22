@@ -18,96 +18,151 @@ topics:
   - Azure
 
 related:
-  - title: "Microsoft Azure Blob leak a lesson to CISOs about cloud security responsibility"
-    excerpt: "Microsoft's apparent misconfiguration of its own cloud bucket exposed third-party intellectual property. Here are the takeaways for CISOs."
-    publishedDateTime: 2021-05-10T09:00:00Z
-    webUrl: "https://www.csoonline.com/article/3617456/microsoft-azure-blob-leak-a-lesson-to-cisos-about-cloud-security-responsibility.html"
-    ampWebUrl: "https://www.csoonline.com/article/3617456/microsoft-azure-blob-leak-a-lesson-to-cisos-about-cloud-security-responsibility.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3617456/microsoft-azure-blob-leak-a-lesson-to-cisos-about-cloud-security-responsibility.amp.html"
+  - title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
+    excerpt: "(HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Microsoft SQL Server. With this new integration, organizations can gain additional flexibility and control over their on-premises workloads and hybrid working experience."
+    publishedDateTime: 2021-06-21T22:38:00Z
+    webUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+    ampWebUrl: "https://www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
     type: article
     provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 87
+      name: TechRadar
+      domain: techradar.com
+    quality: 95
     images:
-      - url: "https://images.idgesg.net/images/article/2018/01/bucket-with-holes_breach_security_vulnerability-100747428-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.mos.cms.futurecdn.net/er5NpnAErP4CGcAHzgMXxF-480-80.jpg"
+        width: 480
+        height: 271
         isCached: true
-  - title: "France says Google, Microsoft cloud services are OK for sensitive data"
-    excerpt: "France said its state and corporate data can be stored on Google and Microsoft's cloud services which have been licensed to French companies."
-    publishedDateTime: 2021-05-17T21:58:00Z
-    webUrl: "https://venturebeat.com/2021/05/17/france-says-google-microsoft-cloud-services-are-ok-for-sensitive-data/"
-    ampWebUrl: "https://venturebeat.com/2021/05/17/france-says-google-microsoft-cloud-services-are-ok-for-sensitive-data/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/17/france-says-google-microsoft-cloud-services-are-ok-for-sensitive-data/amp/"
+  - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
+    excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
+    publishedDateTime: 2021-06-21T12:09:00Z
+    webUrl: "https://www.hstoday.us/industry/sts-and-ais-joint-venture-wins-treasurys-microsoft-azure-migration-contract/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 51
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/04/cloud-data-2.shutterstock_228273733-1-e1558054686834.jpg?w=1200&strip=all"
-        width: 1200
-        height: 730
+      - url: "https://www.hstoday.us/wp-content/uploads/2020/01/cloud-computing-4246668_1920.jpg"
+        width: 1920
+        height: 1152
         isCached: true
-  - title: "Microsoft Is Closing Down Its Azure Blockchain Service In September"
-    excerpt: "Microsoft is shutting down its Azure Blockchain Service on September 10, 2021, after being in service for around six years."
-    publishedDateTime: 2021-05-14T07:16:00Z
-    webUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html"
-    ampWebUrl: "https://www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/05/microsoft-closing-azure-blockchain.html/amp"
+  - title: "HPE expands GreenLake offerings for Microsoft Azure"
+    excerpt: "HPE GreenLake now supports Microsoft Azure Stack HCI and SQL Server. The announcement of the new integration came just ahead of the company’s annual HPE Discover conference, held virtually for the second time in a row,"
+    publishedDateTime: 2021-06-21T13:30:00Z
+    webUrl: "https://www.cloudpro.co.uk/saas/9123/hpe-expands-greenlake-offerings-for-microsoft-azure"
     type: article
     provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 74
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2021/05/azure-blockchain-technology.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft calls time on Azure blockchain-as-a-service"
-    excerpt: "A notice in the documentation for Microsoft’s Azure Blockchain Service announces that the service will be retired on 10 September 2021. The support documentation from Microsoft guides users ..."
-    publishedDateTime: 2021-05-13T09:01:00Z
-    webUrl: "https://www.siliconrepublic.com/enterprise/microsoft-azure-blockchain-as-a-service-consensys-quorum-ethereum"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/05/AdobeStock_280230556.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
-    excerpt: "May 6, 2021 /PRNewswire/ -- Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store ..."
-    publishedDateTime: 2021-05-06T12:10:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Cloud Pro
+      domain: cloudpro.co.uk
     quality: 37
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/06/antonio_neri_hpe_discover_2019_keynote_greenlake.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Microsoft Launches Azure Private MEC with AT&T in Tow, Not Vice Versa"
+    excerpt: "If Multi-access Edge Computing becomes an option for your data center services, would you be contracting with the cloud provider or the telco provider?"
+    publishedDateTime: 2021-06-21T20:13:00Z
+    webUrl: "https://www.datacenterknowledge.com/cloud/microsoft-launches-azure-private-mec-att-tow-not-vice-versa"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 37
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/210610%205G%20tower.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
+    excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
+    publishedDateTime: 2021-06-21T11:51:00Z
+    webUrl: "https://www.techcentral.ie/2ep3q"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 35
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/06/Yvonne-Dennis.jpg"
+        width: 620
+        height: 350
+        isCached: true
+  - title: "Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
+    excerpt: "Solution from Microsoft Gold Partner Cyient leverages Microsoft technologies to address challenges faced by utilities industry HYDERABAD,"
+    publishedDateTime: 2021-06-15T12:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cyient-to-release-mobius-a-saas-based-solution-for-utility-company-outage-planning-and-scheduling-powered-by-microsoft-azure-1030523800"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
+  - title: "Microsoft Cloud Regions Mark Two-year Milestone Of Empowering Ambitious Middle East Organizations"
+    excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyp"
+    publishedDateTime: 2021-06-20T10:16:00Z
+    webUrl: "https://www.albawaba.com/business/pr/microsoft-cloud-regions-mark-two-year-milestone-empowering-ambitious-middle-east"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/microsoft-cloud-regions-mark-two-year-milestone-empowering-ambitious-middle-east"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-cloud-regions-mark-two-year-milestone-empowering-ambitious-middle-east"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 29
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-06/Sayed%20Hashish%2C%20GM%2C%20MS%20UAE%20-%20June%202021.jpg?itok=yJHWkY6J"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Microsoft cloud regions mark two-year milestone of empowering ambitious Middle East organizations"
+    excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyper-scale Cloud in the country and the Middle East,"
+    publishedDateTime: 2021-06-21T06:43:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Microsoft_cloud_regions_mark_twoyear_milestone_of_empowering_ambitious_Middle_East_organizations-ZAWYA20210621055741/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210621055741/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210621055741/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 29
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/SayedHashishGMMSUAE_2021_06_21.jpg"
+        width: 450
+        height: 375
+        isCached: true
+  - title: "NCC Group adds Microsoft Azure Sentinel to its Managed Detection and Response (MDR) offering"
+    excerpt: "Today we’re excited to announce a further development in our collaboration with Microsoft with the addition of Microsoft Azure Sentinel to our"
+    publishedDateTime: 2021-06-21T13:45:00Z
+    webUrl: "https://www.mynewsdesk.com/nccgroup/pressreleases/ncc-group-adds-microsoft-azure-sentinel-to-its-managed-detection-and-response-mdr-offering-3111012"
+    type: article
+    provider:
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 26
+    images:
+      - url: "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/y1xbr1yo8dctprqoqwnw.jpg"
         width: 600
         height: 315
         isCached: true
-  - title: "Sylogist Ltd.'s subsidiary, Serenic Software Inc. Announces Release for Microsoft Cloud"
-    excerpt: "CNW/ - Serenic Software Inc., a Sylogist Ltd. (TSX: SYZ) (\"Sylogist\") company, a leading provider of comprehensive enterprise resource planning"
-    publishedDateTime: 2021-05-04T12:00:00Z
-    webUrl: "https://www.newswire.ca/news-releases/sylogist-ltd-s-subsidiary-serenic-software-inc-announces-release-for-microsoft-cloud-807067261.html"
+  - title: "Hewlett Packard Enterprise Fuels HPE GreenLake Expansion with Cloud Services Support for Microsoft Azure Stack HCI and Microsoft SQL Server"
+    excerpt: "Hewlett Packard Enterprise today announced the expansion of its HPE GreenLake edge to cloud platform to include support for Microsoft Azure Stack HCI and Microsoft SQL Server. The new HPE GreenLake cloud services deliver the agility and flexibility organizations are looking for in a scalable,"
+    publishedDateTime: 2021-06-21T12:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/hewlett-packard-enterprise-fuels-hpe-greenlake-expansion-with-cloud-services-support"
     type: article
     provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/1502634/Sylogist_Ltd__Sylogist_Ltd__s_subsidiary__Serenic_Software_Inc_.jpg?p=facebook"
-        width: 1500
-        height: 785
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 23
+  - title: "Stealth Power Announces FDNY Order of 184 Additional Ambulances with Idle Mitigation Technology and Fleet Intelligence, Powered by Microsoft Azure"
+    excerpt: "Stealth Power announced that the Fire Department of New York (FDNY) has ordered an additional 184 ambulances with the company’s Vehicle Power System, bringing the total number to 500 by the end of 2021."
+    publishedDateTime: 2021-06-15T12:05:00Z
+    webUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "592AeyX/IaOvgj1p+lz8U9y/jBE1hlYJwFGfkGORIAxFwcX5VfAT6LilQBeAEug62lH7VyuO0/th9dMciQ5cn4K86Pmaa4w5sIf2VW7t2z24GG6m8GIO7NCXewy1X2q+yfK/Lgq8rfuhWHgo9IZHDDUvoJZanKNKpJEt6w6ltlnIa+CPwxpvTVVOYJFt4udLDqACQ1gYa16CqKpyLp2sV/bQ3CE1fgWBQNncciPiGSnO/fYhPi7mcGTnr7Oyl/pwB1XfB4rP8tsDLe+5lgvmAHSVcdQSpuHPEWrOdlZ1AebWzUdxE00Pu2Il+4yAyE/oIpFroemKXZrF+ezwEFR6ZHvBO9wpIFmb0TxXqn+YBsw=;Lp0jPz67x26vD2Yt+VF7gQ=="
 ---

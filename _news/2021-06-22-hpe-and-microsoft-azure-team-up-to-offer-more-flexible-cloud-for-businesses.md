@@ -1,43 +1,35 @@
 ---
 category: news
-title: "Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
-excerpt: "Solution from Microsoft Gold Partner Cyient leverages Microsoft technologies to address challenges faced by utilities industry HYDERABAD,"
-publishedDateTime: 2021-06-15T12:59:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cyient-to-release-mobius-a-saas-based-solution-for-utility-company-outage-planning-and-scheduling-powered-by-microsoft-azure-1030523800"
-webUrl: "https://markets.businessinsider.com/news/stocks/cyient-to-release-mobius-a-saas-based-solution-for-utility-company-outage-planning-and-scheduling-powered-by-microsoft-azure-1030523800"
+title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
+excerpt: "(HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Microsoft SQL Server. With this new integration, organizations can gain additional flexibility and control over their on-premises workloads and hybrid working experience."
+publishedDateTime: 2021-06-21T22:38:00Z
+originalUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+webUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+ampWebUrl: "https://www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
 type: article
-quality: 29
-heat: -1
-published: false
+quality: 95
+heat: 315
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: TechRadar
+  domain: techradar.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
 
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/er5NpnAErP4CGcAHzgMXxF-480-80.jpg"
+    width: 480
+    height: 271
+    isCached: true
+
 related:
-  - title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
-    excerpt: "(HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Microsoft SQL Server. With this new integration, organizations can gain additional flexibility and control over their on-premises workloads and hybrid working experience."
-    publishedDateTime: 2021-06-21T22:38:00Z
-    webUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-    ampWebUrl: "https://www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 95
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/er5NpnAErP4CGcAHzgMXxF-480-80.jpg"
-        width: 480
-        height: 271
-        isCached: true
   - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
     excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
     publishedDateTime: 2021-06-21T12:09:00Z
@@ -94,6 +86,15 @@ related:
         width: 620
         height: 350
         isCached: true
+  - title: "Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
+    excerpt: "Solution from Microsoft Gold Partner Cyient leverages Microsoft technologies to address challenges faced by utilities industry HYDERABAD,"
+    publishedDateTime: 2021-06-15T12:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cyient-to-release-mobius-a-saas-based-solution-for-utility-company-outage-planning-and-scheduling-powered-by-microsoft-azure-1030523800"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
   - title: "Microsoft Cloud Regions Mark Two-year Milestone Of Empowering Ambitious Middle East Organizations"
     excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyp"
     publishedDateTime: 2021-06-20T10:16:00Z
@@ -168,6 +169,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "TT0IOALmQx36wwMJw3N5Ce9H+RVpLESAC1EKhPWH9ZaGGsi29CsGioSWTKHf2KGMnNOOUGAPYt5LnYvSmjyVMiz6ZwGBr0m5pG+1CBTiZyIrrnnKa/FFNwWOhsBLk91jbQVV6J4VG3Rf9Izq5h1N0p4MEDv8okEdo1Th2Lf8Hub88hN6z8GNMiCflneTa3txDbkkBxMMTKSoVuKbwKTIrsj8rmwiIzo1qlZttPgMl8GUmO1tATwNsSBIT+DtkKB/wO7GYNrBsOoKSdscekCmiwLlbPjd1EkDMO5st/JL/Lmw1gsxCf9VZTutRuScoqpED9/zl0satKr8mj1pbvCsKeQbRvOz6gwhf/nV0l1sXrU=;iDeu6YFujNKQVxDNsf4ytg=="
+secured: "SBSSbECeVV9bKzzEH1lPy1mbYnGY6/EVajFC4wobg0CPMqF5G+pgiaikcPXjnIflkA5yfTRjuDTYDV0w7MyMfu9a6EdSW9Qg1io4AWDwPJIl8TBXFpH5JJpQV+nEcH/99iSJ+OX4KpSlFrsU6GsSEcvQaZ5d9Hs72DwFJI9DSOFrRj/EUupPiNQxc0ZzkR2MzAG16Xegey14AJYqTB1sfEBUgCz63lIVOSw84OX6Nr8FSwg0Qt6x268MeiyHi77ZVIgJ8Jn9zN21+8EiUSBv9NcDjlGH+AHjJRmtgNn2ErdGwne07S3A3etDZNSkOqRPr2PJxfhXiWK5jQI13YpENHS4SZY6s7ffhmSdHR4BET8=;BE7fEbpwzARdy0swucU9DA=="
 ---
 

@@ -18,6 +18,22 @@ topics:
   - Azure
 
 related:
+  - title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
+    excerpt: "(HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Microsoft SQL Server. With this new integration, organizations can gain additional flexibility and control over their on-premises workloads and hybrid working experience."
+    publishedDateTime: 2021-06-21T22:38:00Z
+    webUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+    ampWebUrl: "https://www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 95
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/er5NpnAErP4CGcAHzgMXxF-480-80.jpg"
+        width: 480
+        height: 271
+        isCached: true
   - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
     excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
     publishedDateTime: 2021-06-21T12:09:00Z
@@ -45,6 +61,20 @@ related:
       - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/06/antonio_neri_hpe_discover_2019_keynote_greenlake.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Microsoft Launches Azure Private MEC with AT&T in Tow, Not Vice Versa"
+    excerpt: "If Multi-access Edge Computing becomes an option for your data center services, would you be contracting with the cloud provider or the telco provider?"
+    publishedDateTime: 2021-06-21T20:13:00Z
+    webUrl: "https://www.datacenterknowledge.com/cloud/microsoft-launches-azure-private-mec-att-tow-not-vice-versa"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 37
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/210610%205G%20tower.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
     excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
@@ -115,15 +145,24 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "ï»¿ Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
-    excerpt: "Cyient, a global engineering and technology solutions company, has announced the launch of Mobius, a software-as-a-service (SaaS)-based solution and decision support platform. Mobiusâ€”hosted on Microsoft Azureâ€”consolidates the outage planning and approval process within a central location to provide improved information flow for optimizing schedule plans."
-    publishedDateTime: 2021-06-18T09:46:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192212&cat=PR News Wire"
+  - title: "Hewlett Packard Enterprise Fuels HPE GreenLake Expansion with Cloud Services Support for Microsoft Azure Stack HCI and Microsoft SQL Server"
+    excerpt: "Hewlett Packard Enterprise today announced the expansion of its HPE GreenLake edge to cloud platform to include support for Microsoft Azure Stack HCI and Microsoft SQL Server. The new HPE GreenLake cloud services deliver the agility and flexibility organizations are looking for in a scalable,"
+    publishedDateTime: 2021-06-21T12:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/hewlett-packard-enterprise-fuels-hpe-greenlake-expansion-with-cloud-services-support"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 23
+  - title: "An Introduction to Microsoft Azure Cloud and Its Benefits for Business!"
+    excerpt: "We all know Azure is an open and flexible cloud platform from Microsoft. An innovative platform that businesses can leverage to quickly build, deploy and manage applications and services. But it doesn’t end there, Azure comes with many associated ..."
+    publishedDateTime: 2021-05-14T11:23:00Z
+    webUrl: "https://www.finextra.com/blogposting/20305/an-introduction-to-microsoft-azure-cloud-and-its-benefits-for-business"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
 
 secured: "mWF6gF8q/k8ofXpf60m3OhtfhH0/lSjfySzpvD7MQj32NFCn5NDADqIap4FhtoaRlj4klM4+aGL2JRPagT/LLOkC8q6TGMLhpn4vWKwwaJnXWGfXGMFRgBCV3BxN2No2iNTlvaH8pTjK0oDEO1xQH7VcWzjjwyxJiU6ZWO3+IJ67kM3hw+q8IEosgsHNF2xrB+WJLfw1fl6pX3PH+/UHFmkOmaitwqYwh0zrMeQal/A6d/jmTjCmebNFvaCt3eDfETWlmkdKK/e1KPc9CDzBQPlutmsksLS7ITWDRst31Nam9n1HeLCyyLJaUbhdqM6LNLuW1TzLCl8S7BoOmeSkY5h9GcHDoYStlE3loRfvMvo=;xBxiIPl6AuOIN9d/1+CbNg=="
 ---

@@ -106,6 +106,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage ..."
+    publishedDateTime: 2021-06-15T11:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Asset Panda Introduces New Integration with Microsoft Azure Active Directory"
     excerpt: "Asset Panda aims to help companies streamline onboarding efforts while protecting data integrity FRISCO, Texas (PRWEB) As part of its continued product"
     publishedDateTime: 2021-06-17T16:20:00Z
@@ -329,20 +343,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
         width: 1616
         height: 846
-        isCached: true
-  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Ardenna's Rail-Inspector is a SaaS offering, only available on Azure. \"Through the Microsoft Azure Marketplace, Rail-Inspector will have a broader exposure to domestic and international railroad ..."
-    publishedDateTime: 2021-06-15T11:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-301310454.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg?p=facebook"
-        width: 1499
-        height: 785
         isCached: true
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
