@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-t
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
 type: article
 quality: 95
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/210610%205G%20tower.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Microsoft Joins Apple In Hitting $2T Market Cap As Azure Sales Fly"
+    excerpt: "Microsoft has become a $2 trillion company, less than a year after archrival Apple reached the market capitalization milestone. The Redmond, Wash.-based company hit the $2 trillion market cap as its stock price grew roughly 1."
+    publishedDateTime: 2021-06-22T20:11:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-joins-apple-in-hitting-2t-market-cap-as-azure-sales-fly"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/026a-12953fb24a07-c9e21775c5d5-1000/microsoft-sign.jpg"
+        width: 609
+        height: 457
         isCached: true
   - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
     excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."

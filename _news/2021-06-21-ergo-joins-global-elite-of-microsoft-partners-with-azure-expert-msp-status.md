@@ -114,6 +114,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Joins Apple In Hitting $2T Market Cap As Azure Sales Fly"
+    excerpt: "Microsoft has become a $2 trillion company, less than a year after archrival Apple reached the market capitalization milestone. The Redmond, Wash.-based company hit the $2 trillion market cap as its stock price grew roughly 1."
+    publishedDateTime: 2021-06-22T20:11:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-joins-apple-in-hitting-2t-market-cap-as-azure-sales-fly"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/026a-12953fb24a07-c9e21775c5d5-1000/microsoft-sign.jpg"
+        width: 609
+        height: 457
+        isCached: true
   - title: "Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
     excerpt: "Solution from Microsoft Gold Partner Cyient leverages Microsoft technologies to address challenges faced by utilities industry HYDERABAD,"
     publishedDateTime: 2021-06-15T12:59:00Z

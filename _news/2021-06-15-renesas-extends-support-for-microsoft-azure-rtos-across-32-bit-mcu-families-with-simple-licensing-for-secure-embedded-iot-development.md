@@ -342,18 +342,18 @@ related:
         height: 846
         isCached: true
   - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape ..."
-    publishedDateTime: 2021-06-15T13:03:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53153180-ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-008.htm"
+    excerpt: "Ardenna's Rail-Inspector is a SaaS offering, only available on Azure. \"Through the Microsoft Azure Marketplace, Rail-Inspector will have a broader exposure to domestic and international railroad ..."
+    publishedDateTime: 2021-06-15T11:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-301310454.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
-        width: 400
-        height: 225
+      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg?p=facebook"
+        width: 1499
+        height: 785
         isCached: true
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
@@ -555,7 +555,7 @@ related:
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
     publishedDateTime: 2021-06-16T18:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
     type: article
     provider:
       name: TMCnet

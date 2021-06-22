@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Azure Log Analytics in Australia Central 2"
-excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2. "
-publishedDateTime: 2021-03-12T16:46:11Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-australia-central-2/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-australia-central-2/"
+title: "General availability: Introducing Log Analytics Open In Excel - A new Excel integration capability"
+excerpt: "Azure Monitor Log Analytics introduces a new Excel integration capability that allows you to create a connected Excel workbook right from the Log Analytics blade in Azure. "
+publishedDateTime: 2021-06-22T21:25:46Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/introducing-log-analytics-open-in-excel-a-new-excel-integration-capability/"
+webUrl: "https://azure.microsoft.com/en-us/updates/introducing-log-analytics-open-in-excel-a-new-excel-integration-capability/"
 type: article
-quality: 84
+quality: 72
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Azure
   - Analytics
+  - Integration
 
 related:
   - title: "High throughput output from Stream Analytics to Azure Synapse Analytics (General Availability)"
@@ -32,6 +33,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 87
+  - title: "General availability: Azure Log Analytics in Australia Central 2"
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2. "
+    publishedDateTime: 2021-03-12T16:46:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-australia-central-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: Enhanced Azure Dashboards experience for pinned Log Analytics parts"
     excerpt: "Log Analytics enhances pinned parts Azure Dashboards experience. "
     publishedDateTime: 2021-03-22T15:47:37Z
@@ -41,15 +51,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 75
-  - title: "General availability: Introducing Log Analytics Open In Excel - A new Excel integration capability"
-    excerpt: "Azure Monitor Log Analytics introduces a new Excel integration capability that allows you to create a connected Excel workbook right from the Log Analytics blade in Azure. "
-    publishedDateTime: 2021-06-22T21:25:46Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/introducing-log-analytics-open-in-excel-a-new-excel-integration-capability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 72
   - title: "App Service announces the general availability of Windows Container support"
     excerpt: "You can now deploy production workloads in Windows Containers on Azure App Service and take advantage of the rich productivity gains of the platform."
     publishedDateTime: 2020-09-22T16:00:43Z
@@ -69,6 +70,6 @@ related:
       domain: microsoft.com
     quality: 12
 
-secured: "tt9GyzYAhr3C6NfGkUYPLaIsdy2loPJ5wyYecpEDIsALVJPQN2+BP7o+LPzk5fk2Vb5emVzcaI70tvu8qIrBIa+V434xUS2Z71stOqHdLsKx/jtQcExJnpk8hm3A/svT+fg7wsaH6UPYbFbnTtZEPgQXpBMaUXCPjE9Vb95a7Fr7YEJ1NLbVbXGDlzek/3wk3yIOxb2HKwnUvstM6pSH/8W+HhKjlYhJNL9Depra9ARh0Pg2DfdHQdoqMFG0uxvBv7BT4u4ebgjxfOzMHYx0aMljYw24/sujMEnGaPtDPAWhuRvRNvPDvKRbGBNWbYKRkDA3LovfMiIsRDkMPNNrn2ILHfWF20k998ZaywdPg9Q=;BaDp+QuZ+tm9VnzLpU0MsA=="
+secured: "3u36xilY5XPeqnPZk6vFAgOtUhWKZWHkTLhr95ZpAxZuvoF7T6gUNMPP41HJMOLsLTFzocRomu+fPbxQYyVMWXQiRWVyRE222KbDgKVeQFw6Mes9B1k2TEtK4k6uBiD73Whlqh9ZM+y8tLSPo2t9SBK3NCGS3CHk7TmnCBB2CLDtRzGti8cAwP65P79C5e7klTt4D6+ZZf02xcil25TQGdyZ1/w/QhjzTdvV4nD+Fk22yYeL3lbEy2a1Y3hxAEWXGOEr8yf6YaVgC8vqKXtOW1toyP2mlBafyuWNiTWs5Q694l0VN9Vlv893iVXRY70G2Gw+Nm1ISxPX90aCdiHvumBYB4sAwzj7RRjYM8rHaF8=;MwejWojy/8J5//KfltTU0Q=="
 ---
 

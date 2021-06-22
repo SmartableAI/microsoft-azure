@@ -1,28 +1,26 @@
 ---
 category: news
-title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
-excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
-publishedDateTime: 2021-06-22T04:42:00Z
-originalUrl: "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
-webUrl: "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
-ampWebUrl: "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
-cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+title: "Microsoft Joins Apple In Hitting $2T Market Cap As Azure Sales Fly"
+excerpt: "Microsoft has become a $2 trillion company, less than a year after archrival Apple reached the market capitalization milestone. The Redmond, Wash.-based company hit the $2 trillion market cap as its stock price grew roughly 1."
+publishedDateTime: 2021-06-22T20:11:00Z
+originalUrl: "https://www.crn.com/news/cloud/microsoft-joins-apple-in-hitting-2t-market-cap-as-azure-sales-fly"
+webUrl: "https://www.crn.com/news/cloud/microsoft-joins-apple-in-hitting-2t-market-cap-as-azure-sales-fly"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Steel News
-  domain: steelguru.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true"
-    width: 1200
-    height: 849
+  - url: "https://www.crn.com/resources/026a-12953fb24a07-c9e21775c5d5-1000/microsoft-sign.jpg"
+    width: 609
+    height: 457
     isCached: true
 
 related:
@@ -57,6 +55,22 @@ related:
       - url: "https://www.sourcesecurity.com/img/news/612/prodatakey-red-2-controller-red-readers-provide-premium-levels-security-performance-920x533.jpg"
         width: 612
         height: 355
+        isCached: true
+  - title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
+    excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
+    publishedDateTime: 2021-06-22T04:42:00Z
+    webUrl: "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+    ampWebUrl: "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+    cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+    type: article
+    provider:
+      name: Steel News
+      domain: steelguru.com
+    quality: 57
+    images:
+      - url: "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 849
         isCached: true
   - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
     excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
@@ -99,20 +113,6 @@ related:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/210610%205G%20tower.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft Joins Apple In Hitting $2T Market Cap As Azure Sales Fly"
-    excerpt: "Microsoft has become a $2 trillion company, less than a year after archrival Apple reached the market capitalization milestone. The Redmond, Wash.-based company hit the $2 trillion market cap as its stock price grew roughly 1."
-    publishedDateTime: 2021-06-22T20:11:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-joins-apple-in-hitting-2t-market-cap-as-azure-sales-fly"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/026a-12953fb24a07-c9e21775c5d5-1000/microsoft-sign.jpg"
-        width: 609
-        height: 457
         isCached: true
   - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
     excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
@@ -240,6 +240,6 @@ related:
       domain: arabianbusiness.com
     quality: 0
 
-secured: "0Qj9wZv94Tc5a8OcHNsmKtcwfw4nQJ9oIW0gld0n6Skx232tFoH/Vf/D0/RNoZLQNEJrFpytYMxbjOfAJ10NZaW0BRVgJQARlCdO1HKGmI4xcwKh04MupOg23xSVhIlBTroCazSXsGfUtG9lXPmjj4n9JtmipizYY53es/89plUqLuLiEYsElmlNHXJNQyzfNvA5+Ax+WFOv4cnCaUTvj9JdPAr9Aci/wd1dPwfSr9p7ryNh8pDpxZ0vdwFH0DS9cgYhU0eSurbAlpK/B4ikULd5zJwca74pB0qIxw/ee0oMYbusb2zSIgsBm6vRCuD3I/5T4PMNw9IqoLA3g1DQwJIPD4K7pujo84iFldpZPPVLWVuNj9Ey1pW6q8mYrX9dJxa8FNB7KP0qxVkksQOhbp/XAhYTYf6E5zuf2O2PCrE0yO6Bx9BkYxosePA9oqxBgHxLAA1V2kTg9HuxZ7cZlbggvjSbTMXUzLZn0rdMFnq20YQacRVtHXbyVbaQuMs/YvUHpk3XOMnawihVNfHouQ==;yAQ2TwIjulalD6ysl/fIcg=="
+secured: "sYAnfBPK7mjtslV/QaSymi4O2R+QCaeJ6XcTsSxmbO4/SeRK6s5w9V4M23dY74RqFgeXlEAgCHmkMvJ2U1uKfGpov8jeChpNpvWpyXY4Fo8IlW3YtjUlIAcxvTv2Le3jCbhHDJqCd2bEApSDXb+bc/RWOF/i/EhKwo/yunp0yynthUBdk1G+15pnF8PnJcaqwxPUlX8cUg0P8uN1E1DH5qmTn7mIs4z713yd1fQxwrBOznLEC6tTJ7TYd3boqkVkZg6p+8LAL7ALIHKUTtJ4KAtXVLpZ7JhCANMv8D+hi55RBUh95k98PZqpNleh6MP80I1GvS+E1+p8JKHftabdiZyoWN7oBoCcyaVF2lhF4+4=;LHnX9Ldv5mGPn+v3ttb37A=="
 ---
 
