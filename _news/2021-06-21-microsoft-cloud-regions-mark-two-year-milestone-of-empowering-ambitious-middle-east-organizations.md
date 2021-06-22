@@ -42,6 +42,22 @@ related:
         width: 480
         height: 271
         isCached: true
+  - title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
+    excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
+    publishedDateTime: 2021-06-22T04:42:00Z
+    webUrl: "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+    ampWebUrl: "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+    cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+    type: article
+    provider:
+      name: Steel News
+      domain: steelguru.com
+    quality: 57
+    images:
+      - url: "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 849
+        isCached: true
   - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
     excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
     publishedDateTime: 2021-06-21T12:09:00Z
@@ -137,6 +153,17 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "NetFolder for Secure file Uploads by odix is now available on the Microsoft Azure Marketplace"
+    excerpt: "ROSH HA'AYIN, Israel, /PRNewswire-PRWeb/ -- odix, the Israel based cyber security leader in file-based malware prevention solutions has officially"
+    publishedDateTime: 2021-06-22T05:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21658315/netfolder-for-secure-file-uploads-by-odix-is-now-available-on-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21658315"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21658315"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
   - title: "Hewlett Packard Enterprise Fuels HPE GreenLake Expansion with Cloud Services Support for Microsoft Azure Stack HCI and Microsoft SQL Server"
     excerpt: "Hewlett Packard Enterprise today announced the expansion of its HPE GreenLake edge to cloud platform to include support for Microsoft Azure Stack HCI and Microsoft SQL Server. The new HPE GreenLake cloud services deliver the agility and flexibility organizations are looking for in a scalable,"
     publishedDateTime: 2021-06-21T12:00:00Z

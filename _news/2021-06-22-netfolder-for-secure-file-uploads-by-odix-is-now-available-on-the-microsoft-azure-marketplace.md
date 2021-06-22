@@ -1,35 +1,41 @@
 ---
 category: news
-title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
-excerpt: "(HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Microsoft SQL Server. With this new integration, organizations can gain additional flexibility and control over their on-premises workloads and hybrid working experience."
-publishedDateTime: 2021-06-21T22:38:00Z
-originalUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-webUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-ampWebUrl: "https://www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+title: "NetFolder for Secure file Uploads by odix is now available on the Microsoft Azure Marketplace"
+excerpt: "ROSH HA'AYIN, Israel, /PRNewswire-PRWeb/ -- odix, the Israel based cyber security leader in file-based malware prevention solutions has officially"
+publishedDateTime: 2021-06-22T05:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21658315/netfolder-for-secure-file-uploads-by-odix-is-now-available-on-the-microsoft-azure-marketplace"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21658315/netfolder-for-secure-file-uploads-by-odix-is-now-available-on-the-microsoft-azure-marketplace"
+ampWebUrl: "https://www.benzinga.com/amp/content/21658315"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21658315"
 type: article
-quality: 95
-heat: 355
-published: true
+quality: 26
+heat: -1
+published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
 
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/er5NpnAErP4CGcAHzgMXxF-480-80.jpg"
-    width: 480
-    height: 271
-    isCached: true
-
 related:
+  - title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
+    excerpt: "(HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Microsoft SQL Server. With this new integration, organizations can gain additional flexibility and control over their on-premises workloads and hybrid working experience."
+    publishedDateTime: 2021-06-21T22:38:00Z
+    webUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+    ampWebUrl: "https://www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 95
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/er5NpnAErP4CGcAHzgMXxF-480-80.jpg"
+        width: 480
+        height: 271
+        isCached: true
   - title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
     excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
     publishedDateTime: 2021-06-22T04:42:00Z
@@ -157,17 +163,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "NetFolder for Secure file Uploads by odix is now available on the Microsoft Azure Marketplace"
-    excerpt: "ROSH HA'AYIN, Israel, /PRNewswire-PRWeb/ -- odix, the Israel based cyber security leader in file-based malware prevention solutions has officially"
-    publishedDateTime: 2021-06-22T05:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21658315/netfolder-for-secure-file-uploads-by-odix-is-now-available-on-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21658315"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21658315"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
   - title: "Hewlett Packard Enterprise Fuels HPE GreenLake Expansion with Cloud Services Support for Microsoft Azure Stack HCI and Microsoft SQL Server"
     excerpt: "Hewlett Packard Enterprise today announced the expansion of its HPE GreenLake edge to cloud platform to include support for Microsoft Azure Stack HCI and Microsoft SQL Server. The new HPE GreenLake cloud services deliver the agility and flexibility organizations are looking for in a scalable,"
     publishedDateTime: 2021-06-21T12:00:00Z
@@ -196,6 +191,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "OF/b6XjPeuOK5CnzHTKU3JH4j4lVc4gxmteB1wJzxcenyMKm4xd/09UfQnObXNdWV+g6d04XRQt+HA+U5o07SDQtpwav0EofobRofn9BDHvlcfRUkT/gP09Bm4Z1d0YSMrMoxHWS2qPqDcEz97SFKb1y15y1GSqb7KoDPH+I55prXuUjQ8wji/f4EtGwvEzFanZAFciDcKs7PIG5VzMgBlsjik2vmdtdhVSgX+SNPS3y73IORThAR7IGVaP82SNcjgYpC43FLk0mskpZnk6r8Nk0w1hAJ9mF4wsvMCwGJMTA9Yw5p242MWN0NlvzwVEyYWAsiyfWj1I5Om7j39JP/E6ZIKk7XqUP01aWzuZ+zPJXv1EQ7ugGShhZwOlpkIibMkWyxOsEdjzWcRKgSpXsalM9Ka+xzE9Hefac9ahr9KjAxto9jvKQSXmNeMJHyTvVkmoDJZQycsW0QjKfJtQp0wxwoq5Aj3mK+xcpTKJXGmZcEU6fXvU8fY/YcO5pCFXmdjVY5XRYd5wTcvhbqg9bpw==;/SWFxBkJr6qrUShcZTWtgg=="
+secured: "ZZpajuzeTi9EofOiyjTQgyVIgyf8LztwKo8g88dKhDQRu2VSXqx5Cdb/p93D4F2sQCi5kuYEVZmF2tp6nrYkkrvzOhcrrEb1R/1WwQLEBRFVrVAE0pC+/LK8rX5F2zhuL3Z+krHGha16ojGa0Pk2r8m5IG+fqsQCJwZhwhJQO3YpFtJ5wpw/Wavq7HJxnzfjBMGtM9DnmgymdwexjJBNJcsQ3XdJ31dJdMDQNbW+Xd3CuVrmmf4ZBVK1DOw5jLjmDdoGXJ7NPcINh7m8J0i6S5Cc3l8LIOmXZSdn617lmp3nxK1WleEoS/lf6dGfimO1WmrdT1FkHgsqZ2Yzf3XSju3VPpOJiT/qRnvL+2GhwWo=;SPXFiwfZn+Gm9UoTA9OELg=="
 ---
 

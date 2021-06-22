@@ -1,50 +1,46 @@
 ---
 category: news
-title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
-excerpt: "(HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Microsoft SQL Server. With this new integration, organizations can gain additional flexibility and control over their on-premises workloads and hybrid working experience."
-publishedDateTime: 2021-06-21T22:38:00Z
-originalUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-webUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-ampWebUrl: "https://www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
+excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
+publishedDateTime: 2021-06-22T04:42:00Z
+originalUrl: "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+webUrl: "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+ampWebUrl: "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
 type: article
-quality: 95
-heat: 355
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Steel News
+  domain: steelguru.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/er5NpnAErP4CGcAHzgMXxF-480-80.jpg"
-    width: 480
-    height: 271
+  - url: "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 1200
+    height: 849
     isCached: true
 
 related:
-  - title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
-    excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
-    publishedDateTime: 2021-06-22T04:42:00Z
-    webUrl: "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
-    ampWebUrl: "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
-    cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+  - title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
+    excerpt: "(HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Microsoft SQL Server. With this new integration, organizations can gain additional flexibility and control over their on-premises workloads and hybrid working experience."
+    publishedDateTime: 2021-06-21T22:38:00Z
+    webUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+    ampWebUrl: "https://www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
     type: article
     provider:
-      name: Steel News
-      domain: steelguru.com
-    quality: 57
+      name: TechRadar
+      domain: techradar.com
+    quality: 95
     images:
-      - url: "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 849
+      - url: "https://cdn.mos.cms.futurecdn.net/er5NpnAErP4CGcAHzgMXxF-480-80.jpg"
+        width: 480
+        height: 271
         isCached: true
   - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
     excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
@@ -196,6 +192,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "OF/b6XjPeuOK5CnzHTKU3JH4j4lVc4gxmteB1wJzxcenyMKm4xd/09UfQnObXNdWV+g6d04XRQt+HA+U5o07SDQtpwav0EofobRofn9BDHvlcfRUkT/gP09Bm4Z1d0YSMrMoxHWS2qPqDcEz97SFKb1y15y1GSqb7KoDPH+I55prXuUjQ8wji/f4EtGwvEzFanZAFciDcKs7PIG5VzMgBlsjik2vmdtdhVSgX+SNPS3y73IORThAR7IGVaP82SNcjgYpC43FLk0mskpZnk6r8Nk0w1hAJ9mF4wsvMCwGJMTA9Yw5p242MWN0NlvzwVEyYWAsiyfWj1I5Om7j39JP/E6ZIKk7XqUP01aWzuZ+zPJXv1EQ7ugGShhZwOlpkIibMkWyxOsEdjzWcRKgSpXsalM9Ka+xzE9Hefac9ahr9KjAxto9jvKQSXmNeMJHyTvVkmoDJZQycsW0QjKfJtQp0wxwoq5Aj3mK+xcpTKJXGmZcEU6fXvU8fY/YcO5pCFXmdjVY5XRYd5wTcvhbqg9bpw==;/SWFxBkJr6qrUShcZTWtgg=="
+secured: "ASJuliZKLiopYqwzsBvoMrv5e5ZdslGB0OcpKnARXbGjwMymQGLM+izu434jBb+v4dVXP8hCQ2mrigb83lTiFaL1ex9sYNywq26TaejhGBdRsXkSDW6qLV5vN0orH1M/5bKlSAIsUYvznt/ZvorHqpY/bpFanF2rt35bpywe7on7Pti/SF4Br+B8rNL1XNDYWWEP28wYUK6T/fbNqHffJwb4C2p/ziFrGUT67HnaQ1D8pYJqS38v/I7yQZ7qVL6XJAiRf4BeKHp0OXVZkpMYTInoJwZOzbmm7tObKHcau5dgJdL4cmzk9Iiz4fdxW8BZXw43UhkSjuPdEjlCPt5W/VkaeGzmcBuOtijv0hWgtHc=;az2zcS1F8qgQo5n3EBRp/Q=="
 ---
 
