@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Azure API Management"
 excerpt: "Evaluate whether Azure API Management is appropriate for managing and exposing your organization's APIs"
-webUrl: https://docs.microsoft.com/en-us/learn/introduction-to-azure-api-management/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-api-management/
 type: course
 price: Free
 length: PT29M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "FxDra+J+3/d9xn5b45acG/ibU+rFLGI3OlBHkh6aTx0Ewk+Je/qtMwYh1vHjPgMPOUYF+qDWHCR4+PgF++aHsoLdzsbFzfLqx43aaQ0Lmgz6GfH9yKJkv0KN1DavzRU61H7l/3ofjLwP4I07/o1tyz0F5QLco7sW5nGvxrLWlGq8PThziJBBPi+HxBqmH9U2NgmR2794jGEuqd+Xd0kOhkf8V19Z/aWmYRLxMJxN9CoPfsx/0MDGh5htWBj7oNBPUYfJqtMK4L1x0zSBagQM02GdoJto+gAIWB3GomCJ15dW39LeeCk2cdwz7Va4HEG9TahNVfW00bA3DEuoyk4uv6EYDOEqs2hla3d7SGvy+s90jEAlcEm5Zxi1I6z+oHcE9FRiZhskqiAYHLm/m/qXC7vaSdLablXIpEYgwAX+zFY=;sqTVVVaz/RUXcaYSygKI8g=="
+secured: "de4OQAmYQ2NbQXz5jEAmaJdspqfaxQuXg6ulpc2BTgAg4aRDm5CsISCb3OFBssxEIVK9HAiBoMTgAYkZR3cbzglqGtoIkgX9CfNepZst0AE8snDRDh5Zrjp5BlvuZCuvLEDYV2GoqJIdh67yudwJ75Gz4b+SNMZzUnzMYt3MCvYNFltAhd5z06dsFovt4vI/WwGSiLaaKRZFRYZ4gz6h+MRJrerFPp43CpqjJxCYd3Fc4fEuPXSjOqMofcV75+7SjXwGe8aTe56wqmuf5MzIKLBERQGTqvrtTOZgf4bZ3Yx2zdGe0v2O8J6CebjCPkgV9shBHuvlbe3xdF2u+SZ4ZwBuepPvU6dQ3IDVq1bIkQrHU3LJK5zPvkr3/MGNAYNE4RHuIyggE8/JwZiUjbF7QQ==;hP7xpuv1meeEu/FbOioMEA=="
 ---
 

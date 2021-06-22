@@ -23,6 +23,7 @@ items:
   - courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central
   - courses/microsoft-learn-manage-iot-central-apps-with-rest-api
   - courses/microsoft-learn-continuous-data-export-from-iot-central
+  - courses/microsoft-learn-connect-iot-edge-device-to-iot-central
 
 topics:
   - Azure
