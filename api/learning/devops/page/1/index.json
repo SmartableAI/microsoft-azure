@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-implement-code-workflow.md",
-      "title": "Implement a code workflow in your build pipeline by using Git and GitHub",
-      "excerpt": "Learn along with the Space Game web team the benefits of collaboration through Visual Studio Code and GitHub.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-code-workflow/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
-      "length": "PT1H27M",
+      "path": "_learning/courses/microsoft-learn-deploy-aspnet-apps-azure-app-service-pipelines.md",
+      "title": "Deploy ASP.NET web apps with Azure Pipelines",
+      "excerpt": "Azure Pipelines help automate building, deploying, and maintaining your applications. While they support a wide range of platforms and programming languages, in this module you’ll focus on using them to implement ASP.NET apps on Azure App Service Web Apps with Azure SQL Database as their data store.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-aspnet-apps-azure-app-service-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-aspnet-apps-azure-app-service-pipelines/",
+      "length": "PT1H5M",
       "ratings": {
-        "count": 3971,
-        "average": 4.7650466
+        "count": 29,
+        "average": 4.8965516
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,14 +27,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 132,
+      "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/implement-a-code-workflow-in-your-build-pipeline-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -42,7 +42,9 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "DevOps"
+        "Azure",
+        "DevOps",
+        "Web"
       ]
     },
     {
@@ -76,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 10043,
-            "average": 4.787414
+            "count": 10045,
+            "average": 4.787357
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 11298,
-            "average": 4.7780137
+            "count": 11302,
+            "average": 4.7780924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +164,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 7541,
-            "average": 4.7800026
+            "count": 7545,
+            "average": 4.7801194
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -209,8 +211,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 8504,
-            "average": 4.7258935
+            "count": 8505,
+            "average": 4.725926
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -278,8 +280,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
       "length": "PT22M",
       "ratings": {
-        "count": 8190,
-        "average": 4.7619047
+        "count": 8196,
+        "average": 4.7620792
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -345,8 +347,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 42961,
-            "average": 4.719024
+            "count": 42962,
+            "average": 4.719031
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -380,8 +382,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 1959,
-            "average": 4.7611027
+            "count": 1962,
+            "average": 4.761468
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -423,8 +425,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2761,
-            "average": 4.633828
+            "count": 2762,
+            "average": 4.6339607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -532,8 +534,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
       "length": "PT21M",
       "ratings": {
-        "count": 8504,
-        "average": 4.7258935
+        "count": 8505,
+        "average": 4.725926
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -598,8 +600,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 20351,
-            "average": 4.7052727
+            "count": 20353,
+            "average": 4.7053013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -633,8 +635,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 10502,
-            "average": 4.6997714
+            "count": 10506,
+            "average": 4.699886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -669,8 +671,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 15955,
-            "average": 4.7226577
+            "count": 15959,
+            "average": 4.722727
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -712,8 +714,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 7336,
-            "average": 4.7178297
+            "count": 7338,
+            "average": 4.717907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -793,8 +795,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 3155,
-            "average": 4.7077656
+            "count": 3158,
+            "average": 4.708043
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -836,8 +838,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 5792,
-            "average": 4.7448206
+            "count": 5793,
+            "average": 4.744692
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1011,8 +1013,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2718,
-            "average": 4.7049303
+            "count": 2719,
+            "average": 4.7050385
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1054,8 +1056,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 42961,
-            "average": 4.719024
+            "count": 42962,
+            "average": 4.719031
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1089,8 +1091,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 836,
-            "average": 4.6327753
+            "count": 837,
+            "average": 4.633214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1234,8 +1236,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2761,
-            "average": 4.633828
+            "count": 2762,
+            "average": 4.6339607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1847,8 +1849,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2761,
-            "average": 4.633828
+            "count": 2762,
+            "average": 4.6339607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2149,8 +2151,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2718,
-            "average": 4.7049303
+            "count": 2719,
+            "average": 4.7050385
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2315,8 +2317,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2761,
-            "average": 4.633828
+            "count": 2762,
+            "average": 4.6339607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2578,8 +2580,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-build-dependencies/",
           "length": "PT59M",
           "ratings": {
-            "count": 1986,
-            "average": 4.68429
+            "count": 1987,
+            "average": 4.6844487
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2770,7 +2772,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 132,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/implement-a-code-workflow-in-your-build-pipeline-social.png",
@@ -2837,8 +2839,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-build-dependencies/",
           "length": "PT59M",
           "ratings": {
-            "count": 1986,
-            "average": 4.68429
+            "count": 1987,
+            "average": 4.6844487
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4558,8 +4560,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 2761,
-        "average": 4.633828
+        "count": 2762,
+        "average": 4.6339607
       },
       "provider": {
         "name": "Microsoft Learn",
