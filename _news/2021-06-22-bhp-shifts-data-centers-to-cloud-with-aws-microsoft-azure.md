@@ -42,6 +42,22 @@ related:
         width: 480
         height: 271
         isCached: true
+  - title: "ProdataKey and Microsoft Azure Active Directory integration ensures employee databases are in perfect synchronisation"
+    excerpt: "ProdataKey (PDK), manufacturer of the renowned cloud access control platform built for mobile, now offers integration between its Pdk io software and Microsoft Azure Active Directory. IT departments that rely on Active Directory to simplify user and rights ..."
+    publishedDateTime: 2021-06-22T11:12:00Z
+    webUrl: "https://www.sourcesecurity.com/news/prodatakey-microsoft-azure-active-directory-integration-employee-databases-synchronisation-co-14053-ga-co-15141-ga-npr.1624355119.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/prodatakey-microsoft-azure-active-directory-integration-employee-databases-synchronisation-co-14053-ga-co-15141-ga-npr.1624355119.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/prodatakey-microsoft-azure-active-directory-integration-employee-databases-synchronisation-co-14053-ga-co-15141-ga-npr.1624355119.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 68
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/prodatakey-red-2-controller-red-readers-provide-premium-levels-security-performance-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
   - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
     excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
     publishedDateTime: 2021-06-21T12:09:00Z

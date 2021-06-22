@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-excerpt: "Ardenna's Rail-Inspector is a SaaS offering, only available on Azure. \"Through the Microsoft Azure Marketplace, Rail-Inspector will have a broader exposure to domestic and international railroad ..."
+excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage ..."
 publishedDateTime: 2021-06-15T11:09:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-301310454.html"
-webUrl: "https://www.prnewswire.com/news-releases/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-301310454.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
+webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg?p=facebook"
-    width: 1499
-    height: 785
+  - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -606,6 +610,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "/bmRTpDZWGx7BQmM4Pp5LEEZo5W2aT2rIRTD4FGxE4Pr2jBU4uMWcC6XG9KX5DyHXoZofPRCwlYTfEcseX4C772YQv54MPpvKuQHEJ+vsmid3WSwL7XroM0/sQAG08C81hR7xdlZg42wmsaSbYtW1dFC7eBbf9HhkTkCZpWmtdQzfDNJgwL9czYb5oK39gAOPhttaN9hwyL+zT7DLbvCdXCgYIQ/VmetmhIDXXR7Ia5cdddRkd7DFhZYrfV4cJhpTGbEfrgi0GSX+/eo1mwk5zl8pJuDK6hohLxMXy094SbSB+ErjBBS2NbukKPTwXNjmnTLLlqcyAewsrXY1AAalus+aujxoNrcBj0iiJ+BWgM=;bi5qgysf2vd+wCI9th4zOQ=="
+secured: "XCNGscn9rMUQ+YOeNnN3EqHFWf7FRcSCML4aejFpDUdsk8tqUkjDGUZkbOjPdPseTbpwuUy1JW17gmdmvWxE4rM/niEGnB6Idzki+GUt7THg+n98CEcnMMl5tQ0RCvqmQ4UUXzisocnSpzEtf0GMISg7hsHCDf+H57RRsD7M83DfCSTKTiBfZFEX/NOoFqz/opncRQ8OMMnJTA6YqC7MlEREzjdifXJqX/wc9HhJ3rH+EUGydS5FJb02l4e6dKflV/9lPMcPy73ASa9VMLTA91vHvdxy849P+YZVAuh4zJYV8ptl3EKXI3Pp5Tasrem9ZdJe2iQAlegJ2gitwJQL1URFRVPws2MQgd0EsKAnD4M=;n0+5C/7TUuqQElNOmroF9w=="
 ---
 

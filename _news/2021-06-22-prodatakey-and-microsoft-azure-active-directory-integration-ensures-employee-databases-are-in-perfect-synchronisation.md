@@ -1,21 +1,31 @@
 ---
 category: news
-title: "'A better tomorrow': how the Microsoft cloud is becoming the catalyst for economic resilience and innovation"
-excerpt: "On the second anniversary of its UAE data centres' launch, Microsoft's country GM explains how the facilities have shaped economic resilience and allowed organisations across the Middle East to surviv"
-publishedDateTime: 2021-06-22T06:31:00Z
-originalUrl: "https://www.arabianbusiness.com/technology/465026-better-tomorrow-how-the-microsoft-cloud-is-becoming-the-catalyst-for-economic-resilience-innovation"
-webUrl: "https://www.arabianbusiness.com/technology/465026-better-tomorrow-how-the-microsoft-cloud-is-becoming-the-catalyst-for-economic-resilience-innovation"
+title: "ProdataKey and Microsoft Azure Active Directory integration ensures employee databases are in perfect synchronisation"
+excerpt: "ProdataKey (PDK), manufacturer of the renowned cloud access control platform built for mobile, now offers integration between its Pdk io software and Microsoft Azure Active Directory. IT departments that rely on Active Directory to simplify user and rights ..."
+publishedDateTime: 2021-06-22T11:12:00Z
+originalUrl: "https://www.sourcesecurity.com/news/prodatakey-microsoft-azure-active-directory-integration-employee-databases-synchronisation-co-14053-ga-co-15141-ga-npr.1624355119.html"
+webUrl: "https://www.sourcesecurity.com/news/prodatakey-microsoft-azure-active-directory-integration-employee-databases-synchronisation-co-14053-ga-co-15141-ga-npr.1624355119.html"
+ampWebUrl: "https://www.sourcesecurity.com/amp/news/prodatakey-microsoft-azure-active-directory-integration-employee-databases-synchronisation-co-14053-ga-co-15141-ga-npr.1624355119.html"
+cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/prodatakey-microsoft-azure-active-directory-integration-employee-databases-synchronisation-co-14053-ga-co-15141-ga-npr.1624355119.html"
 type: article
-quality: 0
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Arabian Business
-  domain: arabianbusiness.com
+  name: SourceSecurity
+  domain: sourcesecurity.com
 
 topics:
   - Azure
+  - Identity
+  - Integration
+
+images:
+  - url: "https://www.sourcesecurity.com/img/news/612/prodatakey-red-2-controller-red-readers-provide-premium-levels-security-performance-920x533.jpg"
+    width: 612
+    height: 355
+    isCached: true
 
 related:
   - title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
@@ -33,22 +43,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/er5NpnAErP4CGcAHzgMXxF-480-80.jpg"
         width: 480
         height: 271
-        isCached: true
-  - title: "ProdataKey and Microsoft Azure Active Directory integration ensures employee databases are in perfect synchronisation"
-    excerpt: "ProdataKey (PDK), manufacturer of the renowned cloud access control platform built for mobile, now offers integration between its Pdk io software and Microsoft Azure Active Directory. IT departments that rely on Active Directory to simplify user and rights ..."
-    publishedDateTime: 2021-06-22T11:12:00Z
-    webUrl: "https://www.sourcesecurity.com/news/prodatakey-microsoft-azure-active-directory-integration-employee-databases-synchronisation-co-14053-ga-co-15141-ga-npr.1624355119.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/prodatakey-microsoft-azure-active-directory-integration-employee-databases-synchronisation-co-14053-ga-co-15141-ga-npr.1624355119.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/prodatakey-microsoft-azure-active-directory-integration-employee-databases-synchronisation-co-14053-ga-co-15141-ga-npr.1624355119.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 68
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/prodatakey-red-2-controller-red-readers-provide-premium-levels-security-performance-920x533.jpg"
-        width: 612
-        height: 355
         isCached: true
   - title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
     excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
@@ -224,7 +218,16 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 0
+  - title: "'A better tomorrow': how the Microsoft cloud is becoming the catalyst for economic resilience and innovation"
+    excerpt: "On the second anniversary of its UAE data centres' launch, Microsoft's country GM explains how the facilities have shaped economic resilience and allowed organisations across the Middle East to surviv"
+    publishedDateTime: 2021-06-22T06:31:00Z
+    webUrl: "https://www.arabianbusiness.com/technology/465026-better-tomorrow-how-the-microsoft-cloud-is-becoming-the-catalyst-for-economic-resilience-innovation"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 0
 
-secured: "v9DO4QcFoNSWQSHxahxEnjfRGQ9av0gLjGbFF8dixNKq9W1+Sbc7xLyJz7X6hRz0dmnWBZ6vtdMUGGz1eXmGYNkOpAik3eB6NzUS4q++bfAIcnovR1/gkGo20y+Z/ZG7BJ4Z1cOg/3vlJj8lAqThTHwy07+uQd0NDQL8vpa2kFvnOQ405XtMV2C3/oHi2woIefNCQX4NEzFT/NXfKuZ+k/i5BV8VXopnTzqZeQHeE5mbV9QkW1CbRKnWz5obf9K2CxMxVT/+kzmubEbnNWuK059Bw65DVrsT9W1/P4+V4Sja6i62VxTTEdv9MhkY3bD5vJp0F/CWCLr34grwbfBZqbVLNCNshc35Yu1DKvIsfl29p1nT8oMbO+zFKb72HjqFEVfhZcFq23SZmlTiXWBIjSt0AMn965cNgOIFotOWTipzAr/jG2yKoaWO6iCStYvLxa1I22a2iANeW/6cqDuqEbXJJMBmKUq8g1+dz2WMjca81+JNuYwNdBT8+DO7082/CnZjMVnjR4ZqOjzfcDG/5w==;dWevRzaAFJvQ2CgpL83Jnw=="
+secured: "x7srJiBv/wUZNhG/73ShgfpQS5G/HRlyb5AH+uY+W5zv6ZMJ4NZ9bow6zwXAaLhhmm6+7/rLz9dHOESwXuyjeLn+G/vGB1Pu4GVhYS9ghh6MA4Zw6oJ7ZjCTDe7Og7Yp6woX0PrajLLGZen6HGfXKcX/3fkD2RQGQyAUIg32rY/mTBnTOSewSR/uxNg6aWxNNsr5FRjUDH2r36uyt4eWTYmjJtqCR2HEOfv2r8HtueX9lBc8oRIR44SZrlZcWmT9B8a/8Klu0QyeKbdkzNL+7tsdJxxL0bw6cXHnilpedSiTHpwa/tRnaxCGKINsFm+dz/prUIXPIwbtvLpUc8O8BCyOfG5E5kOBEcz/Lq9xcAE=;I2mfWKZ7yRHzbLZyWX+tug=="
 ---
 
