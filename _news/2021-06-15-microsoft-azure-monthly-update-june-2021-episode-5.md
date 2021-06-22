@@ -106,20 +106,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage ..."
-    publishedDateTime: 2021-06-15T11:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-1030522887"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "This 17-course mega-pack can help you run Microsoft 365, Windows, and Azure like a pro"
     excerpt: "This 17 course bundle covers Microsoft 365, Windows and Azure. Learn how to deliver smooth, secure and configured prorocesses to users and organizations."
     publishedDateTime: 2021-06-08T14:20:00Z
@@ -357,6 +343,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
         width: 1616
         height: 846
+        isCached: true
+  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Ardenna Rail-Inspector to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape ..."
+    publishedDateTime: 2021-06-15T13:03:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53153180-ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Microsoft launches new West US 3 Azure region in Arizona"
     excerpt: "Microsoft has launched a new Azure cloud data center region in Arizona. As with other regions, West US 3 is made up of at least three separate facilities known as Availability Zones. The region has data centers located in the cities of Goodyear and El Mirage,"

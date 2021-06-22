@@ -268,6 +268,17 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Retrospect Announces Integration with Microsoft Azure Blob Storage"
+    excerpt: "Retrospect™, a StorCentric company, today announced the general availability of Microsoft Azure Blob Storage support for Retrospect Backup and Retrospect Virtual. The software updates allow businesses to leverage Azure as a backup destination as well as a cloud storage location to protect on-premise data."
+    publishedDateTime: 2021-06-22T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21668308/retrospect-announces-integration-with-microsoft-azure-blob-storage"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21668308"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21668308"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 86
   - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
     excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
     publishedDateTime: 2020-04-16T18:20:00Z

@@ -282,6 +282,17 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Retrospect Announces Integration with Microsoft Azure Blob Storage"
+    excerpt: "Retrospect™, a StorCentric company, today announced the general availability of Microsoft Azure Blob Storage support for Retrospect Backup and Retrospect Virtual. The software updates allow businesses to leverage Azure as a backup destination as well as a cloud storage location to protect on-premise data."
+    publishedDateTime: 2021-06-22T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21668308/retrospect-announces-integration-with-microsoft-azure-blob-storage"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21668308"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21668308"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 86
   - title: "14 ways AWS beats Microsoft Azure and Google Cloud"
     excerpt: "For all of its dominance, though, Amazon has strong competitors. Companies like Microsoft, Google, IBM, Oracle, SAP, Rackspace, Linnode, and Digital Ocean know that they must establish a real presence in the cloud and they are finding clever ways to compete and excel in what is less and less a commodity business. These rivals offer great ..."
     publishedDateTime: 2020-04-20T10:02:00Z

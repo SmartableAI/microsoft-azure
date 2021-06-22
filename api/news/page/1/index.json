@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-22-optimize-extreme-computing-performance-with-azure-fx-series-virtual-machines.md",
+      "title": "Optimize extreme computing performance with Azure FX-series Virtual Machines",
+      "excerpt": "Today, we are announcing the general availability of the Azure FX-series Virtual Machines available in four regions. Azure FX-series Virtual Machines—based on the 2nd Generation Intel Xeon Scalable Processor—feature a high-performing central processing unit (CPU) clock speed per single core of up to",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/optimize-extreme-computing-performance-with-azure-fxseries-virtual-machines/",
+      "originalUrl": "https://azure.microsoft.com/blog/optimize-extreme-computing-performance-with-azure-fxseries-virtual-machines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6ae7d1ab-a68b-4e5d-b731-f05fce192011.png",
+          "width": 1024,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T02:00:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses.md",
       "title": "HPE and Microsoft Azure team up to offer more flexible cloud for businesses",
       "excerpt": "(HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Microsoft SQL Server. With this new integration, organizations can gain additional flexibility and control over their on-premises workloads and hybrid working experience.",
@@ -61,7 +113,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/gacrossregionrestoresqlsaphana/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 86,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1110,49 +1162,6 @@
         "Azure",
         "Analytics",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-public-preview-aks-support-for-containerd-for-windows-server-containers.md",
-      "title": "Public preview: AKS support for containerd for Windows server containers",
-      "excerpt": "Benefit from enhanced pod creation speed and stability when creating Windows server containers in AKS.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-containerd-for-windows-server-containers/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-containerd-for-windows-server-containers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T09:00:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     }
   ],

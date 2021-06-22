@@ -1,27 +1,25 @@
 ---
 category: news
-title: "Microsoft announces Azure availability zones in Brazil"
-excerpt: "Microsoft has announced availability zones for the south of Brazil in São Paulo State, as promised in October 2020. The company also promised to expand its zone coverage during 2021. The announcement is part of Microsoft's \"More Brazil\" plan,"
-publishedDateTime: 2021-03-18T12:57:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-azure-availability-zones-brazil/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-azure-availability-zones-brazil/"
+title: "Retrospect Announces Integration with Microsoft Azure Blob Storage"
+excerpt: "Retrospect™, a StorCentric company, today announced the general availability of Microsoft Azure Blob Storage support for Retrospect Backup and Retrospect Virtual. The software updates allow businesses to leverage Azure as a backup destination as well as a cloud storage location to protect on-premise data."
+publishedDateTime: 2021-06-22T15:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21668308/retrospect-announces-integration-with-microsoft-azure-blob-storage"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21668308/retrospect-announces-integration-with-microsoft-azure-blob-storage"
+ampWebUrl: "https://www.benzinga.com/amp/content/21668308"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21668308"
 type: article
-quality: 37
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://media.datacenterdynamics.com/media/images/SaoPaulo.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 631
-    isCached: true
+  - Storage
+  - Integration
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -278,17 +276,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Retrospect Announces Integration with Microsoft Azure Blob Storage"
-    excerpt: "Retrospect™, a StorCentric company, today announced the general availability of Microsoft Azure Blob Storage support for Retrospect Backup and Retrospect Virtual. The software updates allow businesses to leverage Azure as a backup destination as well as a cloud storage location to protect on-premise data."
-    publishedDateTime: 2021-06-22T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21668308/retrospect-announces-integration-with-microsoft-azure-blob-storage"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21668308"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21668308"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 86
   - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
     excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
     publishedDateTime: 2020-04-16T18:20:00Z
@@ -1313,6 +1300,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft announces Azure availability zones in Brazil"
+    excerpt: "Microsoft has announced availability zones for the south of Brazil in São Paulo State, as promised in October 2020. The company also promised to expand its zone coverage during 2021. The announcement is part of Microsoft's \"More Brazil\" plan,"
+    publishedDateTime: 2021-03-18T12:57:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-azure-availability-zones-brazil/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/SaoPaulo.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "Microsoft is making Azure more resilient with new availability zones"
     excerpt: "Microsoft Corp. today said that it will deploy availability zones in all the regions where it maintains cloud data centers to provide Azure customers with increased protection against outages."
     publishedDateTime: 2021-03-17T22:07:00Z
@@ -2042,6 +2043,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "ZR5xlxATZafVf0ZbST3iqKUV7ob8SVpvcocPL0nNdYP1Rco9QLPetRV8onU/BsFmC8MCpu8y7nCvUPypMk2Hv442JoBFtf40Rc2TCZ0nbdotMKmPwMoq3v3KWTnneaYh6i3ofJCQxRj92wfuKHGnkHCzOqzhtVyPpIs/VDk4V2KimKcBFar36iqxtNdH3LxTE5hpT3vKf8TXuPKf6VwaWyN7TBCQhFVmCIKtMyChCfd9FHJlwU9j7ouQuU2XYAyzVsvOaXJsfK9skUp/ITxrs0QLKe8gR3TmpsOwji3kmstwhlcepb9RO5t0qV7u47xNxrCUenVVtJy7vjZO7gjhbsLH9JxMEDJyVmCiWCdlydrDATSfxEw3k7g5C9VOtDiSx9xO7JcXUJm58m31J325X01PnF5b5g4av7u2zqIaDhawFui1gZoAb8EOUqSJiYuLsr1qGdK4S8CXS/GmG49X8MSnHl8Yls7qAeoUYjR2f7HpEoXvr8uY8R5kpWpiQyFCiIWP/wOtmFmKv8o0fzT+ZA==;TeJufcwDlnkvBi+7Fc6lLQ=="
+secured: "nLRXVyYN/dT8oXnU29c9+pch4r9jF0mQ/d3JL1GYvxRtFPE3pFHmXmwhpDUhz6DesV89ZhgZUNC6R2Kt07OFMutE9Aoz5W4xqOIf6m6EeskQx/hx8sCO30Me3uQa5OrC0yVtkQ+papWjuhhtujq31rro6o6anU1Oz/B/TCDhyaxwNmNS5r28xXNigFTSW0SGXyDJev6vIfAEU3+0PchvupSJbCVM2gpafJONQ7MQP9Itmzm9CtZFBYFyqVA231pi9BejarJeply0En2akcgODzRXKX2NL9XbNNm3DGR/nwSNEu7aj0Ro85cg0lks2hIpI5DqfeUpbUfFv6mc+Rip8rDrRnQJUKNT8XaW/EEv9Xg=;r4uGlf3ScDcSgG29yTBDnw=="
 ---
 

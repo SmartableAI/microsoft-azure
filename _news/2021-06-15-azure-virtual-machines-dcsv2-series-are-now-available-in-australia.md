@@ -22,51 +22,20 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Virtual Machines DCsv2-series is now available in West US 2"
-    excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, UK South, West Europe, and West US 2."
-    publishedDateTime: 2020-08-14T03:11:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-us2/"
+  - title: "Optimize extreme computing performance with Azure FX-series Virtual Machines"
+    excerpt: "Today, we are announcing the general availability of the Azure FX-series Virtual Machines available in four regions. Azure FX-series Virtual Machines—based on the 2nd Generation Intel Xeon Scalable Processor—feature a high-performing central processing unit (CPU) clock speed per single core of up to"
+    publishedDateTime: 2021-06-22T09:00:13Z
+    webUrl: "https://azure.microsoft.com/blog/optimize-extreme-computing-performance-with-azure-fxseries-virtual-machines/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Azure Virtual Machines DCsv2-series are now available in Canada East"
-    excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, Canada East, UK South, West Europe, and West US 2."
-    publishedDateTime: 2020-08-24T17:05:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-canada-east/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Virtual Machines DCsv2-series are now available in Southeast Asia"
-    excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, Canada East, Southeast Asia, UK South, West Europe, and West US 2."
-    publishedDateTime: 2020-09-11T20:44:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-southeast-asia/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Virtual Machines DCsv2-series is now available in West Europe"
-    excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, UK South, and West Europe."
-    publishedDateTime: 2020-06-22T16:00:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-europe/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "New DCsv2-series virtual machines are now available"
-    excerpt: ""
-    publishedDateTime: 2020-04-27T19:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-dcsv2series-virtual-machines-are-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
+    quality: 101
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6ae7d1ab-a68b-4e5d-b731-f05fce192011.png"
+        width: 1024
+        height: 614
+        isCached: true
 
 secured: "mUelc/ytHTMojI048fLkN1GF9eSI2cd8M78bx83acCtKQcDXtIbvqTJyjVrKvtbVvCX5DvQ5EQubAkRBx0ZmcLhO01sXbsYQurCS99JZ6+PfMJdYxyFbvJrNAvips7u56JGUmYZV+U6j6nnyP4Z8g0XRuL9qv+0GI/Lp/3QwxR3qbx/xe53xCBNLCKMk+DaCJuexVJEP51K1jY6MCsh6OfJOliQ7ybCyAd4eZEqtNO8BOYm1A659Wla2rE5mCpUiYJcT6MN7kRiCdo8bsNZQFom3S5H6j/w6xsqmU8OsUHIgaLTFWMDTFa8mH9Ss9aRDhZYS/Jb1vY0kgaGofykuWZtxVEgHP731HANsJdfNbkI=;Abd4iHDrmL9Gs1pnwfu8DQ=="
 ---
