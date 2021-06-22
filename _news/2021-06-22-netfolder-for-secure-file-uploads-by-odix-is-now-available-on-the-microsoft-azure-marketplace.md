@@ -172,6 +172,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 23
+  - title: "HPE buys AI startup, expands HPE GreenLake with support for Microsoft Azure Stack, SQL Server"
+    excerpt: "Hewlett Packard Enterprise (HPE) has bought Determined AI, an AI startup based in San Francisco, for an undisclosed amount. Determined AI is the developer of a software stack that trains AI models more quickly,"
+    publishedDateTime: 2021-06-22T07:28:00Z
+    webUrl: "https://www.telecompaper.com/news/hpe-buys-ai-startup-expands-hpe-greenlake-with-support-for-microsoft-azure-stack-sql-server--1387507"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 23
   - title: "An Introduction to Microsoft Azure Cloud and Its Benefits for Business!"
     excerpt: "We all know Azure is an open and flexible cloud platform from Microsoft. An innovative platform that businesses can leverage to quickly build, deploy and manage applications and services. But it doesn’t end there, Azure comes with many associated ..."
     publishedDateTime: 2021-05-14T11:23:00Z
@@ -189,6 +198,15 @@ related:
     provider:
       name: Financial Buzz
       domain: financialbuzz.com
+    quality: 0
+  - title: "'A better tomorrow': how the Microsoft cloud is becoming the catalyst for economic resilience and innovation"
+    excerpt: "On the second anniversary of its UAE data centres' launch, Microsoft's country GM explains how the facilities have shaped economic resilience and allowed organisations across the Middle East to surviv"
+    publishedDateTime: 2021-06-22T06:31:00Z
+    webUrl: "https://www.arabianbusiness.com/technology/465026-better-tomorrow-how-the-microsoft-cloud-is-becoming-the-catalyst-for-economic-resilience-innovation"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
     quality: 0
 
 secured: "ZZpajuzeTi9EofOiyjTQgyVIgyf8LztwKo8g88dKhDQRu2VSXqx5Cdb/p93D4F2sQCi5kuYEVZmF2tp6nrYkkrvzOhcrrEb1R/1WwQLEBRFVrVAE0pC+/LK8rX5F2zhuL3Z+krHGha16ojGa0Pk2r8m5IG+fqsQCJwZhwhJQO3YpFtJ5wpw/Wavq7HJxnzfjBMGtM9DnmgymdwexjJBNJcsQ3XdJ31dJdMDQNbW+Xd3CuVrmmf4ZBVK1DOw5jLjmDdoGXJ7NPcINh7m8J0i6S5Cc3l8LIOmXZSdn617lmp3nxK1WleEoS/lf6dGfimO1WmrdT1FkHgsqZ2Yzf3XSju3VPpOJiT/qRnvL+2GhwWo=;SPXFiwfZn+Gm9UoTA9OELg=="

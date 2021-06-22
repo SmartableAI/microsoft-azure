@@ -1,29 +1,22 @@
 ---
 category: news
-title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
-excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
-publishedDateTime: 2021-06-22T04:42:00Z
-originalUrl: "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
-webUrl: "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
-ampWebUrl: "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
-cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+title: "HPE buys AI startup, expands HPE GreenLake with support for Microsoft Azure Stack, SQL Server"
+excerpt: "Hewlett Packard Enterprise (HPE) has bought Determined AI, an AI startup based in San Francisco, for an undisclosed amount. Determined AI is the developer of a software stack that trains AI models more quickly,"
+publishedDateTime: 2021-06-22T07:28:00Z
+originalUrl: "https://www.telecompaper.com/news/hpe-buys-ai-startup-expands-hpe-greenlake-with-support-for-microsoft-azure-stack-sql-server--1387507"
+webUrl: "https://www.telecompaper.com/news/hpe-buys-ai-startup-expands-hpe-greenlake-with-support-for-microsoft-azure-stack-sql-server--1387507"
 type: article
-quality: 57
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Steel News
-  domain: steelguru.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true"
-    width: 1200
-    height: 849
-    isCached: true
+  - AI
 
 related:
   - title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
@@ -41,6 +34,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/er5NpnAErP4CGcAHzgMXxF-480-80.jpg"
         width: 480
         height: 271
+        isCached: true
+  - title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
+    excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
+    publishedDateTime: 2021-06-22T04:42:00Z
+    webUrl: "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+    ampWebUrl: "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+    cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+    type: article
+    provider:
+      name: Steel News
+      domain: steelguru.com
+    quality: 57
+    images:
+      - url: "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 849
         isCached: true
   - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
     excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
@@ -173,15 +182,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 23
-  - title: "HPE buys AI startup, expands HPE GreenLake with support for Microsoft Azure Stack, SQL Server"
-    excerpt: "Hewlett Packard Enterprise (HPE) has bought Determined AI, an AI startup based in San Francisco, for an undisclosed amount. Determined AI is the developer of a software stack that trains AI models more quickly,"
-    publishedDateTime: 2021-06-22T07:28:00Z
-    webUrl: "https://www.telecompaper.com/news/hpe-buys-ai-startup-expands-hpe-greenlake-with-support-for-microsoft-azure-stack-sql-server--1387507"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 23
   - title: "An Introduction to Microsoft Azure Cloud and Its Benefits for Business!"
     excerpt: "We all know Azure is an open and flexible cloud platform from Microsoft. An innovative platform that businesses can leverage to quickly build, deploy and manage applications and services. But it doesn’t end there, Azure comes with many associated ..."
     publishedDateTime: 2021-05-14T11:23:00Z
@@ -210,6 +210,6 @@ related:
       domain: arabianbusiness.com
     quality: 0
 
-secured: "0Qj9wZv94Tc5a8OcHNsmKtcwfw4nQJ9oIW0gld0n6Skx232tFoH/Vf/D0/RNoZLQNEJrFpytYMxbjOfAJ10NZaW0BRVgJQARlCdO1HKGmI4xcwKh04MupOg23xSVhIlBTroCazSXsGfUtG9lXPmjj4n9JtmipizYY53es/89plUqLuLiEYsElmlNHXJNQyzfNvA5+Ax+WFOv4cnCaUTvj9JdPAr9Aci/wd1dPwfSr9p7ryNh8pDpxZ0vdwFH0DS9cgYhU0eSurbAlpK/B4ikULd5zJwca74pB0qIxw/ee0oMYbusb2zSIgsBm6vRCuD3I/5T4PMNw9IqoLA3g1DQwJIPD4K7pujo84iFldpZPPVLWVuNj9Ey1pW6q8mYrX9dJxa8FNB7KP0qxVkksQOhbp/XAhYTYf6E5zuf2O2PCrE0yO6Bx9BkYxosePA9oqxBgHxLAA1V2kTg9HuxZ7cZlbggvjSbTMXUzLZn0rdMFnq20YQacRVtHXbyVbaQuMs/YvUHpk3XOMnawihVNfHouQ==;yAQ2TwIjulalD6ysl/fIcg=="
+secured: "x9cIBHu5qnrViPePd95FfjRPCnOg4ESQXiKzypkLH86OmurTRj58PGMlw8lAsoetZYXRiA55jQRT0ctAIyv1qe6TnmJsQa36ekV4c51z++L20RPooqCXO4TAxCXJglPGa0LUga20jMmJzyeIRCd5e7sfM1OfMhP2IVxll0wuAncCfiQhhtTYUiG8yOPUe7/AUB1pxSaXPG6LJxArNHBmMqijtQuoUihrCTk6Xyz6RT3KZbf6aDdXo72WM0jVH8QdFAbGGtbaPCiloXZ8yOLINsyyxbjpzGhkNsX1g5bvU8WT9qfbxK8Lrjbsq74jnbn7GnJ9HyJ+1r/PgLoe59s0JsRlctMPelbRHr4tLFbbAGE=;JMAObGhXufXoPtL+zd36+A=="
 ---
 

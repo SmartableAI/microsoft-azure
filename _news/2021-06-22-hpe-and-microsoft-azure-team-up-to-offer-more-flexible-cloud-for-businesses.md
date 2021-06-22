@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-t
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
 type: article
 quality: 95
-heat: 355
+heat: 395
 published: true
 
 provider:
@@ -177,6 +177,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 23
+  - title: "HPE buys AI startup, expands HPE GreenLake with support for Microsoft Azure Stack, SQL Server"
+    excerpt: "Hewlett Packard Enterprise (HPE) has bought Determined AI, an AI startup based in San Francisco, for an undisclosed amount. Determined AI is the developer of a software stack that trains AI models more quickly,"
+    publishedDateTime: 2021-06-22T07:28:00Z
+    webUrl: "https://www.telecompaper.com/news/hpe-buys-ai-startup-expands-hpe-greenlake-with-support-for-microsoft-azure-stack-sql-server--1387507"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 23
   - title: "An Introduction to Microsoft Azure Cloud and Its Benefits for Business!"
     excerpt: "We all know Azure is an open and flexible cloud platform from Microsoft. An innovative platform that businesses can leverage to quickly build, deploy and manage applications and services. But it doesn’t end there, Azure comes with many associated ..."
     publishedDateTime: 2021-05-14T11:23:00Z
@@ -194,6 +203,15 @@ related:
     provider:
       name: Financial Buzz
       domain: financialbuzz.com
+    quality: 0
+  - title: "'A better tomorrow': how the Microsoft cloud is becoming the catalyst for economic resilience and innovation"
+    excerpt: "On the second anniversary of its UAE data centres' launch, Microsoft's country GM explains how the facilities have shaped economic resilience and allowed organisations across the Middle East to surviv"
+    publishedDateTime: 2021-06-22T06:31:00Z
+    webUrl: "https://www.arabianbusiness.com/technology/465026-better-tomorrow-how-the-microsoft-cloud-is-becoming-the-catalyst-for-economic-resilience-innovation"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
     quality: 0
 
 secured: "OF/b6XjPeuOK5CnzHTKU3JH4j4lVc4gxmteB1wJzxcenyMKm4xd/09UfQnObXNdWV+g6d04XRQt+HA+U5o07SDQtpwav0EofobRofn9BDHvlcfRUkT/gP09Bm4Z1d0YSMrMoxHWS2qPqDcEz97SFKb1y15y1GSqb7KoDPH+I55prXuUjQ8wji/f4EtGwvEzFanZAFciDcKs7PIG5VzMgBlsjik2vmdtdhVSgX+SNPS3y73IORThAR7IGVaP82SNcjgYpC43FLk0mskpZnk6r8Nk0w1hAJ9mF4wsvMCwGJMTA9Yw5p242MWN0NlvzwVEyYWAsiyfWj1I5Om7j39JP/E6ZIKk7XqUP01aWzuZ+zPJXv1EQ7ugGShhZwOlpkIibMkWyxOsEdjzWcRKgSpXsalM9Ka+xzE9Hefac9ahr9KjAxto9jvKQSXmNeMJHyTvVkmoDJZQycsW0QjKfJtQp0wxwoq5Aj3mK+xcpTKJXGmZcEU6fXvU8fY/YcO5pCFXmdjVY5XRYd5wTcvhbqg9bpw==;/SWFxBkJr6qrUShcZTWtgg=="

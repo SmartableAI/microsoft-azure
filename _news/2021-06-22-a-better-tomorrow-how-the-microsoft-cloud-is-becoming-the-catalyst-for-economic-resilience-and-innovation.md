@@ -1,29 +1,21 @@
 ---
 category: news
-title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
-excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
-publishedDateTime: 2021-06-22T04:42:00Z
-originalUrl: "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
-webUrl: "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
-ampWebUrl: "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
-cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+title: "'A better tomorrow': how the Microsoft cloud is becoming the catalyst for economic resilience and innovation"
+excerpt: "On the second anniversary of its UAE data centres' launch, Microsoft's country GM explains how the facilities have shaped economic resilience and allowed organisations across the Middle East to surviv"
+publishedDateTime: 2021-06-22T06:31:00Z
+originalUrl: "https://www.arabianbusiness.com/technology/465026-better-tomorrow-how-the-microsoft-cloud-is-becoming-the-catalyst-for-economic-resilience-innovation"
+webUrl: "https://www.arabianbusiness.com/technology/465026-better-tomorrow-how-the-microsoft-cloud-is-becoming-the-catalyst-for-economic-resilience-innovation"
 type: article
-quality: 57
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Steel News
-  domain: steelguru.com
+  name: Arabian Business
+  domain: arabianbusiness.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true"
-    width: 1200
-    height: 849
-    isCached: true
 
 related:
   - title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
@@ -41,6 +33,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/er5NpnAErP4CGcAHzgMXxF-480-80.jpg"
         width: 480
         height: 271
+        isCached: true
+  - title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
+    excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
+    publishedDateTime: 2021-06-22T04:42:00Z
+    webUrl: "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+    ampWebUrl: "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+    cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+    type: article
+    provider:
+      name: Steel News
+      domain: steelguru.com
+    quality: 57
+    images:
+      - url: "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 849
         isCached: true
   - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
     excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
@@ -200,16 +208,7 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 0
-  - title: "'A better tomorrow': how the Microsoft cloud is becoming the catalyst for economic resilience and innovation"
-    excerpt: "On the second anniversary of its UAE data centres' launch, Microsoft's country GM explains how the facilities have shaped economic resilience and allowed organisations across the Middle East to surviv"
-    publishedDateTime: 2021-06-22T06:31:00Z
-    webUrl: "https://www.arabianbusiness.com/technology/465026-better-tomorrow-how-the-microsoft-cloud-is-becoming-the-catalyst-for-economic-resilience-innovation"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 0
 
-secured: "0Qj9wZv94Tc5a8OcHNsmKtcwfw4nQJ9oIW0gld0n6Skx232tFoH/Vf/D0/RNoZLQNEJrFpytYMxbjOfAJ10NZaW0BRVgJQARlCdO1HKGmI4xcwKh04MupOg23xSVhIlBTroCazSXsGfUtG9lXPmjj4n9JtmipizYY53es/89plUqLuLiEYsElmlNHXJNQyzfNvA5+Ax+WFOv4cnCaUTvj9JdPAr9Aci/wd1dPwfSr9p7ryNh8pDpxZ0vdwFH0DS9cgYhU0eSurbAlpK/B4ikULd5zJwca74pB0qIxw/ee0oMYbusb2zSIgsBm6vRCuD3I/5T4PMNw9IqoLA3g1DQwJIPD4K7pujo84iFldpZPPVLWVuNj9Ey1pW6q8mYrX9dJxa8FNB7KP0qxVkksQOhbp/XAhYTYf6E5zuf2O2PCrE0yO6Bx9BkYxosePA9oqxBgHxLAA1V2kTg9HuxZ7cZlbggvjSbTMXUzLZn0rdMFnq20YQacRVtHXbyVbaQuMs/YvUHpk3XOMnawihVNfHouQ==;yAQ2TwIjulalD6ysl/fIcg=="
+secured: "v9DO4QcFoNSWQSHxahxEnjfRGQ9av0gLjGbFF8dixNKq9W1+Sbc7xLyJz7X6hRz0dmnWBZ6vtdMUGGz1eXmGYNkOpAik3eB6NzUS4q++bfAIcnovR1/gkGo20y+Z/ZG7BJ4Z1cOg/3vlJj8lAqThTHwy07+uQd0NDQL8vpa2kFvnOQ405XtMV2C3/oHi2woIefNCQX4NEzFT/NXfKuZ+k/i5BV8VXopnTzqZeQHeE5mbV9QkW1CbRKnWz5obf9K2CxMxVT/+kzmubEbnNWuK059Bw65DVrsT9W1/P4+V4Sja6i62VxTTEdv9MhkY3bD5vJp0F/CWCLr34grwbfBZqbVLNCNshc35Yu1DKvIsfl29p1nT8oMbO+zFKb72HjqFEVfhZcFq23SZmlTiXWBIjSt0AMn965cNgOIFotOWTipzAr/jG2yKoaWO6iCStYvLxa1I22a2iANeW/6cqDuqEbXJJMBmKUq8g1+dz2WMjca81+JNuYwNdBT8+DO7082/CnZjMVnjR4ZqOjzfcDG/5w==;dWevRzaAFJvQ2CgpL83Jnw=="
 ---
 
