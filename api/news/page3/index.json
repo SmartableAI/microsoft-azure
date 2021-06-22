@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-28-azure-database-for-postgresql-flexible-server-public-preview-managed-pgbouncer-in-public-preview.md",
+      "title": "Azure Database for PostgreSQL – Flexible Server (public preview) managed PgBouncer in public preview",
+      "excerpt": "PgBouncer, a popular connection pooler for Postgres, is now part of the Azure Database for PostgreSQL - Flexible Server (preview) managed service.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-managed-pgbouncer-in-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-managed-pgbouncer-in-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T09:00:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-using-pulumi-30-to-manage-azure-infrastructure.md",
       "title": "Using Pulumi 3.0 to manage Azure infrastructure",
       "excerpt": "The Pulumi IaC (infrastructure-as-code) platform takes an interesting route to delivering cloud infrastructures. Instead of using a domain-specific language like Bicep or declarative configurations like Azure’s ARM templates,",
@@ -1142,49 +1185,6 @@
       "topics": [
         "Azure",
         "Compute"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-azure-sql-managed-instance-a-performance-optimization-change-to-default-settings-is-coming-soon.md",
-      "title": "Azure SQL Managed Instance - A performance optimization change to default settings is coming soon",
-      "excerpt": "Upcoming changes to Azure SQL Managed Instance will improve workload performance and reduce unnecessary resource utilization.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-a-performance-optimization-change-to-default-settings-is-coming-soon/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-a-performance-optimization-change-to-default-settings-is-coming-soon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T09:01:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],
