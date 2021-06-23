@@ -30,6 +30,12 @@ topics:
   - Compute
   - Serverless
 
+images:
+  - url: https://docs.microsoft.com/learn/achievements/set-up-mixed-reality-azure-digital-twins-unity-social.png
+    width: 641
+    height: 321
+    isCached: true
+
 secured: "R+sQooZTcBjrfaTmT8xiWA/vHihtCpZd0T0wBvSGMA02Xh6DSwAhs40hAKKBgHaaA7v05CtiWvKwJ5QDasjXPgCx75T7fS/4d3NymLzG3ZAOPFhccWRxh3o6RScZB8VImDWB7InjWDSCHeLb5nF5/QvDC0coahw2SdxvYX5eVCA/iZzntxIiWP5f7g5LVEavG/WXS3aqlSc0SeznPqIgifIFEnbTwmGIBa9Mp9MX0mWGNjp9nc0CXQmXYiZQjzxQGLBHt4fBNk3gVKCcEq4VIebzGIa2tsNSaSP6zoIzlV1qbsTYNH78+hmD92W4Bl0nxWjnIVi7nPKhmNYoIG7mZd/eCEoXUHiJcRpewmGhiZDZiKAIfnhKy2q2M/08fSWANhx+/Lzhh85UrfFaBepZLPYWF3f5MYVd4Dk1Jwhcyvc=;l0lf7nUaWCwW8Ws8WGEHNw=="
 ---
 

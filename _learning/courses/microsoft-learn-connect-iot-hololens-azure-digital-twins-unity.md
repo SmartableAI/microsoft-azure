@@ -30,6 +30,12 @@ topics:
   - Compute
   - Serverless
 
+images:
+  - url: https://docs.microsoft.com/learn/achievements/connect-iot-hololens-azure-digital-twins-unity-social.png
+    width: 641
+    height: 321
+    isCached: true
+
 secured: "90ZeZpMsagQcwskt1vaJYMGdymbb/bExmrnvmTTSa30v7G2iJwcIFF0SVKUS9Nano5KxuK4zrDyJuY+WiWga4U4vd3iQKQtIoy0+O8ACnBx4KkkUINC9/ygbuaYJqV5pB962saZjO5WidGJONKLsPnqhBlo7RvmmJP0b1oxfxwkYCibmP3EiNMwKG9vZpZg6VnU168LtLpS+a/LLWPBi5/jeZV94PgjoipCD8hXCC3xu+XZzQE9awvovOCOfPYsZTdftOjCx6NmlJ9Txivk7uU7eM1W8NLvJ7Hkvg69b9QgVHQx3ZZ8BGU+or6aST+QLinuzmuV2Kjw4bKdvRLHSj8IfaxU1SjPPU7TCtAlmAucGDCARmz+NvtFP7xLdru12HksrDMhzZUM0ztGZkTDdwQYemJ9IL82mef1eFIwndKU=;hmJcEZiJ3eMLJ1FGCpThJA=="
 ---
 

@@ -30,6 +30,12 @@ topics:
   - Compute
   - Serverless
 
+images:
+  - url: https://docs.microsoft.com/learn/achievements/configure-3d-assets-mixed-reality-unity-social.png
+    width: 641
+    height: 321
+    isCached: true
+
 secured: "U/etuRnXlW6UXiPAD/iNvsvqy+1xWBS2+hdZceQoL6/BrxiMLh0W4/A6zS1SUDBLB1Hpa8cwA8bG1exZjFvHYMafo2f4iJ5CEE+J/Y3K1AM5Bug35Xp5JOH0f66mS552BKo/KA9i8PsqPiEX6mNs91pebDfkZQpYCdbqVFG2P5ZUaoj70bWg31S3MayUPvMm4oucMRqRtcVPlQeJnyw4aYGjZ+f6mIO0894V8UmmWERZfVYsoB/K97ykOekQH8pn3LW/bPd/cl3x60N5TppMf1UTG52M/z5uH1HZLqAiTbB7kDPiSeqnZCael4Q+uXSzLrUdxD9FH2Gtl+4MPC2V2yzqoVXJ4m1eB9HKaOo/awnTgJ+rq10WTfrWmplzLogZT0lykwAOSrbAN9UZSp5ooAZdnOm1g7IqkcRP2P+71SU=;0cZDSs5J5SIwEu2tzxnxdw=="
 ---
 

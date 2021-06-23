@@ -30,6 +30,12 @@ topics:
   - Compute
   - Serverless
 
+images:
+  - url: https://docs.microsoft.com/learn/achievements/build-3d-scene-mixed-reality-unity-social.png
+    width: 641
+    height: 321
+    isCached: true
+
 secured: "9kbZCUqW7UPWcZ4siJAxNEz1miwTso87hmlPeQupjyP7lXY+Tk9owWrItH8BLBF7l0Uczhn8TCB7+lmTXz+DjVj20TfjbD/70I5LBeeIz+M8a/DSBDq4vhzFB68k7NvsthZSkS14JxK38RFf0h1hoQiBZ/9BY7cfa9vhmPp3b8sC/aF8I5kdCyqU5UysJOE0NNMWG332+7LnxaPEAGQVba0Zdl14AIs0UocCVp3I4sZ/PKwWTeO7PabXq8ZjBnSCz76/G5enmZO0SOIfCOs5xLJhSx8z2qEhb/1qkbhrYCA5LFxcFnom708zzZIMlBd5IOinDV5f4wwcPegrMXiKt/DstDHcZB/Dq5BZ+FJlxUgX/axiJ8auvALg4R+XwA3TFk6Dd8K19pgj9sxPlCOkFBfGHoRoM4pk1qti2vbm0YM=;hyrl0lMJ7HpBiaTusvXSIg=="
 ---
 
