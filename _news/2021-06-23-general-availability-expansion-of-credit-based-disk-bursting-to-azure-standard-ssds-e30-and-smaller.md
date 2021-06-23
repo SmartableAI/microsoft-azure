@@ -1,0 +1,46 @@
+---
+category: news
+title: "General availability: Expansion of credit-based disk bursting to Azure Standard SSDs E30 and smaller"
+excerpt: "Credit-based disk bursting, which allows you to handle unexpected disk traffic and batch jobs smoothly without the need to overprovision your disk, is now available on Azure Standard SSDs E30 and smaller."
+publishedDateTime: 2021-06-23T16:00:50Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-expansion-of-creditbased-disk-bursting-to-azure-standard-ssds-e30-and-smaller/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-expansion-of-creditbased-disk-bursting-to-azure-standard-ssds-e30-and-smaller/"
+type: article
+quality: 52
+heat: -1
+published: false
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+
+related:
+  - title: "General availability: Cross region Restore of SQL/SAP HANA running in Azure VM"
+    excerpt: "General availability of Cross Region Restore of SQL/SAP HANA databases running in Azure VM allows to restore data in the secondary region for compliance/audit and outage scenarios."
+    publishedDateTime: 2021-06-17T16:54:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/gacrossregionrestoresqlsaphana/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
+  - title: "General availability: Confidential Computing price reduction on DCsv2 virtual machines"
+    excerpt: "DCsv2-series Azure Virtual Machines protect the confidentiality and integrity of your data and code while it’s processed in the public cloud. The price for this offering is now 37% lower."
+    publishedDateTime: 2021-06-10T16:48:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/dcsv2-vms-pricing-reduction/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 44
+
+secured: "d+Q+P5ElQBJYxL0kcJWEnO6GEy85QdFEKbUVGG1NDGEaUw2z0xPiAE8YGg727y9s28WjZ91FRW2m6JvaUoak/0owcYjHkjMRq6yl/tGngYKFqhkPATGodD6mHogUR9MNrSpU4OQxnK/N1kEnEO3Z8HJcqtjdTGrjdcZ/rb61htwHhiKscxf74I+CGTk+plxcW4TUtIQkPAjtjiWL0FzKTm33zSCm2ch1x558awNsCwxmB62QdXotUIjCqbb9tI/X/QOruBRcJ3y6VoR3On2a2NGkJKEmtwo4qeu4reT4phe/emPYZdbqthwxAZhxxVhX9gyiqGqLj8XWCYhbfBJHhjEiN/6Z1lF1h9c3GWFRmWM=;+6AncppQ/d6VLkOW6MaANA=="
+---
+

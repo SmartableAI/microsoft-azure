@@ -45,6 +45,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure IoT Edge for Linux now generally available"
+    excerpt: "Leverage existing Windows expertise and seamlessly connect Azure IoT Edge for Linux on Windows devices to Microsoft Azure and quickly bring cloud intelligence to your edge."
+    publishedDateTime: 2021-06-23T16:00:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-edge-for-linux-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Hybrid Benefit -- Linux Preview"
     excerpt: "Azure Hybrid Benefit - Linux provides convenience and agility for customers who use Red Hat Enterprise Linux and SUSE Linux Enterprise Server with a valid subscription. Customers can use existing Linux subscriptions for easy cloud adoption without the need to reboot their production environment and enjoy"
     publishedDateTime: 2020-09-22T16:00:00Z

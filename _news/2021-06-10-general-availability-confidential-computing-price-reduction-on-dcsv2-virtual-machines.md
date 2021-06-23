@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
+  - title: "General availability: Expansion of credit-based disk bursting to Azure Standard SSDs E30 and smaller"
+    excerpt: "Credit-based disk bursting, which allows you to handle unexpected disk traffic and batch jobs smoothly without the need to overprovision your disk, is now available on Azure Standard SSDs E30 and smaller."
+    publishedDateTime: 2021-06-23T16:00:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-expansion-of-creditbased-disk-bursting-to-azure-standard-ssds-e30-and-smaller/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "ZjHtwxlfiHJaJCOYnr1XQAoL2F+3BQTa1drmHhf+dXrzhYC8233ouJaTh+ovqjBap1wyNxnRcG7h16W9rYphRd0nAWIC2o6wooW75zHwRWclJzsvY4hKVHRIYpFwjJNUQLUPrrfO0BE7SgXJG/pP9QH3qoOEh51ayivGSNfw1bCbCtHpb6ZPB/m/qrDUNowAt5vXMPYTfMRrKODVPxTX0QI+cSrdLYhGvJXsY2gvbUILOIUM0Ajqjquen1ghDoirEHKnGLy4inljGbb0sEPCYIrNHzAxZSygfSFPo4TGOXS5aZIfl4QgqjuQmg+VvJkNYR88zuqsMTMAhkamECMcl16botNd6N4OOqznjADzRV8=;ua9OFsutEu6InCbyOiio5w=="
 ---

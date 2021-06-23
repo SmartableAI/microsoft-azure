@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-hybrid-benefit-now-generall
 webUrl: "https://azure.microsoft.com/blog/azure-hybrid-benefit-now-generally-available-for-linux/"
 type: article
 quality: 87
-heat: 287
+heat: 307
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
     excerpt: "Developers can now build and publish Java Azure Functions Apps on Linux."
     publishedDateTime: 2020-12-09T16:43:15Z
     webUrl: "https://azure.microsoft.com/en-us/updates/java-azure-functions-support-on-linux-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure IoT Edge for Linux now generally available"
+    excerpt: "Leverage existing Windows expertise and seamlessly connect Azure IoT Edge for Linux on Windows devices to Microsoft Azure and quickly bring cloud intelligence to your edge."
+    publishedDateTime: 2021-06-23T16:00:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-edge-for-linux-now-generally-available/"
     type: article
     provider:
       name: Microsoft

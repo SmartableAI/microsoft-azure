@@ -77,6 +77,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 93
+  - title: "Azure Database for PostgreSQL – Flexible Server: Forced failover in public preview"
+    excerpt: "Forced failover capability is available in preview in all zone redundant regions on Flexible Server for Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure. "
+    publishedDateTime: 2021-06-23T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-forced-failover-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 93
   - title: "Public preview: Azure Database for PostgreSQL – Flexible Server intelligent performance"
     excerpt: "The latest preview release of intelligent performance on Azure Database for PostgreSQL – Flexible Server on Postgres 11 and 12 is now available."
     publishedDateTime: 2021-04-28T16:01:21Z

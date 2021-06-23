@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/gacrossregionrestoresqls
 webUrl: "https://azure.microsoft.com/en-us/updates/gacrossregionrestoresqlsaphana/"
 type: article
 quality: 63
-heat: 86
+heat: 106
 published: true
 
 provider:
@@ -22,6 +22,15 @@ topics:
   - Azure
 
 related:
+  - title: "General availability: Expansion of credit-based disk bursting to Azure Standard SSDs E30 and smaller"
+    excerpt: "Credit-based disk bursting, which allows you to handle unexpected disk traffic and batch jobs smoothly without the need to overprovision your disk, is now available on Azure Standard SSDs E30 and smaller."
+    publishedDateTime: 2021-06-23T16:00:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-expansion-of-creditbased-disk-bursting-to-azure-standard-ssds-e30-and-smaller/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "General availability: Confidential Computing price reduction on DCsv2 virtual machines"
     excerpt: "DCsv2-series Azure Virtual Machines protect the confidentiality and integrity of your data and code while it’s processed in the public cloud. The price for this offering is now 37% lower."
     publishedDateTime: 2021-06-10T16:48:17Z

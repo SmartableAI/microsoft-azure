@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-in-preview/"
 type: article
 quality: 99
-heat: 479
+heat: 499
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
     excerpt: "Azure Defender detects anomalous activities indicating unusual and potentially harmful attempts to access or exploit your Azure Database for MySQL. "
     publishedDateTime: 2021-06-09T16:00:42Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-defender-for-azure-database-for-mysql-single-server-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 93
+  - title: "Azure Database for PostgreSQL – Flexible Server: Forced failover in public preview"
+    excerpt: "Forced failover capability is available in preview in all zone redundant regions on Flexible Server for Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure. "
+    publishedDateTime: 2021-06-23T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-forced-failover-in-public-preview/"
     type: article
     provider:
       name: Microsoft

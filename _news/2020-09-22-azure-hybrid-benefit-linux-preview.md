@@ -45,6 +45,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure IoT Edge for Linux now generally available"
+    excerpt: "Leverage existing Windows expertise and seamlessly connect Azure IoT Edge for Linux on Windows devices to Microsoft Azure and quickly bring cloud intelligence to your edge."
+    publishedDateTime: 2021-06-23T16:00:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-edge-for-linux-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Shared Image Gallery--New features are now generally available"
     excerpt: "Shared Image Gallery introduces new features to copy image versions, use disks or VMs to create image versions, and export a managed from an image version."
     publishedDateTime: 2020-11-20T16:00:06Z
