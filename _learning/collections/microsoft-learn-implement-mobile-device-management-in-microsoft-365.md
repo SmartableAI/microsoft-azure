@@ -4,7 +4,7 @@ excerpt: "Implement Mobile Device Management in Microsoft 365"
 type: collection
 price: Free
 length: PT2H6M
-heat: 60
+heat: 62
 
 provider:
   name: Microsoft Learn
