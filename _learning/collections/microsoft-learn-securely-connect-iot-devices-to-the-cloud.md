@@ -4,7 +4,7 @@ excerpt: "Follow this learning path to learn how to securely connect IoT devices
 type: collection
 price: Free
 length: PT5H29M
-heat: 62
+heat: 61
 
 provider:
   name: Microsoft Learn
