@@ -1,27 +1,21 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "SEATTLE, June 16, 2021 /CNW/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a ..."
-publishedDateTime: 2021-06-16T18:37:00Z
-originalUrl: "https://www.goskagit.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_24eb5b6c-65dd-5f2c-bbfd-574140671390.html"
-webUrl: "https://www.goskagit.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_24eb5b6c-65dd-5f2c-bbfd-574140671390.html"
+excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+publishedDateTime: 2021-06-16T18:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
 type: article
-quality: 22
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Skagit Valley Herald
-  domain: goskagit.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/e1586314-89a9-11e7-be8f-ef31f934c462.png"
-    width: 1024
-    height: 500
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -611,6 +605,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "BpfZdQ7C5W2EzzhmThRVMfuADK3cUnzn3udJyPG/Vw+qB0sQ7H+930QaYNK1VFcINjwyS/njdr3X4ymJEPTmG9yxOC0w4JXZYGiWDgTm3GTYLmbzNLOcX5XOSbbL42Y4iEjLiUQLBpZJYVfkWH7IztHivx5brhz7Xck9OPFhabbJjOLVcVpinIUW/4C8x36FIKwx2yQTApBru86NltvMXiw4sqLmHaj/J7HY6NstZITrDmrm3uO/KNAdfOO8R15Q0iO4yUgwN+/IP4rzmBIKDagRxmHunCvaqKAbAfCHnZH1GDD3/Wdipj9qPwMlzOXUtz+h8pKDgWEsjHSoXhKa/HtoIXGgu/ClNzskVtbA6fk=;OrTpBjMeZmkbSY+9lekNyw=="
+secured: "XV6GorKay3jsZqx8pobMUGrCRMNhorn0lkHBlnzIrG0RiqchDe2fCfkQinPDlL228KBMB9kvMHS0fS/DR2563FFpiI7rDFdhcm8I+aTxxeRKDHIxP2VgSLefyQj8TUDCLZwv92qdwGLiXdbIhBHFb46zcxuDVtU7yLCRxExNEnmghgrFWLiOGoDoQGJW+hADOp7OcP6LWFzCTfWpN8ZdRxwzv2E2NWFi69Eg7zJAd/i2AzgKbb/LFEMw08F8Kd7k7BIpkkYE42tkPTNBPaKagXxQbpi3GDmzHz9H/i2eukAsyqjuJIZb/jaXE1DgcyQIMX4tSaGFRTTlF9WUMZsNiKyt9sbHB6Cgz5A3Jh//F1A=;2ZVdOZxSwi8oii0YVqwDrA=="
 ---
 

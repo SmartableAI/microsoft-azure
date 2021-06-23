@@ -26,11 +26,11 @@ images:
 
 related:
   - title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
-    excerpt: "(HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Microsoft SQL Server. With this new integration, organizations can gain additional flexibility and control over their on-premises workloads and hybrid working experience."
-    publishedDateTime: 2021-06-21T22:38:00Z
-    webUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-    ampWebUrl: "https://www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+    excerpt: "Hewlett Packard Enterprise (HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Azure Stack HCI and Microsoft SQL Server. With this new integration ..."
+    publishedDateTime: 2021-06-22T01:03:00Z
+    webUrl: "https://www.techradar.com/in/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
     type: article
     provider:
       name: TechRadar
@@ -40,22 +40,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/er5NpnAErP4CGcAHzgMXxF-480-80.jpg"
         width: 480
         height: 271
-        isCached: true
-  - title: "ProdataKey and Microsoft Azure Active Directory integration ensures employee databases are in perfect synchronisation"
-    excerpt: "ProdataKey (PDK), manufacturer of the renowned cloud access control platform built for mobile, now offers integration between its Pdk io software and Microsoft Azure Active Directory. IT departments that rely on Active Directory to simplify user and rights ..."
-    publishedDateTime: 2021-06-22T11:12:00Z
-    webUrl: "https://www.sourcesecurity.com/news/prodatakey-microsoft-azure-active-directory-integration-employee-databases-synchronisation-co-14053-ga-co-15141-ga-npr.1624355119.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/prodatakey-microsoft-azure-active-directory-integration-employee-databases-synchronisation-co-14053-ga-co-15141-ga-npr.1624355119.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/prodatakey-microsoft-azure-active-directory-integration-employee-databases-synchronisation-co-14053-ga-co-15141-ga-npr.1624355119.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 68
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/prodatakey-red-2-controller-red-readers-provide-premium-levels-security-performance-920x533.jpg"
-        width: 612
-        height: 355
         isCached: true
   - title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
     excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
