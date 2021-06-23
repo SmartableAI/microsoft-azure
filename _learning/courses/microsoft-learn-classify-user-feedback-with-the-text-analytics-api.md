@@ -8,7 +8,7 @@ length: PT48M
 ratings:
   count: 1923
   average: 4.644826
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ topics:
   - AI
   - Analytics
 
-secured: "WHEbJi9qiIlnrn19XhNAEHfuGo+iJO2J+TulolDLxILsRdBBN1EjRWbj9gErXH494IJAqcbPzf75OXUv1VdVmOuiZOxvyQLSpFYP7hb58CGLAsTdOI/mH79IgIy9+dfntWdyqLGJVUWIcp/gO85imZktj/nnIwRojAH/qN5YtIroXss2HwhVEuU5lUFGS+2mBLhaBstVw90xJ/+8ZXW1bbwwP02DSqcG8BBwFoy6ka0tSIdBQC9OovSl487ej0QzmymZOCcMkg3XQ0BfqWe7fb/0wpv8jvjYNDkKUqNKsZhoUaS+oD4SxUXnXstuNWMr1vRkpoWNCjLkXu7kJpGltt1ZAF4DtfN2yKCqSn0eauKX39c5a9lVVbxWCCAGKjgpZOi5O4F3OulRPqBpVk5oV5q9P2f+R6lbxT+4WFMfDUQ=;jmfW3PPN3MpZk6dGi5K/Iw=="
+secured: "di2A6eXfWHpknc5GxLEVH+I7lWeao7VeV6Yrps5/UXoIswiycm79+SpqH8hb6lsoySRInwOfPGP3KTXQa6JRfQ0Cmy6YQZRjfLF3WZppAlj8STfvapUus3U1blpOOaOZdaVhvBZJ6yHHn8cwqdF3R4qIlh2UX6US/xWz7RuF0DrHeNZ78hD9srnwnnRloBuSj82oYiFhlKzLTxX30misoMLIGyQ/AD/MhQmJ6BDgccNXbPeFSn4k2n9kqVBPj0PZI0qfSmZvY0AKsqxhkbGX6SMAjn9weCwbtPDwpXS0M5ypwjVQdPb06UbSULl30hu6e35VoCO3qZRclkt8Rps0VTewXKV6oS0Y/0sKKU0HKJYwBjNejR6KTn/Y8n429OLCn8fLYbVvW1dfkBm4L1FkLqhGxcocncXvi4moEdKLFHA=;6FK7sigxD+ZgqLs6KFPA3Q=="
 ---
 

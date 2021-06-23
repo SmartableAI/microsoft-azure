@@ -4,7 +4,7 @@ excerpt: "SC-900 part 3: Describe the capabilities of Microsoft security solutio
 type: collection
 price: Free
 length: PT2H39M
-heat: 52
+heat: 54
 
 provider:
   name: Microsoft Learn
