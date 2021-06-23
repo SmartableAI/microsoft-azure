@@ -2,15 +2,15 @@
 category: news
 title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
 excerpt: "Hewlett Packard Enterprise (HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Azure Stack HCI and Microsoft SQL Server. With this new integration ..."
-publishedDateTime: 2021-06-22T01:03:00Z
-originalUrl: "https://www.techradar.com/in/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-webUrl: "https://www.techradar.com/in/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-ampWebUrl: "https://www.techradar.com/in/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+publishedDateTime: 2021-06-21T22:47:00Z
+originalUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+webUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+ampWebUrl: "https://www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
 type: article
 quality: 95
-heat: 415
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRadar
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "HPE expands GreenLake offerings for Microsoft Azure"
+    excerpt: "HPE GreenLake now supports Microsoft Azure Stack HCI and SQL Server. The announcement of the new integration came just ahead of the company’s annual HPE Discover conference, held virtually for ..."
+    publishedDateTime: 2021-06-21T13:30:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 97
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1595502135/itpro/HPE_shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
     excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
     publishedDateTime: 2021-06-22T04:42:00Z
@@ -60,19 +76,19 @@ related:
         width: 1920
         height: 1152
         isCached: true
-  - title: "HPE expands GreenLake offerings for Microsoft Azure"
-    excerpt: "HPE GreenLake now supports Microsoft Azure Stack HCI and SQL Server. The announcement of the new integration came just ahead of the company’s annual HPE Discover conference, held virtually for the second time in a row,"
-    publishedDateTime: 2021-06-21T13:30:00Z
-    webUrl: "https://www.cloudpro.co.uk/saas/9123/hpe-expands-greenlake-offerings-for-microsoft-azure"
+  - title: "Azure Stack HCI and SQL Server set sail on HPE’s GreenLake"
+    excerpt: "HPE has added on-premises Azure Stack HCI and Microsoft SQL Server availability to its GreenLake offer, complementing existing SimpliVity and Nimble dHCI hyperconverged systems support in GreenLake, and Nutanix as well."
+    publishedDateTime: 2021-06-21T12:00:00Z
+    webUrl: "https://blocksandfiles.com/2021/06/21/azure-stack-hci-and-sql-server-set-sail-on-hpes-greenlake/"
     type: article
     provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
+      name: blocksandfiles
+      domain: blocksandfiles.com
     quality: 37
     images:
-      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/06/antonio_neri_hpe_discover_2019_keynote_greenlake.jpg"
-        width: 800
-        height: 450
+      - url: "https://blocksandfiles.com/wp-content/uploads/2021/06/GreenLake.jpg"
+        width: 950
+        height: 445
         isCached: true
   - title: "Microsoft Launches Azure Private MEC with AT&T in Tow, Not Vice Versa"
     excerpt: "If Multi-access Edge Computing becomes an option for your data center services, would you be contracting with the cloud provider or the telco provider?"
@@ -116,15 +132,6 @@ related:
         width: 620
         height: 350
         isCached: true
-  - title: "Cyient to Release Mobius, a SaaS-Based Solution for Utility Company Outage Planning and Scheduling, Powered by Microsoft Azure"
-    excerpt: "Solution from Microsoft Gold Partner Cyient leverages Microsoft technologies to address challenges faced by utilities industry HYDERABAD,"
-    publishedDateTime: 2021-06-15T12:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cyient-to-release-mobius-a-saas-based-solution-for-utility-company-outage-planning-and-scheduling-powered-by-microsoft-azure-1030523800"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
   - title: "Microsoft Cloud Regions Mark Two-year Milestone Of Empowering Ambitious Middle East Organizations"
     excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyp"
     publishedDateTime: 2021-06-20T10:16:00Z
@@ -200,34 +207,7 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 23
-  - title: "An Introduction to Microsoft Azure Cloud and Its Benefits for Business!"
-    excerpt: "We all know Azure is an open and flexible cloud platform from Microsoft. An innovative platform that businesses can leverage to quickly build, deploy and manage applications and services. But it doesn’t end there, Azure comes with many associated ..."
-    publishedDateTime: 2021-05-14T11:23:00Z
-    webUrl: "https://www.finextra.com/blogposting/20305/an-introduction-to-microsoft-azure-cloud-and-its-benefits-for-business"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
-  - title: "Stealth Power Announces FDNY Order of 184 Additional Ambulances with Idle Mitigation Technology and Fleet Intelligence, Powered by Microsoft Azure"
-    excerpt: "Stealth Power announced that the Fire Department of New York (FDNY) has ordered an additional 184 ambulances with the company’s Vehicle Power System, bringing the total number to 500 by the end of 2021."
-    publishedDateTime: 2021-06-15T12:05:00Z
-    webUrl: "https://www.financialbuzz.com/stealth-power-announces-fdny-order-of-184-additional-ambulances-with-idle-mitigation-technology-and-fleet-intelligence-powered-by-microsoft-azure/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
-  - title: "'A better tomorrow': how the Microsoft cloud is becoming the catalyst for economic resilience and innovation"
-    excerpt: "On the second anniversary of its UAE data centres' launch, Microsoft's country GM explains how the facilities have shaped economic resilience and allowed organisations across the Middle East to surviv"
-    publishedDateTime: 2021-06-22T06:31:00Z
-    webUrl: "https://www.arabianbusiness.com/technology/465026-better-tomorrow-how-the-microsoft-cloud-is-becoming-the-catalyst-for-economic-resilience-innovation"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 0
 
-secured: "6zCoS3xDag4Lkf4gtD98S2LZXgKHkulvoBefDHkKbCzWfbZopPVrF9qSUtsEh8h64gtcTX5zPw6ncOZTrcgBhWAK5ZUtgOeYtB1ylALEj33pP3rQCJO+7YUYNVkqg9e/UcXIZKwRlMw3446PzshIfqEm6TvOgExnJTlJVAoGCbhT6U4QGRMMxanYnUGUHn+TtMD4EXy5uSZt3vlTyyHTkK6DJSfJIrJMbplhGjKcu3uAWEDiOrfmPdgs52jylZkXJfT3lU84LCpEwZNRmIiWjoxkT3LMbcasyDHQ/F5ycSU8zBtoZP96C8tkEOzZMJKOEyV1t9AGH3eMbuWWg3s7Y724ALQXTyfWHHtjlNMHCJs=;X2E1BpbilNf/Wz+o7WxS5A=="
+secured: "KPweSm2vZBOwgQST+lIwWhn2mujQRXjErHjX7f2dpmwxC1HGlGD1XcCxE4t5NLj+bBlOmE4nDH78NgvlvbdtAH9VAt0F/BCbipLEC1nbNS4vTAbX/JYD9ksc+oo2Dn/GHm7sVF0eYx+ai71ZzaR5QnW+q/yeULF4lhBIMgkJ1/AKmS8Iek/35tllKpJe5X+jJOPEEWGgALchHFDI59oKruHh8aYiPnemB+quSAJC97eVAgMQ3lGAjZDMf40PaEB4HzUIG1iKkqaC9njwoWQTEVcPESUzl0RxyUfue4J4bqVjgk22eTCjDOw9Rss7XnicOJRLKCbS8CC5fR9VhkCITEcpSdd6b/m5ct1LWSj0wvU=;qydX0UE9jmD9FshWlA1b3A=="
 ---
 
