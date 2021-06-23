@@ -122,6 +122,20 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
+    excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
+    publishedDateTime: 2021-06-23T13:00:00Z
+    webUrl: "https://spacenews.com/microsoft-keane-interview/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 36
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2021/06/azure-qa.jpg"
+        width: 1000
+        height: 508
+        isCached: true
   - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
     excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
     publishedDateTime: 2021-06-21T11:51:00Z

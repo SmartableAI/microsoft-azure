@@ -128,6 +128,20 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
+    excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
+    publishedDateTime: 2021-06-23T13:00:00Z
+    webUrl: "https://spacenews.com/microsoft-keane-interview/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 36
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2021/06/azure-qa.jpg"
+        width: 1000
+        height: 508
+        isCached: true
   - title: "Microsoft Cloud Regions Mark Two-year Milestone Of Empowering Ambitious Middle East Organizations"
     excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyp"
     publishedDateTime: 2021-06-20T10:16:00Z

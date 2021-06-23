@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft Cloud Regions Mark Two-year Milestone Of Empowering Ambitious Middle East Organizations"
-excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyp"
-publishedDateTime: 2021-06-20T10:16:00Z
-originalUrl: "https://www.albawaba.com/business/pr/microsoft-cloud-regions-mark-two-year-milestone-empowering-ambitious-middle-east"
-webUrl: "https://www.albawaba.com/business/pr/microsoft-cloud-regions-mark-two-year-milestone-empowering-ambitious-middle-east"
-ampWebUrl: "https://www.albawaba.com/amp/business/pr/microsoft-cloud-regions-mark-two-year-milestone-empowering-ambitious-middle-east"
-cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-cloud-regions-mark-two-year-milestone-empowering-ambitious-middle-east"
+title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
+excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
+publishedDateTime: 2021-06-23T13:00:00Z
+originalUrl: "https://spacenews.com/microsoft-keane-interview/"
+webUrl: "https://spacenews.com/microsoft-keane-interview/"
 type: article
-quality: 29
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Al Bawaba News
-  domain: albawaba.com
+  name: SpaceNews
+  domain: spacenews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-06/Sayed%20Hashish%2C%20GM%2C%20MS%20UAE%20-%20June%202021.jpg?itok=yJHWkY6J"
-    width: 960
-    height: 540
+  - url: "https://spacenews.com/wp-content/uploads/2021/06/azure-qa.jpg"
+    width: 1000
+    height: 508
     isCached: true
 
 related:
@@ -130,20 +128,6 @@ related:
         width: 609
         height: 457
         isCached: true
-  - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
-    excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
-    publishedDateTime: 2021-06-23T13:00:00Z
-    webUrl: "https://spacenews.com/microsoft-keane-interview/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 36
-    images:
-      - url: "https://spacenews.com/wp-content/uploads/2021/06/azure-qa.jpg"
-        width: 1000
-        height: 508
-        isCached: true
   - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
     excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
     publishedDateTime: 2021-06-21T11:51:00Z
@@ -157,6 +141,22 @@ related:
       - url: "https://www.techcentral.ie/wp-content/uploads/2021/06/Yvonne-Dennis.jpg"
         width: 620
         height: 350
+        isCached: true
+  - title: "Microsoft Cloud Regions Mark Two-year Milestone Of Empowering Ambitious Middle East Organizations"
+    excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyp"
+    publishedDateTime: 2021-06-20T10:16:00Z
+    webUrl: "https://www.albawaba.com/business/pr/microsoft-cloud-regions-mark-two-year-milestone-empowering-ambitious-middle-east"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/microsoft-cloud-regions-mark-two-year-milestone-empowering-ambitious-middle-east"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-cloud-regions-mark-two-year-milestone-empowering-ambitious-middle-east"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 29
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-06/Sayed%20Hashish%2C%20GM%2C%20MS%20UAE%20-%20June%202021.jpg?itok=yJHWkY6J"
+        width: 960
+        height: 540
         isCached: true
   - title: "Microsoft cloud regions mark two-year milestone of empowering ambitious Middle East organizations"
     excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyper-scale Cloud in the country and the Middle East,"
@@ -218,6 +218,6 @@ related:
       domain: telecompaper.com
     quality: 23
 
-secured: "VOewHBwsNrncapidEV6hpXSJFDYAO+kjx0vDDX70qQhcQLql8TfUV/FkeJAFS0oSliDwnlWn8mHWnlKeyhG7k9/45CMNuu60ZRmgOXvGXy+MOWPyUYjpzIo6c5AwrRfzA1LjhQC0Ilw2yvgh1zwzUas62t23Zwfj6V4vcwm4lIdxl85ch4wqIJX2VQnHYKjt+iUf8qi67GpsMR3aguQ+9bMcJ4xbWn4+c1Q3yY8hGBMc6ddEsvIpwSvG7yxQ13+iGm4INLVef57CcoJq1+8x5JVMT/Fx9Vl1rbBBhNsl2MG65ue3LS/G4irmcMW8jwp/1ke2rEERAt42X2DLuguAQTbrLgsFtqwsB1VC1xYP6g4j3eijcQaS/LZNlzbdOHWrbtRLgVd/wRSeYSnSk7oovM1qKa0xWbO48JvXc6IaYDOZZIzjnO7TLt9aKB1SSaAgNI89LS00TVfLTHN5alsEKZz0cCNRPmGh2SIKdpyg7SIok2W7Zg7IZt/HOUQ2teqBYVffhaGROeI3f6yORnapaA==;l369LCV4Up4jbSrMXut+Wg=="
+secured: "02yHwa3Zh7uRLnTYp9oeQOTJ2GbhVfkoWVk11e9pUFfyK0cRZvW6MpRlGRH6I0B6jhbL69DsF8V7yw9TDvbCqJpma1lXwfx3CE6bNE0+LsNY/vlo/UumxOghukio2VPDBMl5shpCv0splr/MU6pykLAzwtM67M7C3Q3BUhIeq2jKZidJdNznEm9U5glvIni1kAdkOnQulupANeYYxv/KNCeAgqY5+gSPqwKW58DKCHjoI7cTwXIFNa9Gp4Gy8SMWLumCpctWVqKxRGhXp61EuV6kXtwT45ACH3Qdy8vm4RL6UJQV5Kh58chRrcpEUkx8gHZhN7tue4KXFIH0bfDKNSbe+Vu06XctZZ+Y8qP/jys=;aOMBG6n/90ybw82iD38P/Q=="
 ---
 
