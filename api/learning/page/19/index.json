@@ -4,6 +4,91 @@
   "page": 19,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-migrate-vmware-workloads-on-premises-azure-vmware-solution.md",
+      "title": "Migrate VMware workloads on-premises to Azure VMware Solution",
+      "excerpt": "Learn how to migrate virtual machines from an on-premises VMware environment to Azure VMware Solution by using VMware HCX.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-vmware-workloads-on-premises-azure-vmware-solution/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-vmware-workloads-on-premises-azure-vmware-solution/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 5,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/migrate-vmware-workloads-on-premises-azure-vmware-solution-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-modify-data-with-transact-sql.md",
+      "title": "Modify data with T-SQL",
+      "excerpt": "Modify data with T-SQL",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-modify-data-with-transact-sql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modify-data-with-transact-sql/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 53,
+        "average": 4.90566
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook.md",
       "title": "Monitor GitHub events by using a webhook with Azure Functions",
       "excerpt": "Discover the benefits of webhooks when you trigger an Azure function with a GitHub webhook and parse the payload for insights.",
@@ -11,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "PT53M",
       "ratings": {
-        "count": 2451,
-        "average": 4.6523867
+        "count": 2452,
+        "average": 4.652529
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -174,8 +259,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 1172,
-        "average": 4.651877
+        "count": 1174,
+        "average": 4.65247
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -477,8 +562,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 5595,
-        "average": 4.6666665
+        "count": 5596,
+        "average": 4.666726
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1177,84 +1262,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-autoscale-applications-on-kubernetes-with-kubernetes-event-driven-autoscaling-keda-azure-friday.md",
-      "title": "Autoscale applications on Kubernetes with Kubernetes Event-Driven Autoscaling (KEDA) | Azure Friday",
-      "excerpt": "Do you want to scale your workloads on Kubernetes without having to worry about the details? Do you want to run Azure Functions anywhere and easily scale it yourself? Tom Kerkhove shows Scott Hanselman how Kubernetes Event-Driven Autoscaling (KEDA) makes application autoscaling dead simple.  0:00 – Introduction",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-autoscale-applications-on-kubernetes-with-kubernetes-event-driven-autoscaling-keda-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-autoscale-applications-on-kubernetes-with-kubernetes-event-driven-autoscaling-keda-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=TftaxqNFsZY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TftaxqNFsZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M14S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-26T07:44:18-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TftaxqNFsZY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-friday-azure-cosmos-db-with-scott-hanselman.md",
-      "title": "Azure Friday | Azure Cosmos DB with Scott Hanselman",
-      "excerpt": "Kirill Gavrylyuk stops by Azure Friday to talk Cosmos DB with Scott Hanselman. Watch quick overview of the industry's first globally distributed multi-model database service followed by a demo of moving an existing MongoDB app to Cosmos DB with a single config change.  For more information, see: https://azure.microsoft.com/en-us/services/cosmos-db/.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-azure-cosmos-db-with-scott-hanselman/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-azure-cosmos-db-with-scott-hanselman/",
-      "originalUrl": "https://youtube.com/watch?v=4fRKzcU__jY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fRKzcU__jY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M57S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-07-31T12:17:06-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4fRKzcU__jY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],

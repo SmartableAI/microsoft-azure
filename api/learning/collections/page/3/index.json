@@ -4,220 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory.md",
-      "title": "Protect identity and access with Azure Active Directory",
-      "excerpt": "The **Identity and Access learning path** covers the latest identity and access technologies, tools for strengthening authentication, and guidance on identity protection within your organization. Microsoft access and identity technologies enable you to secure your organization’s identity, whether it is on-premises or in the cloud, and empower your users to work securely from any location.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory/",
-      "length": "PT2H52M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-m365-identity-overview.md",
-          "title": "Define identity and access management in Azure Active Directory",
-          "excerpt": "Learn about identity and access management in Azure Active Directory and why identity is a core component of your organization’s security posture.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-overview/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
-          "length": "PT15M",
-          "ratings": {
-            "count": 346,
-            "average": 4.7543354
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 58,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-m365-identity-provisioning.md",
-          "title": "Simplify access and identity provisioning with Azure Active Directory",
-          "excerpt": "Learn about identity governance and how you can safeguard access to your organization’s data.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-provisioning/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
-          "length": "PT46M",
-          "ratings": {
-            "count": 5103,
-            "average": 4.7691555
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/simplify-access-and-identity-provisioning-with-microsoft-365-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-m365-identity-authentication.md",
-          "title": "Strengthen authentication (conditional access) with Azure Active Directory",
-          "excerpt": "Learn about modern authentication and the security benefits it provides to your organization, such as enabling multi-factor authentication and a passwordless environment.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-authentication/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 4630,
-            "average": 4.784881
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/strengthen-authentication-with-microsoft-365-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-m365-identity-secure-administrators.md",
-          "title": "Secure administrator accounts in Azure Active Directory",
-          "excerpt": "Learn about securing administrator accounts through secure devices, dedicated administrator accounts, and just-in-time privileges.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-secure-administrators/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
-          "length": "PT21M",
-          "ratings": {
-            "count": 3317,
-            "average": 4.7805247
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-secure-administrator-access-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-sc-900-part-2-describe-the-capabilities-of-microsoft-identity-and-access-management-solutions.md",
       "title": "SC-900 part 2: Describe the capabilities of Microsoft Identity and access management solutions",
       "excerpt": "SC-900 part 2: Describe the capabilities of Microsoft Identity and access management solutions",
@@ -464,8 +250,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 4547,
-            "average": 4.755883
+            "count": 4549,
+            "average": 4.7559905
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -841,8 +627,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
           "length": "PT20M",
           "ratings": {
-            "count": 351,
-            "average": 4.888889
+            "count": 352,
+            "average": 4.8892045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1373,8 +1159,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/",
           "length": "PT56M",
           "ratings": {
-            "count": 137,
-            "average": 4.7372265
+            "count": 139,
+            "average": 4.7410073
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1554,6 +1340,216 @@
       "topics": [
         "Azure",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-introduction-to-azure-iot.md",
+      "title": "Introduction to Azure IoT",
+      "excerpt": "Follow this learning path for a broad and compelling introduction to the fundamentals of building IoT solutions with Azure IoT.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduction-to-azure-iot/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduction-to-azure-iot/",
+      "length": "PT5H3M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-enable-digital-transformation.md",
+          "title": "Enabling digital transformation",
+          "excerpt": "Digital transformation is a wave of business innovation fueled by the explosion of technology—data, applications, and devices are everywhere. The cloud, artificial intelligence (AI), and the internet of things (IoT) give organizations new ways to make sense of information and generate insights to transform their business. Realizing the benefits of digital transformation requires business leaders to look beyond technology to reimagine existing business models and embrace a different way of bringing together people, data, and processes to create value for customers.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-digital-transformation/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 9934,
+            "average": 4.697906
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-iot-strategy-and-solutions.md",
+          "title": "Microsoft Azure IoT strategy and solutions",
+          "excerpt": "This module provides an overview of Azure IoT, and describes Microsoft tools, services, and infrastructure. This knowledge can help bring IoT to life for your organization and customers.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-iot-strategy-and-solutions/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
+          "length": "PT23M",
+          "ratings": {
+            "count": 6496,
+            "average": 4.736453
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-iot-strategy-and-solutions-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-iot-hub.md",
+          "title": "Introduction to Azure IoT Hub",
+          "excerpt": "University of Oxford",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-hub/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
+          "length": "PT28M",
+          "ratings": {
+            "count": 1942,
+            "average": 4.684346
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-iot-devices.md",
+          "title": "Learn how to manage IoT devices as an IT admin",
+          "excerpt": "This module is an introduction to the Internet of Things for IT admins.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-iot-devices/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 1355,
+            "average": 4.701107
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Management Tools",
+        "Storage",
+        "Databases",
+        "Integration"
       ]
     },
     {
@@ -2137,8 +2133,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/",
           "length": "PT49M",
           "ratings": {
-            "count": 433,
-            "average": 4.769053
+            "count": 435,
+            "average": 4.770115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2220,8 +2216,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 992,
-            "average": 4.545363
+            "count": 993,
+            "average": 4.5458207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2264,8 +2260,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 813,
-            "average": 4.6371465
+            "count": 815,
+            "average": 4.6380367
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2308,8 +2304,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 522,
-            "average": 4.5421457
+            "count": 523,
+            "average": 4.543021
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2352,8 +2348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
           "length": "PT46M",
           "ratings": {
-            "count": 414,
-            "average": 4.6449275
+            "count": 415,
+            "average": 4.645783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2439,8 +2435,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 992,
-            "average": 4.545363
+            "count": 993,
+            "average": 4.5458207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2483,8 +2479,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 813,
-            "average": 4.6371465
+            "count": 815,
+            "average": 4.6380367
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2527,8 +2523,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 522,
-            "average": 4.5421457
+            "count": 523,
+            "average": 4.543021
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2571,8 +2567,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
           "length": "PT46M",
           "ratings": {
-            "count": 414,
-            "average": 4.6449275
+            "count": 415,
+            "average": 4.645783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4149,8 +4145,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 16785,
-            "average": 4.730831
+            "count": 16793,
+            "average": 4.7309594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4195,8 +4191,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5595,
-            "average": 4.6666665
+            "count": 5596,
+            "average": 4.666726
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5607,8 +5603,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
           "length": "PT28M",
           "ratings": {
-            "count": 5608,
-            "average": 4.702033
+            "count": 5609,
+            "average": 4.702086
           },
           "provider": {
             "name": "Microsoft Learn",

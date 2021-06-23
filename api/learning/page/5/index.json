@@ -4,49 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-describe-security-concepts-methodologies.md",
-      "title": "Describe security concepts and methodologies",
-      "excerpt": "Describe security concepts and methodologies",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-security-concepts-methodologies/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 1080,
-        "average": 4.8092594
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-ai-edge-engineer.md",
       "title": "AI edge engineer",
       "excerpt": "University of Oxford",
@@ -523,8 +480,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/",
           "length": "PT56M",
           "ratings": {
-            "count": 137,
-            "average": 4.7372265
+            "count": 139,
+            "average": 4.7410073
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -704,6 +661,216 @@
       "topics": [
         "Azure",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-introduction-to-azure-iot.md",
+      "title": "Introduction to Azure IoT",
+      "excerpt": "Follow this learning path for a broad and compelling introduction to the fundamentals of building IoT solutions with Azure IoT.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduction-to-azure-iot/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduction-to-azure-iot/",
+      "length": "PT5H3M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-enable-digital-transformation.md",
+          "title": "Enabling digital transformation",
+          "excerpt": "Digital transformation is a wave of business innovation fueled by the explosion of technology—data, applications, and devices are everywhere. The cloud, artificial intelligence (AI), and the internet of things (IoT) give organizations new ways to make sense of information and generate insights to transform their business. Realizing the benefits of digital transformation requires business leaders to look beyond technology to reimagine existing business models and embrace a different way of bringing together people, data, and processes to create value for customers.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-digital-transformation/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 9934,
+            "average": 4.697906
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-iot-strategy-and-solutions.md",
+          "title": "Microsoft Azure IoT strategy and solutions",
+          "excerpt": "This module provides an overview of Azure IoT, and describes Microsoft tools, services, and infrastructure. This knowledge can help bring IoT to life for your organization and customers.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-iot-strategy-and-solutions/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
+          "length": "PT23M",
+          "ratings": {
+            "count": 6496,
+            "average": 4.736453
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-iot-strategy-and-solutions-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-iot-hub.md",
+          "title": "Introduction to Azure IoT Hub",
+          "excerpt": "University of Oxford",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-hub/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
+          "length": "PT28M",
+          "ratings": {
+            "count": 1942,
+            "average": 4.684346
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-iot-devices.md",
+          "title": "Learn how to manage IoT devices as an IT admin",
+          "excerpt": "This module is an introduction to the Internet of Things for IT admins.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-iot-devices/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 1355,
+            "average": 4.701107
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Management Tools",
+        "Storage",
+        "Databases",
+        "Integration"
       ]
     },
     {
@@ -1005,8 +1172,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 9128,
-        "average": 4.7807846
+        "count": 9129,
+        "average": 4.7808084
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1041,8 +1208,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 3178,
-        "average": 4.7095656
+        "count": 3179,
+        "average": 4.709657
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1444,8 +1611,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/",
           "length": "PT49M",
           "ratings": {
-            "count": 433,
-            "average": 4.769053
+            "count": 435,
+            "average": 4.770115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1527,8 +1694,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 992,
-            "average": 4.545363
+            "count": 993,
+            "average": 4.5458207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1571,8 +1738,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 813,
-            "average": 4.6371465
+            "count": 815,
+            "average": 4.6380367
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1615,8 +1782,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 522,
-            "average": 4.5421457
+            "count": 523,
+            "average": 4.543021
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1659,8 +1826,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
           "length": "PT46M",
           "ratings": {
-            "count": 414,
-            "average": 4.6449275
+            "count": 415,
+            "average": 4.645783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1746,8 +1913,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 992,
-            "average": 4.545363
+            "count": 993,
+            "average": 4.5458207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1790,8 +1957,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 813,
-            "average": 4.6371465
+            "count": 815,
+            "average": 4.6380367
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1834,8 +2001,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 522,
-            "average": 4.5421457
+            "count": 523,
+            "average": 4.543021
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1878,8 +2045,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
           "length": "PT46M",
           "ratings": {
-            "count": 414,
-            "average": 4.6449275
+            "count": 415,
+            "average": 4.645783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2186,8 +2353,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
       "length": "PT44M",
       "ratings": {
-        "count": 7131,
-        "average": 4.7188334
+        "count": 7135,
+        "average": 4.718991
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2229,8 +2396,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
       "length": "PT47M",
       "ratings": {
-        "count": 5932,
-        "average": 4.735165
+        "count": 5933,
+        "average": 4.73521
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2308,8 +2475,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 10741,
-        "average": 4.678149
+        "count": 10743,
+        "average": 4.678209
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3699,8 +3866,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 16785,
-            "average": 4.730831
+            "count": 16793,
+            "average": 4.7309594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3745,8 +3912,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5595,
-            "average": 4.6666665
+            "count": 5596,
+            "average": 4.666726
           },
           "provider": {
             "name": "Microsoft Learn",
