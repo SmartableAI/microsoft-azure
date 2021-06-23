@@ -21,20 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "Deploy apps seamlessly with Red Hat JBoss EAP on Azure App Service—now generally available"
-    excerpt: "Red Hat JBoss EAP on Azure App Service is a fully managed offering for Java EE (Jakarta EE) applications. Our customers are excited to have a managed platform for their Java EE (Jakarta EE) applications and the peace of mind that comes with joint support from Red Hat and Microsoft. Today, the offer is"
-    publishedDateTime: 2021-06-23T08:00:28Z
-    webUrl: "https://azure.microsoft.com/blog/deploy-apps-seamlessly-with-red-hat-jboss-eap-on-azure-app-service-now-generally-available/"
+  - title: "App Service Managed Certificates now generally available"
+    excerpt: "You can secure your custom domains at no additional cost."
+    publishedDateTime: 2021-05-25T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/app-service-managed-certificates-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 96
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6d84a996-634a-4ce8-a4b1-d37592c0f2e8.png"
-        width: 624
-        height: 389
-        isCached: true
+    quality: 69
 
 secured: "NR/Vhe2UWV5FTwVOL5PQtpdn4eogP6RWfUFkFgV7vQc0LPiUZUrMx9GFo/pqPijmzAVJ75SlQ4nipChJfuCMCOE/wTpx0xiRqxsVR+BUUpP5EPyLWJyBiKAN56ETUyGQoe7c5WWpdSAFNpptgf4+tm3Ctz+vOjEKZxu3bMqodhlx8513rww5uDmZ19z5EwExOWZ14K5q6SpVq1SyNxnwJiT6/gvSUbPM8zdRAZ7xa25zUHYHh7j3Zb3x95g+g4+u3uaeTc/9nvKcGGUNhWAxh5AJgczEB4W73EYFiNIAg96Af3Ay+TrbXLzuLW+HvGDjU61jxncDxhpgSmyLZUKuaA==;RgQMEwGUJ059BALBLiGGAA=="
 ---

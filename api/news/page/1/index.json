@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-23-azure-blob-storagenfs-30-protocol-support-generally-available.md",
+      "title": "Azure Blob storage—NFS 3.0 protocol support generally available ",
+      "excerpt": "Azure Blob Storage is the only storage platform that supports NFS 3.0 protocol over object storage natively (no gateway or data copying required), with object storage economics. With multi-protocol support, customers can run their applications on a single storage platform with no application rewrites",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-blob-storage-nfs-30-protocol-support-generally-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-blob-storage-nfs-30-protocol-support-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T11:00:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-full-text-query-in-diagnostics-logs-for-azure-cosmos-db-in-general-availability.md",
       "title": "Full text query in diagnostics logs for Azure Cosmos DB in general availability",
       "excerpt": "Use self-serve to enable/disable full text query to deobfuscate your queries in diagnostic logs with the full-text query for Azure Cosmos DB feature.",
@@ -94,103 +137,6 @@
       "topics": [
         "Azure",
         "IoT"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-deploy-apps-seamlessly-with-red-hat-jboss-eap-on-azure-app-servicenow-generally-available.md",
-      "title": "Deploy apps seamlessly with Red Hat JBoss EAP on Azure App Service—now generally available",
-      "excerpt": "Red Hat JBoss EAP on Azure App Service is a fully managed offering for Java EE (Jakarta EE) applications. Our customers are excited to have a managed platform for their Java EE (Jakarta EE) applications and the peace of mind that comes with joint support from Red Hat and Microsoft. Today, the offer is",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/deploy-apps-seamlessly-with-red-hat-jboss-eap-on-azure-app-service-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/blog/deploy-apps-seamlessly-with-red-hat-jboss-eap-on-azure-app-service-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6d84a996-634a-4ce8-a4b1-d37592c0f2e8.png",
-          "width": 624,
-          "height": 389,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T01:00:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Web",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-modernize-large-scale-nfs-workloads-and-eliminate-data-silos-with-azure-blob-storage.md",
-      "title": "Modernize large-scale NFS workloads and eliminate data silos with Azure Blob Storage",
-      "excerpt": "Azure Blob Storage, our object storage platform for storing large-scale data helps customers run their applications using a wide range of protocols. With multi-protocol support, customers can run their applications on a single storage platform with no application rewrites necessary, therefore eliminating",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/modernize-largescale-nfs-workloads-and-eliminate-data-silos-with-azure-blob-storage/",
-      "originalUrl": "https://azure.microsoft.com/blog/modernize-largescale-nfs-workloads-and-eliminate-data-silos-with-azure-blob-storage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T04:00:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management tools"
       ]
     },
     {
@@ -1181,6 +1127,49 @@
         "Azure",
         "Security",
         "Integration"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-azure-iot-verified-telemetry-is-now-in-public-preview.md",
+      "title": "Azure IoT Verified telemetry is now in public preview",
+      "excerpt": "Azure IoT Verified Telemetry provides  data reliability and is available as part of Dependable IoT SDK and can be seamlessly integrated into current Azure IoT offerings such as Azure RTOS and IoT PnP.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-iot-verified-telemetry-is-now-in-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-iot-verified-telemetry-is-now-in-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T09:00:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "IoT"
       ]
     }
   ],
