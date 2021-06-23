@@ -130,6 +130,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere OS version 21.06 is now generally available"
+    excerpt: "This quality release of the OS includes bug fixes for apps using SPI Flash."
+    publishedDateTime: 2021-06-23T21:13:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2106-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Sphere update 20.04 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-05T17:00:14Z

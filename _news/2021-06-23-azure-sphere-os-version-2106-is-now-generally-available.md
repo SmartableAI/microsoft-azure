@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Sphere OS version 21.01 is now available for evaluation"
-excerpt: "Learn more about compatibility testing with Azure Sphere OS version 21.01."
-publishedDateTime: 2021-01-15T18:32:14Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2101-is-now-available-for-evaluation/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2101-is-now-available-for-evaluation/"
+title: "Azure Sphere OS version 21.06 is now generally available"
+excerpt: "This quality release of the OS includes bug fixes for apps using SPI Flash."
+publishedDateTime: 2021-06-23T21:13:07Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2106-is-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2106-is-now-generally-available/"
 type: article
 quality: 67
 heat: -1
@@ -76,6 +76,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere OS version 21.01 is now available for evaluation"
+    excerpt: "Learn more about compatibility testing with Azure Sphere OS version 21.01."
+    publishedDateTime: 2021-01-15T18:32:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2101-is-now-available-for-evaluation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Sphere version 21.01 is now available"
     excerpt: "This release includes new memory and current control functions as well as new features in the SDK."
     publishedDateTime: 2021-01-28T23:36:55Z
@@ -130,15 +139,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Sphere OS version 21.06 is now generally available"
-    excerpt: "This quality release of the OS includes bug fixes for apps using SPI Flash."
-    publishedDateTime: 2021-06-23T21:13:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2106-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Sphere update 20.04 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-05T17:00:14Z
@@ -158,6 +158,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "2Jo6i8Oeu+Bi7qx2hCXWmAPnY3Lvn+oQt/zhWcUZ9DpWanH2HuHTgDOA9zJeEGnN3BXmi3mNdTeTFt3FH91SxNZAqjIXgVtJKm33nHP0qk5wc9kPkLBtVHEYnxkk/4l0Ee7bfsviSOjUlp9P7fGjh8B4nQdLaoUjBCo4lninUtnzfm7CzBw/IEuCeYIEqYs0Y0Z3bH4Wx+zsgXSXyWUmqI/PVok+MHe019aX4yJd82UAj2jjuSg5HOTUl8f8/Qdkl8uTxMYtPk8sl5dDFHXJDeO17Sw9jHPWjzTQ4yKt33q/qn/pY/eN4nIYDAItFc/q7MbTXKeX2VpkrmzihPTA1hVSz5f4gKG3k2RjkfgB8vo=;YmlCk5MTwaMQizyX7+JY1A=="
+secured: "zJ3RYuJXtfUQxJ0twxWTZhDcBJOcfVlCganPatl3HZUtFy9dmROEAjtQ8QR7f5fYLOBBX0AMOyns9rxGufQuG83q87+0yO7+jwAL1a2SQLGQDcZZfzv+2qGPaS3cw8gUr2eyaWKRQ11az2nh9F8jjb514pKJNXtEEheid3U7hqLhj/sKq9bFdBxXVmjPc5W4NKQG3tJnjH1ome+N7lxU2OmJO6TLxaew+j25T7Az00RJDV4KGzEC2fAnJY3KMrs7INT3UqUWWs1D6rLaksKNrj9u8NHbJQKq48vzEEJDlg6lRvedYFYAttozIKnFMMqMJDmg/epNGlwVUihvuRyNkhfbqszdABnHPWBSf/X/b8k=;wQgyQtn+UOIgcun3kP6aQQ=="
 ---
 
