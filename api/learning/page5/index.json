@@ -294,8 +294,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1644,
-            "average": 4.7457423
+            "count": 1645,
+            "average": 4.745897
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -338,8 +338,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 1036,
-            "average": 4.749035
+            "count": 1037,
+            "average": 4.7492766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -450,6 +450,220 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-get-started-querying-with-transact-sql.md",
+      "title": "Get Started Querying with Transact-SQL",
+      "excerpt": "Get Started Querying with Transact-SQL",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-get-started-querying-with-transact-sql/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-get-started-querying-with-transact-sql/",
+      "length": "PT5H40M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-transact-sql.md",
+          "title": "Introduction to Transact-SQL",
+          "excerpt": "Introduction to Transact-SQL",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-transact-sql/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/",
+          "length": "PT56M",
+          "ratings": {
+            "count": 136,
+            "average": 4.742647
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-sql-server-and-query-tools-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-query-multiple-tables-with-joins.md",
+          "title": "Combine multiple tables with JOINs in T-SQL",
+          "excerpt": "Combine multiple tables with JOINs in T-SQL",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-query-multiple-tables-with-joins/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-multiple-tables-with-joins/",
+          "length": "PT1H2M",
+          "ratings": {
+            "count": 60,
+            "average": 4.85
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-write-subqueries.md",
+          "title": "Write Subqueries in T-SQL",
+          "excerpt": "Write Subqueries in T-SQL",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-write-subqueries/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/write-subqueries/",
+          "length": "PT50M",
+          "ratings": {
+            "count": 34,
+            "average": 4.9411764
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-use-built-functions-transact-sql.md",
+          "title": "Use built-in functions and GROUP BY in Transact-SQL",
+          "excerpt": "Use built-in functions and GROUP BY in Transact-SQL",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-built-functions-transact-sql/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-built-functions-transact-sql/",
+          "length": "PT59M",
+          "ratings": {
+            "count": 34,
+            "average": 4.9411764
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-sql-server-and-query-tools-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-introduction-to-azure-iot.md",
       "title": "Introduction to Azure IoT",
       "excerpt": "Follow this learning path for a broad and compelling introduction to the fundamentals of building IoT solutions with Azure IoT.",
@@ -481,8 +695,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9931,
-            "average": 4.698016
+            "count": 9932,
+            "average": 4.697946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -499,7 +713,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 136,
+          "heat": 57,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png",
@@ -726,8 +940,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2776,
-            "average": 4.634726
+            "count": 2777,
+            "average": 4.6344976
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -958,8 +1172,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 9123,
-        "average": 4.780993
+        "count": 9124,
+        "average": 4.780798
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1313,8 +1527,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-repository-github/",
           "length": "PT43M",
           "ratings": {
-            "count": 407,
-            "average": 4.776413
+            "count": 408,
+            "average": 4.776961
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1397,8 +1611,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/",
           "length": "PT49M",
           "ratings": {
-            "count": 430,
-            "average": 4.7674417
+            "count": 432,
+            "average": 4.7685184
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1666,220 +1880,6 @@
         "Azure",
         "Analytics",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-get-started-querying-with-transact-sql.md",
-      "title": "Get Started Querying with Transact-SQL",
-      "excerpt": "Get Started Querying with Transact-SQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-get-started-querying-with-transact-sql/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-get-started-querying-with-transact-sql/",
-      "length": "PT5H40M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-transact-sql.md",
-          "title": "Introduction to Transact-SQL",
-          "excerpt": "Introduction to Transact-SQL",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-transact-sql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/",
-          "length": "PT56M",
-          "ratings": {
-            "count": 136,
-            "average": 4.742647
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-sql-server-and-query-tools-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-query-multiple-tables-with-joins.md",
-          "title": "Combine multiple tables with JOINs in T-SQL",
-          "excerpt": "Combine multiple tables with JOINs in T-SQL",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-query-multiple-tables-with-joins/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-multiple-tables-with-joins/",
-          "length": "PT1H2M",
-          "ratings": {
-            "count": 59,
-            "average": 4.8474574
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-write-subqueries.md",
-          "title": "Write Subqueries in T-SQL",
-          "excerpt": "Write Subqueries in T-SQL",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-write-subqueries/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/write-subqueries/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 34,
-            "average": 4.9411764
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-use-built-functions-transact-sql.md",
-          "title": "Use built-in functions and GROUP BY in Transact-SQL",
-          "excerpt": "Use built-in functions and GROUP BY in Transact-SQL",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-built-functions-transact-sql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-built-functions-transact-sql/",
-          "length": "PT59M",
-          "ratings": {
-            "count": 34,
-            "average": 4.9411764
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-sql-server-and-query-tools-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     },
     {
@@ -2211,8 +2211,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
           "length": "PT58M",
           "ratings": {
-            "count": 2987,
-            "average": 4.6484766
+            "count": 2988,
+            "average": 4.6485944
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2310,8 +2310,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 5810,
-        "average": 4.745439
+        "count": 5811,
+        "average": 4.745483
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2353,8 +2353,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
       "length": "PT44M",
       "ratings": {
-        "count": 7127,
-        "average": 4.718956
+        "count": 7128,
+        "average": 4.7189956
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2396,8 +2396,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
       "length": "PT47M",
       "ratings": {
-        "count": 5926,
-        "average": 4.734897
+        "count": 5928,
+        "average": 4.7349863
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2475,8 +2475,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 10738,
-        "average": 4.6781526
+        "count": 10740,
+        "average": 4.678212
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2577,8 +2577,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3000,
-            "average": 4.7043333
+            "count": 3001,
+            "average": 4.704432
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2792,8 +2792,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3000,
-            "average": 4.7043333
+            "count": 3001,
+            "average": 4.704432
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3007,8 +3007,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3000,
-            "average": 4.7043333
+            "count": 3001,
+            "average": 4.704432
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3222,8 +3222,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3000,
-            "average": 4.7043333
+            "count": 3001,
+            "average": 4.704432
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3437,8 +3437,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3000,
-            "average": 4.7043333
+            "count": 3001,
+            "average": 4.704432
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3480,8 +3480,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-manufacturing/",
           "length": "PT41M",
           "ratings": {
-            "count": 818,
-            "average": 4.761614
+            "count": 819,
+            "average": 4.7619047
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3652,8 +3652,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3000,
-            "average": 4.7043333
+            "count": 3001,
+            "average": 4.704432
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3866,8 +3866,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 16752,
-            "average": 4.7308383
+            "count": 16770,
+            "average": 4.730829
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3912,8 +3912,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5593,
-            "average": 4.666905
+            "count": 5594,
+            "average": 4.666607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4204,8 +4204,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 2410,
-            "average": 4.66805
+            "count": 2411,
+            "average": 4.667773
           },
           "provider": {
             "name": "Microsoft Learn",

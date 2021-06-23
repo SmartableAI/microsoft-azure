@@ -4,137 +4,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-monitor-models-with-azure-machine-learning.md",
-      "title": "Monitor models with Azure Machine Learning",
-      "excerpt": "After a machine learning model has been deployed into production, it's important to understand how it is being used by capturing and viewing telemetry.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-models-with-azure-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-models-with-azure-machine-learning/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 572,
-        "average": 4.7447553
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-models-with-azure-machine-learning-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances.md",
-      "title": "Monitor Windows Server IaaS Virtual Machines and hybrid instances",
-      "excerpt": "You'll be able to implement Azure Monitor for IaaS Virtual Machines in Azure, implement Azure Monitor in on-premises environments, and use dependency maps.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 59,
-        "average": 4.5084743
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-windows-server-iaas-vms-and-hybrid-instances-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-nodejs-files.md",
-      "title": "Work with files and directories in a Node.js app",
-      "excerpt": "Build an app that manipulates files and directories with Node.js and JavaScript.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-nodejs-files/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/nodejs-files/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 190,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/nodejs-files-social.png",
-          "width": 642,
-          "height": 322,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-object-detection-lva-edge-device.md",
       "title": "Object detection on Edge devices with Live Video Analytics using YOLO model",
       "excerpt": "This module helps learner to deploy object detection solution using Live Video Analytics on IoT Edge.",
@@ -221,8 +90,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-archive-costs-blob-storage/",
       "length": "PT43M",
       "ratings": {
-        "count": 96,
-        "average": 4.59375
+        "count": 97,
+        "average": 4.597938
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -776,8 +645,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/pitching-your-prototype/",
       "length": "PT44M",
       "ratings": {
-        "count": 45,
-        "average": 4.822222
+        "count": 46,
+        "average": 4.826087
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1071,8 +940,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-manage-access-review/",
       "length": "PT44M",
       "ratings": {
-        "count": 176,
-        "average": 4.7670455
+        "count": 177,
+        "average": 4.7683616
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1277,6 +1146,135 @@
         "Azure",
         "Identity",
         "Migration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-plan-your-premises-infrastructure-for-microsoft-365.md",
+      "title": "Plan your on-premises infrastructure for Microsoft 365",
+      "excerpt": "Plan your on-premises infrastructure for Microsoft 365",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-your-premises-infrastructure-for-microsoft-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-premises-infrastructure-for-microsoft-365/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 16,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-plan-your-supporting-infrastructure-for-microsoft-365.md",
+      "title": "Plan your supporting infrastructure for Microsoft 365",
+      "excerpt": "Plan your supporting infrastructure for Microsoft 365",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-your-supporting-infrastructure-for-microsoft-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-supporting-infrastructure-for-microsoft-36/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 12,
+        "average": 4.9166665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-plan-your-tenant-microsoft-365.md",
+      "title": "Plan your tenant in Microsoft 365",
+      "excerpt": "Plan your tenant in Microsoft 365",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-your-tenant-microsoft-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-tenant-microsoft-365/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 15,
+        "average": 4.866667
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
       ]
     }
   ],
