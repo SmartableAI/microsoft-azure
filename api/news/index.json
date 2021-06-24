@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-24-general-availability-turn-your-phone-into-an-iot-device-with-the-new-iot-plug-and-play-mobile-app.md",
+      "title": "General availability: Turn your phone into an IoT device with the new IoT Plug and Play mobile app",
+      "excerpt": "Use the IoT Plug and Play phone app as an IoT device to get started quickly with IoT Central or IoT Hub.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/turn-your-phone-into-an-iot-device/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/turn-your-phone-into-an-iot-device/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/7ba3c654-273c-41d6-9567-3f9ac29ef1ca.png",
+          "width": 424,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T10:00:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "IoT",
+        "Mobile"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-azure-blob-storagenfs-30-protocol-support-generally-available.md",
       "title": "Azure Blob storage—NFS 3.0 protocol support generally available ",
       "excerpt": "Azure Blob Storage is the only storage platform that supports NFS 3.0 protocol over object storage natively (no gateway or data copying required), with object storage economics. With multi-protocol support, customers can run their applications on a single storage platform with no application rewrites",
@@ -224,48 +277,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-general-availability-cross-region-restore-of-sqlsap-hana-running-in-azure-vm.md",
-      "title": "General availability: Cross region Restore of SQL/SAP HANA running in Azure VM",
-      "excerpt": "General availability of Cross Region Restore of SQL/SAP HANA databases running in Azure VM allows to restore data in the secondary region for compliance/audit and outage scenarios.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/gacrossregionrestoresqlsaphana/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/gacrossregionrestoresqlsaphana/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T09:54:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -750,6 +761,48 @@
       ]
     },
     {
+      "path": "_news/2021-06-05-general-availability-expressroute-global-reach-pricing-reduction.md",
+      "title": "General availability: ExpressRoute Global Reach Pricing Reduction",
+      "excerpt": "ExpressRoute Global Reach allows you to link ExpressRoute circuits together to make a private network between your on-premises networks. The data transfer price for this offering is now 50% lower.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/grpricing/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/grpricing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T21:00:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-now-available-pricing-changes-to-azure-sentinel-and-azure-monitor-to-help-you-reduce-costs.md",
       "title": "Now Available: Pricing changes to Azure Sentinel and Azure Monitor to help you reduce costs",
       "excerpt": "Enjoy additional cost savings with the new price changes to Azure Sentinel and Azure monitor.  These changes took effect on June 2, 2021.",
@@ -1127,49 +1180,6 @@
         "Azure",
         "Security",
         "Integration"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-azure-iot-verified-telemetry-is-now-in-public-preview.md",
-      "title": "Azure IoT Verified telemetry is now in public preview",
-      "excerpt": "Azure IoT Verified Telemetry provides  data reliability and is available as part of Dependable IoT SDK and can be seamlessly integrated into current Azure IoT offerings such as Azure RTOS and IoT PnP.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-iot-verified-telemetry-is-now-in-public-preview/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-iot-verified-telemetry-is-now-in-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T09:00:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "IoT"
       ]
     }
   ],

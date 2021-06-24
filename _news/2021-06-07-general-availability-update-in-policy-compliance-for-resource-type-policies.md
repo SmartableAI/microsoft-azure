@@ -49,6 +49,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Azure DevOps updates for June 2021"
+    excerpt: "With this update, we've added a new set of policies which can be used to restrict the scope and lifespan of your organization’s Azure DevOps personal access tokens. "
+    publishedDateTime: 2021-06-24T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-devops-updates-for-june-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General Availability: Azure Red Hat OpenShift support for OpenShift 4.6"
     excerpt: "Benefit from new features and enhancements in OpenShift release 4.6."
     publishedDateTime: 2021-02-18T17:00:06Z

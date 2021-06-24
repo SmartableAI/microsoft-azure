@@ -1,27 +1,23 @@
 ---
 category: news
 title: "NetFolder for Secure file Uploads by odix is now available on the Microsoft Azure Marketplace"
-excerpt: "Deployment of NetFolder from the odix team, from its inception and publication on the azure marketplace to its roll-out with customers was streamlined by consistent support from the Microsoft ..."
-publishedDateTime: 2021-06-22T05:50:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/netfolder-for-secure-file-uploads-by-odix-is-now-available-on-the-microsoft-azure-marketplace/article_cef9a2d8-e5f4-5381-859c-5e7093eb33e0.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/netfolder-for-secure-file-uploads-by-odix-is-now-available-on-the-microsoft-azure-marketplace/article_cef9a2d8-e5f4-5381-859c-5e7093eb33e0.html"
+excerpt: "ROSH HA'AYIN, Israel, /PRNewswire-PRWeb/ -- odix, the Israel based cyber security leader in file-based malware prevention solutions has officially"
+publishedDateTime: 2021-06-22T05:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21658315/netfolder-for-secure-file-uploads-by-odix-is-now-available-on-the-microsoft-azure-marketplace"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21658315/netfolder-for-secure-file-uploads-by-odix-is-now-available-on-the-microsoft-azure-marketplace"
+ampWebUrl: "https://www.benzinga.com/amp/content/21658315"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21658315"
 type: article
 quality: 26
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "HPE expands GreenLake offerings for Microsoft Azure"
@@ -221,6 +217,6 @@ related:
       domain: telecompaper.com
     quality: 23
 
-secured: "jtNsEQRepo8wIAAOBlIz7EjntANTssGmGd3kdI1Cy7PD9H/2D7oD4he6k/UR1lkRIzyRDJG/ucA8I0qaJaWWqxAafwjZkRlN7neJKnHc8o2RGh725+k6U6eOjhPNBmekhbgaQxVzD0LzFlpLjoBMnaatM30O4/CaFHVF2R6GDgJ7Ct6hJTnZ0NJcFoJF18VK5ydsFo/4kYIOyahpsYiVPorrZvUnvsPr+aFJcLXkRdGXiUmzkbjvfnwJlr2vu5HeUfNGX2d8bT1dNqBpgbwj5DC6vJVFr40KrzL0TzPmWiQgD4TnSuy/L6JuFWd4KnUiRFAW+yc9f9WSnuWyxablonRgUtvWFhIECVSvMltuLzw=;giXopuDz1x5Zwf8YpsmUMw=="
+secured: "YklPzfcqta2fg0YM2DwPThoyDSaEHFFIRh8uq8kkgNUuenw/fWeqcGGXBjHKMWqffqdZ+A66RFrspWSHNvvFKayxDLZDDiOF09UPxdJEOWGQuWhUl5oB3tCvdgYB44Cp7U7eh7pUoD7pl6Ujokrs1ovtwVimfWDKdx/v3WxvN/mfQRH0zpUWp4n60IbQvYYM+UrVpjWSqaRF5rAgZsTn/5CceqSx05ejBuM+umWELz4ol8VU7qCa3BVKs/GkJT8qth/yM1vTwcDKXntzqWoKK3Xl1Ow/mwDzH6ancOMcUnTLrdXOfK072xDEFaYpKI+aYLsx/nlBXXGJFcgwMUPe/Jf8nffrWbS5D/1H6xnUxoE=;2oxKdNjJdKN1DWlJnIClJg=="
 ---
 

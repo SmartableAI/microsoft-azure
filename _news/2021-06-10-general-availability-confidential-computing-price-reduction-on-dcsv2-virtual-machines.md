@@ -22,19 +22,10 @@ topics:
   - Azure
 
 related:
-  - title: "General availability: Cross region Restore of SQL/SAP HANA running in Azure VM"
-    excerpt: "General availability of Cross Region Restore of SQL/SAP HANA databases running in Azure VM allows to restore data in the secondary region for compliance/audit and outage scenarios."
-    publishedDateTime: 2021-06-17T16:54:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/gacrossregionrestoresqlsaphana/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 63
-  - title: "General availability: Expansion of credit-based disk bursting to Azure Standard SSDs E30 and smaller"
-    excerpt: "Credit-based disk bursting, which allows you to handle unexpected disk traffic and batch jobs smoothly without the need to overprovision your disk, is now available on Azure Standard SSDs E30 and smaller."
-    publishedDateTime: 2021-06-23T16:00:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-expansion-of-creditbased-disk-bursting-to-azure-standard-ssds-e30-and-smaller/"
+  - title: "General availability: ExpressRoute Global Reach Pricing Reduction"
+    excerpt: "ExpressRoute Global Reach allows you to link ExpressRoute circuits together to make a private network between your on-premises networks. The data transfer price for this offering is now 50% lower."
+    publishedDateTime: 2021-06-05T04:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/grpricing/"
     type: article
     provider:
       name: Microsoft

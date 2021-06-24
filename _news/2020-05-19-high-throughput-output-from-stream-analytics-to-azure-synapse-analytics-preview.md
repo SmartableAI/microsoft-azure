@@ -48,15 +48,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 75
-  - title: "General availability: Introducing Log Analytics Open In Excel - A new Excel integration capability"
-    excerpt: "Azure Monitor Log Analytics introduces a new Excel integration capability that allows you to create a connected Excel workbook right from the Log Analytics blade in Azure. "
-    publishedDateTime: 2021-06-22T21:25:46Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/introducing-log-analytics-open-in-excel-a-new-excel-integration-capability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 72
   - title: "App Service announces the general availability of Windows Container support"
     excerpt: "You can now deploy production workloads in Windows Containers on Azure App Service and take advantage of the rich productivity gains of the platform."
     publishedDateTime: 2020-09-22T16:00:43Z

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General Availability: Azure Red Hat OpenShift support for OpenShift 4.6"
-excerpt: "Benefit from new features and enhancements in OpenShift release 4.6."
-publishedDateTime: 2021-02-18T17:00:06Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-red-hat-openshift-support-for-openshift-46/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-red-hat-openshift-support-for-openshift-46/"
+title: "General availability: Azure DevOps updates for June 2021"
+excerpt: "With this update, we've added a new set of policies which can be used to restrict the scope and lifespan of your organization’s Azure DevOps personal access tokens. "
+publishedDateTime: 2021-06-24T17:00:03Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-devops-updates-for-june-2021/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-devops-updates-for-june-2021/"
 type: article
-quality: 67
+quality: 84
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - DevOps
 
 related:
   - title: "General availability: Azure Machine Learning updates for native terminal  "
@@ -49,15 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "General availability: Azure DevOps updates for June 2021"
-    excerpt: "With this update, we've added a new set of policies which can be used to restrict the scope and lifespan of your organization’s Azure DevOps personal access tokens. "
-    publishedDateTime: 2021-06-24T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-devops-updates-for-june-2021/"
+  - title: "General Availability: Azure Red Hat OpenShift support for OpenShift 4.6"
+    excerpt: "Benefit from new features and enhancements in OpenShift release 4.6."
+    publishedDateTime: 2021-02-18T17:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-red-hat-openshift-support-for-openshift-46/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
+    quality: 67
   - title: "General availability: Azure Data Explorer (ADX) Performance Updates "
     excerpt: "The next version of Azure Data Explorer (ADX) with performance updates is now available.\n"
     publishedDateTime: 2021-03-17T16:00:25Z
@@ -104,6 +105,6 @@ related:
       domain: microsoft.com
     quality: 49
 
-secured: "gTHyckxn3YiLvy9eY8Jk7+Dmz5TMLm1Ntr48tDUZNhL21olZoOPKYdFmpL9dLX0s0pUA/ksYv3IW/ADt4gPWjvcvCIPDgVR8xCIwYt16DEUyNTxi+IHSMyhu4N5TawjVj46IBCVhWhR+jt7qHj8taw7TiPqfHlIUFausRSVpxBPvcZgxV1UGRaxt7bFggm0x4S0/c39IviiL2uZqfe3gP5lRtRk2p1d+0cqGBu43gwaEzackrkvKRci18k3j1kntIWG4A8huxCP3m8QFWi4KrCofRKcJ1sJfqKGwk3lOvG2OI7erXdQRBKJ8L5Z01CRIEeceFg1R2uk/iLywEdreRNWe/BjlPyIiI6kDDxo8Dzk=;aAA3YkdrsuKOPyH1GlM+6Q=="
+secured: "TeF2+9UQ+NVV8zDP11+PXs8KHwxB80c9wXaCzCB3OK6Jdjnss2IgcWXr3XDPI9sB4ias7/f72gvcNiuxzBEtNXR96f4bW2kExU8x8d+DI4EGq1HCfCTCPGmMpzrOAyqGGFUTBGie8NU6axxxmyAKfbDPsq4yRETJvy6H79BozVmut2IREtbBskEjg8eig7RlSPde+AE/jcgzdx2NWiV+DHPqIC4pVHCL3ci7YlW8xB+VGu+ubCH4TMxfNFFrqCVzzLTJJAU+o7oDXCTVYj2ilSeWyhrnKeYCySnSR/CEwN8tAVlU4H9TUixf69f7ggXW9ZqJvnh0sqz8iCAifb8Gn2GPQYD5houVvWKHJ2/I5Jw=;D5yhhxJMXFg5c416d5b+Dg=="
 ---
 

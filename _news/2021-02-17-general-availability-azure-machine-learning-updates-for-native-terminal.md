@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
 type: article
 quality: 97
-heat: 257
+heat: 277
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
     excerpt: "There are several new announcements for May 2021 including repos as protected resource in YAML pipelines and updates to Delivery Plans 2.0."
     publishedDateTime: 2021-05-11T19:48:53Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-git-repositories-can-now-be-treated-as-protected-resources-in-yaml-pipelines/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Azure DevOps updates for June 2021"
+    excerpt: "With this update, we've added a new set of policies which can be used to restrict the scope and lifespan of your organization’s Azure DevOps personal access tokens. "
+    publishedDateTime: 2021-06-24T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-devops-updates-for-june-2021/"
     type: article
     provider:
       name: Microsoft

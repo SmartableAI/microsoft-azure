@@ -22,6 +22,29 @@ topics:
   - Azure
 
 related:
+  - title: "General availability: Turn your phone into an IoT device with the new IoT Plug and Play mobile app"
+    excerpt: "Use the IoT Plug and Play phone app as an IoT device to get started quickly with IoT Central or IoT Hub."
+    publishedDateTime: 2021-06-24T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/turn-your-phone-into-an-iot-device/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 92
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/7ba3c654-273c-41d6-9567-3f9ac29ef1ca.png"
+        width: 424
+        height: 511
+        isCached: true
+  - title: "General availability: Introducing Log Analytics Open In Excel - A new Excel integration capability"
+    excerpt: "Azure Monitor Log Analytics introduces a new Excel integration capability that allows you to create a connected Excel workbook right from the Log Analytics blade in Azure. "
+    publishedDateTime: 2021-06-22T21:25:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/introducing-log-analytics-open-in-excel-a-new-excel-integration-capability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
   - title: "General availability: Cross region Restore of SQL/SAP HANA running in Azure VM"
     excerpt: "General availability of Cross Region Restore of SQL/SAP HANA databases running in Azure VM allows to restore data in the secondary region for compliance/audit and outage scenarios."
     publishedDateTime: 2021-06-17T16:54:40Z
@@ -31,15 +54,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
-  - title: "General availability: Confidential Computing price reduction on DCsv2 virtual machines"
-    excerpt: "DCsv2-series Azure Virtual Machines protect the confidentiality and integrity of your data and code while it’s processed in the public cloud. The price for this offering is now 37% lower."
-    publishedDateTime: 2021-06-10T16:48:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/dcsv2-vms-pricing-reduction/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 44
 
 secured: "d+Q+P5ElQBJYxL0kcJWEnO6GEy85QdFEKbUVGG1NDGEaUw2z0xPiAE8YGg727y9s28WjZ91FRW2m6JvaUoak/0owcYjHkjMRq6yl/tGngYKFqhkPATGodD6mHogUR9MNrSpU4OQxnK/N1kEnEO3Z8HJcqtjdTGrjdcZ/rb61htwHhiKscxf74I+CGTk+plxcW4TUtIQkPAjtjiWL0FzKTm33zSCm2ch1x558awNsCwxmB62QdXotUIjCqbb9tI/X/QOruBRcJ3y6VoR3On2a2NGkJKEmtwo4qeu4reT4phe/emPYZdbqthwxAZhxxVhX9gyiqGqLj8XWCYhbfBJHhjEiN/6Z1lF1h9c3GWFRmWM=;+6AncppQ/d6VLkOW6MaANA=="
 ---
