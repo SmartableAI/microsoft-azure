@@ -293,6 +293,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 86
+  - title: "Retrospect Announces Integration with Microsoft Azure Blob Storage"
+    excerpt: "Microsoft Azure has grown dramatically recently, and with its addition to the wide range of cloud storage providers that Retrospect supports, customers can select the best cloud based on their ..."
+    publishedDateTime: 2021-06-22T17:55:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/retrospect-announces-integration-with-microsoft-azure-blob-storage/article_209bbf88-6011-5c34-8c23-2e68be7e4a91.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 86
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
     excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
     publishedDateTime: 2020-04-16T18:20:00Z

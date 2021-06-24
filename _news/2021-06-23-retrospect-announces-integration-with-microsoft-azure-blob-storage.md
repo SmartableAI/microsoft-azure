@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Microsoft Azure outage delays virtual premiere of Zack Snyder's Justice League"
-excerpt: "Zack Snyder's Justice League saw one last delay due to the recent Microsoft Azure outage. The virtual premiere of the film was delayed by six hours. Luckily, the launch on HBO Max seems to be on schedule."
-publishedDateTime: 2021-03-16T12:27:00Z
-originalUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league"
-webUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league"
-ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
-cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
+title: "Retrospect Announces Integration with Microsoft Azure Blob Storage"
+excerpt: "Microsoft Azure has grown dramatically recently, and with its addition to the wide range of cloud storage providers that Retrospect supports, customers can select the best cloud based on their ..."
+publishedDateTime: 2021-06-22T17:55:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/retrospect-announces-integration-with-microsoft-azure-blob-storage/article_209bbf88-6011-5c34-8c23-2e68be7e4a91.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/retrospect-announces-integration-with-microsoft-azure-blob-storage/article_209bbf88-6011-5c34-8c23-2e68be7e4a91.html"
 type: article
-quality: 53
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
+  - Storage
+  - Integration
 
 images:
-  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/03/hbo-max-hero.jpg"
-    width: 800
-    height: 600
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -291,20 +291,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 86
-  - title: "Retrospect Announces Integration with Microsoft Azure Blob Storage"
-    excerpt: "Microsoft Azure has grown dramatically recently, and with its addition to the wide range of cloud storage providers that Retrospect supports, customers can select the best cloud based on their ..."
-    publishedDateTime: 2021-06-22T17:55:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/retrospect-announces-integration-with-microsoft-azure-blob-storage/article_209bbf88-6011-5c34-8c23-2e68be7e4a91.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 86
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
     excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
     publishedDateTime: 2020-04-16T18:20:00Z
@@ -711,6 +697,22 @@ related:
       - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
         width: 450
         height: 601
+        isCached: true
+  - title: "Microsoft Azure outage delays virtual premiere of Zack Snyder's Justice League"
+    excerpt: "Zack Snyder's Justice League saw one last delay due to the recent Microsoft Azure outage. The virtual premiere of the film was delayed by six hours. Luckily, the launch on HBO Max seems to be on schedule."
+    publishedDateTime: 2021-03-16T12:27:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 53
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/03/hbo-max-hero.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
     excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its ultralow power WE-I Plus AIoT Platform has been listed in the Azure Certified Device Catalog after receiving Microsoft Azure IoT PnP certification."
@@ -2056,6 +2058,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "3Ou2/eOhRlLuVLh0cahxBojeWDGVB/GV05zxJYCpkJotMJrzJri6tAM52vqpwouBsDGJ9+X+0PLL7yz2fJRWhBGAH7l0XpfWdI3e3b6vp3QkQf9RBgQly6puhtzApf/vu1pepqr21Uig2qPKvM41ajOpm6NCZ3ooEBHEq2rGscTHzur4rmfAY1OBzu7hDjf4s4/21WyoMr39B/NyOp7TqCCHtHrepKqDda+bIgkD2LLUlF32UD1+WGzx5eUcBMvaYRx6SB2yaMyQcRPClRsHxrLiZIy2lT0wZeyxZASeH9MfarH7/PM8DNdU+O4OTaLoWxfmjXqq6KF/lAZMWCtDnIJj33vselHZSjxbcE1O/itXDaAPDaB6Rdf7BXGrrlgLcJH/QRJk+OmZ7TNbh6d2K/R6FzY/vTpXyZJ6Q8gCkiXe8bAECoUE2OE0XMoaEXld9gEEw520jWOOgcRzqUATCf5oczYzF59TN1LKnmU57YBO6wyf3pS9pa+X6ewB6h/a+4l+Pkdy0Ok3l35Cp+93sQ==;SkU2n8GHmLIR0P0CBubtBg=="
+secured: "BCldKd2rfz/kYZHWRYWUoOpRoEjlpUB+8NKOTZo5Ih/+wH958E0dgaQTE5xFa1qfcZgSu4YuNLZ8igfL2hFVkbxlrTX8F2Uply+8uVGSwA9yJcriz17cP2czSF000JdUggf9uVidL5K2GyehtaU/rReuV7+Y4kqg0k5+seelLtNruyQWqCWerjpaprUMLHKPhJsfkjfyakwaSbq90v0wE5uVPZiESqbL0VFS9uuAarWxrptrcEofYn6xxRh7n1ChkNc1Y67frh+ma8bNgDfiTRdG9uqQRqg2POI/mfdSQ0a5M0PEDHilF+GTQXPIxlqs4pa3LIZVpi9vT69tQHlPp9b8xPHb0OSl6JUAdX7J8jo=;TQZcUA2Eog1gMp7hK02zNw=="
 ---
 

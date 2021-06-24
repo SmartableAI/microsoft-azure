@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Primer Announces Strategic Alliance with Microsoft to Make Leading AI Solutions Easily Available; Primer to be Natively Supported On Microsoft Azure"
-excerpt: "Primer, an artificial intelligence (AI) company, today announced a strategic alliance with Microsoft to collaborate on taking leading AI solutions to market and"
-publishedDateTime: 2021-06-22T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to/article_8e487a05-8c19-569a-a3e8-ea27d4e020f2.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to/article_8e487a05-8c19-569a-a3e8-ea27d4e020f2.html"
+excerpt: "The collaboration will make Primer's Natural Language Processing (NLP) capabilities available and natively supported within Microsoft Azure, enabling rapid deployment for Azure customers."
+publishedDateTime: 2021-06-22T13:04:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft-azure-301316917.html"
+webUrl: "https://www.prnewswire.com/news-releases/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft-azure-301316917.html"
 type: article
-quality: 15
-heat: 15
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "94PH3kV4iSB4s5pYtJpnMlIsHsVaHfbicjgLkW9ksHrXyaDJ970EnzJgqet+QhLWPwryOeNxcgGNkuDnfKfS1ZSueC30y7hLM2Pd1cNRe8w/nAGu2XKRnYX+LuBSE1KUipPh1criAUJui1lK6ebgLmDucYT2zJWpHJOSI0PaBDriC8x+BP9AW8P5svP1+GrLoWcDRYtrLjdYD7y/by5Je4v+M1f1GzNpztLqyxd5pXRRDsxrV+s8qVYlL04Rvhzm2PiRo/TDiRgoCHIo1wJDJhEgqGrEtuo9/lgEkicYo37nOeOpB0fimx5tbaVeeTt3F1dpj7S4o1yvYjqmJ0jkQxjcMpoq1kcZz//xHEgDqVA=;OiYYOh0Gfk+171zKJL/hew=="
+secured: "eHrS5LnEP2u/ESma1HJu3JeGJSPNCQs9ggkFjxcOkaDJ78dkxjsr1527b57/6UcFU2u2Kry3WPFoNJPF66CkQa0l3eiTyIMHWIc4TEWsUa72ieTjWK4LT1F8enFYyKjlGoaCGMJoX9Pop5M3EB92SFvuK8Bku3NoNfF+j0QxkEV3UjXjKBS9q7UwWXQGhTL+98YbisQz67RkZjXp/GpNB6PDLQCLe4BnCVHUxCJRmFlgz+GU4q7N+TwbcYyvDrfmGPrbmKCJo765cu+oeDV8YEC5w+5yMtwacA5+bSFkEV7kTg7yukAEzWgfrcNh3+p78T8tACXQ+vzmiEAQTMhs6Eq/mdesOXs3p2En2glAsdU=;iSh8Qz8RwBx4ktULfJWySg=="
 ---
 
