@@ -4,6 +4,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-explore-authentication-capabilities-of-azure-ad.md",
+      "title": "Explore the authentication capabilities of Azure AD",
+      "excerpt": "Explore the authentication capabilities of Azure AD",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-authentication-capabilities-of-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 257,
+        "average": 4.828794
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-the-authentication-capabilities-of-azure-ad-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-microsoft-teams.md",
       "title": "Explore Microsoft Teams",
       "excerpt": "Explore Microsoft Teams",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-microsoft-teams/",
       "length": "PT42M",
       "ratings": {
-        "count": 113,
-        "average": 4.858407
+        "count": 114,
+        "average": 4.859649
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -227,8 +270,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/getting-started-identity/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 376,
-        "average": 4.6781917
+        "count": 377,
+        "average": 4.679045
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -479,8 +522,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-users-groups-approles/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 200,
-        "average": 4.785
+        "count": 201,
+        "average": 4.78607
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -600,8 +643,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/",
       "length": "PT48M",
       "ratings": {
-        "count": 267,
-        "average": 4.812734
+        "count": 268,
+        "average": 4.8134327
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -839,8 +882,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/",
           "length": "PT54M",
           "ratings": {
-            "count": 248,
-            "average": 4.7419353
+            "count": 249,
+            "average": 4.742972
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -857,7 +900,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1623,8 +1666,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/",
           "length": "PT54M",
           "ratings": {
-            "count": 248,
-            "average": 4.7419353
+            "count": 249,
+            "average": 4.742972
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1641,7 +1684,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1916,49 +1959,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/azure-ad-application-proxy-social.png",
           "width": 1280,
           "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-client-aconnectivity-to-microsoft-365.md",
-      "title": "Configure client connectivity to Microsoft 365",
-      "excerpt": "Configure client connectivity to Microsoft 365",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-client-aconnectivity-to-microsoft-365/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-client-connectivity-to-microsoft-365/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 6,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-client-connectivity-to-microsoft-365-social.png",
-          "width": 641,
-          "height": 321,
           "isCached": true
         }
       ],
