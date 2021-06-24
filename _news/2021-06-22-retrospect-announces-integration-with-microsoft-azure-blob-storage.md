@@ -276,6 +276,22 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Retrospect adds support for Microsoft Azure Blob Storage"
+    excerpt: "Retrospect, a StorCentric company, has announced the general availability of Microsoft Azure Blob Storage support for Retrospect Backup and Retrospect Virtual. The software updates enable organisations to leverage Azure as a backup destination,"
+    publishedDateTime: 2021-06-24T08:18:00Z
+    webUrl: "https://www.itweb.co.za/content/JN1gP7OYjbaqjL6m"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/JN1gP7OYjbaqjL6m"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JN1gP7OYjbaqjL6m"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 89
+    images:
+      - url: "https://lh3.googleusercontent.com/7HzRvrt60a2byp6ga4sRVG_kmbOqgz8KVV_4Ow52HTLvpOuR6J9LTo-4VTkyON6b9zRaIz5MtQAbRwiZkY86c0bJRKleSAxkH3wF=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
   - title: "Retrospect Announces Integration with Microsoft Azure Blob Storage"
     excerpt: "Microsoft Azure has grown dramatically recently, and with its addition to the wide range of cloud storage providers that Retrospect supports, customers can select the best cloud based on their ..."
     publishedDateTime: 2021-06-22T17:55:00Z

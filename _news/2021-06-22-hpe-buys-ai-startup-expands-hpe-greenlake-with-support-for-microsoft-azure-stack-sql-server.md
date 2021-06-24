@@ -198,19 +198,16 @@ related:
         height: 315
         isCached: true
   - title: "NetFolder for Secure file Uploads by odix is now available on the Microsoft Azure Marketplace"
-    excerpt: "Deployment of NetFolder from the odix team, from its inception and publication on the azure marketplace to its roll-out with customers was streamlined by consistent support from the Microsoft ..."
-    publishedDateTime: 2021-06-22T05:50:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/netfolder-for-secure-file-uploads-by-odix-is-now-available-on-the-microsoft-azure-marketplace/article_cef9a2d8-e5f4-5381-859c-5e7093eb33e0.html"
+    excerpt: "ROSH HA'AYIN, Israel, /PRNewswire-PRWeb/ -- odix, the Israel based cyber security leader in file-based malware prevention solutions has officially"
+    publishedDateTime: 2021-06-22T05:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21658315/netfolder-for-secure-file-uploads-by-odix-is-now-available-on-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21658315"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21658315"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 26
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Hewlett Packard Enterprise Fuels HPE GreenLake Expansion with Cloud Services Support for Microsoft Azure Stack HCI and Microsoft SQL Server"
     excerpt: "Hewlett Packard Enterprise today announced the expansion of its HPE GreenLake edge to cloud platform to include support for Microsoft Azure Stack HCI and Microsoft SQL Server. The new HPE GreenLake cloud services deliver the agility and flexibility organizations are looking for in a scalable,"
     publishedDateTime: 2021-06-21T12:00:00Z

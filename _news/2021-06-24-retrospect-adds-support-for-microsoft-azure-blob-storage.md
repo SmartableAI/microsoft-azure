@@ -1,26 +1,29 @@
 ---
 category: news
-title: "Banking Circle ports Infrastructure to Microsoft Azure"
-excerpt: "Banking Circle, the financial infrastructure provider, today announces that it is now completely cloud-based, with all aspects of its infrastructure hosted within Microsoft Azure."
-publishedDateTime: 2021-03-25T10:56:00Z
-originalUrl: "https://www.finextra.com/pressarticle/86797/banking-circle-ports-infrastructure-to-microsoft-azure"
-webUrl: "https://www.finextra.com/pressarticle/86797/banking-circle-ports-infrastructure-to-microsoft-azure"
+title: "Retrospect adds support for Microsoft Azure Blob Storage"
+excerpt: "Retrospect, a StorCentric company, has announced the general availability of Microsoft Azure Blob Storage support for Retrospect Backup and Retrospect Virtual. The software updates enable organisations to leverage Azure as a backup destination,"
+publishedDateTime: 2021-06-24T08:18:00Z
+originalUrl: "https://www.itweb.co.za/content/JN1gP7OYjbaqjL6m"
+webUrl: "https://www.itweb.co.za/content/JN1gP7OYjbaqjL6m"
+ampWebUrl: "https://www.itweb.co.za/amp/content/JN1gP7OYjbaqjL6m"
+cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JN1gP7OYjbaqjL6m"
 type: article
-quality: 37
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Finextra
-  domain: finextra.com
+  name: ITWeb
+  domain: itweb.co.za
 
 topics:
   - Azure
+  - Storage
 
 images:
-  - url: "https://www.finextra.com/about/finextra-logo.png"
-    width: 512
-    height: 512
+  - url: "https://lh3.googleusercontent.com/7HzRvrt60a2byp6ga4sRVG_kmbOqgz8KVV_4Ow52HTLvpOuR6J9LTo-4VTkyON6b9zRaIz5MtQAbRwiZkY86c0bJRKleSAxkH3wF=w816-h428"
+    width: 761
+    height: 428
     isCached: true
 
 related:
@@ -277,22 +280,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f04e8e714d1ce6072a237%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D1%26cropY2%3D563"
         width: 1000
         height: 562
-        isCached: true
-  - title: "Retrospect adds support for Microsoft Azure Blob Storage"
-    excerpt: "Retrospect, a StorCentric company, has announced the general availability of Microsoft Azure Blob Storage support for Retrospect Backup and Retrospect Virtual. The software updates enable organisations to leverage Azure as a backup destination,"
-    publishedDateTime: 2021-06-24T08:18:00Z
-    webUrl: "https://www.itweb.co.za/content/JN1gP7OYjbaqjL6m"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/JN1gP7OYjbaqjL6m"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JN1gP7OYjbaqjL6m"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 89
-    images:
-      - url: "https://lh3.googleusercontent.com/7HzRvrt60a2byp6ga4sRVG_kmbOqgz8KVV_4Ow52HTLvpOuR6J9LTo-4VTkyON6b9zRaIz5MtQAbRwiZkY86c0bJRKleSAxkH3wF=w816-h428"
-        width: 761
-        height: 428
         isCached: true
   - title: "Retrospect Announces Integration with Microsoft Azure Blob Storage"
     excerpt: "Retrospect™, a StorCentric company, today announced the general availability of Microsoft Azure Blob Storage support for Retrospect Backup and Retrospect Virtual. The software updates allow businesses to leverage Azure as a backup destination as well as a cloud storage location to protect on-premise data."
@@ -1385,6 +1372,20 @@ related:
         width: 450
         height: 450
         isCached: true
+  - title: "Banking Circle ports Infrastructure to Microsoft Azure"
+    excerpt: "Banking Circle, the financial infrastructure provider, today announces that it is now completely cloud-based, with all aspects of its infrastructure hosted within Microsoft Azure."
+    publishedDateTime: 2021-03-25T10:56:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86797/banking-circle-ports-infrastructure-to-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "DH2i Simplifies High Availability Across Microsoft Azure Cloud"
     excerpt: "DxEnterprise’s DH2i makes it simpler for IT teams to achieve high availability of Microsoft SQL Server databases."
     publishedDateTime: 2021-03-26T16:39:00Z
@@ -2072,6 +2073,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "3u20HA0xQtqY11SyksKgo65wERwgEcjmDBe/DmZlcWtaZSxzJk9N1mpuTM7EYdl4qIf+IXrwD8wIZ+wO1rCIG+b+pUG1q8CLUcuQ/SUVtejE4BwxXsXZI1udRgIQk8kwiRCVI5olnD1c58UZoEhqwLs5+9RadOJSmAOSQ1hLdILYW+uZ+0AQSCgn7v0AGPvGUf2wtGabiyxOMYy9w7h2MrPhy1O6nq0zHSyzom5FZSqCWeUIEYXN9Yrm51VUw/LgTkFsrdiv9S87ItvK1yWcJdgusxCP5aUDiRHFexBmmUkpyW6VHlq+SmUuGtKLSnawdyMGoqGDYl16pq0qXQGM7FiMYzkYU0SZzj36kTwpJxU=;w0LWyx3oVE5O6mAEB5vCHg=="
+secured: "YiVgQerk5Poyl2M5hyoagg445LdyXhhnGraqmPmlErXfcUr5XfrNN0BQF4oUP5J73aYt+VHBbgY1Pk8AzfkhHnpOSV1nbSVrM818YTsYow9zTddDrTveJDDw9hmeQbvRBdPsThJ32fNHrBZ1HXJczBXGizuyRNNM1DW1qwr9Xaw1IMpX3Dwc2ab+AUXrQL4fhk76y9W6KVxNz413ki04FFflmHSkD3l3LmKvwoCFbHHV4RR/I2IoE/43h4R7ClM4pK/h1fS8qZKvOsa17KHooT+sBicHb9QfF523hVjqpwWXtdVzdHbYV+Zxf3m09MyncgYVZ+OaNQbN5EtH6ogpY5DQf5c0iq98KJcp8y6IBMo=;n/wb6CNte0NTc82fCqbNdA=="
 ---
 
