@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Virtual machine (VM) level disk bursting available on all Dsv3 and Esv3 families"
-excerpt: "Virtual machine (VM) level disk bursting enables your workloads to handle unforeseen disk traffic spikes smoothly without the need to overprovision your virtual machine. The feature is now enabled on all Dsv3-series and Esv3-series virtual machines."
-publishedDateTime: 2021-03-31T16:00:57Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-virtual-machine-vm-level-disk-bursting-available-on-all-dsv3-and-esv3-families/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-virtual-machine-vm-level-disk-bursting-available-on-all-dsv3-and-esv3-families/"
+title: "General availability: Azure Digital Twins plugin for Azure Data Explorer "
+excerpt: "Adding context to IoT data just became easier. Azure Digital Twins and Azure Data Explorer now seamlessly integrate, allowing you to allow you to contextualize time-series IoT data."
+publishedDateTime: 2021-06-24T18:46:54Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/adding-context-to-iot-data-just-became-easier/"
+webUrl: "https://azure.microsoft.com/en-us/updates/adding-context-to-iot-data-just-became-easier/"
 type: article
-quality: 53
+quality: 66
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Compute
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -388,15 +387,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure Digital Twins plugin for Azure Data Explorer "
-    excerpt: "Adding context to IoT data just became easier. Azure Digital Twins and Azure Data Explorer now seamlessly integrate, allowing you to allow you to contextualize time-series IoT data."
-    publishedDateTime: 2021-06-24T18:46:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/adding-context-to-iot-data-just-became-easier/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 66
   - title: "Updated App Service Authentication portal experience is now generally available"
     excerpt: "The new Authentication portal experience for App Service and Azure Functions, improving usability, initial setup, and increased security, is now available.”"
     publishedDateTime: 2021-04-01T21:02:34Z
@@ -460,6 +450,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 53
+  - title: "General availability: Virtual machine (VM) level disk bursting available on all Dsv3 and Esv3 families"
+    excerpt: "Virtual machine (VM) level disk bursting enables your workloads to handle unforeseen disk traffic spikes smoothly without the need to overprovision your virtual machine. The feature is now enabled on all Dsv3-series and Esv3-series virtual machines."
+    publishedDateTime: 2021-03-31T16:00:57Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-virtual-machine-vm-level-disk-bursting-available-on-all-dsv3-and-esv3-families/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 53
   - title: "General Availability: Application Insight in UK West"
     excerpt: "Application Insight, a part of Azure Monitor,  is now generally available in the UK West region for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2020-09-29T15:23:28Z
@@ -497,6 +496,6 @@ related:
       domain: microsoft.com
     quality: 42
 
-secured: "woXbLUs888cMMH1/cZOC4a16SDJJLobL93zA/tavY2I5WvPYM/a6TD//cbDeD4ylSPnulmip/RLCPp332Kt1AF4mpH87BdEswnEmZjgKxSR/qpEzuhCQbRJpZEE1wkrQW6SgVFIp/8LtfJ5j/6CPENEWbLAOQN73bkFaYoD/SoTsfVR5KOGEZVbyjTit9RchC4oQ3IH7J0EgBrGw/CXTZAS2Ga4TTPPpU904f8M2/BBIUULHuBzdjJbVBV0WXbQprGlkD3k+hF5Pi/Yun25XwBKZC92nhwp7ALOSW96h7Ly5n05Kyd6A9493DigRGYGS3AYl5djbMj1S1vCs6g2Wv8hTlZuXKZs01HW0tCDiU88=;sdCx0JnxBJiHIbMj5YOBZA=="
+secured: "L3viZhx7oG6nG+3Zq6yS4XNZ6DbPYXPs9/z8D6S0fn4dGpCcewE/puNpHWSRgxLh+9mOrAur4i+k/76DObVAABD+WTC7NiUyEScWX8yVbMIyUQ05JglJxsBkEWpSF4idsz3+pTug6uJ7Lbi+5y+cstKVO/24V0gnKaKfrfNf8ZztP7Q82o3LkWV50CZ6Y8I0ifFIHZI9QzpT6UJZdNi3zn3rLqWQS4JQaHHYoYQrf+P+Nwz47/dws44k+ReEXNXTePrRnzpoUYja/i+a/zYWRleKnBlc4+dn3cNJn9ErBzY3bgzk/3CR2jRoC0TXtTZ3bL9YdpEvokenw4Cqo6k+gLY9HEKlEO6ZBBIfySw7XWI=;7HQJExKdj3P201N/punmNQ=="
 ---
 

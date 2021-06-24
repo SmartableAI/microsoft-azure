@@ -388,6 +388,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Digital Twins plugin for Azure Data Explorer "
+    excerpt: "Adding context to IoT data just became easier. Azure Digital Twins and Azure Data Explorer now seamlessly integrate, allowing you to allow you to contextualize time-series IoT data."
+    publishedDateTime: 2021-06-24T18:46:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/adding-context-to-iot-data-just-became-easier/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 66
   - title: "General availability: App Service Managed Certificates now supports apex domains"
     excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
     publishedDateTime: 2021-03-17T16:00:26Z
