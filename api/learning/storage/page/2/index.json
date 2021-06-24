@@ -4,6 +4,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
+      "title": "Connect an app to Azure Storage",
+      "excerpt": "Create a simple application and add configuration, client library references, and C# or JavaScript code to connect it to Azure Storage.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-app-to-azure-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
+      "length": "PT1H15M",
+      "ratings": {
+        "count": 6427,
+        "average": 4.6355996
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
       "title": "Secure your Azure virtual machine disks",
       "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
@@ -11,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 3621,
-        "average": 4.6942835
+        "count": 3622,
+        "average": 4.694368
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -259,8 +303,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/",
       "length": "PT41M",
       "ratings": {
-        "count": 1805,
-        "average": 4.599446
+        "count": 1806,
+        "average": 4.5996675
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -340,8 +384,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
       "length": "PT24M",
       "ratings": {
-        "count": 1784,
-        "average": 4.728139
+        "count": 1785,
+        "average": 4.7282915
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -696,8 +740,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10745,
-            "average": 4.678269
+            "count": 10748,
+            "average": 4.6781726
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1418,8 +1462,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2718,
-            "average": 4.478293
+            "count": 2719,
+            "average": 4.4784846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1517,8 +1561,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-cognitive-search-solution/",
       "length": "PT46M",
       "ratings": {
-        "count": 85,
-        "average": 4.7647057
+        "count": 86,
+        "average": 4.7674417
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1589,50 +1633,6 @@
         "IoT",
         "Storage",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-set-up-cors-website-storage.md",
-      "title": "Core Cloud Services - Set up CORS for your website and storage assets",
-      "excerpt": "Set up Cross-Origin Resource Sharing (CORS) for your Azure website and storage assets in order to allow cross-domain access to your resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-set-up-cors-website-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-cors-website-storage/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 102,
-        "average": 4.7352943
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/setup-cors-for-your-website-and-storage-assets-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Storage"
       ]
     }
   ],
