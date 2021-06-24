@@ -4,6 +4,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
+      "title": "Microsoft Azure Well-Architected Framework - Reliability",
+      "excerpt": "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-reliability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 1100,
+        "average": 4.7527275
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-reliability-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Databases",
+        "Management Tools",
+        "Migration",
+        "Networking",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
       "title": "Explore Azure compute services",
       "excerpt": "Learn about the different services that are available in Azure Compute.",
@@ -11,8 +60,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 17072,
-        "average": 4.7637653
+        "count": 17085,
+        "average": 4.763945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -79,8 +128,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 17072,
-            "average": 4.7637653
+            "count": 17085,
+            "average": 4.763945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -124,8 +173,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 13843,
-            "average": 4.6375785
+            "count": 13850,
+            "average": 4.637545
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +216,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 12161,
-            "average": 4.770825
+            "count": 12171,
+            "average": 4.7706842
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -210,8 +259,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 16856,
-            "average": 4.7309566
+            "count": 16865,
+            "average": 4.7306848
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -346,8 +395,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 3194,
-            "average": 4.7097683
+            "count": 3197,
+            "average": 4.7100406
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -389,8 +438,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 5836,
-            "average": 4.746059
+            "count": 5839,
+            "average": 4.7455044
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -474,8 +523,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
           "length": "PT29M",
           "ratings": {
-            "count": 2460,
-            "average": 4.630488
+            "count": 2461,
+            "average": 4.630638
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -607,8 +656,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43047,
-            "average": 4.7190976
+            "count": 43057,
+            "average": 4.719163
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -686,8 +735,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 1089,
-            "average": 4.752066
+            "count": 1091,
+            "average": 4.7525206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -787,8 +836,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 8767,
-            "average": 4.658264
+            "count": 8769,
+            "average": 4.658342
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -909,8 +958,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 9145,
-            "average": 4.6703115
+            "count": 9146,
+            "average": 4.6703477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -997,8 +1046,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 7162,
-            "average": 4.719631
+            "count": 7166,
+            "average": 4.719788
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1084,8 +1133,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
           "length": "PT59M",
           "ratings": {
-            "count": 1561,
-            "average": 4.573991
+            "count": 1562,
+            "average": 4.5742636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1128,8 +1177,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
           "length": "PT35M",
           "ratings": {
-            "count": 5232,
-            "average": 4.741208
+            "count": 5233,
+            "average": 4.741257
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1221,8 +1270,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3608,
-            "average": 4.6263857
+            "count": 3621,
+            "average": 4.626899
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1255,8 +1304,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6908,
-            "average": 4.7165604
+            "count": 6914,
+            "average": 4.716662
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1291,8 +1340,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
           "length": "PT49M",
           "ratings": {
-            "count": 2841,
-            "average": 4.6335797
+            "count": 2856,
+            "average": 4.634804
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1400,8 +1449,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 11756,
-            "average": 4.767183
+            "count": 11769,
+            "average": 4.76744
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1443,8 +1492,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3290,
-            "average": 4.6729484
+            "count": 3292,
+            "average": 4.673147
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1620,8 +1669,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 4561,
-            "average": 4.7561936
+            "count": 4565,
+            "average": 4.7564073
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1664,8 +1713,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7916,
-            "average": 4.6750884
+            "count": 7920,
+            "average": 4.675126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1699,8 +1748,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3290,
-            "average": 4.6729484
+            "count": 3292,
+            "average": 4.673147
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1742,8 +1791,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 1960,
-            "average": 4.5943875
+            "count": 1961,
+            "average": 4.5940847
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1825,8 +1874,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 182,
-            "average": 4.840659
+            "count": 185,
+            "average": 4.843243
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1867,8 +1916,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1656,
-            "average": 4.7469807
+            "count": 1662,
+            "average": 4.745487
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1911,8 +1960,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 1048,
-            "average": 4.7519083
+            "count": 1053,
+            "average": 4.7530866
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1953,8 +2002,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 1089,
-            "average": 4.752066
+            "count": 1091,
+            "average": 4.7525206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2053,8 +2102,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
           "length": "PT38M",
           "ratings": {
-            "count": 86,
-            "average": 4.8023257
+            "count": 87,
+            "average": 4.804598
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2185,8 +2234,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 2416,
-            "average": 4.6684604
+            "count": 2417,
+            "average": 4.668597
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2272,8 +2321,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
           "length": "PT28M",
           "ratings": {
-            "count": 5617,
-            "average": 4.7019763
+            "count": 5619,
+            "average": 4.702082
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2545,8 +2594,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5598,
-            "average": 4.6668453
+            "count": 5599,
+            "average": 4.666905
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3315,8 +3364,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 1089,
-        "average": 4.752066
+        "count": 1091,
+        "average": 4.7525206
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3365,8 +3414,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 5192,
-        "average": 4.643875
+        "count": 5197,
+        "average": 4.644218
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3410,8 +3459,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 2107,
-        "average": 4.640247
+        "count": 2108,
+        "average": 4.6404176
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3456,8 +3505,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 2416,
-        "average": 4.6684604
+        "count": 2417,
+        "average": 4.668597
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3530,55 +3579,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
-      "title": "Microsoft Azure Well-Architected Framework - Reliability",
-      "excerpt": "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-reliability/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 1097,
-        "average": 4.752051
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-reliability-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Databases",
-        "Management Tools",
-        "Migration",
-        "Networking",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
       "title": "Design a geographically distributed application",
       "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
@@ -3586,8 +3586,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
       "length": "PT34M",
       "ratings": {
-        "count": 944,
-        "average": 4.6980934
+        "count": 947,
+        "average": 4.6990495
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3712,8 +3712,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
       "length": "PT38M",
       "ratings": {
-        "count": 86,
-        "average": 4.8023257
+        "count": 87,
+        "average": 4.804598
       },
       "provider": {
         "name": "Microsoft Learn",
