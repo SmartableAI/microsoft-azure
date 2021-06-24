@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Container Registry is now available in West US 3"
+    excerpt: "Azure Container Registry is now generally available in West US 3 region. Azure Container Registry handles private Docker container images as well as related content formats, such as Helm charts, OCI artifacts, and images built to the OCI image format specification.\n"
+    publishedDateTime: 2021-06-23T22:02:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-west-us-3/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Container Registry now available in Switzerland West region"
     excerpt: "Azure Container Registry is now generally available in the Switzerland West region, bringing the total number of Azure regions that it's available in to 35. See the list of all regions where Azure Container Registry is available and where it's coming next."
     publishedDateTime: 2020-08-31T18:46:09Z

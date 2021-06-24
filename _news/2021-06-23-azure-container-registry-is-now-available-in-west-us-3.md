@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Container Registry now available in Norway East region"
-excerpt: "Azure Container Registry is now generally available in Norway East region. Azure Container Registry handles private Docker container images as well as related content formats, such as Helm charts, OCI artifacts, and images built to the OCI image format specification."
-publishedDateTime: 2021-03-23T17:52:13Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-norway-east-region/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-norway-east-region/"
+title: "Azure Container Registry is now available in West US 3"
+excerpt: "Azure Container Registry is now generally available in West US 3 region. Azure Container Registry handles private Docker container images as well as related content formats, such as Helm charts, OCI artifacts, and images built to the OCI image format specification.\n"
+publishedDateTime: 2021-06-23T22:02:42Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-west-us-3/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-west-us-3/"
 type: article
 quality: 84
 heat: -1
@@ -32,19 +32,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: " Azure Container Registry now generally available in Korea South region"
-    excerpt: "Azure Container Registry handles private Docker container images as well as related content formats, such as Helm charts, OCI artifacts, and images built to the OCI image format specification."
-    publishedDateTime: 2021-04-27T15:56:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-korea-south/"
+  - title: "Azure Container Registry now available in Norway East region"
+    excerpt: "Azure Container Registry is now generally available in Norway East region. Azure Container Registry handles private Docker container images as well as related content formats, such as Helm charts, OCI artifacts, and images built to the OCI image format specification."
+    publishedDateTime: 2021-03-23T17:52:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-norway-east-region/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure Container Registry is now available in West US 3"
-    excerpt: "Azure Container Registry is now generally available in West US 3 region. Azure Container Registry handles private Docker container images as well as related content formats, such as Helm charts, OCI artifacts, and images built to the OCI image format specification.\n"
-    publishedDateTime: 2021-06-23T22:02:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-west-us-3/"
+  - title: " Azure Container Registry now generally available in Korea South region"
+    excerpt: "Azure Container Registry handles private Docker container images as well as related content formats, such as Helm charts, OCI artifacts, and images built to the OCI image format specification."
+    publishedDateTime: 2021-04-27T15:56:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-korea-south/"
     type: article
     provider:
       name: Microsoft
@@ -96,6 +96,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "+areVNXGCpVcG7pixJjhhLubW8xbQ3vn2Bd99aLK10xQ+rg8yt5pT2ixG2Cv7SgF8Lk5ERlqDVj3VwB1Tn08iL4KgPl7jdIRDLT0/5uF1PP9YdC0j8ScZaLyc+EKpUPQXbu4Qmxt2502M7/UXWr3ETfjryghQBQjCVe+wWIwQTz2ck1RbLQwc4bkKyLHHoKu3nucxu8Gj5TFwc9L78IgjpTGWqDd0KxGJlrd850Z/rzJ5UcfbL0aVyz93bOW5yhVhgT357n06Rq2NnI6fusJtteW20Urrb/ieOvMW79L5bHCbOwg7djFCZKMYuVTGhGDdH1HqQJcyw7vJQ+Rfb8ZBnlAefFImceR0y8xwEk+IOE=;TtnfD/iujvw2cnP+DAEu2Q=="
+secured: "ztg0pMRnrqdHzld/RuugTzOODxZFk5ZSHxEOrLHFmVpQVFcJETB4BMhrLAa+3JKtNOQvrpqJmySFlTIj0SaDxgFSCrAvODF3QalESwRxa1Sg7dIABPfbstb3lyNtiu5eRsIhf7KptJkJeTJGYgfHvI9FeWT865gQkfNqzRTzAfSzSxmDB1vdPB30HMdUjbxPNOE13qgByW9yaQ8LLz1onZ3dGonEKuOMhGVsvFEr3IAcgPixhpoeR+iRusfQzQarXUDKozRuOD36bjAFpm2kcTqmZJ5/a6ViFtssG3GUHtz6JUKY08cpbYwWW+MnWliM0oJh9B2UmGvZnIqo8XWKB2v9P9tUqwxHsMtmMr/EoEc=;ONRvcA9rzWfrrQk1ElHsEQ=="
 ---
 

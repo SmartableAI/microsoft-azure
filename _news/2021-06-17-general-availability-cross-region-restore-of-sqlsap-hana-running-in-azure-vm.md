@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/gacrossregionrestoresqls
 webUrl: "https://azure.microsoft.com/en-us/updates/gacrossregionrestoresqlsaphana/"
 type: article
 quality: 63
-heat: 106
+heat: 103
 published: true
 
 provider:
