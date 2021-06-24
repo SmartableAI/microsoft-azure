@@ -4,48 +4,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-make-predictions-with-linear-regression.md",
-      "title": "Make predictions with linear regression",
-      "excerpt": "Learn",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-make-predictions-with-linear-regression/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/make-predictions-with-linear-regression/",
-      "length": "PT1H27M",
-      "ratings": {
-        "count": 84,
-        "average": 4.857143
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/make-predictions-with-linear-regression-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-advanced-ediscovery.md",
       "title": "Manage Advanced eDiscovery",
       "excerpt": "Manage Advanced eDiscovery",
@@ -96,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
       "length": "PT45M",
       "ratings": {
-        "count": 411,
-        "average": 4.810219
+        "count": 412,
+        "average": 4.8106794
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -915,8 +873,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
       "length": "PT35M",
       "ratings": {
-        "count": 615,
-        "average": 4.721951
+        "count": 616,
+        "average": 4.7224026
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1283,6 +1241,51 @@
         "Azure",
         "Containers",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-microservices-logging-aspnet-core.md",
+      "title": "Instrument a cloud-native ASP.NET Core microservice",
+      "excerpt": "This module guides you through implementing logging and monitoring in an ASP.NET Core microservices app in Azure Kubernetes Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-logging-aspnet-core/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-logging-aspnet-core/",
+      "length": "PT1H3M",
+      "ratings": {
+        "count": 50,
+        "average": 4.82
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-logging-aspnet-core-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Containers",
+        "DevOps"
       ]
     }
   ],
