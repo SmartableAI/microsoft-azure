@@ -16,7 +16,7 @@ affiliation:
 twitter:
   username: samjgeorge
   url: https://twitter.com/samjgeorge
-  followers: 2787
+  followers: 2788
 
 linkedin:
   url: https://www.linkedin.com/in/samjgeorge/
