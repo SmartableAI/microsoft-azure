@@ -532,6 +532,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
+  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
+    excerpt: "The Logility® Digital Supply Chain Platform Now Available on Azure MarketplaceATLANTA--(BUSINESS WIRE)--#SupplyChain--Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise,"
+    publishedDateTime: 2021-06-17T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=486685"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Perforce Releases Free, Turnkey Solution for Game Dev and VFX Studios on Microsoft Azure"
     excerpt: "For studios looking to capitalize on cloud benefits and avoid a costly hardware investment, the Enhanced Studios Pack combines the world-class development tools trusted by the largest AAA game development studios to enable creativity,"
     publishedDateTime: 2021-06-17T13:10:00Z
@@ -599,15 +613,6 @@ related:
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
     publishedDateTime: 2021-06-16T12:04:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-smartronix-recognized-as-microsoft-azure-expert-managed-service-/2021/06/16/9391505.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
-    excerpt: "Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise, is partnering with Microsoft (News - Alert) and making its comprehensive suite of solutions available through Microsoft Azure."
-    publishedDateTime: 2021-06-17T13:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-logility-partners-with-microsoft-azure-power-high-performing-/2021/06/17/9392726.htm"
     type: article
     provider:
       name: TMCnet

@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
-excerpt: "Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise, is partnering with Microsoft (News - Alert) and making its comprehensive suite of solutions available through Microsoft Azure."
-publishedDateTime: 2021-06-17T13:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-logility-partners-with-microsoft-azure-power-high-performing-/2021/06/17/9392726.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-logility-partners-with-microsoft-azure-power-high-performing-/2021/06/17/9392726.htm"
+excerpt: "The Logility® Digital Supply Chain Platform Now Available on Azure MarketplaceATLANTA--(BUSINESS WIRE)--#SupplyChain--Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise,"
+publishedDateTime: 2021-06-17T13:00:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=486685"
+webUrl: "https://us.acrofan.com/detail.php?number=486685"
 type: article
-quality: 0
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -614,6 +620,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "wGDWyLkC1Yq3JG++cc6RiVbqeK6EV/Oo4lDWoQSHTdWv2jKNpiVS0KSpZGvW6fXqR89fOeWW9/tBP6jRp5nmP7l7u7c4dN4b7aId3eiOJxA3nJJyHoJKf6HGSohMAnLdW7785nTo8r/Fiz7vF824v1dX+7dCj3neh/1oyCboTsBu3HJhS9d9sms8PhNG4vECjUmMO5WKwHf0IyDMdvqx7G2ghOUDsC6ppFiMDZnhwlRvGbNkbbyMuU8xwBC2XDBtb5zxtb6JGOAGNFmmHE8WWLulIN7KcIPe10VTjuUg0cpJ5ZEGkPULVLzh9TN1IRzhXB90A8bj3RSw5P8Yi5OGGC+jA+Gi2V1EIy28RdiLvts=;rTFC0IRLIBTWMegt7DgLGQ=="
+secured: "Ctxio68TXgkeI6yQob+FLbDpVoU/VDFsi4dmkoTARW9/sn79shs94Z1X1VCwNs2IgBuDsIWhOuEp5UCjaGpodNNBsLroVAYjtOOcJ6ns2sPoHwGbweUntHrtfGkTNgX0yAFT2qmO2b5ybwe1boTpDH6LWmpHMfksCG4ikWaOQ5a5MX9TbaavTZ1BfMT7ahyRYj+8AjKxV/86E6Det0a6w0PWpkK3UCMFP9VK4v3Lpi2K2x1T401+nNnRGuOJAYpJg+gsmQDT8foWE9ih6m4wO6OQvJWIFlrfkm/59USDpi0epGi0/GmSLIEBTqf5jcqa2jh+9MRh+r9kwMYSJnMVp2R/ANHFG9aizSO0NxTFGhQ=;acPDbMn6hsgVxSiAAsEvyg=="
 ---
 
