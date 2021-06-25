@@ -58,6 +58,20 @@ related:
         width: 480
         height: 271
         isCached: true
+  - title: "Here's how AWS, Google Cloud, IBM, and Microsoft Azure stack up in their fight to nab Wall Street's business"
+    excerpt: "Amazon Web Services, Google Cloud, IBM, and Microsoft Azure have made in-roads with financial firms in recent years. IBM and Microsoft unveiled finance-specific business lines this spring ..."
+    publishedDateTime: 2021-06-22T00:00:00Z
+    webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/60ac14aa5e3457001926545c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
     excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
     publishedDateTime: 2021-06-21T12:09:00Z

@@ -51,6 +51,20 @@ related:
         width: 480
         height: 271
         isCached: true
+  - title: "Here's how AWS, Google Cloud, IBM, and Microsoft Azure stack up in their fight to nab Wall Street's business"
+    excerpt: "Amazon Web Services, Google Cloud, IBM, and Microsoft Azure have made in-roads with financial firms in recent years. IBM and Microsoft unveiled finance-specific business lines this spring ..."
+    publishedDateTime: 2021-06-22T00:00:00Z
+    webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/60ac14aa5e3457001926545c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
     excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
     publishedDateTime: 2021-06-22T04:42:00Z

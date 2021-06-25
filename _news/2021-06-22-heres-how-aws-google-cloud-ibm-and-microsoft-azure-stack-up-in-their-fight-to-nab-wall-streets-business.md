@@ -1,27 +1,30 @@
 ---
 category: news
-title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
-excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
-publishedDateTime: 2021-06-21T12:09:00Z
-originalUrl: "https://www.hstoday.us/industry/sts-and-ais-joint-venture-wins-treasurys-microsoft-azure-migration-contract/"
-webUrl: "https://www.hstoday.us/industry/sts-and-ais-joint-venture-wins-treasurys-microsoft-azure-migration-contract/"
+title: "Here's how AWS, Google Cloud, IBM, and Microsoft Azure stack up in their fight to nab Wall Street's business"
+excerpt: "Amazon Web Services, Google Cloud, IBM, and Microsoft Azure have made in-roads with financial firms in recent years. IBM and Microsoft unveiled finance-specific business lines this spring ..."
+publishedDateTime: 2021-06-22T00:00:00Z
+originalUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
+webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
 type: article
-quality: 51
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Homeland Security Today
-  domain: hstoday.us
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Migration
 
 images:
-  - url: "https://www.hstoday.us/wp-content/uploads/2020/01/cloud-computing-4246668_1920.jpg"
-    width: 1920
-    height: 1152
+  - url: "https://i.insider.com/60ac14aa5e3457001926545c?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -57,20 +60,6 @@ related:
         width: 480
         height: 271
         isCached: true
-  - title: "Here's how AWS, Google Cloud, IBM, and Microsoft Azure stack up in their fight to nab Wall Street's business"
-    excerpt: "Amazon Web Services, Google Cloud, IBM, and Microsoft Azure have made in-roads with financial firms in recent years. IBM and Microsoft unveiled finance-specific business lines this spring ..."
-    publishedDateTime: 2021-06-22T00:00:00Z
-    webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/60ac14aa5e3457001926545c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
     excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
     publishedDateTime: 2021-06-22T04:42:00Z
@@ -86,6 +75,20 @@ related:
       - url: "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 849
+        isCached: true
+  - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
+    excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
+    publishedDateTime: 2021-06-21T12:09:00Z
+    webUrl: "https://www.hstoday.us/industry/sts-and-ais-joint-venture-wins-treasurys-microsoft-azure-migration-contract/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 51
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2020/01/cloud-computing-4246668_1920.jpg"
+        width: 1920
+        height: 1152
         isCached: true
   - title: "Azure Stack HCI and SQL Server set sail on HPE’s GreenLake"
     excerpt: "HPE has added on-premises Azure Stack HCI and Microsoft SQL Server availability to its GreenLake offer, complementing existing SimpliVity and Nimble dHCI hyperconverged systems support in GreenLake, and Nutanix as well."
@@ -247,6 +250,6 @@ related:
       domain: telecompaper.com
     quality: 23
 
-secured: "fKf+9mSjFlwxaZdF3nlLhHXS2+ht7J/W7fJHeGIpbqr9ZwJFc+Vuxj6MCSnfd8h0vOQIAjBktKOYbHpe/gNAT+g36GRvmS9l3FoTS9qOeFlHXTgYY1z2WA2r7wuxqb6q0rJODveEd44sD0TedlHkubtIk/2kRMSCVcLI7h6QkuRDblVOVG4QFYIYYnXsh58ZJziQNFtMG1jfvLF5PeNHyilJMerkVfK03bqwjihm9W1iSoXMYRNiyNx+CRtqSIMDVxytz7MrPTcfcm300UuX6htlHQ6AT2eA9tUi1KUBNcsSQANScwvpRBBNdROk8U4YgOPUyXCkbflP+wiqJAOqI+v4QMsBmmBsIGvK/GXcm7JdtqCh6E54amhIGOHpRAEI2H5xDZBWHU7XrCG7CFK21JC3jBhnqNUkN48V0FX0xQtdGEBUBN7YjEWpLE1QG6xqLhvpNlZxaxzQPwC+t3dPZFH68wnhUSXXmNMKbnBN3YZHFYiB+d4RsKgFKtk7cE7QdcDCbT3PNlzoeRW5F/r4VA==;yMjeFkSDGkLSDAgjQKscMQ=="
+secured: "GLChz0xY3/nylDCJOkmLx8rTFOMPoUs+7cFpQhh9AbH5sqUUabu63Bj3CTUyQ5m5F8rl1JhrM1rwLYvhJnoDE1Eoqijla+KD1UnFUTxNKilsY2RyQV4pE9od+r9VCp/p7axD0GcPS58Tmd0KimothMiMxp1Qd5KFTdCA5sIAmj2vuhODKBunk2oiegvssaBl5GXw2k2CH1nRDPGc7WI7ZRXK8T7H09kGgmV8K75ROQ5guynH7BcGxdAkIja0ealqA6QNgiAyMy6sQ0P/4JvdufqV4rc+7FyUlnh6CGmMvbZXK5c6HxDLicH6kJYmGXN5rSDHc1Owr8EEgDYxX77Pm+s93y+mIRIaj66B2SJ2Acg=;NZLZ4ZjGhz9KgzXnJYd4WA=="
 ---
 
