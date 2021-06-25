@@ -1,32 +1,26 @@
 ---
 category: news
-title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
-excerpt: "Hewlett Packard Enterprise (HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Azure Stack HCI and Microsoft SQL Server. With this new integration ..."
-publishedDateTime: 2021-06-21T22:47:00Z
-originalUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-webUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-ampWebUrl: "https://www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+title: "BICS Unveils Support for Microsoft’s Azure Peering Service"
+excerpt: "BICS has announced its support for Microsoft’s Azure Peering Service, which will provide businesses with direct access to Microsoft"
+publishedDateTime: 2021-06-25T00:54:00Z
+originalUrl: "https://www.thefastmode.com/technology-solutions/20078-bics-unveils-support-for-microsoft-s-azure-peering-service"
+webUrl: "https://www.thefastmode.com/technology-solutions/20078-bics-unveils-support-for-microsoft-s-azure-peering-service"
 type: article
-quality: 95
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Deep
+  domain: thefastmode.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/er5NpnAErP4CGcAHzgMXxF-480-80.jpg"
-    width: 480
-    height: 271
+  - url: "https://www.thefastmode.com/media/k2/items/src/36ebcc738294e9b879f823f52915d1c6.jpg?t=20210625_004943"
+    width: 752
+    height: 408
     isCached: true
 
 related:
@@ -45,6 +39,22 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1595502135/itpro/HPE_shutterstock.jpg"
         width: 1260
         height: 710
+        isCached: true
+  - title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
+    excerpt: "Hewlett Packard Enterprise (HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Azure Stack HCI and Microsoft SQL Server. With this new integration ..."
+    publishedDateTime: 2021-06-21T22:47:00Z
+    webUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+    ampWebUrl: "https://www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 95
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/er5NpnAErP4CGcAHzgMXxF-480-80.jpg"
+        width: 480
+        height: 271
         isCached: true
   - title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
     excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
@@ -117,20 +127,6 @@ related:
       - url: "https://www.crn.com/resources/026a-12953fb24a07-c9e21775c5d5-1000/microsoft-sign.jpg"
         width: 609
         height: 457
-        isCached: true
-  - title: "BICS Unveils Support for Microsoft’s Azure Peering Service"
-    excerpt: "BICS has announced its support for Microsoft’s Azure Peering Service, which will provide businesses with direct access to Microsoft"
-    publishedDateTime: 2021-06-25T00:54:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20078-bics-unveils-support-for-microsoft-s-azure-peering-service"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/36ebcc738294e9b879f823f52915d1c6.jpg?t=20210625_004943"
-        width: 752
-        height: 408
         isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
@@ -236,6 +232,6 @@ related:
       domain: telecompaper.com
     quality: 23
 
-secured: "KPweSm2vZBOwgQST+lIwWhn2mujQRXjErHjX7f2dpmwxC1HGlGD1XcCxE4t5NLj+bBlOmE4nDH78NgvlvbdtAH9VAt0F/BCbipLEC1nbNS4vTAbX/JYD9ksc+oo2Dn/GHm7sVF0eYx+ai71ZzaR5QnW+q/yeULF4lhBIMgkJ1/AKmS8Iek/35tllKpJe5X+jJOPEEWGgALchHFDI59oKruHh8aYiPnemB+quSAJC97eVAgMQ3lGAjZDMf40PaEB4HzUIG1iKkqaC9njwoWQTEVcPESUzl0RxyUfue4J4bqVjgk22eTCjDOw9Rss7XnicOJRLKCbS8CC5fR9VhkCITEcpSdd6b/m5ct1LWSj0wvU=;qydX0UE9jmD9FshWlA1b3A=="
+secured: "szbqNSwFwK6PzK0F93BQFvV3OLhiicrwQdd371pkhokcmDuZFzbqgkz1QF+kx1vBMoRGAIiqKUIdmFuld9JuujuShifEA8gnSyvQ9G6GxV0TSLhEX8V/F/kn33uNb7RxeY3F73unlKz6+4bpTeluyJOR2g0BVzXnlVUybzf9k5jQNRfiYWO8A4jxm3p/mBeBd0vzuTCHXa1taNtiXdUlZ1wCZSs6TAx6+GGtLsMar5rxTGnSPl2XXMDgBGgk+vkIBg6t8ge/NjOjLAn0qC0Q61dhtxBGYJNlMr9FmnCGMR1uOT4K817+Ss2vte5vkJUnEymhwaHkqhQuqpfyaZVvL4fc7+BRR7m73/hMPM2m4sU=;Qv5OmYqwdJZqnZqcpq6L8w=="
 ---
 

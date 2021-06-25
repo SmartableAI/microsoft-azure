@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-netapp-files-volum
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-netapp-files-volume-hard-quota-change/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 87
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Azure NetApp Files | Regional Capacity Quota "
+    excerpt: "We're changing the regional capacity quota for Azure NetApp files at no additional cost to you."
+    publishedDateTime: 2021-06-25T00:18:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-netapp-files-regional-capacity-quota/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "/ttKczRuoDf0MZS+OPG8se6fFKV6G9ReK/AWCUODiJhAhOE5ZKDm+eWogE13/RCjxFTF6cDuYq4CQho/Y2zpbfYdfs6tO31SzKJH/4V/4Uek5G9QVDiWNjibi6Va1/InKXWNiICzRexxh2iIajbSp4cl9uA1qvv+UUziHSMF2aqqpFW6+7W5QKYqzsezK7FnDbdeJhmOLySBzcF9VTNMsVYZjl0qXOWVIxOzIo/QhUesNfGu5yc4XiHMXA05rRmiKYOskmArw7npnJEHsHRPWZgCfumOi0Gf34p/wVrjUXOUXRNhz2/RSFuVSIPEtijP7BZwUgOMbBXE4jcH5zj79ih5uym/rngv060uz5nJ/rI=;fvDGzBCfy+Ehca1CpgBTvA=="
 ---

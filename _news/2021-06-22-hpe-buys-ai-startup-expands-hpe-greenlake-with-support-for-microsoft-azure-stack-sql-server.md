@@ -123,6 +123,20 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "BICS Unveils Support for Microsoft’s Azure Peering Service"
+    excerpt: "BICS has announced its support for Microsoft’s Azure Peering Service, which will provide businesses with direct access to Microsoft"
+    publishedDateTime: 2021-06-25T00:54:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20078-bics-unveils-support-for-microsoft-s-azure-peering-service"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/36ebcc738294e9b879f823f52915d1c6.jpg?t=20210625_004943"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
     publishedDateTime: 2021-06-23T13:00:00Z
