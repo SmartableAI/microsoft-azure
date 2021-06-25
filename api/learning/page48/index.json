@@ -4,49 +4,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-set-up-iot-edge-gateway.md",
-      "title": "Set up an IoT Edge Gateway",
-      "excerpt": "This module is theoretical and will walk you through how an IoT Edge device can be used as a gateway.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-set-up-iot-edge-gateway/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-iot-edge-gateway/",
-      "length": "PT1H40M",
-      "ratings": {
-        "count": 311,
-        "average": 4.5466237
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/set-up-iot-edge-gateway-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-set-up-mixed-reality-azure-digital-twins-unity.md",
       "title": "Set up a mixed reality project for Azure Digital Twins in Unity",
       "excerpt": "Get step-by-step guidance on how to set up and configure a mixed reality project in Unity for HoloLens 2. Learn about the Azure Digital Twins and SignalR services and common use cases for the Azure platform in Mixed Reality.",
@@ -1049,8 +1006,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transition-from-configuration-manager-to-intune/",
       "length": "PT23M",
       "ratings": {
-        "count": 7,
-        "average": 4.571429
+        "count": 8,
+        "average": 4.625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1224,6 +1181,48 @@
       "ratings": {
         "count": 53,
         "average": 4.735849
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-typescript-declare-variable-types.md",
+      "title": "Declare variable types in TypeScript",
+      "excerpt": "Learn about the available types and how to associate them with variables.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-typescript-declare-variable-types/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/typescript-declare-variable-types/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 122,
+        "average": 4.844262
       },
       "provider": {
         "name": "Microsoft Learn",

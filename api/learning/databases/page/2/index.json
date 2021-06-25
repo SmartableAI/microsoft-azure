@@ -4,6 +4,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-backup-restore-azure-sql.md",
+      "title": "Back up and restore your Azure SQL database",
+      "excerpt": "Protect the data in your Azure SQL database and recover from data loss or corruption with backup and restore.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-backup-restore-azure-sql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-azure-sql/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 967,
+        "average": 4.663909
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/backup-restore-azure-sql-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
       "title": "Chain Azure Functions together using input and output bindings",
       "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
@@ -74,8 +117,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 1181,
-            "average": 4.6790857
+            "count": 1183,
+            "average": 4.6779375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -117,8 +160,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 610,
-            "average": 4.5213113
+            "count": 611,
+            "average": 4.520458
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -160,8 +203,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-iot-edge-gateway/",
           "length": "PT1H40M",
           "ratings": {
-            "count": 311,
-            "average": 4.5466237
+            "count": 312,
+            "average": 4.548077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -228,8 +271,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-multiple-tables-with-joins/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 66,
-        "average": 4.8636365
+        "count": 67,
+        "average": 4.8656716
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -623,8 +666,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
           "length": "PT48M",
           "ratings": {
-            "count": 2235,
-            "average": 4.788367
+            "count": 2236,
+            "average": 4.7884617
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -771,8 +814,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
       "length": "PT48M",
       "ratings": {
-        "count": 2235,
-        "average": 4.788367
+        "count": 2236,
+        "average": 4.7884617
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1592,49 +1635,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/configure-database-authentication-and-authorization-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-databases-for-performance.md",
-      "title": "Configure databases for performance",
-      "excerpt": "Control database-level configuration options. Explore Intelligent Query Processing. Configure Open Source databases for optimum performance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-databases-for-performance/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-databases-performance/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 617,
-        "average": 4.7876825
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-databases-for-performance-social.png",
           "width": 643,
           "height": 321,
           "isCached": true

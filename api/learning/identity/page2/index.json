@@ -4,6 +4,551 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-implement-microsoft-identity-associate.md",
+      "title": "Implement Microsoft identity – Associate",
+      "excerpt": "The Microsoft identity platform is an evolution of the Azure Active Directory (Azure AD) developer platform. It allows developers to build applications that sign in users, and access resources in both external applications such as Microsoft Office 365, the Azure portal, and thousands of other SaaS applications and internal resources, such as apps on your corporate network and intranet, along with any cloud apps developed by your own organization. Learn how to utilize Microsoft identity in your custom applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-microsoft-identity-associate/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-microsoft-identity-associate/",
+      "length": "PT5H42M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-getting-started-identity.md",
+          "title": "Getting Started with Microsoft Identity",
+          "excerpt": "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-getting-started-identity/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/getting-started-identity/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 386,
+            "average": 4.6709843
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 55,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-identity-application-types.md",
+          "title": "Application types in Microsoft identity",
+          "excerpt": "Learn how developers can leverage Microsoft identity in different types of applications.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-application-types/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-application-types/",
+          "length": "PT50M",
+          "ratings": {
+            "count": 210,
+            "average": 4.633333
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/identity-application-types-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-identity-permissions-consent.md",
+          "title": "Permissions and Consent Framework",
+          "excerpt": "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-permissions-consent/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-permissions-consent/",
+          "length": "PT1H6M",
+          "ratings": {
+            "count": 175,
+            "average": 4.725714
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/identity-permissions-consent-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-identity-secure-custom-api.md",
+          "title": "Secure custom APIs with Microsoft Identity",
+          "excerpt": "Learn how to secure a web API with Microsoft identity and how to call it from another application.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-secure-custom-api/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-secure-custom-api/",
+          "length": "PT1H23M",
+          "ratings": {
+            "count": 160,
+            "average": 4.7125
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/identity-application-types-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-implement-mobile-device-management-in-microsoft-365.md",
+      "title": "Implement Mobile Device Management in Microsoft 365",
+      "excerpt": "Implement Mobile Device Management in Microsoft 365",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-mobile-device-management-in-microsoft-365/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-mobile-device-management-in-microsoft-365/",
+      "length": "PT2H6M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-to-mobile-device-management.md",
+          "title": "Explore Mobile Device Management",
+          "excerpt": "Explore Mobile Device Management",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-mobile-device-management/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-mobile-device-management/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 5,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity",
+            "Mobile"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-deploy-mobile-device-management.md",
+          "title": "Deploy Mobile Device Management",
+          "excerpt": "Deploy Mobile Device Management",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-mobile-device-management/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-mobile-device-management/",
+          "length": "PT35M",
+          "ratings": {
+            "count": 5,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity",
+            "Mobile"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-enroll-devices-to-mobile-device-management.md",
+          "title": "Enroll devices to Mobile Device Management",
+          "excerpt": "Enroll devices to Mobile Device Management",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enroll-devices-to-mobile-device-management/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enroll-devices-to-mobile-device-management/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 4,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity",
+            "Mobile"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-device-compliance.md",
+          "title": "Manage device compliance",
+          "excerpt": "Manage device compliance",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-device-compliance/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-compliance/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 5,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Mobile"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-sc-900-part-1-describe-the-concepts-of-security-compliance-and-identity.md",
+      "title": "SC-900 part 1: Describe the concepts of security, compliance, and identity",
+      "excerpt": "SC-900 part 1: Describe the concepts of security, compliance, and identity",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-sc-900-part-1-describe-the-concepts-of-security-compliance-and-identity/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-sc-900-part-1-describe-the-concepts-of-security-compliance-and-identity/",
+      "length": "PT36M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-describe-security-concepts-methodologies.md",
+          "title": "Describe security concepts and methodologies",
+          "excerpt": "Describe security concepts and methodologies",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-security-concepts-methodologies/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 1094,
+            "average": 4.808958
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 62,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-describe-identity-principles-concepts.md",
+          "title": "Describe identity principles and concepts",
+          "excerpt": "Describe identity principles and concepts",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-identity-principles-concepts/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
+          "length": "PT20M",
+          "ratings": {
+            "count": 370,
+            "average": 4.891892
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 62,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-identity-principles-and-concepts-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-add-custom-domain-name-azure-active-directory.md",
       "title": "Add custom domain name to Azure Active Directory",
       "excerpt": "Learn how to add custom domain name to Azure Active Directory.",
@@ -54,8 +599,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
       "length": "PT20M",
       "ratings": {
-        "count": 368,
-        "average": 4.8913045
+        "count": 370,
+        "average": 4.891892
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1211,7 +1756,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/secure-score-reduce-risk-social.png",
@@ -1991,7 +2536,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3033,7 +3578,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3964,8 +4509,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transition-from-configuration-manager-to-intune/",
           "length": "PT23M",
           "ratings": {
-            "count": 7,
-            "average": 4.571429
+            "count": 8,
+            "average": 4.625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4007,7 +4552,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-microsoft-store-for-business/",
           "length": "PT30M",
           "ratings": {
-            "count": 2,
+            "count": 3,
             "average": 5.0
           },
           "provider": {
@@ -4541,8 +5086,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
       "length": "PT24M",
       "ratings": {
-        "count": 4641,
-        "average": 4.785176
+        "count": 4642,
+        "average": 4.785222
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4608,135 +5153,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/simplify-access-and-identity-provisioning-with-microsoft-365-social.png",
           "width": 800,
           "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-describe-identity-access-management-capabilities-of-microsoft-365.md",
-      "title": "Describe the identity and access management capabilities of Microsoft 365",
-      "excerpt": "Describe the identity and access management capabilities of Microsoft 365",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-identity-access-management-capabilities-of-microsoft-365/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 253,
-        "average": 4.8300395
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-the-identity-and-access-management-capabilities-of-microsoft-365-social.png",
-          "width": 642,
-          "height": 324,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-m365-identity-zero-trust.md",
-      "title": "Embrace Zero Trust with Azure Active Directory",
-      "excerpt": "Learn about the Zero Trust model and how to implement Zero Trust into your organization.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-zero-trust/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-zero-trust/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 3894,
-        "average": 4.825886
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/embrace-zero-trust-social.png",
-          "width": 643,
-          "height": 324,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-m365-threat-safeguard.md",
-      "title": "Safeguard your environment with Azure Advanced Threat Protection",
-      "excerpt": "Learn about the Azure Advanced Threat Protection component of Microsoft Threat Protection.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-threat-safeguard/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 2282,
-        "average": 4.8317266
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/safeguard-your-environment-with-microsoft-azure-advanced-threat-protection-social.png",
-          "width": 642,
-          "height": 321,
           "isCached": true
         }
       ],
