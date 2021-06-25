@@ -1501,6 +1501,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "BHP, Microsoft partner for Azure cloud deployment"
+    excerpt: "Microsoft says it will help deliver strong digital capability, data support and security, “which will help BHP accelerate its journey to cloud, transitioning its global applications including ..."
+    publishedDateTime: 2021-06-22T02:00:00Z
+    webUrl: "https://itwire.com/deals/bhp,-microsoft-partner-for-azure-cloud-deployment.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 37
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/39782b60ff566c1de5bf3994127a156c_M.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z

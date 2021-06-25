@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure outage: Office 365, Teams services now stable"
-excerpt: "Microsoft cloud computing service Azure experienced an outage for a few hours on March 16. The outage led to users experiencing difficulty in using other Microsoft services like Microsoft Teams ..."
-publishedDateTime: 2021-03-16T04:14:00Z
-originalUrl: "https://www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html"
-webUrl: "https://www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html"
-ampWebUrl: "https://www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html/amp"
+title: "BHP, Microsoft partner for Azure cloud deployment"
+excerpt: "Microsoft says it will help deliver strong digital capability, data support and security, “which will help BHP accelerate its journey to cloud, transitioning its global applications including ..."
+publishedDateTime: 2021-06-22T02:00:00Z
+originalUrl: "https://itwire.com/deals/bhp,-microsoft-partner-for-azure-cloud-deployment.html"
+webUrl: "https://itwire.com/deals/bhp,-microsoft-partner-for-azure-cloud-deployment.html"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: ITWire
+  domain: itwire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Microsoft-hacking-770x433.jpg?impolicy=website&width=770&height=431"
-    width: 770
-    height: 431
+  - url: "https://itwire.com/media/k2/items/cache/39782b60ff566c1de5bf3994127a156c_M.jpg"
+    width: 375
+    height: 249
     isCached: true
 
 related:
@@ -567,6 +565,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/05/cso_microsoft_azure_backups_cloud_computing_binary_data_transfer_by_just_super_gettyimages-1003878434_3x2_2400x1600-100796537-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft Azure outage: Office 365, Teams services now stable"
+    excerpt: "Microsoft cloud computing service Azure experienced an outage for a few hours on March 16. The outage led to users experiencing difficulty in using other Microsoft services like Microsoft Teams ..."
+    publishedDateTime: 2021-03-16T04:14:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Microsoft-hacking-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
   - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365 [Update]"
     excerpt: "A recent Microsoft Azure outage took down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft noted that a recent change to an authentication system was the culprit of the issues. Microsoft rolled out an update that ..."
@@ -1483,20 +1497,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "BHP, Microsoft partner for Azure cloud deployment"
-    excerpt: "Microsoft says it will help deliver strong digital capability, data support and security, “which will help BHP accelerate its journey to cloud, transitioning its global applications including ..."
-    publishedDateTime: 2021-06-22T02:00:00Z
-    webUrl: "https://itwire.com/deals/bhp,-microsoft-partner-for-azure-cloud-deployment.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 37
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/39782b60ff566c1de5bf3994127a156c_M.jpg"
-        width: 375
-        height: 249
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -2086,6 +2086,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "iltY0pwrLXqvYJi79a1tYiIgMoY+B2I3FhEWOmMr/MK3PVbizx+um8Q15ASsMfJBsykA7Z9dufP9yhIu83oeatpIzYqEwGe3KGOPJEhxNvvFaRZasWOSv4IiuRF5tNehKrQ+wGgwrpn9ivp8E6xqhirwtwfedIEtAziKvdyTJxjQ8DO2Vz9xnYcEYLV24hvaRSCc+19D+dPKdZxWEuFGJrIQH8uN+zSW4cMd4oOurOZaK2K9HpQSJNmhMvnAN8To62oMOLdw+SdkFOC24wOh/nfy5IoiGLeJSYgky/i6hEb8K8w2e6qRnKo5p4EoB5Og7/sM6v1JdHY1BgvPvOmfaYByd9Mbwr9yj/8dWmAnGgM=;FhMy2IkD/bTr7MPuoXGo1g=="
+secured: "L1m/2sfG/3pfivCVBxsT04rpo+baAU66mRTycZ6qI6RZFGdeM3IAOEi9RNIvZVL4hVJ6D28BOUuVpO8WDlHiXtH/fIku5IorE3D0kQxHsPElLBP0ZwnE9NGeZ9XTSCLVXtj0TSMFs5QReEO7BF4PHZOctxt4OMklJ4JDAcN8hCCCA2gecK6sp3oNOpx6x/L/fU3UN4PeSwX6qR2hpbu9AXE3N2IR9XoaN+NuTGIrOLguPT1gwunn+BFOEYOkGIbObYCpX9VyX0bhayg/S6WrS5RaGNCsRzD7A+mVNXyvzP1CLHkBAaM39qWXiTrnqNL/TbKT64rE+FLmVxIFnbvLb4sS+mzZPo/voElFI3IzxHc=;xXEufWXoTh/qisnhybLcwQ=="
 ---
 
