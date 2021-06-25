@@ -559,6 +559,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 6
+  - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
+    excerpt: "Azure RTOS support for Renesas’ RX Family is provided through the e 2 studio integrated development environment. Microsoft Azure RTOS includes Azure RTOS ThreadX, an advanced real-time operating ..."
+    publishedDateTime: 2021-06-15T17:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210615005481/en/Renesas-Extends-Support-for-Microsoft-Azure-RTOS-Across-32-bit-MCU-Families-With-Simple-Licensing-for-Secure-Embedded-IoT-Development"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
   - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
     excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
     publishedDateTime: 2021-06-17T07:06:00Z

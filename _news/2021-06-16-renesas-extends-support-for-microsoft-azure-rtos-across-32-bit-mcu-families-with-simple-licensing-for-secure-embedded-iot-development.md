@@ -1,21 +1,22 @@
 ---
 category: news
-title: "Tigera’s Calico Cloud Now Available in the Microsoft Azure Marketplace"
-excerpt: "Tigera today announced the availability of Calico Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. Tigera customers can now take advantage of the scalability,"
-publishedDateTime: 2021-06-16T11:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210616005267/tigeras-calico-cloud-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.morningstar.com/news/business-wire/20210616005267/tigeras-calico-cloud-now-available-in-the-microsoft-azure-marketplace"
+title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
+excerpt: "Azure RTOS support for Renesas’ RX Family is provided through the e 2 studio integrated development environment. Microsoft Azure RTOS includes Azure RTOS ThreadX, an advanced real-time operating ..."
+publishedDateTime: 2021-06-15T17:01:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210615005481/en/Renesas-Extends-Support-for-Microsoft-Azure-RTOS-Across-32-bit-MCU-Families-With-Simple-Licensing-for-Secure-Embedded-IoT-Development"
+webUrl: "https://www.businesswire.com/news/home/20210615005481/en/Renesas-Extends-Support-for-Microsoft-Azure-RTOS-Across-32-bit-MCU-Families-With-Simple-Licensing-for-Secure-Embedded-IoT-Development"
 type: article
-quality: 17
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
+  - IoT
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -514,6 +515,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Tigera’s Calico Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Tigera today announced the availability of Calico Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. Tigera customers can now take advantage of the scalability,"
+    publishedDateTime: 2021-06-16T11:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210616005267/tigeras-calico-cloud-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
   - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
     excerpt: "Hanshow has developed a SaaS solution that is connecting an unprecedented 10 million IoT devices across a network of Ahold Delhaize stores in Europe."
     publishedDateTime: 2021-06-08T06:00:00Z
@@ -550,15 +560,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 6
-  - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
-    excerpt: "Azure RTOS support for Renesas’ RX Family is provided through the e 2 studio integrated development environment. Microsoft Azure RTOS includes Azure RTOS ThreadX, an advanced real-time operating ..."
-    publishedDateTime: 2021-06-15T17:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210615005481/en/Renesas-Extends-Support-for-Microsoft-Azure-RTOS-Across-32-bit-MCU-Families-With-Simple-Licensing-for-Secure-Embedded-IoT-Development"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 3
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
     publishedDateTime: 2021-06-16T18:43:00Z
@@ -614,6 +615,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "SUhW/L0W0YCYTtOpQFSeax/brbL/B2zMdVfqSqdGG4NZyi2mFz1FvM7gfeGstaHPan8R9K88vi+Hy3ZKrsBuRGJ2FCM+67eJW5NWA5BeTxboPyDbG/j3DN1hj09BSoZNG1li8Ny7DmarsisMYK6iKGCp7hvXQ1GL9n50P0tUDkXjr+Un5GBzcEPHSiLhKnGtAJlXRzer5ELzuuUdJxA1lH+PAqiw/DX6LyCLgcXgbff1brkJov0ujO0lTPB43O2MeJSpB/5FSNR3mF5gS/f8sgsDN/Vb8/Vj82VEINavcTLhZygXr8onofFcWj85tNL7qZkynZeh+WG/FaOlk9OIoyrf77mu1MEcZlJosp3x1jM=;CuVEjYpOs/GU9HR13FfYKw=="
+secured: "T70WJYU2M5/j8JbDxV4HoQzje8VJFDjBGaHtLBoqRAY1J3wiWFB2/llrakuEJ4UsCPFZL8oSmACgkMq2HcZ5qiRBhmTDasFY2IUXGsp/3lWlg0lSm8Jo1Mt6LEPuS2DcanE1jyneMvN99S8Ag7X9hyOhgRV21vItTt7Xp7IxOWp497uZC8uYa2H4ous5l+C7B9QdS8E1y5wBbAU/KiZgSayzz/QzVFgEetjkmnugvBqfa8eDgmqYVWaRkEhqCL1Wvin0bEbEnWieF5KYxWZzQwfVgkT2q2bpcn3aNoAHusPpt29p32g48R2h8OsCNSTN6oZYbJ6uK559Bkwi4gc75SZG9SjVQVpkzgO6JGtbD0s=;32fFbjKI2ZTTIJIUM7lMEg=="
 ---
 
