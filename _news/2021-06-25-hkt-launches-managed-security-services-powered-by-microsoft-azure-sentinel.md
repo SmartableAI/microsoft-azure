@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Microsoft adds new cloud instances and security features to Azure"
-excerpt: "Microsoft Corp. today added a family of memory-optimized instances to its Azure public cloud, along with new features designed to help customers manage and secure their environments. The additions were announced at the company’s virtual Ignite event."
-publishedDateTime: 2021-03-03T13:11:00Z
-originalUrl: "https://siliconangle.com/2021/03/03/microsoft-adds-new-cloud-instances-security-features-azure/"
-webUrl: "https://siliconangle.com/2021/03/03/microsoft-adds-new-cloud-instances-security-features-azure/"
+title: "HKT launches Managed Security Services powered by Microsoft Azure Sentinel"
+excerpt: "HKT has partnered with Microsoft Hong Kong to expand its offering of Managed Security Services for enterprises deploying Microsoft cloud services. As Microsoft's Managed Security Services Provider in Hong Kong,"
+publishedDateTime: 2021-06-25T09:14:00Z
+originalUrl: "https://www.telecompaper.com/news/hkt-launches-managed-security-services-powered-by-microsoft-azure-sentinel--1388049"
+webUrl: "https://www.telecompaper.com/news/hkt-launches-managed-security-services-powered-by-microsoft-azure-sentinel--1388049"
 type: article
-quality: 54
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
   - Security
-
-images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/microsoft-iot.png"
-    width: 859
-    height: 484
-    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -717,6 +711,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/Azure-Percept-Dev-Kit.png"
         width: 1242
         height: 641
+        isCached: true
+  - title: "Microsoft adds new cloud instances and security features to Azure"
+    excerpt: "Microsoft Corp. today added a family of memory-optimized instances to its Azure public cloud, along with new features designed to help customers manage and secure their environments. The additions were announced at the company’s virtual Ignite event."
+    publishedDateTime: 2021-03-03T13:11:00Z
+    webUrl: "https://siliconangle.com/2021/03/03/microsoft-adds-new-cloud-instances-security-features-azure/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/microsoft-iot.png"
+        width: 859
+        height: 484
         isCached: true
   - title: "Finastra successfully migrates Fusion Phoenix core clients to Microsoft Azure"
     excerpt: "Finastra today announced it has successfully migrated its Fusion Phoenix core banking system customers to Microsoft Azure. With 62 community banks and credit unions migrated in the past year, this significant milestone means that all Fusion Phoenix bank and credit union customers that have opted for cloud delivery are running in Azure."
@@ -1454,15 +1462,6 @@ related:
         width: 2300
         height: 1293
         isCached: true
-  - title: "HKT launches Managed Security Services powered by Microsoft Azure Sentinel"
-    excerpt: "HKT has partnered with Microsoft Hong Kong to expand its offering of Managed Security Services for enterprises deploying Microsoft cloud services. As Microsoft's Managed Security Services Provider in Hong Kong,"
-    publishedDateTime: 2021-06-25T09:14:00Z
-    webUrl: "https://www.telecompaper.com/news/hkt-launches-managed-security-services-powered-by-microsoft-azure-sentinel--1388049"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 32
   - title: "Bug Bounty Switzerland launches the first Swiss ethical hacking platform on the Microsoft Cloud"
     excerpt: "Bug Bounty Switzerland launches the first Swiss ethical hacking platform on the Microsoft Cloud Bug Bounty Switzerland launches the first"
     publishedDateTime: 2021-02-24T03:58:00Z
@@ -1680,6 +1679,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "O2J8KBxxYXr59LYyU4oZN3Fnl5LrTiz/QBBMt4ugVVqemvBLgrjgMtgyreoxinghcejQiD56V6/aujbzYTmE85aUgR/10paMHMrJ3W1lQYTFpDSinRciG8+2We08SeUzOWnf7EXtllZbMjVJC8oF16wJsO0FFJIJnlsXAxaXmSU2RUuMfuk5iE7l/WBZbO1R23jcipNcBJ5GQfrVFXAgpTeDt6FJPzFlZuAlDs1UNLsZQNM83G9c0OO6A82fQgYLZTxBiGwGPpwG6ZUZ6FcuCM2hvc/+xtZEvJQk8ceMPYan/e909TfnMJOQh6niDR/+8xFch0LgwgDfkQUy8h5l+yo41qn2SiAT/YrA/s/8IENLvsfiW13EdiOgHz+2NcYWMXlNxF+LHN9ffzLfywcvAfMsrQ01vXzhS1litGKPajyMKlAbwVEvWFi3MXujbztz+4bG+nchHVCzIj98wll6aP1mivusuzHzOq/P8YyCnOyYE5yuME78hd9Ji4NubzZav1v82coPhb/dfs7mXCYKsw==;qt87/0BJbqcpUPwrq4sXvg=="
+secured: "+uMLh+peImp8ciYBqqstyFFPVXbrNkFQ4S+a9CT4PZHiRc2Ejruy+h0R4XPxYK/zjzZjKh4jy1q2F56Eb4kNyUANWj09+5mst3kfbPCuxXd4hDqFNH3HTgST9GJtNzzFj2ax/Pf4TIzMoIOj5z70y4s0ha+C+7dbCHOWY/s0he81RbUcZBdHQQ2KKCydPNaDa90kS1u5C5CTNDLD+gmlxhmQ5OoSonWYix8BPPiLPKWzrOQKHhvPXib5g3sIrwx+uM33AWQNpI9qE0sNowUcYD5SmQt/T3QBFmeep5lL+CSF1zcs/7o68/zGSK20TByqa03KeD106wMClPdkk4ND51VbqBOWPDwozveKUKT5CBw=;tT5IjX3OF2KiDOzmEp/ZyA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 129
-heat: 2529
+heat: 2549
 published: true
 
 provider:
@@ -1458,6 +1458,15 @@ related:
         width: 2300
         height: 1293
         isCached: true
+  - title: "HKT launches Managed Security Services powered by Microsoft Azure Sentinel"
+    excerpt: "HKT has partnered with Microsoft Hong Kong to expand its offering of Managed Security Services for enterprises deploying Microsoft cloud services. As Microsoft's Managed Security Services Provider in Hong Kong,"
+    publishedDateTime: 2021-06-25T09:14:00Z
+    webUrl: "https://www.telecompaper.com/news/hkt-launches-managed-security-services-powered-by-microsoft-azure-sentinel--1388049"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 32
   - title: "Bug Bounty Switzerland launches the first Swiss ethical hacking platform on the Microsoft Cloud"
     excerpt: "Bug Bounty Switzerland launches the first Swiss ethical hacking platform on the Microsoft Cloud Bug Bounty Switzerland launches the first"
     publishedDateTime: 2021-02-24T03:58:00Z

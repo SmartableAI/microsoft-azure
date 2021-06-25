@@ -1469,6 +1469,15 @@ related:
         width: 2300
         height: 1293
         isCached: true
+  - title: "HKT launches Managed Security Services powered by Microsoft Azure Sentinel"
+    excerpt: "HKT has partnered with Microsoft Hong Kong to expand its offering of Managed Security Services for enterprises deploying Microsoft cloud services. As Microsoft's Managed Security Services Provider in Hong Kong,"
+    publishedDateTime: 2021-06-25T09:14:00Z
+    webUrl: "https://www.telecompaper.com/news/hkt-launches-managed-security-services-powered-by-microsoft-azure-sentinel--1388049"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 32
   - title: "IOTech collaborates with Microsoft to enable Edge XRT to support Microsoft Azure Sphere"
     excerpt: "Edinburgh, UK (March 2, 2021) – IOTech, the edge software company, today announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere. Designed and optimized for resource-constrained environments ..."
     publishedDateTime: 2021-03-02T16:24:00Z
