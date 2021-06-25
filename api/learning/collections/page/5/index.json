@@ -4,6 +4,210 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-work-with-relational-data-in-azure.md",
+      "title": "Work with relational data in Azure",
+      "excerpt": "This learning path introduces you to Azure-supported SQL-based enterprise data solutions enabling you to store and retrieve your app's data in the cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-work-with-relational-data-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-work-with-relational-data-in-azure/",
+      "length": "PT5H34M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-provision-azure-sql-db.md",
+          "title": "Provision an Azure SQL database to store application data",
+          "excerpt": "Find out what makes Azure SQL Database a good choice for your relational database, how to create the database from the portal and connect with Azure Cloud Shell.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-azure-sql-db/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
+          "length": "PT50M",
+          "ratings": {
+            "count": 5599,
+            "average": 4.666905
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
+          "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
+          "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-server-relational-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
+          "length": "PT1H24M",
+          "ratings": {
+            "count": 1572,
+            "average": 4.489186
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Migration",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
+          "title": "Introduction to Azure Database for PostgreSQL",
+          "excerpt": "This module is a no-code introduction to PostgreSQL on Azure, including an explanation of particular problems that using Azure Database for PostgreSQL can solve. At a high level, we show how the components fit together and identify situations where you should use Azure Database for PostgreSQL.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-db-for-postgresql/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
+          "length": "PT20M",
+          "ratings": {
+            "count": 2311,
+            "average": 4.6508007
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools.md",
+          "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
+          "excerpt": "Learn how to create SQL elastic pools and how to use them to manage performance and cost for a collection of SQL databases.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 4061,
+            "average": 4.602807
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-accelerate-cloud-adoption-with-the-microsoft-cloud-adoption-framework-for-azure.md",
       "title": "Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure",
       "excerpt": "Do you need a clear path forward for your cloud journey? This learning path includes best practice guidance to help you create a cloud strategy, define a cloud adoption plan, prepare your cloud environment with proper governance, and implement cloud operations in alignment with your organizational needs.  Cloud architects and IT professionals will learn and engage with the proven best practices, tools, and documentation in the Cloud Adoption Framework for Azure to build the technical knowledge needed to help your organization successfully adopt the cloud and meet business goals.",
@@ -245,8 +449,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 6882,
-            "average": 4.7045918
+            "count": 6883,
+            "average": 4.704489
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -287,8 +491,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
           "length": "PT58M",
           "ratings": {
-            "count": 6093,
-            "average": 4.703266
+            "count": 6095,
+            "average": 4.7033634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -416,8 +620,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/",
           "length": "PT22M",
           "ratings": {
-            "count": 471,
-            "average": 4.70276
+            "count": 472,
+            "average": 4.7033896
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1520,8 +1724,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
           "length": "PT34M",
           "ratings": {
-            "count": 374,
-            "average": 4.719251
+            "count": 375,
+            "average": 4.72
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1563,8 +1767,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-organization/",
           "length": "PT34M",
           "ratings": {
-            "count": 268,
-            "average": 4.7686567
+            "count": 269,
+            "average": 4.769517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1605,8 +1809,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-networking/",
           "length": "PT54M",
           "ratings": {
-            "count": 251,
-            "average": 4.7290835
+            "count": 252,
+            "average": 4.7261906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1648,8 +1852,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-operations/",
           "length": "PT44M",
           "ratings": {
-            "count": 367,
-            "average": 4.798365
+            "count": 368,
+            "average": 4.798913
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1950,8 +2154,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3004,
-            "average": 4.704727
+            "count": 3005,
+            "average": 4.703827
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2814,8 +3018,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1294,
-            "average": 4.7040186
+            "count": 1296,
+            "average": 4.7044754
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2857,8 +3061,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-multi-stage-pipeline/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 1082,
-            "average": 4.757856
+            "count": 1083,
+            "average": 4.7580795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2893,50 +3097,6 @@
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines.md",
-          "title": "Manage database changes in Azure Pipelines",
-          "excerpt": "Use a release approval in Azure Pipelines to help coordinate database schema changes between developers and database administrators.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-database-changes-in-azure-pipelines/",
-          "length": "PT1H14M",
-          "ratings": {
-            "count": 769,
-            "average": 4.650195
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-database-changes-in-azure-pipelines-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "DevOps",
-            "Databases"
-          ]
-        },
-        {
           "path": "_learning/courses/microsoft-learn-run-functional-tests-azure-pipelines.md",
           "title": "Run functional tests in Azure Pipelines",
           "excerpt": "Run Selenium UI tests, a form of functional testing, in Azure Pipelines.",
@@ -2944,8 +3104,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-functional-tests-azure-pipelines/",
           "length": "PT1H3M",
           "ratings": {
-            "count": 865,
-            "average": 4.662428
+            "count": 866,
+            "average": 4.6628175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2978,9 +3138,52 @@
             "Azure",
             "DevOps"
           ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-run-non-functional-tests-azure-pipelines.md",
+          "title": "Run nonfunctional tests in Azure Pipelines",
+          "excerpt": "Run automated load tests by using Apache JMeter, a form of nonfunctional testing, in Azure Pipelines.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-non-functional-tests-azure-pipelines/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-non-functional-tests-azure-pipelines/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 848,
+            "average": 4.7158017
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-non-functional-tests-azure-pipelines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "DevOps"
+          ]
         }
       ],
-      "size": 9,
+      "size": 8,
       "heat": 60,
       "images": [
         {
@@ -6002,8 +6205,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-introduction/",
           "length": "PT10M",
           "ratings": {
-            "count": 116,
-            "average": 4.706897
+            "count": 117,
+            "average": 4.7094016
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6044,8 +6247,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-monitoring/",
           "length": "PT43M",
           "ratings": {
-            "count": 96,
-            "average": 4.75
+            "count": 97,
+            "average": 4.7525773
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6086,8 +6289,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-incidents/",
           "length": "PT33M",
           "ratings": {
-            "count": 291,
-            "average": 4.6769757
+            "count": 292,
+            "average": 4.678082
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6128,8 +6331,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-failure/",
           "length": "PT34M",
           "ratings": {
-            "count": 314,
-            "average": 4.691083
+            "count": 316,
+            "average": 4.693038
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6178,220 +6381,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-manage-data-governance-in-microsoft-365.md",
-      "title": "Manage data governance in Microsoft 365",
-      "excerpt": "Manage data governance in Microsoft 365",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-data-governance-in-microsoft-365/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-data-governance-in-microsoft-365/",
-      "length": "PT2H35M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-manage-retention-email.md",
-          "title": "Manage retention in email",
-          "excerpt": "Manage retention in email",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-retention-email/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-retention-email/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 4,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-troubleshoot-data-governance.md",
-          "title": "Troubleshoot data governance",
-          "excerpt": "Troubleshoot data governance",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-data-governance/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-data-governance/",
-          "length": "PT26M",
-          "ratings": {
-            "count": 3,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-explore-sensitivity-labels.md",
-          "title": "Explore sensitivity labels",
-          "excerpt": "Explore sensitivity labels",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-sensitivity-labels/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-sensitivity-labels/",
-          "length": "PT34M",
-          "ratings": {
-            "count": 3,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-implement-sensitivity-labels.md",
-          "title": "Implement sensitivity labels",
-          "excerpt": "Implement sensitivity labels",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-sensitivity-labels/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-sensitivity-labels/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 4,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],

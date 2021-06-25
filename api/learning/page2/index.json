@@ -4,6 +4,176 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-4-describe-general-security-and-network-security-features.md",
+      "title": "Azure Fundamentals part 4: Describe general security and network security features",
+      "excerpt": "Learn about the various Azure services you can use to help ensure that your cloud resources are safe, secure, and trusted.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-fundamentals-part-4-describe-general-security-and-network-security-features/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-fundamentals-part-4-describe-general-security-and-network-security-features/",
+      "length": "PT1H31M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-protect-against-security-threats-azure.md",
+          "title": "Protect against security threats on Azure",
+          "excerpt": "Learn how Azure can help you protect the workloads that you run both in the cloud and in your on-premises datacenter.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-against-security-threats-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
+          "length": "PT23M",
+          "ratings": {
+            "count": 11788,
+            "average": 4.7673907
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 97,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-network-connectivity-azure.md",
+          "title": "Secure network connectivity on Azure",
+          "excerpt": "Learn about the Azure services you can use to help ensure that your network is safe, secure, and trusted.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-network-connectivity-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 8546,
+            "average": 4.7838755
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 84,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/secure-network-connectivity-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 97,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-protect-against-security-threats-azure.md",
+      "title": "Protect against security threats on Azure",
+      "excerpt": "Learn how Azure can help you protect the workloads that you run both in the cloud and in your on-premises datacenter.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-against-security-threats-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 11788,
+        "average": 4.7673907
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 97,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-ai-machine-learning-fundamentals.md",
       "title": "Choose the best AI service for your needs",
       "excerpt": "Examine Azure's AI services, and choose the right one for your company.",
@@ -11,8 +181,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 11448,
-        "average": 4.7794375
+        "count": 11453,
+        "average": 4.7794466
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -77,8 +247,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 7883,
-            "average": 4.803628
+            "count": 7886,
+            "average": 4.803576
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +289,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/",
           "length": "PT27M",
           "ratings": {
-            "count": 8513,
-            "average": 4.795019
+            "count": 8515,
+            "average": 4.7950673
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -179,8 +349,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/",
       "length": "PT27M",
       "ratings": {
-        "count": 8513,
-        "average": 4.795019
+        "count": 8515,
+        "average": 4.7950673
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -295,8 +465,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
       "length": "PT43M",
       "ratings": {
-        "count": 7883,
-        "average": 4.803628
+        "count": 7886,
+        "average": 4.803576
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -360,8 +530,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 7195,
-            "average": 4.8025017
+            "count": 7197,
+            "average": 4.8025565
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -403,8 +573,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2204,
-            "average": 4.763612
+            "count": 2205,
+            "average": 4.762358
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -446,8 +616,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
           "length": "PT27M",
           "ratings": {
-            "count": 7413,
-            "average": 4.750573
+            "count": 7414,
+            "average": 4.750472
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -508,8 +678,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
       "length": "PT27M",
       "ratings": {
-        "count": 7413,
-        "average": 4.750573
+        "count": 7414,
+        "average": 4.750472
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -550,8 +720,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 7667,
-        "average": 4.7812705
+        "count": 7670,
+        "average": 4.781356
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -620,8 +790,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43062,
-            "average": 4.7191954
+            "count": 43064,
+            "average": 4.719139
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -655,8 +825,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2204,
-            "average": 4.763612
+            "count": 2205,
+            "average": 4.762358
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -743,8 +913,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
           "length": "PT53M",
           "ratings": {
-            "count": 2944,
-            "average": 4.683424
+            "count": 2945,
+            "average": 4.6835313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -830,8 +1000,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 5794,
-            "average": 4.8512254
+            "count": 5795,
+            "average": 4.851251
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -872,8 +1042,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
           "length": "PT17M",
           "ratings": {
-            "count": 4575,
-            "average": 4.831257
+            "count": 4579,
+            "average": 4.831404
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -914,8 +1084,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
           "length": "PT24M",
           "ratings": {
-            "count": 3581,
-            "average": 4.831611
+            "count": 3585,
+            "average": 4.831799
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -956,8 +1126,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/",
           "length": "PT26M",
           "ratings": {
-            "count": 3011,
-            "average": 4.810362
+            "count": 3012,
+            "average": 4.810425
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1050,8 +1220,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 7502,
-        "average": 4.755532
+        "count": 7504,
+        "average": 4.755597
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1093,8 +1263,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
       "length": "PT32M",
       "ratings": {
-        "count": 8545,
-        "average": 4.78385
+        "count": 8546,
+        "average": 4.7838755
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1173,8 +1343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 20517,
-        "average": 4.706195
+        "count": 20518,
+        "average": 4.706209
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1208,8 +1378,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
       "length": "PT17M",
       "ratings": {
-        "count": 7195,
-        "average": 4.8025017
+        "count": 7197,
+        "average": 4.8025565
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1392,8 +1562,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 11783,
-            "average": 4.767377
+            "count": 11788,
+            "average": 4.7673907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1435,8 +1605,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 142144,
-            "average": 4.702745
+            "count": 142146,
+            "average": 4.702742
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1470,8 +1640,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 6102,
-            "average": 4.735824
+            "count": 6103,
+            "average": 4.7358675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1513,8 +1683,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 5846,
-            "average": 4.745809
+            "count": 5848,
+            "average": 4.745896
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1599,8 +1769,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 20517,
-            "average": 4.706195
+            "count": 20518,
+            "average": 4.706209
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1634,8 +1804,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 10559,
-            "average": 4.700824
+            "count": 10561,
+            "average": 4.7008805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1670,8 +1840,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 16002,
-            "average": 4.7230973
+            "count": 16004,
+            "average": 4.7231317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1713,8 +1883,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 7370,
-            "average": 4.718589
+            "count": 7371,
+            "average": 4.718627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1995,8 +2165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 20517,
-            "average": 4.706195
+            "count": 20518,
+            "average": 4.706209
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2030,8 +2200,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 10559,
-            "average": 4.700824
+            "count": 10561,
+            "average": 4.7008805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2066,8 +2236,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 16002,
-            "average": 4.7230973
+            "count": 16004,
+            "average": 4.7231317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2165,8 +2335,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
       "length": "PT21M",
       "ratings": {
-        "count": 8622,
-        "average": 4.7270937
+        "count": 8625,
+        "average": 4.7271886
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2208,8 +2378,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 15284,
-        "average": 4.6943865
+        "count": 15287,
+        "average": 4.6943808
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2305,396 +2475,6 @@
       "topics": [
         "Azure",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-az-104-deploy-and-manage-azure-compute-resources.md",
-      "title": "AZ-104: Deploy and manage Azure compute resources",
-      "excerpt": "Learn how to deploy and configure Azure compute resources and prepare for Exam AZ-104: Microsoft Azure Administrator.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-deploy-and-manage-azure-compute-resources/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-deploy-and-manage-azure-compute-resources/",
-      "length": "PT11H15M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
-          "title": "Create a Linux virtual machine in Azure",
-          "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-linux-vm-in-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
-          "length": "PT1H26M",
-          "ratings": {
-            "count": 10559,
-            "average": 4.700824
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 66,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-a-windows-vm-in-azure.md",
-          "title": "Create a Windows virtual machine in Azure",
-          "excerpt": "Learn to create an Azure virtual machine in minutes that can be used like a local physical desktop or server.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-a-windows-vm-in-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
-          "length": "PT51M",
-          "ratings": {
-            "count": 16002,
-            "average": 4.7230973
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 65,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
-              "width": 1000,
-              "height": 500,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-vms-with-azure-cli.md",
-          "title": "Manage virtual machines with the Azure CLI",
-          "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-vms-with-azure-cli/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
-          "length": "PT51M",
-          "ratings": {
-            "count": 7370,
-            "average": 4.718589
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 62,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines.md",
-          "title": "Add and size disks in Azure virtual machines",
-          "excerpt": "Learn about your virtual machine storage options and how to choose between standard and premium, managed and unmanaged disks for your Azure virtual machine.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 181,
-            "average": 4.79558
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 60,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 14,
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-deploy-and-manage-compute-resources-for-azure-administrators.md",
-      "title": "Deploy and manage compute resources for Azure administrators",
-      "excerpt": "Learn how to deploy and configure Azure compute resources and prepare for Exam AZ-104: Microsoft Azure Administrator.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-and-manage-compute-resources-for-azure-administrators/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-and-manage-compute-resources-for-azure-administrators/",
-      "length": "PT11H15M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
-          "title": "Create a Linux virtual machine in Azure",
-          "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-linux-vm-in-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
-          "length": "PT1H26M",
-          "ratings": {
-            "count": 10559,
-            "average": 4.700824
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 66,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-a-windows-vm-in-azure.md",
-          "title": "Create a Windows virtual machine in Azure",
-          "excerpt": "Learn to create an Azure virtual machine in minutes that can be used like a local physical desktop or server.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-a-windows-vm-in-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
-          "length": "PT51M",
-          "ratings": {
-            "count": 16002,
-            "average": 4.7230973
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 65,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
-              "width": 1000,
-              "height": 500,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-vms-with-azure-cli.md",
-          "title": "Manage virtual machines with the Azure CLI",
-          "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-vms-with-azure-cli/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
-          "length": "PT51M",
-          "ratings": {
-            "count": 7370,
-            "average": 4.718589
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 62,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines.md",
-          "title": "Add and size disks in Azure virtual machines",
-          "excerpt": "Learn about your virtual machine storage options and how to choose between standard and premium, managed and unmanaged disks for your Azure virtual machine.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 181,
-            "average": 4.79558
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 60,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 14,
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools",
-        "Containers"
       ]
     }
   ],

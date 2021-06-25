@@ -4,6 +4,48 @@
   "page": 39,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-improve-reliability-deployment.md",
+      "title": "Improve your reliability with modern operations practices: Deployment",
+      "excerpt": "Learn about deployment practices that can help you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-reliability-deployment/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-deployment/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 95,
+        "average": 4.726316
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-deployment-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-improve-reliability-failure.md",
       "title": "Improve your reliability with modern operations practices: Learning from failure",
       "excerpt": "Learn about post-incident reviews, a practice necessary to help you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
@@ -11,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-failure/",
       "length": "PT34M",
       "ratings": {
-        "count": 314,
-        "average": 4.691083
+        "count": 316,
+        "average": 4.693038
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-incidents/",
       "length": "PT33M",
       "ratings": {
-        "count": 291,
-        "average": 4.6769757
+        "count": 292,
+        "average": 4.678082
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +137,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-introduction/",
       "length": "PT10M",
       "ratings": {
-        "count": 116,
-        "average": 4.706897
+        "count": 117,
+        "average": 4.7094016
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -137,8 +179,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-monitoring/",
       "length": "PT43M",
       "ratings": {
-        "count": 96,
-        "average": 4.75
+        "count": 97,
+        "average": 4.7525773
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -179,8 +221,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-scaling/",
       "length": "PT32M",
       "ratings": {
-        "count": 96,
-        "average": 4.7395835
+        "count": 97,
+        "average": 4.742268
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1233,41 +1275,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-cache-for-redis.md",
-      "title": "Introduction to Azure Cache for Redis",
-      "excerpt": "Evaluate how Azure Cache for Redis can improve the performance and scalability of your apps. Describe how Redis provides a critical low-latency and high-throughput data storage solution to modern apps.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-cache-for-redis/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-cache-for-redis/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 5,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],

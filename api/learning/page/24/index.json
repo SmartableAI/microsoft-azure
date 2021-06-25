@@ -4,50 +4,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-azure-api-management.md",
-      "title": "Introduction to Azure API Management",
-      "excerpt": "Evaluate whether Azure API Management is appropriate for managing and exposing your organization's APIs",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-api-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-api-management/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 4,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-to-data-streaming.md",
       "title": "Work with data streams by using Azure Stream Analytics",
       "excerpt": "Explore how Azure Stream Analytics integrates with your applications or Internet of Things devices to gain insights with real-time streaming data.",
@@ -98,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-cultural-shift/",
       "length": "PT31M",
       "ratings": {
-        "count": 3137,
-        "average": 4.785464
+        "count": 3138,
+        "average": 4.7852135
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -184,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-innersource-program-github/",
       "length": "PT50M",
       "ratings": {
-        "count": 380,
-        "average": 4.786842
+        "count": 381,
+        "average": 4.7874017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -226,8 +182,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-language-understanding-intelligent-service-apps/",
       "length": "PT24M",
       "ratings": {
-        "count": 231,
-        "average": 4.796537
+        "count": 233,
+        "average": 4.7939916
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -349,8 +305,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/",
       "length": "PT48M",
       "ratings": {
-        "count": 272,
-        "average": 4.8161764
+        "count": 273,
+        "average": 4.8131866
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -552,6 +508,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-model-partition-data-azure-cosmos-db.md",
+      "title": "Model and partition your data in Azure Cosmos DB",
+      "excerpt": "Learn how to identify access patterns. Using those patterns then you can learn to apply modeling and partition strategies to ensure an efficient and scalable deployment of your Azure Cosmos DB instance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-model-partition-data-azure-cosmos-db/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-partition-data-azure-cosmos-db/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 4,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/model-partition-data-azure-cosmos-db-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-modify-data-with-transact-sql.md",
       "title": "Modify data with T-SQL",
       "excerpt": "Modify data with T-SQL",
@@ -602,8 +601,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-report-aad-security-events/",
       "length": "PT35M",
       "ratings": {
-        "count": 464,
-        "average": 4.661638
+        "count": 465,
+        "average": 4.6623654
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -854,8 +853,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/",
       "length": "PT22M",
       "ratings": {
-        "count": 471,
-        "average": 4.70276
+        "count": 472,
+        "average": 4.7033896
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1020,8 +1019,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
       "length": "PT56M",
       "ratings": {
-        "count": 1919,
-        "average": 4.507035
+        "count": 1920,
+        "average": 4.5052085
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1066,8 +1065,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/",
       "length": "PT45M",
       "ratings": {
-        "count": 1497,
-        "average": 4.6305947
+        "count": 1498,
+        "average": 4.6308413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1152,8 +1151,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
       "length": "PT1H22M",
       "ratings": {
-        "count": 3409,
-        "average": 4.7348194
+        "count": 3410,
+        "average": 4.734897
       },
       "provider": {
         "name": "Microsoft Learn",

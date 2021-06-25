@@ -4,6 +4,78 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
+      "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
+      "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-subscription-access-azure-rbac/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 12740,
+        "average": 4.764992
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 60,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
+      "title": "Secure your Azure virtual machine disks",
+      "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
+      "length": "PT1H1M",
+      "ratings": {
+        "count": 3637,
+        "average": 4.6953535
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 60,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Storage",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-survey-the-azure-data-platform.md",
       "title": "Survey the services on the Azure Data platform",
       "excerpt": "Explore the broad array of Azure technologies that analyze text or images and relational, nonrelational, or streaming data.",
@@ -11,8 +83,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
       "length": "PT58M",
       "ratings": {
-        "count": 6093,
-        "average": 4.703266
+        "count": 6095,
+        "average": 4.7033634
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -92,8 +164,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
       "length": "PT31M",
       "ratings": {
-        "count": 3528,
-        "average": 4.746315
+        "count": 3529,
+        "average": 4.746387
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -331,8 +403,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "PT28M",
       "ratings": {
-        "count": 6882,
-        "average": 4.7045918
+        "count": 6883,
+        "average": 4.704489
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -373,8 +445,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/",
       "length": "PT26M",
       "ratings": {
-        "count": 3011,
-        "average": 4.810362
+        "count": 3012,
+        "average": 4.810425
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -451,8 +523,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
       "length": "PT25M",
       "ratings": {
-        "count": 2701,
-        "average": 4.694187
+        "count": 2702,
+        "average": 4.6943007
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -942,8 +1014,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
       "length": "PT40M",
       "ratings": {
-        "count": 2125,
-        "average": 4.7035294
+        "count": 2127,
+        "average": 4.7038083
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1027,8 +1099,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 4571,
-        "average": 4.756727
+        "count": 4572,
+        "average": 4.7565618
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1150,8 +1222,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "PT50M",
       "ratings": {
-        "count": 3704,
-        "average": 4.691145
+        "count": 3705,
+        "average": 4.691228
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1297,91 +1369,6 @@
       "topics": [
         "Azure",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-describe-compliance-management-capabilities-microsoft.md",
-      "title": "Describe the compliance management capabilities in Microsoft",
-      "excerpt": "Describe the compliance management capabilities in Microsoft",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-compliance-management-capabilities-microsoft/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-compliance-management-capabilities-microsoft/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 512,
-        "average": 4.8085938
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-compliance-management-capabilities-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-detect-objects-images-custom-vision.md",
-      "title": "Detect objects in images with the Custom Vision service",
-      "excerpt": "Object detection is a form of computer vision in which artificial intelligence (AI) agents can identify and locate specific types of object in an image or camera feed.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-detect-objects-images-custom-vision/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 1502,
-        "average": 4.6644473
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/detect-objects-images-custom-vision-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     }
   ],

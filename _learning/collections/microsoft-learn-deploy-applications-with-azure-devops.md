@@ -20,7 +20,6 @@ levels:
 items:
   - courses/microsoft-learn-create-release-pipeline
   - courses/microsoft-learn-create-multi-stage-pipeline
-  - courses/microsoft-learn-manage-database-changes-in-azure-pipelines
   - courses/microsoft-learn-run-functional-tests-azure-pipelines
   - courses/microsoft-learn-run-non-functional-tests-azure-pipelines
   - courses/microsoft-learn-manage-release-cadence

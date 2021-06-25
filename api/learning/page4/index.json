@@ -4,6 +4,222 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-explore-roles-responsibilities-world-of-data.md",
+      "title": "Explore roles and responsibilities in the world of data",
+      "excerpt": "Explore roles and responsibilities in the world of data",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-roles-responsibilities-world-of-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
+      "length": "PT17M",
+      "ratings": {
+        "count": 4579,
+        "average": 4.831404
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-roles-responsibilities-world-of-data-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-administer-containers-in-azure.md",
+      "title": "Administer containers in Azure",
+      "excerpt": "With this learning path, you'll create and manage your Azure Container Instances, and see how they can be used to provide elastic scale for Kubernetes.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-administer-containers-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-administer-containers-in-azure/",
+      "length": "PT5H10M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-docker-containers.md",
+          "title": "Introduction to Docker containers",
+          "excerpt": "Introduction to Docker containers",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-docker-containers/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 5316,
+            "average": 4.6743793
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 66,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-containers.md",
+          "title": "Build a containerized web application with Docker",
+          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-containers/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
+          "length": "PT57M",
+          "ratings": {
+            "count": 3627,
+            "average": 4.62724
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-container-registry.md",
+          "title": "Build and store container images with Azure Container Registry",
+          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-container-registry/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 2862,
+            "average": 4.63522
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
+          "title": "Run Docker containers with Azure Container Instances",
+          "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 6919,
+            "average": 4.716722
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 58,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Containers",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 7,
+      "heat": 69,
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-migration-business-continuity-and-disaster-recovery-in-azure.md",
       "title": "Architect migration, business continuity, and disaster recovery in Azure",
       "excerpt": "Learn how to migrate resources to Azure, how to provide site recovery for your applications in Azure and on-premises, and how to your applications are available through service interruptions and changes in load.",
@@ -258,8 +474,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
           "length": "PT55M",
           "ratings": {
-            "count": 1391,
-            "average": 4.760604
+            "count": 1393,
+            "average": 4.7609477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -292,8 +508,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
           "length": "PT53M",
           "ratings": {
-            "count": 2944,
-            "average": 4.683424
+            "count": 2945,
+            "average": 4.6835313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -336,8 +552,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2754,
-            "average": 4.7069716
+            "count": 2755,
+            "average": 4.707078
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -379,8 +595,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
           "length": "PT35M",
           "ratings": {
-            "count": 617,
-            "average": 4.7228527
+            "count": 618,
+            "average": 4.723301
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -510,8 +726,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 7883,
-            "average": 4.803628
+            "count": 7886,
+            "average": 4.803576
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -552,8 +768,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
           "length": "PT40M",
           "ratings": {
-            "count": 2125,
-            "average": 4.7035294
+            "count": 2127,
+            "average": 4.7038083
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1496,8 +1712,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1919,
-            "average": 4.507035
+            "count": 1920,
+            "average": 4.5052085
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1542,8 +1758,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 4274,
-            "average": 4.6228356
+            "count": 4275,
+            "average": 4.622924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1579,8 +1795,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2476,
-            "average": 4.601777
+            "count": 2477,
+            "average": 4.601938
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1638,8 +1854,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 4222,
-        "average": 4.834202
+        "count": 4223,
+        "average": 4.834241
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1681,8 +1897,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 6102,
-        "average": 4.735824
+        "count": 6103,
+        "average": 4.7358675
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1714,200 +1930,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-azure-portal-how-to-series.md",
-      "title": "Azure Portal “How To” Series",
-      "excerpt": "Welcome to our weekly series that highlights specific aspects of the Azure portal so you can be more efficient and productive while deploying your cloud workloads from the portal.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-portal-how-to-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-portal-how-to-series/",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/microsoft-quick-command-tips-for-copying-pasting-and-more.md",
-          "title": "Quick command tips for copying, pasting, and more",
-          "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to quickly and easily copy the current view's title, print the current view, or go full screen increasing focus on the current view.   - Try out these features in the Azure portal: https://portal.azure.com  - Keep connected on Twitter: https://twitter.com/AzurePortal",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-quick-command-tips-for-copying-pasting-and-more/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-quick-command-tips-for-copying-pasting-and-more/",
-          "originalUrl": "https://youtube.com/watch?v=bSjGzCtFXZA",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bSjGzCtFXZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M22S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-06-17T09:07:35-07:00",
-          "heat": 92,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/bSjGzCtFXZA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management tools"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-build-a-graph-and-use-links-in-azure-workbooks.md",
-          "title": "How to build a graph and use links in Azure Workbooks",
-          "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to create a hive cluster in Microsoft Azure workbooks for high-density views and how to use links in workbooks to show other workbooks or to reference Azure portal blades.    - Try out these features in the Azure portal: https://portal.azure.com",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-build-a-graph-and-use-links-in-azure-workbooks/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-build-a-graph-and-use-links-in-azure-workbooks/",
-          "originalUrl": "https://youtube.com/watch?v=ODHczGpGmEQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ODHczGpGmEQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT11M20S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-06-10T09:09:17-07:00",
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/ODHczGpGmEQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management tools"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-get-started-with-azure-arc-enabled-kubernetes.md",
-          "title": "How to get started with Azure Arc enabled Kubernetes",
-          "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to get started with Azure Arc enabled Kubernetes.  Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter: https://twitter.com/AzurePortal   Make sure to keep an eye on our Azure Portal \"How to\" Series",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-azure-arc-enabled-kubernetes/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-azure-arc-enabled-kubernetes/",
-          "originalUrl": "https://youtube.com/watch?v=d4F83oblkWk",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d4F83oblkWk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT4M23S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-06-03T10:18:58-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/d4F83oblkWk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management tools",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series.md",
-          "title": "How to get started with Azure Arc | Azure Portal Series",
-          "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to get started with Azure Arc offerings in the Microsoft Azure portal. You will learn what Azure Arc is and how to easily add, view, and manage your hybrid, edge, or multi-cloud resources from Azure.     Try out these features in the Azure",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series/",
-          "originalUrl": "https://youtube.com/watch?v=pF0-KbgxUOQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pF0-KbgxUOQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT6M4S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-05-10T08:40:11-07:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/pF0-KbgxUOQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management tools"
-          ]
-        }
-      ],
-      "size": 56,
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bSjGzCtFXZA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Azure",
-        "Management tools"
       ]
     },
     {
@@ -1975,8 +1997,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6918,
-            "average": 4.716681
+            "count": 6919,
+            "average": 4.716722
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2120,8 +2142,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 4274,
-            "average": 4.6228356
+            "count": 4275,
+            "average": 4.622924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2192,8 +2214,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2476,
-            "average": 4.601777
+            "count": 2477,
+            "average": 4.601938
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2299,8 +2321,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
           "length": "PT20M",
           "ratings": {
-            "count": 362,
-            "average": 4.8922653
+            "count": 363,
+            "average": 4.892562
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2514,8 +2536,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 11783,
-            "average": 4.767377
+            "count": 11788,
+            "average": 4.7673907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2643,8 +2665,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
           "length": "PT44M",
           "ratings": {
-            "count": 1600,
-            "average": 4.609375
+            "count": 1601,
+            "average": 4.609619
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2775,8 +2797,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
           "length": "PT46M",
           "ratings": {
-            "count": 5112,
-            "average": 4.7691708
+            "count": 5113,
+            "average": 4.7692156
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2818,8 +2840,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
           "length": "PT24M",
           "ratings": {
-            "count": 4639,
-            "average": 4.785083
+            "count": 4640,
+            "average": 4.7851295
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3162,8 +3184,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 4571,
-            "average": 4.756727
+            "count": 4572,
+            "average": 4.7565618
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3206,8 +3228,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7921,
-            "average": 4.675167
+            "count": 7923,
+            "average": 4.674997
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3532,8 +3554,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 10559,
-        "average": 4.700824
+        "count": 10561,
+        "average": 4.7008805
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3605,8 +3627,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 5314,
-        "average": 4.6744447
+        "count": 5316,
+        "average": 4.6743793
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3875,8 +3897,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
           "length": "PT20M",
           "ratings": {
-            "count": 362,
-            "average": 4.8922653
+            "count": 363,
+            "average": 4.892562
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3981,8 +4003,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 16002,
-        "average": 4.7230973
+        "count": 16004,
+        "average": 4.7231317
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4024,8 +4046,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 3581,
-        "average": 4.831611
+        "count": 3585,
+        "average": 4.831799
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4056,49 +4078,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-describe-security-concepts-methodologies.md",
-      "title": "Describe security concepts and methodologies",
-      "excerpt": "Describe security concepts and methodologies",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-security-concepts-methodologies/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 1092,
-        "average": 4.8095236
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],

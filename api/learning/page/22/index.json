@@ -4,49 +4,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-build-reusable-bicep-templates-parameters.md",
-      "title": "Build reusable Bicep templates by using parameters",
-      "excerpt": "Control and apply parameters to a Bicep template while protecting sensitive inputs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-reusable-bicep-templates-parameters/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-reusable-bicep-templates-parameters/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 16,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/bicep/build-reusable-bicep-templates-parameters-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure.md",
       "title": "Build systems of insights for enterprise scale with Power BI and Azure",
       "excerpt": "Build systems of insights for enterprise scale with Power BI and Azure",
@@ -224,8 +181,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-elasticity/",
       "length": "PT46M",
       "ratings": {
-        "count": 32,
-        "average": 4.90625
+        "count": 33,
+        "average": 4.909091
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -525,8 +482,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-bot-with-bot-framework-composer/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 115,
-        "average": 4.7652173
+        "count": 116,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1109,8 +1066,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sql-server-virtual-machine/",
       "length": "PT60M",
       "ratings": {
-        "count": 2878,
-        "average": 4.7769284
+        "count": 2879,
+        "average": 4.7770057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1271,6 +1228,50 @@
       "topics": [
         "Azure",
         "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-bot-conversation-flow.md",
+      "title": "Design a bot conversation flow",
+      "excerpt": "Learn the principles of good bot design and implement conversational flows, knowledge bots, and how to hand-off interactions to a human.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-bot-conversation-flow/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-bot-conversation-flow/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 94,
+        "average": 4.808511
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Developer tools"
       ]
     }
   ],

@@ -4,6 +4,216 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-implement-network-security-in-azure.md",
+      "title": "Implement network security in Azure",
+      "excerpt": "Learn how to configure, protect, and isolate your networks in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-network-security-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-network-security-in-azure/",
+      "length": "PT5H27M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-secure-network-connectivity-azure.md",
+          "title": "Secure network connectivity on Azure",
+          "excerpt": "Learn about the Azure services you can use to help ensure that your network is safe, secure, and trusted.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-network-connectivity-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 8546,
+            "average": 4.7838755
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 84,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/secure-network-connectivity-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
+          "title": "Configure the network for your virtual machines",
+          "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
+          "length": "PT1H34M",
+          "ratings": {
+            "count": 8772,
+            "average": 4.6583447
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 59,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Networking"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
+          "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
+          "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 9149,
+            "average": 4.6703463
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 63,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
+          "title": "Encrypt network traffic end to end with Azure Application Gateway",
+          "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
+          "length": "PT1H17M",
+          "ratings": {
+            "count": 1332,
+            "average": 4.6486487
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/end-to-end-encryption-with-app-gateway-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 75,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-network-connectivity-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Networking",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-manage-identities-and-governance-for-azure-administrators.md",
       "title": "Manage identities and governance for Azure administrators",
       "excerpt": "Learn how to manage identities and governance in Azure.",
@@ -34,8 +244,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 5846,
-            "average": 4.745809
+            "count": 5848,
+            "average": 4.745896
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -77,8 +287,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 6102,
-            "average": 4.735824
+            "count": 6103,
+            "average": 4.7358675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +330,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
           "length": "PT31M",
           "ratings": {
-            "count": 3528,
-            "average": 4.746315
+            "count": 3529,
+            "average": 4.746387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -163,8 +373,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
           "length": "PT21M",
           "ratings": {
-            "count": 12738,
-            "average": 4.764955
+            "count": 12740,
+            "average": 4.764992
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -242,8 +452,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 11783,
-            "average": 4.767377
+            "count": 11788,
+            "average": 4.7673907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -285,8 +495,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7921,
-            "average": 4.675167
+            "count": 7923,
+            "average": 4.674997
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -451,8 +661,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 17100,
-            "average": 4.764152
+            "count": 17106,
+            "average": 4.7641764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -496,8 +706,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 7370,
-            "average": 4.718589
+            "count": 7371,
+            "average": 4.718627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -652,8 +862,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
           "length": "PT39M",
           "ratings": {
-            "count": 8229,
-            "average": 4.630818
+            "count": 8230,
+            "average": 4.6308627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -695,8 +905,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
           "length": "PT40M",
           "ratings": {
-            "count": 5862,
-            "average": 4.7183557
+            "count": 5863,
+            "average": 4.7184033
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -867,8 +1077,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
           "length": "PT28M",
           "ratings": {
-            "count": 2030,
-            "average": 4.678325
+            "count": 2031,
+            "average": 4.677991
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1081,8 +1291,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 5314,
-            "average": 4.6744447
+            "count": 5316,
+            "average": 4.6743793
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1279,8 +1489,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2754,
-            "average": 4.7069716
+            "count": 2755,
+            "average": 4.707078
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1322,8 +1532,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43062,
-            "average": 4.7191954
+            "count": 43064,
+            "average": 4.719139
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1625,8 +1835,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
           "length": "PT39M",
           "ratings": {
-            "count": 1570,
-            "average": 4.7528663
+            "count": 1571,
+            "average": 4.7517505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1815,8 +2025,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 7883,
-            "average": 4.803628
+            "count": 7886,
+            "average": 4.803576
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1899,8 +2109,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 4262,
-            "average": 4.714453
+            "count": 4265,
+            "average": 4.71442
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1985,8 +2195,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
           "length": "PT44M",
           "ratings": {
-            "count": 1600,
-            "average": 4.609375
+            "count": 1601,
+            "average": 4.609619
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2028,8 +2238,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3636,
-            "average": 4.6952696
+            "count": 3637,
+            "average": 4.6953535
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2483,8 +2693,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 6539,
-            "average": 4.7377276
+            "count": 6540,
+            "average": 4.7377677
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2917,8 +3127,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 6539,
-            "average": 4.7377276
+            "count": 6540,
+            "average": 4.7377677
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3051,8 +3261,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 5314,
-            "average": 4.6744447
+            "count": 5316,
+            "average": 4.6743793
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3155,8 +3365,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6918,
-            "average": 4.716681
+            "count": 6919,
+            "average": 4.716722
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3449,8 +3659,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
           "length": "PT55M",
           "ratings": {
-            "count": 1391,
-            "average": 4.760604
+            "count": 1393,
+            "average": 4.7609477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3483,8 +3693,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
           "length": "PT53M",
           "ratings": {
-            "count": 2944,
-            "average": 4.683424
+            "count": 2945,
+            "average": 4.6835313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3527,8 +3737,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2754,
-            "average": 4.7069716
+            "count": 2755,
+            "average": 4.707078
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3570,8 +3780,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
           "length": "PT35M",
           "ratings": {
-            "count": 617,
-            "average": 4.7228527
+            "count": 618,
+            "average": 4.723301
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3701,8 +3911,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 7883,
-            "average": 4.803628
+            "count": 7886,
+            "average": 4.803576
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3743,8 +3953,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
           "length": "PT40M",
           "ratings": {
-            "count": 2125,
-            "average": 4.7035294
+            "count": 2127,
+            "average": 4.7038083
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4645,8 +4855,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1919,
-            "average": 4.507035
+            "count": 1920,
+            "average": 4.5052085
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4691,8 +4901,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 4274,
-            "average": 4.6228356
+            "count": 4275,
+            "average": 4.622924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4728,8 +4938,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2476,
-            "average": 4.601777
+            "count": 2477,
+            "average": 4.601938
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4777,200 +4987,6 @@
         "Integration",
         "IoT",
         "Blockchain"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-azure-portal-how-to-series.md",
-      "title": "Azure Portal “How To” Series",
-      "excerpt": "Welcome to our weekly series that highlights specific aspects of the Azure portal so you can be more efficient and productive while deploying your cloud workloads from the portal.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-portal-how-to-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-portal-how-to-series/",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/microsoft-quick-command-tips-for-copying-pasting-and-more.md",
-          "title": "Quick command tips for copying, pasting, and more",
-          "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to quickly and easily copy the current view's title, print the current view, or go full screen increasing focus on the current view.   - Try out these features in the Azure portal: https://portal.azure.com  - Keep connected on Twitter: https://twitter.com/AzurePortal",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-quick-command-tips-for-copying-pasting-and-more/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-quick-command-tips-for-copying-pasting-and-more/",
-          "originalUrl": "https://youtube.com/watch?v=bSjGzCtFXZA",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bSjGzCtFXZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M22S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-06-17T09:07:35-07:00",
-          "heat": 92,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/bSjGzCtFXZA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management tools"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-build-a-graph-and-use-links-in-azure-workbooks.md",
-          "title": "How to build a graph and use links in Azure Workbooks",
-          "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to create a hive cluster in Microsoft Azure workbooks for high-density views and how to use links in workbooks to show other workbooks or to reference Azure portal blades.    - Try out these features in the Azure portal: https://portal.azure.com",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-build-a-graph-and-use-links-in-azure-workbooks/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-build-a-graph-and-use-links-in-azure-workbooks/",
-          "originalUrl": "https://youtube.com/watch?v=ODHczGpGmEQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ODHczGpGmEQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT11M20S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-06-10T09:09:17-07:00",
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/ODHczGpGmEQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management tools"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-get-started-with-azure-arc-enabled-kubernetes.md",
-          "title": "How to get started with Azure Arc enabled Kubernetes",
-          "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to get started with Azure Arc enabled Kubernetes.  Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter: https://twitter.com/AzurePortal   Make sure to keep an eye on our Azure Portal \"How to\" Series",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-azure-arc-enabled-kubernetes/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-azure-arc-enabled-kubernetes/",
-          "originalUrl": "https://youtube.com/watch?v=d4F83oblkWk",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d4F83oblkWk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT4M23S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-06-03T10:18:58-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/d4F83oblkWk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management tools",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series.md",
-          "title": "How to get started with Azure Arc | Azure Portal Series",
-          "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to get started with Azure Arc offerings in the Microsoft Azure portal. You will learn what Azure Arc is and how to easily add, view, and manage your hybrid, edge, or multi-cloud resources from Azure.     Try out these features in the Azure",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series/",
-          "originalUrl": "https://youtube.com/watch?v=pF0-KbgxUOQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pF0-KbgxUOQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT6M4S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-05-10T08:40:11-07:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/pF0-KbgxUOQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management tools"
-          ]
-        }
-      ],
-      "size": 56,
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bSjGzCtFXZA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Azure",
-        "Management tools"
       ]
     },
     {
@@ -5038,8 +5054,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6918,
-            "average": 4.716681
+            "count": 6919,
+            "average": 4.716722
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5183,8 +5199,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 4274,
-            "average": 4.6228356
+            "count": 4275,
+            "average": 4.622924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5255,8 +5271,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2476,
-            "average": 4.601777
+            "count": 2477,
+            "average": 4.601938
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5362,8 +5378,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
           "length": "PT20M",
           "ratings": {
-            "count": 362,
-            "average": 4.8922653
+            "count": 363,
+            "average": 4.892562
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5577,8 +5593,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 11783,
-            "average": 4.767377
+            "count": 11788,
+            "average": 4.7673907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5706,8 +5722,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
           "length": "PT44M",
           "ratings": {
-            "count": 1600,
-            "average": 4.609375
+            "count": 1601,
+            "average": 4.609619
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5838,8 +5854,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
           "length": "PT46M",
           "ratings": {
-            "count": 5112,
-            "average": 4.7691708
+            "count": 5113,
+            "average": 4.7692156
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5881,8 +5897,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
           "length": "PT24M",
           "ratings": {
-            "count": 4639,
-            "average": 4.785083
+            "count": 4640,
+            "average": 4.7851295
           },
           "provider": {
             "name": "Microsoft Learn",
