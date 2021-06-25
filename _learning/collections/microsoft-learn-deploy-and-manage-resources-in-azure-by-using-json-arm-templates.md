@@ -25,6 +25,7 @@ items:
   - courses/microsoft-learn-deploy-templates-command-line-github-actions
   - courses/microsoft-learn-extend-resource-manager-template-deployment-scripts
   - courses/microsoft-learn-manage-deployments-advanced-arm-template-features
+  - courses/microsoft-learn-arm-template-specs
 
 topics:
   - Azure
