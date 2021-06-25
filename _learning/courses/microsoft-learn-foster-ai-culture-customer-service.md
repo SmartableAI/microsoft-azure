@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT38M
 ratings:
-  count: 623
-  average: 4.7704654
+  count: 624
+  average: 4.7708335
 heat: 51
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Azure
   - AI
 
-secured: "f5iP4yucN6khMKcEDE57Ic5nFwvOPn+UX+9LXzIghu++FqMuEU0BQTbJpcxgy1S5h/kkimP4R+Qhtr6keBFIL1drGna4x27+/OpuukJP5/0AzHtBEMo8kLloZ653qdv+IsR09KOHAngVox6BcbVOgZEeRK54nH+RRfruGcLnULGc1Iz9ehfh5MMqkk9oIotxeMBMw61W8VSfcwkbohoxFLTSOvA/iQz3RbDYquF/A/kO2IDe+tY/SRwaTG8bQmBpDCrieoi0p4ZP0KGBDjZ4ITXFeaEdk4AAh6+8+C484ODfECKJKNDjDPotp+l5N0VvN7b0KzErSIShan10uCe7TBG+BIqKprFOf6JK7LM0EL9UkzTsX7Mx7QFsxvIkUR8VXqNdzF6Cw+VgrXfEN3K6MnyqXFS4HAKvuT9ZxMZlaoI=;O25c/gx2A8ga0rGecf7GqA=="
+secured: "8etUGN7QZBVTP5FK/MQktmvALqaBqGrdebvamHFR1bCRse6rvaNdZS0gvaSaVNBBarmB+B2x3yI5RImWSGIkQueAivpu2lfMeI+ij5HqhTmLsAwkIMjPxRA4xGHLqaGWSvSnTqcYxz1azTB1M1EeUZAkHjWYCR+USISs5JlqtUtZXe4gREeOEyUJvefTrarYgl5d1mfIH17KQW37HVUC1rK6d62gV+7VVf+DPV98Ppx5E8Vh1uL5h9c+n2zPMaO3NN0jzndY+2wfQyN7EysnfYeIIu3XNB19IfD2LjxjHxQEWKvaU0rRerdCyvpsE9vwo5znvwScg7d1pEj+Y7lWz/82v/lHCMorc9BvOuv3O4uKo0WlbiiyFg2v0kWAIJvDQiqEhmQPAqjNhERlnDToGDhHh9qGOSY7E0YjoG+Efg4=;/3xUz+jhlEWEFM79ir8mBA=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Migrate open-source databases to Azure"
 type: collection
 price: Free
 length: PT3H8M
-heat: 60
+heat: 62
 
 provider:
   name: Microsoft Learn
