@@ -88,8 +88,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-package-module-iot-edge/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 275,
-        "average": 4.549091
+        "count": 277,
+        "average": 4.5523467
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -122,45 +122,6 @@
         "Azure",
         "IoT",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-go-serverless-event-driven-applications-with-azure-functions-azure-friday.md",
-      "title": "Go serverless: Event-driven applications with Azure Functions | Azure Friday",
-      "excerpt": "Jeff Hollan joins Scott Hanselman to show how you can quickly develop and deploy code to run in the cloud with Azure Functions. Functions can be written in a variety of languages, and will automatically trigger and scale based on your application needs.  1:53 - Demo  Quickstart: Create your first function",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-go-serverless-event-driven-applications-with-azure-functions-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-go-serverless-event-driven-applications-with-azure-functions-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=UFxQhszT450",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UFxQhszT450\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M14S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-20T10:39:29-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UFxQhszT450/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless"
       ]
     },
     {
@@ -761,8 +722,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-organization/",
       "length": "PT34M",
       "ratings": {
-        "count": 277,
-        "average": 4.772563
+        "count": 278,
+        "average": 4.773381
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -803,8 +764,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/",
       "length": "PT24M",
       "ratings": {
-        "count": 1858,
-        "average": 4.777718
+        "count": 1859,
+        "average": 4.7778378
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -846,8 +807,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "PT58M",
       "ratings": {
-        "count": 6696,
-        "average": 4.64098
+        "count": 6697,
+        "average": 4.641033
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1131,8 +1092,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
       "length": "PT35M",
       "ratings": {
-        "count": 628,
-        "average": 4.719745
+        "count": 630,
+        "average": 4.7190475
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1216,8 +1177,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/",
       "length": "PT50M",
       "ratings": {
-        "count": 2409,
-        "average": 4.746783
+        "count": 2410,
+        "average": 4.746888
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1303,8 +1264,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/",
       "length": "PT34M",
       "ratings": {
-        "count": 1028,
-        "average": 4.793774
+        "count": 1029,
+        "average": 4.793975
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1336,6 +1297,41 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-azure-web-app-with-visual-studio.md",
+      "title": "Publish a web app to Azure with Visual Studio",
+      "excerpt": "Learn how to use Azure App Service to create a new ASP.NET-based web app, then publish and update directly from Visual Studio.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-azure-web-app-with-visual-studio/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 3560,
+        "average": 4.682865
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer tools"
       ]
     }
   ],

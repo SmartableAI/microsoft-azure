@@ -88,46 +88,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday.md",
-      "title": "How to use Prometheus to monitor containers in Azure Monitor | Azure Friday",
-      "excerpt": "Keiko Harada joins Scott Hanselman to show how to use Prometheus to monitor containers in Azure Monitor.  Prometheus is a popular open source metric monitoring solution and is a part of Cloud Native Compute Foundation.  Customers who like the extensive metrics which Prometheus provides on Kubernetes",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=5ARJ6DzqTYE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ARJ6DzqTYE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M30S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-11-14T15:31:28-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5ARJ6DzqTYE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-automate-your-deployments-with-azure-devops.md",
       "title": "Automate your deployments with Azure DevOps",
       "excerpt": "Learn how to combine automation techniques such as infrastructure as code with automated pipelines to provision and configure the infrastructure you need to run your applications and services.",
@@ -906,8 +866,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 416,
-        "average": 4.6802883
+        "count": 417,
+        "average": 4.681055
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -950,8 +910,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-docker/",
       "length": "PT46M",
       "ratings": {
-        "count": 377,
-        "average": 4.7161803
+        "count": 378,
+        "average": 4.7169313
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1038,8 +998,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-java-containers/",
       "length": "PT56M",
       "ratings": {
-        "count": 30,
-        "average": 4.4
+        "count": 31,
+        "average": 4.419355
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1081,8 +1041,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-kubernetes/",
       "length": "PT56M",
       "ratings": {
-        "count": 452,
-        "average": 4.6858406
+        "count": 453,
+        "average": 4.6865344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1125,8 +1085,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-nodejs/",
       "length": "PT44M",
       "ratings": {
-        "count": 51,
-        "average": 4.9215684
+        "count": 52,
+        "average": 4.923077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1168,8 +1128,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-python/",
       "length": "PT46M",
       "ratings": {
-        "count": 150,
-        "average": 4.78
+        "count": 151,
+        "average": 4.781457
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1415,8 +1375,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-release-cadence/",
       "length": "PT60M",
       "ratings": {
-        "count": 643,
-        "average": 4.7200623
+        "count": 644,
+        "average": 4.720497
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1615,6 +1575,48 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-recommend-system-feedback-mechanisms.md",
+      "title": "Recommend and design system feedback mechanisms",
+      "excerpt": "Learn how surveys and application analytics create a feedback loop that helps you understand the voice of the customer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recommend-system-feedback-mechanisms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recommend-system-feedback-mechanisms/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 392,
+        "average": 4.6734695
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
+          "width": 1000,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
         "DevOps"
       ]
     }

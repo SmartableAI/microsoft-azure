@@ -4,49 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-microservices-devops-aspnet-core.md",
-      "title": "Deploy a cloud-native ASP.NET Core microservice with GitHub Actions",
-      "excerpt": "Implement GitHub Actions to build a container image and deploy to Azure Kubernetes Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-devops-aspnet-core/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-devops-aspnet-core/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 180,
-        "average": 4.733333
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-devops-aspnet-core-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-monitor-the-usage-performance-and-availability-of-resources-with-azure-monitor.md",
       "title": "Monitor the usage, performance, and availability of resources with Azure Monitor",
       "excerpt": "Learn how to monitor the usage, performance, and availability of resources using Azure Monitor.",
@@ -113,8 +70,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2802,
-            "average": 4.637045
+            "count": 2803,
+            "average": 4.6371746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -260,6 +217,220 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory.md",
+      "title": "Protect identity and access with Azure Active Directory",
+      "excerpt": "The **Identity and Access learning path** covers the latest identity and access technologies, tools for strengthening authentication, and guidance on identity protection within your organization. Microsoft access and identity technologies enable you to secure your organization’s identity, whether it is on-premises or in the cloud, and empower your users to work securely from any location.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory/",
+      "length": "PT2H52M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-m365-identity-overview.md",
+          "title": "Define identity and access management in Azure Active Directory",
+          "excerpt": "Learn about identity and access management in Azure Active Directory and why identity is a core component of your organization’s security posture.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-overview/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
+          "length": "PT15M",
+          "ratings": {
+            "count": 377,
+            "average": 4.7533154
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 61,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-m365-identity-provisioning.md",
+          "title": "Simplify access and identity provisioning with Azure Active Directory",
+          "excerpt": "Learn about identity governance and how you can safeguard access to your organization’s data.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-provisioning/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 5126,
+            "average": 4.769606
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 59,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/simplify-access-and-identity-provisioning-with-microsoft-365-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-m365-identity-authentication.md",
+          "title": "Strengthen authentication (conditional access) with Azure Active Directory",
+          "excerpt": "Learn about modern authentication and the security benefits it provides to your organization, such as enabling multi-factor authentication and a passwordless environment.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-authentication/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 4650,
+            "average": 4.7851615
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 59,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/strengthen-authentication-with-microsoft-365-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-m365-identity-secure-administrators.md",
+          "title": "Secure administrator accounts in Azure Active Directory",
+          "excerpt": "Learn about securing administrator accounts through secure devices, dedicated administrator accounts, and just-in-time privileges.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-secure-administrators/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
+          "length": "PT21M",
+          "ratings": {
+            "count": 3337,
+            "average": 4.7803416
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-secure-administrator-access-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management.md",
       "title": "Analyze costs and create budgets with Azure Cost Management",
       "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month.",
@@ -267,8 +438,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
       "length": "PT40M",
       "ratings": {
-        "count": 2165,
-        "average": 4.704388
+        "count": 2168,
+        "average": 4.7043357
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -310,8 +481,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 6141,
-        "average": 4.736525
+        "count": 6142,
+        "average": 4.736568
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -592,8 +763,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 8269,
-            "average": 4.73189
+            "count": 8270,
+            "average": 4.7318015
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -786,8 +957,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 8269,
-            "average": 4.73189
+            "count": 8270,
+            "average": 4.7318015
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1090,8 +1261,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 142173,
-        "average": 4.7027564
+        "count": 142176,
+        "average": 4.7027626
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1125,8 +1296,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 4254,
-        "average": 4.834274
+        "count": 4256,
+        "average": 4.8343515
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1191,8 +1362,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
           "length": "PT38M",
           "ratings": {
-            "count": 2727,
-            "average": 4.7389073
+            "count": 2728,
+            "average": 4.7390027
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1406,8 +1577,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
           "length": "PT38M",
           "ratings": {
-            "count": 2727,
-            "average": 4.7389073
+            "count": 2728,
+            "average": 4.7390027
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1598,8 +1769,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/",
       "length": "PT58M",
       "ratings": {
-        "count": 246,
-        "average": 4.695122
+        "count": 249,
+        "average": 4.694779
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1641,8 +1812,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/",
       "length": "PT42M",
       "ratings": {
-        "count": 3462,
-        "average": 4.6675334
+        "count": 3465,
+        "average": 4.667821
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1699,8 +1870,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
           "length": "PT31M",
           "ratings": {
-            "count": 683,
-            "average": 4.7188873
+            "count": 685,
+            "average": 4.719708
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1742,8 +1913,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1964,
-            "average": 4.6843176
+            "count": 1966,
+            "average": 4.684639
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1785,8 +1956,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 1193,
-            "average": 4.6797986
+            "count": 1196,
+            "average": 4.6797657
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1828,8 +1999,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 621,
-            "average": 4.5249596
+            "count": 623,
+            "average": 4.526485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1990,8 +2161,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2483,
-            "average": 4.602094
+            "count": 2484,
+            "average": 4.601852
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2025,8 +2196,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2731,
-            "average": 4.4771147
+            "count": 2732,
+            "average": 4.47694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2074,8 +2245,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deployment-pipeline-github-actions/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 153,
-        "average": 4.5947714
+        "count": 155,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2117,8 +2288,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 1828,
-        "average": 4.728118
+        "count": 1831,
+        "average": 4.728564
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2160,8 +2331,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 245,
-        "average": 4.8204083
+        "count": 249,
+        "average": 4.811245
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2202,8 +2373,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "PT42M",
       "ratings": {
-        "count": 3147,
-        "average": 4.632666
+        "count": 3148,
+        "average": 4.632783
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2238,8 +2409,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 1707,
-        "average": 4.705331
+        "count": 1710,
+        "average": 4.7058477
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2281,8 +2452,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 16043,
-        "average": 4.7229323
+        "count": 16045,
+        "average": 4.7229667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2324,8 +2495,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 3330,
-        "average": 4.6747746
+        "count": 3331,
+        "average": 4.674572
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2367,8 +2538,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 3602,
-        "average": 4.832593
+        "count": 3603,
+        "average": 4.8326397
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2409,8 +2580,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/",
       "length": "PT26M",
       "ratings": {
-        "count": 3031,
-        "average": 4.8112836
+        "count": 3032,
+        "average": 4.8113456
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2602,8 +2773,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-incidents/",
           "length": "PT33M",
           "ratings": {
-            "count": 305,
-            "average": 4.685246
+            "count": 306,
+            "average": 4.6862745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2704,8 +2875,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
       "length": "PT31M",
       "ratings": {
-        "count": 3561,
-        "average": 4.7478237
+        "count": 3563,
+        "average": 4.7479653
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2747,8 +2918,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
       "length": "PT36M",
       "ratings": {
-        "count": 6561,
-        "average": 4.737845
+        "count": 6563,
+        "average": 4.7377725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2791,8 +2962,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
       "length": "PT1H11M",
       "ratings": {
-        "count": 7071,
-        "average": 4.735681
+        "count": 7074,
+        "average": 4.735793
       },
       "provider": {
         "name": "Microsoft Learn",
