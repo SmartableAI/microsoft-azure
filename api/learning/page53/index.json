@@ -4,198 +4,6 @@
   "page": 53,
   "value": [
     {
-      "path": "_learning/videos/microsoft-cloud-security-with-rob-polly.md",
-      "title": "Cloud security with Rob Polly",
-      "excerpt": "A ten-part miniseries recounting the Microsoft journey to the cloud—told by the pioneers who took us there. Microsoft cloud security expert Rob Polly outlines the challenges Microsoft faced during the transition to the cloud, and how the company addressed additional concerns related to privacy and geopolitical",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-cloud-security-with-rob-polly/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-cloud-security-with-rob-polly/",
-      "originalUrl": "https://youtube.com/watch?v=Ho9s2eFcZdY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ho9s2eFcZdY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M17S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-03-26T12:15:10-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ho9s2eFcZdY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-code-free-data-transformation-at-scale-using-azure-data-factory-azure-friday.md",
-      "title": "Code-free data transformation at scale using Azure Data Factory | Azure Friday",
-      "excerpt": "Learn about the new code-free visual data transformation capabilities in Azure Data Factory as Gaurav Malhotra joins Lara Rubbelke to demonstrate how you can visually design, build, and manage data transformation processes without learning Spark or having a deep understanding of the distributed infrastructure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-code-free-data-transformation-at-scale-using-azure-data-factory-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-code-free-data-transformation-at-scale-using-azure-data-factory-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=8gs-KExURa4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8gs-KExURa4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M43S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T16:59:54-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8gs-KExURa4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-code-to-cloud-with-docker-and-azure-container-instances-azure-friday.md",
-      "title": "Code to Cloud with Docker and Azure Container Instances | Azure Friday",
-      "excerpt": "Chad Metcalf from Docker joins Scott Hanselman to show how to use the Docker CLI to deploy a container to Azure Container Instances (ACI). Using only the Docker CLI, Chad deploys a Minecraft image to ACI and then shares the public IP address with Scott so he can join in the wacky, blocky world!  ACI",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-code-to-cloud-with-docker-and-azure-container-instances-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-code-to-cloud-with-docker-and-azure-container-instances-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=2D8FTi-Zvt0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2D8FTi-Zvt0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M43S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-18T08:37:34-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2D8FTi-Zvt0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-code-to-cloud-with-vs-code-and-docker-azure-friday.md",
-      "title": "Code to Cloud with VS Code and Docker | Azure Friday",
-      "excerpt": "After a quick demo of working with Docker images in Visual Studio, Paul Yuknewicz shows Scott Hanselman how the Docker for Visual Studio Code extension makes it easy for you to build, debug, and diagnose containerized apps. Paul will also show how the extension helps you deploy a container to Azure Container",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-code-to-cloud-with-vs-code-and-docker-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-code-to-cloud-with-vs-code-and-docker-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=zx-rXxvbdyM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zx-rXxvbdyM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M36S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-12-01T15:32:46-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zx-rXxvbdyM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-common-design-patterns-with-azure-cosmos-db-azure-friday.md",
-      "title": "Common design patterns with Azure Cosmos DB | Azure Friday",
-      "excerpt": "Aravind Krishna stops by to chat with Scott Hanselman and take a look at common design patterns for building highly scalable solutions with Azure Cosmos DB. We will talk a little bit about modeling data and how to choose an appropriate partition key. We then look at a few patterns like event sourcing,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-common-design-patterns-with-azure-cosmos-db-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-common-design-patterns-with-azure-cosmos-db-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=5YNJpGwj_Zs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5YNJpGwj_Zs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M48S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-12T16:53:12-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5YNJpGwj_Zs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-connect-and-extend-your-mainframe-to-the-cloud-with-logic-apps-azure-friday.md",
       "title": "Connect and extend your mainframe to the cloud with Logic Apps | Azure Friday",
       "excerpt": "Mainframes are heavy and moving their workloads to the cloud takes time. Using the Logic Apps connector for IBM 3270 'green screens' you can now easily record mainframe applications and drive them from Logic Apps. This capability, sometimes termed, RPA (robotic process automation), enables you to extend",
@@ -578,6 +386,45 @@
       "topics": [
         "Azure",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday.md",
+      "title": "Durable functions in Python for Azure Functions | Azure Friday",
+      "excerpt": "David Justo joins Scott Hanselman to discuss durable functions in Python, which is an extension of Azure Functions for writing stateful functions in a serverless compute environment. The extension is already available for C# and JavaScript and is now available for Python.  0:00 – Introduction 1:38 –",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=HZgjmb9Y_IM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HZgjmb9Y_IM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M19S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-12T01:36:57-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HZgjmb9Y_IM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless"
       ]
     },
     {
@@ -1160,6 +1007,163 @@
         "Azure",
         "Serverless",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-go-serverless-enterprise-integration-with-azure-logic-apps-azure-friday.md",
+      "title": "Go serverless: Enterprise integration with Azure Logic Apps | Azure Friday",
+      "excerpt": "Jeremy Likness joins Scott Hanselman to show how to build workflows and integrations from the cloud across third-party services and on-premises servers using Azure Logic Apps.  1:10 - Demo  Overview - What is Azure Logic Apps? https://aka.ms/azfr/621/01  Azure Logic Apps https://aka.ms/azfr/621/02  DEV50:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-go-serverless-enterprise-integration-with-azure-logic-apps-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-go-serverless-enterprise-integration-with-azure-logic-apps-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=2qwGl-f8gd4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2qwGl-f8gd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M59S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-27T09:39:11-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2qwGl-f8gd4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-go-serverless-serverless-operations-with-azure-devops-azure-friday.md",
+      "title": "Go serverless: Serverless operations with Azure DevOps | Azure Friday",
+      "excerpt": "Abel Wang joins Donovan Brown to show how to use Azure Pipelines to build and deploy apps for Azure Functions, App Service and even Kubernetes Clusters.  0:45 - Demo  Build and deploy Java to Azure Functions https://aka.ms/azfr/624/01  Deploy a Docker container app to Azure Kubernetes Service https://aka.ms/azfr/624/02",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-go-serverless-serverless-operations-with-azure-devops-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-go-serverless-serverless-operations-with-azure-devops-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=JhXNjxe3sPY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JhXNjxe3sPY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M7S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-30T18:26:20-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JhXNjxe3sPY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-hashicorp-vault-on-azure-azure-friday.md",
+      "title": "HashiCorp Vault on Azure | Azure Friday",
+      "excerpt": "Working with Microsoft, HashiCorp launched Vault with a number of features to make secret management easier to automate in Azure cloud. Yoko Hyakuna from HashiCorp joins Donovan Brown to show how Azure Key Vault can auto-unseal the HashiCorp Vault server, and then how HashiCorp Vault can dynamically",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-hashicorp-vault-on-azure-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-hashicorp-vault-on-azure-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=RLWaWuHjUR4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RLWaWuHjUR4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M28S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-27T17:00:38-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RLWaWuHjUR4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-hdinsight-fast-interactive-queries-with-hive-on-llap-azure-friday.md",
+      "title": "HDInsight: Fast Interactive Queries with Hive on LLAP | Azure Friday",
+      "excerpt": "Murali Krishnaprasad joins Lara Rubbelke to discuss Interactive Query (also called Hive LLAP, or Low Latency Analytical Processing, or Live Long and Process), which is an Azure HDInsight cluster type. Interactive Query supports in-memory caching, which makes Hive queries super-fast and interactive. See",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-hdinsight-fast-interactive-queries-with-hive-on-llap-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-hdinsight-fast-interactive-queries-with-hive-on-llap-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=RbBuaiJ8qLM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RbBuaiJ8qLM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M18S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-14T14:01:57-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RbBuaiJ8qLM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     }
   ],
