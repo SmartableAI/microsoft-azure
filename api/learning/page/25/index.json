@@ -4,49 +4,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-extract-insights-from-videos-with-video-indexer-service.md",
-      "title": "Extract insights from videos with the Video Indexer service",
-      "excerpt": "Learn how to use the Video Indexer API to upload, index, retrieve insights, and search for content in video files.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-extract-insights-from-videos-with-video-indexer-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-insights-from-videos-with-video-indexer-service/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 65,
-        "average": 4.8461537
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-foster-ai-culture-customer-service.md",
       "title": "Discover how to foster an AI-ready culture in customer service",
       "excerpt": "Learn the necessary cultural changes for enterprise customer service to make AI transformation successful, and how they fit into a holistic AI strategy.",
@@ -585,8 +542,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-devops/",
       "length": "PT28M",
       "ratings": {
-        "count": 197,
-        "average": 4.6852794
+        "count": 198,
+        "average": 4.6868687
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -673,8 +630,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ingest-data-with-apache-spark-notebooks-azure-synapse-analytics/",
       "length": "PT42M",
       "ratings": {
-        "count": 55,
-        "average": 4.7636366
+        "count": 56,
+        "average": 4.767857
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1215,8 +1172,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-manage-data-engineering-workloads-apache-spark-azure-synapse-analytics/",
       "length": "PT21M",
       "ratings": {
-        "count": 22,
-        "average": 4.7727275
+        "count": 23,
+        "average": 4.7826085
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1237,6 +1194,49 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-operationalize-your-azure-data-factory-pipelines.md",
+      "title": "Operationalize your Azure Data Factory or Azure Synapse Pipeline",
+      "excerpt": "Operationalize your Azure Data Factory or Azure Synapse Pipeline",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-operationalize-your-azure-data-factory-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/operationalize-azure-data-factory-pipelines/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 138,
+        "average": 4.463768
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/operationalize-your-azure-data-factory-pipelines-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
