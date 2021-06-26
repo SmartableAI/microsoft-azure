@@ -4,7 +4,7 @@ excerpt: "Develop an effective instrumentation strategy through logging, telemet
 type: collection
 price: Free
 length: PT9H41M
-heat: 78
+heat: 92
 
 provider:
   name: Microsoft Learn

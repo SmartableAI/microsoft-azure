@@ -4,7 +4,7 @@ excerpt: "Build strategies around security and compliance and prepare for Exam A
 type: collection
 price: Free
 length: PT8H31M
-heat: 78
+heat: 76
 
 provider:
   name: Microsoft Learn

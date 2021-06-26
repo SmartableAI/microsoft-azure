@@ -8,7 +8,7 @@ length: PT29M
 ratings:
   count: 1547
   average: 4.595346
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "3QVJyPBpf7uVjqBa7VRnOCdE3TTu7Y6ga0dlzOqzXMcZGP22BP33VagDiSsrSkx3VnQY1wUmIy202G7kNmwRaScfOOYAzMMHzJzaw8xKPVEQCdRgYRJh/reyPL6N2QV3maGGh8uBrkqouwRcl/gEIRsL/QQQhk1lXfJhqpD3ty/KuJALyfJr7mohjnBySXhxdx4K60O1203XhVN195cUoQokzcl4JOSk7Zb/H1hCRGA3EmjFOgbEhmNNd2Y8eyQKhi7KUilG7LMqtlLYkUpuhXaae2er3jMp9Or7yNNTATyBfgOkehBOlHmy9wfnfUHanWDrnN2NBbM94dln/GkDWgg93+lgOApMbnoQ4pTVGLaCW9F0beICupgtCop5q9JBqMUiT1gMIFrNpIF8FWZd+7EpqR+ArZ9k1C4y4Ky9EFQ=;FAe/td2uoezi4TiB6YPGsw=="
+secured: "1DwKy4GYB/XNDAnJPre48e3//x9lyNeXaWJBtYOmvr9YajIj0mGnr/pts/+j/0wfyENlobbXky2QIhs9g+j/0DXAgp80FArk2lNLACVeQcCWec8/NGwGhy5Y5GUbTEY0FvkV24W16KVQ4MipZD1mRS0xA+Gmu/hZipJY3iJxTKS90Heb6T0/dYjS9krbNveDmwtD9LwZU8hEj4kvHXs6HiiNe9udPO1UwVFZ/wYQu64P5d6aJxRJPEqkgDGevcdrTY+09az7QRIF8MeEkBC1PxqBqCZ3xxrJSQ+9WAfL8/K7+qpfgB9hw5typQufvmuTI+ici7UZjgCVtzYy8h2jYs7aXSKnX7T1xkmtkfnt4069Eb4D80RuLM3Y/EwFj+V/vZYf3Rn95hDiqhkpUU0LX0pBF6Spmot5mB+i28DKmdA=;05QmrBeotRHCP8bgQtjwTA=="
 ---
 

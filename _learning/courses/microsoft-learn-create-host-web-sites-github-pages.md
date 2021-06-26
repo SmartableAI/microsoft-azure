@@ -8,7 +8,7 @@ length: PT1H12M
 ratings:
   count: 414
   average: 4.8236713
-heat: 99
+heat: 91
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "KJ71p9Vvn5W4T6+6wWeVcjgwFBDHQK/8r+Og+56CbMBfCScjXd9ldlZ4d0U2khLlEcaLN56I6EagAw+Eg/7xV9IdA6Sx5PivCx+g3IIq++c1wb3dXDEnM+FtfPdhH1fOt1Af+kuwFLBgzQRdyfY0LzyIl1LcYVsleqZBdcpwAZAyhYZanlICuOUEpbPK4GxDgq5eDvlHrRoWXhL8hZds+SD+A8SRKH67AfCKlMNEofJtEL5vWZ7h+H5GFX2FrSum0msO5viiuFy9GU3fUjJzgWmITAaYc6S7PgJCciZ//nF8YHIeN/HatV3h4YkUphfw2Ytto7v3W+0ncxOZvoBq58EVwQHyHk7E9Z7w9IW5Kz95hzMe98bFHDxpK8yIdpR0xi+Tu0CXfWfzR+3u3sAkD/RFyTIqLfo6qojbM9UM/YA=;LsX26lZp4wTRl7vEVCVBJg=="
+secured: "Nf1FV9lsWG56vce2jNtx64ME9eowRfURdnM9qhjeQoiLCwYduKCs1e7WWY+AcQ/WMNF7CTu+h2G0vcWbjhXUQHDOTZTns58ayukolCc00vOTPVaoFx3/BwyvBp+u1+snkyyDfmklQEVpc1RihifndwZsAKGeeo0iScJcyKE1/cxJ4kYdCooUdAV72yVfPNqMyTePypIhxPEq5UWZjhNSFqP128ETvu+rQiMp5aqdcVDdwhqELB3tIJdT1O7kzMMfgarjdr6ExqHklOGhYfAfPwWczK2DoX6HIjzKAf6tfgewtGy4Nvu0yvKV1jO4t2QiKTKwIlEaC2mcjqFNe/VFkXkb9s+vNBYbWWS6zK6MXK0f7beBm9s3bCuiY0lmUAGfad4V9zm/ibw7MZ1Ry/B5K7yZZs9mV2DVLkRkLEj+nUQ=;wCKlvOuj9xXlRuwRzh2g8w=="
 ---
 

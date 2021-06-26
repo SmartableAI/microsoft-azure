@@ -4,7 +4,7 @@ excerpt: "Learn AI solutions to implement based upon organization maturity and a
 type: collection
 price: Free
 length: PT3H22M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
