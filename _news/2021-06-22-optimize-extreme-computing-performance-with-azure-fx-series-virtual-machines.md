@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/optimize-extreme-computing-perfor
 webUrl: "https://azure.microsoft.com/blog/optimize-extreme-computing-performance-with-azure-fxseries-virtual-machines/"
 type: article
 quality: 101
-heat: 142
+heat: 141
 published: true
 
 provider:
