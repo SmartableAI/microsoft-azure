@@ -4,7 +4,7 @@ excerpt: "This *Space Jam: A New Legacy* - inspired learning path aims to equip 
 type: collection
 price: Free
 length: PT3H21M
-heat: 103
+heat: 94
 
 provider:
   name: Microsoft Learn
@@ -19,7 +19,6 @@ levels:
 
 items:
   - courses/microsoft-learn-optimize-basketball-player-rest-breaks
-  - courses/microsoft-learn-python-flask-build-ai-web-app
 
 topics:
   - Azure
