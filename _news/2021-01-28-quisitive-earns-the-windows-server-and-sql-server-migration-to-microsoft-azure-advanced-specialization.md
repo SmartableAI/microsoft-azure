@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/quisitive-earns-the-win
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quisitive-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1030015174"
 type: article
 quality: 78
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
       name: Business Wire
       domain: businesswireindia.com
     quality: 16
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
+    publishedDateTime: 2021-06-24T18:38:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1193724&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
 
 secured: "Y8Hvd3c4vsyMO6l4baahuf1YVYOWOjMNfS956Ui6xxc5hyosBRBdyXjIFljwMTaNSbtMfyS5MOBvW2DFiKYPN9h2HEDG9pyFgRC3gTHtpPCgt3tWW02IauwrrGHrkS6pZPv0DuXEygAtJ9/3KMRs//JybM3dMqLowydpIPD2fw6duA5vYZbBEf57+e5aXKelMTFlvCRUC9dH2zv3GySlEgiMlcafCCkvl94BoXnb8p9CEk+M1WHJcugblprcxxNlsUfbtCxvrIn2MBb6qWrCN/90UB447ZgjK5X6BgACeMLS6ssjoWyqZ6FwZkfRlh4IhvRwHOypAwDTUSG2wGNabRVr8bWCTDU5VawfeMqASbk=;QeOJ3TH01HYqRXq+2kd02Q=="
 ---

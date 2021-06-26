@@ -1,22 +1,21 @@
 ---
 category: news
-title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
-publishedDateTime: 2021-01-29T14:36:00Z
-originalUrl: "https://www.businesswireindia.com/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-71303.html"
-webUrl: "https://www.businesswireindia.com/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-71303.html"
+title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
+publishedDateTime: 2021-06-24T18:38:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1193724&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1193724&cat=PR News Wire"
 type: article
-quality: 16
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Azure
-  - Migration
 
 related:
   - title: "Quisitive Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
@@ -60,16 +59,16 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
-    publishedDateTime: 2021-06-24T18:38:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1193724&cat=PR News Wire"
+  - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
+    publishedDateTime: 2021-01-29T14:36:00Z
+    webUrl: "https://www.businesswireindia.com/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-71303.html"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 2
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 16
 
-secured: "GPFn/f/roNGlM19xwTAyBWr9H3UlqLBYJSKEXVQuHf6LW/w9KWVmNPJkzosSHPXf78i9r/U8lBj2mWHHPQzQIbtlvve9R6pSTgWMkhX4XqnDPl5esxcHBjGVj6ruqkt+fM778pBviiHCEvd7B1EVnABIHFkTn8em2GbYIefNOt4kmHkfmuns3f69+Lz8DPz8eTB8CTCaxKr+tIp1r4CcFZTH1TF4YD84WhdcSkLfQB/4ZC9/IRuvEOvbJJQ0CBeQ4ehpZAGJ8zYlOR8WKihPTGUsrhcWSVBPMDnG3bLrvJrmirvfZct9z4QppiqIJ2L3zpq/v5Uf0RJ8YBoohemyBP5eJzHtqkdCH/5KghjREUc=;wVq2YX9mbSZHmIRKEpCnrA=="
+secured: "0Qj8IGuRncv9iucY2f8cqD855GvVLCRSOPXzC9HBl74OC+95efJoyfR4CLhvzvKXZwRp4jtyOLbJKPFf5IDlszbjrs3ZDZKIeTNfw/4jgeei9O6PoKiMRN5X4EqlJOrCbOiFiSm94OnjvHAYIufE1f0eJwwlfhYSzLhzjD8X9M0L/xrjBBgmtkmCKZqcFuSylZrxR0Mnay5I+5roIfRA6yiXGV1YcfkffFOlji0D4vZxDnZ+WjVe+Wki8veTOYHY7VmPylsWOuiHQYP3Uo5cYlLlW9qUGkpHGufyzR8G9rftmjirny2wMroqQ2mMzV8YX226xteoihUNMiOPXAe7TX4Wae9laIuW6wW4PQUIBuc=;+gAId8GdaZPhbrl0qV2QjA=="
 ---
 

@@ -63,6 +63,15 @@ related:
       name: Business Wire
       domain: businesswireindia.com
     quality: 16
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
+    publishedDateTime: 2021-06-24T18:38:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1193724&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
 
 secured: "DF42b/0XX5FiKQyWdSxdp3rJL+lpSBaFel8hCj04WfPfuVsWwPhgisJqIQm3gfGEaJpDYMujnvNeMtBD38GwjNUG10GLDcKXUyDZiSaqmNOa/27+UHdKuYxOIV9H4hHu7Hjmd9YcWPoFjQIVtCb6nX5ZJLssTPMlYT7Ec4O72+UuCiPHM9ksosSIBjxySqumt/D9DeqCLrf7HyQF4sszyOTLIqRgudzWsQ3j/ExMHddHZFtk9VbMR/iCdCwpsBXKRKvDG1EY/oB4jtcnjuuUK5aiLm0gu4CQRmpSJFe6RqdopRk+i8DWUKrueAb+X4SiikIHHbyTN86kS2gc1dULZw==;72Co4ydV8wRJCXpiLqGm6A=="
 ---

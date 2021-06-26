@@ -100,6 +100,22 @@ related:
         width: 1920
         height: 1152
         isCached: true
+  - title: "Extreme Networks taps up Microsoft Azure to provide UK customers with locally hosted cloud service"
+    excerpt: "Extreme Networks is making a locally hosted version of its ExtremeCloud IQ cloud management platform available to its UK customer base with the help of Microsoft Azure’s London-based datacentre ..."
+    publishedDateTime: 2021-06-24T12:50:00Z
+    webUrl: "https://www.computerweekly.com/news/252502978/Extreme-Networks-taps-up-Microsoft-Azure-to-provide-UK-customers-with-locally-hosted-cloud-service"
+    ampWebUrl: "https://www.computerweekly.com/news/252502978/Extreme-Networks-taps-up-Microsoft-Azure-to-provide-UK-customers-with-locally-hosted-cloud-service?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252502978/Extreme-Networks-taps-up-Microsoft-Azure-to-provide-UK-customers-with-locally-hosted-cloud-service?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 43
+    images:
+      - url: "https://www.computerweekly.com/visuals/German/article/cloud-storage-costs-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "Microsoft Launches Azure Private MEC with AT&T in Tow, Not Vice Versa"
     excerpt: "If Multi-access Edge Computing becomes an option for your data center services, would you be contracting with the cloud provider or the telco provider?"
     publishedDateTime: 2021-06-21T20:13:00Z

@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
-excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
-publishedDateTime: 2021-06-23T13:00:00Z
-originalUrl: "https://spacenews.com/microsoft-keane-interview/"
-webUrl: "https://spacenews.com/microsoft-keane-interview/"
+title: "Extreme Networks taps up Microsoft Azure to provide UK customers with locally hosted cloud service"
+excerpt: "Extreme Networks is making a locally hosted version of its ExtremeCloud IQ cloud management platform available to its UK customer base with the help of Microsoft Azure’s London-based datacentre ..."
+publishedDateTime: 2021-06-24T12:50:00Z
+originalUrl: "https://www.computerweekly.com/news/252502978/Extreme-Networks-taps-up-Microsoft-Azure-to-provide-UK-customers-with-locally-hosted-cloud-service"
+webUrl: "https://www.computerweekly.com/news/252502978/Extreme-Networks-taps-up-Microsoft-Azure-to-provide-UK-customers-with-locally-hosted-cloud-service"
+ampWebUrl: "https://www.computerweekly.com/news/252502978/Extreme-Networks-taps-up-Microsoft-Azure-to-provide-UK-customers-with-locally-hosted-cloud-service?amp=1"
+cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252502978/Extreme-Networks-taps-up-Microsoft-Azure-to-provide-UK-customers-with-locally-hosted-cloud-service?amp=1"
 type: article
-quality: 36
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: SpaceNews
-  domain: spacenews.com
+  name: Computer Weekly
+  domain: computerweekly.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://spacenews.com/wp-content/uploads/2021/06/azure-qa.jpg"
-    width: 1000
-    height: 508
+  - url: "https://www.computerweekly.com/visuals/German/article/cloud-storage-costs-adobe.jpg"
+    width: 1200
+    height: 400
     isCached: true
 
 related:
@@ -100,22 +102,6 @@ related:
         width: 1920
         height: 1152
         isCached: true
-  - title: "Extreme Networks taps up Microsoft Azure to provide UK customers with locally hosted cloud service"
-    excerpt: "Extreme Networks is making a locally hosted version of its ExtremeCloud IQ cloud management platform available to its UK customer base with the help of Microsoft Azure’s London-based datacentre ..."
-    publishedDateTime: 2021-06-24T12:50:00Z
-    webUrl: "https://www.computerweekly.com/news/252502978/Extreme-Networks-taps-up-Microsoft-Azure-to-provide-UK-customers-with-locally-hosted-cloud-service"
-    ampWebUrl: "https://www.computerweekly.com/news/252502978/Extreme-Networks-taps-up-Microsoft-Azure-to-provide-UK-customers-with-locally-hosted-cloud-service?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252502978/Extreme-Networks-taps-up-Microsoft-Azure-to-provide-UK-customers-with-locally-hosted-cloud-service?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 43
-    images:
-      - url: "https://www.computerweekly.com/visuals/German/article/cloud-storage-costs-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Azure Stack HCI and SQL Server set sail on HPE’s GreenLake"
     excerpt: "HPE has added on-premises Azure Stack HCI and Microsoft SQL Server availability to its GreenLake offer, complementing existing SimpliVity and Nimble dHCI hyperconverged systems support in GreenLake, and Nutanix as well."
     publishedDateTime: 2021-06-21T12:00:00Z
@@ -171,6 +157,20 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/36ebcc738294e9b879f823f52915d1c6.jpg?t=20210625_004943"
         width: 752
         height: 408
+        isCached: true
+  - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
+    excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
+    publishedDateTime: 2021-06-23T13:00:00Z
+    webUrl: "https://spacenews.com/microsoft-keane-interview/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 36
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2021/06/azure-qa.jpg"
+        width: 1000
+        height: 508
         isCached: true
   - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
     excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
@@ -262,6 +262,6 @@ related:
       domain: telecompaper.com
     quality: 23
 
-secured: "FYCeryEmvhbwQV0DzX2SUUfQ1ZAWxYfAmQBZYBL3B9D0Lxv4OL6DNSTQtZ1YIRlpuEPPjBNDtyeAI6NKA8rjZhVH6+TrCTyhGhFAlXWXHaVaq399oKY7cwrxBPY2MMPsl+qmkj0R7SLsTLg/I6KOaVQDkdP5+JPiRcsaOoUDUKaFU3uSWA8yAbUMlJr/3OgWSmH4xi9C9BUX9HnrNEmCI4IqWXTuDWRoDG1TArOWcwdPlF9bxWmsY9o6aaIDz4SJ8YU4lT0xl80/iV03nVVT2ElpDo4VmuUfW85+uM0brHpLbCuen7cwnIBP5+7g7MfhZHuyYCvA7pKG9ciWyBTfaw92ZoNb4MY5ZNbywftEDLr0siauz9MqF2FeJbGoNWPojysWM3OlEAgluelQ/Hd8yQMCpaHATXUbEle96yHtZVRBCX85nVul6Cw22cD2QANIITENGnzqGUF+woohSHRN4KHu3SCUom9y/YfNlNyn6MLqPM+dx11+Zd57LNUC6WQb4F1UR2e5mG7x68MKTRcElg==;4+5LbYOt5r89qi+cN8jxbg=="
+secured: "a2yGh8nVSt2QYhwfAOUyhg9dwyG8XX2cVaHOM4Z7nAQ5QAx8Q2de7Rlc8bqvKLVNRxJ4KMCdJwujjWX40wbepmrPfzQcHGy+fOW2IzlAtfip7NiaP7MWf+4waMHlKQ/PpLdWnlUr9Du/kKe3hg6GzMm2VN53DDWiRg2AYLKeHfX6cZRtSQTiVs6EqFLJhika6aQq5bh8wUO0/2YOE47RrttiQFa8U09kshpCpE/28j//7hynJsoNjwARmNvrBqu8+WBZNU/ynQX2N1NRvZ6916oBCRas9xhCmRyFAn+zKxcZslITqO6+miYP1OiZE8faoZUfwDXNfMkLGWYRah7X5T0r4h0g3JKwAH8dlzSNls4=;6umi1tuZimstQLcu9akLLA=="
 ---
 
