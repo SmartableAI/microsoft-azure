@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster/amp/"
 type: article
 quality: 114
-heat: 1195
+heat: 1194
 published: true
 
 provider:
