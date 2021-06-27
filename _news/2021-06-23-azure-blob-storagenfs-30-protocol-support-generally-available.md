@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-nfs-3
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-nfs-30-protocol-support-generally-available/"
 type: article
 quality: 99
-heat: 141
+heat: 142
 published: true
 
 provider:
