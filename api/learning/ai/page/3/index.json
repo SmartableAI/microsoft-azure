@@ -973,8 +973,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-cognitive-services/",
           "length": "PT44M",
           "ratings": {
-            "count": 60,
-            "average": 4.6666665
+            "count": 61,
+            "average": 4.672131
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1017,8 +1017,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/investigate-container-for-use-cognitive-services/",
           "length": "PT46M",
           "ratings": {
-            "count": 32,
-            "average": 4.65625
+            "count": 33,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1061,8 +1061,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-cognitive-services/",
           "length": "PT37M",
           "ratings": {
-            "count": 45,
-            "average": 4.7555556
+            "count": 46,
+            "average": 4.7608695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1292,6 +1292,54 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-configure-3d-assets-mixed-reality-unity.md",
+      "title": "Configure 3D assets for mixed reality in Unity",
+      "excerpt": "Get step-by-step instructions on how to place Prefab 3D assets and models into a Unity scene. Learn about Unity Scriptable Objects and mixed reality design considerations before deploying to a HoloLens 2.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-3d-assets-mixed-reality-unity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-3d-assets-mixed-reality-unity/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 15,
+        "average": 4.9333334
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/configure-3d-assets-mixed-reality-unity-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "IoT",
+        "Integration",
+        "Analytics",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-azure-cognitive-search-solution.md",
       "title": "Create an Azure Cognitive Search solution",
       "excerpt": "Unlock the hidden insights in your data with Azure Cognitive Search.",
@@ -1436,8 +1484,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-cognitive-services/",
       "length": "PT44M",
       "ratings": {
-        "count": 60,
-        "average": 4.6666665
+        "count": 61,
+        "average": 4.672131
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1592,49 +1640,6 @@
       "topics": [
         "Azure",
         "Management Tools",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-mixed-reality.md",
-      "title": "Introduction to Mixed Reality",
-      "excerpt": "Mixed Reality is transforming the nature of on-the-job training, game development, and consumer application development. Build a foundation in the core concepts, terminology, and design processes unique to the augmented reality, virtual reality, and Mixed Reality development space. Get familiar with HoloLens, Windows Mixed Reality immersive headsets, bodystorming prototypes, and the most common use-cases for Mixed Reality content.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-mixed-reality/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-mixed-reality/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 291,
-        "average": 4.7525773
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "AI"
       ]
     }

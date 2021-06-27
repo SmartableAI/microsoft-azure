@@ -1343,8 +1343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 3704,
-        "average": 4.74622
+        "count": 3706,
+        "average": 4.7463574
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1692,8 +1692,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
       "length": "PT36M",
       "ratings": {
-        "count": 202,
-        "average": 4.7970295
+        "count": 203,
+        "average": 4.7980294
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1772,8 +1772,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "PT58M",
       "ratings": {
-        "count": 6709,
-        "average": 4.6413774
+        "count": 6710,
+        "average": 4.641431
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1809,8 +1809,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
       "length": "PT20M",
       "ratings": {
-        "count": 2587,
-        "average": 4.714341
+        "count": 2588,
+        "average": 4.7144513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1977,8 +1977,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
       "length": "PT44M",
       "ratings": {
-        "count": 2284,
-        "average": 4.5315237
+        "count": 2285,
+        "average": 4.5317287
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2415,8 +2415,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10799,
-            "average": 4.6793222
+            "count": 10801,
+            "average": 4.6793814
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2553,15 +2553,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-enrichment-pipeline-with-azure-cognitive-search.md",
-      "title": "Create an enrichment pipeline with Azure Cognitive Search",
-      "excerpt": "Use the power of artificial intelligence to enrich your data and find new insights.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-enrichment-pipeline-with-azure-cognitive-search/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-enrichment-pipeline-azure-cognitive-search/",
-      "length": "PT1H1M",
+      "path": "_learning/courses/microsoft-learn-configure-3d-assets-mixed-reality-unity.md",
+      "title": "Configure 3D assets for mixed reality in Unity",
+      "excerpt": "Get step-by-step instructions on how to place Prefab 3D assets and models into a Unity scene. Learn about Unity Scriptable Objects and mixed reality design considerations before deploying to a HoloLens 2.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-3d-assets-mixed-reality-unity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-3d-assets-mixed-reality-unity/",
+      "length": "PT41M",
       "ratings": {
-        "count": 72,
-        "average": 4.75
+        "count": 15,
+        "average": 4.9333334
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2576,13 +2576,13 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-an-enrichment-pipeline-social.png",
-          "width": 643,
+          "url": "https://docs.microsoft.com/learn/achievements/configure-3d-assets-mixed-reality-unity-social.png",
+          "width": 641,
           "height": 321,
           "isCached": true
         }
@@ -2593,10 +2593,11 @@
       "topics": [
         "Azure",
         "AI",
+        "IoT",
+        "Integration",
+        "Analytics",
         "Compute",
-        "Serverless",
-        "Storage",
-        "Web"
+        "Serverless"
       ]
     }
   ],
