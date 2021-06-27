@@ -4,6 +4,50 @@
   "page": 14,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload.md",
+      "title": "Choose the right disk storage for your virtual machine workload",
+      "excerpt": "Azure provides a variety of disk storage options for virtual machine workloads. Identify the features of capabilities of each type to ensure your application performs optimally.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 3698,
+        "average": 4.7458086
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-contribute-opensource.md",
       "title": "Contribute to an open-source project on GitHub",
       "excerpt": "Learn how to",
@@ -11,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/contribute-open-source/",
       "length": "PT27M",
       "ratings": {
-        "count": 104,
-        "average": 4.855769
+        "count": 106,
+        "average": 4.8584905
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -97,8 +141,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-open-source-program-github/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 112,
-        "average": 4.830357
+        "count": 114,
+        "average": 4.8333335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -216,8 +260,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/",
       "length": "PT1H32M",
       "ratings": {
-        "count": 3764,
-        "average": 4.6532946
+        "count": 3765,
+        "average": 4.6533866
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -259,8 +303,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
       "length": "PT48M",
       "ratings": {
-        "count": 435,
-        "average": 4.767816
+        "count": 436,
+        "average": 4.7683487
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -303,8 +347,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
       "length": "PT27M",
       "ratings": {
-        "count": 625,
-        "average": 4.744
+        "count": 626,
+        "average": 4.744409
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -347,8 +391,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-prioritize-your-issues-and-apply-security-controls/",
       "length": "PT14M",
       "ratings": {
-        "count": 335,
-        "average": 4.7253733
+        "count": 336,
+        "average": 4.7261906
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -391,8 +435,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 3247,
-        "average": 4.6504464
+        "count": 3249,
+        "average": 4.650354
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -540,8 +584,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
           "length": "PT58M",
           "ratings": {
-            "count": 6109,
-            "average": 4.7038794
+            "count": 6110,
+            "average": 4.703928
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -759,8 +803,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "PT43M",
       "ratings": {
-        "count": 2665,
-        "average": 4.61576
+        "count": 2667,
+        "average": 4.616048
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1059,8 +1103,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/instrument-web-app-code-with-application-insights/",
       "length": "PT34M",
       "ratings": {
-        "count": 603,
-        "average": 4.519071
+        "count": 604,
+        "average": 4.5198674
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1103,8 +1147,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
       "length": "PT49M",
       "ratings": {
-        "count": 865,
-        "average": 4.6416187
+        "count": 866,
+        "average": 4.642032
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1348,49 +1392,6 @@
         "Azure",
         "Storage",
         "Migration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-provide-disaster-recovery-replicate-storage-data.md",
-      "title": "Provide disaster recovery by replicating storage data across regions and failing over to secondary location",
-      "excerpt": "Learn how to provide disaster recovery by replicating storage data across regions and failing over to secondary location.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provide-disaster-recovery-replicate-storage-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 1508,
-        "average": 4.7997346
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/provide-disaster-recovery-replicate-storage-data-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

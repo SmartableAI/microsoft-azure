@@ -4,6 +4,50 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-detect-language-text-analytics-api.md",
+      "title": "Detect language with the text analytics API",
+      "excerpt": "Language detection is useful for content stores that collect arbitrary text, where language is unknown. You can parse the results of this analysis to determine which language is used in the input document.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-detect-language-text-analytics-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-language-text-analytics-api/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 302,
+        "average": 4.7384105
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
       "title": "Encrypt network traffic end to end with Azure Application Gateway",
       "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
@@ -11,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
       "length": "PT1H17M",
       "ratings": {
-        "count": 1357,
-        "average": 4.651437
+        "count": 1358,
+        "average": 4.651694
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-mlops-iot-edge/",
       "length": "PT36M",
       "ratings": {
-        "count": 183,
-        "average": 4.7103825
+        "count": 187,
+        "average": 4.71123
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -251,8 +295,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 17042,
-            "average": 4.730959
+            "count": 17049,
+            "average": 4.730717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -457,8 +501,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
           "length": "PT44M",
           "ratings": {
-            "count": 1344,
-            "average": 4.761161
+            "count": 1345,
+            "average": 4.760595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1324,7 +1368,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/bicep/introduction-infrastructure-code-using-bicep-social.png",
@@ -1606,8 +1650,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
           "length": "PT60M",
           "ratings": {
-            "count": 353,
-            "average": 4.7308784
+            "count": 354,
+            "average": 4.7316384
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1734,8 +1778,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 7256,
-            "average": 4.721472
+            "count": 7259,
+            "average": 4.721036
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1983,8 +2027,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6704,
-            "average": 4.6412587
+            "count": 6705,
+            "average": 4.6413126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2446,8 +2490,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
           "length": "PT60M",
           "ratings": {
-            "count": 353,
-            "average": 4.7308784
+            "count": 354,
+            "average": 4.7316384
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2617,8 +2661,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
           "length": "PT30M",
           "ratings": {
-            "count": 261,
-            "average": 4.8314176
+            "count": 262,
+            "average": 4.828244
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2703,8 +2747,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-protection-governance-capabilities/",
           "length": "PT29M",
           "ratings": {
-            "count": 319,
-            "average": 4.846395
+            "count": 320,
+            "average": 4.846875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3170,8 +3214,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-autoscale-rules/",
       "length": "PT47M",
       "ratings": {
-        "count": 93,
-        "average": 4.8172045
+        "count": 94,
+        "average": 4.819149
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3329,8 +3373,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-secure-iot-solutions-azure-sphere-iot-hub/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 135,
-        "average": 4.7777777
+        "count": 138,
+        "average": 4.7753625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3372,8 +3416,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
       "length": "PT29M",
       "ratings": {
-        "count": 3050,
-        "average": 4.6259017
+        "count": 3051,
+        "average": 4.6260242
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3415,8 +3459,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-key-phrases-text-analytics-api/",
       "length": "PT18M",
       "ratings": {
-        "count": 279,
-        "average": 4.763441
+        "count": 283,
+        "average": 4.7597175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3502,8 +3546,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/image-classification-azure-sphere/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 145,
-        "average": 4.8068967
+        "count": 149,
+        "average": 4.798658
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3577,49 +3621,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-azure-sphere.md",
-      "title": "Introduction to Azure Sphere",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-azure-sphere/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-azure-sphere/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 180,
-        "average": 4.8055553
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-azure-sphere-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
       ]
     }
   ],
