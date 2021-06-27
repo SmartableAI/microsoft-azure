@@ -4,90 +4,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-java-azure.md",
-      "title": "Introduction to Java on Azure",
-      "excerpt": "Goal of this module is to welcome you as Java Developers on Azure. In this module, you'll begin to discover the opportunities for Java developers on Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-java-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 121,
-        "average": 4.7024794
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-migrating-aspnet-apps-azure.md",
-      "title": "Introduction to migrating ASP.NET apps to Azure",
-      "excerpt": "Migrating an ASP.NET application from on-premises to Azure, along with a supporting Azure SQL database, can provide many advantages, but also challenges. Learn how to evaluate the migration process to determine if it’s right for your application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-migrating-aspnet-apps-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-migrating-aspnet-apps-azure/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 49,
-        "average": 4.877551
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-nodejs.md",
       "title": "Introduction to Node.js",
       "excerpt": "Learn about Node.js: what it is, how it works, and when to use it. Create Node.js applications using JavaScript/TypeScript using Visual Studio Code.",
@@ -603,8 +519,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/",
       "length": "PT23M",
       "ratings": {
-        "count": 1177,
-        "average": 4.7697535
+        "count": 1178,
+        "average": 4.769949
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1243,6 +1159,92 @@
       "ratings": {
         "count": 12,
         "average": 4.9166665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-microsoft-secure-score.md",
+      "title": "Examine Microsoft Secure Score",
+      "excerpt": "Examine Microsoft Secure Score",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-microsoft-secure-score/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-microsoft-secure-score/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 4,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-score-reduce-risk-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-microsoft-store-for-business.md",
+      "title": "Examine the Microsoft Store for Business",
+      "excerpt": "Examine the Microsoft Store for Business",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-microsoft-store-for-business/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-microsoft-store-for-business/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 3,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -4,93 +4,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-manage-hybrid-workloads-with-azure-arc.md",
-      "title": "Manage hybrid workloads with Azure Arc",
-      "excerpt": "You will learn to describe Azure Arc, implement Azure Arc with on-premises server instances, deploy Azure policies with Azure Arc, and use role-based access control (RBAC) to restrict access to Log Analytics data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-hybrid-workloads-with-azure-arc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-hybrid-workloads-azure-arc/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 39,
-        "average": 4.8717947
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-hybrid-workloads-with-azure-arc-social.png",
-          "width": 642,
-          "height": 322,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-iot-central-apps-with-rest-api.md",
-      "title": "Manage IoT Central applications with the REST API",
-      "excerpt": "In this module, you'll learn how to manage an IoT Central application programmatically using the REST API",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-iot-central-apps-with-rest-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-central-apps-with-rest-api/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 186,
-        "average": 4.483871
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-iot-central-apps-with-rest-api-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-iot-devices.md",
       "title": "Learn how to manage IoT devices as an IT admin",
       "excerpt": "This module is an introduction to the Internet of Things for IT admins.",
@@ -731,8 +644,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/",
       "length": "PT1H17M",
       "ratings": {
-        "count": 515,
-        "average": 4.724272
+        "count": 516,
+        "average": 4.7248063
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1276,6 +1189,85 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-models-data.md",
+      "title": "Work with models and data in Django",
+      "excerpt": "Explore models and data in Django. Learn about the object-relational mapper, create your own models, and set up a database.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-models-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/django-models-data/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 26,
+        "average": 4.8846154
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-azure-cosmos-db.md",
+      "title": "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies",
+      "excerpt": "Learn how to measure the performance of your NoSQL Azure Cosmos DB database, by monitoring, partitioning, and indexing",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-azure-cosmos-db/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-and-scale-cosmos-db/",
+      "length": "PT1H16M",
+      "ratings": {
+        "count": 1316,
+        "average": 4.6025834
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "content": "\r\n",
       "type": "course",
       "price": "Free",

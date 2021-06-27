@@ -4,42 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-secure-your-azure-sql-database.md",
-      "title": "Secure your Azure SQL Database",
-      "excerpt": "Secure an Azure SQL database to keep the information safe and diagnose potential security concerns as they happen.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-sql-database/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
-      "length": "PT1H7M",
-      "ratings": {
-        "count": 4826,
-        "average": 4.544343
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-synthesize-text-input-speech.md",
       "title": "Synthesize Text Input to Speech",
       "excerpt": "Learn how to synthesize text to speech using the Speech-to-Text service.",
@@ -133,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
       "length": "PT45M",
       "ratings": {
-        "count": 1091,
-        "average": 4.669111
+        "count": 1092,
+        "average": 4.669414
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -256,8 +220,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
       "length": "PT45M",
       "ratings": {
-        "count": 1241,
-        "average": 4.657534
+        "count": 1242,
+        "average": 4.65781
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -597,14 +561,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-getting-started-as-a-cloud-engineer-with-gwyneth-pena-azure-friday.md",
-      "title": "Getting started as a cloud engineer with Gwyneth Peña | Azure Friday",
-      "excerpt": "Azure MVP Gwyneth Peña joins Scott Hanselman to show him how she got started as a cloud engineer not only by learning by doing, but also by documenting what she was learning and sharing her journey with others.   0:00 - Overview 0:21 - Getting started as a cloud engineer 5:11 - Building the Made by GPS",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-getting-started-as-a-cloud-engineer-with-gwyneth-pena-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-getting-started-as-a-cloud-engineer-with-gwyneth-pena-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=Nep9M9_MZBQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nep9M9_MZBQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M57S",
+      "path": "_learning/videos/microsoft-go-serverless-event-driven-applications-with-azure-functions-azure-friday.md",
+      "title": "Go serverless: Event-driven applications with Azure Functions | Azure Friday",
+      "excerpt": "Jeff Hollan joins Scott Hanselman to show how you can quickly develop and deploy code to run in the cloud with Azure Functions. Functions can be written in a variety of languages, and will automatically trigger and scale based on your application needs.  1:53 - Demo  Quickstart: Create your first function",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-go-serverless-event-driven-applications-with-azure-functions-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-go-serverless-event-driven-applications-with-azure-functions-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=UFxQhszT450",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UFxQhszT450\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M14S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -617,49 +581,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-08-14T08:30:48-07:00",
+      "publishedDateTime": "2020-03-20T10:39:29-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Nep9M9_MZBQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-go-serverless-real-time-applications-with-azure-signalr-service-azure-friday.md",
-      "title": "Go serverless: Real-time applications with Azure SignalR Service | Azure Friday",
-      "excerpt": "Modern applications light up with real-time information. Anthony Chu joins Donovan Brown to show how to deliver live updates from Azure Functions to web, mobile, and desktop apps with Azure SignalR Service. Learn how to send real-time messages over WebSockets from your serverless apps with a few lines",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-go-serverless-real-time-applications-with-azure-signalr-service-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-go-serverless-real-time-applications-with-azure-signalr-service-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=FmxAf8TfFkc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FmxAf8TfFkc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M22S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-27T12:04:10-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FmxAf8TfFkc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UFxQhszT450/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -671,6 +597,44 @@
       "topics": [
         "Azure",
         "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-connect-and-deliver-services-privately-on-azure-with-azure-private-link-azure-friday.md",
+      "title": "How to connect and deliver services privately on Azure with Azure Private Link | Azure Friday",
+      "excerpt": "Narayan Anamalai joins Donovan Brown to introduce Azure Private Link. In this episode, Narayan demonstrates how you can secure Azure PaaS resources and your Azure network using Private Link, and provide protection against data exfiltration.  8:45 - Demo  Azure Private Link overview https://aka.ms/azfr/610/01",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-connect-and-deliver-services-privately-on-azure-with-azure-private-link-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-connect-and-deliver-services-privately-on-azure-with-azure-private-link-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=AZ0iFcyPDkc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AZ0iFcyPDkc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M54S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-14T00:21:54-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AZ0iFcyPDkc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -1021,6 +985,46 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday.md",
+      "title": "Serverless containers with Azure Container Instances (ACI) | Azure Friday",
+      "excerpt": "In this episode, Azure CTO Mark Russinovich joins Scott Hanselman to show how you can use Azure Container Instances (ACI) to host a containerized application. Mark deploys an image processing container in three ways: as a standalone ACI container, as part of a Logic Apps workflow, and as the backend",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=7G_oDLON7Us",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7G_oDLON7Us\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M33S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-03T14:26:47-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7G_oDLON7Us/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless",
+        "Containers"
       ]
     },
     {

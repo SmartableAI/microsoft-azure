@@ -183,8 +183,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/getting-started-identity/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 400,
-        "average": 4.675
+        "count": 403,
+        "average": 4.677419
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -303,8 +303,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
       "length": "PT48M",
       "ratings": {
-        "count": 434,
-        "average": 4.767281
+        "count": 435,
+        "average": 4.767816
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -347,8 +347,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
       "length": "PT27M",
       "ratings": {
-        "count": 622,
-        "average": 4.7427654
+        "count": 623,
+        "average": 4.7431784
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -391,8 +391,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-prioritize-your-issues-and-apply-security-controls/",
       "length": "PT14M",
       "ratings": {
-        "count": 332,
-        "average": 4.7228913
+        "count": 333,
+        "average": 4.723724
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -890,8 +890,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
       "length": "PT38M",
       "ratings": {
-        "count": 261,
-        "average": 4.8084292
+        "count": 262,
+        "average": 4.80916
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1012,6 +1012,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-improve-reliability-deployment.md",
+      "title": "Improve your reliability with modern operations practices: Deployment",
+      "excerpt": "Learn about deployment practices that can help you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-reliability-deployment/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-deployment/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 108,
+        "average": 4.7314816
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-deployment-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-improve-reliability-introduction.md",
       "title": "Improve your reliability with modern operations practices: An introduction",
       "excerpt": "Discover a map for navigating reliability challenges and sustainably achieving the appropriate level of reliability in your systems, services, and products.",
@@ -1061,8 +1103,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/instrument-web-app-code-with-application-insights/",
       "length": "PT34M",
       "ratings": {
-        "count": 602,
-        "average": 4.5182724
+        "count": 603,
+        "average": 4.519071
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1350,49 +1392,6 @@
         "Azure",
         "Storage",
         "Migration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-provide-disaster-recovery-replicate-storage-data.md",
-      "title": "Provide disaster recovery by replicating storage data across regions and failing over to secondary location",
-      "excerpt": "Learn how to provide disaster recovery by replicating storage data across regions and failing over to secondary location.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provide-disaster-recovery-replicate-storage-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 1508,
-        "average": 4.7997346
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/provide-disaster-recovery-replicate-storage-data-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],
