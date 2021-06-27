@@ -4,7 +4,7 @@ excerpt: "When a live site issue or outage occurs, quickly determining the root 
 originalUrl: https://youtube.com/watch?v=IXKwfLS-ei4
 type: video
 price: Free
-length: PT12M1S
+length: PT12M
 publishedDateTime: 2019-08-29T23:00:31Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "q4O15ei6RjYGNaWXG9Uly+P7P2/jRR30COoeqMY6TuRvR8oDo/d3NztLfzD7m4FA/6sy3Pk/w3a8K+pwVotu04f/KYVvzB4gYJBZGXUfmwJDcvw275qmJ+G1VcunU/+roRNhEm9qRdhgyZwuURhinDYWxeJcF43dWXX2E9W4jzFXfZE5OxrRvbb8d+qxBnlNmj3t7tcJjjgps8sbsDSMRqZZ4iBSg8TznHon1Qap7Un5fQq7N40AXHe2VdV5dD7Y10Jm76RwHcH7F2ZsRZrEC3/115Gr/8YymvMf5RQ4ITqBjVAJ4aCAT/9Xi8sXiqVxkUt0BsRMAkipQGKEIHBr9R4t43fIlkuf0sDhZJHGl+y1KlkCr0Bsltr0aMMESa2VEUSjVbKuKKVnoJVILON7p2oqkt3AV5LX+MTCX2O9uY0=;Y02nEraPnxniUW0wEwHQsw=="
+secured: "7u0W77lJVOCJNxtzWEREwxbcBsIcC620B67lZcAF70FDbBl7KVzjuM9QVvseb2xsYG0lUb+LM8xtY6Z9MLhkWLkSoTUsNq3+mMliY/i7YwxNre/S/8EeLnPv/88zNpFm4e7MUU8BSVz44pF6aBYwugpP2QBVYhP5BJiVQ3oTK19V2MopdjAKiT+SrwyIhwGzxMoAb+Dd1KebN9Z1WZK7J0/mtlJArTMBYl/tITeFaa7r4bE3+nFBt4OoR9Rb+HlUFzwhGXeLd0ExMhEgNWGCFoM8W5Oa8KAtI0Dir+jYZJJMHDCb7F2QgVsx7s2f14k2GB5PKuPUcvTf4UEKMIVW2KjtknSjeqsQbz47i5rZ9XKvzA5QI8x+WDvJqcAr4aZG9+5JRtdIGHI2Z+gIZttAi/iqBQa3F+fSwZqGhShn2LM=;DsxCYXLs60padHGX6kg0Kg=="
 ---
 

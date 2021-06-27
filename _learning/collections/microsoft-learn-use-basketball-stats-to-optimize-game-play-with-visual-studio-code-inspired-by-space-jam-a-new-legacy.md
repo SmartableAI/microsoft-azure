@@ -4,7 +4,7 @@ excerpt: "This *Space Jam: A New Legacy* - inspired learning path aims to equip 
 type: collection
 price: Free
 length: PT3H21M
-heat: 94
+heat: 76
 
 provider:
   name: Microsoft Learn
