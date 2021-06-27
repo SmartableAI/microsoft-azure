@@ -601,6 +601,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 2
+  - title: "Microsoft Cloud marks two years in the Middle East"
+    excerpt: "It’s been two years since Microsoft introduced the first global Hyper-scale Cloud in the UAE and the Middle East"
+    publishedDateTime: 2021-06-23T01:45:00Z
+    webUrl: "https://www.oilandgasmiddleeast.com/products-services/38703-microsoft-cloud-marks-two-years-in-the-middle-east"
+    type: article
+    provider:
+      name: oilandgasmiddleeast
+      domain: oilandgasmiddleeast.com
+    quality: 2
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
     publishedDateTime: 2021-06-16T12:04:00Z
@@ -620,6 +629,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "EMYIGc1eoGPmzq++Tm927r2NS7EsYzb0UCTUmZHecnDPQdp+3dg8t1LrQfsxczfKKritM3MqPALkk5wit7Cm51lNUTxnAJaJ08hJ1dYzJY/K/+3hOIKENDemI9A7RfU9Rp0mHP94yjFWIQS9YB0jsb/W8smG/5FRVr8LgiTMdJd1vDjw5UkB6+T+KpCg0rO2YlvWH/1oi0dpe2ZFgG35sRcGpNtzU+uO0HynfJaM13hTBiHhzbTnBI8Q3dyQyZ7YJEB4KLisftSyNSg7DIyfQqXWCu+9pz1Ekr5yKD+GIGJ8a8YABVIZ3TaokgplXcKq4mHJG6FL8W4KtlXSlWqV+aN+uJtKkuxLNeaIisM2mtA=;1DAjH79Xe3oBYwusL2MfHA=="
+secured: "HQbT88jiKBfoxUIrMRF2ygkAsLfPvYZVI32WRUzfXBMyCFyLo//jRZ4xnT24ybz/21z3Tl5IILoVIKb8m3l0mw43Hjodk8Ylrq8QNJk+vOaHs0MsF9lvMnULlVdhVB5PO8dFrhK+vxhCsNhoNzqe95PoVBHaUfEz6WY1pHQDUtR1T0wTvBjTxA0L9Onm5nH07vY/5NFvkwoP+CzghPGP26hT0wrtuCeZ5cxbu/9F4VisfAieIz7VDgFcHuJjfHMRWAEpViYUPyi6GI+nvgfEmeD3kUChB8xReFxQQ+v7jBZqyJymA2icZSORNPFVB1FDAXEIwmGfamYJ7hsOg1BRIx6vDmAXG0aCV/IHaG003I8=;ke/YENXuRnjutMAXKiG7oA=="
 ---
 

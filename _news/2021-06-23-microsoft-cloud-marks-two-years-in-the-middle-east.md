@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
-excerpt: "The Logility® Digital Supply Chain Platform Now Available on Azure MarketplaceATLANTA--(BUSINESS WIRE)--#SupplyChain--Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise,"
-publishedDateTime: 2021-06-17T13:00:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=486685"
-webUrl: "https://us.acrofan.com/detail.php?number=486685"
+title: "Microsoft Cloud marks two years in the Middle East"
+excerpt: "It’s been two years since Microsoft introduced the first global Hyper-scale Cloud in the UAE and the Middle East"
+publishedDateTime: 2021-06-23T01:45:00Z
+originalUrl: "https://www.oilandgasmiddleeast.com/products-services/38703-microsoft-cloud-marks-two-years-in-the-middle-east"
+webUrl: "https://www.oilandgasmiddleeast.com/products-services/38703-microsoft-cloud-marks-two-years-in-the-middle-east"
 type: article
-quality: 14
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: oilandgasmiddleeast
+  domain: oilandgasmiddleeast.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -538,6 +532,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
+  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
+    excerpt: "The Logility® Digital Supply Chain Platform Now Available on Azure MarketplaceATLANTA--(BUSINESS WIRE)--#SupplyChain--Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise,"
+    publishedDateTime: 2021-06-17T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=486685"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Perforce Releases Free, Turnkey Solution for Game Dev and VFX Studios on Microsoft Azure"
     excerpt: "For studios looking to capitalize on cloud benefits and avoid a costly hardware investment, the Enhanced Studios Pack combines the world-class development tools trusted by the largest AAA game development studios to enable creativity,"
     publishedDateTime: 2021-06-17T13:10:00Z
@@ -601,15 +609,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 2
-  - title: "Microsoft Cloud marks two years in the Middle East"
-    excerpt: "It’s been two years since Microsoft introduced the first global Hyper-scale Cloud in the UAE and the Middle East"
-    publishedDateTime: 2021-06-23T01:45:00Z
-    webUrl: "https://www.oilandgasmiddleeast.com/products-services/38703-microsoft-cloud-marks-two-years-in-the-middle-east"
-    type: article
-    provider:
-      name: oilandgasmiddleeast
-      domain: oilandgasmiddleeast.com
-    quality: 2
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
     publishedDateTime: 2021-06-16T12:04:00Z
@@ -629,6 +628,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "Ctxio68TXgkeI6yQob+FLbDpVoU/VDFsi4dmkoTARW9/sn79shs94Z1X1VCwNs2IgBuDsIWhOuEp5UCjaGpodNNBsLroVAYjtOOcJ6ns2sPoHwGbweUntHrtfGkTNgX0yAFT2qmO2b5ybwe1boTpDH6LWmpHMfksCG4ikWaOQ5a5MX9TbaavTZ1BfMT7ahyRYj+8AjKxV/86E6Det0a6w0PWpkK3UCMFP9VK4v3Lpi2K2x1T401+nNnRGuOJAYpJg+gsmQDT8foWE9ih6m4wO6OQvJWIFlrfkm/59USDpi0epGi0/GmSLIEBTqf5jcqa2jh+9MRh+r9kwMYSJnMVp2R/ANHFG9aizSO0NxTFGhQ=;acPDbMn6hsgVxSiAAsEvyg=="
+secured: "3OCWprnMTk9mvTgr4tQDaNC4k2SXf1a6B0COB/2MVKWzMc3ONjxXuTwNe27mhCN/03caRUTP608jhzUmQMBYM9WyxQs9n9aJ+JgD6UIXXiTk4pj7T+NhZ6n+aZwjsc11+/SjtC/qVHNT6FG3IEvvpjvPnF4rHakKBXBZENZsOlH2876q6P6JMOMJ7rLUgEfwCiGiQLgk2BoeAmV6ou9ckuLGw6nLGSv1R1AgAZLnUpWQ4pJxmVamPypckptvTf+AUvxpPxi6v9Oz4pMVOAxV42qrr79JFwNy/a+bMf30C1UR0JAvuXcaLJaZqUjlJzdh/rniXOSNinOoq1xzra55+iyHpungq0g2b5/135VkIGvwg7g65XNECC9ykTKN5xutlNnaYmSMvug95D5iyMHDtBZufcGZ5YazOvOSvmgZ2ezGDwXY17n6MH7Qi3xcHFoyLyWeI9HoyUwjodjw1HGVX7J5aOXoIwPD2Gv2tcYUg2qsSIvKUlFAi0E1n8NaXFY+gsLes8gClftrk6gHj+unLA==;0JhaT7YPsCIwqZrFjwS6HQ=="
 ---
 

@@ -609,6 +609,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 2
+  - title: "Microsoft Cloud marks two years in the Middle East"
+    excerpt: "It’s been two years since Microsoft introduced the first global Hyper-scale Cloud in the UAE and the Middle East"
+    publishedDateTime: 2021-06-23T01:45:00Z
+    webUrl: "https://www.oilandgasmiddleeast.com/products-services/38703-microsoft-cloud-marks-two-years-in-the-middle-east"
+    type: article
+    provider:
+      name: oilandgasmiddleeast
+      domain: oilandgasmiddleeast.com
+    quality: 2
   - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
     excerpt: "Logility partners with Microsoft Azure to power high performing cloud environment and enhance the customer experience."
     publishedDateTime: 2021-06-17T17:00:00Z

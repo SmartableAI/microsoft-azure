@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/06/11/building-ga
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/06/11/building-games-in-the-cloud-microsoft-azure-developers-level-up/amp/"
 type: article
 quality: 97
-heat: 1038
+heat: 1058
 published: true
 
 provider:
@@ -604,6 +604,15 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 2
+  - title: "Microsoft Cloud marks two years in the Middle East"
+    excerpt: "It’s been two years since Microsoft introduced the first global Hyper-scale Cloud in the UAE and the Middle East"
+    publishedDateTime: 2021-06-23T01:45:00Z
+    webUrl: "https://www.oilandgasmiddleeast.com/products-services/38703-microsoft-cloud-marks-two-years-in-the-middle-east"
+    type: article
+    provider:
+      name: oilandgasmiddleeast
+      domain: oilandgasmiddleeast.com
     quality: 2
   - title: "Smartronix Recognized as a Microsoft Azure Expert Managed Service Provider for the Third Consecutive Year"
     excerpt: "Smartronix, a global leader in delivering and managing secure cloud services, today announced they have once again been named a Microsoft Azure Expert Managed Service Provider (MSP). Smartronix has achieved this designation every year since the program’s inception in 2018."
