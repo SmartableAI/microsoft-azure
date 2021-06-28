@@ -1,18 +1,18 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-publishedDateTime: 2021-06-16T18:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
+publishedDateTime: 2021-06-16T18:33:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
+webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
 type: article
 quality: 2
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
@@ -628,6 +628,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "3JyFO+EPKuE4Klhq+ke1qwXFKnj+Y751HmN0hx5BB1sAXPQ8/gR1/qMbbB34W3TfzS4GqirD06hhTnkvwc02o34x1BpzwGc4ckCnXyJ5vj81rzNujpxAMFRk/0oCnp6wbSc2ml995HHyFptXlTibgVxNlSf3RiUET48cdxTDcUsBATbhmH9ox96XdGn6m3g7yIcX8NxDpT94w2tEBzpl3XjUikaG79XIgzGMMY5xQIYgkVN7yjcYAJqwn7feexoh1zuiQzJG/TZqDf0e1K1jQQtOkuPbkfFvW5vnfjv9QkSlWbEDm5PCM+gVDi7KHvRa94MEb4dqFaS8+8KDM1tHQiom9mnmXdt7Z9l+H3ddWt0=;S3TymiBcvINEwVBUBKiThg=="
+secured: "T6tXwqqZrWj4ZNKsEC3Mxj7+0HpBVx4Bd0s7vnjjg/INlwo0rfEWmb0Go8j9b9j2SEihBpTZ/zPkCSpbAY45b81MGAmW8FnF3aOLpKXTFgluLmQB7cyqpmRPbYrS0K5JF+oOPURr5wjrnN/NPnvxFblnVo1tngwlrH/ZFguOPfxKcHXr/0N9Otzmo4wGuS5m5t38bRpqMdMaOLp5xpSCUc6omQRA4HGJsEZjoCYUa/bZIbQfm2xb7rFLFUO7onPhTMjZJuAZkSFrOtTD0pgI4ZIX/uLjYOKYj47k7oj1KVGPhJtRiJ3eBnV/1e+hVq2N4+9Ba9CFnaqyiXV4JokbAbF6JRRcEM07esd6liwBmIM=;i4fZ9K40HZu+FZoGJ27/Vw=="
 ---
 
