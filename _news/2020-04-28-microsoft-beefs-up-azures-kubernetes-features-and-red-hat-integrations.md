@@ -219,6 +219,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 73
+  - title: "Softline has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
+    excerpt: "LONDON:  Softline today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertis"
+    publishedDateTime: 2021-06-28T03:18:00Z
+    webUrl: "https://indiaeducationdiary.in/softline-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+    ampWebUrl: "https://indiaeducationdiary.in/softline-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/softline-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 71
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
   - title: "Azure at Microsoft Build recap: build amazing things on your terms, anywhere"
     excerpt: "At digital Microsoft Build this week, we announced a host of new capabilities that help developers create intelligent, connected, and secure cloud-native apps that harness the power of data and AI and run anywhere. Below are the key stories we landed this week at Microsoft Build, with ways to explore"
     publishedDateTime: 2021-05-26T09:00:29Z

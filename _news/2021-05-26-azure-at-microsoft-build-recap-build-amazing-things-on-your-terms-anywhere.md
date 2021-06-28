@@ -219,6 +219,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 73
+  - title: "Softline has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
+    excerpt: "LONDON:  Softline today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertis"
+    publishedDateTime: 2021-06-28T03:18:00Z
+    webUrl: "https://indiaeducationdiary.in/softline-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+    ampWebUrl: "https://indiaeducationdiary.in/softline-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/softline-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 71
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
   - title: "Gain flexibility to run open-source applications your way with Microsoft Azure"
     excerpt: "We are committed to open source at Microsoft. We contribute to Linux, Kubernetes, Visual Studio Code, and serving in open source organizations like the Cloud Native Computing Foundation (CNCF) or Open Source Security Foundation (OpenSSF). At Microsoft Build, we are sharing our latest work to enable developers"
     publishedDateTime: 2021-05-26T07:00:28Z

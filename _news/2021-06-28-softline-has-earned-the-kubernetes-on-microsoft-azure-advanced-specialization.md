@@ -1,21 +1,30 @@
 ---
 category: news
-title: "Armorblox Now Available in the Microsoft Azure Marketplace"
-excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft (News - Alert) Azure."
-publishedDateTime: 2021-05-18T13:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-armorblox-now-available-the-microsoft-azure-marketplace-/2021/05/18/9371955.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-armorblox-now-available-the-microsoft-azure-marketplace-/2021/05/18/9371955.htm"
+title: "Softline has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
+excerpt: "LONDON:  Softline today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertis"
+publishedDateTime: 2021-06-28T03:18:00Z
+originalUrl: "https://indiaeducationdiary.in/softline-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+webUrl: "https://indiaeducationdiary.in/softline-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+ampWebUrl: "https://indiaeducationdiary.in/softline-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/softline-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
 type: article
-quality: 17
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: India Education Diary
+  domain: indiaeducationdiary.in
 
 topics:
   - Azure
+  - Containers
+
+images:
+  - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+    width: 534
+    height: 462
+    isCached: true
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -213,22 +222,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 73
-  - title: "Softline has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
-    excerpt: "LONDON:  Softline today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertis"
-    publishedDateTime: 2021-06-28T03:18:00Z
-    webUrl: "https://indiaeducationdiary.in/softline-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
-    ampWebUrl: "https://indiaeducationdiary.in/softline-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/softline-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 71
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
-        isCached: true
   - title: "Azure at Microsoft Build recap: build amazing things on your terms, anywhere"
     excerpt: "At digital Microsoft Build this week, we announced a host of new capabilities that help developers create intelligent, connected, and secure cloud-native apps that harness the power of data and AI and run anywhere. Below are the key stories we landed this week at Microsoft Build, with ways to explore"
     publishedDateTime: 2021-05-26T09:00:29Z
@@ -647,6 +640,15 @@ related:
         width: 800
         height: 546
         isCached: true
+  - title: "Armorblox Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft (News - Alert) Azure."
+    publishedDateTime: 2021-05-18T13:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-armorblox-now-available-the-microsoft-azure-marketplace-/2021/05/18/9371955.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "Softchoice Closes IPO, Moves To Cement Status As Largest Microsoft Cloud Partner"
     excerpt: "Softchoice has grown its cloud business in large part around Microsoft, but also offers hybrid cloud deployments around AWS and Google."
     publishedDateTime: 2021-06-02T02:45:00Z
@@ -735,6 +737,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "2JPF8TD17ILlBE5hoHQkQHqcGwZgecDYH0mPQC9clnQGBHKxFNZOg0ozE9vbt2eC0njvsBvFLt5ZulKSbrmTSLcP9OC+jijUGjwFtT4M+lNOPofj5JN5Sz3UHj4Cf3H6xR3CY2rT+dL2u/7R8Pte8SHcH7Bve1UXQwFuWUPJzfmHo/Q0C+ASokgMx/HUEcJUL4af+vK/4Hj/tp0P8o04QQE+6/SgbRazciqnLR94RboyixyHghwomkq7T4e+GFEh37AcGgMFwYD7UCM6/efz09iYg1F7sFoVFRS1PKRt0vYpv5cJptHhuy6rRtdIF9qFH8ylH7FIE1ogTmPpzE4XMRXVR9183uZ8BIJIvAQNJfs=;hzVK8tqo7BG8ex0zbJbp+w=="
+secured: "rpO5jmWTM9i4TFFxvaZVWT1YDTwF3fZTenjI63NWdTLFRCOB60UBepbI8w/oOpmwi7rrqKqjv4jT96+z3hYZX9xPkm+g0Z0j7dffh8Q2cLCjaEuTlpB73iYHhvY2T+UrvvtWmtIst5xxKkpm+g6gakArdYXGbARBthSuIo0VlOsFAff4a/uqr3bSpC9n0tkCxDhANnatMmHVK7EjxOtcfk2K8aTkATfOW3docBQrwQF02my2i1C3apo4SXliZGRS8pegBV3ZVWeF5uQyccd6Qq7azG1vwAg/Sa2wQ99U0XWxEF3080UlchKsEg5wc1G6RUkVFPqPGWs5bLpFzk4FJeCCYptIfSQSV+zDNLXOo38=;tW1J51Zg2+VyEuX84vF4Mw=="
 ---
 
