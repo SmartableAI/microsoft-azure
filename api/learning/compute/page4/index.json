@@ -4,6 +4,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
+      "title": "Introduction to Azure Database for PostgreSQL",
+      "excerpt": "This module is a no-code introduction to PostgreSQL on Azure, including an explanation of particular problems that using Azure Database for PostgreSQL can solve. At a high level, we show how the components fit together and identify situations where you should use Azure Database for PostgreSQL.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-db-for-postgresql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 2315,
+        "average": 4.651404
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-set-up-mixed-reality-azure-digital-twins-unity.md",
       "title": "Set up a mixed reality project for Azure Digital Twins in Unity",
       "excerpt": "Get step-by-step guidance on how to set up and configure a mixed reality project in Unity for HoloLens 2. Learn about the Azure Digital Twins and SignalR services and common use cases for the Azure platform in Mixed Reality.",
@@ -52,14 +96,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-use-deployment-slots-on-azure-app-service-azure-portal-series.md",
-      "title": "How to use deployment slots on Azure App Service | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to set up staging environments in Azure App Service by using deployment slots.   Try out these features in the Azure portal: https://portal.azure.com    Keep connected on Twitter: https://twitter.com/AzurePortal      And make sure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-deployment-slots-on-azure-app-service-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-deployment-slots-on-azure-app-service-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=0cgy4GplC4I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0cgy4GplC4I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M14S",
+      "path": "_learning/videos/microsoft-azure-app-service-web-apps-azure-friday.md",
+      "title": "Azure App Service Web Apps | Azure Friday",
+      "excerpt": "Byron Tardif joins Scott Hanselman to discuss Azure App Service Web Apps, the best way to build and host web applications in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-app-service-web-apps-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-app-service-web-apps-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=jCfJWYocz1M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jCfJWYocz1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M33S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -72,11 +116,90 @@
           }
         ]
       },
-      "publishedDateTime": "2019-08-14T08:00:54-07:00",
+      "publishedDateTime": "2018-08-14T14:03:24-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0cgy4GplC4I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jCfJWYocz1M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-get-started-with-the-azure-serial-console-on-a-linux-virtual-machine-azure-tips-and-tricks.md",
+      "title": "How to get started with the Azure Serial Console on a Linux Virtual Machine | Azure Tips and Tricks",
+      "excerpt": "In this video of the Azure and Tips and Tricks series, Craig from the Azure Serial Console team will show you how to get started with the Azure Serial Console on a Linux Virtual Machine. You will learn to configure your VM to get the best Serial Console experience.    For more tips and tricks, visit:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-the-azure-serial-console-on-a-linux-virtual-machine-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-the-azure-serial-console-on-a-linux-virtual-machine-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=HnvUxnNzbe4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HnvUxnNzbe4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M52S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-15T08:11:05-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HnvUxnNzbe4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-troubleshoot-common-virtual-machine-issues-azure-portal-series.md",
+      "title": "How to troubleshoot common virtual machine issues | Azure Portal Series",
+      "excerpt": "In this video of the Azure Portal “How To” Series, learn how to troubleshoot common virtual machine issues using the diagnose and solve experience of the Azure Portal.    Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter: https://twitter.com/AzurePortal",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-troubleshoot-common-virtual-machine-issues-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-troubleshoot-common-virtual-machine-issues-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=MAJrN-2IPY8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MAJrN-2IPY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M12S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-12-19T09:00:10-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MAJrN-2IPY8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -88,6 +211,45 @@
       "topics": [
         "Azure",
         "Management tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-work-with-files-in-azure-app-service-azure-tips-and-tricks.md",
+      "title": "How to work with files in Azure App Service | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to work with files that you’ve uploaded to Azure App Service. Watch to find out what the different options are for interacting with the file system and your deployed applications in the Azure portal.   For more tips and tricks, visit: http://azuredev.tips/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-work-with-files-in-azure-app-service-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-work-with-files-in-azure-app-service-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=igLj2WlVQ9M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/igLj2WlVQ9M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M25S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-09-13T10:18:15-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/igLj2WlVQ9M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "Compute"
       ]
     },
@@ -208,8 +370,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10820,
-            "average": 4.679205
+            "count": 10821,
+            "average": 4.679235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -392,14 +554,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-app-service-web-apps-azure-friday.md",
-      "title": "Azure App Service Web Apps | Azure Friday",
-      "excerpt": "Byron Tardif joins Scott Hanselman to discuss Azure App Service Web Apps, the best way to build and host web applications in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-app-service-web-apps-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-app-service-web-apps-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=jCfJWYocz1M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jCfJWYocz1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M33S",
+      "path": "_learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday.md",
+      "title": "Deploy your Web App in Windows Containers on Azure App Service | Azure Friday",
+      "excerpt": "Windows Container support is available in preview in Azure App Service. By deploying applications via Windows Containers in Azure App Service you can install your dependencies inside the container, call APIs currently blocked by the Azure App Service sandbox and use the power of containers to migrate",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=Fe_AYBD5m0I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Fe_AYBD5m0I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M48S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -412,11 +574,11 @@
           }
         ]
       },
-      "publishedDateTime": "2018-08-14T14:03:24-07:00",
+      "publishedDateTime": "2019-07-10T08:31:31-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/jCfJWYocz1M/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Fe_AYBD5m0I/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -428,7 +590,47 @@
       "topics": [
         "Azure",
         "Compute",
-        "Web"
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-easily-manage-your-virtual-machine-azure-portal-series.md",
+      "title": "How to easily manage your virtual machine | Azure Portal Series",
+      "excerpt": "In this episode of the #Azure Portal \"How To\" series, learn about the new virtual machine (VM) overview experience, including new ways to quickly get started using your virtual machine.   Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-easily-manage-your-virtual-machine-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-easily-manage-your-virtual-machine-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=vQClJHt2ulQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vQClJHt2ulQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M31S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-08T12:59:13-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vQClJHt2ulQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
+        "Compute"
       ]
     },
     {
@@ -457,46 +659,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/jCx4rxdWkTM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-troubleshoot-common-virtual-machine-issues-azure-portal-series.md",
-      "title": "How to troubleshoot common virtual machine issues | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, learn how to troubleshoot common virtual machine issues using the diagnose and solve experience of the Azure Portal.    Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter: https://twitter.com/AzurePortal",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-troubleshoot-common-virtual-machine-issues-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-troubleshoot-common-virtual-machine-issues-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=MAJrN-2IPY8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MAJrN-2IPY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M12S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-12-19T09:00:10-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MAJrN-2IPY8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -551,14 +713,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-work-with-files-in-azure-app-service-azure-tips-and-tricks.md",
-      "title": "How to work with files in Azure App Service | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to work with files that you’ve uploaded to Azure App Service. Watch to find out what the different options are for interacting with the file system and your deployed applications in the Azure portal.   For more tips and tricks, visit: http://azuredev.tips/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-work-with-files-in-azure-app-service-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-work-with-files-in-azure-app-service-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=igLj2WlVQ9M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/igLj2WlVQ9M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M25S",
+      "path": "_learning/videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks.md",
+      "title": "How to use Deployment Slots in Azure App Service for Containers | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Deployment Slots in Microsoft Azure App Service for Containers.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=5rR5C4Z5dU4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5rR5C4Z5dU4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M9S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -571,11 +733,11 @@
           }
         ]
       },
-      "publishedDateTime": "2018-09-13T10:18:15-07:00",
+      "publishedDateTime": "2021-02-16T08:00:05-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/igLj2WlVQ9M/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/5rR5C4Z5dU4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -586,7 +748,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute"
+        "Compute",
+        "Containers"
       ]
     },
     {
@@ -1336,6 +1499,51 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-accelerate-scale-spring-boot-application-azure-cache-redis.md",
+      "title": "Accelerate and scale a Spring Boot application with Azure Cache for Redis",
+      "excerpt": "In this module, you'll learn what Azure Cache for Redis is, and how to use it with a Java and Spring Boot application. You'll use it to cache some business data using Spring Data Redis, and also to store HTTP session data using Spring Session.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-accelerate-scale-spring-boot-application-azure-cache-redis/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/accelerate-scale-spring-boot-application-azure-cache-redis/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 22,
+        "average": 4.9545455
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-admin-site.md",
       "title": "Work with the Django admin site",
       "excerpt": "Learn how to set up the built-in Django admin site and configure users for the site.",
@@ -1696,218 +1904,6 @@
         "Containers",
         "Mobile",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-automate-virtual-machine-software-installation-configuration.md",
-      "title": "Automate the installation and configuration of software in your Virtual Machines",
-      "excerpt": "Learn how to automate the installation and configuration of software in your Azure Virtual Machines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-virtual-machine-software-installation-configuration/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-virtual-machine-software-installation-configuration/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 14,
-        "average": 4.285714
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-in-action.md",
-      "title": "See Azure in action",
-      "excerpt": "The demos in this module provide an opportunity to see Azure in action.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-in-action/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-in-action/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 2206,
-        "average": 4.700816
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-in-action-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Databases",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-api-azure-functions.md",
-      "title": "Build Serverless APIs with Azure Functions",
-      "excerpt": "Use Visual Studio Code to build a JavaScript and Vue.js dashboard with a Serverless API powered by Azure Functions, Node.js and Cosmos DB.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-api-azure-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 277,
-        "average": 4.6859207
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-api-azure-functions-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-webapp-java-tomcat.md",
-      "title": "Deploy a Java web app to Azure",
-      "excerpt": "You'll learn how to create a Java web application and deploy it to Azure App Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-webapp-java-tomcat/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-java-webapp-to-app-service-linux/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 41,
-        "average": 4.6829267
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-application-kubernetes-arc.md",
-      "title": "Implement Azure App Service on Kubernetes with Arc",
-      "excerpt": "Azure App Service on Kubernetes with Azure Arc enables implementation of Azure application-platform services on customer-managed, Arc-onboarded Kubernetes clusters. Azure App Service is one you can implement.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-application-kubernetes-arc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-application-kubernetes-arc/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 5,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Compute"
       ]
     }
   ],

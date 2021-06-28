@@ -4,6 +4,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-api-management.md",
+      "title": "Introduction to Azure API Management",
+      "excerpt": "Evaluate whether Azure API Management is appropriate for managing and exposing your organization's APIs",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-api-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-api-management/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 6,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management.md",
       "title": "Publish and manage your APIs with Azure API Management",
       "excerpt": "Learn about using an Azure API gateway to share APIs with partners, and how to use subscription keys to control access to your APIs.",
@@ -48,14 +92,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-app-service-web-apps-azure-friday.md",
-      "title": "Azure App Service Web Apps | Azure Friday",
-      "excerpt": "Byron Tardif joins Scott Hanselman to discuss Azure App Service Web Apps, the best way to build and host web applications in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-app-service-web-apps-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-app-service-web-apps-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=jCfJWYocz1M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jCfJWYocz1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M33S",
+      "path": "_learning/videos/microsoft-how-to-clone-web-apps-using-azure-app-services-azure-tips-and-tricks.md",
+      "title": "How to clone web apps using Azure App Services | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to clone web apps using Azure App Services. If you have an existing application in Azure App Service that you want copied to another region, you can easily clone it by searching for \"clone\" instead of application instance.   For more tips and",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-clone-web-apps-using-azure-app-services-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-clone-web-apps-using-azure-app-services-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=23kFf-GnJoc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/23kFf-GnJoc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M19S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -68,11 +112,11 @@
           }
         ]
       },
-      "publishedDateTime": "2018-08-14T14:03:24-07:00",
+      "publishedDateTime": "2018-10-11T10:09:17-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/jCfJWYocz1M/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/23kFf-GnJoc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -83,7 +127,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
         "Web"
       ]
     },
@@ -749,6 +792,51 @@
         "Azure",
         "Integration",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-accelerate-scale-spring-boot-application-azure-cache-redis.md",
+      "title": "Accelerate and scale a Spring Boot application with Azure Cache for Redis",
+      "excerpt": "In this module, you'll learn what Azure Cache for Redis is, and how to use it with a Java and Spring Boot application. You'll use it to cache some business data using Spring Data Redis, and also to store HTTP session data using Spring Session.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-accelerate-scale-spring-boot-application-azure-cache-redis/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/accelerate-scale-spring-boot-application-azure-cache-redis/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 22,
+        "average": 4.9545455
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Databases"
       ]
     },
     {
@@ -1514,50 +1602,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-azure-api-management.md",
-      "title": "Introduction to Azure API Management",
-      "excerpt": "Evaluate whether Azure API Management is appropriate for managing and exposing your organization's APIs",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-api-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-api-management/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 6,
-        "average": 4.6666665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-java-target-destinations.md",
       "title": "Choose an Azure service for deploying your Java application",
       "excerpt": "In this tutorial, you'll learn about running your Java applications on Azure, and choose the best option between Virtual Machines, Azure App Services, Serverless functions, Kubernetes and Azure Spring Cloud.",
@@ -1736,50 +1780,6 @@
         "Web",
         "Migration",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-models-data.md",
-      "title": "Work with models and data in Django",
-      "excerpt": "Explore models and data in Django. Learn about the object-relational mapper, create your own models, and set up a database.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-models-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/django-models-data/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 26,
-        "average": 4.8846154
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
       ]
     }
   ],

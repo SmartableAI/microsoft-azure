@@ -4,6 +4,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-m365-threat-safeguard.md",
+      "title": "Safeguard your environment with Azure Advanced Threat Protection",
+      "excerpt": "Learn about the Azure Advanced Threat Protection component of Microsoft Threat Protection.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-threat-safeguard/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 2313,
+        "average": 4.831388
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/safeguard-your-environment-with-microsoft-azure-advanced-threat-protection-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-sc-900-part-1-describe-the-concepts-of-security-compliance-and-identity.md",
       "title": "SC-900 part 1: Describe the concepts of security, compliance, and identity",
       "excerpt": "SC-900 part 1: Describe the concepts of security, compliance, and identity",
@@ -77,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
           "length": "PT20M",
           "ratings": {
-            "count": 394,
-            "average": 4.8807106
+            "count": 396,
+            "average": 4.878788
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -140,8 +183,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
       "length": "PT29M",
       "ratings": {
-        "count": 276,
-        "average": 4.8369565
+        "count": 277,
+        "average": 4.837545
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -183,8 +226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
       "length": "PT20M",
       "ratings": {
-        "count": 394,
-        "average": 4.8807106
+        "count": 396,
+        "average": 4.878788
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -226,8 +269,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/",
       "length": "PT34M",
       "ratings": {
-        "count": 1037,
-        "average": 4.795564
+        "count": 1038,
+        "average": 4.795761
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -570,8 +613,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-permissions-consent/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 186,
-        "average": 4.72043
+        "count": 187,
+        "average": 4.7219253
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -613,8 +656,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-users-groups-approles/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 214,
-        "average": 4.7850466
+        "count": 215,
+        "average": 4.7860465
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -985,6 +1028,45 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-azure-ad-managed-service-identity-azure-friday.md",
+      "title": "Azure AD Managed Service Identity | Azure Friday",
+      "excerpt": "Arturo Lucatero joins Donovan Brown to discuss Azure AD Managed Service Identity, which can be used to authenticate to any service that supports Azure AD authentication. For more information, see: What is Managed Service Identity (MSI) for Azure resources? (docs): https://docs.microsoft.com/azure/active-directory/managed-service-identity/overview",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-ad-managed-service-identity-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-ad-managed-service-identity-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=bBi1bll2928",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bBi1bll2928\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M11S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-14T14:03:31-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bBi1bll2928/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-power-automate.md",
       "title": "Explore Power Automate",
       "excerpt": "Explore Power Automate",
@@ -1078,8 +1160,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-secure-custom-api/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 166,
-        "average": 4.7168674
+        "count": 167,
+        "average": 4.718563
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1275,218 +1357,6 @@
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-ad-managed-service-identity-azure-friday.md",
-      "title": "Azure AD Managed Service Identity | Azure Friday",
-      "excerpt": "Arturo Lucatero joins Donovan Brown to discuss Azure AD Managed Service Identity, which can be used to authenticate to any service that supports Azure AD authentication. For more information, see: What is Managed Service Identity (MSI) for Azure resources? (docs): https://docs.microsoft.com/azure/active-directory/managed-service-identity/overview",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-ad-managed-service-identity-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-ad-managed-service-identity-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=bBi1bll2928",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bBi1bll2928\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M11S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-08-14T14:03:31-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bBi1bll2928/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-implement-access-management-for-apps.md",
-      "title": "Implement Access Management for Apps",
-      "excerpt": "Implement Access Management for Apps",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-access-management-for-apps/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-access-management-for-apps/",
-      "length": "PT2H7M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-plan-design-integration-of-enterprise-apps-for-sso.md",
-          "title": "Plan and design the integration of enterprise apps for SSO",
-          "excerpt": "Plan and design the integration of enterprise apps for SSO",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-design-integration-of-enterprise-apps-for-sso/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 185,
-            "average": 4.816216
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity",
-            "Integration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-implement-monitor-integration-of-enterprise-apps-for-sso.md",
-          "title": "Implement and monitor the integration of enterprise apps for SSO",
-          "excerpt": "Implement and monitor the integration of enterprise apps for SSO",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-monitor-integration-of-enterprise-apps-for-sso/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/",
-          "length": "PT38M",
-          "ratings": {
-            "count": 195,
-            "average": 4.794872
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity",
-            "Integration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-implement-app-registration.md",
-          "title": "Implement app registration",
-          "excerpt": "Implement app registration",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-app-registration/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/",
-          "length": "PT54M",
-          "ratings": {
-            "count": 252,
-            "average": 4.7380953
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",

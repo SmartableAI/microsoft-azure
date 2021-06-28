@@ -4,6 +4,46 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series.md",
+      "title": "How to use Azure Monitor workbooks | Azure Portal Series",
+      "excerpt": "In this video of the Azure Portal “How To” Series, Azure Program Managers Leon Welicki and Shikha Jain show us how workbooks provide a flexible canvas for data analysis and the creation of rich visual reports within the Azure portal. Learn how workbooks allow you to tap into multiple data sources from",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=Z5xRyy3HB8U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z5xRyy3HB8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M45S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-11T08:05:44-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Z5xRyy3HB8U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-monitor-data-factory-pipelines-using-azure-monitor-and-log-analytics-azure-friday.md",
       "title": "Monitor Data Factory pipelines using Azure Monitor and Log Analytics | Azure Friday",
       "excerpt": "NOTE  Throughout this episode there are multiple references to Operations Management Suite; however, this solution actually uses Azure Monitor and Log Analytics.  Gaurav Malhotra joins Scott Hanselman to discuss Azure Data Factory (ADF) integration with Azure Monitor, which enables you to route your",
@@ -40,6 +80,45 @@
       "topics": [
         "Azure",
         "Analytics",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-what-is-the-difference-between-vsts-and-azure-devops-one-dev-question-abel-wang.md",
+      "title": "What is the difference between VSTS and Azure DevOps? | One Dev Question: Abel Wang",
+      "excerpt": "In the One Dev Question series, Cloud Developer Advocate Abel Wang explains how Azure DevOps provides developer services to support teams to plan work, collaborate on code development, and build and deploy applications. In this video, Abel explains the differences between VSTS and Azure DevOps.   Get",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-is-the-difference-between-vsts-and-azure-devops-one-dev-question-abel-wang/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-is-the-difference-between-vsts-and-azure-devops-one-dev-question-abel-wang/",
+      "originalUrl": "https://youtube.com/watch?v=x9IeTQAau3Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x9IeTQAau3Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M45S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-06-26T08:02:24-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/x9IeTQAau3Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "DevOps"
       ]
     },
@@ -1544,84 +1623,6 @@
         "DevOps",
         "Management Tools",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-provision-databases-azure-pipelines.md",
-      "title": "Provision databases in Azure Pipelines",
-      "excerpt": "Provision databases in Azure Pipelines",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-databases-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-database-azure-pipelines/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/provision-database-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines.md",
-      "title": "Provision infrastructure in Azure Pipelines",
-      "excerpt": "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-infrastructure-azure-pipelines/",
-      "length": "PT2H2M",
-      "ratings": {
-        "count": 479,
-        "average": 4.6889353
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
       ]
     }
   ],

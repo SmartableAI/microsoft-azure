@@ -4,13 +4,14 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/collections/microsoft-one-dev-question-on-azure.md",
-      "title": "One Dev Question on Azure",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-one-dev-question-on-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-one-dev-question-on-azure/",
+      "path": "_learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot.md",
+      "title": "Working with Connected Field Service for Dynamics 365 and Azure IoT",
+      "excerpt": "This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot/",
+      "length": "PT6H13M",
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -21,18 +22,23 @@
           }
         ]
       },
+      "levels": [
+        "Intermediate"
+      ],
       "topItems": [
         {
-          "path": "_learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal.md",
-          "title": "The relationship between an authorization request and tokens | One Dev Question: Hirsch Singhal",
-          "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains how authorization requests are connected to access tokens and refresh tokens.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-protocols?WT.mc_id=onedevquestion-c9-AzureIdent",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal/",
-          "originalUrl": "https://youtube.com/watch?v=jEEwN7XAtUo",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jEEwN7XAtUo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1M46S",
+          "path": "_learning/courses/microsoft-learn-get-started-with-connected-field-service.md",
+          "title": "Get started with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "This module will focus on the initial deployment of the Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through the installation and an understanding of the components installed as part of the out of the box template application.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-connected-field-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-connected-field-service/",
+          "length": "PT1H6M",
+          "ratings": {
+            "count": 96,
+            "average": 4.7395835
+          },
           "provider": {
-            "name": "Microsoft",
+            "name": "Microsoft Learn",
             "domain": "microsoft.com",
             "images": [
               {
@@ -43,34 +49,31 @@
               }
             ]
           },
-          "publishedDateTime": "2020-07-01T08:04:20-07:00",
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/jEEwN7XAtUo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
           "content": "\r\n",
-          "type": "video",
+          "type": "course",
           "price": "Free",
           "topics": [
-            "Azure"
+            "Azure",
+            "IoT"
           ]
         },
         {
-          "path": "_learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero.md",
-          "title": "What types of managed identities exist? | One Dev Question: Arturo Lucatero",
-          "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on managed identities for Azure resources, explains the different types of managed identities in the Microsoft identity platform.   For more information, visit: https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero/",
-          "originalUrl": "https://youtube.com/watch?v=OzqpxeD3fG0",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OzqpxeD3fG0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1M10S",
+          "path": "_learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment.md",
+          "title": "Remotely monitor and service equipment with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "Configure IoT devices to remotely monitor customer equipment.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-and-service-customer-equipment/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 83,
+            "average": 4.7228913
+          },
           "provider": {
-            "name": "Microsoft",
+            "name": "Microsoft Learn",
             "domain": "microsoft.com",
             "images": [
               {
@@ -81,114 +84,97 @@
               }
             ]
           },
-          "publishedDateTime": "2020-06-30T08:05:33-07:00",
-          "heat": 49,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/OzqpxeD3fG0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
+          "levels": [
+            "Intermediate"
           ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal.md",
-          "title": "The difference between, ID, access, refresh, and session tokens? | One Dev Question: Hirsch Singhal",
-          "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains the difference between identity, access, refresh, and session tokens.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/access-tokens?WT.mc_id=onedevquestion-c9-AzureIdent",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal/",
-          "originalUrl": "https://youtube.com/watch?v=41vmzPdbfXM",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/41vmzPdbfXM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT2M11S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-06-29T08:03:22-07:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/41vmzPdbfXM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero.md",
-          "title": "What types of Azure RBAC role definitions exist? | One Dev Question: Arturo Lucatero",
-          "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on Azure role-based access control (RBAC), explains the various types of Azure role-based access control definitions.    For more information, visit: https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero/",
-          "originalUrl": "https://youtube.com/watch?v=I1mefHptRgo",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I1mefHptRgo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1M25S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-06-25T08:03:44-07:00",
           "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/I1mefHptRgo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
           "content": "\r\n",
-          "type": "video",
+          "type": "course",
           "price": "Free",
           "topics": [
-            "Azure"
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service.md",
+          "title": "Register and manage devices with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "Register and Manage Customer Devices with Connected Field Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-manage-customer-devices-with-connected-field-service/",
+          "length": "PT1H26M",
+          "ratings": {
+            "count": 62,
+            "average": 4.725806
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-using-iot-central-with-connected-field-service.md",
+          "title": "Using IoT Central with Connected Field Service for Dynamics 365",
+          "excerpt": "This module will focus on using IoT Central with Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through building an IoT Central application and escalating the alerts into Dynamics 365.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-using-iot-central-with-connected-field-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/using-iot-central-with-connected-field-service/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 61,
+            "average": 4.6885247
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
           ]
         }
       ],
-      "size": 65,
+      "size": 5,
       "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jEEwN7XAtUo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "collection",
+      "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "IoT"
       ]
     },
     {
@@ -222,8 +208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 6912,
-            "average": 4.7055845
+            "count": 6913,
+            "average": 4.705627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -264,8 +250,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
           "length": "PT58M",
           "ratings": {
-            "count": 6120,
-            "average": 4.704085
+            "count": 6121,
+            "average": 4.7041335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -307,8 +293,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 6535,
-            "average": 4.736343
+            "count": 6537,
+            "average": 4.7364235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -603,8 +589,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
           "length": "PT20M",
           "ratings": {
-            "count": 394,
-            "average": 4.8807106
+            "count": 396,
+            "average": 4.878788
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1583,177 +1569,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-identify-guiding-principles-for-responsible-ai-in-government.md",
-      "title": "Identify guiding principles for responsible AI in government",
-      "excerpt": "It's imperative to reflect on the implications of AI in Government. Discover guidelines to set up principles and a governance model in your organization.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-identify-guiding-principles-for-responsible-ai-in-government/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-identify-guiding-principles-for-responsible-ai-in-government/",
-      "length": "PT2H55M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-responsible-ai-guiding-principles.md",
-          "title": "Identify guiding principles for responsible AI",
-          "excerpt": "Explore six principles to guide AI development and use - fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-guiding-principles/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/",
-          "length": "PT56M",
-          "ratings": {
-            "count": 1144,
-            "average": 4.6765733
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-responsible-ai-governing-practices-government.md",
-          "title": "Identify governing practices for responsible AI in government",
-          "excerpt": "Learn guiding principles for governments, and how to choose and operationalize a governance system to responsibly and successfully use AI in the public sector.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-governing-practices-government/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices-government/",
-          "length": "PT42M",
-          "ratings": {
-            "count": 307,
-            "average": 4.781759
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 130,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-governing-practices-government-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-microsoft-responsible-ai-practices.md",
-          "title": "Discuss practices for responsible AI at Microsoft",
-          "excerpt": "Discover how to translate your organization’s ethical principles into actionable guidance and tools for engineering teams and how AI can improve lives worldwide",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microsoft-responsible-ai-practices/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/",
-          "length": "PT1H17M",
-          "ratings": {
-            "count": 516,
-            "average": 4.7248063
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/microsoft-responsible-ai-practices-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-introduction-to-ai-technology-for-business-leaders.md",
       "title": "Introduction to AI technology for business leaders",
       "excerpt": "This learning path helps business leaders discover and describe the primary concepts of AI, and the transformational impact AI can have in their organization.",
@@ -2127,8 +1942,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-bot-conversation-flow/",
           "length": "PT32M",
           "ratings": {
-            "count": 97,
-            "average": 4.804124
+            "count": 98,
+            "average": 4.7959185
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2257,8 +2072,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/",
           "length": "PT25M",
           "ratings": {
-            "count": 1576,
-            "average": 4.6624365
+            "count": 1577,
+            "average": 4.6626506
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2300,8 +2115,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2750,
-            "average": 4.4756365
+            "count": 2751,
+            "average": 4.4758267
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2508,8 +2323,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10820,
-            "average": 4.679205
+            "count": 10821,
+            "average": 4.679235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2562,89 +2377,6 @@
         "Management Tools",
         "Storage",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-run-vmware-workloads-on-azure-vmware-solution.md",
-      "title": "Run VMware workloads on Azure VMware Solution",
-      "excerpt": "Learn about Azure VMware Solution, how to deploy the resource, and how to migrate VMware virtual machines on-premises.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-run-vmware-workloads-on-azure-vmware-solution/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-run-vmware-workloads-on-azure-vmware-solution/",
-      "length": "PT2H10M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-vmware-workloads-on-premises-azure-vmware-solution.md",
-          "title": "Migrate VMware workloads on-premises to Azure VMware Solution",
-          "excerpt": "Learn how to migrate virtual machines from an on-premises VMware environment to Azure VMware Solution by using VMware HCX.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-vmware-workloads-on-premises-azure-vmware-solution/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-vmware-workloads-on-premises-azure-vmware-solution/",
-          "length": "PT53M",
-          "ratings": {
-            "count": 7,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-vmware-workloads-on-premises-azure-vmware-solution-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 1,
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-vmware-workloads-on-premises-azure-vmware-solution-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     },
     {
@@ -2764,8 +2496,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-threat-hunting-sentinel-with-notebooks/",
           "length": "PT31M",
           "ratings": {
-            "count": 56,
-            "average": 4.857143
+            "count": 57,
+            "average": 4.859649
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3795,6 +3527,177 @@
       "topics": [
         "Azure",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-identify-guiding-principles-for-responsible-ai-in-government.md",
+      "title": "Identify guiding principles for responsible AI in government",
+      "excerpt": "It's imperative to reflect on the implications of AI in Government. Discover guidelines to set up principles and a governance model in your organization.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-identify-guiding-principles-for-responsible-ai-in-government/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-identify-guiding-principles-for-responsible-ai-in-government/",
+      "length": "PT2H55M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-responsible-ai-guiding-principles.md",
+          "title": "Identify guiding principles for responsible AI",
+          "excerpt": "Explore six principles to guide AI development and use - fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-guiding-principles/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/",
+          "length": "PT56M",
+          "ratings": {
+            "count": 1144,
+            "average": 4.6765733
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-responsible-ai-governing-practices-government.md",
+          "title": "Identify governing practices for responsible AI in government",
+          "excerpt": "Learn guiding principles for governments, and how to choose and operationalize a governance system to responsibly and successfully use AI in the public sector.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-governing-practices-government/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices-government/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 307,
+            "average": 4.781759
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-governing-practices-government-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-microsoft-responsible-ai-practices.md",
+          "title": "Discuss practices for responsible AI at Microsoft",
+          "excerpt": "Discover how to translate your organization’s ethical principles into actionable guidance and tools for engineering teams and how AI can improve lives worldwide",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microsoft-responsible-ai-practices/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/",
+          "length": "PT1H17M",
+          "ratings": {
+            "count": 516,
+            "average": 4.7248063
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/microsoft-responsible-ai-practices-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     },
     {
@@ -4835,6 +4738,140 @@
         "AI",
         "Developer Tools",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-implement-windows-server-iaas-vm-identity.md",
+      "title": "Implement Windows Server IaaS VM Identity",
+      "excerpt": "After completing this learning path, you’ll know how to implement identity in Azure. You’ll be able to extend an existing on-premises Active Directory identity service into Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-windows-server-iaas-vm-identity/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-windows-server-iaas-vm-identity/",
+      "length": "PT2H28M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-implement-hybrid-identity-with-windows-server.md",
+          "title": "Implement hybrid identity with Windows Server",
+          "excerpt": "Implement hybrid identity with Windows Server",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-hybrid-identity-with-windows-server/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-identity-windows-server/",
+          "length": "PT1H49M",
+          "ratings": {
+            "count": 60,
+            "average": 4.633333
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-identity-with-windows-server-social.png",
+              "width": 642,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity",
+            "Management Tools",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure.md",
+          "title": "Deploy and manage Azure IaaS Active Directory domain controllers in Azure",
+          "excerpt": "Deploy and manage Azure IaaS active directory domain controllers in Azure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-manage-azure-iaas-active-directory-domain-controllers-azure/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 45,
+            "average": 4.711111
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/deploy-and-manage-azure-iaas-active-directory-domain-controllers-in-azure-social.png",
+              "width": 642,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity",
+            "Management Tools",
+            "Compute"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-identity-with-windows-server-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Management Tools",
+        "Compute"
       ]
     }
   ],

@@ -4,6 +4,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-deploy-mariadb-mysql-postgresql-azure.md",
+      "title": "Deploy MariaDB, MySQL, and PostgreSQL on Azure",
+      "excerpt": "Compare Open Source Azure Database offerings with Azure SQL Server offerings. Configure an Open Source database and configure high availability and security options.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-mariadb-mysql-postgresql-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-mariadb-mysql-postgresql-azure/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 2533,
+        "average": 4.7674694
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-mariadb-mysql-and-postgresql-on-azure-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-sql-server-virtual-machine.md",
       "title": "Deploy SQL Server in a virtual machine",
       "excerpt": "Configure virtual machine sizing, storage, and networking options to ensure adequate performance for your database workloads. Choose and configure appropriate high availability options. Investigate options for migrating existing workloads.",
@@ -368,8 +411,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evaluate-performance-improvements/",
       "length": "PT30M",
       "ratings": {
-        "count": 653,
-        "average": 4.7810106
+        "count": 654,
+        "average": 4.7813454
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1216,49 +1259,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/model-partition-data-azure-cosmos-db-social.png",
           "width": 641,
           "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-modify-data-with-transact-sql.md",
-      "title": "Modify data with T-SQL",
-      "excerpt": "Modify data with T-SQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-modify-data-with-transact-sql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modify-data-with-transact-sql/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 58,
-        "average": 4.913793
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],

@@ -4,6 +4,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-distribute-load-with-traffic-manager.md",
+      "title": "Enhance your service availability and data locality by using Azure Traffic Manager",
+      "excerpt": "Discover how Azure Traffic Manager provides DNS load balancing for your application to improve the performance and availability of your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-load-with-traffic-manager/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 3072,
+        "average": 4.626953
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/distribute-load-with-traffic-manager-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
       "title": "Encrypt network traffic end to end with Azure Application Gateway",
       "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
@@ -54,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
       "length": "PT24M",
       "ratings": {
-        "count": 2335,
-        "average": 4.7892933
+        "count": 2336,
+        "average": 4.7893834
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -138,8 +181,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "PT47M",
       "ratings": {
-        "count": 3990,
-        "average": 4.765915
+        "count": 3992,
+        "average": 4.766032
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -181,8 +224,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 3252,
-        "average": 4.712485
+        "count": 3253,
+        "average": 4.712573
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -224,8 +267,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
       "length": "PT50M",
       "ratings": {
-        "count": 976,
-        "average": 4.781762
+        "count": 981,
+        "average": 4.781855
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -310,8 +353,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
       "length": "PT59M",
       "ratings": {
-        "count": 1616,
-        "average": 4.582302
+        "count": 1617,
+        "average": 4.58256
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -383,6 +426,44 @@
       ],
       "content": "\r\n",
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-is-azure-free-account-really-free-azure-tips-and-tricks.md",
+      "title": "Is Azure Free Account really free? | Azure Tips and Tricks",
+      "excerpt": "In this video of Azure Tips and Tricks, you'll learn how to use Microsoft Azure for free, for 12 months. \r  For more tips and tricks, visit: http://azuredev.tips  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: http://azure.com/free",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-is-azure-free-account-really-free-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-is-azure-free-account-really-free-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=0KEfaUfolVs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0KEfaUfolVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M32S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-01-21T08:27:40-08:00",
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0KEfaUfolVs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Azure"
@@ -551,8 +632,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 2441,
-            "average": 4.6648912
+            "count": 2442,
+            "average": 4.6650286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -852,8 +933,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
           "length": "PT29M",
           "ratings": {
-            "count": 779,
-            "average": 4.7958922
+            "count": 780,
+            "average": 4.796154
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1101,8 +1182,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/",
           "length": "PT32M",
           "ratings": {
-            "count": 1117,
-            "average": 4.751119
+            "count": 1118,
+            "average": 4.751342
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1143,8 +1224,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/",
           "length": "PT34M",
           "ratings": {
-            "count": 851,
-            "average": 4.741481
+            "count": 852,
+            "average": 4.741784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1310,8 +1391,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/",
           "length": "PT32M",
           "ratings": {
-            "count": 1117,
-            "average": 4.751119
+            "count": 1118,
+            "average": 4.751342
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1352,8 +1433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/",
           "length": "PT34M",
           "ratings": {
-            "count": 851,
-            "average": 4.741481
+            "count": 852,
+            "average": 4.741784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1477,8 +1558,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
           "length": "PT49M",
           "ratings": {
-            "count": 1274,
-            "average": 4.748038
+            "count": 1275,
+            "average": 4.748235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1734,8 +1815,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-multiple-tables-with-joins/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 72,
-            "average": 4.861111
+            "count": 73,
+            "average": 4.8630137
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1872,6 +1953,209 @@
       "topics": [
         "Azure",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-get-started-with-blockchain-development.md",
+      "title": "Get started with blockchain development",
+      "excerpt": "Learn about blockchain and development on the Ethereum platform. Discover what skills you need to begin building your own blockchain networks at scale.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-get-started-with-blockchain-development/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-get-started-with-blockchain-development/",
+      "length": "PT2H3M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-azure-intro-to-blockchain.md",
+          "title": "Introduction to blockchain on Azure",
+          "excerpt": "Introduction to blockchain on Azure. See how blockchain allows business partners to trust each other's data without a central authority. You'll also learn a bit about how blockchain works. The goal is to help you decide if blockchain is a good choice for your scenario.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-intro-to-blockchain/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-blockchain/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 389,
+            "average": 4.802057
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Blockchain"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-blockchain-learning-solidity.md",
+          "title": "Learn how to use Solidity",
+          "excerpt": "Discover how Solidity can help you program smart contracts for the Ethereum blockchain platform.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-blockchain-learning-solidity/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/blockchain-learning-solidity/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 134,
+            "average": 4.7910447
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-blockchain-solidity-ethereum-smart-contracts.md",
+          "title": "Write Ethereum smart contracts by using Solidity",
+          "excerpt": "Learn how to install tools that you can use to develop smart contracts.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-blockchain-solidity-ethereum-smart-contracts/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/blockchain-solidity-ethereum-smart-contracts/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 83,
+            "average": 4.686747
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-blockchain-tokens.md",
+          "title": "Create tokens using OpenZeppelin",
+          "excerpt": "Learn about the significance of tokens and how they are used in blockchain.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-blockchain-tokens/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/blockchain-tokens/",
+          "length": "PT31M",
+          "ratings": {
+            "count": 60,
+            "average": 4.9
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/reactors/blockchain-tokens-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Blockchain"
       ]
     },
     {
@@ -2159,8 +2443,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6718,
-            "average": 4.641262
+            "count": 6720,
+            "average": 4.641369
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2580,8 +2864,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-computer-vision-service-to-classify-images/",
           "length": "PT32M",
           "ratings": {
-            "count": 1550,
-            "average": 4.6625805
+            "count": 1551,
+            "average": 4.6627984
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2616,8 +2900,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/",
           "length": "PT37M",
           "ratings": {
-            "count": 1635,
-            "average": 4.6782875
+            "count": 1636,
+            "average": 4.678484
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3332,6 +3616,194 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-one-dev-question-on-azure.md",
+      "title": "One Dev Question on Azure",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-one-dev-question-on-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-one-dev-question-on-azure/",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal.md",
+          "title": "The relationship between an authorization request and tokens | One Dev Question: Hirsch Singhal",
+          "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains how authorization requests are connected to access tokens and refresh tokens.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-protocols?WT.mc_id=onedevquestion-c9-AzureIdent",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal/",
+          "originalUrl": "https://youtube.com/watch?v=jEEwN7XAtUo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jEEwN7XAtUo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1M46S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-07-01T08:04:20-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/jEEwN7XAtUo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero.md",
+          "title": "What types of managed identities exist? | One Dev Question: Arturo Lucatero",
+          "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on managed identities for Azure resources, explains the different types of managed identities in the Microsoft identity platform.   For more information, visit: https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero/",
+          "originalUrl": "https://youtube.com/watch?v=OzqpxeD3fG0",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OzqpxeD3fG0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1M10S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-06-30T08:05:33-07:00",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/OzqpxeD3fG0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal.md",
+          "title": "The difference between, ID, access, refresh, and session tokens? | One Dev Question: Hirsch Singhal",
+          "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains the difference between identity, access, refresh, and session tokens.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/access-tokens?WT.mc_id=onedevquestion-c9-AzureIdent",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal/",
+          "originalUrl": "https://youtube.com/watch?v=41vmzPdbfXM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/41vmzPdbfXM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT2M11S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-06-29T08:03:22-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/41vmzPdbfXM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero.md",
+          "title": "What types of Azure RBAC role definitions exist? | One Dev Question: Arturo Lucatero",
+          "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on Azure role-based access control (RBAC), explains the various types of Azure role-based access control definitions.    For more information, visit: https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero/",
+          "originalUrl": "https://youtube.com/watch?v=I1mefHptRgo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I1mefHptRgo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1M25S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-06-25T08:03:44-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/I1mefHptRgo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 65,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jEEwN7XAtUo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines.md",
       "title": "Add and size disks in Azure virtual machines",
       "excerpt": "Learn about your virtual machine storage options and how to choose between standard and premium, managed and unmanaged disks for your Azure virtual machine.",
@@ -3339,8 +3811,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
       "length": "PT36M",
       "ratings": {
-        "count": 215,
-        "average": 4.7906976
+        "count": 216,
+        "average": 4.7916665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3409,8 +3881,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 6479,
-        "average": 4.6371355
+        "count": 6480,
+        "average": 4.6371913
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3443,167 +3915,6 @@
         "Azure",
         "Storage",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
-      "title": "Design a geographically distributed application",
-      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 991,
-        "average": 4.70333
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 61,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Web",
-        "Compute",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
-      "title": "Execute an Azure Function with triggers",
-      "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
-      "length": "PT1H23M",
-      "ratings": {
-        "count": 5126,
-        "average": 4.730004
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-data-storage-processing-azure.md",
-      "title": "Explore data storage and processing in Azure",
-      "excerpt": "Explore data storage and processing in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-data-storage-processing-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 1827,
-        "average": 4.726875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-data-storage-processing-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-host-domain-azure-dns.md",
-      "title": "Host your domain on Azure DNS",
-      "excerpt": "Learn how to host your domain on Azure DNS.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-domain-azure-dns/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 4135,
-        "average": 4.8058043
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/host-domain-azure-dns-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     }
   ],
