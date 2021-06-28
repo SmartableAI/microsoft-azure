@@ -4,7 +4,7 @@ excerpt: "The reliability of your systems, services and products has a direct im
 type: collection
 price: Free
 length: PT2H50M
-heat: 72
+heat: 67
 
 provider:
   name: Microsoft Learn

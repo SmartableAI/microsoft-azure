@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT26M
 ratings:
-  count: 356
-  average: 4.741573
-heat: 58
+  count: 357
+  average: 4.7422967
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - IoT
   - Security
 
-secured: "Iodp2Di7MEWKr3hoM/BKLCcwA4Az5z7wLSrOjHGVQ+irv4maVeSD0EzW5L3fjYXil6qQkATQWx/a8I6ZMN9gG72jUk4CSil111KeJEeIucNJaTA/pw0zKStpB5AcuvybF2DmRHN9LJ0xvHCwrqVWM+mWGHmTb0AUYtWgQkcOrEJrMzdbXwxdT5aEjnGWlOFaedlxWFMHNZngeVUQxua1Sf7VxW6F80K0BwiuhDAPycYCe3rqNh6GwN59L0WTqdEITKin6rRcIdNcA1Fg6xtICEyoHrbmpe25gCx9j5KtoimkYgdg/gEYWD7AsT7BD/9lkiiVyIYmV2iZeg6moYe8A5SKoiFKsgXxDeSO2TYvEQL5pKG9wKhE42DlL5VJTm9crefexOKT2oflbXUgl5old0K5ne9P1mLoAFYYu5BycUE=;OhCpF8VQhBWv0yH9izYKTA=="
+secured: "BhvEt1H9D2VcNOW+CwUDzmHWpLI9IIBuEsqc8IGI2T3qGxD+xd24P2YE6GYVcxizCIkGtQc4PLXAnJmuS4G/XfmH1yAGc4Pgwn1WB4r+h1/a/qbKc3U7NNVekM0XGyQ4gX6sNIwUUt5pGNhslmxH3RmjVcKiAdIlbFRQlHize5mIx7suU7DRLorGThSXdlfpa79wsZ/pFQHrrQ539828n9TgyqUyHSGam/bYcmhwmLu6Vbdfv78LacwnB0pI32rZLfvVI8sQnGXGHtMtsu1FgqViSEDVF8AUI8crB6fOTzPVcOf/KVhmlpzfQ0asMCSNWdJOQjS+6H2BRw8XTmdXjjvykffPjwlooha7nGCDmd6+evhCOGgl+Kx8Wu4UnSI+9DCjCOX0B3mTBXJ/Sk8cQgL0t5is9FofZ35+Zl64Ias=;aA9E1u8sS0s2mcd5f+dFPw=="
 ---
 

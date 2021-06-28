@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT48M
 ratings:
-  count: 6997
-  average: 4.71745
-heat: 74
+  count: 7000
+  average: 4.7174287
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Containers
   - Databases
 
-secured: "VTE4I/MUtf5sih+h1rqUwhsBLmFYzN6Fn7/uvj5WXBeTpH1bMClVf5dc0RN+SShYEl43gz4ct5EeodWhzqu6P9llr12tKPQiTM/e/lsIpRRWIU3CngPKh+MDw6zC91hxfvLONqtm7B0+ih3tGagQVgDAVGPoMzh9NG6YqHpf3MUQZFS//6D3uR5PwugFY2aX1y3geNc2CEcZAue/QS8jQIAwnVNJgwxez044qEBlps6nbSI7YK2o5iGMyOeJV0fHUhbPnWnwtIpV6pXJIDc8hInTBpe8a3+U9/0hUkHhSQaQL0XJ/h5m6wel5NnWOlzWmJz1BZyJPFuHoptIYHLFV19l7aAzoBmesfMJQWoOvGr5HvZTpdAfxAcohlBcCSgv0ZdDes0wxEyUSANNuhSyPkWGkGDUaR+XttE99Aa+xlU=;FUO+HhxC9gDNkAQXCw2CEw=="
+secured: "433NMExzvXpuhPjkX+qUU/oVod1mBP/UzILRax8cJxZcUlP95rfurqbTOAnFsOS6/CvxzswVZbs6/SBxylZTCz4voVJ1Vmx09Yqix3Vipp4G1uNu43NY43HFNUn/eD1Fe85YKd8KQ++Cqn/5ZRGQ1FcNj9K6QDuivfwIYH1d4QX7+OmrgcVLvjSr/WhNDA+aQfORVg/kw4ITPG8a7omEeyAm/kqYOC+aJiO8ih6tMGrKb93ytWSuEAc3DkN13P3tnBIDspP6Ly/LIXfSZHOA6Uz8yP7bOl8sdkoq9XyUmeiV29xYms3eJK/Vjbq7ZIhPNOWGcn+wzKGjEGlL76KKFkJadF8+NOSagPDIFJpYvMYReP88Xi/jPluRc+E3tOpiMQWUpiMpYqbLFLPIoT1WzslKpWBCWNRayFPXgGKI8Tw=;hjjw/5iAI9OUzaEI1xyB/Q=="
 ---
 
