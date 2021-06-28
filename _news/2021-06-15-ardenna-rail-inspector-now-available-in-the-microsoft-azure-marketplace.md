@@ -575,13 +575,13 @@ related:
       domain: businesswire.com
     quality: 3
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
-    publishedDateTime: 2021-06-16T18:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-16T18:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 2
   - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
     excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
@@ -629,6 +629,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "UOiHDeUu81xfnIoZKFodV8zZMBzzzM+awKj/70IQ1uY5mZb80Dwh97nflgXnhQDWIXldtGD98otYiDsfIHdfJGWzgH/TKgl4bgzuHvClT49KSa4vnsQF9nvd2wy1fl1eql6rDAC3GcRZJ9wp9sgmFTgulZLI8JTkrrR1IMF3cmygeC0SYJ1n638TTVKwBp6ih/TVSmcgsHfL5T2b85fFKNAgeDtGNKV225Ha+hQyYlYbLqYYFUOqBIuLEzIzWnrH/aUO7ffQzlXceQ6dGXzfVpoSF+hNWWcuIjzWCO0pVJG/mpG7lV7efw3JZlcnGLpUwGND6ldQfZW3yWrra/eXFvL/jEDQ+YV8Nt9oz3BNBMs=;zO7vpsHQkBOTOi8BthAiCg=="
+secured: "CROvKganb4USwSUACBy0dSi4bxcGFdEcR+5cznJc6FDyxOLsVg5Kl0xZyNErrwJNh0gSYo2F8mKPNGL74jMeGg0iJ2qgz8EYA0RlwaUgT7Nv/hqBfOteLxY4qWoEqQFRam2aYiGpUNdIu8WCCqZlRMWWggk+ntVDiKFx13Yb3y8Tb/O8Zd0fod87jdGY8dztDJF7uZxjQYLYIJWZ3kCpQcp+HIbRMrurQxQEAtfCyRQJQ+KuXgMJM76gXOdImJa+ZwuvUEmQZwaZGilqfyYuWiAbZAUs+iHrXRY+3d+PnWTPFu1w+Ay1ZC/2N4Uj/dU5e5pDYYPlY8+KaoyDnSZAd4bq1+/v4+Xdv+MulNeHb24=;hUbEMWEQO+YN/iSUjc9PmQ=="
 ---
 

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
-publishedDateTime: 2021-06-16T18:33:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
-webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
+excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+publishedDateTime: 2021-06-16T18:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm"
 type: article
 quality: 2
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -628,6 +628,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "T6tXwqqZrWj4ZNKsEC3Mxj7+0HpBVx4Bd0s7vnjjg/INlwo0rfEWmb0Go8j9b9j2SEihBpTZ/zPkCSpbAY45b81MGAmW8FnF3aOLpKXTFgluLmQB7cyqpmRPbYrS0K5JF+oOPURr5wjrnN/NPnvxFblnVo1tngwlrH/ZFguOPfxKcHXr/0N9Otzmo4wGuS5m5t38bRpqMdMaOLp5xpSCUc6omQRA4HGJsEZjoCYUa/bZIbQfm2xb7rFLFUO7onPhTMjZJuAZkSFrOtTD0pgI4ZIX/uLjYOKYj47k7oj1KVGPhJtRiJ3eBnV/1e+hVq2N4+9Ba9CFnaqyiXV4JokbAbF6JRRcEM07esd6liwBmIM=;i4fZ9K40HZu+FZoGJ27/Vw=="
+secured: "zMdsbskKdvFcU8SHtAZMXR2i/ay2bkrzHm+zRBhxCdeT41YdV+hZXcz+b+z5UVI1VlVfvKemBd1K5WR03xowuQvWJIjRHMKq+qav85xc6ldcZC5U9UH/5blPs69gQVw4l7RI3WTzBnbWlX4nGe/CmIIX8st/QVrj4XSRiPZCv+gC1hqceaVk8lA0/mlB1IWO0Je+C22owRY5m7kYm3XF5yl7oFvWEYUsSLSUVCzU76Zo7modOEhiv2SGfE439uOevRR2ZlHSfdgS7ImC5CKWy6+aY0Jk+PPHJFsJygUPOQcoNNGJR4PU03WUqSQ0m4/OYgpf5qX6VASi/himLb7eMkMp6OfW3TrKJuoKRAuy3Qw=;HEvl0r2XsXDVjqIBAr8RFw=="
 ---
 
