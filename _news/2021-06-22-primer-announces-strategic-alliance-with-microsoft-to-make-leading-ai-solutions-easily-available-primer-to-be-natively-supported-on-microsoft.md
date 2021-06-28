@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/primer-announces-strategi
 webUrl: "https://www.prnewswire.com/news-releases/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft-azure-301316917.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Azure
   - AI
+
+related:
+  - title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
+    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure. OAG customers can now take ..."
+    publishedDateTime: 2021-06-28T12:47:00Z
+    webUrl: "https://www.finanztreff.de/news/business-wire-oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/25165648"
+    type: article
+    provider:
+      name: Finanztreff
+      domain: finanztreff.de
+    quality: 10
 
 secured: "uUC/V9sFdMaB6DQ4rnqr0S0bPGbSZBSVBMAqcstA/iGfC7KIwM147ovDBehjylu7ZkD2InibtVyR8x6kykSc4Q/10G7OG6DUgtTh4gkXEAnK78eU29LjdsJyZ185IVlhDVCGPUo1G0bqC89eTqYajt6e/aDR0C8w1MNYI1DT6xILchpSnwbxmk2hr++CsSOOYO8ADJkEvGf/Ep4vfJuu84eYcWRSc+bz4Hd6TIlna2jdyFVJNjNmy79sZY+OU0ftbgH/ZMJ9X+sjc9O7SY+YLwZE0hynvvlb2asEySgUjzBGcLE5aswbdMdHgZ2ZQrk/n9qr1pg9yXJQaNk4l+CUsG2jeiCQXUmAYKwzJRWRD58=;oRkbfAb+nrqmvA6+UUr/CQ=="
 ---

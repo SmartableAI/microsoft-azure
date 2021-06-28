@@ -1,35 +1,39 @@
 ---
 category: news
-title: "HPE expands GreenLake offerings for Microsoft Azure"
-excerpt: "HPE GreenLake now supports Microsoft Azure Stack HCI and SQL Server. The announcement of the new integration came just ahead of the company’s annual HPE Discover conference, held virtually for ..."
-publishedDateTime: 2021-06-21T13:30:00Z
-originalUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure"
-webUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure"
-ampWebUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
-cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
+title: "DataDx Version 2.0 Now Available in the Microsoft Azure Marketplace"
+excerpt: "DataDx ®, business intelligence for independent medical and dental practices, today announced the availability of its state-of-the art dashboard with real-time analytics reporting in the Microsoft ( News - Alert) Azure Marketplace,"
+publishedDateTime: 2021-06-28T13:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-datadx-version-20-now-available-the-microsoft-azure-/2021/06/28/9398746.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-datadx-version-20-now-available-the-microsoft-azure-/2021/06/28/9398746.htm"
 type: article
-quality: 97
-heat: 477
-published: true
+quality: 17
+heat: -1
+published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
 
-images:
-  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1595502135/itpro/HPE_shutterstock.jpg"
-    width: 1260
-    height: 710
-    isCached: true
-
 related:
+  - title: "HPE expands GreenLake offerings for Microsoft Azure"
+    excerpt: "HPE GreenLake now supports Microsoft Azure Stack HCI and SQL Server. The announcement of the new integration came just ahead of the company’s annual HPE Discover conference, held virtually for ..."
+    publishedDateTime: 2021-06-21T13:30:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 97
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1595502135/itpro/HPE_shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
     excerpt: "Hewlett Packard Enterprise (HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Azure Stack HCI and Microsoft SQL Server. With this new integration ..."
     publishedDateTime: 2021-06-21T22:47:00Z
@@ -279,16 +283,7 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 23
-  - title: "DataDx Version 2.0 Now Available in the Microsoft Azure Marketplace"
-    excerpt: "DataDx ®, business intelligence for independent medical and dental practices, today announced the availability of its state-of-the art dashboard with real-time analytics reporting in the Microsoft ( News - Alert) Azure Marketplace,"
-    publishedDateTime: 2021-06-28T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-datadx-version-20-now-available-the-microsoft-azure-/2021/06/28/9398746.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
-secured: "dRk09ZSyVF4Qgrl06+QcA4quCP4gtKUHkiIxmqxBETYWUA8SSfUUePvN4PP0to70eeE4FfwQttBbjnPid4/VDP0Ncg0BwsTpukNOAzrNnDV3R4FslAPMrTOsJPwLzLLw4tLPD0pec3m2k+PMZqzA78g1/CKdwXiCS8rWcXhrUIfJ7RxHzZHt5HRnZgtAIrv27crCwmIRSN3G+Cwdj2LqWXgMSqgVI0p30wr8p3mQN0xFKs3gDB71ifxSfm5X/roUHXNyP1ODd6Q7cB23JXATyFgWNklyIup4yka0b2y9kwtIvf0ypeC7ubyjozJT0Jd4VOT/MlSHJRfty1NTwysWYzogeGTSOeVB4hcFC4yyF24=;Q0ac3h0gWwcTigr+Uo1KYQ=="
+secured: "bAB7YgEOjIwR64Hf58hTIEjMwEAmAtqOKQs6auUwtkYuCB+hV1qGmTt2YG0I/65JG9n8VK29QPGP2GOUCB/0D60ia04yMNqfYYGNcbwcBweNiX/Co3sSOqIzJop0JBpiC0LtxxE7vPH83comkHopA8umpAD77dKOcRYOp2V2raFWlLPXDLIL4OdyN9keZMMbCVkIUwyFfaSh3JcYtYYs69NIM0aj9yaBv1mGvXk1eiiUkXa3mTHLdpWoHdST6Vz3hlhlfjoBvfOdZboqzXzhSfGYtNTrLkeFRNN75f2iC7BrWEiCzla0lbuRNLQfXjPhQHTyTKbQfI1j9JePWQFKMbFGwVCHHmvQ7J35w92f4No=;hXKKBNisbVS1PjMtRur7Fg=="
 ---
 

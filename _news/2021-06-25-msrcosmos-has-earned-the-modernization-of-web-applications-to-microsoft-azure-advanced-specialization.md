@@ -59,6 +59,17 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "Cloud 9 Infosystems Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Chicago IL 6 15 21 Cloud 9 Infosystems today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and expertise in migrating"
+    publishedDateTime: 2021-06-28T13:42:00Z
+    webUrl: "https://www.openpr.com/news/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
+    ampWebUrl: "https://www.openpr.com/amp/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
   - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
     publishedDateTime: 2021-01-29T14:36:00Z

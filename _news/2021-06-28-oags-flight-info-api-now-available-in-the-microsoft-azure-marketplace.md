@@ -1,35 +1,45 @@
 ---
 category: news
-title: "HPE expands GreenLake offerings for Microsoft Azure"
-excerpt: "HPE GreenLake now supports Microsoft Azure Stack HCI and SQL Server. The announcement of the new integration came just ahead of the company’s annual HPE Discover conference, held virtually for ..."
-publishedDateTime: 2021-06-21T13:30:00Z
-originalUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure"
-webUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure"
-ampWebUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
-cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
+title: "OAG’s Flight Info API now available in the Microsoft Azure Marketplace"
+excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+publishedDateTime: 2021-06-28T12:03:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-lifestyle-travel-6c060662c15f4a0db986d89d63a8960a"
+webUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-lifestyle-travel-6c060662c15f4a0db986d89d63a8960a"
 type: article
-quality: 97
-heat: 477
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1595502135/itpro/HPE_shutterstock.jpg"
-    width: 1260
-    height: 710
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
+  - title: "HPE expands GreenLake offerings for Microsoft Azure"
+    excerpt: "HPE GreenLake now supports Microsoft Azure Stack HCI and SQL Server. The announcement of the new integration came just ahead of the company’s annual HPE Discover conference, held virtually for ..."
+    publishedDateTime: 2021-06-21T13:30:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 97
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1595502135/itpro/HPE_shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
     excerpt: "Hewlett Packard Enterprise (HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Azure Stack HCI and Microsoft SQL Server. With this new integration ..."
     publishedDateTime: 2021-06-21T22:47:00Z
@@ -162,20 +172,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "OAG’s Flight Info API now available in the Microsoft Azure Marketplace"
-    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-    publishedDateTime: 2021-06-28T12:03:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-lifestyle-travel-6c060662c15f4a0db986d89d63a8960a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
     publishedDateTime: 2021-06-23T13:00:00Z
@@ -289,6 +285,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "dRk09ZSyVF4Qgrl06+QcA4quCP4gtKUHkiIxmqxBETYWUA8SSfUUePvN4PP0to70eeE4FfwQttBbjnPid4/VDP0Ncg0BwsTpukNOAzrNnDV3R4FslAPMrTOsJPwLzLLw4tLPD0pec3m2k+PMZqzA78g1/CKdwXiCS8rWcXhrUIfJ7RxHzZHt5HRnZgtAIrv27crCwmIRSN3G+Cwdj2LqWXgMSqgVI0p30wr8p3mQN0xFKs3gDB71ifxSfm5X/roUHXNyP1ODd6Q7cB23JXATyFgWNklyIup4yka0b2y9kwtIvf0ypeC7ubyjozJT0Jd4VOT/MlSHJRfty1NTwysWYzogeGTSOeVB4hcFC4yyF24=;Q0ac3h0gWwcTigr+Uo1KYQ=="
+secured: "mqGYXBDrRa/kYm+xbIuLe8IqhWZVneg4hEk9kT/T2CC3tuKOfxkFBMiwW5Wxh/ArF1rWKacMlSRILQWJXrJIXUFOyZAIgb+nhRdMtH28tugiZr269xZWGCMbtNGJJsAMt4aAc5QOndnWHYjO5HowgJ6SIuu5CJv4Z5C3sCuF7Wa50hLvGhJNfLHWvfrDEGEVckOnk0xETnNHB9CbFWGIwvp2VDNrCQ2QsI1rG4+ZoArc4BqBPzr/VPzpqIT4CHotBYt2m87GkJ3I6npQ1R52a8/q+LH9cE7Z4qqb3yPiaQvU8n95pFTd6+OzkNCyCR291KSBttaI9JmZpXO7l3n2Ko2ccOUU5Z5IdKM9/6ePd0o=;JXTrcOJ9QhHG93rcar22lw=="
 ---
 

@@ -1,30 +1,37 @@
 ---
 category: news
-title: "Quisitive Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "Quisitive Technology Solutions Inc. ('Quisitive' or the 'Company') (TSXV: QUIS), a premier Microsoft Solutions"
-publishedDateTime: 2021-01-28T14:38:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/quisitive-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1030015174"
-webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1030015174"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/quisitive-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1030015174"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quisitive-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1030015174"
+title: "Cloud 9 Infosystems Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+excerpt: "Chicago IL 6 15 21 Cloud 9 Infosystems today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and expertise in migrating"
+publishedDateTime: 2021-06-28T13:42:00Z
+originalUrl: "https://www.openpr.com/news/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
+webUrl: "https://www.openpr.com/news/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
+ampWebUrl: "https://www.openpr.com/amp/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
 type: article
-quality: 78
-heat: 178
-published: true
+quality: 31
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - Azure
   - Migration
 
 related:
+  - title: "Quisitive Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Quisitive Technology Solutions Inc. ('Quisitive' or the 'Company') (TSXV: QUIS), a premier Microsoft Solutions"
+    publishedDateTime: 2021-01-28T14:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1030015174"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/quisitive-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1030015174"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quisitive-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1030015174"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
   - title: "Quisitive Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
     excerpt: "Quisitive Technology Solutions Inc. (Quisitive for the \"Company\") (TSXV:QUIS), a premier Microsoft solutions provider, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
     publishedDateTime: 2020-07-18T19:19:00Z
@@ -55,17 +62,6 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "Cloud 9 Infosystems Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Chicago IL 6 15 21 Cloud 9 Infosystems today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and expertise in migrating"
-    publishedDateTime: 2021-06-28T13:42:00Z
-    webUrl: "https://www.openpr.com/news/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
-    ampWebUrl: "https://www.openpr.com/amp/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
   - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
     publishedDateTime: 2021-01-29T14:36:00Z
@@ -85,6 +81,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "Y8Hvd3c4vsyMO6l4baahuf1YVYOWOjMNfS956Ui6xxc5hyosBRBdyXjIFljwMTaNSbtMfyS5MOBvW2DFiKYPN9h2HEDG9pyFgRC3gTHtpPCgt3tWW02IauwrrGHrkS6pZPv0DuXEygAtJ9/3KMRs//JybM3dMqLowydpIPD2fw6duA5vYZbBEf57+e5aXKelMTFlvCRUC9dH2zv3GySlEgiMlcafCCkvl94BoXnb8p9CEk+M1WHJcugblprcxxNlsUfbtCxvrIn2MBb6qWrCN/90UB447ZgjK5X6BgACeMLS6ssjoWyqZ6FwZkfRlh4IhvRwHOypAwDTUSG2wGNabRVr8bWCTDU5VawfeMqASbk=;QeOJ3TH01HYqRXq+2kd02Q=="
+secured: "9PzygYzYR6II9BHaFg8ZnGRIZWR1L/OcoGRUgOf4PcnxzPVYDAoKW5aCYHuvBPP35vjY8LnBHciqZTNR/rcwXhE4evZegV5aXc7o59IkUH+ie5OnX596zzgMmIrXla5YVj9IXR2jPHg05hxPyVUZggTU6DwhxlPewAPu97yA8ZL2sQf17A7Twcxc51cbmFAVsrP0ibFdDMZb8vUkEFnefsoTZaoRmPUXgnRJPz0+4blAsNzZf6ksvGvPDrU/A2LefriMUCDnxfOAPtcgKRqEShKpFfkwFMVNkQOxTXeVqnyENX0kqdGvi1Y8uU1l8/gFAbLPwlytXizZRTQHg1t6vQADuP4tWHsZSdtv1oXakS8=;CiaPf3zeTDdq+jwJysZtqw=="
 ---
 
