@@ -4,16 +4,18 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday.md",
-      "title": "Retro Game Translation with Azure Cognitive Services and IoT Edge | Azure Friday",
-      "excerpt": "Paul DeCarlo shows Scott Hanselman how Azure IoT Edge enables you to deploy cloud intelligence locally on edge devices.  By moving certain workloads to the edge of your network, your devices spend less time communicating with the cloud, can react more quickly to local changes, and operate reliably even",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=atga5uMsrYY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/atga5uMsrYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M2S",
+      "path": "_learning/courses/microsoft-learn-connect-iot-hololens-azure-digital-twins-unity.md",
+      "title": "Connect IoT data to HoloLens 2 with Azure Digital Twin and Unity",
+      "excerpt": "Stream simulated operational telemetry data from physical assets to Azure Digital Twin and visualize data in Unity and the HoloLens.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-iot-hololens-azure-digital-twins-unity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-iot-hololens-azure-digital-twins-unity/",
+      "length": "PT1H52M",
+      "ratings": {
+        "count": 12,
+        "average": 5.0
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -24,23 +26,29 @@
           }
         ]
       },
-      "publishedDateTime": "2021-05-07T09:56:11-07:00",
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/atga5uMsrYY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/connect-iot-hololens-azure-digital-twins-unity-social.png",
+          "width": 641,
+          "height": 321,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
         "AI",
-        "IoT"
+        "IoT",
+        "Integration",
+        "Analytics",
+        "Compute",
+        "Serverless"
       ]
     },
     {
@@ -74,8 +82,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 10419,
-            "average": 4.7884636
+            "count": 10426,
+            "average": 4.7884135
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -117,8 +125,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 11632,
-            "average": 4.7806053
+            "count": 11637,
+            "average": 4.7806134
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -160,8 +168,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 7828,
-            "average": 4.7820644
+            "count": 7835,
+            "average": 4.7821317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -207,8 +215,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 8763,
-            "average": 4.727034
+            "count": 8769,
+            "average": 4.7267647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -276,8 +284,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 10419,
-        "average": 4.7884636
+        "count": 10426,
+        "average": 4.7884135
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -319,8 +327,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 7828,
-        "average": 4.7820644
+        "count": 7835,
+        "average": 4.7821317
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -518,8 +526,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 658,
-            "average": 4.5471125
+            "count": 659,
+            "average": 4.5462823
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -648,8 +656,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2820,
-            "average": 4.70922
+            "count": 2822,
+            "average": 4.709426
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -691,8 +699,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43221,
-            "average": 4.7190256
+            "count": 43225,
+            "average": 4.7190285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -770,8 +778,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 1169,
-            "average": 4.7519245
+            "count": 1170,
+            "average": 4.7521367
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1002,8 +1010,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
           "length": "PT42M",
           "ratings": {
-            "count": 445,
-            "average": 4.741573
+            "count": 446,
+            "average": 4.7421527
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1046,8 +1054,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
           "length": "PT26M",
           "ratings": {
-            "count": 357,
-            "average": 4.7422967
+            "count": 358,
+            "average": 4.7430167
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1082,8 +1090,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
           "length": "PT8M",
           "ratings": {
-            "count": 369,
-            "average": 4.720867
+            "count": 370,
+            "average": 4.7216215
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1146,8 +1154,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-azure-functions-iot/",
       "length": "PT27M",
       "ratings": {
-        "count": 258,
-        "average": 4.751938
+        "count": 259,
+        "average": 4.752896
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1276,8 +1284,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-package-module-iot-edge/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 315,
-        "average": 4.593651
+        "count": 317,
+        "average": 4.59306
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1343,8 +1351,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9439,
-            "average": 4.666066
+            "count": 9440,
+            "average": 4.666102
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1426,8 +1434,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 4296,
-            "average": 4.6229053
+            "count": 4297,
+            "average": 4.622993
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1633,8 +1641,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 658,
-            "average": 4.5471125
+            "count": 659,
+            "average": 4.5462823
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1744,8 +1752,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
       "length": "PT56M",
       "ratings": {
-        "count": 658,
-        "average": 4.5471125
+        "count": 659,
+        "average": 4.5462823
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1917,8 +1925,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connecting-iot-devices-cognitive-services-azure-functions/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 209,
-        "average": 4.6889954
+        "count": 210,
+        "average": 4.6904764
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2072,8 +2080,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 4296,
-            "average": 4.6229053
+            "count": 4297,
+            "average": 4.622993
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2179,8 +2187,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2747,
-            "average": 4.4761558
+            "count": 2748,
+            "average": 4.4763465
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2228,8 +2236,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-use-recommended-tools-to-create-a-data-flow-diagram/",
       "length": "PT18M",
       "ratings": {
-        "count": 386,
-        "average": 4.722798
+        "count": 387,
+        "average": 4.723514
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2457,7 +2465,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/connect-iot-hololens-azure-digital-twins-unity-social.png",
@@ -2577,8 +2585,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
           "length": "PT23M",
           "ratings": {
-            "count": 6507,
-            "average": 4.736899
+            "count": 6509,
+            "average": 4.7369795
           },
           "provider": {
             "name": "Microsoft Learn",

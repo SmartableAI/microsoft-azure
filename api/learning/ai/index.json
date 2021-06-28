@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 17637,
-            "average": 4.7622614
+            "count": 17661,
+            "average": 4.7622447
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -96,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 17637,
-        "average": 4.7622614
+        "count": 17661,
+        "average": 4.7622447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -172,16 +172,18 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday.md",
-      "title": "Retro Game Translation with Azure Cognitive Services and IoT Edge | Azure Friday",
-      "excerpt": "Paul DeCarlo shows Scott Hanselman how Azure IoT Edge enables you to deploy cloud intelligence locally on edge devices.  By moving certain workloads to the edge of your network, your devices spend less time communicating with the cloud, can react more quickly to local changes, and operate reliably even",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=atga5uMsrYY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/atga5uMsrYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M2S",
+      "path": "_learning/courses/microsoft-learn-spark-architecture-fundamentals.md",
+      "title": "Spark architecture fundamentals",
+      "excerpt": "Spark architecture fundamentals",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-spark-architecture-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 825,
+        "average": 4.6387877
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -192,23 +194,73 @@
           }
         ]
       },
-      "publishedDateTime": "2021-05-07T09:56:11-07:00",
-      "heat": 130,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/atga5uMsrYY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/spark-architecture-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-connect-iot-hololens-azure-digital-twins-unity.md",
+      "title": "Connect IoT data to HoloLens 2 with Azure Digital Twin and Unity",
+      "excerpt": "Stream simulated operational telemetry data from physical assets to Azure Digital Twin and visualize data in Unity and the HoloLens.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-iot-hololens-azure-digital-twins-unity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-iot-hololens-azure-digital-twins-unity/",
+      "length": "PT1H52M",
+      "ratings": {
+        "count": 12,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/connect-iot-hololens-azure-digital-twins-unity-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
         "AI",
-        "IoT"
+        "IoT",
+        "Integration",
+        "Analytics",
+        "Compute",
+        "Serverless"
       ]
     },
     {
@@ -242,8 +294,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 17522,
-            "average": 4.76578
+            "count": 17534,
+            "average": 4.7659407
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -287,8 +339,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 14118,
-            "average": 4.6380506
+            "count": 14126,
+            "average": 4.638114
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -330,8 +382,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 12422,
-            "average": 4.7725005
+            "count": 12435,
+            "average": 4.772497
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -373,8 +425,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 17150,
-            "average": 4.7307873
+            "count": 17164,
+            "average": 4.7309484
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -445,8 +497,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 17150,
-        "average": 4.7307873
+        "count": 17164,
+        "average": 4.7309484
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -514,8 +566,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 10419,
-            "average": 4.7884636
+            "count": 10426,
+            "average": 4.7884135
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -557,8 +609,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 11632,
-            "average": 4.7806053
+            "count": 11637,
+            "average": 4.7806134
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -600,8 +652,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 7828,
-            "average": 4.7820644
+            "count": 7835,
+            "average": 4.7821317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -647,8 +699,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 8763,
-            "average": 4.727034
+            "count": 8769,
+            "average": 4.7267647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -739,8 +791,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 4450,
-            "average": 4.7164044
+            "count": 4462,
+            "average": 4.7169433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -802,8 +854,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 4450,
-        "average": 4.7164044
+        "count": 4462,
+        "average": 4.7169433
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -845,8 +897,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 11632,
-        "average": 4.7806053
+        "count": 11637,
+        "average": 4.7806134
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -888,8 +940,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 666,
-        "average": 4.779279
+        "count": 669,
+        "average": 4.780269
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1032,8 +1084,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
           "length": "PT39M",
           "ratings": {
-            "count": 1586,
-            "average": 4.6740227
+            "count": 1588,
+            "average": 4.674433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1075,8 +1127,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
           "length": "PT24M",
           "ratings": {
-            "count": 1565,
-            "average": 4.6971245
+            "count": 1567,
+            "average": 4.697511
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1160,8 +1212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 1570,
-            "average": 4.756051
+            "count": 1572,
+            "average": 4.7563615
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1196,8 +1248,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
           "length": "PT29M",
           "ratings": {
-            "count": 1404,
-            "average": 4.7314816
+            "count": 1406,
+            "average": 4.7318635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1240,8 +1292,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 1260,
-            "average": 4.6960316
+            "count": 1262,
+            "average": 4.6965137
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1283,8 +1335,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
           "length": "PT39M",
           "ratings": {
-            "count": 1672,
-            "average": 4.758971
+            "count": 1675,
+            "average": 4.7588058
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1370,8 +1422,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
           "length": "PT27M",
           "ratings": {
-            "count": 1037,
-            "average": 4.734812
+            "count": 1039,
+            "average": 4.7353225
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1413,8 +1465,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
           "length": "PT18M",
           "ratings": {
-            "count": 1087,
-            "average": 4.725851
+            "count": 1094,
+            "average": 4.7266912
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1475,8 +1527,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
       "length": "PT18M",
       "ratings": {
-        "count": 1087,
-        "average": 4.725851
+        "count": 1094,
+        "average": 4.7266912
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1670,8 +1722,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 658,
-            "average": 4.5471125
+            "count": 659,
+            "average": 4.5462823
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1845,8 +1897,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-containers-language-understanding-intelligent-service-apps/",
           "length": "PT18M",
           "ratings": {
-            "count": 380,
-            "average": 4.768421
+            "count": 381,
+            "average": 4.766404
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1949,8 +2001,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
       "length": "PT27M",
       "ratings": {
-        "count": 1037,
-        "average": 4.734812
+        "count": 1039,
+        "average": 4.7353225
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1992,8 +2044,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 1905,
-        "average": 4.733858
+        "count": 1907,
+        "average": 4.7341375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2035,8 +2087,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 1672,
-        "average": 4.758971
+        "count": 1675,
+        "average": 4.7588058
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2122,8 +2174,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 1570,
-        "average": 4.756051
+        "count": 1572,
+        "average": 4.7563615
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2201,8 +2253,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 1586,
-        "average": 4.6740227
+        "count": 1588,
+        "average": 4.674433
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2244,8 +2296,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-containers-language-understanding-intelligent-service-apps/",
       "length": "PT18M",
       "ratings": {
-        "count": 380,
-        "average": 4.768421
+        "count": 381,
+        "average": 4.766404
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2288,8 +2340,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
       "length": "PT24M",
       "ratings": {
-        "count": 1565,
-        "average": 4.6971245
+        "count": 1567,
+        "average": 4.697511
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2746,8 +2798,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
           "length": "PT54M",
           "ratings": {
-            "count": 2129,
-            "average": 4.6899953
+            "count": 2130,
+            "average": 4.6901407
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2841,47 +2893,6 @@
         "Azure",
         "Management Tools",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api.md",
-      "title": "Discover sentiment in text with the Text Analytics API",
-      "excerpt": "Learn how to use the Text Analytics API and Azure Functions to discover what your customers are really saying in their feedback about your products or brands.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 2000,
-        "average": 4.6515
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 68,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools",
-        "Compute",
-        "Serverless",
-        "Storage",
-        "AI",
-        "Analytics"
       ]
     }
   ],
