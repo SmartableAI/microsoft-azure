@@ -4,6 +4,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-ha-application-storage-with-grs.md",
+      "title": "Make your application storage highly available with read-access geo-redundant storage",
+      "excerpt": "In this module, you learn how to make your application storage highly available by ensuring that you can fail over resources if there's an Azure region failure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ha-application-storage-with-grs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ha-application-storage-with-grs/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 1790,
+        "average": 4.5268154
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ha-application-storage-with-grs-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-implement-message-workflows-with-service-bus.md",
       "title": "Implement message-based communication workflows with Azure Service Bus",
       "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
       "length": "PT54M",
       "ratings": {
-        "count": 2949,
-        "average": 4.6483555
+        "count": 2950,
+        "average": 4.6484747
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -46,8 +89,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-deployment/",
       "length": "PT18M",
       "ratings": {
-        "count": 114,
-        "average": 4.745614
+        "count": 116,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -88,8 +131,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-introduction/",
       "length": "PT10M",
       "ratings": {
-        "count": 138,
-        "average": 4.731884
+        "count": 139,
+        "average": 4.733813
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -130,8 +173,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 6631,
-        "average": 4.718444
+        "count": 6632,
+        "average": 4.7184863
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -172,8 +215,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-build-dependencies/",
       "length": "PT59M",
       "ratings": {
-        "count": 2005,
-        "average": 4.686284
+        "count": 2006,
+        "average": 4.6864405
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -215,8 +258,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
       "length": "PT43M",
       "ratings": {
-        "count": 1394,
-        "average": 4.7065997
+        "count": 1395,
+        "average": 4.7060933
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -260,8 +303,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/",
       "length": "PT34M",
       "ratings": {
-        "count": 1036,
-        "average": 4.795367
+        "count": 1037,
+        "average": 4.795564
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -346,8 +389,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-system-feedback/",
       "length": "PT22M",
       "ratings": {
-        "count": 561,
-        "average": 4.680927
+        "count": 563,
+        "average": 4.6820602
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -388,8 +431,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
       "length": "PT1H22M",
       "ratings": {
-        "count": 3429,
-        "average": 4.734033
+        "count": 3430,
+        "average": 4.734111
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -675,8 +718,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 2126,
-        "average": 4.638288
+        "count": 2127,
+        "average": 4.638458
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -799,8 +842,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-build-apps-cloud/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 352,
-        "average": 4.622159
+        "count": 353,
+        "average": 4.6232295
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -841,8 +884,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-monitor-cloud-resources/",
       "length": "PT40M",
       "ratings": {
-        "count": 504,
-        "average": 4.59127
+        "count": 505,
+        "average": 4.592079
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -883,8 +926,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-open-source-program-github/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 117,
-        "average": 4.837607
+        "count": 118,
+        "average": 4.8305087
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1012,8 +1055,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-protection-governance-capabilities/",
       "length": "PT29M",
       "ratings": {
-        "count": 328,
-        "average": 4.844512
+        "count": 329,
+        "average": 4.844985
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1055,8 +1098,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
       "length": "PT37M",
       "ratings": {
-        "count": 3559,
-        "average": 4.7909527
+        "count": 3563,
+        "average": 4.7909064
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1184,8 +1227,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/",
       "length": "PT26M",
       "ratings": {
-        "count": 287,
-        "average": 4.8501744
+        "count": 288,
+        "average": 4.8472223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1208,49 +1251,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/explore-basic-services-identity-types-azure-active-directory-social.png",
           "width": 641,
           "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-microsoft-teams.md",
-      "title": "Explore Microsoft Teams",
-      "excerpt": "Explore Microsoft Teams",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-microsoft-teams/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-microsoft-teams/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 126,
-        "average": 4.873016
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/teams-explore-social.png",
-          "width": 1280,
-          "height": 641,
           "isCached": true
         }
       ],
