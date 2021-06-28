@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-26-azure-security-center-integration-with-github-actions-in-public-preview.md",
+      "title": "Azure Security Center integration with GitHub Actions, in public preview",
+      "excerpt": "GitHub’s integration with Azure Security Center is now in public preview—offering new ways for you to integrate security and compliance into early stages of the software development lifecycle. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/github-integration-with-azure-security-center-now-in-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/github-integration-with-azure-security-center-now-in-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 275,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T09:00:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Security",
+        "Integration"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-azure-iot-verified-telemetry-is-now-in-public-preview.md",
       "title": "Azure IoT Verified telemetry is now in public preview",
       "excerpt": "Azure IoT Verified Telemetry provides  data reliability and is available as part of Dependable IoT SDK and can be seamlessly integrated into current Azure IoT offerings such as Azure RTOS and IoT PnP.",
@@ -1105,57 +1149,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-microsoft-previews-azure-service-for-building-websocket-applications.md",
-      "title": "Microsoft previews Azure service for building WebSocket applications",
-      "excerpt": "Azure Web PubSub allows developers to use WebSockets and a publish-subscribe pattern to build real-time web applications such as live monitoring dashboards, live maps, and live chat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.html",
-      "originalUrl": "https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 597,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/07/cloud-computing-1-100801494-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html",
-      "publishedDateTime": "2021-04-30T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
       ]
     }
   ],

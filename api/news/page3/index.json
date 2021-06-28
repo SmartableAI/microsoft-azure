@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-01-microsoft-previews-azure-service-for-building-websocket-applications.md",
+      "title": "Microsoft previews Azure service for building WebSocket applications",
+      "excerpt": "Azure Web PubSub allows developers to use WebSockets and a publish-subscribe pattern to build real-time web applications such as live monitoring dashboards, live maps, and live chat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.html",
+      "originalUrl": "https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 597,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/07/cloud-computing-1-100801494-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.amp.html",
+      "publishedDateTime": "2021-04-30T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-general-availability-set-up-azure-site-recovery-with-proximity-placement-groups-across-hybrid-and-cloud-disaster-recovery-scenarios.md",
       "title": "General availability: Set up Azure Site Recovery with proximity placement groups across hybrid and cloud disaster recovery scenarios",
       "excerpt": "Azure Site Recovery now provides a portal experience to failover VMs or physical servers inside a proximity placement group in the target Azure region.",
@@ -1115,58 +1166,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-acuant-joins-microsoft-to-enable-seamless-identity-verification-on-azure-ad.md",
-      "title": "Acuant joins Microsoft to enable seamless identity verification on Azure AD",
-      "excerpt": "Acuant, a global digital identity solutions provider, announced that it’s partnering with Microsoft to secure information exchange on Azure Active Directory (AD). Azure AD Verifiable Credentials enables Azure AD customers to easily design and issue ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on",
-      "originalUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 832,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1611743746/itpro/AzureWeb_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on?amp",
-      "publishedDateTime": "2021-04-06T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],
