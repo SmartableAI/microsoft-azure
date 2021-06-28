@@ -3,8 +3,8 @@ category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
 excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
 publishedDateTime: 2021-06-16T18:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
 type: article
 quality: 2
 heat: -1
@@ -628,6 +628,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "fRWC4WC2SMcIjwDoXuIeM/+a095CSzaDRLP6ix0HGPddRqJDXv6xUKLFTSfFURbscvtJCA8tDmYUqbsf/wUc3bpF5z2bsMqZ6YLeXiMhmcKvwFp/wY3qJjpFJXONcDBVNsScjsMJ6ZL0SILsuNZbKhnO/Fed7y46P9Q2wMQrKRraOHqrEqi+3IbyDtL85gTjmLNt+hLGz4ene0pSMizMZhF1b9PIOvx46nqIjOmDYOZHLOqpWr97UdXch+pkNn1TTNNs4ibAFfE2nVwsRO7KPby/WPrHU50k4fybF4gakQ9ckbpfLa70jYB4j8M3RI7p0rI7SLCXCuIrpIYqN3ovFMSA4pEHaVRSsI86FX64JME=;ZlWInD4ntN4gl/0Vtw8k+A=="
+secured: "Gyeyf4xyB261ALkxIl8rTkCjY1L9xMaEWJGtZejVRTxUwBjX71ZOuhhOprXsRmSsCBZMG8Di4KG07YGTt7wD5Mm6r4wWK9BZtkxk8+9l+MLUfMAZRud2Gilpkx671mioQWrk/fGgGAgFbqGHNzmV/Euds5nGZNJm2T0mkrv1hl+I2hHZuLctcjOtHh1zNF4z4rjNUujjyzTbseSsemed7PBIliHyJqmKTBWiiXwwiDz/vvrywsc15eG1Zs85AsRk/d03h9p5dnQmsjT4w8dNn/EeHQhyoKXkag52esrQSFQMEVQPCb8uc+blD0azlA2lcWVOuLeNHtxAgn9fT9fS3kdXHHsA2xVne99fPIoU0Oo=;WeNZSU4YMiEK7XiyKimyhg=="
 ---
 
