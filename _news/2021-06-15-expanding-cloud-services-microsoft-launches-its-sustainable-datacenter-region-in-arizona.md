@@ -479,6 +479,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
+    publishedDateTime: 2021-06-16T18:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21594082/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specializat"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21594082"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21594082"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
   - title: "VAST Grows Microsoft Partnership with Microsoft Cloud Gold Partner Status"
     excerpt: "VAST, a leader in Data Protection, IT Infrastructure Management, and Optimization of On-Premise and Cloud Computing Operations, has announced today it has"
     publishedDateTime: 2021-06-17T17:10:00Z
@@ -588,15 +599,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 3
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
-    publishedDateTime: 2021-06-16T18:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 2
   - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
     excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
     publishedDateTime: 2021-06-17T07:06:00Z

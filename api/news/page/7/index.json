@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-10-back-up-linux-virtual-machines-running-mission-critical-workloads.md",
+      "title": "Back up Linux virtual machines running mission-critical workloads",
+      "excerpt": "As organizations continue to embrace Linux, we see a growing number of enterprises running business and mission-critical workloads on Linux virtual machines in Azure. Azure Backup service offers application consistent backup of Linux virtual machines in Azure to safeguard against unintended destruction",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/back-up-linux-virtual-machines-running-mission-critical-workloads/",
+      "originalUrl": "https://azure.microsoft.com/blog/back-up-linux-virtual-machines-running-mission-critical-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T01:00:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management tools",
+        "Compute"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-ocr-support-for-73-languages-in-the-cognitive-services-computer-vision-public-preview.md",
       "title": "OCR support for 73 languages in the Cognitive Services Computer Vision public preview",
       "excerpt": "Computer Vision Read 3.2 API for Optical Character Recognition (OCR), part of Cognitive Services, announces its public preview with support for Simplified Chinese, Traditional Chinese, Japanese, and Korean, and several Latin languages, with option to use the cloud service or deploy the Docker container",
@@ -1125,49 +1170,6 @@
       "topics": [
         "Azure",
         "Compute"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available.md",
-      "title": "Changes in Azure Monitor Logs for the AzureDiagnostics table is now available",
-      "excerpt": "Azure Monitor Logs will now allow more than 500 dimensions to be collected to the AzureDiagnostics table by introducing an \"overflow\" column.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T09:01:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "DevOps"
       ]
     }
   ],

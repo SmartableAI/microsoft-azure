@@ -1,18 +1,20 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
-publishedDateTime: 2021-06-16T18:33:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
-webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
+excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
+publishedDateTime: 2021-06-16T18:31:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21594082/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specializat"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21594082/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specializat"
+ampWebUrl: "https://www.benzinga.com/amp/content/21594082"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21594082"
 type: article
-quality: 2
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
@@ -637,6 +639,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "8J+oJ1bTfYM8rba3xgttDsMebl7UDGDUVfbDcMLwEAk3rh329HF/fP9WABHnr3nV51OlO+l0KUZ8PyxfWT50tTPkR37IL+Ap1BUDuqzqoOW0nYcuY7COkm1hrBooPTMqeoG99IULIquR0NfJO9AghCzQErTjVGqa5JwBdkkF2FH0c1mDb26VJusayV+nDL1o2hdMQO+mK//p52SjpHtln5/QvUsRUjYmH4zzqiHgKUV1cNBAy1MIWZ57huLoUWvF1lmqt9q7pc0lWc8Gt2lbhIfrZ6zaAIdWtCYE1ZbX3eUSb+nOFXhGXwMWsa/6/DBo2H/03uAeoEi15rCy8/QWpXF5TSS+9otvTYbS1FkxyF0=;RZjlN7KpFKTdf3zMRue6jw=="
+secured: "hSiaMVvqhtcvC/LiOGxOcSL3q6tL9uC3P6s7yb/5h2csASUePjqkImGAGVI/z7JjCWU/yjAmsmTgn0jV8RfuE+pbvk/CYCRXna+haiW6rdBHlZ2ibFt6vYte3oONn1lrbtVAufLaESg6slfnSMsqUJ4pHtls5O1F5kYlDFEuExSV+PI5VwDWOtAbeNycKHqEeh/7Dj7fLOxBxLAHTkFtsSzx5/HueIDG2AmjIwA5IkoCySG7qmFbShJR9sC1HiHuQyrYOu6hncZkJXMgpgkq2TwgdDrWk3tYUYcJdrqy8zt6KEorP0lJxFuisBtiIJvXFUvVtlfjPZzl0Fd+9ygf9JdyODrvD6TOzJ02eRRlfwU=;zTV8K9e1IxdZwWczXe7QAg=="
 ---
 
