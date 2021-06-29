@@ -35,8 +35,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12160,
-            "average": 4.765625
+            "count": 12168,
+            "average": 4.7656145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -78,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2649,
-            "average": 4.758022
+            "count": 2658,
+            "average": 4.7577124
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -121,8 +121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43234,
-            "average": 4.7190866
+            "count": 43239,
+            "average": 4.7191195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -156,8 +156,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 7301,
-            "average": 4.687303
+            "count": 7304,
+            "average": 4.6874313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -174,7 +174,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 79,
+          "heat": 159,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -186,7 +186,7 @@
         }
       ],
       "size": 6,
-      "heat": 132,
+      "heat": 141,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
@@ -201,6 +201,49 @@
       "topics": [
         "Azure",
         "Management Tools",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-connect-syslog-data-sources-to-azure-sentinel.md",
+      "title": "Connect syslog data sources to Azure Sentinel",
+      "excerpt": "Connect syslog data sources to Azure Sentinel",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-syslog-data-sources-to-azure-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-syslog-data-sources-to-azure-sentinel/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 41,
+        "average": 4.609756
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "Security"
       ]
     },
@@ -235,8 +278,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12160,
-            "average": 4.765625
+            "count": 12168,
+            "average": 4.7656145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -278,8 +321,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 8769,
-            "average": 4.785038
+            "count": 8774,
+            "average": 4.7850466
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -339,8 +382,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 12160,
-        "average": 4.765625
+        "count": 12168,
+        "average": 4.7656145
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -406,8 +449,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 4688,
-            "average": 4.757466
+            "count": 4690,
+            "average": 4.7575693
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -450,8 +493,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3374,
-            "average": 4.6748667
+            "count": 3377,
+            "average": 4.6751556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -493,8 +536,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 10705,
-            "average": 4.701822
+            "count": 10706,
+            "average": 4.7018495
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -529,8 +572,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 16103,
-            "average": 4.7232814
+            "count": 16105,
+            "average": 4.7233157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -617,8 +660,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 8769,
-            "average": 4.785038
+            "count": 8774,
+            "average": 4.7850466
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -659,8 +702,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 8839,
-            "average": 4.6591244
+            "count": 8842,
+            "average": 4.6591268
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -695,8 +738,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 9218,
-            "average": 4.671404
+            "count": 9220,
+            "average": 4.671475
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -739,8 +782,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
           "length": "PT1H17M",
           "ratings": {
-            "count": 1377,
-            "average": 4.6521425
+            "count": 1379,
+            "average": 4.652647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -826,8 +869,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
           "length": "PT44M",
           "ratings": {
-            "count": 1650,
-            "average": 4.6139393
+            "count": 1652,
+            "average": 4.6144066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -869,8 +912,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3703,
-            "average": 4.6997027
+            "count": 3704,
+            "average": 4.699784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -943,8 +986,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 7301,
-            "average": 4.687303
+            "count": 7304,
+            "average": 4.6874313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -961,7 +1004,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 79,
+          "heat": 159,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1026,8 +1069,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12160,
-            "average": 4.765625
+            "count": 12168,
+            "average": 4.7656145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1069,8 +1112,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3374,
-            "average": 4.6748667
+            "count": 3377,
+            "average": 4.6751556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1155,8 +1198,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
           "length": "PT44M",
           "ratings": {
-            "count": 1650,
-            "average": 4.6139393
+            "count": 1652,
+            "average": 4.6144066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1246,8 +1289,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 4688,
-            "average": 4.757466
+            "count": 4690,
+            "average": 4.7575693
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1290,8 +1333,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7979,
-            "average": 4.6760244
+            "count": 7980,
+            "average": 4.676065
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1325,8 +1368,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3374,
-            "average": 4.6748667
+            "count": 3377,
+            "average": 4.6751556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1452,8 +1495,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12160,
-            "average": 4.765625
+            "count": 12168,
+            "average": 4.7656145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1495,8 +1538,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7979,
-            "average": 4.6760244
+            "count": 7980,
+            "average": 4.676065
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1573,8 +1616,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10822,
-            "average": 4.6792645
+            "count": 10827,
+            "average": 4.679228
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1697,8 +1740,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2825,
-            "average": 4.7097344
+            "count": 2828,
+            "average": 4.7100425
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1740,8 +1783,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43234,
-            "average": 4.7190866
+            "count": 43239,
+            "average": 4.7191195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1819,8 +1862,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 1176,
-            "average": 4.7534013
+            "count": 1177,
+            "average": 4.753611
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1920,8 +1963,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 3256,
-            "average": 4.7125306
+            "count": 3258,
+            "average": 4.712707
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1963,8 +2006,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 5963,
-            "average": 4.7457657
+            "count": 5966,
+            "average": 4.7458935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2048,8 +2091,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
           "length": "PT29M",
           "ratings": {
-            "count": 2475,
-            "average": 4.631111
+            "count": 2476,
+            "average": 4.63126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2115,8 +2158,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
       "length": "PT36M",
       "ratings": {
-        "count": 4682,
-        "average": 4.739855
+        "count": 4683,
+        "average": 4.73991
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2150,8 +2193,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 4688,
-        "average": 4.757466
+        "count": 4690,
+        "average": 4.7575693
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2218,8 +2261,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
           "length": "PT27M",
           "ratings": {
-            "count": 633,
-            "average": 4.7456555
+            "count": 634,
+            "average": 4.7460566
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2262,8 +2305,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
           "length": "PT42M",
           "ratings": {
-            "count": 447,
-            "average": 4.742729
+            "count": 449,
+            "average": 4.7438755
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2306,8 +2349,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
           "length": "PT26M",
           "ratings": {
-            "count": 359,
-            "average": 4.7437325
+            "count": 360,
+            "average": 4.7444444
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2342,8 +2385,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
           "length": "PT8M",
           "ratings": {
-            "count": 371,
-            "average": 4.722372
+            "count": 372,
+            "average": 4.7231183
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2406,8 +2449,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 9218,
-        "average": 4.671404
+        "count": 9220,
+        "average": 4.671475
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2450,8 +2493,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 3374,
-        "average": 4.6748667
+        "count": 3377,
+        "average": 4.6751556
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2493,8 +2536,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-use-recommended-tools-to-create-a-data-flow-diagram/",
       "length": "PT18M",
       "ratings": {
-        "count": 389,
-        "average": 4.7249355
+        "count": 390,
+        "average": 4.7256413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2744,8 +2787,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-security-center/",
       "length": "PT44M",
       "ratings": {
-        "count": 140,
-        "average": 4.792857
+        "count": 141,
+        "average": 4.7943263
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2787,8 +2830,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
       "length": "PT45M",
       "ratings": {
-        "count": 7979,
-        "average": 4.6760244
+        "count": 7980,
+        "average": 4.676065
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4450,212 +4493,6 @@
         }
       ],
       "size": 4,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-sc-200-part-5-configure-your-azure-sentinel-environment.md",
-      "title": "SC-200 part 5: Configure your Azure Sentinel environment",
-      "excerpt": "SC-200 part 5: Configure your Azure Sentinel environment",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-sc-200-part-5-configure-your-azure-sentinel-environment/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-sc-200-part-5-configure-your-azure-sentinel-environment/",
-      "length": "PT1H54M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-sentinel.md",
-          "title": "Introduction to Azure Sentinel",
-          "excerpt": "Get familiar with Azure Sentinel, a cloud-native, security information and event management (SIEM) service.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 780,
-            "average": 4.796154
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-manage-azure-sentinel-workspaces.md",
-          "title": "Create and manage Azure Sentinel workspaces",
-          "excerpt": "Create and manage Azure Sentinel workspaces",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-manage-azure-sentinel-workspaces/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-azure-sentinel-workspaces/",
-          "length": "PT31M",
-          "ratings": {
-            "count": 265,
-            "average": 4.7773585
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-query-logs-azure-sentinel.md",
-          "title": "Query logs in Azure Sentinel",
-          "excerpt": "Query logs in Azure Sentinel",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-query-logs-azure-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-logs-azure-sentinel/",
-          "length": "PT18M",
-          "ratings": {
-            "count": 253,
-            "average": 4.762846
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-use-watchlists-azure-sentinel.md",
-          "title": "Use watchlists in Azure Sentinel",
-          "excerpt": "Use watchlists in Azure Sentinel",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-watchlists-azure-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-watchlists-azure-sentinel/",
-          "length": "PT18M",
-          "ratings": {
-            "count": 233,
-            "average": 4.8111587
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        }
-      ],
-      "size": 5,
       "heat": 60,
       "images": [
         {

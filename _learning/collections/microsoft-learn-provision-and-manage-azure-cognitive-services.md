@@ -4,7 +4,7 @@ excerpt: "Learn about Cognitive Services and the important role they play in dev
 type: collection
 price: Free
 length: PT2H7M
-heat: 50
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -19,8 +19,9 @@ levels:
 
 items:
   - courses/microsoft-learn-create-manage-cognitive-services
-  - courses/microsoft-learn-investigate-container-for-use-with-cognitive-services
   - courses/microsoft-learn-secure-cognitive-services
+  - courses/microsoft-learn-monitor-cognitive-services
+  - courses/microsoft-learn-investigate-container-for-use-with-cognitive-services
 
 topics:
   - Azure
