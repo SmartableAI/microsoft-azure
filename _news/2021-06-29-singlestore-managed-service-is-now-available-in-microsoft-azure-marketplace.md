@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Datametica now available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the scalability, reliability and agility of Azure to shape business strategies - Pelican empowers customers to ..."
-publishedDateTime: 2021-05-13T09:04:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52862512-datametica-now-available-in-the-microsoft-azure-marketplace-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52862512-datametica-now-available-in-the-microsoft-azure-marketplace-008.htm"
+title: "SingleStore Managed Service Is Now Available in Microsoft Azure Marketplace"
+excerpt: "SingleStore, the world's fastest unified database for data-intensive applications, today announced that SingleStore Managed Service is available in the Microsoft (News - Alert) Azure Marketplace, providing Microsoft customers with an easy way to procure SingleStore technology."
+publishedDateTime: 2021-06-29T13:18:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-singlestore-managed-service-now-available-microsoft-azure-marketplace-/2021/06/29/9399846.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-singlestore-managed-service-now-available-microsoft-azure-marketplace-/2021/06/29/9399846.htm"
 type: article
-quality: 17
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -178,15 +178,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
-  - title: "SingleStore Managed Service Is Now Available in Microsoft Azure Marketplace"
-    excerpt: "SingleStore, the world's fastest unified database for data-intensive applications, today announced that SingleStore Managed Service is available in the Microsoft (News - Alert) Azure Marketplace, providing Microsoft customers with an easy way to procure SingleStore technology."
-    publishedDateTime: 2021-06-29T13:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-singlestore-managed-service-now-available-microsoft-azure-marketplace-/2021/06/29/9399846.htm"
+  - title: "Datametica now available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the scalability, reliability and agility of Azure to shape business strategies - Pelican empowers customers to ..."
+    publishedDateTime: 2021-05-13T09:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52862512-datametica-now-available-in-the-microsoft-azure-marketplace-008.htm"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 17
   - title: "Cloud-based Database Market – Major Technology Giants in Buzz Again | Oracle, Microsoft Azure, IBM, Apache Cassandra"
     excerpt: "AMA Research have added latest edition of survey study on Global Cloud based Database Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
     publishedDateTime: 2020-06-06T19:22:00Z
@@ -213,6 +213,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "kOU8wrZBMnapqxVvOyn7I9TPqsXijBLWWGDD0inU+TYVaeJcj6+UJ17RsY17Eb0Xgwz2u4mO0GuWN/4UQVQ8ayISJf00KI4IoeDL3nZbn0B0YAkHykwTM98b14xtdRIaz27FtdWbSYTdO8shZl312Fvw0KS1JBP8DQ8uwIwe0GFcHYwF5OtjA+WYGDr+jVVFSqZprKKpO0pFkYbSe1FSUd7b6xcvD1NtOVHL45Z3ueui8IfekjFgE72L8M60piFRK2gdaLcrolyX4HD2eZjSROpfgtU095HYFUt4dUPsqTfDI2ThjeIYwEthLIdPvckCid6+MirZMF+kyXs6Ddb1LiEWuWPfQYLCKU4lGvrtk/A=;1izlIUAI7c5o8FfaZY3V1Q=="
+secured: "Mn/hphdT7tmlwZnJoWsYOhtbavsVMkUefB8v0NbeemE5jDojHmQsqFUTNVqB1uH6pvVXt/rj/mG0zP7e53vZiWtPFhVyXSgdceg6o+JaKeHDCCvWsdctfHNX9ODxLpa5UFGoBUVsCIZl3MRzftugS10wkJPu7pPSaxoKCZKmhBTLXeb86tmoIE5QDNwI+qwQIivMGGikLRmINJ1qO6ninlQZ+ZJfoQ22+IHUYuSNH1m9f+POs/94/64PZWfl7fTbtKcBJfHRvkO7fQFPNYj2U0m5Ajsb44Mb+POYwZLR1dR4POvd+Jd0bCi5s1HcbmzSp89GL1adjM12cmhHHHHYMzS2cbA0GteaEr63oVdPxh0=;/9RHY4bpVFjpHl897XmaEQ=="
 ---
 

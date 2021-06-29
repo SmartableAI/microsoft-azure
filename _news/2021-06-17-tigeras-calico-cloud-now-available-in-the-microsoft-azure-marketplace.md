@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Renesas extends support for Microsoft Azure RTOS across 32-bit MCU families"
-excerpt: "Renesas Electronics has said that all customers designing with mainstream Renesas 32-bit MCU families will now have access to the Microsoft Azure Real-Time Operating System (RTOS) embedded development suite."
-publishedDateTime: 2021-06-15T07:58:00Z
-originalUrl: "https://www.newelectronics.co.uk/electronics-news/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families/238040/"
-webUrl: "https://www.newelectronics.co.uk/electronics-news/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families/238040/"
+title: "Tigera’s Calico Cloud Now Available in the Microsoft Azure Marketplace"
+excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Tigera today announced the availability of Calico Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft ..."
+publishedDateTime: 2021-06-17T00:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210616005267/en/Tigera’s-Calico-Cloud-Now-Available-in-the-Microsoft-Azure-Marketplace"
+webUrl: "https://www.businesswire.com/news/home/20210616005267/en/Tigera’s-Calico-Cloud-Now-Available-in-the-Microsoft-Azure-Marketplace"
 type: article
-quality: 35
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: New Electronics
-  domain: newelectronics.co.uk
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.newelectronics.co.uk/article-images/238040/renesas.jpg?width=375&height=250&scale=canvas"
-    width: 375
-    height: 250
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -410,6 +404,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Renesas extends support for Microsoft Azure RTOS across 32-bit MCU families"
+    excerpt: "Renesas Electronics has said that all customers designing with mainstream Renesas 32-bit MCU families will now have access to the Microsoft Azure Real-Time Operating System (RTOS) embedded development suite."
+    publishedDateTime: 2021-06-15T07:58:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/renesas-extends-support-for-microsoft-azure-rtos-across-32-bit-mcu-families/238040/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 35
+    images:
+      - url: "https://www.newelectronics.co.uk/article-images/238040/renesas.jpg?width=375&height=250&scale=canvas"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Bupa goes deeper into Microsoft Azure cloud for personalised healthcare push"
     excerpt: "International private healthcare provider is on a multi-year, cloud-led digital transformation push with the help of long-time tech collaborator Microsoft."
     publishedDateTime: 2021-06-16T03:00:00Z
@@ -514,15 +522,6 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
-    quality: 17
-  - title: "Tigera’s Calico Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Tigera today announced the availability of Calico Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft ..."
-    publishedDateTime: 2021-06-17T00:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210616005267/en/Tigera’s-Calico-Cloud-Now-Available-in-the-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
     quality: 17
   - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
     excerpt: "Hanshow has developed a SaaS solution that is connecting an unprecedented 10 million IoT devices across a network of Ahold Delhaize stores in Europe."
@@ -638,6 +637,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "AmdJ6R6M3MjR4D6EoUvb0krXHCCcKFF+/xq+H/0LQ4D7hkxcD+czWIPlqULmMBriukZTSaV5E+fb/nJkSpHQ3/t4Yn8RKBZWDDiSbD0Gsh0XIrQbTmKTMFpMSqHXVPVxmNvydrDHZQRD1jvDW/n9uzlTax4QMYuN9xxJeYWjixSHDPmZ442NN1YA2wWracaY86c4yZjTPuPR5MGmJ8LxNd5HaaRXonC938I09aYh8JKWUuZ5l2BF8KUYBGYcYpwAzKwjbRUTKHaygCQF26gAD6moPyiPAJMHoVNqYyyXK7KoiMItCkTs/2I08m67J39kZVP9ExXJoKZbg6Klf0sxLUCRTT1X5ewyYkLfySo0pj0=;lvL7GkAKgj+LBCkNw2GfFw=="
+secured: "liBy7zDEZJ0focIr+ALsppdBQD1+hg5KXfT15Ikxd8FSaKs5dp4HJekGFuGmEzDiI/gUaCi6Zt09T1qJrdQAxVyPkwRVrwdqSX5te4QAdfGAxx2KNdHA8fMlnbENUfQWZbKTmSqBcuVe2yT4D4SX7gmCatzHV67+EDHeDFtvVNrl+SBSr+EqND2PSgmDeBv9qvM1DtKWRexFUMGXq1EKC9kuzxs0bXcHe5PYL4WxFleShoQNCJZorjRjEJvZ53cXcQNoPypRzbEcSC/YQv5EaMm8HEY0tPTMp9E56uw263VvVheWsny1Yg8KShs925yH5PSF4Tko2+NmQ0O8XkzRApzPt7ZorRWQCUI4GwDlQDI=;oPfOGEKCwYB82yYE7mWkYQ=="
 ---
 
