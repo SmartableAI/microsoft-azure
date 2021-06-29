@@ -162,20 +162,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "OAG’s Flight Info API now available in the Microsoft Azure Marketplace"
-    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-    publishedDateTime: 2021-06-28T12:03:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-lifestyle-travel-6c060662c15f4a0db986d89d63a8960a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
     publishedDateTime: 2021-06-23T13:00:00Z
@@ -282,11 +268,20 @@ related:
   - title: "DataDx Version 2.0 Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataDx ®, business intelligence for independent medical and dental practices, today announced the availability of its state-of-the art dashboard with real-time analytics reporting in the Microsoft ( News - Alert) Azure Marketplace,"
     publishedDateTime: 2021-06-28T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398746.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-datadx-version-20-now-available-the-microsoft-azure-/2021/06/28/9398746.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 17
+  - title: "OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
+    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, a"
+    publishedDateTime: 2021-06-28T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210628005264/en/OAG’s-Flight-Info-API-Now-Available-in-the-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 17
 
 secured: "GLChz0xY3/nylDCJOkmLx8rTFOMPoUs+7cFpQhh9AbH5sqUUabu63Bj3CTUyQ5m5F8rl1JhrM1rwLYvhJnoDE1Eoqijla+KD1UnFUTxNKilsY2RyQV4pE9od+r9VCp/p7axD0GcPS58Tmd0KimothMiMxp1Qd5KFTdCA5sIAmj2vuhODKBunk2oiegvssaBl5GXw2k2CH1nRDPGc7WI7ZRXK8T7H09kGgmV8K75ROQ5guynH7BcGxdAkIja0ealqA6QNgiAyMy6sQ0P/4JvdufqV4rc+7FyUlnh6CGmMvbZXK5c6HxDLicH6kJYmGXN5rSDHc1Owr8EEgDYxX77Pm+s93y+mIRIaj66B2SJ2Acg=;NZLZ4ZjGhz9KgzXnJYd4WA=="

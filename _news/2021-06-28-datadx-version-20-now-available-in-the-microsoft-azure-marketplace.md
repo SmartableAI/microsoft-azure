@@ -3,8 +3,8 @@ category: news
 title: "DataDx Version 2.0 Now Available in the Microsoft Azure Marketplace"
 excerpt: "DataDx ®, business intelligence for independent medical and dental practices, today announced the availability of its state-of-the art dashboard with real-time analytics reporting in the Microsoft ( News - Alert) Azure Marketplace,"
 publishedDateTime: 2021-06-28T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398746.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398746.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-datadx-version-20-now-available-the-microsoft-azure-/2021/06/28/9398746.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-datadx-version-20-now-available-the-microsoft-azure-/2021/06/28/9398746.htm"
 type: article
 quality: 17
 heat: -1
@@ -166,20 +166,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "OAG’s Flight Info API now available in the Microsoft Azure Marketplace"
-    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-    publishedDateTime: 2021-06-28T12:03:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-lifestyle-travel-6c060662c15f4a0db986d89d63a8960a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
     publishedDateTime: 2021-06-23T13:00:00Z
@@ -283,7 +269,16 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 23
+  - title: "OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
+    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, a"
+    publishedDateTime: 2021-06-28T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210628005264/en/OAG’s-Flight-Info-API-Now-Available-in-the-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
 
-secured: "DNg8rQ6cedEoLmp1j+jjRyJyX5tG3fwzaWezcyjiuVBUXTmXKdtsCqtfHq/FRKg0Z2ks6dr477vQpMy6B2uD81DjGNxEqAzf4TYKgXQUJKh0NxHcN60fYNz1oTbE0YkWagnsRs5+yVq6Ti/LbeXb+2jqZ5DbwpJovD9FIr5vj7YU6DOWqKHn05VFqemG/JC9xTuQd6Wo95nSc8Tv+Tgum+rinQN5NTCRhVlvTnfLgLeGxacENj7+StumhtiQKYCekXSgazEnVNicp3QkwGfmhux0AlmvFsBovGACQBFXJEVz8az4FEWlk0L/l83IcKqI0Mrs7dEzfQCbNRxTPwxGlVm0GWI4JY9ACZ84alWPFgI=;mQkjxbt/YUosKx7QxGp3Jg=="
+secured: "bf0lBfmfVVCrwOaEJmN3pWdGyHCswHrxhu5wwzmdFr23GwQXTdkrHVaHsK89qkyfSBuTIchafkHu0SYeLSaFawXreAC7f9t7c/1gkLHvuTZXQJG0y8/BBHCOrxzNaS41f3eBXVBacr1+zpS6P7bMKlPMEig5VFqmuIG86/PriWu4ktzPzEQ8Fc45nWCF/sWVE961lwSeFjaU2wSlvOL4pk6A9yPNICWI2LRVDQmpx3EVXbOX+DV5MHHH6zMhy1/rL5RgQUYgrM2aPhvmph3ZIzua/rwGOiboc6knbT2/lWbrmyE53qI4VT6t0ZJWK+KGYxUU/XORbpIqsBcEw6yqb0WN15XFtKBSWkM2jTfWacA=;lKRF1TeI0hsmBbXNqNRiqA=="
 ---
 

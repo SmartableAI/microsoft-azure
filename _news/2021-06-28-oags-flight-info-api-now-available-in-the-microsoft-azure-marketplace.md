@@ -1,27 +1,21 @@
 ---
 category: news
-title: "OAG’s Flight Info API now available in the Microsoft Azure Marketplace"
-excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-publishedDateTime: 2021-06-28T12:03:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-lifestyle-travel-6c060662c15f4a0db986d89d63a8960a"
-webUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-lifestyle-travel-6c060662c15f4a0db986d89d63a8960a"
+title: "OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
+excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, a"
+publishedDateTime: 2021-06-28T16:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210628005264/en/OAG’s-Flight-Info-API-Now-Available-in-the-Microsoft-Azure-Marketplace"
+webUrl: "https://www.businesswire.com/news/home/20210628005264/en/OAG’s-Flight-Info-API-Now-Available-in-the-Microsoft-Azure-Marketplace"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "HPE expands GreenLake offerings for Microsoft Azure"
@@ -278,13 +272,13 @@ related:
   - title: "DataDx Version 2.0 Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataDx ®, business intelligence for independent medical and dental practices, today announced the availability of its state-of-the art dashboard with real-time analytics reporting in the Microsoft ( News - Alert) Azure Marketplace,"
     publishedDateTime: 2021-06-28T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398746.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-datadx-version-20-now-available-the-microsoft-azure-/2021/06/28/9398746.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
 
-secured: "vcb0WQ9L+uQRkvXnS/6xl37flQw8aUa2wiq4+pgnkSiGXYRwoedLsmH92jKX1qd6qAer9i/5KqO84yxFOJuhdmCLyUo5p6o9bMG4Mm6aBFhemfbTZDaQFOUZT/m1E2iHIQ9eBC8JYQ76EynOWam46n5oMW+t5vGXV5r6iLdxkicq5Y+daE3W8yopDMOgkaAB8SRWT9UgxWkpH/J4Nugb9FbxOJG2+/2NUjqo74zMFA1oB86DjEl1tv1cNEOTsG7nbiEHMXNZ7wH2gAnaXKWMZ49ZnJgiWIVZ/3/UXuEM5E9AcQvNbMntvMNS5t92umj4DuhIeK6+Q9xOY5G0AhfloWNY//2t5iCofA2WOH57nZc=;zsr3p8uwL7piW8o7rWksDQ=="
+secured: "VCmzmzdSjJNAhDRVA8S+LxrPpknhXjozHt+GjRqgFSwhWAoBM3aHykLhW/fNzM9zqyWmsSQ+LFVsbiMbgMlUAtQCQH1yWKDxnh2xkJju1mrBcolEto3UEAPVv80AuxGJ9cSI/fFIl9m4v7Mk40sYD3Zbzds4WEuJYJ+XVDuO8zWIJdtzPV+A9ewgKFbi69L7oEfEBAvHu8KnzbmlcSZbVqXje8AHoymTkwlm/I48iZritk3WyimwoWckqwKhKs+7k2T4qaTSKbuEcJVzazJ0sAk0Hp8DLaZNoPFDaef5a6PmRdsaMv4dyPri6GPX4vceBEoGraofQkm4H21q2hhFzH3WPW6mIFQf1Kpv6BWfgPY=;YrazO3/fYLXL5QqmZLpyYA=="
 ---
 
