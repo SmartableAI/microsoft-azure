@@ -4,6 +4,48 @@
   "page": 25,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-python-nasa.md",
+      "title": "Introduction to Python for space exploration",
+      "excerpt": "Get an introduction to the types of space exploration problems that Python and data science can influence.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-python-nasa/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 1180,
+        "average": 4.7694917
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-nasa-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-azure-api-management.md",
       "title": "Introduction to Azure API Management",
       "excerpt": "Evaluate whether Azure API Management is appropriate for managing and exposing your organization's APIs",
@@ -11,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-api-management/",
       "length": "PT29M",
       "ratings": {
-        "count": 7,
-        "average": 4.714286
+        "count": 8,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -55,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
       "length": "PT30M",
       "ratings": {
-        "count": 2140,
-        "average": 4.7060747
+        "count": 2141,
+        "average": 4.706212
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -141,8 +183,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/",
       "length": "PT25M",
       "ratings": {
-        "count": 1578,
-        "average": 4.662864
+        "count": 1579,
+        "average": 4.663078
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -571,8 +613,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-your-web-apps-with-redis/",
       "length": "PT55M",
       "ratings": {
-        "count": 440,
-        "average": 4.7568183
+        "count": 441,
+        "average": 4.7573695
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -647,8 +689,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-machine-learning-with-azure-databricks/",
       "length": "PT59M",
       "ratings": {
-        "count": 93,
-        "average": 4.6344085
+        "count": 94,
+        "average": 4.617021
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -865,8 +907,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 5605,
-        "average": 4.667083
+        "count": 5606,
+        "average": 4.6671424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1225,48 +1267,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/rust-error-handling-social.png",
-          "width": 1280,
-          "height": 640,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-rust-understand-common-concepts.md",
-      "title": "Understand common concepts in Rust",
-      "excerpt": "Learn about Rust concepts such as variables, data types, structs, enums, functions, indexing, hash maps, and flow control.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-rust-understand-common-concepts/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-understand-common-concepts/",
-      "length": "PT1H7M",
-      "ratings": {
-        "count": 393,
-        "average": 4.8575063
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/rust-understand-common-concepts-social.png",
           "width": 1280,
           "height": 640,
           "isCached": true
