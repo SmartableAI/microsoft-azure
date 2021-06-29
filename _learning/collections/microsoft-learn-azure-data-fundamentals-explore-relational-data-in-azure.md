@@ -4,7 +4,7 @@ excerpt: "Azure Data Fundamentals: Explore relational data in Azure"
 type: collection
 price: Free
 length: PT1H51M
-heat: 55
+heat: 61
 
 provider:
   name: Microsoft Learn
