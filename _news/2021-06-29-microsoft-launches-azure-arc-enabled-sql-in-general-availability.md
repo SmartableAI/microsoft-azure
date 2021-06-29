@@ -1,26 +1,33 @@
 ---
 category: news
-title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
-excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
-publishedDateTime: 2021-03-09T08:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-1030162367"
-webUrl: "https://markets.businessinsider.com/news/stocks/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-1030162367"
+title: "Microsoft launches Azure Arc-enabled SQL in general availability"
+excerpt: "Microsoft today announced Azure Arc-enabled SQL, which extends Azure services to edge datacenter or multicloud instances."
+publishedDateTime: 2021-06-29T14:00:00Z
+originalUrl: "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/"
+webUrl: "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/"
+ampWebUrl: "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/"
 type: article
-quality: 62
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-  - Storage
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -230,22 +237,6 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/05/24/687574ae-057e-489c-ba4b-5ac60b9a1f2a/arcenabledkubernetes.jpg"
         width: 997
         height: 734
-        isCached: true
-  - title: "Microsoft launches Azure Arc-enabled SQL in general availability"
-    excerpt: "Microsoft today announced Azure Arc-enabled SQL, which extends Azure services to edge datacenter or multicloud instances."
-    publishedDateTime: 2021-06-29T14:00:00Z
-    webUrl: "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/"
-    ampWebUrl: "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 97
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."
@@ -562,6 +553,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
+    excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
+    publishedDateTime: 2021-03-09T08:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-1030162367"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
   - title: "Public preview: Azure Communication Services interoperability with Microsoft Teams "
     excerpt: " Azure Communication Services is now interoperable with Microsoft Teams in preview, enabling you to leverage a unified offering for both internal and external communication experiences."
     publishedDateTime: 2021-03-02T17:00:13Z
@@ -1699,6 +1699,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "ciN/VRwkZ2n6puoN33xP/lnbIvXTCI9uJK5eAl2IzcnYxd9jjEgENQUhFmeI2icx7oaaG5VdYZp5Tf8HvGh5oSGtwGYpazZ3zcSFlVGZY4cZaF4EGTJRWagOJ4iUJNoUTuEDw/Ol/w3N5f6AdDCJazdcHjcoCl8yXoZXJmJcIkfCJxKr7jvGpKj4M54cyD8mNikjkOmn2jLUGQG86zgShXxz/CTOn3jK3lRD+uY5kqGYqwn9Aul7As+p+j0AhOPrM4FIhTJLDYP+LWY5thJwc3RUTQ4ZXmP5v5ByKYrfb8QUdSuMhaC+NtoB4sAgPtEdUr3YzkEHJcPwt4A8qY3U/dT35N4l2G3qh0EPPGctB5k=;+4jwWcCEQHaeQCLQFtfjBw=="
+secured: "WrduCm/HOFY6u8CzU94NuN2mPfZAsVOPd+au+iIWHiBGblAqKrzucl3WZLZUmQXBMGDxisAyvCppr1Rk4SfpNszwznx02dcBrLkL/7SkS8HfUWwRRq2qyZnVhqBTGoKrJRkedHRRHkXxtZ04sUU/YM7VR3nz2ala4jYd7KVICFn8cO1X2qwK8Cyf4t81rsBZNKdbSXLDzQ5XmeAeG2Iwbqk4GoWoIw4M+1KDLltWy5pIHrZEdacRDr6xPVjN3wiqL93ykGr/dOI1oIfoqR2jm0nlR0435WlikCdSBCQrN2x7+QscNj04lK49XRiNf7LqJ86iG3mIsqjdJkTb3a7yRDbka1J9b2BlWEJpqiE79/o=;VP5t4otPt5Fe2BQwP8AGcw=="
 ---
 

@@ -238,6 +238,22 @@ related:
         width: 997
         height: 734
         isCached: true
+  - title: "Microsoft launches Azure Arc-enabled SQL in general availability"
+    excerpt: "Microsoft today announced Azure Arc-enabled SQL, which extends Azure services to edge datacenter or multicloud instances."
+    publishedDateTime: 2021-06-29T14:00:00Z
+    webUrl: "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/"
+    ampWebUrl: "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft adds more services to its Azure Arc multi-cloud management stack"
     excerpt: "Microsoft has launched a set of new Azure services that organizations can now run on any CNCF-conformant Kubernetes cluster using its Azure Arc multiple-cloud service. At its virtual Build 2021 event,"
     publishedDateTime: 2021-05-25T18:53:00Z

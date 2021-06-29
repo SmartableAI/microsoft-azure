@@ -184,13 +184,13 @@ related:
       domain: finanznachrichten.de
     quality: 17
   - title: "SingleStore Managed Service Is Now Available in Microsoft Azure Marketplace"
-    excerpt: "SingleStore, the world's fastest unified database for data-intensive applications, today announced that SingleStore Managed Service is available in the Microsoft (News - Alert) Azure Marketplace, providing Microsoft customers with an easy way to procure SingleStore technology."
-    publishedDateTime: 2021-06-29T13:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-singlestore-managed-service-now-available-microsoft-azure-marketplace-/2021/06/29/9399846.htm"
+    excerpt: "SingleStore, the world’s fastest unified database for data-intensive applications, today announced that SingleStore Managed Service is available in th"
+    publishedDateTime: 2021-06-29T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210629005265/en/SingleStore-Managed-Service-Is-Now-Available-in-Microsoft-Azure-Marketplace"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 15
   - title: "Cloud-based Database Market – Major Technology Giants in Buzz Again | Oracle, Microsoft Azure, IBM, Apache Cassandra"
     excerpt: "AMA Research have added latest edition of survey study on Global Cloud based Database Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"

@@ -32,7 +32,7 @@ related:
   - title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
     excerpt: "Teradata (NYSE: TDC), the connected multi-cloud data platform company, today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft (News - Alert) Azure."
     publishedDateTime: 2021-06-29T13:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-teradata-enhances-cloud-offerings-microsoft-azure-/2021/06/29/9399809.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/29/9399809.htm"
     type: article
     provider:
       name: TMCnet

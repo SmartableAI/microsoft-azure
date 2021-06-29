@@ -166,6 +166,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "OAG’s Flight Info API now available in the Microsoft Azure Marketplace"
+    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+    publishedDateTime: 2021-06-28T12:03:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-lifestyle-travel-6c060662c15f4a0db986d89d63a8960a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "OAG Flight Info API now available in Microsoft Azure Marketplace"
     excerpt: "OAG, a leading provider of air travel data and insights, has announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
     publishedDateTime: 2021-06-29T04:29:00Z
@@ -283,15 +297,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 23
-  - title: "OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
-    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, a"
-    publishedDateTime: 2021-06-28T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210628005264/en/OAG’s-Flight-Info-API-Now-Available-in-the-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
 
 secured: "bf0lBfmfVVCrwOaEJmN3pWdGyHCswHrxhu5wwzmdFr23GwQXTdkrHVaHsK89qkyfSBuTIchafkHu0SYeLSaFawXreAC7f9t7c/1gkLHvuTZXQJG0y8/BBHCOrxzNaS41f3eBXVBacr1+zpS6P7bMKlPMEig5VFqmuIG86/PriWu4ktzPzEQ8Fc45nWCF/sWVE961lwSeFjaU2wSlvOL4pk6A9yPNICWI2LRVDQmpx3EVXbOX+DV5MHHH6zMhy1/rL5RgQUYgrM2aPhvmph3ZIzua/rwGOiboc6knbT2/lWbrmyE53qI4VT6t0ZJWK+KGYxUU/XORbpIqsBcEw6yqb0WN15XFtKBSWkM2jTfWacA=;lKRF1TeI0hsmBbXNqNRiqA=="
 ---

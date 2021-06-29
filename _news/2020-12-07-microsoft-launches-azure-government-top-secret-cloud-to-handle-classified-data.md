@@ -76,6 +76,17 @@ related:
         width: 971
         height: 545
         isCached: true
+  - title: "Microsoft announces Arc-enabled Azure SQL general availability"
+    excerpt: "The ability to run Azure SQL Managed Instance -- a cloud version of SQL Server -- on non-Azure clouds, and even on-premises, will be generally available and production-ready on July 30th, 2021."
+    publishedDateTime: 2021-06-29T07:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/microsoft-announces-arc-enabled-azure-sql-general-availability/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/microsoft-announces-arc-enabled-azure-sql-general-availability/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/microsoft-announces-arc-enabled-azure-sql-general-availability/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 94
   - title: "Microsoft's Azure Purview data governance service will help enterprises manage data"
     excerpt: "Microsoft's Azure Purview is a new cloud-based service that will help enterprises manage data and support compliance and data privacy regulations."
     publishedDateTime: 2020-12-07T16:04:00Z

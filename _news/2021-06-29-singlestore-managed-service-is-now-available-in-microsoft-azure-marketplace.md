@@ -1,18 +1,18 @@
 ---
 category: news
 title: "SingleStore Managed Service Is Now Available in Microsoft Azure Marketplace"
-excerpt: "SingleStore, the world's fastest unified database for data-intensive applications, today announced that SingleStore Managed Service is available in the Microsoft (News - Alert) Azure Marketplace, providing Microsoft customers with an easy way to procure SingleStore technology."
-publishedDateTime: 2021-06-29T13:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-singlestore-managed-service-now-available-microsoft-azure-marketplace-/2021/06/29/9399846.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-singlestore-managed-service-now-available-microsoft-azure-marketplace-/2021/06/29/9399846.htm"
+excerpt: "SingleStore, the world’s fastest unified database for data-intensive applications, today announced that SingleStore Managed Service is available in th"
+publishedDateTime: 2021-06-29T13:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210629005265/en/SingleStore-Managed-Service-Is-Now-Available-in-Microsoft-Azure-Marketplace"
+webUrl: "https://www.businesswire.com/news/home/20210629005265/en/SingleStore-Managed-Service-Is-Now-Available-in-Microsoft-Azure-Marketplace"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -213,6 +213,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "Mn/hphdT7tmlwZnJoWsYOhtbavsVMkUefB8v0NbeemE5jDojHmQsqFUTNVqB1uH6pvVXt/rj/mG0zP7e53vZiWtPFhVyXSgdceg6o+JaKeHDCCvWsdctfHNX9ODxLpa5UFGoBUVsCIZl3MRzftugS10wkJPu7pPSaxoKCZKmhBTLXeb86tmoIE5QDNwI+qwQIivMGGikLRmINJ1qO6ninlQZ+ZJfoQ22+IHUYuSNH1m9f+POs/94/64PZWfl7fTbtKcBJfHRvkO7fQFPNYj2U0m5Ajsb44Mb+POYwZLR1dR4POvd+Jd0bCi5s1HcbmzSp89GL1adjM12cmhHHHHYMzS2cbA0GteaEr63oVdPxh0=;/9RHY4bpVFjpHl897XmaEQ=="
+secured: "Sim4vf/nLsOPBIdWkHhK+J8wUsyI5Su3pIMa6gULsjYrWJXzvpXr4IC7JLtDS6kDGCVrS3bhnDrlum2p/dnW8RI+8W9lhYK62Byf4s4OXy7OK0GUMm1bo9ZF32OXjoRORBR+xq4ykifsyg1ZwoH7SnL4rjhNHkKsApNwPyw7Kfkh1wcqlh8e1xFsNLrpympknWz7GC3YyPR4Ei2ZBDKldugkln6P+3cwn3JYpf2o1BwBgLOh8E3/TR4AhFtH/76B879azivfv01GQUw7PQnj1giug8Mq4oe6t84f84uGbdfSPev+kVBgTdjBCbnF2n8LFLds6FO73ZGIzxvosMYGiCja1cTe//FPuYFAoGWa6I0=;avCRRbectJzNYVuXL1X+OA=="
 ---
 

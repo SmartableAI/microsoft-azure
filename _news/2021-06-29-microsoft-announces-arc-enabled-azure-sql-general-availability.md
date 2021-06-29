@@ -1,27 +1,28 @@
 ---
 category: news
-title: "AirHop Communications Brings Real-Time 5G Network Intelligence Solution to Microsoft Azure 4G/5G"
-excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
-publishedDateTime: 2020-12-03T19:35:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-eb13cfc4af744e8e870847a7a002c878"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-eb13cfc4af744e8e870847a7a002c878"
+title: "Microsoft announces Arc-enabled Azure SQL general availability"
+excerpt: "The ability to run Azure SQL Managed Instance -- a cloud version of SQL Server -- on non-Azure clouds, and even on-premises, will be generally available and production-ready on July 30th, 2021."
+publishedDateTime: 2021-06-29T07:00:00Z
+originalUrl: "https://www.zdnet.com/index.php/article/microsoft-announces-arc-enabled-azure-sql-general-availability/"
+webUrl: "https://www.zdnet.com/index.php/article/microsoft-announces-arc-enabled-azure-sql-general-availability/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/microsoft-announces-arc-enabled-azure-sql-general-availability/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/microsoft-announces-arc-enabled-azure-sql-general-availability/"
 type: article
-quality: 24
+quality: 94
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - Databases
 
 related:
   - title: "Microsoft launches Azure Digital Twins in general availability"
@@ -70,17 +71,6 @@ related:
         width: 971
         height: 545
         isCached: true
-  - title: "Microsoft announces Arc-enabled Azure SQL general availability"
-    excerpt: "The ability to run Azure SQL Managed Instance -- a cloud version of SQL Server -- on non-Azure clouds, and even on-premises, will be generally available and production-ready on July 30th, 2021."
-    publishedDateTime: 2021-06-29T07:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/microsoft-announces-arc-enabled-azure-sql-general-availability/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/microsoft-announces-arc-enabled-azure-sql-general-availability/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/microsoft-announces-arc-enabled-azure-sql-general-availability/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 94
   - title: "Microsoft launches Azure Government Top Secret cloud to handle classified data"
     excerpt: "Microsoft is adding a new offering to its Azure cloud family for U.S. government customers: Azure Government Top Secret. It's also bringing more of its services to Azure Government Secret."
     publishedDateTime: 2020-12-07T06:02:00Z
@@ -612,6 +602,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AirHop Communications Brings Real-Time 5G Network Intelligence Solution to Microsoft Azure 4G/5G"
+    excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
+    publishedDateTime: 2020-12-03T19:35:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-eb13cfc4af744e8e870847a7a002c878"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
     excerpt: "As a key partner for Azure Digital Twins, Johnson Control’s OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device manag"
     publishedDateTime: 2020-12-09T12:47:00Z
@@ -729,6 +733,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "S3MkQF4dazWYTY4AjANLT6LNlFQi9a5TgUkG0akjuKWLjTTlgHMrlHImCPJgQGfE7hxWVn7WVDuIlKkuwwQdF3sdpiOI3nSLQPFHS1UfDgHC8qPcVTO9TQW7wlhqZpgPSSYA4lvaa3ssx64nr/c+WBGjZoPbKqr9/r/zac+EGiHFq3DEBnWMH94YHXmLE/jpI/jl9AOgzW/HAJafZ7b0+twvIvbx05zUtkKGcFmqyaGi7Y9eahUu21bMJlFQCwNqvOgWUK7xU1t21Iikn7FGJzoKaX3I9Th9Oz9ynXYYc9QFWnqhOJnHvjVnYGqnTGJdj5SI4EXa2msut+6MxozdoaYC024ihQYDwxY2g6TuEqg=;bCptJBdFMTMXvHkkm1OUYw=="
+secured: "m6RCKNxG+uze1EY57AjKYSBpZigsrtYhrp5fo5OWIKmLQzKRrsviYK3y4ry/jYIsh8aHRRoRarq2y4X+rs6UT7WyLnSV1MkAInBxYAWN1Lgm1f7aODO39smXPiObuigjNVgZ/TpYhTabzEAAUs8lwH/n3tt+pVWUzqOVofrv4bP6QeP55sAMzQHJsjFclBbt44Fe2EI5v/A9GSZR/7jPJdjDWAk7sVIvVhAPWteyC9wx1Pzp+bAjH/X5R0KXvLlR7aTmdhBDnXVLNT7Cr4K1ccTrrOU5Oq9F0mm9hr9MP1Po5NNslSQS5qT8A2sS1+tOpDBHg6HqpmsFVz/9+pDugl5iWve0NVEZxI8HRoZARYetumZ564vIbGHg3mnoFkjuPzjODURgSInTWUtyMJcNE1QvWjzIQR/WqKrRSfNvILvRLlr4y2sHVOAdZux8kgNAMN6IUg7y9yUQND1GOGxMMIbOdJBtATD+u2OnggLZk78rznNfujeOffU4Gj6KrG0Wk7RCPL+ro4PkbZOdOcgx5g==;n/MSqczASesKSaWxOH+sHQ=="
 ---
 
