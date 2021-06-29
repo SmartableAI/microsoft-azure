@@ -4,6 +4,176 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-distributed-programming-on-the-cloud.md",
+      "title": "Distributed programming on the cloud",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Gain a deep understanding of data and how it's stored on the cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-distributed-programming-on-the-cloud/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-distributed-programming-on-the-cloud/",
+      "length": "PT6H54M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-introduction.md",
+          "title": "What is distributed programming?",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about distributed programming and why it's useful for the cloud, including programming models, types of parallelism, and symmetrical vs. asymmetrical architecture.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-distributed-programming-introduction/",
+          "length": "PT1H57M",
+          "ratings": {
+            "count": 51,
+            "average": 4.745098
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-analytics-engines-mapreduce.md",
+          "title": "Distributed computing on the cloud: MapReduce",
+          "excerpt": "Carnegie Mellon University's cloud developer course. MapReduce was a breakthrough in big data processing that has become mainstream and been improved upon significantly. Learn about how MapReduce works.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analytics-engines-mapreduce/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-analytics-engines-mapreduce/",
+          "length": "PT1H47M",
+          "ratings": {
+            "count": 33,
+            "average": 4.818182
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-analytics-engines-graphlab.md",
+          "title": "Distributed computing on the cloud: GraphLab",
+          "excerpt": "Carnegie Mellon University's cloud developer course. GraphLab is a big data tool developed by Carnegie Mellon University to help with data mining. Learn about how GraphLab works and why it's useful.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analytics-engines-graphlab/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-analytics-engines-graphlab/",
+          "length": "PT1H3M",
+          "ratings": {
+            "count": 32,
+            "average": 4.90625
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-analytics-engines-spark.md",
+          "title": "Distributed computing on the cloud: Spark",
+          "excerpt": "Carnegie Mellon University's cloud developer course. Spark is an open-source cluster-computing framework with different strengths than MapReduce has. Learn about how Spark works.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analytics-engines-spark/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-analytics-engines-spark/",
+          "length": "PT1H5M",
+          "ratings": {
+            "count": 36,
+            "average": 4.8055553
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-explore-data-governance-in-microsoft-365.md",
       "title": "Explore data governance in Microsoft 365",
       "excerpt": "Explore data governance in Microsoft 365",
@@ -3924,8 +4094,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/administer-manage-windows-server-iaas-virtual-machine-remotely/",
           "length": "PT44M",
           "ratings": {
-            "count": 45,
-            "average": 4.7777777
+            "count": 46,
+            "average": 4.7826085
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6230,220 +6400,6 @@
         }
       ],
       "size": 5,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-sc-200-part-4-create-queries-for-azure-sentinel-using-kusto-query-language-kql.md",
-      "title": "SC-200 part 4: Create queries for Azure Sentinel using Kusto Query Language (KQL)",
-      "excerpt": "SC-200 part 4: Create queries for Azure Sentinel using Kusto Query Language (KQL)",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-sc-200-part-4-create-queries-for-azure-sentinel-using-kusto-query-language-kql/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-sc-200-part-4-create-queries-for-azure-sentinel-using-kusto-query-language-kql/",
-      "length": "PT2H3M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-construct-kql-statements.md",
-          "title": "Construct KQL statements for Azure Sentinel",
-          "excerpt": "Construct KQL statements for Azure Sentinel",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-construct-kql-statements/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/construct-kusto-query-language-statements/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 256,
-            "average": 4.7851562
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-analyze-results-kql.md",
-          "title": "Analyze query results using KQL",
-          "excerpt": "Analyze query results using KQL",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-results-kql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-results-kusto-query-language/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 220,
-            "average": 4.7818184
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-build-multi-table-statements-kql.md",
-          "title": "Build multi-table statements using KQL",
-          "excerpt": "Build multi-table statements using KQL",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-multi-table-statements-kql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-multi-table-statements-kusto-query-language/",
-          "length": "PT21M",
-          "ratings": {
-            "count": 201,
-            "average": 4.7711444
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-work-with-data-kql.md",
-          "title": "Work with data in Azure Sentinel using Kusto Query Language",
-          "excerpt": "Work with data in Azure Sentinel using Kusto Query Language",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-data-kql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-kusto-query-language/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 281,
-            "average": 4.7615657
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        }
-      ],
-      "size": 4,
       "heat": 60,
       "images": [
         {

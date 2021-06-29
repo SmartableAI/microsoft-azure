@@ -4,6 +4,93 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload.md",
+      "title": "Choose the right disk storage for your virtual machine workload",
+      "excerpt": "Azure provides a variety of disk storage options for virtual machine workloads. Identify the features of capabilities of each type to ensure your application performs optimally.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 3721,
+        "average": 4.746036
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-distribute-load-with-traffic-manager.md",
+      "title": "Enhance your service availability and data locality by using Azure Traffic Manager",
+      "excerpt": "Discover how Azure Traffic Manager provides DNS load balancing for your application to improve the performance and availability of your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-load-with-traffic-manager/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 3074,
+        "average": 4.627196
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/distribute-load-with-traffic-manager-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
       "title": "Encrypt network traffic end to end with Azure Application Gateway",
       "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
@@ -181,8 +268,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 3254,
-        "average": 4.7126613
+        "count": 3255,
+        "average": 4.7127495
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -354,8 +441,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-project-github/",
       "length": "PT43M",
       "ratings": {
-        "count": 508,
-        "average": 4.78937
+        "count": 509,
+        "average": 4.7878194
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2690,8 +2777,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-insights-from-videos-with-video-indexer-service/",
           "length": "PT27M",
           "ratings": {
-            "count": 75,
-            "average": 4.866667
+            "count": 76,
+            "average": 4.868421
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3031,8 +3118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sap-workloads-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 231,
-            "average": 4.744589
+            "count": 232,
+            "average": 4.74569
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3073,8 +3160,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/maintain-azure-sap-workloads/",
           "length": "PT48M",
           "ratings": {
-            "count": 229,
-            "average": 4.7816596
+            "count": 230,
+            "average": 4.7826085
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3115,8 +3202,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-azure-backup-sap-workloads-azure-virtual-machines/",
           "length": "PT20M",
           "ratings": {
-            "count": 41,
-            "average": 4.804878
+            "count": 42,
+            "average": 4.8095236
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3565,8 +3652,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
       "length": "PT36M",
       "ratings": {
-        "count": 216,
-        "average": 4.7916665
+        "count": 217,
+        "average": 4.792627
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3668,81 +3755,6 @@
       "topics": [
         "Azure",
         "Storage",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
-      "title": "Design a geographically distributed application",
-      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 992,
-        "average": 4.702621
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 61,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Web",
-        "Compute",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
-      "title": "Execute an Azure Function with triggers",
-      "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
-      "length": "PT1H23M",
-      "ratings": {
-        "count": 5126,
-        "average": 4.730004
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
         "Management Tools"
       ]
     }
