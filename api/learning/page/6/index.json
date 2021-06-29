@@ -4,6 +4,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-allow-users-to-reset-their-password.md",
+      "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
+      "excerpt": "Learn how to allow users to reset their password with Azure Active Directory self-service password reset.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-allow-users-to-reset-their-password/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 3627,
+        "average": 4.750758
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-security.md",
       "title": "Microsoft Azure Well-Architected Framework - Security",
       "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 4702,
-        "average": 4.7577624
+        "count": 4703,
+        "average": 4.757814
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -55,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 3665,
-        "average": 4.833561
+        "count": 3669,
+        "average": 4.8334694
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -97,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
       "length": "PT24M",
       "ratings": {
-        "count": 1583,
-        "average": 4.699305
+        "count": 1584,
+        "average": 4.699495
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -488,8 +531,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 462,
-        "average": 4.766234
+        "count": 463,
+        "average": 4.766739
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -566,8 +609,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
       "length": "PT48M",
       "ratings": {
-        "count": 7018,
-        "average": 4.7177258
+        "count": 7021,
+        "average": 4.7175617
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -665,8 +708,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-text-with-azure-content-moderator/",
           "length": "PT31M",
           "ratings": {
-            "count": 2296,
-            "average": 4.6763935
+            "count": 2297,
+            "average": 4.6765347
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -709,8 +752,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
           "length": "PT54M",
           "ratings": {
-            "count": 2144,
-            "average": 4.6912313
+            "count": 2146,
+            "average": 4.6915193
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -873,8 +916,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2846,
-            "average": 4.638791
+            "count": 2847,
+            "average": 4.638567
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -918,8 +961,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
           "length": "PT43M",
           "ratings": {
-            "count": 1399,
-            "average": 4.7069335
+            "count": 1400,
+            "average": 4.707143
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1051,8 +1094,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
           "length": "PT27M",
           "ratings": {
-            "count": 639,
-            "average": 4.748044
+            "count": 641,
+            "average": 4.74727
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1095,8 +1138,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
           "length": "PT42M",
           "ratings": {
-            "count": 454,
-            "average": 4.746696
+            "count": 456,
+            "average": 4.745614
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1139,8 +1182,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
           "length": "PT26M",
           "ratings": {
-            "count": 364,
-            "average": 4.747253
+            "count": 366,
+            "average": 4.748634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1175,8 +1218,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
           "length": "PT8M",
           "ratings": {
-            "count": 376,
-            "average": 4.7260637
+            "count": 378,
+            "average": 4.724868
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1280,8 +1323,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 16111,
-        "average": 4.7234187
+        "count": 16113,
+        "average": 4.723391
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1323,8 +1366,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
       "length": "PT54M",
       "ratings": {
-        "count": 2144,
-        "average": 4.6912313
+        "count": 2146,
+        "average": 4.6915193
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1404,8 +1447,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 4324,
-        "average": 4.833719
+        "count": 4327,
+        "average": 4.833834
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1447,8 +1490,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-azure-functions-iot/",
       "length": "PT27M",
       "ratings": {
-        "count": 272,
-        "average": 4.75
+        "count": 273,
+        "average": 4.7509155
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1534,8 +1577,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
       "length": "PT31M",
       "ratings": {
-        "count": 744,
-        "average": 4.732527
+        "count": 745,
+        "average": 4.732886
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1577,8 +1620,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/",
       "length": "PT42M",
       "ratings": {
-        "count": 3524,
-        "average": 4.6694098
+        "count": 3527,
+        "average": 4.669691
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1612,8 +1655,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/",
       "length": "PT24M",
       "ratings": {
-        "count": 1463,
-        "average": 4.7129188
+        "count": 1465,
+        "average": 4.7133107
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1655,8 +1698,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 9228,
-        "average": 4.671543
+        "count": 9232,
+        "average": 4.671577
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1849,8 +1892,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 4302,
-            "average": 4.6231985
+            "count": 4304,
+            "average": 4.6233735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1886,8 +1929,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2501,
-            "average": 4.602159
+            "count": 2504,
+            "average": 4.602636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2391,7 +2434,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 134,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-introduction-social.png",
@@ -2559,8 +2602,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
       "length": "PT1H11M",
       "ratings": {
-        "count": 7130,
-        "average": 4.7359047
+        "count": 7131,
+        "average": 4.735942
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2583,42 +2626,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
-      "title": "Configure the network for your virtual machines",
-      "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
-      "length": "PT1H34M",
-      "ratings": {
-        "count": 8852,
-        "average": 4.659512
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 67,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Networking"
       ]
     }
   ],

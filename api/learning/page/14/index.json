@@ -4,6 +4,48 @@
   "page": 14,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-rust-get-started.md",
+      "title": "Get started with Rust",
+      "excerpt": "Learn how to get started with Rust - set up the environment, write a program, and use the Cargo build system.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-rust-get-started/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-get-started/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 748,
+        "average": 4.8569517
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/rust-get-started-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
       "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
       "excerpt": "Learn how to troubleshoot inbound network connectivity for Azure Load Balancer.",
@@ -11,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
       "length": "PT1H38M",
       "ratings": {
-        "count": 1759,
-        "average": 4.747584
+        "count": 1765,
+        "average": 4.7456093
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -56,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 3267,
-        "average": 4.6522803
+        "count": 3269,
+        "average": 4.651881
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -200,8 +242,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 6922,
-            "average": 4.7058654
+            "count": 6923,
+            "average": 4.705908
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +390,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "PT50M",
       "ratings": {
-        "count": 3742,
-        "average": 4.6921434
+        "count": 3745,
+        "average": 4.691856
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -462,8 +504,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "PT28M",
       "ratings": {
-        "count": 6922,
-        "average": 4.7058654
+        "count": 6923,
+        "average": 4.705908
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -589,8 +631,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 5524,
-        "average": 4.757965
+        "count": 5526,
+        "average": 4.757872
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -754,8 +796,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2317,
-        "average": 4.831679
+        "count": 2318,
+        "average": 4.8313203
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -797,8 +839,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/",
       "length": "PT33M",
       "ratings": {
-        "count": 1336,
-        "average": 4.6482034
+        "count": 1337,
+        "average": 4.6484666
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -841,8 +883,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
       "length": "PT46M",
       "ratings": {
-        "count": 1531,
-        "average": 4.80209
+        "count": 1532,
+        "average": 4.8022194
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -884,8 +926,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-prioritize-your-issues-and-apply-security-controls/",
       "length": "PT14M",
       "ratings": {
-        "count": 350,
-        "average": 4.7314286
+        "count": 351,
+        "average": 4.732194
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1171,8 +1213,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-vm-with-azure-bastion/",
       "length": "PT40M",
       "ratings": {
-        "count": 1722,
-        "average": 4.760163
+        "count": 1725,
+        "average": 4.7582607
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1214,8 +1256,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "PT43M",
       "ratings": {
-        "count": 2682,
-        "average": 4.616331
+        "count": 2684,
+        "average": 4.616617
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1301,8 +1343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
       "length": "PT8M",
       "ratings": {
-        "count": 376,
-        "average": 4.7260637
+        "count": 378,
+        "average": 4.724868
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1323,50 +1365,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/approach-your-data-flow-diagram-with-the-right-threat-model-focus-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tm-create-a-threat-model-using-foundational-data-flow-diagram-elements.md",
-      "title": "Create a threat model using data-flow diagram elements",
-      "excerpt": "Data-flow diagrams are graphical representations of your system and should specify each element, their interactions and context.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 454,
-        "average": 4.746696
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-a-threat-model-using-data-flow-diagram-elements-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
