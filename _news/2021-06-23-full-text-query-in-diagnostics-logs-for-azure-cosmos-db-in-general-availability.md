@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/full-text-query-in-diagn
 webUrl: "https://azure.microsoft.com/en-us/updates/full-text-query-in-diagnostics-logs-for-azure-cosmos-db-in-general-availability/"
 type: article
 quality: 80
-heat: 101
+heat: 100
 published: true
 
 provider:

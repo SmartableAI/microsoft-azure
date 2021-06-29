@@ -3,8 +3,8 @@ category: news
 title: "DataDx Version 2.0 Now Available in the Microsoft Azure Marketplace"
 excerpt: "DataDx ®, business intelligence for independent medical and dental practices, today announced the availability of its state-of-the art dashboard with real-time analytics reporting in the Microsoft ( News - Alert) Azure Marketplace,"
 publishedDateTime: 2021-06-28T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-datadx-version-20-now-available-the-microsoft-azure-/2021/06/28/9398746.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-datadx-version-20-now-available-the-microsoft-azure-/2021/06/28/9398746.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398746.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398746.htm"
 type: article
 quality: 17
 heat: -1
@@ -284,6 +284,6 @@ related:
       domain: telecompaper.com
     quality: 23
 
-secured: "XafUgefJFb+2wb/+9CxrI0qVsMTSB23C/T9r+uO98dhr4OkidWXRBbBTKkKH3Mlz3ff2k/AgOQz+wx37ZhS+JC4qfWboGNAXXhIy9Ym0kdmHC9AE9BCZR7OXetA0Ls7WKD/HnzAmVowzz1mv+ufl+K3OE2iScZNNei3i9Nqbq3hPHqX0hFf7wh14kcA/SddhEKkIfxeSuWPbN5SUL9ZZ1LxD8S7a/xUtjXUSqrrJfEqObs255483zNI9+hqvjyaxAsUKyERD3YOQ5ib0zMwLglUyL/Ye+b+OiVdZQtdQMSHq+u3/Lz87mfV2YVHbmop/3zPVa3/aV0mqHjBe/3fIwNkbumXB+w0SMr506TPGWAQ=;hPbxnUtFK7n2tuI4sOLEzA=="
+secured: "DNg8rQ6cedEoLmp1j+jjRyJyX5tG3fwzaWezcyjiuVBUXTmXKdtsCqtfHq/FRKg0Z2ks6dr477vQpMy6B2uD81DjGNxEqAzf4TYKgXQUJKh0NxHcN60fYNz1oTbE0YkWagnsRs5+yVq6Ti/LbeXb+2jqZ5DbwpJovD9FIr5vj7YU6DOWqKHn05VFqemG/JC9xTuQd6Wo95nSc8Tv+Tgum+rinQN5NTCRhVlvTnfLgLeGxacENj7+StumhtiQKYCekXSgazEnVNicp3QkwGfmhux0AlmvFsBovGACQBFXJEVz8az4FEWlk0L/l83IcKqI0Mrs7dEzfQCbNRxTPwxGlVm0GWI4JY9ACZ84alWPFgI=;mQkjxbt/YUosKx7QxGp3Jg=="
 ---
 
