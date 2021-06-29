@@ -3,7 +3,7 @@ name: "Jason Zander"
 bio: "Executive Vice President Microsoft Azure, avid programmer, huge Seahawks fan. Go Hawks!"
 location: Redmond, WA
 type: "profile"
-heat: 65
+heat: 31
 
 affiliation:
   name: Microsoft
@@ -16,7 +16,7 @@ affiliation:
 twitter:
   username: jlzander
   url: https://twitter.com/jlzander
-  followers: 7483
+  followers: 7481
 
 linkedin:
   url: https://www.linkedin.com/in/jason-zander-62780637/
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Jason Zander"
 
-secured: "ytkVmLDLHiz9/EK9JzkS49dJryUSFKJREvTVs9JMU2LN+Fba7JJkd2uOEz5XilQiDPrIBQj9JbVhcBMm8/MmwhdeKw7utUwvnt/hc/7CRtByt/ZqKP22V9DGn42HQhf0MFjMQBC1vaZnnCdbOsCDwSAY7N2rscn/rzRrpwQVvl3WFD+8Va7LljSUsSOqYmysOi/xKxvvIilUUSIImBbDpvHXBlcROjOwxtIdNrvzSxPe5pDGuSWjmu1laOhm+IiHLIqI5mhj0EH7gX2Q357i7lKMJhFbM62AaeQBLHHL56kS7YGyx0RBrNJ9WZ3WDEuDyHkSsraR+x0AIFGdttq7sVxldZX09H0vFQF1yEufaCiqsubeTUT2rZqMYx+OLUagrEWJwdRJzgmP2BA9IR0Xz/JEOqcZxmMT+eJjL+8Hfb4=;er6/GQsZi1b5FnbEAzbbnQ=="
+secured: "QdHDY++tBhsOyqXAQ7HgjFW3oPPVsvhzCQ7OrH5M8GssIekPy5K7YBncBaAxZGP4NL/MBQsbXU6cYuf4VBUH6VemeK98SY4QEfBHopKbdZ9pphBvBoceIKlftMHR6hPVmvRTwuN285FyQQluPZlHRs7Ej5Cd+M58GSsspk0soyqKxY3eLWV57WK4jreLPizql6AnTqfDISt9KLcJLd0UivlDfgGzBZ/JnhuSPiq8CzRbzB1PgyLjjhuuAaVyhNv9qg9rY2HspqUocF2fyWCEymJgn2XIVvSVN9FODkNc/LI4sG8OsyT4zNt+m/RftfRlVpPeYcIXUM6UACALQJJacDqUqjuam6b5hAqcONKhMSFGuqHwKpxlr+TgWS4qmw6NHH1suq+LllyiomIHSfBPWw==;3iz+qp598uIV8jjbNjZp+w=="
 ---
 
