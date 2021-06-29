@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/automating-audio-file-tr
 webUrl: "https://azure.microsoft.com/en-us/updates/automating-audio-file-transcription-through-ingestion-client/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
