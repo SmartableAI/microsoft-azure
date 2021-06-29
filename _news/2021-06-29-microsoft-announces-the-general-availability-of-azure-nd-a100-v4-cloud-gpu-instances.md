@@ -1,30 +1,26 @@
 ---
 category: news
-title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
-excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
-publishedDateTime: 2020-12-07T10:43:00Z
-originalUrl: "https://news.microsoft.com/en-gb/2020/12/07/uks-first-electric-car-charging-forecourt-opens-to-the-public-powered-by-microsoft-azure-and-dynamics/"
-webUrl: "https://news.microsoft.com/en-gb/2020/12/07/uks-first-electric-car-charging-forecourt-opens-to-the-public-powered-by-microsoft-azure-and-dynamics/"
+title: "Microsoft Announces the General Availability of Azure ND A100 V4 Cloud GPU Instances"
+excerpt: "Microsoft announced the general availability of the Azure ND A100 v4 Cloud GPU instances—powered by NVIDIA A100 Tensor Core GPUs. These Virtual Machines (VMs) are targeted at customers with high performance and demanding workloads like Artificial Intelligence (AI) and Machine Learning (ML) workloads."
+publishedDateTime: 2021-06-29T11:08:00Z
+originalUrl: "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/"
+webUrl: "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/"
 type: article
-quality: 21
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/GS-EF-Braintree-093-1600x1067.jpg"
-    width: 1600
-    height: 1067
+  - url: "https://res.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/en/headerimage/header+%281%29-1624710420680.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -577,20 +573,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Microsoft Announces the General Availability of Azure ND A100 V4 Cloud GPU Instances"
-    excerpt: "Microsoft announced the general availability of the Azure ND A100 v4 Cloud GPU instances—powered by NVIDIA A100 Tensor Core GPUs. These Virtual Machines (VMs) are targeted at customers with high performance and demanding workloads like Artificial Intelligence (AI) and Machine Learning (ML) workloads."
-    publishedDateTime: 2021-06-29T11:08:00Z
-    webUrl: "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 30
-    images:
-      - url: "https://res.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/en/headerimage/header+%281%29-1624710420680.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
     excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
     publishedDateTime: 2020-09-07T11:19:00Z
@@ -632,6 +614,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
+    excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
+    publishedDateTime: 2020-12-07T10:43:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2020/12/07/uks-first-electric-car-charging-forecourt-opens-to-the-public-powered-by-microsoft-azure-and-dynamics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 21
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/GS-EF-Braintree-093-1600x1067.jpg"
+        width: 1600
+        height: 1067
         isCached: true
   - title: "University Hospitals Birmingham NHS Foundation Trust chooses to run new data hub on Microsoft Azure cloud"
     excerpt: "By using Azure, UHB ensures that all medical data is secure, kept in the UK and can be accessed by approved people."
@@ -722,6 +718,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "Ikaq6vVary1OD536pX4iGcEYu3VEp2VdX5FN7h1tEabuDDqSejB4GGp2ynGw0003MSboR4ETRgUY4X/2VfOF6puh6wXfrOThXNWx7j+g+ME2bh418T/h3315nR/0STqfq/jaxnVCOT41rS+2ChvnsciCV5hbVautDX1RNza+1zP1LP26ylBiabrweqo/LEivfc6KbTG6+leHI1ccFY/IkVAWP/79JoA5nPvoph9v5W3YShTKZMQr1nCpsCA7aPL3SN5S1KGxepuc6Q4659KS+ZafzmYH4nnG6LN2nZLUc2tFntrtYfqx8TRe8xt3tNKaRue2+UElZfTU0eqMHtYioTL2o72AwBxtjDSjJQUDPKF/pf1bPQgjRj0Jjhmc0xFeW6fRoxV8tYY9WfdZP1/KAOYJtiqqHGsx4ZkwsbIFhpsCoDNOgMXnopp7JOFmh8Wglx+lCt6B934y+UeCX8UqUtzLg9OqLkLtkUXu/wiz4nTXeFAWr6VwUrMul2eySy4jwQIC9bkpOBkzCLmaE2zsaQ==;RJ3ghp29+AJ5aLilH0QY+Q=="
+secured: "MF/Z71hIhlWSD/WQABhwTtAdRT7gdTeGbPrnLf00FFSUxbUT4rFcfaRSocl9zfG2/dJWDPNPeBzAqyxR3Zzg8n1AJBo61wV/AfmML9J5d1HOWcRzOJ5pIws+NPbOLFJNKCWqlDbdQRD0tMnL8mQK02ouGbC68QcnuGLDWVlAJv0b7K7GP2teSWbo4P7Sst1veO0oXPxK207vEswse5ImN5BXGr+eDIE+xo3v5tF4SgosNx82xRj0z0h7cZbWmCLpSEqIKlbDVftCEOU81aaY8AreGQEEPm3FOGLbJjGauvfvOazjpI10wjzQ41lCWjtLxhR28upzsAz7mZwl0/5HB/A6oSFVuFCST0iqboJ+N/s=;ETDeMTIuJJhEa/IuRvRr6Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
 type: article
 quality: 97
-heat: 1097
+heat: 1117
 published: true
 
 provider:
@@ -561,6 +561,20 @@ related:
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/db/9db761ab-05fd-574f-9640-6cdc6d385b26/60215747a4ad3.image.jpg?resize=1120%2C630"
         width: 1120
+        height: 630
+        isCached: true
+  - title: "Microsoft Announces the General Availability of Azure ND A100 V4 Cloud GPU Instances"
+    excerpt: "Microsoft announced the general availability of the Azure ND A100 v4 Cloud GPU instances—powered by NVIDIA A100 Tensor Core GPUs. These Virtual Machines (VMs) are targeted at customers with high performance and demanding workloads like Artificial Intelligence (AI) and Machine Learning (ML) workloads."
+    publishedDateTime: 2021-06-29T11:08:00Z
+    webUrl: "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 30
+    images:
+      - url: "https://res.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/en/headerimage/header+%281%29-1624710420680.jpg"
+        width: 1200
         height: 630
         isCached: true
   - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"

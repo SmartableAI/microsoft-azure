@@ -571,6 +571,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Microsoft Announces the General Availability of Azure ND A100 V4 Cloud GPU Instances"
+    excerpt: "Microsoft announced the general availability of the Azure ND A100 v4 Cloud GPU instances—powered by NVIDIA A100 Tensor Core GPUs. These Virtual Machines (VMs) are targeted at customers with high performance and demanding workloads like Artificial Intelligence (AI) and Machine Learning (ML) workloads."
+    publishedDateTime: 2021-06-29T11:08:00Z
+    webUrl: "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 30
+    images:
+      - url: "https://res.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/en/headerimage/header+%281%29-1624710420680.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
     excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
     publishedDateTime: 2020-09-07T11:19:00Z
