@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft Launches Azure Private MEC with AT&T in Tow, Not Vice Versa"
-excerpt: "If Multi-access Edge Computing becomes an option for your data center services, would you be contracting with the cloud provider or the telco provider?"
-publishedDateTime: 2021-06-21T20:13:00Z
-originalUrl: "https://www.datacenterknowledge.com/cloud/microsoft-launches-azure-private-mec-att-tow-not-vice-versa"
-webUrl: "https://www.datacenterknowledge.com/cloud/microsoft-launches-azure-private-mec-att-tow-not-vice-versa"
+title: "OAG Flight Info API now available in Microsoft Azure Marketplace"
+excerpt: "OAG, a leading provider of air travel data and insights, has announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+publishedDateTime: 2021-06-29T04:29:00Z
+originalUrl: "https://www.bernama.com/en/business/news.php?id=1976919"
+webUrl: "https://www.bernama.com/en/business/news.php?id=1976919"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Data Center Knowledge
-  domain: datacenterknowledge.com
+  name: bernama.com
+  domain: bernama.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/210610%205G%20tower.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.bernama.com/bm/img/bernama.png"
+    width: 2483
+    height: 2942
     isCached: true
 
 related:
@@ -130,6 +130,20 @@ related:
         width: 950
         height: 445
         isCached: true
+  - title: "Microsoft Launches Azure Private MEC with AT&T in Tow, Not Vice Versa"
+    excerpt: "If Multi-access Edge Computing becomes an option for your data center services, would you be contracting with the cloud provider or the telco provider?"
+    publishedDateTime: 2021-06-21T20:13:00Z
+    webUrl: "https://www.datacenterknowledge.com/cloud/microsoft-launches-azure-private-mec-att-tow-not-vice-versa"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 37
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/210610%205G%20tower.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Joins Apple In Hitting $2T Market Cap As Azure Sales Fly"
     excerpt: "Microsoft has become a $2 trillion company, less than a year after archrival Apple reached the market capitalization milestone. The Redmond, Wash.-based company hit the $2 trillion market cap as its stock price grew roughly 1."
     publishedDateTime: 2021-06-22T20:11:00Z
@@ -171,20 +185,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "OAG Flight Info API now available in Microsoft Azure Marketplace"
-    excerpt: "OAG, a leading provider of air travel data and insights, has announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-    publishedDateTime: 2021-06-29T04:29:00Z
-    webUrl: "https://www.bernama.com/en/business/news.php?id=1976919"
-    type: article
-    provider:
-      name: bernama.com
-      domain: bernama.com
-    quality: 37
-    images:
-      - url: "https://www.bernama.com/bm/img/bernama.png"
-        width: 2483
-        height: 2942
         isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
@@ -299,6 +299,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "r8eciyJ608Bazgq1ngg2WhRgCeTC6QJZ1kZfpUkwvUNnH/yVk6XRD0fYhM+mqB+iUHYk0T4gacbn6pQLQM46nzrYsHYqNj1PbXUX0OCSd1L2GbZKQehI5JnqLMe4xlc0aLlLElZ0zAbrXE+T9u/RWIbuJtzVwBBz70ptY5OWQRJQXgycoVJftjowByFtzrRp6I12IwnsRtJTe3VSClBqwgW7LxH5dOqutpY3wZmNOGo+R+pFJA9mdzogfIunoKXRVMGIsdD/3GaXwsxHqmJkwpoxaURPsU2V7BoDcwdjtl8BKiQY4PrBKDxX6QO15kLjG+MSxtf7WumM7VtBoYPHrlfLmJPYmkV0/B9ChqTINbA=;N4exwkzKd7keFeDw9/AzDQ=="
+secured: "0jJFqR7qmwuFbOVzjORy4c0+rCgeFvxktbdHrD4E5R7cGcl7qoap5PuI7q/htcYPmF6j0if5lKYHA7XTBLjCJfv1pBmRhSt9fWD7zi08wlrfgIna5fIGk4byZPx/DnG2TmOuzNvBLm8jVGiBzLY1Ge0N7xuM61ydVbz8fb1c8tRxFaiGxnVmtJlyaqm59PbqSVlqTjLOmomgR23gJE00TTnCKLGk/9BjoWYvJwClOyBwjMJuJ6f9OKr+N6fXK0fqY4meKR7aTe4pAkiz6xeL6RffzbtC+jFmYcsWcrQ8h3+vWuV2lGCF1jRsHt9Z57wzmBnmPxKGN+16wk9gw+ea8QbdWt4dR7EKJw/lYOdHEDA=;boA9G5+AUxRS2V+Ehqz2mg=="
 ---
 

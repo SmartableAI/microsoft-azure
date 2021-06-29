@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-green
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
 type: article
 quality: 97
-heat: 478
+heat: 498
 published: true
 
 provider:
@@ -175,6 +175,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "OAG Flight Info API now available in Microsoft Azure Marketplace"
+    excerpt: "OAG, a leading provider of air travel data and insights, has announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+    publishedDateTime: 2021-06-29T04:29:00Z
+    webUrl: "https://www.bernama.com/en/business/news.php?id=1976919"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 37
+    images:
+      - url: "https://www.bernama.com/bm/img/bernama.png"
+        width: 2483
+        height: 2942
         isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."

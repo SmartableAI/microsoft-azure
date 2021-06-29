@@ -186,6 +186,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "OAG Flight Info API now available in Microsoft Azure Marketplace"
+    excerpt: "OAG, a leading provider of air travel data and insights, has announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+    publishedDateTime: 2021-06-29T04:29:00Z
+    webUrl: "https://www.bernama.com/en/business/news.php?id=1976919"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 37
+    images:
+      - url: "https://www.bernama.com/bm/img/bernama.png"
+        width: 2483
+        height: 2942
+        isCached: true
   - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
     excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
     publishedDateTime: 2021-06-21T11:51:00Z
