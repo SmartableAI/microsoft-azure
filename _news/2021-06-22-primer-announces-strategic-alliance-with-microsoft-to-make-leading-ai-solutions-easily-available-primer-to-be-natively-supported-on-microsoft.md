@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "SingleStore Managed Service Arrives on the Microsoft Azure Marketplace"
+    excerpt: "SingleStore, a fast unified database for data-intensive applications, announced that SingleStore Managed Service is now available in the Microsoft Azure Marketplace, providing Microsoft customers with an easy way to procure SingleStore technology."
+    publishedDateTime: 2021-06-29T16:07:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/SingleStore-Managed-Service-Arrives-on-the-Microsoft-Azure-Marketplace-147736.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 37
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
     excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure. OAG customers can now take ..."
     publishedDateTime: 2021-06-28T12:47:00Z

@@ -214,6 +214,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 80
+  - title: "Azure Cost Management and Billing updates – June 2021"
+    excerpt: "June brings amortization to the cost analysis preview, says goodbye to Cloudyn, and welcomes many new ways to optimize your costs, from 5 new generally available offers and 5 new previews to 3 lower prices and 3 expanded free offers. And as always, more documentation updates. Enjoy!"
+    publishedDateTime: 2021-06-29T10:00:07Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-june-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Cost Management + Billing updates – March 2020"
     excerpt: "We're covering the spectrum this month from improvements to help you stay on top of all your pay-as-you-go (PAYG) invoices to 4 new ways to save money and a wealth of new, quick videos to help you learn how to manage and optimize your costs."
     publishedDateTime: 2020-03-25T11:00:12Z

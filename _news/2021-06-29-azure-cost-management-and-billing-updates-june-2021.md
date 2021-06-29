@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Cost Management and Billing updates – March 2021"
-excerpt: "March is an exciting month! If you need to control costs and avoid projected overages, you'll want to check out changes to Cost Management budgets. You also have a new view optimized for viewing subscription costs as well as more ways to save, learning resources, and documentation updates. Enjoy!"
-publishedDateTime: 2021-03-30T10:00:15Z
-originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-march-2021/"
-webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-march-2021/"
+title: "Azure Cost Management and Billing updates – June 2021"
+excerpt: "June brings amortization to the cost analysis preview, says goodbye to Cloudyn, and welcomes many new ways to optimize your costs, from 5 new generally available offers and 5 new previews to 3 lower prices and 3 expanded free offers. And as always, more documentation updates. Enjoy!"
+publishedDateTime: 2021-06-29T10:00:07Z
+originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-june-2021/"
+webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-june-2021/"
 type: article
-quality: 95
+quality: 77
 heat: -1
 published: false
 
@@ -20,16 +20,11 @@ provider:
 
 topics:
   - Azure
-  - Storage
+  - Integration
+  - Web
+  - Analytics
+  - Databases
   - Management tools
-  - Compute
-  - Migration
-
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fc6464ee-ab4b-4e38-b8a2-ca23b235f49c.png"
-    width: 2194
-    height: 1143
-    isCached: true
 
 related:
   - title: "Azure Cost Management and Billing updates – October 2020"
@@ -96,6 +91,20 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/099b92eb-591a-4ea0-b7b4-78f34f6e8f57.png"
         width: 1506
         height: 872
+        isCached: true
+  - title: "Azure Cost Management and Billing updates – March 2021"
+    excerpt: "March is an exciting month! If you need to control costs and avoid projected overages, you'll want to check out changes to Cost Management budgets. You also have a new view optimized for viewing subscription costs as well as more ways to save, learning resources, and documentation updates. Enjoy!"
+    publishedDateTime: 2021-03-30T10:00:15Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-march-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fc6464ee-ab4b-4e38-b8a2-ca23b235f49c.png"
+        width: 2194
+        height: 1143
         isCached: true
   - title: "Azure Cost Management and Billing updates – February 2021"
     excerpt: "February brings two big releases for Azure Government—general availability support for Pay-As-You-Go subscriptions and the cost allocation preview. You'll also see informational insights and a new download experience in the cost analysis preview, new ways to save with Azure, learning videos, and documentation"
@@ -207,15 +216,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 80
-  - title: "Azure Cost Management and Billing updates – June 2021"
-    excerpt: "June brings amortization to the cost analysis preview, says goodbye to Cloudyn, and welcomes many new ways to optimize your costs, from 5 new generally available offers and 5 new previews to 3 lower prices and 3 expanded free offers. And as always, more documentation updates. Enjoy!"
-    publishedDateTime: 2021-06-29T10:00:07Z
-    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-june-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "Azure Cost Management + Billing updates – June 2020"
     excerpt: "Flexibility was the main theme for June, with more customizable budget notifications, a way to monitor your cost recommendations, and automated subscription creation for Azure Government. And of course, these are just a few highlights. Don't forget to check out new ways to save, a new video, and our"
     publishedDateTime: 2020-06-30T09:00:33Z
@@ -244,6 +244,6 @@ related:
       domain: microsoft.com
     quality: 68
 
-secured: "+oNEu9pHe8KO4ssjd85TeUlNK4LWI0vd+PxXqAyzTnmNOKbe34uuY5CC6FMES5h8+bQxxd3gScNos9rBV2QeAg0XmQ5J2q1hB7tXqnlGbpK8+pH9TufEGQXnz1UHhMAD4jJiNBdsmcYGtgfIi8LzDPmPYoG6bXd2NCOyAhhiSRhPp58wGe3cq4LZP77n+X4KEouRI7lYdvoyTPFHR5q+v5bZKLyXjlMIQsV9L1suOxUaK9dcgrRp4a2DagEJYMvKATct4teq/gKdhJCuhAwLfG7fCyc0q/7hbX9Z+9Xwcw2zTpR1LNabgsGYf2ROcA3J6XO0vIYxJYX5vVmcS0dJnzrL+gHE7eiD7P9Ldcfh29Y=;p3YEy8+7ThhKAjYdNUssJw=="
+secured: "yMaaL3dDtQiY0lx/mt5NXzykNrDghIaHrx86zKP6f9uvlnNL2etYBQMQ+qFUKkFjo14vxuohi5xdWfoCNcjc24BWXeBiJxBiJ8C8oI267jKDlnlMSNJsjvzf5ngpILaItAJG/+/j7H4EnQIVRxMs5a7KBh8VSnQCmBocJ07mVWrffDBTi8XaNdFT3TF4HwkYX6Co/tPv+SV863A8xIGSguHfuzAGxiO+UwifZVS0Xafxmnv4fqPVx5Vgaa0WO80ubKpUQd/HiSUN82alF1mkb05s/UfdCljX2+wwqQE6Jv2WWT1AcfiEfDuXFmjoqlw2LDArRD4cbZKK0O7EA1GbyPYUmtnMezKQ1oYC1p76olU=;C0w2DvVeWUZqLvdQNoa7/g=="
 ---
 
