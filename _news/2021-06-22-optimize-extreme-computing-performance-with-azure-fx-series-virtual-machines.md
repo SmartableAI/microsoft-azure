@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/optimize-extreme-computing-perfor
 webUrl: "https://azure.microsoft.com/blog/optimize-extreme-computing-performance-with-azure-fxseries-virtual-machines/"
 type: article
 quality: 101
-heat: 143
+heat: 123
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Join Microsoft at ISC 2021 and drive innovations with Azure high-performance computing"
-    excerpt: "Whether it’s understanding our environment, public health, energy sustainability, weather modeling, economic growth, and many others finding solutions to these important challenges requires huge amounts of focused computing power. Customers are increasingly finding the best way to access such high-performance"
-    publishedDateTime: 2021-06-23T09:00:29Z
-    webUrl: "https://azure.microsoft.com/blog/join-microsoft-at-isc-2021-and-drive-innovations-with-azure-highperformance-computing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 59
 
 secured: "9DnLF8Cj2U3gQRUBlc7rXB8N1Q9SKtGLDVCK7VzFVi4eEKaLDVArFF0spogYPBb2Oav37frgAtMTRxzde7f/tgEFmao8G3R8GbfzYE771wxfuZFYv3OwrwJyBh0lkls1UB//elKlxFtrG+QfIesA+x8e36UGisOWIhCIDxYM9YnZU68ZqJuq9CC8pkcgUAfe/TLBgBXk0SZNJPw8pTInznfzRzRkTXXVkuq1JwrKQhbKTafdZtXRCk9cLYsIRlXYWIm0DjbMNS5MURqkk3HdouW5A+fUK7894LYdznqE+7H5ycZGMpqTtpceL2x9oLCTSJS0xQITBuEBsKSxrT+GXQWjxsUvj9GZY9+hC1lq79o=;Pjlchx7i9rgFJoGPutzFPw=="
 ---

@@ -36,15 +36,6 @@ related:
         width: 1024
         height: 614
         isCached: true
-  - title: "Join Microsoft at ISC 2021 and drive innovations with Azure high-performance computing"
-    excerpt: "Whether it’s understanding our environment, public health, energy sustainability, weather modeling, economic growth, and many others finding solutions to these important challenges requires huge amounts of focused computing power. Customers are increasingly finding the best way to access such high-performance"
-    publishedDateTime: 2021-06-23T09:00:29Z
-    webUrl: "https://azure.microsoft.com/blog/join-microsoft-at-isc-2021-and-drive-innovations-with-azure-highperformance-computing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 59
 
 secured: "mUelc/ytHTMojI048fLkN1GF9eSI2cd8M78bx83acCtKQcDXtIbvqTJyjVrKvtbVvCX5DvQ5EQubAkRBx0ZmcLhO01sXbsYQurCS99JZ6+PfMJdYxyFbvJrNAvips7u56JGUmYZV+U6j6nnyP4Z8g0XRuL9qv+0GI/Lp/3QwxR3qbx/xe53xCBNLCKMk+DaCJuexVJEP51K1jY6MCsh6OfJOliQ7ybCyAd4eZEqtNO8BOYm1A659Wla2rE5mCpUiYJcT6MN7kRiCdo8bsNZQFom3S5H6j/w6xsqmU8OsUHIgaLTFWMDTFa8mH9Ss9aRDhZYS/Jb1vY0kgaGofykuWZtxVEgHP731HANsJdfNbkI=;Abd4iHDrmL9Gs1pnwfu8DQ=="
 ---

@@ -340,20 +340,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft Joins MEF To Bolster Azure for Operators Services"
-    excerpt: "\"Microsoft's decision to join MEF aligns with key goals of our Microsoft Azure for Operators initiative to bring the power of the cloud to the network, unlock the potential of 5G, and drive down ..."
-    publishedDateTime: 2020-10-27T22:53:00Z
-    webUrl: "https://redmondmag.com/articles/2020/10/27/microsoft-joins-mef.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 37
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/0513vsm_Gousset.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "The Migros community relies on Microsoft Azure for its „Journey to the Cloud“"
     excerpt: "In addition to Microsoft 365, the Swiss retail company will use Azure Services from the Microsoft Cloud in Switzerland in the future, thus accelerating the already advanced digitisation of the entire group of companies. Patrick Mosberger, Head of IT ..."
     publishedDateTime: 2020-10-18T11:02:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/prodatakey-microsoft-azure-a
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/prodatakey-microsoft-azure-active-directory-integration-employee-databases-synchronisation-co-14053-ga-co-15141-ga-npr.1624355119.html"
 type: article
 quality: 68
-heat: 108
+heat: 88
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
-    excerpt: "Teradata today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft Azure."
-    publishedDateTime: 2021-06-29T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210629005193/en/Teradata-Enhances-Cloud-Offerings-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
   - title: "Euclideon plans world’s largest geospatial data platform on Microsoft Azure, accelerates innovation opportunity"
     excerpt: "Leading 3D data specialist Euclideon has signed a strategic partnership with Microsoft and unveiled plans to build the world’s largest geospatial data platform – featuring more than 100 petabytes of 3D data – on the Azure cloud."
     publishedDateTime: 2021-06-30T02:25:00Z

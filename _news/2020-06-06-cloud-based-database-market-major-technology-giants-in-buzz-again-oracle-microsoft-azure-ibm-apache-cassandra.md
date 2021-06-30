@@ -188,15 +188,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 17
-  - title: "SingleStore Managed Service Is Now Available in Microsoft Azure Marketplace"
-    excerpt: "SingleStore, the world’s fastest unified database for data-intensive applications, today announced that SingleStore Managed Service is available in th"
-    publishedDateTime: 2021-06-29T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210629005265/en/SingleStore-Managed-Service-Is-Now-Available-in-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 15
   - title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
     excerpt: "Parabole.ai today announced that TRAIN™ 3.0, its MACHINE TEACHING PLATFORM is now available on the Azure Marketplace. Parabole's unique"
     publishedDateTime: 2020-06-03T13:12:00Z

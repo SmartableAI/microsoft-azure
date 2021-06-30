@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-az
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
 type: article
 quality: 97
-heat: 757
+heat: 737
 published: true
 
 provider:
@@ -329,20 +329,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft Joins MEF To Bolster Azure for Operators Services"
-    excerpt: "\"Microsoft's decision to join MEF aligns with key goals of our Microsoft Azure for Operators initiative to bring the power of the cloud to the network, unlock the potential of 5G, and drive down ..."
-    publishedDateTime: 2020-10-27T22:53:00Z
-    webUrl: "https://redmondmag.com/articles/2020/10/27/microsoft-joins-mef.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 37
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/0513vsm_Gousset.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Touting Azure for Operators, Microsoft Joins SDN Standards Group"
     excerpt: "As part of its Azure for Operators program, Microsoft this week joined a nonprofit standards association that focuses on software-defined networking (SDN) technologies used by enterprises and ..."

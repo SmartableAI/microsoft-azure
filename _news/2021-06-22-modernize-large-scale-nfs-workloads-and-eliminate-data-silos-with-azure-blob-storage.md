@@ -47,6 +47,15 @@ related:
         width: 624
         height: 389
         isCached: true
+  - title: "Azure Image Builder Service now generally available"
+    excerpt: "Use Azure Image Builder to streamline your image building pipeline and integrate your DevOps application life-cycle with the cloud native tools."
+    publishedDateTime: 2021-06-30T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-image-builder-service-now-generally-available-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "n6Yn/IV84k7nrbxzC9KgnM1E2ozIwDyEmvHDQWTJXJ4GVexFWu42Rv+t3WzkWUS5XAtIogGwo0SzNZVCEhjVo0T118LEfpK2dDK6UONf/AeLKAA9fQgw0T32EnrxJ6B6T4e0bJbTGisMxhxdfVAyf52dhxAKw4acpz2aa614XnfAo5gwYRo3kpbfcRdyM6lwIIGXiANIDqwHTUXfUk7NODVwtBiV3pWd+lny0PLB0F2MhSFSU4bgheLgAaBAzchy73aAnuE8Rpab5pAIOIQmh9lWIH/8iKOal0HFeF5vg0bGcG63xp7emqc2NIZOBJekZfpmiPu5T2/T+n08eQZ+Ywa2pgqLe9gc/Z4SIY6PXI8=;4485TYzcXNWcI7kU5rthaw=="
 ---

@@ -87,22 +87,6 @@ related:
         width: 1200
         height: 849
         isCached: true
-  - title: "Extreme Networks taps up Microsoft Azure to provide UK customers with locally hosted cloud service"
-    excerpt: "Extreme Networks is making a locally hosted version of its ExtremeCloud IQ cloud management platform available to its UK customer base with the help of Microsoft Azure’s London-based datacentre ..."
-    publishedDateTime: 2021-06-24T12:50:00Z
-    webUrl: "https://www.computerweekly.com/news/252502978/Extreme-Networks-taps-up-Microsoft-Azure-to-provide-UK-customers-with-locally-hosted-cloud-service"
-    ampWebUrl: "https://www.computerweekly.com/news/252502978/Extreme-Networks-taps-up-Microsoft-Azure-to-provide-UK-customers-with-locally-hosted-cloud-service?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252502978/Extreme-Networks-taps-up-Microsoft-Azure-to-provide-UK-customers-with-locally-hosted-cloud-service?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 43
-    images:
-      - url: "https://www.computerweekly.com/visuals/German/article/cloud-storage-costs-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Azure Stack HCI and SQL Server set sail on HPE’s GreenLake"
     excerpt: "HPE has added on-premises Azure Stack HCI and Microsoft SQL Server availability to its GreenLake offer, complementing existing SimpliVity and Nimble dHCI hyperconverged systems support in GreenLake, and Nutanix as well."
     publishedDateTime: 2021-06-21T12:00:00Z
@@ -145,20 +129,6 @@ related:
         width: 609
         height: 457
         isCached: true
-  - title: "BICS Unveils Support for Microsoft’s Azure Peering Service"
-    excerpt: "BICS has announced its support for Microsoft’s Azure Peering Service, which will provide businesses with direct access to Microsoft"
-    publishedDateTime: 2021-06-25T00:54:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20078-bics-unveils-support-for-microsoft-s-azure-peering-service"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/36ebcc738294e9b879f823f52915d1c6.jpg?t=20210625_004943"
-        width: 752
-        height: 408
-        isCached: true
   - title: "OAG’s Flight Info API now available in the Microsoft Azure Marketplace"
     excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
     publishedDateTime: 2021-06-28T12:03:00Z
@@ -172,34 +142,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "OAG Flight Info API now available in Microsoft Azure Marketplace"
-    excerpt: "OAG, a leading provider of air travel data and insights, has announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-    publishedDateTime: 2021-06-29T04:29:00Z
-    webUrl: "https://www.bernama.com/en/business/news.php?id=1976919"
-    type: article
-    provider:
-      name: bernama.com
-      domain: bernama.com
-    quality: 37
-    images:
-      - url: "https://www.bernama.com/bm/img/bernama.png"
-        width: 2483
-        height: 2942
-        isCached: true
-  - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
-    excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
-    publishedDateTime: 2021-06-23T13:00:00Z
-    webUrl: "https://spacenews.com/microsoft-keane-interview/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 36
-    images:
-      - url: "https://spacenews.com/wp-content/uploads/2021/06/azure-qa.jpg"
-        width: 1000
-        height: 508
         isCached: true
   - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
     excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
@@ -290,15 +232,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 23
-  - title: "DataDx Version 2.0 Now Available in the Microsoft Azure Marketplace"
-    excerpt: "DataDx ®, business intelligence for independent medical and dental practices, today announced the availability of its state-of-the art dashboard with real-time analytics reporting in the Microsoft ( News - Alert) Azure Marketplace,"
-    publishedDateTime: 2021-06-28T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-datadx-version-20-now-available-the-microsoft-azure-/2021/06/28/9398746.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "fKf+9mSjFlwxaZdF3nlLhHXS2+ht7J/W7fJHeGIpbqr9ZwJFc+Vuxj6MCSnfd8h0vOQIAjBktKOYbHpe/gNAT+g36GRvmS9l3FoTS9qOeFlHXTgYY1z2WA2r7wuxqb6q0rJODveEd44sD0TedlHkubtIk/2kRMSCVcLI7h6QkuRDblVOVG4QFYIYYnXsh58ZJziQNFtMG1jfvLF5PeNHyilJMerkVfK03bqwjihm9W1iSoXMYRNiyNx+CRtqSIMDVxytz7MrPTcfcm300UuX6htlHQ6AT2eA9tUi1KUBNcsSQANScwvpRBBNdROk8U4YgOPUyXCkbflP+wiqJAOqI+v4QMsBmmBsIGvK/GXcm7JdtqCh6E54amhIGOHpRAEI2H5xDZBWHU7XrCG7CFK21JC3jBhnqNUkN48V0FX0xQtdGEBUBN7YjEWpLE1QG6xqLhvpNlZxaxzQPwC+t3dPZFH68wnhUSXXmNMKbnBN3YZHFYiB+d4RsKgFKtk7cE7QdcDCbT3PNlzoeRW5F/r4VA==;yMjeFkSDGkLSDAgjQKscMQ=="
 ---

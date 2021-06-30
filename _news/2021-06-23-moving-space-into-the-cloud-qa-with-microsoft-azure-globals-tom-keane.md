@@ -24,81 +24,57 @@ images:
     isCached: true
 
 related:
-  - title: "HPE expands GreenLake offerings for Microsoft Azure"
-    excerpt: "HPE GreenLake now supports Microsoft Azure Stack HCI and SQL Server. The announcement of the new integration came just ahead of the company’s annual HPE Discover conference, held virtually for ..."
-    publishedDateTime: 2021-06-21T13:30:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
+  - title: "Microsoft acquires AT&T networking tech to bolster its Azure for Operators strategy"
+    excerpt: "Microsoft and AT&T are expanding their existing partnership around 5G and edge computing. AT&T has been working with Microsoft for several years to test its 5G workloads on Azure. Today, June 30 -- the last day of Microsoft's fiscal 2021 -- the pair announced the renewal of their partnership,"
+    publishedDateTime: 2021-06-30T09:47:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-acquires-at-t-networking-tech-to-bolster-its-azure-for-operators-strategy/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-acquires-at-t-networking-tech-to-bolster-its-azure-for-operators-strategy/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-acquires-at-t-networking-tech-to-bolster-its-azure-for-operators-strategy/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 97
+      name: ZDNet
+      domain: zdnet.com
+    quality: 108
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1595502135/itpro/HPE_shutterstock.jpg"
-        width: 1260
-        height: 710
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/30/c7056315-5d20-42e1-a1cd-12fa6da64363/microsoftatandt.jpg"
+        width: 1032
+        height: 694
         isCached: true
-  - title: "HPE and Microsoft Azure team up to offer more flexible cloud for businesses"
-    excerpt: "Hewlett Packard Enterprise (HPE) has announced that its GreenLake edge to cloud platform will now support both Microsoft Azure Stack HCI and Microsoft SQL Server. With this new integration ..."
-    publishedDateTime: 2021-06-21T22:47:00Z
-    webUrl: "https://www.techradar.com/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-    ampWebUrl: "https://www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hpe-and-microsoft-azure-team-up-to-offer-more-flexible-cloud-for-businesses"
+  - title: "Microsoft announces Arc-enabled Azure SQL general availability"
+    excerpt: "The ability to run Azure SQL Managed Instance -- a cloud version of SQL Server -- on non-Azure clouds, and even on-premises, will be generally available and production-ready on July 30th, 2021."
+    publishedDateTime: 2021-06-29T07:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/microsoft-announces-arc-enabled-azure-sql-general-availability/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/microsoft-announces-arc-enabled-azure-sql-general-availability/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/microsoft-announces-arc-enabled-azure-sql-general-availability/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 95
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/er5NpnAErP4CGcAHzgMXxF-480-80.jpg"
-        width: 480
-        height: 271
-        isCached: true
-  - title: "Here's how AWS, Google Cloud, IBM, and Microsoft Azure stack up in their fight to nab Wall Street's business"
-    excerpt: "Amazon Web Services, Google Cloud, IBM, and Microsoft Azure have made in-roads with financial firms in recent years. IBM and Microsoft unveiled finance-specific business lines this spring ..."
-    publishedDateTime: 2021-06-22T00:00:00Z
-    webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 94
+  - title: "Join Microsoft at ISC 2021 and drive innovations with Azure high-performance computing"
+    excerpt: "Whether it’s understanding our environment, public health, energy sustainability, weather modeling, economic growth, and many others finding solutions to these important challenges requires huge amounts of focused computing power. Customers are increasingly finding the best way to access such high-performance"
+    publishedDateTime: 2021-06-23T09:00:29Z
+    webUrl: "https://azure.microsoft.com/blog/join-microsoft-at-isc-2021-and-drive-innovations-with-azure-highperformance-computing/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
+  - title: "Indian Girl Gets Over Rs 22 Lakh Bounty For Spotting Bug in Microsoft’s Azure Cloud System"
+    excerpt: "Aditi Singh has received a bounty of $30,000 (roughly over Rs 22 lakh) from Microsoft/ Notably, it was 2 months back itself that Aditi had spotted the RCE bug in Microsoft Azure. She even informed the company about the bug but didn’t get any kind of response as the company was busy checking if anyone had downloaded the insecure version of the system."
+    publishedDateTime: 2021-06-29T10:07:00Z
+    webUrl: "https://www.india.com/viral/indian-girl-aditi-singh-gets-over-rs-22-lakh-bounty-for-spotting-bug-in-microsofts-azure-cloud-system-4776183/"
+    ampWebUrl: "https://www.india.com/viral/indian-girl-aditi-singh-gets-over-rs-22-lakh-bounty-for-spotting-bug-in-microsofts-azure-cloud-system-4776183/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/indian-girl-aditi-singh-gets-over-rs-22-lakh-bounty-for-spotting-bug-in-microsofts-azure-cloud-system-4776183/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 47
     images:
-      - url: "https://i.insider.com/60ac14aa5e3457001926545c?width=1200&format=jpeg"
+      - url: "https://s3.india.com/wp-content/uploads/2021/06/pjimage-114.jpg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
-    excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
-    publishedDateTime: 2021-06-22T04:42:00Z
-    webUrl: "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
-    ampWebUrl: "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
-    cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
-    type: article
-    provider:
-      name: Steel News
-      domain: steelguru.com
-    quality: 57
-    images:
-      - url: "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 849
-        isCached: true
-  - title: "STS and AIS Joint Venture Wins Treasury’s Microsoft Azure Migration Contract"
-    excerpt: "Azure hosting platform. The contract has been awarded to Applied Cloud Technologies, a joint venture between Simple Technology Solutions (STS) and Applied Information Services (AIS). The migration work is being done on behalf of the Treasury’s Office of the Chief Information Officer (OCIO)."
-    publishedDateTime: 2021-06-21T12:09:00Z
-    webUrl: "https://www.hstoday.us/industry/sts-and-ais-joint-venture-wins-treasurys-microsoft-azure-migration-contract/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 51
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/01/cloud-computing-4246668_1920.jpg"
-        width: 1920
-        height: 1152
+        height: 800
         isCached: true
   - title: "Extreme Networks taps up Microsoft Azure to provide UK customers with locally hosted cloud service"
     excerpt: "Extreme Networks is making a locally hosted version of its ExtremeCloud IQ cloud management platform available to its UK customer base with the help of Microsoft Azure’s London-based datacentre ..."
@@ -116,47 +92,19 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Azure Stack HCI and SQL Server set sail on HPE’s GreenLake"
-    excerpt: "HPE has added on-premises Azure Stack HCI and Microsoft SQL Server availability to its GreenLake offer, complementing existing SimpliVity and Nimble dHCI hyperconverged systems support in GreenLake, and Nutanix as well."
-    publishedDateTime: 2021-06-21T12:00:00Z
-    webUrl: "https://blocksandfiles.com/2021/06/21/azure-stack-hci-and-sql-server-set-sail-on-hpes-greenlake/"
+  - title: "Microsoft Joins MEF To Bolster Azure for Operators Services"
+    excerpt: "\"Microsoft's decision to join MEF aligns with key goals of our Microsoft Azure for Operators initiative to bring the power of the cloud to the network, unlock the potential of 5G, and drive down ..."
+    publishedDateTime: 2020-10-27T22:53:00Z
+    webUrl: "https://redmondmag.com/articles/2020/10/27/microsoft-joins-mef.aspx"
     type: article
     provider:
-      name: blocksandfiles
-      domain: blocksandfiles.com
+      name: Redmond Magazine
+      domain: redmondmag.com
     quality: 37
     images:
-      - url: "https://blocksandfiles.com/wp-content/uploads/2021/06/GreenLake.jpg"
-        width: 950
-        height: 445
-        isCached: true
-  - title: "Microsoft Launches Azure Private MEC with AT&T in Tow, Not Vice Versa"
-    excerpt: "If Multi-access Edge Computing becomes an option for your data center services, would you be contracting with the cloud provider or the telco provider?"
-    publishedDateTime: 2021-06-21T20:13:00Z
-    webUrl: "https://www.datacenterknowledge.com/cloud/microsoft-launches-azure-private-mec-att-tow-not-vice-versa"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 37
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/210610%205G%20tower.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft Joins Apple In Hitting $2T Market Cap As Azure Sales Fly"
-    excerpt: "Microsoft has become a $2 trillion company, less than a year after archrival Apple reached the market capitalization milestone. The Redmond, Wash.-based company hit the $2 trillion market cap as its stock price grew roughly 1."
-    publishedDateTime: 2021-06-22T20:11:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-joins-apple-in-hitting-2t-market-cap-as-azure-sales-fly"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/026a-12953fb24a07-c9e21775c5d5-1000/microsoft-sign.jpg"
-        width: 609
-        height: 457
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/0513vsm_Gousset.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "BICS Unveils Support for Microsoft’s Azure Peering Service"
     excerpt: "BICS has announced its support for Microsoft’s Azure Peering Service, which will provide businesses with direct access to Microsoft"
@@ -172,20 +120,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "OAG’s Flight Info API now available in the Microsoft Azure Marketplace"
-    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-    publishedDateTime: 2021-06-28T12:03:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-lifestyle-travel-6c060662c15f4a0db986d89d63a8960a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "OAG Flight Info API now available in Microsoft Azure Marketplace"
     excerpt: "OAG, a leading provider of air travel data and insights, has announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
     publishedDateTime: 2021-06-29T04:29:00Z
@@ -200,95 +134,45 @@ related:
         width: 2483
         height: 2942
         isCached: true
-  - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
-    excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
-    publishedDateTime: 2021-06-21T11:51:00Z
-    webUrl: "https://www.techcentral.ie/2ep3q"
+  - title: "SingleStore Managed Service Arrives on the Microsoft Azure Marketplace"
+    excerpt: "SingleStore, a fast unified database for data-intensive applications, announced that SingleStore Managed Service is now available in the Microsoft Azure Marketplace, providing Microsoft customers with an easy way to procure SingleStore technology."
+    publishedDateTime: 2021-06-29T16:07:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/SingleStore-Managed-Service-Arrives-on-the-Microsoft-Azure-Marketplace-147736.aspx"
     type: article
     provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 35
+      name: dbta.com
+      domain: dbta.com
+    quality: 37
     images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2021/06/Yvonne-Dennis.jpg"
-        width: 620
-        height: 350
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Microsoft Cloud Regions Mark Two-year Milestone Of Empowering Ambitious Middle East Organizations"
-    excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyp"
-    publishedDateTime: 2021-06-20T10:16:00Z
-    webUrl: "https://www.albawaba.com/business/pr/microsoft-cloud-regions-mark-two-year-milestone-empowering-ambitious-middle-east"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/microsoft-cloud-regions-mark-two-year-milestone-empowering-ambitious-middle-east"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-cloud-regions-mark-two-year-milestone-empowering-ambitious-middle-east"
+  - title: "Microsoft makes big 5G play as AT&T moves core to Azure cloud"
+    excerpt: "Microsoft VP of 5G Strategy Shawn Hakl told Fierce that the combination of gaining a Tier one anchor tenant, along with IP and expertise to incorporate directly into Azure for Operators, is key and unique to the deal."
+    publishedDateTime: 2021-06-30T17:11:00Z
+    webUrl: "https://www.fiercewireless.com/5g/microsoft-makes-bigger-5g-play-as-at-t-moves-core-to-azure-cloud"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 29
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 37
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-06/Sayed%20Hashish%2C%20GM%2C%20MS%20UAE%20-%20June%202021.jpg?itok=yJHWkY6J"
-        width: 960
-        height: 540
+      - url: "https://qtxasset.com/fiercewireless/1625073696/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png?SX9t9ysna94JXCELLQtb2nBx_bdHushz"
+        width: 716
+        height: 439
         isCached: true
-  - title: "Microsoft cloud regions mark two-year milestone of empowering ambitious Middle East organizations"
-    excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyper-scale Cloud in the country and the Middle East,"
-    publishedDateTime: 2021-06-21T06:43:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Microsoft_cloud_regions_mark_twoyear_milestone_of_empowering_ambitious_Middle_East_organizations-ZAWYA20210621055741/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210621055741/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210621055741/"
+  - title: "Cyber Recovery Solutions Market Next Big Thing | Major Giants Wasabi, AWS, Microsoft Azure, DELL, IBM"
+    excerpt: "Latest published market study on Cyber Recovery Solutions Market provides an overview of the current market dynamics in the Cyber Recovery Solutions space as well as what our survey respondents all outsourcing decision makers predict the market will look like"
+    publishedDateTime: 2021-06-29T17:42:00Z
+    webUrl: "https://www.openpr.com/news/2317009/cyber-recovery-solutions-market-next-big-thing-major-giants"
+    ampWebUrl: "https://www.openpr.com/amp/2317009/cyber-recovery-solutions-market-next-big-thing-major-giants"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2317009/cyber-recovery-solutions-market-next-big-thing-major-giants"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 29
-    images:
-      - url: "https://images.zawya.com/pr/images/2021/SayedHashishGMMSUAE_2021_06_21.jpg"
-        width: 450
-        height: 375
-        isCached: true
-  - title: "NCC Group adds Microsoft Azure Sentinel to its Managed Detection and Response (MDR) offering"
-    excerpt: "Today we’re excited to announce a further development in our collaboration with Microsoft with the addition of Microsoft Azure Sentinel to our"
-    publishedDateTime: 2021-06-21T13:45:00Z
-    webUrl: "https://www.mynewsdesk.com/nccgroup/pressreleases/ncc-group-adds-microsoft-azure-sentinel-to-its-managed-detection-and-response-mdr-offering-3111012"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 26
-    images:
-      - url: "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/y1xbr1yo8dctprqoqwnw.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "NetFolder for Secure file Uploads by odix is now available on the Microsoft Azure Marketplace"
-    excerpt: "ROSH HA'AYIN, Israel, /PRNewswire-PRWeb/ -- odix, the Israel based cyber security leader in file-based malware prevention solutions has officially"
-    publishedDateTime: 2021-06-22T05:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21658315/netfolder-for-secure-file-uploads-by-odix-is-now-available-on-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21658315"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21658315"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
-  - title: "Hewlett Packard Enterprise Fuels HPE GreenLake Expansion with Cloud Services Support for Microsoft Azure Stack HCI and Microsoft SQL Server"
-    excerpt: "Hewlett Packard Enterprise today announced the expansion of its HPE GreenLake edge to cloud platform to include support for Microsoft Azure Stack HCI and Microsoft SQL Server. The new HPE GreenLake cloud services deliver the agility and flexibility organizations are looking for in a scalable,"
-    publishedDateTime: 2021-06-21T12:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/hewlett-packard-enterprise-fuels-hpe-greenlake-expansion-with-cloud-services-support"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 23
-  - title: "HPE buys AI startup, expands HPE GreenLake with support for Microsoft Azure Stack, SQL Server"
-    excerpt: "Hewlett Packard Enterprise (HPE) has bought Determined AI, an AI startup based in San Francisco, for an undisclosed amount. Determined AI is the developer of a software stack that trains AI models more quickly,"
-    publishedDateTime: 2021-06-22T07:28:00Z
-    webUrl: "https://www.telecompaper.com/news/hpe-buys-ai-startup-expands-hpe-greenlake-with-support-for-microsoft-azure-stack-sql-server--1387507"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 23
+      name: openpr.com
+      domain: openpr.com
+    quality: 22
   - title: "DataDx Version 2.0 Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataDx ®, business intelligence for independent medical and dental practices, today announced the availability of its state-of-the art dashboard with real-time analytics reporting in the Microsoft ( News - Alert) Azure Marketplace,"
     publishedDateTime: 2021-06-28T13:05:00Z
@@ -298,6 +182,47 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
+    excerpt: "Teradata (NYSE: TDC), the connected multi-cloud data platform company, today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft (News - Alert) Azure."
+    publishedDateTime: 2021-06-29T13:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-teradata-enhances-cloud-offerings-microsoft-azure-/2021/06/29/9399809.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+  - title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
+    excerpt: "Teradata today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft Azure."
+    publishedDateTime: 2021-06-29T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210629005193/en/Teradata-Enhances-Cloud-Offerings-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+  - title: "SingleStore Managed Service Is Now Available in Microsoft Azure Marketplace"
+    excerpt: "SingleStore, the world’s fastest unified database for data-intensive applications, today announced that SingleStore Managed Service is available in th"
+    publishedDateTime: 2021-06-29T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210629005265/en/SingleStore-Managed-Service-Is-Now-Available-in-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
+  - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
+    publishedDateTime: 2021-06-30T14:35:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 12
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
+        isCached: true
 
 secured: "FYCeryEmvhbwQV0DzX2SUUfQ1ZAWxYfAmQBZYBL3B9D0Lxv4OL6DNSTQtZ1YIRlpuEPPjBNDtyeAI6NKA8rjZhVH6+TrCTyhGhFAlXWXHaVaq399oKY7cwrxBPY2MMPsl+qmkj0R7SLsTLg/I6KOaVQDkdP5+JPiRcsaOoUDUKaFU3uSWA8yAbUMlJr/3OgWSmH4xi9C9BUX9HnrNEmCI4IqWXTuDWRoDG1TArOWcwdPlF9bxWmsY9o6aaIDz4SJ8YU4lT0xl80/iV03nVVT2ElpDo4VmuUfW85+uM0brHpLbCuen7cwnIBP5+7g7MfhZHuyYCvA7pKG9ciWyBTfaw92ZoNb4MY5ZNbywftEDLr0siauz9MqF2FeJbGoNWPojysWM3OlEAgluelQ/Hd8yQMCpaHATXUbEle96yHtZVRBCX85nVul6Cw22cD2QANIITENGnzqGUF+woohSHRN4KHu3SCUom9y/YfNlNyn6MLqPM+dx11+Zd57LNUC6WQb4F1UR2e5mG7x68MKTRcElg==;4+5LbYOt5r89qi+cN8jxbg=="
 ---

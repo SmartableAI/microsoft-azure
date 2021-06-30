@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 94
+  - title: "Azure Image Builder Service now generally available"
+    excerpt: "Use Azure Image Builder to streamline your image building pipeline and integrate your DevOps application life-cycle with the cloud native tools."
+    publishedDateTime: 2021-06-30T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-image-builder-service-now-generally-available-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "Oa4ZojmxXCmt5+3TpL1totja9pg40wdtMGXnlKni+6bvZR28Eni9kZOx5z1iBc+iiv+1hBtTos6uRiN3wuvUV+QKbLsu/U6QI3BAQsvwqdkjIaXbVqQA0dEthzR4aa1ErnBPH1MmKqdSbrcOEtgT3wHU7ghCulkQtcUyQPesEFQylPbCUlnOqVT/n4THynLyF2Az7PAgrcc/3zFKrsqm18Uo/hJvKJn19Y1/0hs8NufEhOi2/N1jHT0rpsN74zQngQZKT1oyLfeaY0T1DHaY6iqDBp3ovyVamqdjD9PwmZDD2B5y23LzhBgQ0aNlg9kRCqXbEP/ZVmEfW6Ebc/wm3sUgm18VM+AKhu/vFImgYXc=;FuJE2rx7Z9z/jZvwHT18mw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.finanztreff.de/news/business-wire-oags-flight-info-api
 webUrl: "https://www.finanztreff.de/news/business-wire-oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/25165648"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -18,29 +18,6 @@ topics:
   - Azure
 
 related:
-  - title: "SingleStore Managed Service Arrives on the Microsoft Azure Marketplace"
-    excerpt: "SingleStore, a fast unified database for data-intensive applications, announced that SingleStore Managed Service is now available in the Microsoft Azure Marketplace, providing Microsoft customers with an easy way to procure SingleStore technology."
-    publishedDateTime: 2021-06-29T16:07:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/SingleStore-Managed-Service-Arrives-on-the-Microsoft-Azure-Marketplace-147736.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 37
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
-    excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
-    publishedDateTime: 2021-06-30T06:50:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 1
   - title: "Primer Announces Strategic Alliance with Microsoft to Make Leading AI Solutions Easily Available; Primer to be Natively Supported On Microsoft Azure"
     excerpt: "The collaboration will make Primer's Natural Language Processing (NLP) capabilities available and natively supported within Microsoft Azure, enabling rapid deployment for Azure customers."
     publishedDateTime: 2021-06-22T13:04:00Z

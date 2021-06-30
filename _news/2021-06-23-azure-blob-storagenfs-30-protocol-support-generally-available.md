@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-nfs-3
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-nfs-30-protocol-support-generally-available/"
 type: article
 quality: 99
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 94
+  - title: "Azure Image Builder Service now generally available"
+    excerpt: "Use Azure Image Builder to streamline your image building pipeline and integrate your DevOps application life-cycle with the cloud native tools."
+    publishedDateTime: 2021-06-30T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-image-builder-service-now-generally-available-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "dFYLAji5E5cJ7uAMCzQJhl/bd4DapP9FVrj7GSKFV7xqZ4+K7YaAVWlo3jqLhgK4aq1D0TNQNf/gCuZKHpnorcbiX/Ems+tzEZ1hmcVzD6Wx4OCv8bQYOXfwlLH3balD/fRPoDJACxak5y+jt4sb3rMKrHqTXPhtXbmiqMV+QLayWcLo/rVHnbiFEIg5fIwdGnCdXLliKsOFSaG5ONTemhC15VJaWCf1QpsMYWVxSDDXTCWXaJ0gUzx6NvO7OTMgx47I+0mMAGfEG4+DOhBI7kAdPj0C9lC8i/GrmTD7x+x1w0T3RjkZFO18oNFnxXjLQwP5zFAkejat/WqZ6KsxMKWdLRe6/yIdFEcoZRQV04U=;+8Cyksj3bvZ0VYvirmlQPQ=="
 ---

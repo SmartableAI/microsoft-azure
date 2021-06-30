@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
 type: article
 quality: 97
-heat: 1137
+heat: 1117
 published: true
 
 provider:
@@ -60,17 +60,6 @@ related:
         width: 971
         height: 545
         isCached: true
-  - title: "Microsoft announces Arc-enabled Azure SQL general availability"
-    excerpt: "The ability to run Azure SQL Managed Instance -- a cloud version of SQL Server -- on non-Azure clouds, and even on-premises, will be generally available and production-ready on July 30th, 2021."
-    publishedDateTime: 2021-06-29T07:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/microsoft-announces-arc-enabled-azure-sql-general-availability/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/microsoft-announces-arc-enabled-azure-sql-general-availability/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/microsoft-announces-arc-enabled-azure-sql-general-availability/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 94
   - title: "Microsoft launches Azure Government Top Secret cloud to handle classified data"
     excerpt: "Microsoft is adding a new offering to its Azure cloud family for U.S. government customers: Azure Government Top Secret. It's also bringing more of its services to Azure Government Secret."
     publishedDateTime: 2020-12-07T06:02:00Z

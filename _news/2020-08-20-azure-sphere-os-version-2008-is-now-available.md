@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Maps Android SDK is now generally available"
+    excerpt: "Get started with Android map control using vector map libraries, now generally available with Azure Maps Android SDK."
+    publishedDateTime: 2021-06-30T16:00:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-android-sdk-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Sphere OS version 20.12 is now available for evaluation"
     excerpt: "The 20.12 release includes enhancements and bug fixes in the Azure Sphere OS. It does not include an updated SDK."
     publishedDateTime: 2020-12-02T22:22:08Z

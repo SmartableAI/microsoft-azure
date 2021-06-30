@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/bring-cloud-experiences-to-data-w
 webUrl: "https://azure.microsoft.com/blog/bring-cloud-experiences-to-data-workloads-anywhere-with-azure-sql-enabled-by-azure-arc/"
 type: article
 quality: 96
-heat: 116
+heat: 96
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
-    excerpt: "Teradata (NYSE: TDC), the connected multi-cloud data platform company, today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft (News - Alert) Azure."
-    publishedDateTime: 2021-06-29T13:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-teradata-enhances-cloud-offerings-microsoft-azure-/2021/06/29/9399809.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "DldWSrefaQ1AvUQsZI0GUrdOYeDjF0aV/JIeKGldB5uwjx2C9sX5Sc7ZXq+b1sUyC1Yj5TDVCAzI7TFdzzup/QNRYB8HfTihEKPFKJR6/nvhHSHO5V4a5VhVWOPwZ6F3HiE8Q8RhhZ9oLWCcXGZpTc8OQNQCM/UtgXnEyuFWmEH0/hRu2r6kxr0Nkc4DeW2pVNe7oiljnMSddd16kJynHj5om5WL9JYugqpWAJh1uGVQS7sDU2ES9Q49yQLdUlm+9iEIg+AZD3Sjs21BjfVLMoaNZhzZnFPn2H84jxtwcfThgwIaFW+ZlL3Uhr2VeYM0EGmVDHvcBC6RrhcUwH3GEbpQi6ZFwFQhP/Zwo7+v8Xs=;y6gpCzFsL5N95lZoPsyAqw=="
 ---

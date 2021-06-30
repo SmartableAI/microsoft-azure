@@ -34,15 +34,6 @@ related:
         width: 612
         height: 355
         isCached: true
-  - title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
-    excerpt: "Teradata today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft Azure."
-    publishedDateTime: 2021-06-29T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210629005193/en/Teradata-Enhances-Cloud-Offerings-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
 
 secured: "svCDloOsAt4Fu+scsCH/zjl5BLSnM2tATx81j4v2jax/FyjF2qKglYWE9JUdX3zEsUvpawsmbYeUFFhuPbDW5izKKoa3d3d6/6rdwyY21CGfVBhchm7r8GWv4HuXSH688HByEgaU5e6EXLX5ubxPMsX6CD4vp3Vf4buSuAJkhHbIQCVQRd2jzC9BQLNgNi5sKVXpbYERQW+DnwNkVo6kwYhHs5JLeS55zc1BQDR3NM6dd33fSS3GuR0Set5JG5M+QrdOjibZpfH9FMCebv8ryujHDSvWkUue2DOtFclOXqINUfuv52PomWo2CtsW1weE7Qrs2C6EkdQrqnrK4vPTdnZ2hzG0FpiF2c3AfmLXfME=;XzgWJsvrSWXxgjVO5K4jqQ=="
 ---
