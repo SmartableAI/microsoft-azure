@@ -470,6 +470,20 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "SINGAPORE and HYDERABAD, India, June 17, 2021 /PRNewswire/ -- Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced ..."
+    publishedDateTime: 2021-06-17T11:52:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/cloud4c-achieves-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-871941275.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/1198268/Cloud4C_Logo.jpg?p=facebook"
+        width: 1616
+        height: 846
+        isCached: true
   - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
     excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
     publishedDateTime: 2021-06-15T12:02:00Z
@@ -552,15 +566,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 8
-  - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
-    publishedDateTime: 2021-06-17T11:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cloud4c-achieves-modernization-web-applications-microsoft-azure-advanced-/2021/06/17/9392455.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
   - title: "Cloud4C achieves Modernization of Web Applications to Microsoft Azure advanced specialization"
     excerpt: "Cloud4C, World's leading Cloud Managed Services Player, has achieved Modernization of Web Applications to Microsoft Azure advanced specialization, to help businesses modernize their aging and complex web applications."
     publishedDateTime: 2021-06-18T00:14:00Z
@@ -634,6 +639,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "BGAEqmbcnkANjkKwJfMfPx0lJN1TKC1Ov1JeKeEFx2gC4LqQfS8fO5BgGM7KA6cOukNFotGoyJmVFL0N8JDYD7DWVqJC2eceQBT88B3ztdyt5dTCKtxZ+RyLb9azXbe645FAza0tOu4f0kBcg0MAUIU532EktfRhcHg32/YbJ3YWleo3SmH3AieGO/mRwh5dGc8M6icj9KV+BchKjzJWI8SRY4DyrbGOitHbxV2QvjKhz6iC5mcSmGBfRrnJ1/7DE42n6gw0ue+OgLl4CiXwzq1tujQwVB4YNJ21doJ6lIdtX/eLsBKo7oXIRMBypFiy9j4/8FY1qpQu92JqxAoW6gMFdVq4X2kBQGgxMizMZPg=;SAcLeEMLB72q66WJ3JHvWg=="
+secured: "xz7OW4sM6OZbG5116rQQ//1meN3C5jmAnDsXe5YR98tDV9OIT/M2W2g3W0IyC+uR/juxi2ThBgladVjuvkNhjQiVz+leUnyy3DXDnhOwyuiwvkmUQiP6nc7PKyIT4hGaJMCQQzWJaBlHooJhv247sEXiLzEhqQ8cpLJEiJdvhh8LC3Wjzk/Fv8B/5jyi7CSDbjKapPJbGqrPTpLOsp42Ft6HbXBTLedvDMkSX1hy2Rfh2+qW14YTYsD2eOqiAJd74bWWc6UOKwl5jzqlKTfI3zjp4SI/1gggmWYBxG0O5tBmlbON6hlmaVsAiv1jy2cmU/pS6aeU4IdWZjGpf5rmO2B5SdF+3+Cl/vCa68LXyDQ=;bykebWa8EDzJLwZ3fwHhzA=="
 ---
 
