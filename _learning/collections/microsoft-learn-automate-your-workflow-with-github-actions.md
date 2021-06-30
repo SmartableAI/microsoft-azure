@@ -4,7 +4,7 @@ excerpt: "Learn how GitHub Actions enables you to automate your software develop
 type: collection
 price: Free
 length: PT4H2M
-heat: 94
+heat: 91
 
 provider:
   name: Microsoft Learn

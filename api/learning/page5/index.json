@@ -4,205 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-develop-and-deploy-applications-on-kubernetes.md",
-      "title": "Develop and deploy applications on Kubernetes",
-      "excerpt": "Create, deploy, and maintain Kubernetes-native applications using AKS.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-develop-and-deploy-applications-on-kubernetes/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-develop-and-deploy-applications-on-kubernetes/",
-      "length": "PT5H32M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-aks-deploy-container-app.md",
-          "title": "Deploy a containerized application on Azure Kubernetes Service",
-          "excerpt": "Explore how to create and deploy a containerized application by using Azure Kubernetes Service declarative manifest files.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-deploy-container-app/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/",
-          "length": "PT1H4M",
-          "ratings": {
-            "count": 481,
-            "average": 4.760915
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 65,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-app-package-management-using-helm.md",
-          "title": "Application and package management using Helm",
-          "excerpt": "Helm is an application package manager for Kubernetes that you use to standardize and simplify the deployment of cloud-native applications on Kubernetes. Here you'll see how to install third-party packages called Helm charts and how to create and install Helm charts for the workloads your teams develop.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-app-package-management-using-helm/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/",
-          "length": "PT58M",
-          "ratings": {
-            "count": 313,
-            "average": 4.709265
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 62,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/app-package-management-using-helm-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-aks-deployment-pipeline-github-actions.md",
-          "title": "Configure an Azure Kubernetes Service deployment pipeline using GitHub Actions",
-          "excerpt": "Explore how to create an automated deployment pipeline by using GitHub Actions along with Azure Kubernetes Service.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-deployment-pipeline-github-actions/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deployment-pipeline-github-actions/",
-          "length": "PT1H34M",
-          "ratings": {
-            "count": 213,
-            "average": 4.647887
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 61,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-aks-manage-application-state.md",
-          "title": "Deploy and manage a stateful application using CosmosDB and Azure Kubernetes Service",
-          "excerpt": "Create and manage a stateful application with an external storage using CosmosDB and Azure Kubernetes Service",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-manage-application-state/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-manage-application-state/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 39,
-            "average": 4.6923075
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 74,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/app-package-management-using-helm-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-analyze-images-computer-vision.md",
       "title": "Analyze images with the Computer Vision service",
       "excerpt": "The Computer Vision service enables software engineers to create intelligent solutions that extract information from images; a common task in many artificial intelligence (AI) scenarios.",
@@ -210,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
       "length": "PT28M",
       "ratings": {
-        "count": 2158,
-        "average": 4.6830397
+        "count": 2160,
+        "average": 4.6828704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -253,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 1950,
-        "average": 4.7358975
+        "count": 1954,
+        "average": 4.7364383
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -296,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 16139,
-        "average": 4.723651
+        "count": 16144,
+        "average": 4.7236743
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -339,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/",
       "length": "PT49M",
       "ratings": {
-        "count": 711,
-        "average": 4.7791843
+        "count": 715,
+        "average": 4.7804193
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -381,8 +182,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 12900,
-        "average": 4.7660465
+        "count": 12903,
+        "average": 4.766101
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -416,8 +217,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-merge-conflicts-github/",
       "length": "PT52M",
       "ratings": {
-        "count": 660,
-        "average": 4.8348484
+        "count": 663,
+        "average": 4.8340874
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -493,8 +294,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/release-based-workflow-github/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 679,
-        "average": 4.8114877
+        "count": 683,
+        "average": 4.808199
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -535,8 +336,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 7339,
-        "average": 4.6875596
+        "count": 7342,
+        "average": 4.687551
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -631,8 +432,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1928,
-            "average": 4.5020747
+            "count": 1929,
+            "average": 4.5023327
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -714,8 +515,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2516,
-            "average": 4.6033387
+            "count": 2517,
+            "average": 4.603496
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -869,8 +670,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2516,
-            "average": 4.6033387
+            "count": 2517,
+            "average": 4.603496
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -904,8 +705,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2768,
-            "average": 4.47724
+            "count": 2769,
+            "average": 4.4774284
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -976,8 +777,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
           "length": "PT15M",
           "ratings": {
-            "count": 435,
-            "average": 4.756322
+            "count": 437,
+            "average": 4.755149
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1019,8 +820,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
           "length": "PT46M",
           "ratings": {
-            "count": 5171,
-            "average": 4.770644
+            "count": 5174,
+            "average": 4.7703905
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1062,8 +863,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
           "length": "PT24M",
           "ratings": {
-            "count": 4695,
-            "average": 4.7861557
+            "count": 4698,
+            "average": 4.786292
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1105,8 +906,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
           "length": "PT21M",
           "ratings": {
-            "count": 3371,
-            "average": 4.7813706
+            "count": 3373,
+            "average": 4.780907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1160,6 +961,90 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-use-basketball-stats-to-optimize-game-play-with-visual-studio-code-inspired-by-space-jam-a-new-legacy.md",
+      "title": "Use basketball stats to optimize game play with Visual Studio Code, inspired by SPACE JAM: A NEW LEGACY",
+      "excerpt": "This *Space Jam: A New Legacy* - inspired learning path aims to equip you with data science, web development skills, and coding strategies to impact a game of basketball in real time, ensuring victory for the Tune Squad in their next game.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-use-basketball-stats-to-optimize-game-play-with-visual-studio-code-inspired-by-space-jam-a-new-legacy/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-use-basketball-stats-to-optimize-game-play-with-visual-studio-code-inspired-by-space-jam-a-new-legacy/",
+      "length": "PT3H21M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-optimize-basketball-player-rest-breaks.md",
+          "title": "Create a web app that uses data to make decisions on the basketball court",
+          "excerpt": "Create a web app by using JavaScript, Azure, GitHub, and Visual Studio Code to help the Tune Squad coach use data to make decisions on the basketball court, inspired by SPACE JAM: A NEW LEGACY.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-optimize-basketball-player-rest-breaks/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-basketball-player-rest-breaks/",
+          "length": "PT1H5M",
+          "ratings": {
+            "count": 407,
+            "average": 4.823096
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 72,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/optimize-basketball-player-rest-breaks-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 1,
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/optimize-basketball-player-rest-breaks-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-communicate-using-markdown.md",
       "title": "Communicate effectively on GitHub by using Markdown",
       "excerpt": "Learn to use Markdown to communicate with brevity, clarity, and expression.",
@@ -1167,8 +1052,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-using-markdown/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 653,
-        "average": 4.777948
+        "count": 657,
+        "average": 4.7792997
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1209,8 +1094,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 142281,
-        "average": 4.70287
+        "count": 142283,
+        "average": 4.70286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1244,8 +1129,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 1716,
-        "average": 4.759907
+        "count": 1718,
+        "average": 4.760186
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1288,8 +1173,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 4345,
-        "average": 4.834062
+        "count": 4349,
+        "average": 4.833985
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1331,8 +1216,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
       "length": "PT55M",
       "ratings": {
-        "count": 678,
-        "average": 4.759587
+        "count": 683,
+        "average": 4.7584186
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1367,6 +1252,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-optimize-basketball-player-rest-breaks.md",
+      "title": "Create a web app that uses data to make decisions on the basketball court",
+      "excerpt": "Create a web app by using JavaScript, Azure, GitHub, and Visual Studio Code to help the Tune Squad coach use data to make decisions on the basketball court, inspired by SPACE JAM: A NEW LEGACY.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-optimize-basketball-player-rest-breaks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-basketball-player-rest-breaks/",
+      "length": "PT1H5M",
+      "ratings": {
+        "count": 407,
+        "average": 4.823096
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/optimize-basketball-player-rest-breaks-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
       "title": "Secure your Azure Storage account",
       "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
@@ -1374,8 +1301,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 10858,
-        "average": 4.6799593
+        "count": 10860,
+        "average": 4.6799264
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1417,8 +1344,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 4719,
-        "average": 4.7586355
+        "count": 4721,
+        "average": 4.7587376
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1461,8 +1388,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 3758,
-        "average": 4.7299094
+        "count": 3763,
+        "average": 4.730003
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1503,8 +1430,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 5997,
-        "average": 4.7462063
+        "count": 6000,
+        "average": 4.7461667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1546,8 +1473,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/",
       "length": "PT54M",
       "ratings": {
-        "count": 631,
-        "average": 4.776545
+        "count": 636,
+        "average": 4.7751575
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1588,8 +1515,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
       "length": "PT57M",
       "ratings": {
-        "count": 3809,
-        "average": 4.632712
+        "count": 3811,
+        "average": 4.6326423
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1612,46 +1539,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-create-a-storage-account-and-upload-a-blob-azure-portal-series.md",
-      "title": "How to create a storage account and upload a blob | Azure Portal Series",
-      "excerpt": "UPDATED TO FULL SCREEN  The Azure Portal allows you to create and manage storage accounts and upload a blob. In this video of the Azure Portal “How To” Series, learn how to easily create a storage account, upload a blob, and manage the storage account within Storage Explorer (preview).     Try out these",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-a-storage-account-and-upload-a-blob-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-a-storage-account-and-upload-a-blob-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=UJG6viKU_A8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UJG6viKU_A8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M2S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-14T15:16:00-07:00",
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UJG6viKU_A8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools",
-        "Storage"
       ]
     },
     {
@@ -1685,8 +1572,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
           "length": "PT19M",
           "ratings": {
-            "count": 8152,
-            "average": 4.7156525
+            "count": 8156,
+            "average": 4.715792
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1727,8 +1614,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 8303,
-            "average": 4.7325063
+            "count": 8307,
+            "average": 4.732635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1762,8 +1649,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
           "length": "PT40M",
           "ratings": {
-            "count": 6234,
-            "average": 4.749759
+            "count": 6235,
+            "average": 4.7497997
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1804,8 +1691,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
           "length": "PT33M",
           "ratings": {
-            "count": 3295,
-            "average": 4.73566
+            "count": 3299,
+            "average": 4.7359805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1879,8 +1766,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
           "length": "PT19M",
           "ratings": {
-            "count": 8152,
-            "average": 4.7156525
+            "count": 8156,
+            "average": 4.715792
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1921,8 +1808,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 8303,
-            "average": 4.7325063
+            "count": 8307,
+            "average": 4.732635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1956,8 +1843,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
           "length": "PT40M",
           "ratings": {
-            "count": 6234,
-            "average": 4.749759
+            "count": 6235,
+            "average": 4.7497997
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1998,8 +1885,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
           "length": "PT33M",
           "ratings": {
-            "count": 3295,
-            "average": 4.73566
+            "count": 3299,
+            "average": 4.7359805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2110,8 +1997,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2862,
-            "average": 4.6390634
+            "count": 2865,
+            "average": 4.6383944
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2155,8 +2042,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
           "length": "PT43M",
           "ratings": {
-            "count": 1405,
-            "average": 4.7074733
+            "count": 1407,
+            "average": 4.7071786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2200,8 +2087,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/",
           "length": "PT45M",
           "ratings": {
-            "count": 1179,
-            "average": 4.6420693
+            "count": 1181,
+            "average": 4.642676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2264,8 +2151,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-devops-github-apps/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 590,
-        "average": 4.8084745
+        "count": 592,
+        "average": 4.8091216
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2307,8 +2194,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 1626,
-        "average": 4.6771216
+        "count": 1627,
+        "average": 4.67732
       },
       "provider": {
         "name": "Microsoft Learn",

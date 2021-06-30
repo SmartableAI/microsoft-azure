@@ -4,207 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-create-serverless-applications.md",
-      "title": "Create serverless applications",
-      "excerpt": "In this learning path, discover Azure Functions that create event-driven, compute-on-demand systems using server-side logic to build serverless architectures.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-create-serverless-applications/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-create-serverless-applications/",
-      "length": "PT8H11M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes.md",
-          "title": "Choose the best Azure service to automate your business processes",
-          "excerpt": "In this module, we'll discuss how to choose the appropriate Azure service to integrate and automate business processes.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 780,
-            "average": 4.6935897
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 76,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
-          "title": "Create serverless logic with Azure Functions",
-          "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 9463,
-            "average": 4.6665964
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 63,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Serverless",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
-          "title": "Execute an Azure Function with triggers",
-          "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
-          "length": "PT1H23M",
-          "ratings": {
-            "count": 5140,
-            "average": 4.7305446
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 60,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Serverless",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
-          "title": "Chain Azure Functions together using input and output bindings",
-          "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 4010,
-            "average": 4.5466332
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 55,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Compute",
-            "Serverless",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 10,
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools",
-        "Databases",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-manage-security-operations-in-azure.md",
       "title": "Manage security operations in Azure",
       "excerpt": "Learn how to configure security policies and manage security alerts with the tools and services in Azure.",
@@ -236,8 +35,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12281,
-            "average": 4.7662244
+            "count": 12288,
+            "average": 4.7661133
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -279,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3393,
-            "average": 4.6746244
+            "count": 3396,
+            "average": 4.6746173
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -365,8 +164,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
           "length": "PT44M",
           "ratings": {
-            "count": 1669,
-            "average": 4.6159377
+            "count": 1670,
+            "average": 4.6161675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -456,8 +255,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 4719,
-            "average": 4.7586355
+            "count": 4721,
+            "average": 4.7587376
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -535,8 +334,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3393,
-            "average": 4.6746244
+            "count": 3396,
+            "average": 4.6746173
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -578,8 +377,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 1985,
-            "average": 4.5939546
+            "count": 1986,
+            "average": 4.594159
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -661,8 +460,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 326,
-            "average": 4.7883434
+            "count": 328,
+            "average": 4.789634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -747,8 +546,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 1158,
-            "average": 4.747841
+            "count": 1160,
+            "average": 4.7482758
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -789,8 +588,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 1191,
-            "average": 4.754828
+            "count": 1193,
+            "average": 4.755239
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -889,8 +688,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 481,
-            "average": 4.760915
+            "count": 482,
+            "average": 4.7614107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -924,8 +723,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/",
           "length": "PT58M",
           "ratings": {
-            "count": 313,
-            "average": 4.709265
+            "count": 315,
+            "average": 4.711111
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -967,8 +766,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deployment-pipeline-github-actions/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 213,
-            "average": 4.647887
+            "count": 214,
+            "average": 4.649533
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1125,8 +924,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1928,
-            "average": 4.5020747
+            "count": 1929,
+            "average": 4.5023327
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1208,8 +1007,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2516,
-            "average": 4.6033387
+            "count": 2517,
+            "average": 4.603496
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1363,8 +1162,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2516,
-            "average": 4.6033387
+            "count": 2517,
+            "average": 4.603496
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1398,8 +1197,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2768,
-            "average": 4.47724
+            "count": 2769,
+            "average": 4.4774284
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1470,8 +1269,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
           "length": "PT15M",
           "ratings": {
-            "count": 435,
-            "average": 4.756322
+            "count": 437,
+            "average": 4.755149
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1513,8 +1312,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
           "length": "PT46M",
           "ratings": {
-            "count": 5171,
-            "average": 4.770644
+            "count": 5174,
+            "average": 4.7703905
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1556,8 +1355,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
           "length": "PT24M",
           "ratings": {
-            "count": 4695,
-            "average": 4.7861557
+            "count": 4698,
+            "average": 4.786292
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1599,8 +1398,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
           "length": "PT21M",
           "ratings": {
-            "count": 3371,
-            "average": 4.7813706
+            "count": 3373,
+            "average": 4.780907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1654,6 +1453,90 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-use-basketball-stats-to-optimize-game-play-with-visual-studio-code-inspired-by-space-jam-a-new-legacy.md",
+      "title": "Use basketball stats to optimize game play with Visual Studio Code, inspired by SPACE JAM: A NEW LEGACY",
+      "excerpt": "This *Space Jam: A New Legacy* - inspired learning path aims to equip you with data science, web development skills, and coding strategies to impact a game of basketball in real time, ensuring victory for the Tune Squad in their next game.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-use-basketball-stats-to-optimize-game-play-with-visual-studio-code-inspired-by-space-jam-a-new-legacy/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-use-basketball-stats-to-optimize-game-play-with-visual-studio-code-inspired-by-space-jam-a-new-legacy/",
+      "length": "PT3H21M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-optimize-basketball-player-rest-breaks.md",
+          "title": "Create a web app that uses data to make decisions on the basketball court",
+          "excerpt": "Create a web app by using JavaScript, Azure, GitHub, and Visual Studio Code to help the Tune Squad coach use data to make decisions on the basketball court, inspired by SPACE JAM: A NEW LEGACY.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-optimize-basketball-player-rest-breaks/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-basketball-player-rest-breaks/",
+          "length": "PT1H5M",
+          "ratings": {
+            "count": 407,
+            "average": 4.823096
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 72,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/optimize-basketball-player-rest-breaks-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 1,
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/optimize-basketball-player-rest-breaks-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-evolve-your-devops-practices.md",
       "title": "Evolve your DevOps practices",
       "excerpt": "In this learning path, find out how Azure DevOps enables transparency and cooperation with continuous delivery and deployment for your development lifecycle.",
@@ -1684,8 +1567,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
           "length": "PT19M",
           "ratings": {
-            "count": 8152,
-            "average": 4.7156525
+            "count": 8156,
+            "average": 4.715792
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1726,8 +1609,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 8303,
-            "average": 4.7325063
+            "count": 8307,
+            "average": 4.732635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1761,8 +1644,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
           "length": "PT40M",
           "ratings": {
-            "count": 6234,
-            "average": 4.749759
+            "count": 6235,
+            "average": 4.7497997
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1803,8 +1686,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
           "length": "PT33M",
           "ratings": {
-            "count": 3295,
-            "average": 4.73566
+            "count": 3299,
+            "average": 4.7359805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1878,8 +1761,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
           "length": "PT19M",
           "ratings": {
-            "count": 8152,
-            "average": 4.7156525
+            "count": 8156,
+            "average": 4.715792
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1920,8 +1803,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 8303,
-            "average": 4.7325063
+            "count": 8307,
+            "average": 4.732635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1955,8 +1838,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
           "length": "PT40M",
           "ratings": {
-            "count": 6234,
-            "average": 4.749759
+            "count": 6235,
+            "average": 4.7497997
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1997,8 +1880,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
           "length": "PT33M",
           "ratings": {
-            "count": 3295,
-            "average": 4.73566
+            "count": 3299,
+            "average": 4.7359805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2109,8 +1992,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2862,
-            "average": 4.6390634
+            "count": 2865,
+            "average": 4.6383944
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2154,8 +2037,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
           "length": "PT43M",
           "ratings": {
-            "count": 1405,
-            "average": 4.7074733
+            "count": 1407,
+            "average": 4.7071786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2199,8 +2082,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/",
           "length": "PT45M",
           "ratings": {
-            "count": 1179,
-            "average": 4.6420693
+            "count": 1181,
+            "average": 4.642676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2329,8 +2212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
           "length": "PT1H27M",
           "ratings": {
-            "count": 4112,
-            "average": 4.765564
+            "count": 4113,
+            "average": 4.765621
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2371,8 +2254,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 3434,
-            "average": 4.7341294
+            "count": 3437,
+            "average": 4.734361
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2932,8 +2815,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-networking/",
           "length": "PT54M",
           "ratings": {
-            "count": 280,
-            "average": 4.7464285
+            "count": 281,
+            "average": 4.747331
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2975,8 +2858,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-operations/",
           "length": "PT44M",
           "ratings": {
-            "count": 412,
-            "average": 4.813107
+            "count": 413,
+            "average": 4.8135595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3268,8 +3151,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
           "length": "PT27M",
           "ratings": {
-            "count": 647,
-            "average": 4.7465224
+            "count": 649,
+            "average": 4.7473035
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3312,8 +3195,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
           "length": "PT42M",
           "ratings": {
-            "count": 460,
-            "average": 4.747826
+            "count": 462,
+            "average": 4.7489176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3356,8 +3239,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
           "length": "PT26M",
           "ratings": {
-            "count": 371,
-            "average": 4.752022
+            "count": 373,
+            "average": 4.753351
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3392,8 +3275,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
           "length": "PT8M",
           "ratings": {
-            "count": 382,
-            "average": 4.725131
+            "count": 384,
+            "average": 4.7265625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3673,8 +3556,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
           "length": "PT38M",
           "ratings": {
-            "count": 2785,
-            "average": 4.7414722
+            "count": 2786,
+            "average": 4.740847
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3760,8 +3643,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
           "length": "PT60M",
           "ratings": {
-            "count": 63,
-            "average": 4.825397
+            "count": 64,
+            "average": 4.828125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3974,8 +3857,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 2035,
-            "average": 4.6874695
+            "count": 2037,
+            "average": 4.687776
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4098,8 +3981,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
           "length": "PT38M",
           "ratings": {
-            "count": 2785,
-            "average": 4.7414722
+            "count": 2786,
+            "average": 4.740847
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4185,8 +4068,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
           "length": "PT60M",
           "ratings": {
-            "count": 63,
-            "average": 4.825397
+            "count": 64,
+            "average": 4.828125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5646,8 +5529,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 3434,
-            "average": 4.7341294
+            "count": 3437,
+            "average": 4.734361
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5863,8 +5746,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-components-of-azure-synapse-analytics/",
           "length": "PT1H5M",
           "ratings": {
-            "count": 166,
-            "average": 4.5
+            "count": 167,
+            "average": 4.502994
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6004,13 +5887,14 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-azure-tips-and-tricks.md",
-      "title": "Azure Tips and Tricks",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-tips-and-tricks/",
+      "path": "_learning/collections/microsoft-learn-az-400-facilitate-communication-and-collaboration.md",
+      "title": "AZ-400: Facilitate communication and collaboration",
+      "excerpt": "Explore DevOps capabilities such as continuous planning and continuous collaboration and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-facilitate-communication-and-collaboration/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-facilitate-communication-and-collaboration/",
+      "length": "PT2H13M",
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -6021,18 +5905,23 @@
           }
         ]
       },
+      "levels": [
+        "Beginner"
+      ],
       "topItems": [
         {
-          "path": "_learning/videos/microsoft-how-to-deploy-azure-cognitive-services-in-containers-azure-tips-and-tricks.md",
-          "title": "How to deploy Azure Cognitive Services in containers | Azure Tips and Tricks",
-          "excerpt": "In this edition of Azure Tips and Tricks, learn how to deploy Microsoft Azure Cognitive Services in containers.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-deploy-azure-cognitive-services-in-containers-azure-tips-and-tricks/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-deploy-azure-cognitive-services-in-containers-azure-tips-and-tricks/",
-          "originalUrl": "https://youtube.com/watch?v=XLQLNazid4I",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XLQLNazid4I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT2M28S",
+          "path": "_learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration.md",
+          "title": "Analyze DevOps Continuous Planning and Continuous Integration",
+          "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
+          "length": "PT22M",
+          "ratings": {
+            "count": 2199,
+            "average": 4.7289677
+          },
           "provider": {
-            "name": "Microsoft",
+            "name": "Microsoft Learn",
             "domain": "microsoft.com",
             "images": [
               {
@@ -6043,155 +5932,133 @@
               }
             ]
           },
-          "publishedDateTime": "2021-06-22T08:00:01-07:00",
-          "heat": 89,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/XLQLNazid4I/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
+          "levels": [
+            "Beginner"
           ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-get-started-with-neural-text-to-speech-in-azure-azure-tips-and-tricks.md",
-          "title": "How to get started with neural text to speech in Azure | Azure Tips and Tricks",
-          "excerpt": "In this edition of Azure Tips and Tricks, learn how to get started with Neural Text to Speech in Microsoft Azure.     For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-neural-text-to-speech-in-azure-azure-tips-and-tricks/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-neural-text-to-speech-in-azure-azure-tips-and-tricks/",
-          "originalUrl": "https://youtube.com/watch?v=dl0amatX5zs",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dl0amatX5zs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M24S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-06-15T08:01:18-07:00",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/dl0amatX5zs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-be-productive-with-github-codespaces-azure-tips-and-tricks.md",
-          "title": "How to be productive with GitHub Codespaces | Azure Tips and Tricks",
-          "excerpt": "In this edition of Azure Tips and Tricks, learn how to be productive with GitHub Codespaces.    For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://aka.ms/att/free",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-be-productive-with-github-codespaces-azure-tips-and-tricks/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-be-productive-with-github-codespaces-azure-tips-and-tricks/",
-          "originalUrl": "https://youtube.com/watch?v=4UE71a64Y4U",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4UE71a64Y4U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M11S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-06-14T08:00:03-07:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/4UE71a64Y4U/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-create-custom-handlers-for-azure-functions-azure-tips-and-tricks.md",
-          "title": "How to create custom handlers for Azure Functions | Azure Tips and Tricks",
-          "excerpt": "In this edition of Azure Tips and Tricks, learn how to create custom handlers for Microsoft Azure Functions.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit.  Create your free account today with Microsoft Azure:",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-custom-handlers-for-azure-functions-azure-tips-and-tricks/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-custom-handlers-for-azure-functions-azure-tips-and-tricks/",
-          "originalUrl": "https://youtube.com/watch?v=roWbjuo-c30",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/roWbjuo-c30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M29S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-06-08T08:00:02-07:00",
           "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/roWbjuo-c30/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
           "content": "\r\n",
-          "type": "video",
+          "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Serverless"
+            "DevOps",
+            "Integration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-introduce-foundation-pillars-devops.md",
+          "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+          "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduce-foundation-pillars-devops/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
+          "length": "PT25M",
+          "ratings": {
+            "count": 3612,
+            "average": 4.694075
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-characterize-devops-continous-collaboration-improvement.md",
+          "title": "Characterize DevOps Continuous Collaboration and Continuous Improvement",
+          "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Collaboration and Continuous Improvement.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-characterize-devops-continous-collaboration-improvement/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/characterize-devops-continous-collaboration-improvement/",
+          "length": "PT17M",
+          "ratings": {
+            "count": 1533,
+            "average": 4.7136335
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-explain-devops-continous-delivery-quality.md",
+          "title": "Explain DevOps Continuous Delivery and Continuous Quality",
+          "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explain-devops-continous-delivery-quality/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/",
+          "length": "PT18M",
+          "ratings": {
+            "count": 1746,
+            "average": 4.7411227
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "DevOps"
           ]
         }
       ],
-      "size": 162,
+      "size": 6,
       "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XLQLNazid4I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "collection",
+      "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "DevOps"
       ]
     }
   ],

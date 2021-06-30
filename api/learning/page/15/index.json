@@ -4,48 +4,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-route-system-feedback.md",
-      "title": "Route system feedback to development teams",
-      "excerpt": "Learn how continuous monitoring and dashboards give you insight into how customers use your software and where patterns of failure occur.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-route-system-feedback/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-system-feedback/",
-      "length": "PT22M",
-      "ratings": {
-        "count": 577,
-        "average": 4.6880417
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/route-system-feedback-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-store-and-share-with-azure-files.md",
       "title": "Store and share files in your application with Azure Files",
       "excerpt": "Azure Files provides a cloud-based file share for storing and sharing files to applications. Whether it's an application hosted in Azure App Service, an Azure VM, or an on-premises app, Azure Files can store and share file access between one or more applications and systems in a secure and failure-resilient manner.",
@@ -53,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-and-share-with-azure-files/",
       "length": "PT51M",
       "ratings": {
-        "count": 2868,
-        "average": 4.6527195
+        "count": 2871,
+        "average": 4.6527343
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -131,8 +89,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 3276,
-        "average": 4.652625
+        "count": 3279,
+        "average": 4.651418
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -175,8 +133,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-project-github/",
       "length": "PT43M",
       "ratings": {
-        "count": 520,
-        "average": 4.7807693
+        "count": 521,
+        "average": 4.78119
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -248,14 +206,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-use-azure-monitor-application-insights-to-record-custom-events-azure-tips-and-tricks.md",
-      "title": "How to use Azure Monitor Application Insights to record custom events | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Azure Monitor Application Insights to make your application logging smarter with Custom Event Tracking.   For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-monitor-application-insights-to-record-custom-events-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-monitor-application-insights-to-record-custom-events-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=iTRILNstmFI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iTRILNstmFI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M56S",
+      "path": "_learning/videos/microsoft-is-azure-free-account-really-free-azure-tips-and-tricks.md",
+      "title": "Is Azure Free Account really free? | Azure Tips and Tricks",
+      "excerpt": "In this video of Azure Tips and Tricks, you'll learn how to use Microsoft Azure for free, for 12 months. \r  For more tips and tricks, visit: http://azuredev.tips  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: http://azure.com/free",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-is-azure-free-account-really-free-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-is-azure-free-account-really-free-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=0KEfaUfolVs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0KEfaUfolVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M32S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -268,11 +226,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-03-19T08:12:44-07:00",
+      "publishedDateTime": "2020-01-21T08:27:40-08:00",
       "heat": 58,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/iTRILNstmFI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/0KEfaUfolVs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -282,8 +240,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Azure",
-        "DevOps"
+        "Azure"
       ]
     },
     {
@@ -462,8 +419,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-autoscale-rules/",
       "length": "PT47M",
       "ratings": {
-        "count": 116,
-        "average": 4.8189654
+        "count": 117,
+        "average": 4.820513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -635,8 +592,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
       "length": "PT34M",
       "ratings": {
-        "count": 6086,
-        "average": 4.771607
+        "count": 6087,
+        "average": 4.7716446
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -882,8 +839,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "PT53M",
       "ratings": {
-        "count": 2495,
-        "average": 4.6553106
+        "count": 2496,
+        "average": 4.655449
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -926,8 +883,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/",
       "length": "PT25M",
       "ratings": {
-        "count": 1796,
-        "average": 4.741648
+        "count": 1797,
+        "average": 4.7412353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -970,8 +927,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-security-center/",
       "length": "PT44M",
       "ratings": {
-        "count": 153,
-        "average": 4.7843137
+        "count": 155,
+        "average": 4.787097
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1013,8 +970,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-use-recommended-tools-to-create-a-data-flow-diagram/",
       "length": "PT18M",
       "ratings": {
-        "count": 404,
-        "average": 4.730198
+        "count": 407,
+        "average": 4.732187
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1050,14 +1007,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-deploy-your-web-app-using-github-actions-azure-portal-series.md",
-      "title": "How to deploy your web app using GitHub Actions | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, learn how to deploy Azure web apps using GitHub Actions.   Try out these features in the Azure portal: https://portal.azure.com    Keep connected on Twitter: https://twitter.com/AzurePortal    And make sure to keep an eye on our Azure Portal \"How to\"",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-deploy-your-web-app-using-github-actions-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-deploy-your-web-app-using-github-actions-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=b2oyxbSbLPA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b2oyxbSbLPA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M13S",
+      "path": "_learning/videos/microsoft-how-to-choose-which-services-to-use-in-azure-azure-friday.md",
+      "title": "How to choose which services to use in Azure | Azure Friday",
+      "excerpt": "In this video, Azure MVP Barry Luijbregts chats with Scott Hanselman about how he goes about choosing the right services in Azure to run his applications and store his data.   For more information, see:  • Overview of Azure services https://aka.ms/azfr/435/01  • Pluralsight course: Microsoft Azure for",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-choose-which-services-to-use-in-azure-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-choose-which-services-to-use-in-azure-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=ZpK_lv6HJkQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpK_lv6HJkQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M20S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1070,11 +1027,49 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-14T08:59:45-07:00",
+      "publishedDateTime": "2018-07-16T11:53:16-07:00",
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/b2oyxbSbLPA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZpK_lv6HJkQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-get-started-with-azure-api-management-azure-tips-and-tricks.md",
+      "title": "How to get started with Azure API Management | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to get started with Azure API Management, a service that helps protect and manage your APIs.   For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your free account today",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-azure-api-management-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-azure-api-management-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=gA2yxwKo0M0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gA2yxwKo0M0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M9S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-04-23T08:40:24-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gA2yxwKo0M0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1085,7 +1080,45 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Management tools"
+        "Integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-quickly-connect-to-a-linux-vm-with-ssh-azure-tips-and-tricks.md",
+      "title": "How to quickly connect to a Linux VM with SSH | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to quickly connect to a Linux Virtual Machine (VM) with secure shell (SSH). If you have Linux VMs that are running inside of Microsoft Azure, you can easily establish an SSH connection.    For more tips and tricks, visit: http://azuredev.tips/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-quickly-connect-to-a-linux-vm-with-ssh-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-quickly-connect-to-a-linux-vm-with-ssh-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=7pmn6luCwQ4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7pmn6luCwQ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M5S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-16T09:50:33-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7pmn6luCwQ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -1119,8 +1152,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/",
           "length": "PT41M",
           "ratings": {
-            "count": 1364,
-            "average": 4.8108506
+            "count": 1365,
+            "average": 4.8102565
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1513,8 +1546,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 2170,
-        "average": 4.2737327
+        "count": 2173,
+        "average": 4.2747355
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1618,48 +1651,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-describe-compliance-management-capabilities-microsoft.md",
-      "title": "Describe the compliance management capabilities in Microsoft",
-      "excerpt": "Describe the compliance management capabilities in Microsoft",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-compliance-management-capabilities-microsoft/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-compliance-management-capabilities-microsoft/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 538,
-        "average": 4.8066916
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-compliance-management-capabilities-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
