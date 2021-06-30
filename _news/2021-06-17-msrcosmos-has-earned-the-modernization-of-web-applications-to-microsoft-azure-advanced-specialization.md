@@ -1,18 +1,20 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
-publishedDateTime: 2021-06-16T18:33:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
-webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
+excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
+publishedDateTime: 2021-06-16T18:31:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21594082/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specializat"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21594082/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specializat"
+ampWebUrl: "https://www.benzinga.com/amp/content/21594082"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21594082"
 type: article
-quality: 2
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
@@ -541,20 +543,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
-  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
-    excerpt: "The Logility® Digital Supply Chain Platform Now Available on Azure MarketplaceATLANTA--(BUSINESS WIRE)--#SupplyChain--Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise,"
-    publishedDateTime: 2021-06-17T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=486685"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Perforce Releases Free, Turnkey Solution for Game Dev and VFX Studios on Microsoft Azure"
     excerpt: "For studios looking to capitalize on cloud benefits and avoid a costly hardware investment, the Enhanced Studios Pack combines the world-class development tools trusted by the largest AAA game development studios to enable creativity,"
     publishedDateTime: 2021-06-17T13:10:00Z
@@ -628,6 +616,15 @@ related:
       domain: tmcnet.com
     quality: 0
   - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
+    excerpt: "Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise, is partnering with Microsoft (News - Alert) and making its comprehensive suite of solutions available through Microsoft Azure."
+    publishedDateTime: 2021-06-17T13:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-logility-partners-with-microsoft-azure-power-high-performing-/2021/06/17/9392726.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
     excerpt: "Logility partners with Microsoft Azure to power high performing cloud environment and enhance the customer experience."
     publishedDateTime: 2021-06-17T17:00:00Z
     webUrl: "https://www.businesswire.com/news/home/20210617005071/en/Logility-Partners-with-Microsoft-Azure-to-Power-High-Performing-Cloud-Environment-and-Enhance-the-Customer-Experience"
@@ -637,6 +634,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "51cSDq1WcH9uzXqNnufzTQmjnnE+0br3caMasXeJLfLRHIckE9y1vVE6kK5b/8MhSRMKYEpMnI2mAoFa15eWI4O+R+82S/V9maQ0ddloOu+m1VmN9MzUDDncG1WCzbTm1Vmufd+V97RRkt6R7pLHIPtGF/55SH8OYMcjvaJISL+ZLK2gDdmUSzVNy0oYb4BVMHPiiJdBYOW5YMJ2HvnqBejRafCDA6EfrT9a9JE6NamtEdmNzBXieKPrEBIz54FojsspBScylD7eMnmGOU+b9dKiTkdsNfFufNYgrSVbj4yPwSd1lUqgraLauUaEyRsoL3nEE9Fh6O+fyJtiljw5ZtrbHjNNpI7gQqJBEHyldrU=;wO5IYokhVxJbfR2FwXuTPg=="
+secured: "LxYBVAvH3vgcAIteAKfpSsM//mdpDBFAFfHB1B0PHymYIkHTDczlqGTsMn3ey3Y5qUiwJn6NqzMFAVM1U4LfBkyWbbQb4Su8cCMuE/EPwyVzBkmc00yJBNBOMSn0zmxsJApiWxMkEfTshTKcdlR5nS6pBy6/rlXQto7K3h6xZ5J9GC4UBQhcq9qH08t3IU/+ZrrH6fyagk89jqL7mzDTJaPt2pvJMoV2jlqtBgmEgiUo1WX9dxHEbqVxbIZafQT9h+hBbEPor9RRAQJJgfemCTSzuCyjfZo0rh3S5uEtnwJgXNcSUZ1o4Bhcs6rtW2bQH7N+pnaCuBkfURvmCK11H//e1NENBXjIWrKPu9ff+Ag=;DFrsbY6orRpa/KT5nwK0Hg=="
 ---
 

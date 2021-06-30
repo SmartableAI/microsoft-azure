@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
-excerpt: "The Logility® Digital Supply Chain Platform Now Available on Azure MarketplaceATLANTA--(BUSINESS WIRE)--#SupplyChain--Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise,"
-publishedDateTime: 2021-06-17T13:00:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=486685"
-webUrl: "https://us.acrofan.com/detail.php?number=486685"
+excerpt: "Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise, is partnering with Microsoft (News - Alert) and making its comprehensive suite of solutions available through Microsoft Azure."
+publishedDateTime: 2021-06-17T13:18:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-logility-partners-with-microsoft-azure-power-high-performing-/2021/06/17/9392726.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-logility-partners-with-microsoft-azure-power-high-performing-/2021/06/17/9392726.htm"
 type: article
-quality: 14
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -488,6 +482,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
+    publishedDateTime: 2021-06-16T18:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21594082/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specializat"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21594082"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21594082"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
   - title: "VAST Grows Microsoft Partnership with Microsoft Cloud Gold Partner Status"
     excerpt: "VAST, a leader in Data Protection, IT Infrastructure Management, and Optimization of On-Premise and Cloud Computing Operations, has announced today it has"
     publishedDateTime: 2021-06-17T17:10:00Z
@@ -583,15 +588,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 3
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
-    publishedDateTime: 2021-06-16T18:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301314074.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 2
   - title: "Softline Kazakhstan Provides ISAS with a Solution Based on Microsoft Azure and PowerPlatform Services"
     excerpt: "Softline Kazakhstan has created and integrated a solution for ISAS (Institute of Sales Activity Statistics)— ISAS Pro 2.0. The solution is based on Microsoft Azure, PowerPlatform, and Microsoft 365, which allows the customer to monitor and analyze the work of merchandisers in retail outlets"
     publishedDateTime: 2021-06-17T07:06:00Z
@@ -638,6 +634,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "Ctxio68TXgkeI6yQob+FLbDpVoU/VDFsi4dmkoTARW9/sn79shs94Z1X1VCwNs2IgBuDsIWhOuEp5UCjaGpodNNBsLroVAYjtOOcJ6ns2sPoHwGbweUntHrtfGkTNgX0yAFT2qmO2b5ybwe1boTpDH6LWmpHMfksCG4ikWaOQ5a5MX9TbaavTZ1BfMT7ahyRYj+8AjKxV/86E6Det0a6w0PWpkK3UCMFP9VK4v3Lpi2K2x1T401+nNnRGuOJAYpJg+gsmQDT8foWE9ih6m4wO6OQvJWIFlrfkm/59USDpi0epGi0/GmSLIEBTqf5jcqa2jh+9MRh+r9kwMYSJnMVp2R/ANHFG9aizSO0NxTFGhQ=;acPDbMn6hsgVxSiAAsEvyg=="
+secured: "Pbru96sd+z7Vg1QLqkvs/0bE0I8kBjPYGzR3fvlotrDMtImwlYHZX1da6lz9++Cb3Mosju6gQgBDGVuLSfqr5yPJ+id1CS9Tiwmp4JpHgxlphD2zyWFiFcdWJBcGW+oWEyCypf0rAn1WP20oQwkNq83CAlJDVCLNuqQPehS6FgF75X4Uf+W52wQYuCIJTQbBwXeZsghSUcpAVjul74pJJpEM9fDse3Uno9o/WxT9ZSM+6amcpgLDJW8240Dw5UnALf+lmhLrJ/W1pzCxr59KlHYHt/EP+/kIV5jlhN3zPES5WKwJcTRHZLZsd56RBfmF36jlAtqV+5C7hOMOuEyY+INEMrAPcSm+Io67Z+1zGGA=;lZ86mZ5itud0unGiDJqX4A=="
 ---
 
