@@ -4,7 +4,7 @@ excerpt: "Prepare for device management in Microsoft 365"
 type: collection
 price: Free
 length: PT2H22M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
