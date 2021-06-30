@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
-    excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning (ML) and Artificial Intelligence (AI) capabilities can be brought directly to end-users deployed globally in a highly secure,"
-    publishedDateTime: 2021-06-30T06:52:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service/article_db998d49-9d16-54d2-9633-de848f32efb8.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 21
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/ed/4ed1008e-2061-5d2f-bb22-a3c4d1af6c76/60dc170701474.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
   - title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
     excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure. OAG customers can now take ..."
     publishedDateTime: 2021-06-28T12:47:00Z
@@ -56,6 +42,15 @@ related:
       name: Finanztreff
       domain: finanztreff.de
     quality: 10
+  - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
+    excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
+    publishedDateTime: 2021-06-30T06:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
 
 secured: "uUC/V9sFdMaB6DQ4rnqr0S0bPGbSZBSVBMAqcstA/iGfC7KIwM147ovDBehjylu7ZkD2InibtVyR8x6kykSc4Q/10G7OG6DUgtTh4gkXEAnK78eU29LjdsJyZ185IVlhDVCGPUo1G0bqC89eTqYajt6e/aDR0C8w1MNYI1DT6xILchpSnwbxmk2hr++CsSOOYO8ADJkEvGf/Ep4vfJuu84eYcWRSc+bz4Hd6TIlna2jdyFVJNjNmy79sZY+OU0ftbgH/ZMJ9X+sjc9O7SY+YLwZE0hynvvlb2asEySgUjzBGcLE5aswbdMdHgZ2ZQrk/n9qr1pg9yXJQaNk4l+CUsG2jeiCQXUmAYKwzJRWRD58=;oRkbfAb+nrqmvA6+UUr/CQ=="
 ---
