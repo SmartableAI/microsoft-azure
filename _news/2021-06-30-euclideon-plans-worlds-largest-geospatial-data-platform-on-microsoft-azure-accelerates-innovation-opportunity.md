@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
-excerpt: "Teradata today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft Azure."
-publishedDateTime: 2021-06-29T17:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210629005193/en/Teradata-Enhances-Cloud-Offerings-on-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210629005193/en/Teradata-Enhances-Cloud-Offerings-on-Microsoft-Azure"
+title: "Euclideon plans world’s largest geospatial data platform on Microsoft Azure, accelerates innovation opportunity"
+excerpt: "Leading 3D data specialist Euclideon has signed a strategic partnership with Microsoft and unveiled plans to build the world’s largest geospatial data platform – featuring more than 100 petabytes of 3D data – on the Azure cloud."
+publishedDateTime: 2021-06-30T02:25:00Z
+originalUrl: "https://www.directionsmag.com/pressrelease/10866"
+webUrl: "https://www.directionsmag.com/pressrelease/10866"
 type: article
-quality: 17
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Directions Magazine
+  domain: directionsmag.com
 
 topics:
   - Azure
@@ -34,16 +34,16 @@ related:
         width: 612
         height: 355
         isCached: true
-  - title: "Euclideon plans world’s largest geospatial data platform on Microsoft Azure, accelerates innovation opportunity"
-    excerpt: "Leading 3D data specialist Euclideon has signed a strategic partnership with Microsoft and unveiled plans to build the world’s largest geospatial data platform – featuring more than 100 petabytes of 3D data – on the Azure cloud."
-    publishedDateTime: 2021-06-30T02:25:00Z
-    webUrl: "https://www.directionsmag.com/pressrelease/10866"
+  - title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
+    excerpt: "Teradata today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft Azure."
+    publishedDateTime: 2021-06-29T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210629005193/en/Teradata-Enhances-Cloud-Offerings-on-Microsoft-Azure"
     type: article
     provider:
-      name: Directions Magazine
-      domain: directionsmag.com
-    quality: 0
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
 
-secured: "uznDVCqNCgfmSVbTh+UGUDEpR8EEFJhHugQj6kFYy8DkWgmCGS7Q7PjhU03Gk79A2LKouG+EQblQ8tcefmcqR9MUEUcJHjqw6tjY5nuL8Ug8VwhlZMZGgfIggpLzIDhDLAxpVVX5Zg3duWWcWcmoJJD+/DvplH4Av0XjxYuuWgk8bJniVHDK38XgLWq12bALxTh2G4V/D2NGkO7hcu+LSAt4IxCl4rAKryJyCpLS00ZXwleevNHjNkXe/hsOQBcFnA7AgecV1DX7vUSZ168l0b6cJGftK2IoQKzgU1T2GL34+rvzhEKY+DJ0ZayxIb52KlebDCAJp55T7FlG9xsuYeFQvsgL1WNrufRBacE2pGQ=;esNbOCmwhnNb0gsJb8uEzQ=="
+secured: "svCDloOsAt4Fu+scsCH/zjl5BLSnM2tATx81j4v2jax/FyjF2qKglYWE9JUdX3zEsUvpawsmbYeUFFhuPbDW5izKKoa3d3d6/6rdwyY21CGfVBhchm7r8GWv4HuXSH688HByEgaU5e6EXLX5ubxPMsX6CD4vp3Vf4buSuAJkhHbIQCVQRd2jzC9BQLNgNi5sKVXpbYERQW+DnwNkVo6kwYhHs5JLeS55zc1BQDR3NM6dd33fSS3GuR0Set5JG5M+QrdOjibZpfH9FMCebv8ryujHDSvWkUue2DOtFclOXqINUfuv52PomWo2CtsW1weE7Qrs2C6EkdQrqnrK4vPTdnZ2hzG0FpiF2c3AfmLXfME=;XzgWJsvrSWXxgjVO5K4jqQ=="
 ---
 
