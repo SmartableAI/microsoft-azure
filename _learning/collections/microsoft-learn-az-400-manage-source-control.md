@@ -4,7 +4,7 @@ excerpt: "Use GitHub to build a modern source control strategy and prepare for E
 type: collection
 price: Free
 length: PT14H31M
-heat: 94
+heat: 88
 
 provider:
   name: Microsoft Learn
