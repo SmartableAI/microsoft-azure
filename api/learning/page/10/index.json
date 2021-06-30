@@ -4,6 +4,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-evolving-world-of-data.md",
+      "title": "Understand the evolving world of data",
+      "excerpt": "Discover how data systems and roles are evolving and explore the differences between on-premises and cloud data solutions using sample business cases.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-evolving-world-of-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 6937,
+        "average": 4.706069
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/evolving-world-of-data-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-microservices-devops-aspnet-core.md",
       "title": "Deploy a cloud-native ASP.NET Core microservice with GitHub Actions",
       "excerpt": "Implement GitHub Actions to build a container image and deploy to Azure Kubernetes Service.",
@@ -11,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-devops-aspnet-core/",
       "length": "PT54M",
       "ratings": {
-        "count": 255,
-        "average": 4.737255
+        "count": 260,
+        "average": 4.7384615
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 2786,
-        "average": 4.740847
+        "count": 2788,
+        "average": 4.7406745
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -98,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/",
       "length": "PT50M",
       "ratings": {
-        "count": 2666,
-        "average": 4.676294
+        "count": 2668,
+        "average": 4.676162
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -141,7 +183,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-package-module-iot-edge/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 340,
+        "count": 345,
         "average": 4.6
       },
       "provider": {
@@ -250,8 +292,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
           "length": "PT58M",
           "ratings": {
-            "count": 6133,
-            "average": 4.703897
+            "count": 6134,
+            "average": 4.703945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -293,8 +335,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 6555,
-            "average": 4.736079
+            "count": 6556,
+            "average": 4.7361197
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -620,8 +662,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 1267,
-            "average": 4.6842937
+            "count": 1270,
+            "average": 4.6850395
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -663,8 +705,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 683,
-            "average": 4.5519767
+            "count": 685,
+            "average": 4.5532846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1648,8 +1690,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/",
           "length": "PT56M",
           "ratings": {
-            "count": 155,
-            "average": 4.748387
+            "count": 156,
+            "average": 4.74359
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1734,8 +1776,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/write-subqueries/",
           "length": "PT50M",
           "ratings": {
-            "count": 41,
-            "average": 4.9268293
+            "count": 42,
+            "average": 4.928571
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1862,8 +1904,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 7359,
-            "average": 4.7222447
+            "count": 7363,
+            "average": 4.722396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1905,8 +1947,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-onpremises-workloads-migration-azure/",
           "length": "PT35M",
           "ratings": {
-            "count": 409,
-            "average": 4.6919317
+            "count": 410,
+            "average": 4.6926827
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1948,8 +1990,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-workloads-azure/",
           "length": "PT31M",
           "ratings": {
-            "count": 321,
-            "average": 4.682243
+            "count": 322,
+            "average": 4.68323
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1990,8 +2032,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1579,
-            "average": 4.490184
+            "count": 1580,
+            "average": 4.490506
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2484,8 +2526,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5611,
-            "average": 4.6672606
+            "count": 5612,
+            "average": 4.667142
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2520,8 +2562,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1579,
-            "average": 4.490184
+            "count": 1580,
+            "average": 4.490506
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2557,8 +2599,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
           "length": "PT20M",
           "ratings": {
-            "count": 2315,
-            "average": 4.651404
+            "count": 2316,
+            "average": 4.6515546
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2601,8 +2643,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 4071,
-            "average": 4.6028004
+            "count": 4073,
+            "average": 4.6029954
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2665,8 +2707,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deployment-pipeline-github-actions/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 214,
-        "average": 4.649533
+        "count": 218,
+        "average": 4.6513762
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2708,8 +2750,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
       "length": "PT54M",
       "ratings": {
-        "count": 1160,
-        "average": 4.7482758
+        "count": 1162,
+        "average": 4.748709
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2750,8 +2792,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
       "length": "PT37M",
       "ratings": {
-        "count": 9634,
-        "average": 4.6727214
+        "count": 9635,
+        "average": 4.672652
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2786,8 +2828,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-text-with-azure-content-moderator/",
       "length": "PT31M",
       "ratings": {
-        "count": 2309,
-        "average": 4.6777825
+        "count": 2315,
+        "average": 4.678186
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2830,8 +2872,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
       "length": "PT40M",
       "ratings": {
-        "count": 5928,
-        "average": 4.72031
+        "count": 5929,
+        "average": 4.7203574
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2873,8 +2915,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "PT25M",
       "ratings": {
-        "count": 6555,
-        "average": 4.736079
+        "count": 6556,
+        "average": 4.7361197
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2915,8 +2957,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
       "length": "PT56M",
       "ratings": {
-        "count": 683,
-        "average": 4.5519767
+        "count": 685,
+        "average": 4.5532846
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2958,8 +3000,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
       "length": "PT1H17M",
       "ratings": {
-        "count": 1400,
-        "average": 4.655
+        "count": 1401,
+        "average": 4.6552463
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3001,8 +3043,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
       "length": "PT55M",
       "ratings": {
-        "count": 1452,
-        "average": 4.762397
+        "count": 1455,
+        "average": 4.7628865
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3035,8 +3077,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
       "length": "PT15M",
       "ratings": {
-        "count": 437,
-        "average": 4.755149
+        "count": 440,
+        "average": 4.7545457
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3078,8 +3120,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
       "length": "PT36M",
       "ratings": {
-        "count": 4702,
-        "average": 4.7401104
+        "count": 4703,
+        "average": 4.7401657
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3113,8 +3155,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
       "length": "PT1H38M",
       "ratings": {
-        "count": 1773,
-        "average": 4.745629
+        "count": 1775,
+        "average": 4.7459154
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3148,45 +3190,6 @@
         "DevOps",
         "Management Tools",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-build-and-deploy-a-containerized-app-to-azure-kubernetes-service-aks-azure-friday.md",
-      "title": "How to build and deploy a containerized app to Azure Kubernetes Service (AKS) | Azure Friday",
-      "excerpt": "Jay Gordon (@jaydestro) joins Donovan Brown (@donovanbrown) to show how to build a containerized React application and deploy it to production with Azure Kubernetes Service. He'll also show how to configure an Azure Active Directory service principal to enable Role-Based Authentication, which enables",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-build-and-deploy-a-containerized-app-to-azure-kubernetes-service-aks-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-build-and-deploy-a-containerized-app-to-azure-kubernetes-service-aks-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=E9YWmbUb9Ps",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E9YWmbUb9Ps\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M11S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-01-10T10:36:15-08:00",
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/E9YWmbUb9Ps/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     },
     {
