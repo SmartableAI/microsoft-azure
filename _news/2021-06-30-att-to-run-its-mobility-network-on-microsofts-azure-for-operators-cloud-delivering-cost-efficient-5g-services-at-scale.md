@@ -148,6 +148,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft, AT&T 5G Deal Gives Azure Telecom Cloud A Boost"
+    excerpt: "Microsoft's Azure for Operators cloud is set to expand with a new deal to acquire AT&T Network Cloud and engineering and lifecycle management software."
+    publishedDateTime: 2021-06-30T17:44:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-at-t-5g-deal-gives-azure-telecom-cloud-a-boost"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/026a-12a5232468e4-36b6ef30bd55-1000/microsoft-azure-1.jpg"
+        width: 606
+        height: 456
+        isCached: true
   - title: "Microsoft makes big 5G play as AT&T moves core to Azure cloud"
     excerpt: "Microsoft VP of 5G Strategy Shawn Hakl told Fierce that the combination of gaining a Tier one anchor tenant, along with IP and expertise to incorporate directly into Azure for Operators, is key and unique to the deal."
     publishedDateTime: 2021-06-30T17:11:00Z
@@ -224,6 +238,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "y9m4kDXdRgwqzxWGInIc7y253ORdEJYWLg8RLlEvA66HfTzri4cowuy0UqvzLm6BKGFFP+/tzxdlc76C61UTDQP6yhh8VYgEK1xd1vTNvl5BdUYImwJhqhrD4afSAVsMMQFTcMLt7nUXtfcw/CtsJTw972okKW7VAfKy8FgSqY4eDADhiMmLSazSgQOBwT9tcLYkpurPEcGt7rp1986uhz54iZ7pvXUs2pOsTlsvF4c58EKFXYTluJtkgRgJYBqGi21hi2EVidEW+C+ziTohalqiKEAv0QfLrZj0lGmkzs/WT8r3z92bqr/eoSE1NLnn7mPqC/nyb+Z/or8v9YZb8puoYu6GBWH7O3LFvbs7mEg=;34mdfy5uD1AyxhTykcPm1Q=="
+secured: "TtECJfhs2d7X0XbZwaUiiINQCYYlgIAQbCEnDYRB9TcWoSvDFeiAVNkF488K75GVYA3ZM1IwrSXVOVkbqrikAQau1ZPZmfdSpicLjcFrSVtfKMP7WiUeMsEkeFIXL9dxe2b8s0dI+sUeK7bGtgsxqSWgCvF2APm36gHvwMdB0Dc1Q7VqCjZ0H9G2rGVtzdbnI5QW/BnKL795Bfw8XiXXF7rmxsEzgyoCBzMbVwOF/orCqmSwEjZ0xL9Zk7ejwgpG2rj3k3TJa8zb+jYFnlzQpLCkymWQude3pfinkgDJ4RBeljYyDkbOtr/bS2rYX0egEijZS2zc4He70bc9eDdx/hcd3LiOBGq/rS4aVbm9+p4=;WdEq08K/wYrk9l3esMVpgA=="
 ---
 

@@ -1,20 +1,22 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-publishedDateTime: 2021-06-16T18:31:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21594082/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specializat"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21594082/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specializat"
-ampWebUrl: "https://www.benzinga.com/amp/content/21594082"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21594082"
+excerpt: "\"It is a very proud moment for MSRcosmos to earn the Modernization of Web Applications to Microsoft Azure advanced specialization,\" stated Devi Kondapi, CEO of MSRcosmos. \"As companies look to ..."
+publishedDateTime: 2021-06-16T23:57:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030530211"
+webUrl: "https://markets.businessinsider.com/news/stocks/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030530211"
 type: article
-quality: 22
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -646,6 +648,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "J4HiymnOAIJKlHbB+f+UnujUy75MfFB0M+xy79MCzSckCiT5Ik7KqJid8HuAEg3Jp9n+PBXLWWm54U51nV40w93p4N572A84iBQ+B09/8Ym/bB99Ea5vG7jwRLmHolFHjTOI6NQ8NODf4cJUb59/OqhGsd/c5X4u0iNq5mPkEF+ZXoc4q8Q9G4ZshmH/e/cmQx8o8oG5OeJukbAEhYUrJ33gY13u9qwngFOfWhEWJ7MElV2+KiHg/pZRgp8pbv0umr5ojPz+GlbhI9bcqxEVl78bmsQn2ZsadTdkru3DZcXQmghCGa/YGtRrOsCattU4VFgyUjV2BGXw+w6or0XOS0UtfcSMNZyPTzDvKRkmXFA=;Tk0uA/0ca3lP1beiCLJAmg=="
+secured: "tTdA9FE5Uq0jGcZNNfULmM/ovJdfytERL3thfuTY54LPwKzYygzPcYUgZkDg9ZM6arpPGCm3h63W7JNHR4A0nGSG0tNjvo9WGp7GDv+dIDds+kuAMBzrPsslkzO5yCe0VuQv+tDDL69Ow0Xgg2cwf3w4eyIYcHBowJKy5dZZ6js2haqr7q70mVlo64R5vVdgfVxQdxUjrDFtS1M/mcHZJPKw5z6xRHGXnyVTWpGGH+X1sJqP6pSlZ0VX53XXsXtTSZBfFQzqp1Yieo3voAW4xHD9DflotCEVOrKmk43T7B2tebyZ84lN+ebuO3NkTUq2HOlf9ZzptEwWelvbREsKLV+TNjYpVhAImFw+DSh2++U=;lahiwxdm4+ow9PLPw8m9Gw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-acquires-at-t-net
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-acquires-at-t-networking-tech-to-bolster-its-azure-for-operators-strategy/"
 type: article
 quality: 108
-heat: 428
+heat: 448
 published: true
 
 provider:
@@ -139,6 +139,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft, AT&T 5G Deal Gives Azure Telecom Cloud A Boost"
+    excerpt: "Microsoft's Azure for Operators cloud is set to expand with a new deal to acquire AT&T Network Cloud and engineering and lifecycle management software."
+    publishedDateTime: 2021-06-30T17:44:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-at-t-5g-deal-gives-azure-telecom-cloud-a-boost"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/026a-12a5232468e4-36b6ef30bd55-1000/microsoft-azure-1.jpg"
+        width: 606
+        height: 456
+        isCached: true
   - title: "Microsoft makes big 5G play as AT&T moves core to Azure cloud"
     excerpt: "Microsoft VP of 5G Strategy Shawn Hakl told Fierce that the combination of gaining a Tier one anchor tenant, along with IP and expertise to incorporate directly into Azure for Operators, is key and unique to the deal."
     publishedDateTime: 2021-06-30T17:11:00Z
@@ -229,6 +243,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3I7poPmA9zZ6wjqx04ale98+sC8CyiCQ0Lt9/fUbfFx2t3u9pGq2rHzz/R3hMpVxwdDwvE/8Dq6Q9Oq9vT3+YdsXUFPE4Yc7yqQbtGRegxDP6nqv3j5C8gNnqmX/9QK2KmgGP1lhsJdwSA9eEdf9ST/YjeZgDyySm4STFYzAmIkcmy+RA5MKXTR+UATdHf9ZmVKhwGhVPYG61C8uKJejoHX2NNpuzgyuHC+1OXtCXCDOD+SHVHL+oF6KeRHVqVPQrL/HBuGgZ3FLJkQLcoOAea7SdAcqSi+P/GYC6pFkWfBS9ga+RwWdBoGiKt2YuMWxIlZWWcXcQm0lgVUyVDdK6+7mC+3IcxAe3sTQyD9+meU=;/0p2OBWBroLQ/r/DaJW7gQ=="
+secured: "gccKvHy/tsoJJYDufsTH8fjy0klg98feprQ5hmBudKECKRXDMMEwOh/qNMx0DclSi76BDELB7Iv7/YgiChZ+SOJ9wYVfYZdC9lP4prPslezIAAfmE2Q6vF8uzLG/WsNLn2RDEpRjiCV5kNCg/VM5Dv3oAH60PPvAIjPWx0GXeiMIq+vEGwTqQOZMq5FWBbpD0rPhp4FPWZdWLK4rjLfQNf+miNqXAp/e/z8O9wOKiZWT97cF0aN3Wzl7Wamo/PlYdzjw7KwFbbY8TNeLqLPqUNZgh8GnWgB36tvQ9IXw+Q9HuamrTVGtrFRuF/4DlGDpRwuThuxiG/HZmrNpGoPVfdnbvBnuH6RKC1WWyvYTu6fFd1xIVu6J39NOgrb8+0X6e5RjNwX+DnJCVtqYTEP5QzeOHhA/Dc2KQ/S1b4JUKe33dhhpXxzxWToPdqv//O4w6UHnLXfm+hXVoWIjNIOfqUIWWpICxpW2tObhQfOQyTQcYJ37BZ+Yks2Mzjue8sEnoZhBvOuaZu6w2MALHaMiag==;LaRc4IF8lQXTKtQP1SBz4w=="
 ---
 

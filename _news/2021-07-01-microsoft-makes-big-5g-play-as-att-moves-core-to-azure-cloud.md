@@ -148,6 +148,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft, AT&T 5G Deal Gives Azure Telecom Cloud A Boost"
+    excerpt: "Microsoft's Azure for Operators cloud is set to expand with a new deal to acquire AT&T Network Cloud and engineering and lifecycle management software."
+    publishedDateTime: 2021-06-30T17:44:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-at-t-5g-deal-gives-azure-telecom-cloud-a-boost"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/026a-12a5232468e4-36b6ef30bd55-1000/microsoft-azure-1.jpg"
+        width: 606
+        height: 456
+        isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
     publishedDateTime: 2021-06-23T13:00:00Z
@@ -224,6 +238,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xLKaXD60xtWZh/lR4M4Z1xjnqTS+lSVYaiEf/hHXoX9ZLNpRlwrBbJ50+5wCKPX1xLxhUwzsIZrjDeQmU8zSn28JwregM0srWm0TzxJRpAAYWaC4L1t5V/imM8qoJ+Lf2gBqrHfVVCLxBQR+QcdVAGRT6ADggbIA3M2mKPlbR1PFiGEg7udM/CvYLF59BslL3LntdEgECqBM5vfMJzY1M5ijUhYWj6Xx5RN3Gc4+1as8kTSmkg9fIjc5P0qL9ovlJJI4+45SwyNDeYk7ZkiThtjMuq0RHfa9ajEeCXoSGGdm/CLBkrLXQ5WURBZzrgkPuoBob+n026Lqs4tGlJfCJbqHYJy5Fvz9f0jx9/XHUJ8=;p4H0rdv+KKnn1aiNv5yh4Q=="
+secured: "1Dmr1C/v6cgZrMpDMBI1/IwwfIhl8Sp6vHugFrsv3SswrZeMMxdO0cuOr7eBN31iolesnYuJhBTk3sGA4L/mboiV3YgozyjX+mFTn4mIpaZC6h10K4pSD+ASO/rr5mG8jR7PtDhf0MsgA/D9QHYuUa6UdGLc2f5hf0inawwaRF7EA1X/t2P+wSs8BT+lCBuQ+oXaHuq7zeljhqRSUSz9q1QCEdQE8YmN8Px6/Pmch53pIkOogtfO7CL6AmLYcc6nVTX9/Vji8DZTGQAUxOqcSRyguhBjzaNb+wI+bIFmLpWJkJo5irD5pLJ4Ickq1thIPqgSnSSy9Bk5x/suu32U1coPXzFBFQlzRksP9eIJo8gx/PPExZuRzqlZL8/9tBfLSlpl8n1spEKIEufnqp4ykVVmyQI6UIfBo8A87ivGDMrvFruS8Oa0OFy3BCKfb1eMxa/Qjz1CORlxE0N8LVj71Yjj6GnCoorfsOCpKGcoA9PuJhCAJ7xxz0g6XhJ5PnDaYa3lolC7Cm+QvScxBccwtw==;To9Uqnj4BU07M2k1B9ylnQ=="
 ---
 

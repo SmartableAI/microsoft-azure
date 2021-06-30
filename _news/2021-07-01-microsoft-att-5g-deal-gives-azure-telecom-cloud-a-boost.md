@@ -1,26 +1,26 @@
 ---
 category: news
-title: "BICS Unveils Support for Microsoft’s Azure Peering Service"
-excerpt: "BICS has announced its support for Microsoft’s Azure Peering Service, which will provide businesses with direct access to Microsoft"
-publishedDateTime: 2021-06-25T00:54:00Z
-originalUrl: "https://www.thefastmode.com/technology-solutions/20078-bics-unveils-support-for-microsoft-s-azure-peering-service"
-webUrl: "https://www.thefastmode.com/technology-solutions/20078-bics-unveils-support-for-microsoft-s-azure-peering-service"
+title: "Microsoft, AT&T 5G Deal Gives Azure Telecom Cloud A Boost"
+excerpt: "Microsoft's Azure for Operators cloud is set to expand with a new deal to acquire AT&T Network Cloud and engineering and lifecycle management software."
+publishedDateTime: 2021-06-30T17:44:00Z
+originalUrl: "https://www.crn.com/news/cloud/microsoft-at-t-5g-deal-gives-azure-telecom-cloud-a-boost"
+webUrl: "https://www.crn.com/news/cloud/microsoft-at-t-5g-deal-gives-azure-telecom-cloud-a-boost"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Deep
-  domain: thefastmode.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.thefastmode.com/media/k2/items/src/36ebcc738294e9b879f823f52915d1c6.jpg?t=20210625_004943"
-    width: 752
-    height: 408
+  - url: "https://www.crn.com/resources/026a-12a5232468e4-36b6ef30bd55-1000/microsoft-azure-1.jpg"
+    width: 606
+    height: 456
     isCached: true
 
 related:
@@ -106,6 +106,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "BICS Unveils Support for Microsoft’s Azure Peering Service"
+    excerpt: "BICS has announced its support for Microsoft’s Azure Peering Service, which will provide businesses with direct access to Microsoft"
+    publishedDateTime: 2021-06-25T00:54:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20078-bics-unveils-support-for-microsoft-s-azure-peering-service"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/36ebcc738294e9b879f823f52915d1c6.jpg?t=20210625_004943"
+        width: 752
+        height: 408
+        isCached: true
   - title: "OAG Flight Info API now available in Microsoft Azure Marketplace"
     excerpt: "OAG, a leading provider of air travel data and insights, has announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
     publishedDateTime: 2021-06-29T04:29:00Z
@@ -133,20 +147,6 @@ related:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft, AT&T 5G Deal Gives Azure Telecom Cloud A Boost"
-    excerpt: "Microsoft's Azure for Operators cloud is set to expand with a new deal to acquire AT&T Network Cloud and engineering and lifecycle management software."
-    publishedDateTime: 2021-06-30T17:44:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-at-t-5g-deal-gives-azure-telecom-cloud-a-boost"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/026a-12a5232468e4-36b6ef30bd55-1000/microsoft-azure-1.jpg"
-        width: 606
-        height: 456
         isCached: true
   - title: "Microsoft makes big 5G play as AT&T moves core to Azure cloud"
     excerpt: "Microsoft VP of 5G Strategy Shawn Hakl told Fierce that the combination of gaining a Tier one anchor tenant, along with IP and expertise to incorporate directly into Azure for Operators, is key and unique to the deal."
@@ -238,6 +238,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Cf6FgopBznBmnzqpkE8go5Fcyw/pZGjnV7jauU867ofIm4p8IQ2QdJKKas9EMo8rIK9u1aeVlIHX9byQ+ZeH0WNADFVBg9LHMDLTLUAGbMb7DfX3F5TszLD9DkVKSOIJ+F1P4SlpZcfXfZI31pNL0OX7OWQsF77mVXlrRmHMVOm3J/T8GFeI5Vt8E78uk+F0AZctHH6OcHYntUIDEnESuNYHDzb+91CO9Zj8Opi5y+KQzIL093e0Ng/rtVlM5nCaXxmqZcgBcGBswD/IVqZn7L0y4FdHfp5sXg3vrqWIV90APPn1vTWOShIkWu1EB6RmyyuYXFLZq3tVWs88evqEmDbtmchAc4msFxNxfC/yyeJe5C/537p8Jq5CemXbHPUp2/8vLSEQ231qowOIAc5xX9Y9Vz4J2FqOyDLEtQVkKVwSKNT58wYfEE3CWjFlZXnObOf1gk1l/oA7fTjYoiJyFsG0rEwaj0IUkWg70c7QCh8/5/UanMS8VAr9NES5EpF7TBeGFTaIX1SVjCOJVYG4fw==;6UmT4NYkO62x39xnr64Ahw=="
+secured: "uvaCwTWY9FgFzLnpwaJ8ogQUNAS3vvl8G6+CFLyrSa38/WTmFGk4nD9ZdaMCT9+JOGNWoA06E+X54o+0DMZmru7MEbyeRhGkdvOU8w+7e7/WumI3hnwIrxF5lLDEJqxk4Hcpm6APXlma1FHosjvj3XXZnn+Q2jxVPnO+Yq6W1paOmWk3xqfqAVNJwXGitkFBS5bCVviY1yQ3zto+yOOIYekG0GbzzLQLzTo2UrYFG+rfNvnFNMitZ0vmprAxtQ/I4BaCJKYhKvowibYw/QF7wJWsEiwMKzWl9bT26AP/WM098S/0xdFW05t6GCywx38I3XbyV1L2Tun0p35TnVtPqbyKYSiKEBjnEZ0msUzO/+k=;ekSzG3qoGPsB+VmwNu6p3w=="
 ---
 
