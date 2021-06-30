@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-02-expanding-dataparser-with-microsofts-azure-blob-storage-integration.md",
+      "title": "Expanding DataParser with Microsoft's Azure Blob Storage integration",
+      "excerpt": "The DataParser is widely used by regulated institutions to capture many types of on-line meeting and collaborative content such as Microsoft Teams, Cisco,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expanding-dataparser-with-microsofts-azure-blob-storage-integration/article_fd97f019-dc3c-524c-b58f-6ec97e86e202.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expanding-dataparser-with-microsofts-azure-blob-storage-integration/article_fd97f019-dc3c-524c-b58f-6ec97e86e202.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 346,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage",
+        "Integration"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-azure-arc-bringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments.md",
       "title": "Azure Arc - Bringing The Best Of The Public Cloud To Hybrid And Multi-Cloud Environments",
       "excerpt": "Microsoft is one of the first companies to exploit Kubernetes as the foundation for its hybrid and multi-cloud strategy. In just two years, it ported a dozen managed services to Kubernetes, branding them as Arc-enabled services.",
@@ -1121,49 +1165,6 @@
         "Azure",
         "Storage",
         "Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-azure-storage-attribute-based-access-control-abac-now-available-for-preview.md",
-      "title": "Azure Storage — Attribute-based Access Control (ABAC) now available for preview ",
-      "excerpt": "Attribute-based Access Control (ABAC) is an authorization mechanism that defines access levels based on attributes associated with security principals, resources, requests or the environment. You can now use ABAC in Azure Storage for Blobs and ADLS Gen2 by defining conditions on role-assignments based",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-storage-abac-preview/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-storage-abac-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T09:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

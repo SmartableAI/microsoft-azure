@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-07-azure-storage-attribute-based-access-control-abac-now-available-for-preview.md",
+      "title": "Azure Storage — Attribute-based Access Control (ABAC) now available for preview ",
+      "excerpt": "Attribute-based Access Control (ABAC) is an authorization mechanism that defines access levels based on attributes associated with security principals, resources, requests or the environment. You can now use ABAC in Azure Storage for Blobs and ADLS Gen2 by defining conditions on role-assignments based",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-storage-abac-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-storage-abac-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-07T09:00:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-prevent-shared-key-authorization-for-an-azure-storage-account.md",
       "title": "Prevent Shared Key authorization for an Azure Storage account ",
       "excerpt": "Enhance secure access to Azure Storage accounts with Prevent Shared Key authorization.",
@@ -1124,49 +1167,6 @@
       "topics": [
         "Azure",
         "IoT"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-general-availability-azure-blob-storage-supports-objects-up-to-200-tb-in-size.md",
-      "title": "General availability: Azure Blob storage supports objects up to 200 TB in size",
-      "excerpt": "When moving from on premises, you no longer need to split your large files into separate parts to store and process in the cloud. Supporting a single object size up to 200TB removes one complexity when using Azure Storage.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-and-adls-gen2-storage-supports-objects-up-to-200-tb-in-size/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-and-adls-gen2-storage-supports-objects-up-to-200-tb-in-size/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 275,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T09:00:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

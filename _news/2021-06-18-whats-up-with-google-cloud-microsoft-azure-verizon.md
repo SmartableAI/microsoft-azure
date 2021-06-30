@@ -200,6 +200,22 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "Tigera’s Calico Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Tigera’s Calico Cloud to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. Calico Cloud gives DevOps, DevSecOps ..."
+    publishedDateTime: 2021-06-16T20:27:00Z
+    webUrl: "https://www.01net.it/tigeras-calico-cloud-now-available-in-the-microsoft-azure-marketplace/"
+    ampWebUrl: "https://www.01net.it/tigeras-calico-cloud-now-available-in-the-microsoft-azure-marketplace/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/tigeras-calico-cloud-now-available-in-the-microsoft-azure-marketplace/amp/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 57
+    images:
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "NSW Police runs AI over evidence using Microsoft Azure"
     excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
     publishedDateTime: 2021-06-07T05:54:00Z
@@ -539,15 +555,6 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
-    quality: 17
-  - title: "Tigera’s Calico Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Tigera today announced the availability of Calico Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft ..."
-    publishedDateTime: 2021-06-17T00:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210616005267/en/Tigera’s-Calico-Cloud-Now-Available-in-the-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
     quality: 17
   - title: "Hanshow Marks Retail Digitization at Breakthrough Scale on Microsoft Azure"
     excerpt: "Hanshow has developed a SaaS solution that is connecting an unprecedented 10 million IoT devices across a network of Ahold Delhaize stores in Europe."

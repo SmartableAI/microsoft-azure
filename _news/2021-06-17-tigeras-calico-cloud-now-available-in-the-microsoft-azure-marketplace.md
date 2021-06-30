@@ -1,21 +1,29 @@
 ---
 category: news
 title: "Tigera’s Calico Cloud Now Available in the Microsoft Azure Marketplace"
-excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Tigera today announced the availability of Calico Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft ..."
-publishedDateTime: 2021-06-17T00:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210616005267/en/Tigera’s-Calico-Cloud-Now-Available-in-the-Microsoft-Azure-Marketplace"
-webUrl: "https://www.businesswire.com/news/home/20210616005267/en/Tigera’s-Calico-Cloud-Now-Available-in-the-Microsoft-Azure-Marketplace"
+excerpt: "Microsoft Azure customers worldwide now gain access to Tigera’s Calico Cloud to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. Calico Cloud gives DevOps, DevSecOps ..."
+publishedDateTime: 2021-06-16T20:27:00Z
+originalUrl: "https://www.01net.it/tigeras-calico-cloud-now-available-in-the-microsoft-azure-marketplace/"
+webUrl: "https://www.01net.it/tigeras-calico-cloud-now-available-in-the-microsoft-azure-marketplace/"
+ampWebUrl: "https://www.01net.it/tigeras-calico-cloud-now-available-in-the-microsoft-azure-marketplace/amp/"
+cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/tigeras-calico-cloud-now-available-in-the-microsoft-azure-marketplace/amp/"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
+    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -639,6 +647,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "liBy7zDEZJ0focIr+ALsppdBQD1+hg5KXfT15Ikxd8FSaKs5dp4HJekGFuGmEzDiI/gUaCi6Zt09T1qJrdQAxVyPkwRVrwdqSX5te4QAdfGAxx2KNdHA8fMlnbENUfQWZbKTmSqBcuVe2yT4D4SX7gmCatzHV67+EDHeDFtvVNrl+SBSr+EqND2PSgmDeBv9qvM1DtKWRexFUMGXq1EKC9kuzxs0bXcHe5PYL4WxFleShoQNCJZorjRjEJvZ53cXcQNoPypRzbEcSC/YQv5EaMm8HEY0tPTMp9E56uw263VvVheWsny1Yg8KShs925yH5PSF4Tko2+NmQ0O8XkzRApzPt7ZorRWQCUI4GwDlQDI=;oPfOGEKCwYB82yYE7mWkYQ=="
+secured: "xSvuOzXrtD54o3Kg/1ifgr4j50pxU0ydfWd/DMBnBj64WkTCHCjUtgBoRayD470D8LoFg1duXLFIQDzhCezmUB6HVTcSm82RMr+Xtvtn4HZx6KDhjAQD4yyc4GPpfp/C+5L/mNJ+N+kDzTFqI/T2ba59kjRbocTEL2ruWbeL33nqTWKag1alBi7/KKhwxacRCHVOGcX/olTonO0pyRztsnlZoChl07TsjjLRHCoomNZzYLsnk/Kmt3NUwhP/JJukE42H4eK7PKF9e+3zLQR48AGQ/6c8f/Tz80Dq/ITy/8x1I+5iApLVICPOTYIJwGL0mlsQ1aqMQ1lTaqYE1KHoFWK6mi5sTcvKsZqJ7OmuAX8=;wgUHafwf4fB+Z6nbIYoUNQ=="
 ---
 
