@@ -1506,6 +1506,17 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "AT&T is moving its 5G cloud network to Microsoft’s Azure"
+    excerpt: "AT&T is enlisting Microsoft to run its next-generation mobile network, a key win in the race by cloud companies to lock down large clients."
+    publishedDateTime: 2021-06-30T23:57:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/att-is-moving-its-5g-cloud-network-to-microsofts-azure/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/att-is-moving-its-5g-cloud-network-to-microsofts-azure/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/att-is-moving-its-5g-cloud-network-to-microsofts-azure/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "Standard Chartered to Adopt Microsoft Azure to Become a Cloud-first Bank"
     excerpt: "Standard Chartered Bank and Microsoft have announced a three-year strategic partnership to accelerate the bank’s digital"
     publishedDateTime: 2020-08-18T00:39:00Z

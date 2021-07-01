@@ -1,24 +1,23 @@
 ---
 category: news
-title: "Pure Storage brings cloud block storage to Microsoft Azure"
-excerpt: "Pure Storage’s Pure Cloud Block Store is now available on the Microsoft Azure Marketplace. With a common dataplane across multi-cloud environments, customers can move to the cloud on their terms, allowing for seamless application portability to the cloud ..."
-publishedDateTime: 2021-04-01T13:42:00Z
-originalUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure"
-webUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure"
-ampWebUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
-cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
+title: "AT&T is moving its 5G cloud network to Microsoft’s Azure"
+excerpt: "AT&T is enlisting Microsoft to run its next-generation mobile network, a key win in the race by cloud companies to lock down large clients."
+publishedDateTime: 2021-06-30T23:57:00Z
+originalUrl: "https://www.seattletimes.com/business/technology/att-is-moving-its-5g-cloud-network-to-microsofts-azure/"
+webUrl: "https://www.seattletimes.com/business/technology/att-is-moving-its-5g-cloud-network-to-microsofts-azure/"
+ampWebUrl: "https://www.seattletimes.com/business/technology/att-is-moving-its-5g-cloud-network-to-microsofts-azure/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/att-is-moving-its-5g-cloud-network-to-microsofts-azure/?amp=1"
 type: article
-quality: 54
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: GDPR fines
-  domain: itp.net
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Azure
-  - Storage
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -696,6 +695,17 @@ related:
         width: 405
         height: 228
         isCached: true
+  - title: "Pure Storage brings cloud block storage to Microsoft Azure"
+    excerpt: "Pure Storage’s Pure Cloud Block Store is now available on the Microsoft Azure Marketplace. With a common dataplane across multi-cloud environments, customers can move to the cloud on their terms, allowing for seamless application portability to the cloud ..."
+    publishedDateTime: 2021-04-01T13:42:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 54
   - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
     excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
     publishedDateTime: 2021-03-11T08:22:00Z
@@ -1497,17 +1507,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "AT&T is moving its 5G cloud network to Microsoft’s Azure"
-    excerpt: "AT&T is enlisting Microsoft to run its next-generation mobile network, a key win in the race by cloud companies to lock down large clients."
-    publishedDateTime: 2021-06-30T23:57:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/att-is-moving-its-5g-cloud-network-to-microsofts-azure/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/att-is-moving-its-5g-cloud-network-to-microsofts-azure/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/att-is-moving-its-5g-cloud-network-to-microsofts-azure/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -2097,6 +2096,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "Y7cy6RMZn/yAYfmdiX5PQo5Em41Jxa2jLBgoBloX/vOR9ULa8OgDooK6M8szGTfDpXIZSPnWOIFRYetvrugue3ov2sBe+2D7nZqPOXmn+PKrYsfBU8m/C8wzMUn00DQGUtvfDtYC0PA+jBkHFxJHYFjJmwUIOLaWJCbPO3ScodsZozdSwoJixH6cKCv3K3SLdfkLp8EOaqU1VCMnY1on3yDA8wYccV3Vfhqwl2Mj40aefg/4oCu6Ak7XSyrAHjturpHVWUcjoxw1a7LOazecym0XZ269mrZLjRhG95vLHZ34HHlRF4bNfAUrjVuF4LqxtBWJayLLgKa9shSgxXhN+hzXCOaGxlJ0EKyrQPN6Y6Q=;okXxDhzQ6f1Swg7zmbBoGg=="
+secured: "35wQf/nLFHBIYpfzaJMsEZv/f7k8982i1mopVPVqi0ahwpBF0cLsQ7DXMlL6XvdA8UKxbxNhu4LOBnnJuj4XZdZN5dwv4zwqel43bYzYIKWNC9NMCTgfKEjebzcbM7Jk8H0Ps/H5CPjC7KBHqwFg8QMXC1aARnJIIhTLNA4I8qaQnQczrUJsgLr0GSARnaOG6sOThFc+vNNJmTXN00lfnzWcPOxyta4cHt8xAxk3HoKMx5G5Wu2t8z55buLUrHL2uYdZmG/+KAc7oKmAB0HYX8ZSMFAVhY2Fv+KhSqZtU+ZJjqcu7tIbwTWrpZHPrB0c83AjV4+v3o0MKapn5JetlIlm0linj6s51MtP60wYAPS9rte+s35AcFuibvQhULm1TWZ4nKa4mGbVouKAGTbp0F7v6yD6RPjA5T2mU6bgwDnGg3eWpTr/YjcmnoeVuDrlApQtVAJYcb9F6xyV34hw+cBrPtBDtC36aiKWGwEW3KeJHQ4/3+qeS+KviCzXDGDM1ZQgmKEzPUNwkT/mtsXvBg==;wuJi8WS/ci52KKmR3XF66g=="
 ---
 
