@@ -51,6 +51,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 94
+  - title: "AT&T (T) to Move 5G Mobile Network to Microsoft Azure"
+    excerpt: "AT&T Inc. T has announced collaboration with Microsoft MSFT under which the telecom giant will move its 5G mobile network to the latter’s cloud. This will allow AT&T’s mobile network traffic to be managed by Microsoft Azure technology."
+    publishedDateTime: 2021-07-01T13:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01"
+    ampWebUrl: "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 94
   - title: "Join Microsoft at ISC 2021 and drive innovations with Azure high-performance computing"
     excerpt: "Whether it’s understanding our environment, public health, energy sustainability, weather modeling, economic growth, and many others finding solutions to these important challenges requires huge amounts of focused computing power. Customers are increasingly finding the best way to access such high-performance"
     publishedDateTime: 2021-06-23T09:00:29Z
@@ -75,6 +86,20 @@ related:
       - url: "https://oddslifenetstorage.blob.core.windows.net/sbcnews/2021/07/shutterstock_497818927-1.jpg"
         width: 660
         height: 330
+        isCached: true
+  - title: "Microsoft bolsters Azure with AT&T 5G deal and security collaboration"
+    excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure. As part of its deal with MITRE,"
+    publishedDateTime: 2021-07-01T15:35:00Z
+    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9148/microsoft-bolsters-azure-with-att-5g-deal-and-security"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 54
+    images:
+      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/03/shutterstock_1621610047.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Indian Girl Gets Over Rs 22 Lakh Bounty For Spotting Bug in Microsoft’s Azure Cloud System"
     excerpt: "Aditi Singh has received a bounty of $30,000 (roughly over Rs 22 lakh) from Microsoft/ Notably, it was 2 months back itself that Aditi had spotted the RCE bug in Microsoft Azure. She even informed the company about the bug but didn’t get any kind of response as the company was busy checking if anyone had downloaded the insecure version of the system."
@@ -268,6 +293,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "z68axSKvq0ZlgyS1BcVcXycW6UPMA+vXMSwCDBv8oZlpukkY/JT5IjqvXaGNywY0J5RDs8us2+PHI7cVJ8lWbMBB+uUB1ZFln8iE5VcE5FIJW8840siGGpq8SVOxuCNRScO1H+q6KWDhH9tfDgO7ELV85vt8d9E/m2XlTkOuKpoluN9BO6dlT+5nJbSqGlCVynq3E1am+UUx2wT1WjaoArvRzhKarg3Ltqkm11Xhh0aM49mQNfRNmTXEpoGMvwhOQsaIkibZHLRQiS8w8MgDAOkCG9qX4zwLqX5zYamUvJr03QMQeVzxNGP/oVwFNjAlUqBdFkKSr6MplyNvii8+O3tvjWY1d4/o/0CxEVQzwqw=;St0wN0t+el9O9JtPCPwujg=="
+secured: "tqUtZxtWZL1Q8BhQ1PywrE8IDnELGKRmyMuhIolVeaB3+C44JBVc5C61SnRBzmO19vFbkVufNlBKzGcsJvYadJydMDCpmWrhPnoEMv40nVzYXrPBkE/Z/HGoo6p+XmHV6X99fV8/pH79IOEjhAJEc6U1cg60LBoV23zTx1F/U9cB1tycCMSFjB2Z70J5KXxGyDyoQ0egqCkSSvO9xIAIcqSIzW8WLXcnj2SCei2STdugcjgpY1GoPq5X+ReBTd7GN/H0ychYrCeTybWRpHi/9SNWl3+OjRitZxCRB8C1hBfzMJkrHM2gR+fjfnETXS2air65HmzG7zZHc0+ZtgaCWJuqfVznAnODkVZ7qMpAa8jC5LrenT2yz0YkDyD35U09M7fW02KoXbhAvNeTO94YgrCTxASxVl2AzseEYyKVdXda2lr65mvkXkMJRj2YcIM48PZEd8rtqbXDRCbdjtDG10+H2M7OOhVCJjkE9EH6GA3XxtyQiOaDjc2jpDsS6BfDe4s0FF/zDEoKugZDkN+EYQ==;E1Vxys+s1JBY1h/3jgQYBA=="
 ---
 

@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-01-use-new-relic-one-to-effortlessly-monitor-applications-in-azure-spring-cloud.md",
+      "title": "Use New Relic One to effortlessly monitor applications in Azure Spring Cloud",
+      "excerpt": "Today, we are announcing the integration of New Relic One performance monitoring in Azure Spring Cloud. Over the past 18 months, we worked with many enterprise customers to learn about their scenarios. Many of these customers have thousands of Spring Boot applications running in on-premises data centers.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/use-new-relic-one-to-effortlessly-monitor-applications-in-azure-spring-cloud/",
+      "originalUrl": "https://azure.microsoft.com/blog/use-new-relic-one-to-effortlessly-monitor-applications-in-azure-spring-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1369468a-0f0b-4317-a7f6-45298a98f0e5.jpg",
+          "width": 3360,
+          "height": 1888,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T01:00:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "Developer tools",
+        "Management tools"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-bring-cloud-experiences-to-data-workloads-anywhere-with-azure-sql-enabled-by-azure-arc.md",
       "title": "Bring cloud experiences to data workloads anywhere with Azure SQL enabled by Azure Arc",
       "excerpt": "From edge to cloud, companies are eager to find innovative solutions that meet them where they are. Today’s business environment is increasingly complex, and customers tell us they need solutions that are multi-cloud, platform-agnostic, and offer integrated apps and services that are always up to date.",
@@ -1283,49 +1338,6 @@
       "topics": [
         "Azure",
         "Developer tools",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-register-your-azure-sql-virtual-machines-with-sql-server-iaas-agent-extension-today.md",
-      "title": "Register Your Azure SQL Virtual Machines with SQL Server IaaS Agent extension today",
-      "excerpt": "By simply checking a box, you can automatically register all existing and future SQL Server VMs in your subscription to access features designed to enable cost savings and increase manageability. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/register-your-azure-sql-virtual-machines-with-sql-server-iaas-agent-extension-today/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/register-your-azure-sql-virtual-machines-with-sql-server-iaas-agent-extension-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T09:00:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
         "Databases"
       ]
     }

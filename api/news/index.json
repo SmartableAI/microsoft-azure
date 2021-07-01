@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-01-use-new-relic-one-to-effortlessly-monitor-applications-in-azure-spring-cloud.md",
+      "title": "Use New Relic One to effortlessly monitor applications in Azure Spring Cloud",
+      "excerpt": "Today, we are announcing the integration of New Relic One performance monitoring in Azure Spring Cloud. Over the past 18 months, we worked with many enterprise customers to learn about their scenarios. Many of these customers have thousands of Spring Boot applications running in on-premises data centers.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/use-new-relic-one-to-effortlessly-monitor-applications-in-azure-spring-cloud/",
+      "originalUrl": "https://azure.microsoft.com/blog/use-new-relic-one-to-effortlessly-monitor-applications-in-azure-spring-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1369468a-0f0b-4317-a7f6-45298a98f0e5.jpg",
+          "width": 3360,
+          "height": 1888,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T01:00:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "Developer tools",
+        "Management tools"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-soft-delete-for-blobs-capability-for-azure-data-lake-storage-is-now-in-limited-public-preview.md",
       "title": "Soft delete for blobs capability for Azure Data Lake Storage is now in limited public preview",
       "excerpt": "If you have processes or tools to detect accidental deletion of files and directories for your Azure Data Lake Storage accounts, you can now also restore the deleted objects using soft delete for blobs capability. During the retention period that you specify, you can now restore a soft-deleted object",
@@ -53,7 +108,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-acquires-at-t-networking-tech-to-bolster-its-azure-for-operators-strategy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 488,
+      "heat": 528,
       "tags": null,
       "images": [
         {
@@ -1137,49 +1192,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-now-available-pricing-changes-to-azure-sentinel-and-azure-monitor-to-help-you-reduce-costs.md",
-      "title": "Now Available: Pricing changes to Azure Sentinel and Azure Monitor to help you reduce costs",
-      "excerpt": "Enjoy additional cost savings with the new price changes to Azure Sentinel and Azure monitor.  These changes took effect on June 2, 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/now-available-pricing-changes-to-azure-sentinel-and-azure-monitor-to-help-you-reduce-costs/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/now-available-pricing-changes-to-azure-sentinel-and-azure-monitor-to-help-you-reduce-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T09:06:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "DevOps"
       ]
     }
   ],

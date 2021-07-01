@@ -1,21 +1,28 @@
 ---
 category: news
-title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
-excerpt: "Teradata (NYSE: TDC), the connected multi-cloud data platform company, today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft (News - Alert) Azure."
-publishedDateTime: 2021-06-29T13:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-teradata-enhances-cloud-offerings-microsoft-azure-/2021/06/29/9399809.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-teradata-enhances-cloud-offerings-microsoft-azure-/2021/06/29/9399809.htm"
+title: "Microsoft bolsters Azure with AT&T 5G deal and security collaboration"
+excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure. As part of its deal with MITRE,"
+publishedDateTime: 2021-07-01T15:35:00Z
+originalUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9148/microsoft-bolsters-azure-with-att-5g-deal-and-security"
+webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9148/microsoft-bolsters-azure-with-att-5g-deal-and-security"
 type: article
-quality: 17
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Cloud Pro
+  domain: cloudpro.co.uk
 
 topics:
   - Azure
+  - Security
+
+images:
+  - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/03/shutterstock_1621610047.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "Microsoft acquires AT&T networking tech to bolster its Azure for Operators strategy"
@@ -80,20 +87,6 @@ related:
       - url: "https://oddslifenetstorage.blob.core.windows.net/sbcnews/2021/07/shutterstock_497818927-1.jpg"
         width: 660
         height: 330
-        isCached: true
-  - title: "Microsoft bolsters Azure with AT&T 5G deal and security collaboration"
-    excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure. As part of its deal with MITRE,"
-    publishedDateTime: 2021-07-01T15:35:00Z
-    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9148/microsoft-bolsters-azure-with-att-5g-deal-and-security"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/03/shutterstock_1621610047.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Indian Girl Gets Over Rs 22 Lakh Bounty For Spotting Bug in Microsoft’s Azure Cloud System"
     excerpt: "Aditi Singh has received a bounty of $30,000 (roughly over Rs 22 lakh) from Microsoft/ Notably, it was 2 months back itself that Aditi had spotted the RCE bug in Microsoft Azure. She even informed the company about the bug but didn’t get any kind of response as the company was busy checking if anyone had downloaded the insecure version of the system."
@@ -260,6 +253,15 @@ related:
       domain: tmcnet.com
     quality: 17
   - title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
+    excerpt: "Teradata (NYSE: TDC), the connected multi-cloud data platform company, today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft (News - Alert) Azure."
+    publishedDateTime: 2021-06-29T13:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-teradata-enhances-cloud-offerings-microsoft-azure-/2021/06/29/9399809.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+  - title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
     excerpt: "Teradata today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft Azure."
     publishedDateTime: 2021-06-29T17:00:00Z
     webUrl: "https://www.businesswire.com/news/home/20210629005193/en/Teradata-Enhances-Cloud-Offerings-on-Microsoft-Azure"
@@ -292,6 +294,6 @@ related:
         height: 630
         isCached: true
 
-secured: "5KhpMgKGyeSOj02ta6T/X0xSxZJMxzoegsARtKv5W5oRYDkhVab9yGOuFiP1nUvbFPFC0z8rFteQyp8az1ref5eTLk9iD0P2NriXfIgdDA1v7ahBdIbNfl/a1E63wD5p6ya8lP1HY37FJLIS1E5NwcwCnAOxeS5Ev46AfXlVeROEUxuTPC9eqhiaK8u+hMF5dDBHATSw1MAH5gy06v9jhQgzJ6GjCj7tggu6YZsqOBJHRVpkLWowVxEABZILbXpvWCKh5JAZUvV9cR/UgDJFNBhaO+rsjxq6k2kJ9STF9upxZW9M+mrOTVQ/m+Tnc7YL45S/KNY0W1Rax8vkhv1P0MdUYROrrBkQ8dvXcBwmHpg=;NJXe+O6MAN3Qzt4pK/YdtQ=="
+secured: "9maCn622mjS1pTKtv0LF90JCGl7fGuWiv/SjuDMwoEE7Ly5L4l66/ygpuJRM5E0kqPmeie43CbxUVuOyuSQpnm5eVIFoqMK7+R7Fk8TUto3qFx22rrY7wyBfqJ6JeTkLP+pVQD41PM1Z9tCxm9HGxA8/9ZEg1SwHzBdzQjhvRSHIzVIARAp64MrfwW+FX9lzCG6E6UAZL4LxsCzRE8n7TzOibNXNl1MHECZGUgIR46/woGjyqvGnAj4sQIzHDn9TT+jn0LCj+dBQeg7ozrhyDGURDOMf6yBEmLCrRXUBDqamBozpQ7uXejcGzpHhAQXE3Z02d5kgJgLMYY3sBnEd+Bo4UEokezTujDZErzVlt78=;xbPjnvlCqujIznvFhLZ/iw=="
 ---
 
