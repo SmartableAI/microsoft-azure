@@ -13,7 +13,7 @@ provider:
       height: 50
 
 items:
-  - videos/microsoft-an-introduction-to-microsoft-identity-azure-friday
+  - videos/microsoft-an-introduction-to-the-microsoft-identity-platform-azure-friday
   - videos/microsoft-better-azure-content-programs-services-through-applied-data-science-azure-friday
   - videos/microsoft-run-your-vmware-workloads-natively-on-azure-with-azure-vmware-solution-azure-friday
   - videos/microsoft-an-overview-of-azure-web-pubsub-azure-friday
