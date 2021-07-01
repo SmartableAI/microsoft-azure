@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-30-soft-delete-for-blobs-capability-for-azure-data-lake-storage-is-now-in-limited-public-preview.md",
+      "title": "Soft delete for blobs capability for Azure Data Lake Storage is now in limited public preview",
+      "excerpt": "If you have processes or tools to detect accidental deletion of files and directories for your Azure Data Lake Storage accounts, you can now also restore the deleted objects using soft delete for blobs capability. During the retention period that you specify, you can now restore a soft-deleted object",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/soft-delete-for-blobs-for-azure-data-lake-storage-is-now-in-limited-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/soft-delete-for-blobs-for-azure-data-lake-storage-is-now-in-limited-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T15:42:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-microsoft-acquires-att-networking-tech-to-bolster-its-azure-for-operators-strategy.md",
       "title": "Microsoft acquires AT&T networking tech to bolster its Azure for Operators strategy",
       "excerpt": "Microsoft and AT&T are expanding their existing partnership around 5G and edge computing. AT&T has been working with Microsoft for several years to test its 5G workloads on Azure. Today, June 30 -- the last day of Microsoft's fiscal 2021 -- the pair announced the renewal of their partnership,",
@@ -260,7 +303,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/turn-your-phone-into-an-iot-device/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -313,7 +356,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-blob-storage-nfs-30-protocol-support-generally-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 159,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -495,7 +538,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/optimize-extreme-computing-performance-with-azure-fxseries-virtual-machines/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -547,7 +590,7 @@
       "originalUrl": "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure",
       "featuredContent": null,
       "highlight": null,
-      "heat": 398,
+      "heat": 397,
       "tags": null,
       "images": [
         {
@@ -788,7 +831,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-early-june-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1137,51 +1180,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-public-preview-identity-based-connections-in-azure-functions-with-latest-azure-sdk-triggers-and-bindings.md",
-      "title": "Public preview: Identity-based connections in Azure Functions with latest Azure SDK triggers and bindings",
-      "excerpt": "Azure functions can now connect using an identity instead of a secret. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-identitybased-connections-in-azure-functions-with-latest-azure-sdk-triggers-and-bindings/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-identitybased-connections-in-azure-functions-with-latest-azure-sdk-triggers-and-bindings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T09:00:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Serverless",
-        "Identity",
-        "Developer tools"
       ]
     }
   ],

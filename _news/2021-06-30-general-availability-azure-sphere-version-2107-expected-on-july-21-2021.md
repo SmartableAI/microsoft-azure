@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Create AKS clusters without local user accounts "
-excerpt: "You can now disable local user accounts when creating AAD integrated AKS clusters. "
-publishedDateTime: 2021-04-14T16:00:13Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-create-aks-clusters-without-local-user-accounts/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-create-aks-clusters-without-local-user-accounts/"
+title: "General availability: Azure Sphere version 21.07 expected on July 21, 2021"
+excerpt: "Participate in the retail evaluation now to ensure full compatibility. The 21.07 OS evaluation period provides 21 days for backward compatibility testing."
+publishedDateTime: 2021-06-30T22:00:17Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2107-expected-on-july-21-2021/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2107-expected-on-july-21-2021/"
 type: article
-quality: 69
+quality: 65
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Containers
 
 related:
   - title: "General availability: Azure Blob storage supports objects up to 200 TB in size"
@@ -59,6 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 71
+  - title: "General availability: Create AKS clusters without local user accounts "
+    excerpt: "You can now disable local user accounts when creating AAD integrated AKS clusters. "
+    publishedDateTime: 2021-04-14T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-create-aks-clusters-without-local-user-accounts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Azure SQL—general availability updates for April 14, 2021 "
     excerpt: "General availability enhancements and updates released for Azure SQL Managed Instance in April 2021."
     publishedDateTime: 2021-04-14T16:01:13Z
@@ -95,15 +103,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 65
-  - title: "General availability: Azure Sphere version 21.07 expected on July 21, 2021"
-    excerpt: "Participate in the retail evaluation now to ensure full compatibility. The 21.07 OS evaluation period provides 21 days for backward compatibility testing."
-    publishedDateTime: 2021-06-30T22:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2107-expected-on-july-21-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 65
   - title: "General availability: Log analytics workspace name uniqueness is now per resource group"
     excerpt: "You can now use the same workspace name in deployments across all your environment without a conflict. This is useful in template deployments when the same name can be used for every deployment for consistency."
     publishedDateTime: 2021-04-14T16:02:07Z
@@ -114,6 +113,6 @@ related:
       domain: microsoft.com
     quality: 61
 
-secured: "Ib8ifk1//EsO9QrRmk0sm20maICS8a8IJeK8NfbAkyHds023ttgsni51J4n7SNZAqKCEtBdjLgmjD4WCjUCTbIVsEtKuaC/9Jw6Nt6AxKjorHGPonY9trk+hBKJoakqLyYb48euJzNG299AWyaw62JCJbNQyz9M1kyU5qyDK2GGCFJ5B0EtxGVJrCYny3lGmHAPN7KuXhWQd2wIqNUdjeOqz1B6CauKTgjJcytXAtJCqO62o85oP9jVfOxosByJHZVf6fu93A29WhJlyM4tkbajzgMzSyqxHX4bu57t76TSBB5IDflvPwizoJHBN/Ba2Amu22HTk0kp8ueO6mYuzxhGV8QGOFqsgythqr/Sy77s=;cVgVD//kv4KbiNHWooZAzg=="
+secured: "Za1U7utsj3aisAbwJK+qnX5S+Jdw5bXLulfeH/6xet+ePKVaRToIrzVoHl+W8wg3+TaP10ac0wT2Oo0g+jbVyn6dNuPcjCg/xScJaHNllU+kjhV+RG7BqQOYPSt6jtj93Eqwcm3LWVGfdxU9VL3+dZsYs0P+MBnktrIIUEP1kNMD5cdcZ6VUGwahkGxkdUFUeZDO7WBArRyqJkgRGGrE0+8sJXaai78vOpv87rkFF7F14P6SJNN/42e43r7Msl3jEwTmgT34u4UXzA/OAMPlo9w087pjtWXgH4fKPS+FUISCdayWNbLF0ElKpG+UddDMr+kGCLFKR6t7azIz0mRUi4Aq1wJxNUaXk3lmSEYpXU8=;xTHLLqzeVFuQXSFhFh9kEA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-and-adls-gen2-storage-supports-objects-up-to-200-tb-in-size/"
 type: article
 quality: 95
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -90,6 +90,15 @@ related:
     excerpt: "Protect your applications from outages by replicating your virtual machines across continents."
     publishedDateTime: 2021-04-29T15:40:15Z
     webUrl: "https://azure.microsoft.com/en-us/updates/asr-cross-continental-dr/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
+  - title: "General availability: Azure Sphere version 21.07 expected on July 21, 2021"
+    excerpt: "Participate in the retail evaluation now to ensure full compatibility. The 21.07 OS evaluation period provides 21 days for backward compatibility testing."
+    publishedDateTime: 2021-06-30T22:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2107-expected-on-july-21-2021/"
     type: article
     provider:
       name: Microsoft

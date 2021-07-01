@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/turn-your-phone-into-an-
 webUrl: "https://azure.microsoft.com/en-us/updates/turn-your-phone-into-an-iot-device/"
 type: article
 quality: 92
-heat: 157
+heat: 155
 published: true
 
 provider:

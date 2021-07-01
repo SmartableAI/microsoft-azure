@@ -32,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure SQL—public preview updates for late June 2021 "
-    excerpt: "Public preview enhancements and updates released for Azure SQL in late June 2021."
-    publishedDateTime: 2021-06-23T16:00:49Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-june-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
 
 secured: "I8Ug/1WiToThl83366A6nR20wsBHxpn/FsAC8SFreeKWoGdF4jTMaTDV6BAKkGoP8mWSP6nTZ2O0e7PGSV9akuzc2B16RGM1b9d6LgXL9eULt5nZNnBRXUgKctPh2o+GzMYFcHznN0+9eYR0EUHadvhupiXveRIKwzu9MGNFIZqDk+weYizrpXZeg4NG8gzGRWYZEIqOGL+vSBlQ8EDj9Nybjgtl97CPiEvIWG35RtkUOU0h44ejzSJIe9PiLW4uaZUmkbwZ6ze4N3nSzQOe7GC717A7dVVAalrXidE4RCTfUXEWM6WwdUx12JCQR3LkZooaEoPa6evSuj6zI/BxbxCri+E4bTEMCp4pE9Ttm5A=;AvPXievPiYuanrFI5oGGfQ=="
 ---
