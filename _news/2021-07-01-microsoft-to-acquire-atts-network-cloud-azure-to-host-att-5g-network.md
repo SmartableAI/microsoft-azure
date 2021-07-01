@@ -1,26 +1,26 @@
 ---
 category: news
-title: "OAG Flight Info API now available in Microsoft Azure Marketplace"
-excerpt: "OAG, a leading provider of air travel data and insights, has announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-publishedDateTime: 2021-06-29T04:29:00Z
-originalUrl: "https://www.bernama.com/en/business/news.php?id=1976919"
-webUrl: "https://www.bernama.com/en/business/news.php?id=1976919"
+title: "Microsoft to acquire AT&T’s Network Cloud; Azure to host AT&T 5G network"
+excerpt: "The partnership builds on an existing $2bn deal where AT&T moved its back-end office to Microsoft Azure. The tech company became AT&T's preferred cloud provider for \"non-network a"
+publishedDateTime: 2021-07-01T12:07:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-acquire-atts-network-cloud-azure-to-host-att-5g-network/"
+webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-acquire-atts-network-cloud-azure-to-host-att-5g-network/"
 type: article
-quality: 37
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: bernama.com
-  domain: bernama.com
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.bernama.com/bm/img/bernama.png"
-    width: 2483
-    height: 2942
+  - url: "https://media.datacenterdynamics.com/media/images/ATTcloud.2e16d0ba.fill-1200x630.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -136,6 +136,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "OAG Flight Info API now available in Microsoft Azure Marketplace"
+    excerpt: "OAG, a leading provider of air travel data and insights, has announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+    publishedDateTime: 2021-06-29T04:29:00Z
+    webUrl: "https://www.bernama.com/en/business/news.php?id=1976919"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 37
+    images:
+      - url: "https://www.bernama.com/bm/img/bernama.png"
+        width: 2483
+        height: 2942
+        isCached: true
   - title: "SingleStore Managed Service Arrives on the Microsoft Azure Marketplace"
     excerpt: "SingleStore, a fast unified database for data-intensive applications, announced that SingleStore Managed Service is now available in the Microsoft Azure Marketplace, providing Microsoft customers with an easy way to procure SingleStore technology."
     publishedDateTime: 2021-06-29T16:07:00Z
@@ -191,20 +205,6 @@ related:
       - url: "https://spacenews.com/wp-content/uploads/2021/06/azure-qa.jpg"
         width: 1000
         height: 508
-        isCached: true
-  - title: "Microsoft to acquire AT&T’s Network Cloud; Azure to host AT&T 5G network"
-    excerpt: "The partnership builds on an existing $2bn deal where AT&T moved its back-end office to Microsoft Azure. The tech company became AT&T's preferred cloud provider for \"non-network a"
-    publishedDateTime: 2021-07-01T12:07:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-acquire-atts-network-cloud-azure-to-host-att-5g-network/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 36
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/ATTcloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Cyber Recovery Solutions Market Next Big Thing | Major Giants Wasabi, AWS, Microsoft Azure, DELL, IBM"
     excerpt: "Latest published market study on Cyber Recovery Solutions Market provides an overview of the current market dynamics in the Cyber Recovery Solutions space as well as what our survey respondents all outsourcing decision makers predict the market will look like"
@@ -268,6 +268,6 @@ related:
         height: 630
         isCached: true
 
-secured: "0jJFqR7qmwuFbOVzjORy4c0+rCgeFvxktbdHrD4E5R7cGcl7qoap5PuI7q/htcYPmF6j0if5lKYHA7XTBLjCJfv1pBmRhSt9fWD7zi08wlrfgIna5fIGk4byZPx/DnG2TmOuzNvBLm8jVGiBzLY1Ge0N7xuM61ydVbz8fb1c8tRxFaiGxnVmtJlyaqm59PbqSVlqTjLOmomgR23gJE00TTnCKLGk/9BjoWYvJwClOyBwjMJuJ6f9OKr+N6fXK0fqY4meKR7aTe4pAkiz6xeL6RffzbtC+jFmYcsWcrQ8h3+vWuV2lGCF1jRsHt9Z57wzmBnmPxKGN+16wk9gw+ea8QbdWt4dR7EKJw/lYOdHEDA=;boA9G5+AUxRS2V+Ehqz2mg=="
+secured: "29kXG95peIrnU2W9r1PqCxTMEjm6E3lHHMWgvCJLGcVqzPzPOGkM38nCQO+IOGLdtwcFop10tF8a6oRk3v9fin/zWYk9FIHg6cLOY5j9dtD1IW3Ea7hunxBRmkW/GYeQ7zmraoVC1KDkOse/FdMA9uwoygAy4ePH5y+78G+CZ2BVl4TEJistTF5sjgStFU2noi/btenngeczM8OUryezjkWlLSVWanlu/FbmtHuY36ggBGVEuOV8Iu3brYqj1jkjYuMstnQkwJgxKWvtYIMmQWwC+Tnua0y70OVFwWCdKGsSlPLyqQBn1TsrJpZ2i0f5ffUyx4DxN6ez8osMQHK1NY0uS+xcI8FIub8BoKm9Dfw=;Qd2JhAMC2xJprWht4IZ2fw=="
 ---
 

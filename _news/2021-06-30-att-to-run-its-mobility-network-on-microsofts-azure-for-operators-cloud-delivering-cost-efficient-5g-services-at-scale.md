@@ -206,6 +206,20 @@ related:
         width: 1000
         height: 508
         isCached: true
+  - title: "Microsoft to acquire AT&T’s Network Cloud; Azure to host AT&T 5G network"
+    excerpt: "The partnership builds on an existing $2bn deal where AT&T moved its back-end office to Microsoft Azure. The tech company became AT&T's preferred cloud provider for \"non-network a"
+    publishedDateTime: 2021-07-01T12:07:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-acquire-atts-network-cloud-azure-to-host-att-5g-network/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 36
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/ATTcloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cyber Recovery Solutions Market Next Big Thing | Major Giants Wasabi, AWS, Microsoft Azure, DELL, IBM"
     excerpt: "Latest published market study on Cyber Recovery Solutions Market provides an overview of the current market dynamics in the Cyber Recovery Solutions space as well as what our survey respondents all outsourcing decision makers predict the market will look like"
     publishedDateTime: 2021-06-29T17:42:00Z
@@ -254,6 +268,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "oSDv3+jPybJ6xqq0IcKcDaMleihKdwWh5X179pJIKv1gDfAxULt2v53hAiCOsEOASoQ47tKsNtuOuQ91VKzyIW6NcvYQxsNvGHaUX9zLevAkGaVP8cjmFAta7KJYEj0irB5eD9bsQRKcbCsNecyuOWYVA6aqcMU0Fh9rWecAtUC5TrWfepgjbUdkyi921UQsvB8PyvMrLCJGuSqTQU45mOTl1VjF7B14i3BvQMHEjx1y2tpdkvyPiOqwjxMWVRPpb0Yzr5VzCtIseTxyal358PhVBZbmxhNE1fgvukVyVVCv1lasI+jHZxg3DQLPToHLP/8cJo5VksDlX/tb74kAM0KrXb2e5TjcqaKmkAkQIAI=;qFca4KTnyHsLvQYygxFz4A=="
+secured: "z68axSKvq0ZlgyS1BcVcXycW6UPMA+vXMSwCDBv8oZlpukkY/JT5IjqvXaGNywY0J5RDs8us2+PHI7cVJ8lWbMBB+uUB1ZFln8iE5VcE5FIJW8840siGGpq8SVOxuCNRScO1H+q6KWDhH9tfDgO7ELV85vt8d9E/m2XlTkOuKpoluN9BO6dlT+5nJbSqGlCVynq3E1am+UUx2wT1WjaoArvRzhKarg3Ltqkm11Xhh0aM49mQNfRNmTXEpoGMvwhOQsaIkibZHLRQiS8w8MgDAOkCG9qX4zwLqX5zYamUvJr03QMQeVzxNGP/oVwFNjAlUqBdFkKSr6MplyNvii8+O3tvjWY1d4/o/0CxEVQzwqw=;St0wN0t+el9O9JtPCPwujg=="
 ---
 
