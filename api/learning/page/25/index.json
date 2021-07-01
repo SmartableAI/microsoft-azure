@@ -4,135 +4,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-foster-ai-culture-sales.md",
-      "title": "Discover how to foster an AI-ready culture in sales",
-      "excerpt": "Learn the necessary cultural changes for enterprise sales organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-sales/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-sales/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 632,
-        "average": 4.697785
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-sales-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-get-started.md",
-      "title": "Get started with Django",
-      "excerpt": "Django is one of the most popular Python web frameworks. Explore its benefits, learn how to install it, and create your first project.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/django-get-started/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 50,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-go-concurrency.md",
-      "title": "Learn how concurrency works in Go",
-      "excerpt": "Understand more about concurrency, one of the most unique features in Go.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-go-concurrency/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-concurrency/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 13,
-        "average": 4.8461537
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/go-concurrency-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-go-errors-logs.md",
       "title": "Implement error handling and logging in Go",
       "excerpt": "Understand how to handle errors and log helpful information in your Go programs.",
@@ -559,41 +430,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-hdinsight.md",
-      "title": "Introduction to Azure HDInsight",
-      "excerpt": "Evaluate whether Azure HDInsight can help your organization process big data. Describe how Azure HDInsight uses popular open-source frameworks that support many scenarios including extract, transform, data-warehousing, and others.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-hdinsight/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-hdinsight/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 13,
-        "average": 4.8461537
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-sentinel.md",
       "title": "Introduction to Azure Sentinel",
       "excerpt": "Get familiar with Azure Sentinel, a cloud-native, security information and event management (SIEM) service.",
@@ -975,8 +811,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-machine-learning-with-azure-databricks/",
       "length": "PT59M",
       "ratings": {
-        "count": 95,
-        "average": 4.6210527
+        "count": 96,
+        "average": 4.625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1062,8 +898,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/",
       "length": "PT32M",
       "ratings": {
-        "count": 1119,
-        "average": 4.751564
+        "count": 1120,
+        "average": 4.7517858
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1269,6 +1105,176 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-run-web-app-background-task-with-webjobs.md",
+      "title": "Run a background task in an App Service Web App with WebJobs",
+      "excerpt": "In this module, we'll guide you through creating a WebJob in the same project as an existing Web App and automating tasks with WebJobs.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-web-app-background-task-with-webjobs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-web-app-background-task-with-webjobs/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 889,
+        "average": 4.4015746
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/run-web-app-background-task-with-webjobs-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-rust-understand-common-concepts.md",
+      "title": "Understand common concepts in Rust",
+      "excerpt": "Learn about Rust concepts such as variables, data types, structs, enums, functions, indexing, hash maps, and flow control.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-rust-understand-common-concepts/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-understand-common-concepts/",
+      "length": "PT1H7M",
+      "ratings": {
+        "count": 394,
+        "average": 4.857868
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/rust-understand-common-concepts-social.png",
+          "width": 1280,
+          "height": 640,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-sustainable-software-engineering-overview.md",
+      "title": "The Principles of Sustainable Software Engineering",
+      "excerpt": "Sustainable Software Engineering is an emerging discipline at the intersection of climate science, software, hardware, electricity markets, and data center design. The Principles of Sustainable Software Engineering are a core set of competencies needed to define, build, and run sustainable software applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-sustainable-software-engineering-overview/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 150,
+        "average": 4.82
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-use-data-loading-best-practices-azure-synapse-analytics.md",
+      "title": "Use data loading best practices in Azure Synapse Analytics",
+      "excerpt": "Use data loading best practices in Azure Synapse Analytics",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-data-loading-best-practices-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-data-loading-best-practices-azure-synapse-analytics/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 91,
+        "average": 4.5274725
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-data-loading-best-practices-in-azure-synapse-analytics-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     }
   ],

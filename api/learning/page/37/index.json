@@ -4,49 +4,6 @@
   "page": 37,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-differentiate-azure-management-tools.md",
-      "title": "Differentiate Azure management tools",
-      "excerpt": "In this module, we'll showcase Azure portal, Azure PowerShell, Azure CLI, and Azure Cloud Shell. We'll also look at Azure Advisor, which provides recommendations on high availability, security, performance, and cost.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-differentiate-azure-management-tools/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/differentiate-azure-management-tools/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 1,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Differentiate Azure management tools",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-discover-azure-government.md",
       "title": "Discover the potential of Azure for government",
       "excerpt": "Discussion of the benefits of the public cloud for public sector agencies, with special attention to how Azure can be helpful to them.",
@@ -1293,6 +1250,50 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-security-dashboard.md",
+      "title": "Explore the Security Dashboard",
+      "excerpt": "Explore the Security Dashboard",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-security-dashboard/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-security-dashboard/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 7,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Security"
       ]
     }
   ],
