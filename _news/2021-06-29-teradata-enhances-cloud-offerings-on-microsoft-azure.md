@@ -291,19 +291,19 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
-  - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
-    publishedDateTime: 2021-06-30T14:35:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
+  - title: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+    excerpt: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud."
+    publishedDateTime: 2021-06-30T15:14:00Z
+    webUrl: "https://apnews.com/article/technology-business-86842df143e2d4a16f1a97b01b7f5657"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Associated Press
+      domain: apnews.com
     quality: 12
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
-        width: 944
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "5KhpMgKGyeSOj02ta6T/X0xSxZJMxzoegsARtKv5W5oRYDkhVab9yGOuFiP1nUvbFPFC0z8rFteQyp8az1ref5eTLk9iD0P2NriXfIgdDA1v7ahBdIbNfl/a1E63wD5p6ya8lP1HY37FJLIS1E5NwcwCnAOxeS5Ev46AfXlVeROEUxuTPC9eqhiaK8u+hMF5dDBHATSw1MAH5gy06v9jhQgzJ6GjCj7tggu6YZsqOBJHRVpkLWowVxEABZILbXpvWCKh5JAZUvV9cR/UgDJFNBhaO+rsjxq6k2kJ9STF9upxZW9M+mrOTVQ/m+Tnc7YL45S/KNY0W1Rax8vkhv1P0MdUYROrrBkQ8dvXcBwmHpg=;NJXe+O6MAN3Qzt4pK/YdtQ=="

@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
-excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
-publishedDateTime: 2021-06-30T06:50:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
-webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
+excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning (ML) and Artificial Intelligence (AI) capabilities can be brought directly to end-users deployed globally ..."
+publishedDateTime: 2021-06-30T06:52:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service/article_7ccfa1e7-fd62-54af-98f6-56f134b1ebaf.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service/article_7ccfa1e7-fd62-54af-98f6-56f134b1ebaf.html"
 type: article
-quality: 1
-heat: -1
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/0/0e/00e739ab-0f6a-56a5-bf61-abc550a29e48/60dc16da3dcd1.image.jpg?resize=945%2C630"
+    width: 945
+    height: 630
+    isCached: true
 
 related:
   - title: "Microsoft, SES demo Azure Cloud for remote missions via secure GovSat service"
@@ -28,6 +34,6 @@ related:
       domain: telecompaper.com
     quality: 14
 
-secured: "DVXjH4FCw/ddD6DHt30B/aea15LZIbzh2RSm5fbBo62mVyU3SoO8RDgV5Ru53ThtE51D673czZmXa5FTwECUU5gzfSmH+6s3QX+ZgSjQaLFasHRKGUe7X7eUos9vzZ+iUiwXkIqQsxDC8v+rGgO3yLAp9XxkjGC2XFJOYTveezAZW7Gv+syDOfjGH4TlBG2muBOVBmPZAx0N5PDRIcLkjuR4UxdnaMMtswrzMUVwE9nAfFqFZbE0RnO1JHQAaIWQQkbtCUa0GDQ1W8quwAE5Uh33vimequf/yXwE68uBk3tliJyxOP2M9l8gahHZexKlHetERWlWfDSJQ6aiOwz/w/K9iJAMTFMX6IrSF6/K7rz6Nk4HTUJFlZGCwp6cfFqC9hDmXeI3rgJhY6l1M1D7P4i4ehtIw6aBPQ6w+zVVUA8cKkDBrA47XPhxGpqLnB2se+CC3vkrZe7ChkDzgbesWRQbse7eLZk+M7CLM16xvgNhR0pMApHXKYc1VA12q18rU+l0pfwOAzIJ8DKcAv7XYQ==;XLlIfUBA5tvDNdnKQpbeJw=="
+secured: "85q34DRK+urqic+wtBJtcuYY1EH3OtbCnVsNJ4dTIMCbNgF3qbHJYqLdzYK0KWn4V+eSGGjfnq8mjzj3C6adI+5DhUQYVCFT2C/V+irZSPXZTNWPEyRYb6z3uaR+XhRnSzRxT94u1r0uiWKLBV+zd4o2nwQNWwehEJ7UOuy4EN9p59h+AnvTjed3tjjQelGV9NWCmaGCMc1ZyA94msjrO/QQdiT/yrpWu/2XwfsW3FEp1QsmYGD5VI7whdD/dowq8e+an5NNYPb2MvoJbvVgsKTDxgYNqqcXUqeg9VJuSY3OY9/fDPF042GFDmbu/ZzoZdnhTChxvli5htrI3guu/zKyrU5XZSQUfQOYHby31Jc=;b9VAlCQnttqIeOf/AQcolA=="
 ---
 
