@@ -62,6 +62,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 59
+  - title: "Novibet strengthens global market position with Microsoft Azure"
+    excerpt: "Novibet is taking its partnership with Microsoft Azure ‘to the next level’, which the operator believes will help strengthen its global market position."
+    publishedDateTime: 2021-07-01T07:30:00Z
+    webUrl: "https://sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/"
+    ampWebUrl: "https://sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://sbcnews-co-uk.cdn.ampproject.org/c/s/sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: sbcnews.co.uk
+      domain: sbcnews.co.uk
+    quality: 57
+    images:
+      - url: "https://oddslifenetstorage.blob.core.windows.net/sbcnews/2021/07/shutterstock_497818927-1.jpg"
+        width: 660
+        height: 330
+        isCached: true
   - title: "Extreme Networks taps up Microsoft Azure to provide UK customers with locally hosted cloud service"
     excerpt: "Extreme Networks is making a locally hosted version of its ExtremeCloud IQ cloud management platform available to its UK customer base with the help of Microsoft Azure’s London-based datacentre ..."
     publishedDateTime: 2021-06-24T12:50:00Z

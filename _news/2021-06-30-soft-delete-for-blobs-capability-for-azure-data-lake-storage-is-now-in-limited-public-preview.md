@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/soft-delete-for-blobs-fo
 webUrl: "https://azure.microsoft.com/en-us/updates/soft-delete-for-blobs-for-azure-data-lake-storage-is-now-in-limited-public-preview/"
 type: article
 quality: 88
-heat: 168
+heat: 169
 published: true
 
 provider:

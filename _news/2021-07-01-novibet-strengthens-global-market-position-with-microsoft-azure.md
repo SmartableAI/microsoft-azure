@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
-excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
-publishedDateTime: 2021-06-23T13:00:00Z
-originalUrl: "https://spacenews.com/microsoft-keane-interview/"
-webUrl: "https://spacenews.com/microsoft-keane-interview/"
+title: "Novibet strengthens global market position with Microsoft Azure"
+excerpt: "Novibet is taking its partnership with Microsoft Azure ‘to the next level’, which the operator believes will help strengthen its global market position."
+publishedDateTime: 2021-07-01T07:30:00Z
+originalUrl: "https://sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/"
+webUrl: "https://sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/"
+ampWebUrl: "https://sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/amp/"
+cdnAmpWebUrl: "https://sbcnews-co-uk.cdn.ampproject.org/c/s/sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/amp/"
 type: article
-quality: 36
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: SpaceNews
-  domain: spacenews.com
+  name: sbcnews.co.uk
+  domain: sbcnews.co.uk
 
 topics:
   - Azure
 
 images:
-  - url: "https://spacenews.com/wp-content/uploads/2021/06/azure-qa.jpg"
-    width: 1000
-    height: 508
+  - url: "https://oddslifenetstorage.blob.core.windows.net/sbcnews/2021/07/shutterstock_497818927-1.jpg"
+    width: 660
+    height: 330
     isCached: true
 
 related:
@@ -60,22 +62,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 59
-  - title: "Novibet strengthens global market position with Microsoft Azure"
-    excerpt: "Novibet is taking its partnership with Microsoft Azure ‘to the next level’, which the operator believes will help strengthen its global market position."
-    publishedDateTime: 2021-07-01T07:30:00Z
-    webUrl: "https://sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/"
-    ampWebUrl: "https://sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://sbcnews-co-uk.cdn.ampproject.org/c/s/sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/amp/"
-    type: article
-    provider:
-      name: sbcnews.co.uk
-      domain: sbcnews.co.uk
-    quality: 57
-    images:
-      - url: "https://oddslifenetstorage.blob.core.windows.net/sbcnews/2021/07/shutterstock_497818927-1.jpg"
-        width: 660
-        height: 330
-        isCached: true
   - title: "Indian Girl Gets Over Rs 22 Lakh Bounty For Spotting Bug in Microsoft’s Azure Cloud System"
     excerpt: "Aditi Singh has received a bounty of $30,000 (roughly over Rs 22 lakh) from Microsoft/ Notably, it was 2 months back itself that Aditi had spotted the RCE bug in Microsoft Azure. She even informed the company about the bug but didn’t get any kind of response as the company was busy checking if anyone had downloaded the insecure version of the system."
     publishedDateTime: 2021-06-29T10:07:00Z
@@ -192,6 +178,20 @@ related:
         width: 716
         height: 439
         isCached: true
+  - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
+    excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
+    publishedDateTime: 2021-06-23T13:00:00Z
+    webUrl: "https://spacenews.com/microsoft-keane-interview/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 36
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2021/06/azure-qa.jpg"
+        width: 1000
+        height: 508
+        isCached: true
   - title: "Cyber Recovery Solutions Market Next Big Thing | Major Giants Wasabi, AWS, Microsoft Azure, DELL, IBM"
     excerpt: "Latest published market study on Cyber Recovery Solutions Market provides an overview of the current market dynamics in the Cyber Recovery Solutions space as well as what our survey respondents all outsourcing decision makers predict the market will look like"
     publishedDateTime: 2021-06-29T17:42:00Z
@@ -254,6 +254,6 @@ related:
         height: 630
         isCached: true
 
-secured: "FYCeryEmvhbwQV0DzX2SUUfQ1ZAWxYfAmQBZYBL3B9D0Lxv4OL6DNSTQtZ1YIRlpuEPPjBNDtyeAI6NKA8rjZhVH6+TrCTyhGhFAlXWXHaVaq399oKY7cwrxBPY2MMPsl+qmkj0R7SLsTLg/I6KOaVQDkdP5+JPiRcsaOoUDUKaFU3uSWA8yAbUMlJr/3OgWSmH4xi9C9BUX9HnrNEmCI4IqWXTuDWRoDG1TArOWcwdPlF9bxWmsY9o6aaIDz4SJ8YU4lT0xl80/iV03nVVT2ElpDo4VmuUfW85+uM0brHpLbCuen7cwnIBP5+7g7MfhZHuyYCvA7pKG9ciWyBTfaw92ZoNb4MY5ZNbywftEDLr0siauz9MqF2FeJbGoNWPojysWM3OlEAgluelQ/Hd8yQMCpaHATXUbEle96yHtZVRBCX85nVul6Cw22cD2QANIITENGnzqGUF+woohSHRN4KHu3SCUom9y/YfNlNyn6MLqPM+dx11+Zd57LNUC6WQb4F1UR2e5mG7x68MKTRcElg==;4+5LbYOt5r89qi+cN8jxbg=="
+secured: "DPutI67U6JEuJjVi392l5mDefzWsvI5BUibyGnLhRS2wDR/HgiqYk6Yz/LU6ebGXiGounzZBhCj1dwG1X3p+ltMcnzDDz5d8OBsOVcs7QLG5NeD021IX8AelERrRKar7Ntv16OoQGgpQD00z1E8VCu4w4K1x3JqRTsUeein766oE0G5zO/UiXjo5g9C5KiHdwahiE0wxlKqw5DFHgXGdOdLpbhm5an3M6ii0+OJbYCI1TpZNF2n1gl8fHw5Md6YIwz9ikjKk8iIKRYNLQvBLz0A7PRrjY24lev62XZREo3T5l6xWc5S/C1lLgQzN9SMjXWXMPWEdXLST4TuhWPEjfI0fTex15WSzoikH+69U4lA=;i5D0d/NkA74yc+Rti4EgjQ=="
 ---
 

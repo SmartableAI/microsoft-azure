@@ -56,6 +56,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 59
+  - title: "Novibet strengthens global market position with Microsoft Azure"
+    excerpt: "Novibet is taking its partnership with Microsoft Azure ‘to the next level’, which the operator believes will help strengthen its global market position."
+    publishedDateTime: 2021-07-01T07:30:00Z
+    webUrl: "https://sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/"
+    ampWebUrl: "https://sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://sbcnews-co-uk.cdn.ampproject.org/c/s/sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: sbcnews.co.uk
+      domain: sbcnews.co.uk
+    quality: 57
+    images:
+      - url: "https://oddslifenetstorage.blob.core.windows.net/sbcnews/2021/07/shutterstock_497818927-1.jpg"
+        width: 660
+        height: 330
+        isCached: true
   - title: "Indian Girl Gets Over Rs 22 Lakh Bounty For Spotting Bug in Microsoft’s Azure Cloud System"
     excerpt: "Aditi Singh has received a bounty of $30,000 (roughly over Rs 22 lakh) from Microsoft/ Notably, it was 2 months back itself that Aditi had spotted the RCE bug in Microsoft Azure. She even informed the company about the bug but didn’t get any kind of response as the company was busy checking if anyone had downloaded the insecure version of the system."
     publishedDateTime: 2021-06-29T10:07:00Z

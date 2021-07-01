@@ -60,6 +60,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 59
+  - title: "Novibet strengthens global market position with Microsoft Azure"
+    excerpt: "Novibet is taking its partnership with Microsoft Azure ‘to the next level’, which the operator believes will help strengthen its global market position."
+    publishedDateTime: 2021-07-01T07:30:00Z
+    webUrl: "https://sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/"
+    ampWebUrl: "https://sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://sbcnews-co-uk.cdn.ampproject.org/c/s/sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: sbcnews.co.uk
+      domain: sbcnews.co.uk
+    quality: 57
+    images:
+      - url: "https://oddslifenetstorage.blob.core.windows.net/sbcnews/2021/07/shutterstock_497818927-1.jpg"
+        width: 660
+        height: 330
+        isCached: true
   - title: "Indian Girl Gets Over Rs 22 Lakh Bounty For Spotting Bug in Microsoft’s Azure Cloud System"
     excerpt: "Aditi Singh has received a bounty of $30,000 (roughly over Rs 22 lakh) from Microsoft/ Notably, it was 2 months back itself that Aditi had spotted the RCE bug in Microsoft Azure. She even informed the company about the bug but didn’t get any kind of response as the company was busy checking if anyone had downloaded the insecure version of the system."
     publishedDateTime: 2021-06-29T10:07:00Z
@@ -238,6 +254,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "eDJzj4gkvbNtPVbdlFYX3ua+44M+b6jLUSOgzKkrTRIuGv/fdNI6Bh8gciy5Vx0K4b5jFLUmnhfKboj5i/+faiXTgZhKNlGDhXe3AV27XLoD8VUfxMn/VTC4SK2SOD9bR4FPukMK2SZCCR9iqm7FN6Ty3PZiQCj8QSGNVsdFB9ThxXHw0gOlCMDN+RRrPCkxp9NR7Esl/zAaKd04oAtDN+j9psMFeVEM9E/es2aNo29qIP+6/xEpYd8S85/25QSHe/Gl8qviXdflZrvD/agI4Hx5Tb1L9Sfup5ATerrCHHiHfPDcRd1RpjKyJMtCkS6b7qMfOzK2Qvw24KDD5Tikdos6us7UDcTiESgmLOAc294zIFb49/TAjQY3PCg89gBl7d3BN/78ny9RCHv55Wy1/oPzNUWUtQeZAkW/oF8qfL8iyI8sZRGCfFweRuECzTrwmut+sObRx6xDVFls74/uZZFABsiP8HdWW9XtAn+hJ1Q/pFcUb0h2WfISIpWr2LpbtNwSuUa2Ok342aO5gBlodQ==;7xYbgRcT/2qRjTD7mpuuJg=="
+secured: "wdgd+20cuzDXtrmrv51Vh7BTWO2Zi143HiN/awC/y0IasFY9pKzkLb4dbZylJ5d65oKdy/21xj7sRpE30CyqadyMvs1+rVsTEDAZf3AxXoR51Cwh/Oy7S4EdQN6jrzJ1ytQaBclAN91tUI5iNIQ7hOYJwIjvhWwpLJWOLygAoUt/zTY/Xjcd4d4gaFg7XaSM9mOQ/Xtg0f5OsXgCxfSwsOktwaMYXjrqglT/fXUfFDShu/Da79LPVrpFXJB9Z0HJd7ce3lC65nSYC5m3J9mF18UGtSTGeKMpt+JsLm9XkhXBmThTBqi9sG/LJVxjVL0efm4oB8+DlH2vFfvVC7LSh445vn/dG7nSIIdxBhmqpmI=;5zlt9hIipqWEwChcDF7TeA=="
 ---
 
