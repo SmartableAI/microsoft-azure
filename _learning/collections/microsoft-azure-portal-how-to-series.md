@@ -2,7 +2,7 @@
 title: "Azure Portal “How To” Series"
 excerpt: "Welcome to our weekly series that highlights specific aspects of the Azure portal so you can be more efficient and productive while deploying your cloud workloads from the portal."
 type: collection
-heat: 61
+heat: 163
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-organize-subscriptions-with-management-groups
   - videos/microsoft-how-to-capture-a-vm-image-and-use-it-from-the-image-gallery
   - videos/microsoft-quick-command-tips-for-copying-pasting-and-more
   - videos/microsoft-how-to-build-a-graph-and-use-links-in-azure-workbooks
@@ -76,7 +77,7 @@ topics:
   - Management tools
 
 images:
-  - url: https://i.ytimg.com/vi/ukqbeiejLYE/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/4v9_6duE25s/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
