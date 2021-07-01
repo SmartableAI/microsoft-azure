@@ -1507,6 +1507,20 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Microsoft Azure Stack HCI Summit"
+    excerpt: "As organizations with Microsoft-based on-premises infrastructure get deeper into the cloud with Azure, many recognize the need for Microsoft-focused hybrid cloud solution, Azure Stack HCI."
+    publishedDateTime: 2021-06-26T21:33:00Z
+    webUrl: "https://redmondmag.com/webcasts/2021/05/azure-stack-summit-june-30.aspx?partnerref=Microsoft"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/~/media/ECG/redmondmag/REDlogo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z

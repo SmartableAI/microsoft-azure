@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Pure Storage Brings Industry Leading Block Storage to Microsoft Azure"
-excerpt: "Today Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as-a-service in a multicloud world announced the general availability of Pure Cloud Block Store on Microsoft Azure Marketplace. With a common dataplane across multicloud environments,"
-publishedDateTime: 2021-03-16T14:07:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-67d486a51e08fa7627694d5be9728d00"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-67d486a51e08fa7627694d5be9728d00"
+title: "Microsoft Azure Stack HCI Summit"
+excerpt: "As organizations with Microsoft-based on-premises infrastructure get deeper into the cloud with Azure, many recognize the need for Microsoft-focused hybrid cloud solution, Azure Stack HCI."
+publishedDateTime: 2021-06-26T21:33:00Z
+originalUrl: "https://redmondmag.com/webcasts/2021/05/azure-stack-summit-june-30.aspx?partnerref=Microsoft"
+webUrl: "https://redmondmag.com/webcasts/2021/05/azure-stack-summit-june-30.aspx?partnerref=Microsoft"
 type: article
-quality: 54
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
-  - Storage
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://redmondmag.com/~/media/ECG/redmondmag/REDlogo.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -658,6 +657,20 @@ related:
       name: Enterprise Storage Forum
       domain: enterprisestorageforum.com
     quality: 54
+  - title: "Pure Storage Brings Industry Leading Block Storage to Microsoft Azure"
+    excerpt: "Today Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as-a-service in a multicloud world announced the general availability of Pure Cloud Block Store on Microsoft Azure Marketplace. With a common dataplane across multicloud environments,"
+    publishedDateTime: 2021-03-16T14:07:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-67d486a51e08fa7627694d5be9728d00"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Buys The Marsden Group To Enhance Azure IoT Industry Support"
     excerpt: "The Marsden Group's solution used the Microsoft Azure IoT platform to create digital models of the factories, which was subsequently used by Unilever to predict outcomes and help make improvements."
     publishedDateTime: 2021-03-17T22:36:00Z
@@ -1498,20 +1511,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Microsoft Azure Stack HCI Summit"
-    excerpt: "As organizations with Microsoft-based on-premises infrastructure get deeper into the cloud with Azure, many recognize the need for Microsoft-focused hybrid cloud solution, Azure Stack HCI."
-    publishedDateTime: 2021-06-26T21:33:00Z
-    webUrl: "https://redmondmag.com/webcasts/2021/05/azure-stack-summit-june-30.aspx?partnerref=Microsoft"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 37
-    images:
-      - url: "https://redmondmag.com/~/media/ECG/redmondmag/REDlogo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AT&T is moving its 5G cloud network to Microsoft’s Azure"
     excerpt: "AT&T is enlisting Microsoft to run its next-generation mobile network, a key win in the race by cloud companies to lock down large clients."
     publishedDateTime: 2021-06-30T23:57:00Z
@@ -2112,6 +2111,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "05kWYSjq5PDw8oiyVLm0wof6mLE8floX8Fh/vLnIJ0RQiLpv8mvHlQD79ARiUh5NU1RFmWnrq7J+cPjKtwK2bVWA0hpnK3XJShnrprUCyDmzzITR8iM8yY62ow+KC4ACgX54cbVF+KN04PTXeG8QoP+Yy8ArXNGKaH11smJilV9VBuNQsqUw9FG9u3Mi3fOESkY2a8SZQFc04mqHCVNjCJBqYu0ZpR3FMRs/k2ToSJjUnk9p4ZGvhvmBAagI2NvSlEk2OOrP2LZpZwNXqa6RTIy9yfNe6/9A34s63sjAFubDh+zA/+GGKYXyOo4/ZZsT3wxqwb91JtpzGEHpywu6O2FZH89leBnz7vv1VtUNYXQ=;MX3NBOLppJ+k3aHeeXvJtw=="
+secured: "Wl/JeAXTcY/6dO2X9RTR0e9q2u27GCQn0anfKPT7R3jjV0cloOgYhlW1LvC5cb49bBM0yfIRbufRmnRDJtPq9rw6rhs3HVnF7MLl8+qJzKuMG6irEdMqiG/Ue3mn59MQ/mK/krEfjq32e/xEOCAGn14ncppTStaa34dLSuaR+6kJ/qx6Scobp0qJAuo5dCbj8ZsQzKhTGB0ojMBNPVh1jMyc+wtSE7URg6qAqr1fY24YM6Fwx8SIwZG/bBfs+XBJFGA4VBOPVcLcFnt3nX5ACnMnFWCKAajmL6J31xqE8hHdJ/gRoXSA9+VueTqjgLhXRV88o5mK5sZcylfGk8CwdsVHxhEMtbV2U0gSXMhwaPE=;2ETrZVGVy+WPAxAR7ujLHw=="
 ---
 

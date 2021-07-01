@@ -1507,6 +1507,20 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Microsoft Azure Stack HCI Summit"
+    excerpt: "As organizations with Microsoft-based on-premises infrastructure get deeper into the cloud with Azure, many recognize the need for Microsoft-focused hybrid cloud solution, Azure Stack HCI."
+    publishedDateTime: 2021-06-26T21:33:00Z
+    webUrl: "https://redmondmag.com/webcasts/2021/05/azure-stack-summit-june-30.aspx?partnerref=Microsoft"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/~/media/ECG/redmondmag/REDlogo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AT&T is moving its 5G cloud network to Microsoft’s Azure"
     excerpt: "AT&T is enlisting Microsoft to run its next-generation mobile network, a key win in the race by cloud companies to lock down large clients."
     publishedDateTime: 2021-06-30T23:57:00Z
