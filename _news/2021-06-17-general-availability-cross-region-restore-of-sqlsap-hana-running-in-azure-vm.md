@@ -45,6 +45,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 72
+  - title: "General availability: Skip X.509 certificate proof of possession for IoT Hub and DPS"
+    excerpt: "To make it easier to get started with X.509 authentication with IoT Hub and Device Provisioning Services (DPS), we're removing the requirement to prove possession of uploaded certificates."
+    publishedDateTime: 2021-07-01T17:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-dps-skip-pop/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "General availability: Expansion of credit-based disk bursting to Azure Standard SSDs E30 and smaller"
     excerpt: "Credit-based disk bursting, which allows you to handle unexpected disk traffic and batch jobs smoothly without the need to overprovision your disk, is now available on Azure Standard SSDs E30 and smaller."
     publishedDateTime: 2021-06-23T16:00:50Z
