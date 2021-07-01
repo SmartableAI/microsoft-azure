@@ -239,19 +239,19 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
-  - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
-    publishedDateTime: 2021-06-30T14:35:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
+  - title: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+    excerpt: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud."
+    publishedDateTime: 2021-06-30T15:14:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-86842df143e2d4a16f1a97b01b7f5657"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Associated Press
+      domain: apnews.com
     quality: 12
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
-        width: 944
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "0jJFqR7qmwuFbOVzjORy4c0+rCgeFvxktbdHrD4E5R7cGcl7qoap5PuI7q/htcYPmF6j0if5lKYHA7XTBLjCJfv1pBmRhSt9fWD7zi08wlrfgIna5fIGk4byZPx/DnG2TmOuzNvBLm8jVGiBzLY1Ge0N7xuM61ydVbz8fb1c8tRxFaiGxnVmtJlyaqm59PbqSVlqTjLOmomgR23gJE00TTnCKLGk/9BjoWYvJwClOyBwjMJuJ6f9OKr+N6fXK0fqY4meKR7aTe4pAkiz6xeL6RffzbtC+jFmYcsWcrQ8h3+vWuV2lGCF1jRsHt9Z57wzmBnmPxKGN+16wk9gw+ea8QbdWt4dR7EKJw/lYOdHEDA=;boA9G5+AUxRS2V+Ehqz2mg=="
