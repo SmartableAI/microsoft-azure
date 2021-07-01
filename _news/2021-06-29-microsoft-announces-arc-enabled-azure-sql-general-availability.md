@@ -52,6 +52,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 94
+  - title: "Why Microsoft's AT&T Contract Could Have 'Measurable Impact' On Azure Cloud Revenue"
+    excerpt: "Although Microsoft Corporation (NASDAQ: MSFT) is playing catch-up with its cloud rival Amazon, Inc.'s (NASDAQ: AMZN) AWS, the software giant is slowly and steadily making strong inroads, according to"
+    publishedDateTime: 2021-07-01T19:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-microsoft-s-at-t-contract-could-have-measurable-impact-on-azure-cloud-revenue-1030573156"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/windows-1859187_1280_12.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Join Microsoft at ISC 2021 and drive innovations with Azure high-performance computing"
     excerpt: "Whether it’s understanding our environment, public health, energy sustainability, weather modeling, economic growth, and many others finding solutions to these important challenges requires huge amounts of focused computing power. Customers are increasingly finding the best way to access such high-performance"
     publishedDateTime: 2021-06-23T09:00:29Z

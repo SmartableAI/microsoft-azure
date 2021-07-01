@@ -83,6 +83,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "General availability: Azure Security Center updates for June 2021"
+    excerpt: "New enhancements and updates released in Azure Security Center in June 2021."
+    publishedDateTime: 2021-07-01T18:15:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-june2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "General availability: Azure Cognitive Services Translator releases nine new languages"
     excerpt: "Azure Cognitive Services Translator is releasing nine new languages for text translation: Albanian, Amharic, Armenian, Azeri, Khmer, Lao, Myanmar, Nepali, and Tigrinya."
     publishedDateTime: 2021-02-22T15:00:04Z

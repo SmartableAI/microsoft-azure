@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Microsoft to acquire AT&T’s Network Cloud; Azure to host AT&T 5G network"
-excerpt: "The partnership builds on an existing $2bn deal where AT&T moved its back-end office to Microsoft Azure. The tech company became AT&T's preferred cloud provider for \"non-network a"
-publishedDateTime: 2021-07-01T12:07:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-acquire-atts-network-cloud-azure-to-host-att-5g-network/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-acquire-atts-network-cloud-azure-to-host-att-5g-network/"
+title: "Why Microsoft's AT&T Contract Could Have 'Measurable Impact' On Azure Cloud Revenue"
+excerpt: "Although Microsoft Corporation (NASDAQ: MSFT) is playing catch-up with its cloud rival Amazon, Inc.'s (NASDAQ: AMZN) AWS, the software giant is slowly and steadily making strong inroads, according to"
+publishedDateTime: 2021-07-01T19:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/why-microsoft-s-at-t-contract-could-have-measurable-impact-on-azure-cloud-revenue-1030573156"
+webUrl: "https://markets.businessinsider.com/news/stocks/why-microsoft-s-at-t-contract-could-have-measurable-impact-on-azure-cloud-revenue-1030573156"
 type: article
-quality: 36
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/ATTcloud.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 630
+  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/windows-1859187_1280_12.jpg"
+    width: 1024
+    height: 768
     isCached: true
 
 related:
@@ -62,20 +66,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 94
-  - title: "Why Microsoft's AT&T Contract Could Have 'Measurable Impact' On Azure Cloud Revenue"
-    excerpt: "Although Microsoft Corporation (NASDAQ: MSFT) is playing catch-up with its cloud rival Amazon, Inc.'s (NASDAQ: AMZN) AWS, the software giant is slowly and steadily making strong inroads, according to"
-    publishedDateTime: 2021-07-01T19:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-microsoft-s-at-t-contract-could-have-measurable-impact-on-azure-cloud-revenue-1030573156"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/windows-1859187_1280_12.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Join Microsoft at ISC 2021 and drive innovations with Azure high-performance computing"
     excerpt: "Whether it’s understanding our environment, public health, energy sustainability, weather modeling, economic growth, and many others finding solutions to these important challenges requires huge amounts of focused computing power. Customers are increasingly finding the best way to access such high-performance"
     publishedDateTime: 2021-06-23T09:00:29Z
@@ -245,6 +235,20 @@ related:
         width: 1000
         height: 508
         isCached: true
+  - title: "Microsoft to acquire AT&T’s Network Cloud; Azure to host AT&T 5G network"
+    excerpt: "The partnership builds on an existing $2bn deal where AT&T moved its back-end office to Microsoft Azure. The tech company became AT&T's preferred cloud provider for \"non-network a"
+    publishedDateTime: 2021-07-01T12:07:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-acquire-atts-network-cloud-azure-to-host-att-5g-network/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 36
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/ATTcloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cyber Recovery Solutions Market Next Big Thing | Major Giants Wasabi, AWS, Microsoft Azure, DELL, IBM"
     excerpt: "Latest published market study on Cyber Recovery Solutions Market provides an overview of the current market dynamics in the Cyber Recovery Solutions space as well as what our survey respondents all outsourcing decision makers predict the market will look like"
     publishedDateTime: 2021-06-29T17:42:00Z
@@ -307,6 +311,6 @@ related:
         height: 630
         isCached: true
 
-secured: "2ym6Mc2YdI1moKQJzvNuyIxhIMjQD+Id6dkH8o+To0rlG03Y3M2iyWUBL5F4Q5P6TEKKbnMNxoN/HGRM3Dfx1igi76O7Ld3VV3o0qN7Qf4Xvu3jQa800G67FSXXg8TtWavkXZpaIP7CQ7JyheFpgfwJYa3bWWG0p4CteWilQMLkhlqnUaWj9tjQ9OIlXF4Yk2ENlqpx1Z5gdEGTHizG3OR3gYul4RBucDKrx14gJjc2mn6c+Z6yw+M4E80XzXxZMm3YyLHXIwEPlOAXhzO68yZS3k9n5WP+qdTz9Sn6P8SsQX6DEG+M5CTaitjEL2giZ6OkCYlGe9qtWDiRietAqiskvPNe0wRznzXLrl/Wf8QSR+SY69jpoEK0BSYLxdPYLiDDBV8zofP2jWXKacAcmSBiKpiDQjj3EfbsS6t3Xt0ilGqpoNz0qqzXNeInJNPsZqNe0yV1AXbLtQt4ZQMIBCTJpb5fpY2ErMFOHf0dv9aegVtASYDS+yL5WLIND7YF30f76Fgn0GWz5zdh59ELpeQ==;0cbVQIxtaucN12O4GxgALQ=="
+secured: "5xs1N29aqwjWWzddAlA5lyX0h78wz5pA45xdGfaK7VoknQdwvqHOz9oPMUZPDKUPoJnHq/Rakr6472yNB8Ba0sgPLDWx+UQMUbGcHTLBCqWShjZTWN1XpXFxlzwp7PMOuihRLqf9ztcrtVulXms8cWwhcDVqcpk15qhfa//el/AD0hQ01uFKDlTGsa9ZcCqEhJ91NMV+N57CyQkq36RJcIvjHvyFt6jDJUuPZEeGw8r8L9FeJkKKpMoV8Ofzh88OhX16XEpz8mH+Ke0TzMAeiyA/i3Jru3nA1UZk5dDomuBTw8ZFhXAs1kBzyS82GxzCbLLBUsToYFeR6coAULXTDDqBXonu+FwUH3aZ4CznSeo=;tuwVp9dbsz8XDYGaZG20Bg=="
 ---
 

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Enterprise-scale landing zone reference implementation for AKS"
-excerpt: "Rapidly adopt Azure Kubernetes Service (AKS) using industry-proven practices."
-publishedDateTime: 2021-06-09T16:00:37Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-enterprisescale-landing-zone-reference-implementation-for-aks/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-enterprisescale-landing-zone-reference-implementation-for-aks/"
+title: "General availability: Azure Security Center updates for June 2021"
+excerpt: "New enhancements and updates released in Azure Security Center in June 2021."
+publishedDateTime: 2021-07-01T18:15:24Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/asc-june2021/"
+webUrl: "https://azure.microsoft.com/en-us/updates/asc-june2021/"
 type: article
-quality: 62
+quality: 99
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Containers
+  - Security
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -77,15 +77,6 @@ related:
     excerpt: "Read data in the cloud efficiently with Output datasets."
     publishedDateTime: 2021-01-28T23:46:39Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-output-datasets/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "General availability: Azure Security Center updates for June 2021"
-    excerpt: "New enhancements and updates released in Azure Security Center in June 2021."
-    publishedDateTime: 2021-07-01T18:15:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asc-june2021/"
     type: article
     provider:
       name: Microsoft
@@ -424,6 +415,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
+  - title: "General availability: Enterprise-scale landing zone reference implementation for AKS"
+    excerpt: "Rapidly adopt Azure Kubernetes Service (AKS) using industry-proven practices."
+    publishedDateTime: 2021-06-09T16:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-enterprisescale-landing-zone-reference-implementation-for-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "General availability: Event source start options in Azure Time Series Insights Gen2"
     excerpt: "The new event source start options feature in Azure Time Series Insights Gen2 gives you flexibility when configuring an event source."
     publishedDateTime: 2021-04-15T16:00:17Z
@@ -506,6 +506,6 @@ related:
       domain: microsoft.com
     quality: 42
 
-secured: "hfV8kxkyqbQlKXk7MSxjPLA4CmDjyKnRhP44nEbVb8OcXf1SYjdZO5cviMENfdxy9NFK+793oJukKypaigcsC/dgrmKdvpBMgIQf13MGxgLVp8kKwAx4NPmk7cBgRdpvU1AZPgp4HfwbTeuijPPuY7TXpHfUwAG5uCv2raPWOVFm3mrVVTiQwBUkcuobZvajLztGxl5wqFIDVUMWNVt4E5qxIhc0bIZ1vbWVk+zlgLingW6C40CYMc9XX5hds2cu8rNqsmXztJL39NzPhc/jpHv94mxIZEZi/Ef7ZHU98+FquRn2O9x5lMrgTG22hLVhB6g5V1260pWcvVwZ8BYvBeE2X5ySWIX9pgyOncE3vWY=;0lP+8rAUg5QDvuSOiz9Xxw=="
+secured: "WBWdsbRZ/NdLAc2uhzoK/peEQYUWJSMhJdsjOH5H+K7vleWXjPEBEkPGKIlJ/gZHsXAz2t/mfbppr9UgphjamKDHimhDi17s5z3JWY86LJKWTZHIf8AQk0ykfJ2Q4nRr3vVMwU2vzh0VaZZC4tugH0LTQ19DV21tndrMwqZci2+RorHaqPw7rxRXltADY+OSRpNijPV1q0182OtQcOn9YsQQ0c02xlgDEmCPJq0n/8lhh5hgImPPmgRB7w9YZDywMLv0D37Eccx9/IvHOBwiUQ0OqgBqbj3kSYYgGXQH3ARDGfvh9hWNw4YnJQfgrqfemP7NrP6utWmDVSRIYmBI/AOaM3H4lpX/a5Zp+q9pFek=;2nbKtdUZQ25FFA2cK0bDYw=="
 ---
 

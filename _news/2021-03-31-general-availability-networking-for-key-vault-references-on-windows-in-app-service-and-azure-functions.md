@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 1159
+heat: 1179
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
     excerpt: "Read data in the cloud efficiently with Output datasets."
     publishedDateTime: 2021-01-28T23:46:39Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-output-datasets/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "General availability: Azure Security Center updates for June 2021"
+    excerpt: "New enhancements and updates released in Azure Security Center in June 2021."
+    publishedDateTime: 2021-07-01T18:15:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-june2021/"
     type: article
     provider:
       name: Microsoft
