@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Why Microsoft's AT&T Contract Could Have 'Measurable Impact' On Azure Cloud Revenue"
-excerpt: "Although Microsoft Corporation (NASDAQ: MSFT) is playing catch-up with its cloud rival Amazon, Inc.'s (NASDAQ: AMZN) AWS, the software giant is slowly and steadily making strong inroads, according to"
-publishedDateTime: 2021-07-01T19:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/why-microsoft-s-at-t-contract-could-have-measurable-impact-on-azure-cloud-revenue-1030573156"
-webUrl: "https://markets.businessinsider.com/news/stocks/why-microsoft-s-at-t-contract-could-have-measurable-impact-on-azure-cloud-revenue-1030573156"
+title: "Microsoft Cloud Gaming comes to Windows 10 and iOS"
+excerpt: "Microsoft is announcing that it plans to expand the cloud gaming experience to Windows 10 and iOS devices, in the near future."
+publishedDateTime: 2021-07-01T07:49:00Z
+originalUrl: "https://windowsreport.com/microsoft-cloud-gaming-windows-10/"
+webUrl: "https://windowsreport.com/microsoft-cloud-gaming-windows-10/"
+ampWebUrl: "https://windowsreport.com/microsoft-cloud-gaming-windows-10/?amp"
+cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-cloud-gaming-windows-10/?amp"
 type: article
-quality: 71
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Windows
+  domain: windowsreport.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/windows-1859187_1280_12.jpg"
-    width: 1024
-    height: 768
+  - url: "https://cdn.windowsreport.com/wp-content/uploads/2021/07/xbox-cloud-gaming.jpg"
+    width: 1920
+    height: 1280
     isCached: true
 
 related:
@@ -66,6 +64,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 94
+  - title: "Why Microsoft's AT&T Contract Could Have 'Measurable Impact' On Azure Cloud Revenue"
+    excerpt: "Although Microsoft Corporation (NASDAQ: MSFT) is playing catch-up with its cloud rival Amazon, Inc.'s (NASDAQ: AMZN) AWS, the software giant is slowly and steadily making strong inroads, according to"
+    publishedDateTime: 2021-07-01T19:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-microsoft-s-at-t-contract-could-have-measurable-impact-on-azure-cloud-revenue-1030573156"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/windows-1859187_1280_12.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Join Microsoft at ISC 2021 and drive innovations with Azure high-performance computing"
     excerpt: "Whether it’s understanding our environment, public health, energy sustainability, weather modeling, economic growth, and many others finding solutions to these important challenges requires huge amounts of focused computing power. Customers are increasingly finding the best way to access such high-performance"
     publishedDateTime: 2021-06-23T09:00:29Z
@@ -136,22 +148,6 @@ related:
       - url: "https://www.computerweekly.com/visuals/German/article/cloud-storage-costs-adobe.jpg"
         width: 1200
         height: 400
-        isCached: true
-  - title: "Microsoft Cloud Gaming comes to Windows 10 and iOS"
-    excerpt: "Microsoft is announcing that it plans to expand the cloud gaming experience to Windows 10 and iOS devices, in the near future."
-    publishedDateTime: 2021-07-01T07:49:00Z
-    webUrl: "https://windowsreport.com/microsoft-cloud-gaming-windows-10/"
-    ampWebUrl: "https://windowsreport.com/microsoft-cloud-gaming-windows-10/?amp"
-    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-cloud-gaming-windows-10/?amp"
-    type: article
-    provider:
-      name: Windows
-      domain: windowsreport.com
-    quality: 42
-    images:
-      - url: "https://cdn.windowsreport.com/wp-content/uploads/2021/07/xbox-cloud-gaming.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "Microsoft Joins MEF To Bolster Azure for Operators Services"
     excerpt: "\"Microsoft's decision to join MEF aligns with key goals of our Microsoft Azure for Operators initiative to bring the power of the cloud to the network, unlock the potential of 5G, and drive down ..."
@@ -346,6 +342,6 @@ related:
         height: 450
         isCached: true
 
-secured: "5xs1N29aqwjWWzddAlA5lyX0h78wz5pA45xdGfaK7VoknQdwvqHOz9oPMUZPDKUPoJnHq/Rakr6472yNB8Ba0sgPLDWx+UQMUbGcHTLBCqWShjZTWN1XpXFxlzwp7PMOuihRLqf9ztcrtVulXms8cWwhcDVqcpk15qhfa//el/AD0hQ01uFKDlTGsa9ZcCqEhJ91NMV+N57CyQkq36RJcIvjHvyFt6jDJUuPZEeGw8r8L9FeJkKKpMoV8Ofzh88OhX16XEpz8mH+Ke0TzMAeiyA/i3Jru3nA1UZk5dDomuBTw8ZFhXAs1kBzyS82GxzCbLLBUsToYFeR6coAULXTDDqBXonu+FwUH3aZ4CznSeo=;tuwVp9dbsz8XDYGaZG20Bg=="
+secured: "Yc5206Jwa/l9/hcCoxHZY+kjxAK1PgQjZxRTPHaBVPAg/TE1NeGTJlTag8TdU0kUKD5I6yotK9s46iN3kaprEQertKxRIR6K94zerXYIQsNMJakhzdFz5BoDZKKT+FFn3+PHeL9B6oF9Zss1vOBEk8YcNnd9UxCbOBpcIXskoPqlNBadoWac6+xg19ACosMBEMmL5snXXjoFXb+qQ0EcDpc8MPipbmbAxlMGDuDsfiGvbqT6XKPhXwZAWG/1LMYoGmvE2EFkbGy7Vf9jLYPZV2HHPcga4qJC/3ffq39WSXU4fqNwptYz/aTfV8uR1JamylERXhZ6GpyHplApqnG8W84e4czp3Fzt5wbacHhBtfA=;Pazduudp/3i76a7qIdbpVw=="
 ---
 
