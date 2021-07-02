@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 2877,
-        "average": 4.6392074
+        "count": 2878,
+        "average": 4.639333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -56,8 +56,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
       "length": "PT24M",
       "ratings": {
-        "count": 1612,
-        "average": 4.701613
+        "count": 1613,
+        "average": 4.701798
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -227,8 +227,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
       "length": "PT15M",
       "ratings": {
-        "count": 444,
-        "average": 4.7545047
+        "count": 445,
+        "average": 4.7550564
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -305,8 +305,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-devops-aspnet-core/",
       "length": "PT54M",
       "ratings": {
-        "count": 263,
-        "average": 4.741445
+        "count": 264,
+        "average": 4.742424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 5333,
-        "average": 4.742734
+        "count": 5335,
+        "average": 4.7428303
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -700,8 +700,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
           "length": "PT24M",
           "ratings": {
-            "count": 1855,
-            "average": 4.7256064
+            "count": 1856,
+            "average": 4.7246766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -890,8 +890,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 491,
-        "average": 4.7637477
+        "count": 492,
+        "average": 4.764228
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1089,8 +1089,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
       "length": "PT29M",
       "ratings": {
-        "count": 308,
-        "average": 4.837662
+        "count": 309,
+        "average": 4.8381877
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1174,8 +1174,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
       "length": "PT24M",
       "ratings": {
-        "count": 1855,
-        "average": 4.7256064
+        "count": 1856,
+        "average": 4.7246766
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1207,49 +1207,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-kubernetes-service.md",
-      "title": "Introduction to Azure Kubernetes Service",
-      "excerpt": "Get acquainted with the Azure Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-kubernetes-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 4846,
-        "average": 4.642179
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     },
     {
@@ -1387,8 +1344,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
       "length": "PT33M",
       "ratings": {
-        "count": 3310,
-        "average": 4.736858
+        "count": 3311,
+        "average": 4.7369375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1421,8 +1378,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/",
       "length": "PT42M",
       "ratings": {
-        "count": 3551,
-        "average": 4.6705155
+        "count": 3552,
+        "average": 4.670608
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1446,6 +1403,42 @@
       "topics": [
         "Azure",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
+      "title": "Run Docker containers with Azure Container Instances",
+      "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 7052,
+        "average": 4.7178106
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 59,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "Databases"
       ]
     }
   ],
