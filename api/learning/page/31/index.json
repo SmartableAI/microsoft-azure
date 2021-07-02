@@ -4,92 +4,6 @@
   "page": 31,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-arm-template-specs.md",
-      "title": "Publish libraries of reusable infrastructure code by using template specs",
-      "excerpt": "Learn how to create, publish, and deploy template specs, which enable you to store and reuse templates across your organization.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-arm-template-specs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/arm-template-specs/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 3,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-arm-template-test.md",
-      "title": "Validate your deployments by using what-if and the ARM template test toolkit",
-      "excerpt": "Leverage the ARM template test toolkit and apply it on your Azure Resource Manager templates to ensure the templates follow good practices before deployment. Apply the what-if command to see the impact of a deployment before it's applied.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-arm-template-test/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/arm-template-test/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 50,
-        "average": 4.64
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-arm-template-whatif.md",
       "title": "Preview Azure deployment changes by using what-if",
       "excerpt": "Apply the what-if command to see the impact of a deployment before it's applied.",
@@ -1267,6 +1181,82 @@
       "topics": [
         "Azure",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-blockchain-create-ui-decentralized-apps.md",
+      "title": "Create a user interface with decentralized apps",
+      "excerpt": "Learn about decentralized apps and how to build your own.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-blockchain-create-ui-decentralized-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/blockchain-create-ui-decentralized-apps/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 54,
+        "average": 4.8703704
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-blockchain-ethereum-networks.md",
+      "title": "Connect and deploy to Ethereum networks",
+      "excerpt": "Learn about and use Ethereum networks for development, testing, and production.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-blockchain-ethereum-networks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/blockchain-ethereum-networks/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 42,
+        "average": 4.952381
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/reactors/blockchain-ethereum-networks-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

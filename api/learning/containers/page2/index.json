@@ -4,6 +4,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
+      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
+      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 1201,
+        "average": 4.755204
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases",
+        "Serverless",
+        "Containers",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-aks-optimize-compute-costs.md",
       "title": "Optimize compute costs on Azure Kubernetes Service (AKS)",
       "excerpt": "Explore strategies that you can use on Azure to optimize your cloud-native application-development process by using Azure Kubernetes Service (AKS).",
@@ -1330,50 +1380,6 @@
         "Azure",
         "Containers",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-manage-cognitive-services.md",
-      "title": "Create and manage Cognitive Services",
-      "excerpt": "Azure Cognitive Services enable developers to easily add cognitive features into their applications. Learn how to configure and manage these services for your AI application needs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-manage-cognitive-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-cognitive-services/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 63,
-        "average": 4.6666665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-and-manage-cognitive-services-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Containers"
       ]
     }
   ],

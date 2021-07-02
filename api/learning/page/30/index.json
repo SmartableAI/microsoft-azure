@@ -4,224 +4,6 @@
   "page": 30,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-protect-public-sector-data-in-azure.md",
-      "title": "Protect public sector data in Azure",
-      "excerpt": "Learn to design conceptual architecture for data classifications using data residency for Microsoft 365 and Dynamics 365 services while utilizing Azure regions and Customer lockbox. Manage breach notifications in Service Trust Portal and Azure Security Center. And encrypt data throughout its lifecycle.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-protect-public-sector-data-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-protect-public-sector-data-in-azure/",
-      "length": "PT41M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-design-secure-environment-government.md",
-          "title": "Design cloud solutions for the public sector",
-          "excerpt": "Introduction to the stakes and options for implementing Azure to safeguard public sector data.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-secure-environment-government/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-secure-environment-government/",
-          "length": "PT15M",
-          "ratings": {
-            "count": 13,
-            "average": 4.6923075
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-encrypt-sector-data.md",
-          "title": "Encrypt public sector data in Azure",
-          "excerpt": "Overview of the options available for managing encryption keys and encrypting data throughout its lifecycle, with special attention to public sector.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-encrypt-sector-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/encrypt-sector-data/",
-          "length": "PT26M",
-          "ratings": {
-            "count": 10,
-            "average": 4.8
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security",
-            "Networking",
-            "Identity",
-            "Storage",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "IoT",
-        "Identity",
-        "Security",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-run-vmware-workloads-on-azure-vmware-solution.md",
-      "title": "Run VMware workloads on Azure VMware Solution",
-      "excerpt": "Learn about Azure VMware Solution, how to deploy the resource, and how to migrate VMware virtual machines on-premises.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-run-vmware-workloads-on-azure-vmware-solution/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-run-vmware-workloads-on-azure-vmware-solution/",
-      "length": "PT2H10M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-vmware-workloads-on-premises-azure-vmware-solution.md",
-          "title": "Migrate VMware workloads on-premises to Azure VMware Solution",
-          "excerpt": "Learn how to migrate virtual machines from an on-premises VMware environment to Azure VMware Solution by using VMware HCX.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-vmware-workloads-on-premises-azure-vmware-solution/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-vmware-workloads-on-premises-azure-vmware-solution/",
-          "length": "PT53M",
-          "ratings": {
-            "count": 8,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-vmware-workloads-on-premises-azure-vmware-solution-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 1,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-vmware-workloads-on-premises-azure-vmware-solution-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-safeguard-cloud-resources.md",
       "title": "Safeguard cloud resources",
       "excerpt": "The third and final learning path in a course on Cloud Administration from Carnegie Mellon University. Learn to monitor your cloud resources, keep them safe, and protect or recover them in the case of a disaster.",
@@ -420,8 +202,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/what-is-threat-hunting-azure-sentinel/",
           "length": "PT20M",
           "ratings": {
-            "count": 54,
-            "average": 4.851852
+            "count": 55,
+            "average": 4.8545456
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1686,8 +1468,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-results-kusto-query-language/",
       "length": "PT30M",
       "ratings": {
-        "count": 221,
-        "average": 4.7828054
+        "count": 222,
+        "average": 4.783784
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1761,6 +1543,92 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-arm-template-specs.md",
+      "title": "Publish libraries of reusable infrastructure code by using template specs",
+      "excerpt": "Learn how to create, publish, and deploy template specs, which enable you to store and reuse templates across your organization.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-arm-template-specs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/arm-template-specs/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 3,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-arm-template-test.md",
+      "title": "Validate your deployments by using what-if and the ARM template test toolkit",
+      "excerpt": "Leverage the ARM template test toolkit and apply it on your Azure Resource Manager templates to ensure the templates follow good practices before deployment. Apply the what-if command to see the impact of a deployment before it's applied.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-arm-template-test/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/arm-template-test/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 50,
+        "average": 4.64
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
       ]
     }
   ],
