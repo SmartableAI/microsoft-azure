@@ -1,26 +1,26 @@
 ---
 category: news
-title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
-publishedDateTime: 2021-06-30T14:35:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
+title: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+excerpt: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud."
+publishedDateTime: 2021-06-30T15:14:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-86842df143e2d4a16f1a97b01b7f5657"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-86842df143e2d4a16f1a97b01b7f5657"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
-    width: 944
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -259,6 +259,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud wars heat up: AT&T moves 5G cloud to Azure, sells Network Cloud tech to Microsoft"
+    excerpt: "AT&T is making big changes in its cloud computing efforts, deciding to move its next-generation 5G wireless core to Microsoft's Azure cloud and also selling its Network Cloud Platform tech to"
+    publishedDateTime: 2021-07-01T11:47:00Z
+    webUrl: "https://www.wraltechwire.com/2021/07/01/cloud-wars-heat-up-att-moves-5g-cloud-to-azure-sells-network-cloud-tech-to-microsoft/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 29
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/cloud-computing-internet-of-things-e1605713015179-1024x576.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Cyber Recovery Solutions Market Next Big Thing | Major Giants Wasabi, AWS, Microsoft Azure, DELL, IBM"
     excerpt: "Latest published market study on Cyber Recovery Solutions Market provides an overview of the current market dynamics in the Cyber Recovery Solutions space as well as what our survey respondents all outsourcing decision makers predict the market will look like"
     publishedDateTime: 2021-06-29T17:42:00Z
@@ -307,6 +321,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "vz/aJfDr6hvrhN7zXtebWGw3VxXjsVF0gRv57eebb9Hl60CdQfRklKwuz8eAEx6OGzkmqM4PyLF8aoIjHo1htgnSMW3nwDenAIjGWatL/U4Q7EsEuoPdJtcH7FwlTXm6M6lAzIdvI81h93yGO0bFfPqM4mHSjHPYroC3Cbr3lV4x6CPQBaWPFN7xk0H1KFvXZLbVWB027I9gE5Oo09Euk/eZZ+spHbK7wNRG3U9nKbmZQiSd2RWuxOTM5TVhYA5ABu8leU5agqkTfsOHla+pXLnWzWCSSIzUgxu+GhGnjeNN1hdjUu6Zv9GTTEgp26+sIAJ/CyL2mb54oJRo2yRjH9EnkwAhAP4UGs65TI7qw6c=;kP4GSoVhL5FQ/6byMe4zQQ=="
+secured: "AbQB/t79WLq1190zZkDEBkxkwZcKAnYlX1u3g18UM+S7sdeD/bIlkP4maqXlsFbJx5k71sUvXxeh+J81zM2PPpafzEpXo0QQ+nv9T9R6PmHloTdJMxykEPdEPRBZeeoUfqU4BqVEtH7HgF3lJ97UxBHtaKJZyaumoBXXy+iogPHYjomRETUGsmUhhk24sc3W1Kq+QcJLADMqRm41nSnVblBUEv5sRqcUMBXlCIfKQBkjbOK1SMWt6L/aAgP/0G4iLm7UASNWT2FRcr2G8On5j34rIASpYT6yVt8AQCCazX31ab1IuY/SbJ4RExWQEMguqjTUaMmMj6AeFTOSfQai/dziuTW+RwwcqCRPZX+/TPc=;QOppnzad8MWPBf+uqaPu1g=="
 ---
 

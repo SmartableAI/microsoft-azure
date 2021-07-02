@@ -1,36 +1,45 @@
 ---
 category: news
-title: "Microsoft acquires AT&T networking tech to bolster its Azure for Operators strategy"
-excerpt: "Microsoft and AT&T are expanding their existing partnership around 5G and edge computing. AT&T has been working with Microsoft for several years to test its 5G workloads on Azure. Today, June 30 -- the last day of Microsoft's fiscal 2021 -- the pair announced the renewal of their partnership,"
-publishedDateTime: 2021-06-30T09:47:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-acquires-at-t-networking-tech-to-bolster-its-azure-for-operators-strategy/"
-webUrl: "https://www.zdnet.com/article/microsoft-acquires-at-t-networking-tech-to-bolster-its-azure-for-operators-strategy/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-acquires-at-t-networking-tech-to-bolster-its-azure-for-operators-strategy/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-acquires-at-t-networking-tech-to-bolster-its-azure-for-operators-strategy/"
+title: "Cloud wars heat up: AT&T moves 5G cloud to Azure, sells Network Cloud tech to Microsoft"
+excerpt: "AT&T is making big changes in its cloud computing efforts, deciding to move its next-generation 5G wireless core to Microsoft's Azure cloud and also selling its Network Cloud Platform tech to"
+publishedDateTime: 2021-07-01T11:47:00Z
+originalUrl: "https://www.wraltechwire.com/2021/07/01/cloud-wars-heat-up-att-moves-5g-cloud-to-azure-sells-network-cloud-tech-to-microsoft/"
+webUrl: "https://www.wraltechwire.com/2021/07/01/cloud-wars-heat-up-att-moves-5g-cloud-to-azure-sells-network-cloud-tech-to-microsoft/"
 type: article
-quality: 108
-heat: 568
-published: true
+quality: 29
+heat: -1
+published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WRAL TechWire
+  domain: wraltechwire.com
 
 topics:
   - Azure
-  - Networking
 
 images:
-  - url: "https://www.zdnet.com/a/hub/i/2021/06/30/c7056315-5d20-42e1-a1cd-12fa6da64363/microsoftatandt.jpg"
-    width: 1032
-    height: 694
+  - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/cloud-computing-internet-of-things-e1605713015179-1024x576.png"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
+  - title: "Microsoft acquires AT&T networking tech to bolster its Azure for Operators strategy"
+    excerpt: "Microsoft and AT&T are expanding their existing partnership around 5G and edge computing. AT&T has been working with Microsoft for several years to test its 5G workloads on Azure. Today, June 30 -- the last day of Microsoft's fiscal 2021 -- the pair announced the renewal of their partnership,"
+    publishedDateTime: 2021-06-30T09:47:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-acquires-at-t-networking-tech-to-bolster-its-azure-for-operators-strategy/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-acquires-at-t-networking-tech-to-bolster-its-azure-for-operators-strategy/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-acquires-at-t-networking-tech-to-bolster-its-azure-for-operators-strategy/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 108
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/30/c7056315-5d20-42e1-a1cd-12fa6da64363/microsoftatandt.jpg"
+        width: 1032
+        height: 694
+        isCached: true
   - title: "Microsoft announces Arc-enabled Azure SQL general availability"
     excerpt: "The ability to run Azure SQL Managed Instance -- a cloud version of SQL Server -- on non-Azure clouds, and even on-premises, will be generally available and production-ready on July 30th, 2021."
     publishedDateTime: 2021-06-29T07:00:00Z
@@ -250,20 +259,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud wars heat up: AT&T moves 5G cloud to Azure, sells Network Cloud tech to Microsoft"
-    excerpt: "AT&T is making big changes in its cloud computing efforts, deciding to move its next-generation 5G wireless core to Microsoft's Azure cloud and also selling its Network Cloud Platform tech to"
-    publishedDateTime: 2021-07-01T11:47:00Z
-    webUrl: "https://www.wraltechwire.com/2021/07/01/cloud-wars-heat-up-att-moves-5g-cloud-to-azure-sells-network-cloud-tech-to-microsoft/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 29
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/cloud-computing-internet-of-things-e1605713015179-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Cyber Recovery Solutions Market Next Big Thing | Major Giants Wasabi, AWS, Microsoft Azure, DELL, IBM"
     excerpt: "Latest published market study on Cyber Recovery Solutions Market provides an overview of the current market dynamics in the Cyber Recovery Solutions space as well as what our survey respondents all outsourcing decision makers predict the market will look like"
     publishedDateTime: 2021-06-29T17:42:00Z
@@ -326,6 +321,6 @@ related:
         height: 450
         isCached: true
 
-secured: "gccKvHy/tsoJJYDufsTH8fjy0klg98feprQ5hmBudKECKRXDMMEwOh/qNMx0DclSi76BDELB7Iv7/YgiChZ+SOJ9wYVfYZdC9lP4prPslezIAAfmE2Q6vF8uzLG/WsNLn2RDEpRjiCV5kNCg/VM5Dv3oAH60PPvAIjPWx0GXeiMIq+vEGwTqQOZMq5FWBbpD0rPhp4FPWZdWLK4rjLfQNf+miNqXAp/e/z8O9wOKiZWT97cF0aN3Wzl7Wamo/PlYdzjw7KwFbbY8TNeLqLPqUNZgh8GnWgB36tvQ9IXw+Q9HuamrTVGtrFRuF/4DlGDpRwuThuxiG/HZmrNpGoPVfdnbvBnuH6RKC1WWyvYTu6fFd1xIVu6J39NOgrb8+0X6e5RjNwX+DnJCVtqYTEP5QzeOHhA/Dc2KQ/S1b4JUKe33dhhpXxzxWToPdqv//O4w6UHnLXfm+hXVoWIjNIOfqUIWWpICxpW2tObhQfOQyTQcYJ37BZ+Yks2Mzjue8sEnoZhBvOuaZu6w2MALHaMiag==;LaRc4IF8lQXTKtQP1SBz4w=="
+secured: "UENyTUKhA6QGFC3u8UBGB9GXeUCHuQ9QVrR+C4WbKF1jCINqFrKyc+DAVMv+T31bKSbAOx90ae7EUfy6jFXV9DHldkCiOLW23drFPIZeGE83PvCNBlHrCTAh66T8i4Le8mpYPCj3N0H45XW5iNcobIcdG/7jfWl2XEAlouWrdi5Y8FEoPh6PV5bTF+PQGxOl8fmZReC7lBZCtevnPClOWoRjUXzvQdJCpuEsJrhJzPBbva+tFRmr8eZ/UOO58+I7KXGBTP8dzKT6S1Jv6Lgu39rUemOCMMiAALqbTg9WGz1e73qAlXgOGZsUXTmWQb3gurdkL80VyqSh1etgl1W43NovCTAp1549oJoMdPVxfXI=;N88nydF/Mv2+w28NeUdWfA=="
 ---
 
