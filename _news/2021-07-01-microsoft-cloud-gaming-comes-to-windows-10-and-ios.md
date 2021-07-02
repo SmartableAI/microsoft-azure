@@ -327,19 +327,19 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
-  - title: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud."
-    publishedDateTime: 2021-06-30T15:14:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-86842df143e2d4a16f1a97b01b7f5657"
+  - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
+    publishedDateTime: 2021-06-30T14:35:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 12
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
         isCached: true
 
 secured: "RSdL0W+IYrj7gGsGfV9+1joirrHQ5w3ke4hV/AW50nli74yWT4xqrBNFzNs3kUid/GdLjLInw5qZsboq9m1oRRDyzCRs0aKvlXoenfM/kTQFxgvmQdpoYG08NI3qrqyf8X9SNJkP/lJum9mIanE1ImMPhqt6Op2isMkxUxkaHFp+tvqrnGC4UTHJh49ejCWMGeGRR7dQ/tHOLI3HJqmewrjwlxeqikKkyUj6FKC8CmCREotArCMDry/uTT8IRt+rkFBIyMWK9HETwwt14bOkLa65hxIomTC8/+JcMG9rxPdFMx/IilFhVpBGmwJAEcGRwc42k4IF/ILtakyCPndeCYjxpGtJU10/yn2Np0pfY8nZ6rSBLhI8A29uDKEUzvx/spxc/dmzAsEjnPlxyBSD0c2kGhaMgS83zhe+MSEgez3lN/xcynrqGDFClYWi1v7VBSXc+t+h030Q5+w4iaxFfUM2uWf2XhzroovHnBrYETu2lExEDzI0uYdt5nZFREGnCPSwTyqDo5uoEaMOpqAjJA==;kRoIlsc68OS+Wh7mfZDNVw=="
