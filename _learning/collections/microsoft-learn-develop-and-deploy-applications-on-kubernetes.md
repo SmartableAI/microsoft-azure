@@ -4,7 +4,7 @@ excerpt: "Create, deploy, and maintain Kubernetes-native applications using AKS.
 type: collection
 price: Free
 length: PT5H32M
-heat: 74
+heat: 69
 
 provider:
   name: Microsoft Learn

@@ -4,7 +4,7 @@ excerpt: "Sustainably achieve the appropriate level of reliability in your syste
 type: collection
 price: Free
 length: PT7H46M
-heat: 79
+heat: 76
 
 provider:
   name: Microsoft Learn

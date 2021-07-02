@@ -4,7 +4,7 @@ excerpt: "When you're working on research projects, it is helpful to have a basi
 type: collection
 price: Free
 length: PT5H45M
-heat: 189
+heat: 170
 
 provider:
   name: Microsoft Learn

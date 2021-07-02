@@ -4,7 +4,7 @@ excerpt: "Learn how to architect compute infrastructure and solutions to automat
 type: collection
 price: Free
 length: PT6H54M
-heat: 81
+heat: 73
 
 provider:
   name: Microsoft Learn

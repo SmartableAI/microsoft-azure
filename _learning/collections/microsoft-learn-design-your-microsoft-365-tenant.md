@@ -4,7 +4,7 @@ excerpt: "Design your Microsoft 365 tenant"
 type: collection
 price: Free
 length: PT4H5M
-heat: 60
+heat: 62
 
 provider:
   name: Microsoft Learn
