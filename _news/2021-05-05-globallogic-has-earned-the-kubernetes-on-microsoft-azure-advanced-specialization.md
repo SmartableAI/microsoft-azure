@@ -583,6 +583,15 @@ related:
         width: 1920
         height: 1292
         isCached: true
+  - title: "Softline Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
+    excerpt: "Softline today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertise in deploying and managing production workloads in the cloud using containers and managing hosted"
+    publishedDateTime: 2021-07-02T07:01:00Z
+    webUrl: "https://www.pr.com/press-release/839606"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 31
   - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."
     publishedDateTime: 2021-05-18T16:41:00Z

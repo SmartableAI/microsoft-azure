@@ -573,6 +573,15 @@ related:
         width: 1920
         height: 1292
         isCached: true
+  - title: "Softline Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
+    excerpt: "Softline today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertise in deploying and managing production workloads in the cloud using containers and managing hosted"
+    publishedDateTime: 2021-07-02T07:01:00Z
+    webUrl: "https://www.pr.com/press-release/839606"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 31
   - title: "GlobalLogic Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
     excerpt: "GlobalLogic Inc., a leader in Digital Product Engineering, today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge,"
     publishedDateTime: 2021-05-05T12:30:00Z

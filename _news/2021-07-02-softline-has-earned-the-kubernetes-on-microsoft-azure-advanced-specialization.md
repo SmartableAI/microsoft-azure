@@ -1,27 +1,22 @@
 ---
 category: news
-title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
-excerpt: "A new industry analysis report demonstrates this shift, noting that the global blockchain technology market size is expected to reach $72 billion by 2026, rising at a market growth of 51.8% CAGR during the forecast period."
-publishedDateTime: 2021-05-31T15:00:00Z
-originalUrl: "https://www.investing.com/news/cryptocurrency-news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users-2519297"
-webUrl: "https://www.investing.com/news/cryptocurrency-news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users-2519297"
+title: "Softline Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
+excerpt: "Softline today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertise in deploying and managing production workloads in the cloud using containers and managing hosted"
+publishedDateTime: 2021-07-02T07:01:00Z
+originalUrl: "https://www.pr.com/press-release/839606"
+webUrl: "https://www.pr.com/press-release/839606"
 type: article
-quality: 37
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Investing.com
-  domain: investing.com
+  name: PR
+  domain: pr.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556527948.jpg"
-    width: 800
-    height: 533
-    isCached: true
+  - Containers
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -546,6 +541,20 @@ related:
         width: 877
         height: 432
         isCached: true
+  - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
+    excerpt: "A new industry analysis report demonstrates this shift, noting that the global blockchain technology market size is expected to reach $72 billion by 2026, rising at a market growth of 51.8% CAGR during the forecast period."
+    publishedDateTime: 2021-05-31T15:00:00Z
+    webUrl: "https://www.investing.com/news/cryptocurrency-news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users-2519297"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 37
+    images:
+      - url: "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556527948.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Principled Technologies Releases Study Comparing Performance of Kubernetes Clusters Running on Microsoft Azure..."
     excerpt: "Newer D- and E-series VMs with Intel Xeon Cascade Lake processors supported more users than older VMs enabled by previous-generation Intel Xeon processors."
     publishedDateTime: 2021-04-30T07:01:00Z
@@ -574,15 +583,6 @@ related:
         width: 1920
         height: 1292
         isCached: true
-  - title: "Softline Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
-    excerpt: "Softline today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertise in deploying and managing production workloads in the cloud using containers and managing hosted"
-    publishedDateTime: 2021-07-02T07:01:00Z
-    webUrl: "https://www.pr.com/press-release/839606"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 31
   - title: "GlobalLogic Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
     excerpt: "GlobalLogic Inc., a leader in Digital Product Engineering, today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge,"
     publishedDateTime: 2021-05-05T12:30:00Z
@@ -745,6 +745,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "xK3olJOw7vLnifuNbg7b8zcHtNxL0O/yfReNcNf7vTR1qbTKIJRca6dmEywHrxAMLGuE6rTM7MOu1DEFsRHCYgxrMD55uWs3CUTLsGMzOol0ZJMWu9xnSNxq3JMWmMeBqbpTKPs03VCKp3sTARtpyCzBgb6UIX8cp/orcEIlgLElTQ3MrAbWeEjTHxs6RVJjjK7VTlj7Elungbokw0kILDz/yRILTUKct2gwPHlDXJGo70FHWvqPT/uLA9v+cs8OjU5zuE/8/qtEJVSGglJ5GTNWivNUCP1aL1zyxGGMNlB9/Am30fvd/IKu/sojCYynaouKctgj9hhGmCqfIw3qa69frZCFueqTIsSNM8h9zWU=;6Jh+IcQ9PUTK8wGghwqC3g=="
+secured: "ZhCMm72pMdgPPNg5v/PdzmMJdEcjod8sSjMscAcGSu8Nm7fIfNHFu5qJRrN0r8/KzPOFjPVFFT8c/+BLvLi+2AxRd/DTHdDtIXZrYDWVHfvri5m8LSAiVAUPB68uppO1DtrEjCBPg4JH75XpEMWZDYWBEDsQJyR2Y1Vne2bHZHGMpCZK+k9GFsRK3rdyT8m4rT94u2Y2teKllORbVIcazTy7aU3XYdeE9SeJ3Lhx3jEgUOptdg98K85ONf6qym5kZpYd9VhGWNJq58iqPQJruYI3JMyD5Z5ktsAsEvWYWfa5gYHR+UZHC6OBZ0acEdL+PzEnFls/rlWll8qC4GGoT6QD9jzbWwHK2gULhdYbNSY=;TwweHWsV5NClPfYwR7/5yw=="
 ---
 
