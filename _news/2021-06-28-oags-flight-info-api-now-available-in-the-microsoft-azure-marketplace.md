@@ -1,18 +1,18 @@
 ---
 category: news
-title: "OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
-excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and ..."
-publishedDateTime: 2021-06-28T13:11:00Z
-originalUrl: "https://www.businesswireindia.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace-73729.html"
-webUrl: "https://www.businesswireindia.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace-73729.html"
+title: "OAGs Flight Info API now available in the Microsoft Azure Marketplace"
+excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+publishedDateTime: 2021-06-28T12:00:00Z
+originalUrl: "https://www.financialbuzz.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/"
+webUrl: "https://www.financialbuzz.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Azure
@@ -226,6 +226,6 @@ related:
       domain: telecompaper.com
     quality: 23
 
-secured: "deU0Yq+lGWD/Lrv/YNty+Lsi6nVIbPAyw062JM+zM+aVToIbccKqKd3gXJmLmLnv5BZJn9udRkBufoLboWJ8LV+rcRwU6J9BVeRH6oAoGBqNIC/E6ZpzvW3yWlVNJHYGXiG701CHsG+sNbStyR4yfUCqeoUaE/kCFZ+h5dELmGY0BDLPBI652XFHYoIl2eYxhJ1864vnO6hv3d6Ss+dZEpOZ5FH+NhZVsOnn1fwqPuj335hA47GJh3i/mXIjHV1Ym9FhQCarWcYUnL7i9zXNF0c088wBRJP8hXp7EVU0zD644CfqvHPWkDuEs6m+6mUue62SkQkqUOFN3HZAqApkUDDSU+p55dhy8Zh2JafQUWU=;v//FyAaZ9usAnErlI+m2Qg=="
+secured: "uUihoJl8KA4zK1EeKpnG9r6bsfNWcbxIOKCX5bJIe3Q91e4fUVizxrpaGxd8Mag00VUCdiG4SpXxy+qIV5g+3X10ttf7IM9u7HsFUWpv/buxtMLPAYLeSLRMxDQyBfGRiogitI0bbyqQjEMsiv8yLJyBc7JCCk8c9WhRvowbcOXQMdHg3svQ1NiFqkpASPvBqSoULnG0uMSYvmIdaYKIiwFUhbRzaB0Xt1h8t6y39D1cDFgna7Va7BikNNkuEjjvh72/EZxBDN5lK1y1TFpzUvKfTwMNzSKKMw2hoeblJp0s4XjySGhTru2w6UMnX1FnbhfofTkn5We6WBd0gDr+b9hLS9YyxkJj2GILpgB6PkU=;1HpnZDDx1BY3zbFnQe64Eg=="
 ---
 
