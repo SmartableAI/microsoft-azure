@@ -327,19 +327,19 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
-  - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
-    publishedDateTime: 2021-06-30T14:35:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
+  - title: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+    excerpt: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud."
+    publishedDateTime: 2021-06-30T15:14:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-86842df143e2d4a16f1a97b01b7f5657"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Associated Press
+      domain: apnews.com
     quality: 12
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
-        width: 944
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "WlVMFy8Zh8r2882jTYaRtRqeeYj68FyKq5TRwGwyrWEFOYIz2+6xiyGW0LNaL4Bvy3lr0YHKZXdT8NAfJr3fu1AtVW0dr+oB/FjVY2vGYenHU5MPSM94CuPlP2nQoF0x76VB5PgxXaZo15zlIVo2UG5j84eZ/GVBrRPqj7xl32bYJvgxzxjtoVToJPEO7Ut9bv/c4sx6PgbU+mQVLgKgPbg9CZ6mXUosDjMu9S5dKjQNWOwMfgG8ZLDN4ZdH8WpSj/ySbm7JGYhyE/GgYox9ts9r546/RS7Xpazv+uu9JcA1OWlXT3PAbZjC6i54qDvCgpDfEsLjkp8+X2BcniajZDKzLIRfyeFmA6nW2OTQSdLaJRXKzFmGjWtt321P4uDanIBcmXaWB2SEEzx3mG6bmQepJO6rSTx2npioGq33GPb7kth83hqnxBHUwd2g9y9tX4O+FqbsQrfEDfUO263/P9e2PYJ6pEWtkuCwlfThOI+CWoGWHj8B2lbUGtVX7+NF7NDlpVE5qeekXsfpjMaclA==;XEzILGLxRWSBt37RqXHR0A=="
