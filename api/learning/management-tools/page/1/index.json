@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2021-07-01T09:24:20-07:00",
-      "heat": 153,
+      "heat": 187,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/4v9_6duE25s/maxresdefault.jpg",
@@ -83,7 +83,7 @@
             ]
           },
           "publishedDateTime": "2021-07-01T09:24:20-07:00",
-          "heat": 153,
+          "heat": 187,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/4v9_6duE25s/maxresdefault.jpg",
@@ -161,7 +161,7 @@
             ]
           },
           "publishedDateTime": "2021-06-17T09:07:35-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/bSjGzCtFXZA/maxresdefault.jpg",
@@ -322,8 +322,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 5336,
-        "average": 4.7428784
+        "count": 5338,
+        "average": 4.7429748
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -447,8 +447,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 260,
-        "average": 4.75
+        "count": 261,
+        "average": 4.7471266
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -720,8 +720,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-vm-with-azure-bastion/",
       "length": "PT40M",
       "ratings": {
-        "count": 1736,
-        "average": 4.7580647
+        "count": 1737,
+        "average": 4.758204
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1031,6 +1031,45 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series.md",
+      "title": "How to get started with Azure Arc | Azure Portal Series",
+      "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to get started with Azure Arc offerings in the Microsoft Azure portal. You will learn what Azure Arc is and how to easily add, view, and manage your hybrid, edge, or multi-cloud resources from Azure.     Try out these features in the Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-azure-arc-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=pF0-KbgxUOQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pF0-KbgxUOQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M4S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-05-10T08:40:11-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pF0-KbgxUOQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-manage-virtual-machine-connectivity-with-the-azure-portal-azure-portal-series.md",
       "title": "How to manage virtual machine connectivity with the Azure Portal | Azure Portal Series",
       "excerpt": "In this video of the Azure Portal \"How To\" series, learn how to easily manage virtual machine connectivity through the Azure Portal. You’ll learn how to manage virtual machine network security groups for virtual network subnets and virtual machines.    Try out these features in the Azure portal: https://portal.azure.com/",
@@ -1293,45 +1332,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/nqqVEISjSGE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-build-a-graph-and-use-links-in-azure-workbooks.md",
-      "title": "How to build a graph and use links in Azure Workbooks",
-      "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to create a hive cluster in Microsoft Azure workbooks for high-density views and how to use links in workbooks to show other workbooks or to reference Azure portal blades.    - Try out these features in the Azure portal: https://portal.azure.com",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-build-a-graph-and-use-links-in-azure-workbooks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-build-a-graph-and-use-links-in-azure-workbooks/",
-      "originalUrl": "https://youtube.com/watch?v=ODHczGpGmEQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ODHczGpGmEQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M20S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-06-10T09:09:17-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ODHczGpGmEQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
