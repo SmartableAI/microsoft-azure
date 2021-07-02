@@ -1031,6 +1031,51 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-authenticate-azure-deployment-pipeline-service-principals.md",
+      "title": "Authenticate your Azure deployment pipeline by using service principals",
+      "excerpt": "Learn how to create, manage, and grant permissions to service principals, which enable your deployment pipelines to securely authenticate to Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-authenticate-azure-deployment-pipeline-service-principals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-azure-deployment-pipeline-service-principals/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 1,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-java-app-enable-authentication-authorization.md",
       "title": "Sign in users with Azure Active Directory in a Java web app",
       "excerpt": "Learn how to authenticate users with Azure Active Directory and get authorized access to data in a Java web app using Microsoft Authentication Library.",
@@ -1581,49 +1626,6 @@
         "Identity",
         "Management Tools",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-microsoft-365-apps-for-enterprise.md",
-      "title": "Deploy Microsoft 365 Apps for enterprise",
-      "excerpt": "Deploy Microsoft 365 Apps for enterprise",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-microsoft-365-apps-for-enterprise/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-microsoft-365-apps-for-enterprise/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 11,
-        "average": 4.6363635
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],

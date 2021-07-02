@@ -4,7 +4,7 @@ excerpt: "Learn how to migrate resources to Azure, how to provide site recovery 
 type: collection
 price: Free
 length: PT6H36M
-heat: 72
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,7 @@ levels:
 items:
   - courses/microsoft-learn-design-your-migration-to-azure
   - courses/microsoft-learn-protect-on-premises-infrastructure-with-azure-site-recovery
+  - courses/microsoft-learn-design-your-site-recovery-solution-in-azure
   - courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery
   - courses/microsoft-learn-protect-virtual-machines-with-azure-backup
   - courses/microsoft-learn-backup-restore-azure-sql

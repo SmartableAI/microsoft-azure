@@ -23,6 +23,7 @@ items:
   - courses/microsoft-learn-implement-message-workflows-with-service-bus
   - courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage
   - courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs
+  - courses/microsoft-learn-react-to-state-changes-using-event-grid
 
 topics:
   - Azure

@@ -274,8 +274,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
       "length": "PT1H27M",
       "ratings": {
-        "count": 4119,
-        "average": 4.7652345
+        "count": 4120,
+        "average": 4.765291
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1609,8 +1609,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
       "length": "PT22M",
       "ratings": {
-        "count": 2199,
-        "average": 4.7289677
+        "count": 2200,
+        "average": 4.7290907
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1686,14 +1686,14 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-automate-deployments-github-actions-azure.md",
-      "title": "Architect full-stack applications and automate deployments with GitHub",
-      "excerpt": "In the language of your choice (Node.js, Python, or .NET), deploy an end-to-end solution to solve the real-world scenario of catching the bus. You'll learn how to architect a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-deployments-github-actions-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-deployments-github-actions-azure/",
-      "length": "PT44M",
+      "path": "_learning/courses/microsoft-learn-authenticate-azure-deployment-pipeline-service-principals.md",
+      "title": "Authenticate your Azure deployment pipeline by using service principals",
+      "excerpt": "Learn how to create, manage, and grant permissions to service principals, which enable your deployment pipelines to securely authenticate to Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-authenticate-azure-deployment-pipeline-service-principals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-azure-deployment-pipeline-service-principals/",
+      "length": "PT34M",
       "ratings": {
-        "count": 9,
+        "count": 1,
         "average": 5.0
       },
       "provider": {
@@ -1712,21 +1712,22 @@
         "Intermediate"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases",
-        "Compute",
-        "Serverless",
-        "IoT",
-        "Blockchain",
-        "Integration",
-        "Web",
-        "Containers",
-        "Mobile",
-        "DevOps"
+        "Identity",
+        "DevOps",
+        "Management Tools"
       ]
     }
   ],
