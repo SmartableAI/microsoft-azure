@@ -1,18 +1,18 @@
 ---
 category: news
-title: "OAGs Flight Info API now available in the Microsoft Azure Marketplace"
-excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-publishedDateTime: 2021-06-28T12:00:00Z
-originalUrl: "https://www.financialbuzz.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/"
-webUrl: "https://www.financialbuzz.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/"
+title: "OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
+excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and ..."
+publishedDateTime: 2021-06-28T13:11:00Z
+originalUrl: "https://www.businesswireindia.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace-73729.html"
+webUrl: "https://www.businesswireindia.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace-73729.html"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - Azure
@@ -226,6 +226,6 @@ related:
       domain: telecompaper.com
     quality: 23
 
-secured: "uUihoJl8KA4zK1EeKpnG9r6bsfNWcbxIOKCX5bJIe3Q91e4fUVizxrpaGxd8Mag00VUCdiG4SpXxy+qIV5g+3X10ttf7IM9u7HsFUWpv/buxtMLPAYLeSLRMxDQyBfGRiogitI0bbyqQjEMsiv8yLJyBc7JCCk8c9WhRvowbcOXQMdHg3svQ1NiFqkpASPvBqSoULnG0uMSYvmIdaYKIiwFUhbRzaB0Xt1h8t6y39D1cDFgna7Va7BikNNkuEjjvh72/EZxBDN5lK1y1TFpzUvKfTwMNzSKKMw2hoeblJp0s4XjySGhTru2w6UMnX1FnbhfofTkn5We6WBd0gDr+b9hLS9YyxkJj2GILpgB6PkU=;1HpnZDDx1BY3zbFnQe64Eg=="
+secured: "q0hENnRLs7GyI1fTnmH1Z3H0+Y/lPAEHMh3YOkZ2yRGqWjIZ84dynmvw9j8zVJpzwKWvOH4BQFTWB0HNphjczzHYkkAkN/M2Sim9ZBjm717Ix9GcnpVv7zElVwNKPMz+706SuJrha9V6fMuMuYhXDS9ucBypB0NwW1OVJiI/aaPRtGcPk3Qg5oA4c2JXQmNJcvo4STyTt04FdAGhKsOWbnRJ+WOOBdthw0QGZZmchDSsm1lovZUbFH9yVoUfg+PrtZS19gSIrAMZ4zMUEx4aTmhXvajoBnqbxCdaLQRJHPJcb7/BmvWNYNqFqOTvaqYIWCUDr/Kwm61bAGXRa0ZAtj2fInc4iEuJZ2A2+O4+FAQ=;7zbl9guM6+z/EeiiDkV6zg=="
 ---
 

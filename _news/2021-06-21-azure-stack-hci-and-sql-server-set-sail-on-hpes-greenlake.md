@@ -217,14 +217,14 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 23
-  - title: "OAGs Flight Info API now available in the Microsoft Azure Marketplace"
-    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-    publishedDateTime: 2021-06-28T12:00:00Z
-    webUrl: "https://www.financialbuzz.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/"
+  - title: "OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
+    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and ..."
+    publishedDateTime: 2021-06-28T13:11:00Z
+    webUrl: "https://www.businesswireindia.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace-73729.html"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: Business Wire
+      domain: businesswireindia.com
     quality: 17
 
 secured: "5XUcz8pbb+MMc9Fj8hRK1AoMl9gouBYEi9xQiacu2s6Gj38LV4KJNUmGGKTFu3FFvBJgFLjo4E+2jdWJ9FwN3ZvWlJXQBx7tQ4M1jQuHml5B2obUqwlNkXs72KFW91FeKOM+EuKMJ+G8eQdfP7kdtu8nue/h/3PnQHyHoMBfi/MDUvC9ZRN+UGWMzdd9J6hUbbysUfxv8hCHIizGzQDQ9HkH2VzP8J3QcBiBZpoxEkRyD211/TJPdVFmwMes0iz5ahaPC6KjCiuNaz+unmvHaU3vZ6Ggl+qDcrrr3vHjF1uwDs6IY9OgGKrFn+x/ghXutwIg/ayzWC156iujT4FwaZZOpL63S7BWIdk+QWvGDds=;CHLuldCfrPLzlb9XQqJTYg=="
