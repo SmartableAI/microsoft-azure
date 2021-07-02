@@ -190,6 +190,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
+    excerpt: "Teradata (NYSE: TDC), the connected multi-cloud data platform company, today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft Azure."
+    publishedDateTime: 2021-06-29T13:37:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/teradata-enhances-cloud-offerings-on-microsoft-azure/article_debda10b-78bc-53d8-9a1a-24f3ecd87adc.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft, AT&T 5G Deal Gives Azure Telecom Cloud A Boost"
     excerpt: "Microsoft's Azure for Operators cloud is set to expand with a new deal to acquire AT&T Network Cloud and engineering and lifecycle management software."
     publishedDateTime: 2021-06-30T17:44:00Z
@@ -275,15 +289,6 @@ related:
     excerpt: "DataDx ®, business intelligence for independent medical and dental practices, today announced the availability of its state-of-the art dashboard with real-time analytics reporting in the Microsoft ( News - Alert) Azure Marketplace,"
     publishedDateTime: 2021-06-28T13:05:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-datadx-version-20-now-available-the-microsoft-azure-/2021/06/28/9398746.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-  - title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
-    excerpt: "Teradata (NYSE: TDC), the connected multi-cloud data platform company, today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft (News - Alert) Azure."
-    publishedDateTime: 2021-06-29T13:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-teradata-enhances-cloud-offerings-microsoft-azure-/2021/06/29/9399809.htm"
     type: article
     provider:
       name: TMCnet

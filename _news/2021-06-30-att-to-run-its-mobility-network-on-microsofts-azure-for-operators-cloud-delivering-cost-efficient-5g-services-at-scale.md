@@ -203,6 +203,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
+    excerpt: "Teradata (NYSE: TDC), the connected multi-cloud data platform company, today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft Azure."
+    publishedDateTime: 2021-06-29T13:37:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/teradata-enhances-cloud-offerings-on-microsoft-azure/article_debda10b-78bc-53d8-9a1a-24f3ecd87adc.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft, AT&T 5G Deal Gives Azure Telecom Cloud A Boost"
     excerpt: "Microsoft's Azure for Operators cloud is set to expand with a new deal to acquire AT&T Network Cloud and engineering and lifecycle management software."
     publishedDateTime: 2021-06-30T17:44:00Z
@@ -294,15 +308,6 @@ related:
       domain: tmcnet.com
     quality: 17
   - title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
-    excerpt: "Teradata (NYSE: TDC), the connected multi-cloud data platform company, today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft (News - Alert) Azure."
-    publishedDateTime: 2021-06-29T13:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-teradata-enhances-cloud-offerings-microsoft-azure-/2021/06/29/9399809.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-  - title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
     excerpt: "Teradata today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft Azure."
     publishedDateTime: 2021-06-29T17:00:00Z
     webUrl: "https://www.businesswire.com/news/home/20210629005193/en/Teradata-Enhances-Cloud-Offerings-on-Microsoft-Azure"
@@ -321,6 +326,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "IzxOnry0FszCvOVV4FniSELj3OC5hcd/5G1kZV4RlnVuChB1lbrsYdhS/xLgvBuFbuBom5UX3DAqsTitJZRTPFtnc90wLUe6RI0j7mEqGZ0tHfF0GaPa+O6HlHYcms/uM0OPwnDaWFMZRjwBkljzncEQdDoqDLV211vBKuA55RddCS8lkBEHZHCjjlHDfiw7y3NjPC5ESpSHtqocXOGnCXPgBMk8MIjsk9jP0gcJsOM/1J5rgooNS/uYo/lXU5seqIbEMgg4QoCmO4J4cJNq880WsokuWdN76DhFPM9NzBvp6TEaMTUirKUdih2E9vuJPoZvOg2jHxdmbhXX6BnO7nuDRDN6ozu+7JwaDTNea1k=;yZs00ogGK8jbIKF7nl0bvA=="
+secured: "+CTsslmVjw2VfuJy7hHZC41yiG0pKm0yqnD+GQUn3mGWGtm7KwuFe+QqU9dAEH+w1j2d6W/Sdu8FJ/3mpjWhhdzT4xo4ToRB6Owx5+geQe/S7PGpOBUSroM9SzDWKvTpNpYIr/dATMj2RJAzv//J5q5FfUG78Eahi2UHNpXffQXYqdHzvgy0PvWWGAm8fgcbk6U0Qj1lGWyDEjm0Na0I0QlnM7dEAjYbpe8WmCcp0KJXlY7EoE6ycuZBomgSk+LSOXdYkVADLW35ZhUhXVgq58yj/Ca/gqR02yEpf2FUmHhZk7NrCH4Ey1sMk2AH/YLv4/hYysEPcvbOi7pZIIbriRTmHXn0vUcMUuFviFxkxlY=;FcX5v6Yw9o4iQDZsoKbhOw=="
 ---
 
