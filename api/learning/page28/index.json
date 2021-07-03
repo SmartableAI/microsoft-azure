@@ -4,44 +4,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_learning/videos/microsoft-prepare-your-cloud-environments-using-azure-landing-zones-azure-friday.md",
-      "title": "Prepare your cloud environments using Azure landing zones | Azure Friday",
-      "excerpt": "Brian Blanchard joins Scott Hanselman to discuss Azure landing zones and how you can prepare your destination Azure environment—not only to receive migrating applications, but also to balance agility, governance, and security considerations.  0:00 - Overview 0:38 - What is an Azure landing zone? 5:05",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-prepare-your-cloud-environments-using-azure-landing-zones-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-prepare-your-cloud-environments-using-azure-landing-zones-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=p8HZbJ8odkE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p8HZbJ8odkE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M31S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-14T09:02:11-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/p8HZbJ8odkE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-real-time-streaming-now-faster-easier-with-confluent-cloud-on-azure-azure-friday.md",
       "title": "Real-time streaming now faster, easier with Confluent Cloud on Azure | Azure Friday",
       "excerpt": "Ramya Oruganti shows Scott Hanselman how much faster and easier it is to provision Confluent Cloud resources directly from Azure.  Ramya also shows a real-time search use case demo that leverages Azure Database for MySQL, RediSearch, Azure Spring Cloud, and Confluent Cloud on Azure.  0:00 – Introduction",
@@ -2736,7 +2698,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3717,8 +3679,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
           "length": "PT48M",
           "ratings": {
-            "count": 2239,
-            "average": 4.788745
+            "count": 2240,
+            "average": 4.7888393
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3760,8 +3722,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-mariadb-mysql-postgresql-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 2537,
-            "average": 4.767048
+            "count": 2538,
+            "average": 4.7671394
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4108,6 +4070,141 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-protect-public-sector-data-in-azure.md",
+      "title": "Protect public sector data in Azure",
+      "excerpt": "Learn to design conceptual architecture for data classifications using data residency for Microsoft 365 and Dynamics 365 services while utilizing Azure regions and Customer lockbox. Manage breach notifications in Service Trust Portal and Azure Security Center. And encrypt data throughout its lifecycle.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-protect-public-sector-data-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-protect-public-sector-data-in-azure/",
+      "length": "PT41M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-design-secure-environment-government.md",
+          "title": "Design cloud solutions for the public sector",
+          "excerpt": "Introduction to the stakes and options for implementing Azure to safeguard public sector data.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-secure-environment-government/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-secure-environment-government/",
+          "length": "PT15M",
+          "ratings": {
+            "count": 13,
+            "average": 4.6923075
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-encrypt-sector-data.md",
+          "title": "Encrypt public sector data in Azure",
+          "excerpt": "Overview of the options available for managing encryption keys and encrypting data throughout its lifecycle, with special attention to public sector.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-encrypt-sector-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/encrypt-sector-data/",
+          "length": "PT26M",
+          "ratings": {
+            "count": 10,
+            "average": 4.8
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security",
+            "Networking",
+            "Identity",
+            "Storage",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "IoT",
+        "Identity",
+        "Security",
+        "DevOps"
       ]
     }
   ],
