@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/new-azure-confidential-v
 webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-confidential-virtual-machines-sgx/"
 type: article
 quality: 67
-heat: 88
+heat: 87
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/advancing-safe-deployment-with-ai
 webUrl: "https://azure.microsoft.com/blog/advancing-safe-deployment-with-aiops-introducing-gandalf/"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:
