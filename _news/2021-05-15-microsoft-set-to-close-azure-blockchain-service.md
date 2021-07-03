@@ -408,6 +408,20 @@ related:
         width: 400
         height: 250
         isCached: true
+  - title: "AT&T Is Moving Its 5G Cloud Network to Microsoft’s Azure"
+    excerpt: "AT&T Inc. is enlisting Microsoft Corp. to run its next-generation mobile network, a key win in the race by cloud companies to lock down largeclients."
+    publishedDateTime: 2021-06-30T15:57:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-30/at-t-agrees-to-outsource-its-5g-network-to-microsoft-s-azure"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 77
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaeiKH24bDoo/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "PUBG Mobile parent inks deal to host game on Microsoft Azure cloud"
     excerpt: "Microsoft’s cloud service will host products “directly operated” by Krafton and its subsidiary companies, including PUBG Mobile, the popular battle royale mobile game which was banned by the Indian government two months ago."
     publishedDateTime: 2020-11-07T08:53:00Z

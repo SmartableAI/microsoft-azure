@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
-publishedDateTime: 2021-06-30T14:35:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
+excerpt: "This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core, the software at the ..."
+publishedDateTime: 2021-06-30T14:36:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
+webUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
-    width: 944
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg?p=facebook"
+    width: 2700
+    height: 1414
     isCached: true
 
 related:
@@ -342,6 +342,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "r3Xe24dF1Wz1Mr1s3H7TqyJBttN8XX1TvjX0Z9oR4CCmiHPN/egTfBWkyy0XyWg2PzR+imfAtA6gNyd86MlEnq/+Iqgc86sdlQGiFsl6l9YDBZrlGZ8ZMAs310hLM5mgVkNF5Gwuvjg72y5vkDtE9o7e6lv7SSpaOWI1cYALWHXmhgiRIDWqcBLrndcuiGGzxz4lFWrKDhvh55mjbeMWLcMGEHOuW02L4jnYI+dHhn3NpStGAy+9knUCHWx+FKnA4wWiVQz1afqQ5p12+h53HMUFpMG4UkDEMhvSyH802j+/E4kDeopWCwbKqf0RXQZSLCnzTRWMxp0HxeyaP1/aAf56xJlQSPzYFoEDWyyMWpMz1JwfyNhzbnenvONu6tdrYUOm2uKSmi9dLM4PHyOnQvm0LFDxshk8bzfoaYwe0qf8LxMiOh+5Ukqn8fDkwlJWBw1kY/hbk36hdZqFUv8MdI4fxV11hJEvD3r0DdOEXQyFn5Li29EzGLR64wLHZmjAyPITa3BLHrEYGz/RjGE7qw==;Xa7C4Ec7LlgVYbKyhjb4qg=="
+secured: "DrLwsoP9qHekPaxAO8tkPjWQWSy2uH0/+v1ucgQzLnQYaYh0Be8qP9DjVEkXh3fxAgcSqISL6ENOwSkJcwOrN/HwKrZuqao5pVokhW41uX2BAMt26FQillU2dmNLRulv1jFLSrI8gTfFCMXYB/O5Jf3ieB2DItK5kn4bzeGwivrqyDX/HnoALtzn7wryQ1cSGBu9qHwIltE8s1Kaer/9fsXJsXEBy2uFAEa/4OsKNoW+u9R0XekHbNzUgX2h22TlIv9JBSN6lXOFWupxPGv0dJual9mQDNdeY3fu8MxI4Cop3Y8bifWk5IqY8oCZtC/0AD5kUsJQJL08UgCwMeVS0SQn4i8a98ynZazNDz142Cw=;2mAsSpBd32yUbp0gDL0dmA=="
 ---
 

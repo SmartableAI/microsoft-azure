@@ -332,18 +332,18 @@ related:
       domain: businesswire.com
     quality: 15
   - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
-    publishedDateTime: 2021-06-30T14:35:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
+    excerpt: "This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core, the software at the ..."
+    publishedDateTime: 2021-06-30T14:36:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 12
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
-        width: 944
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
 
 secured: "jdTujJrdEW/uN2QbWxsIRTSbuG6i3Gl2Q734+8AxruX+rRAes96KLreGG11LTDDbpgpHoW0Q4xCE8S1+31KAejmqpSUInlVFIzWOn+X8tfJ97/cNa3SxiZGy1Erju5Tugau5w99b//e1663pyp9QPTZKQxbFzuGuxeEYMD/djg5rrp9W7UZBj0iIlIonczzdhRaeLrCwTbqS0Qp2aJCWzzQ4PFxw/l1Gh2eyWk+n9latC8myGxMXx8ZY7SdZpkWnmbVnZDJW/xN7Vxl4FtHuTAfz/y+bfQArW5YZhGIQLumSfk+1F9C3B7/jNKvbUI/DA1/x+nXNclmXsG+d2VgayBX+8Ba0gO+1z3yNbGK059vPcWckmgW7Hrf6tYZG6SHnq/ZfT7+b42miqOla24LN2bEIndRh3Zfz6IvFXJx3VvQANjXTh2Jm83Ru8A+J4FrUTn/Q+PUnQrlOsVCtTsNNhtd+ctR525qsc6LHnoADmzAaUUHByHofmTod7FP6HgWQMlN1PAQxOtyDgg7+L+PBgg==;GFyTZyXATT5h3MkkISew9w=="

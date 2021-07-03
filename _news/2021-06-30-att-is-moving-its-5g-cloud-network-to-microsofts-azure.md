@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365"
-excerpt: "A recent Microsoft Azure outage has taken down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft is currently investigating the issue, noting that a recent change to an authentication system may be the culprit of the issues."
-publishedDateTime: 2021-03-15T21:35:00Z
-originalUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365"
-webUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365"
-ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
-cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
+title: "AT&T Is Moving Its 5G Cloud Network to Microsoft’s Azure"
+excerpt: "AT&T Inc. is enlisting Microsoft Corp. to run its next-generation mobile network, a key win in the race by cloud companies to lock down largeclients."
+publishedDateTime: 2021-06-30T15:57:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-06-30/at-t-agrees-to-outsource-its-5g-network-to-microsoft-s-azure"
+webUrl: "https://www.bloomberg.com/news/articles/2021-06-30/at-t-agrees-to-outsource-its-5g-network-to-microsoft-s-azure"
 type: article
-quality: 57
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/02/microsoft-azure-hero.jpg"
-    width: 800
-    height: 450
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaeiKH24bDoo/v1/1200x800.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -419,20 +421,6 @@ related:
         width: 400
         height: 250
         isCached: true
-  - title: "AT&T Is Moving Its 5G Cloud Network to Microsoft’s Azure"
-    excerpt: "AT&T Inc. is enlisting Microsoft Corp. to run its next-generation mobile network, a key win in the race by cloud companies to lock down largeclients."
-    publishedDateTime: 2021-06-30T15:57:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-06-30/at-t-agrees-to-outsource-its-5g-network-to-microsoft-s-azure"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 77
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaeiKH24bDoo/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "PUBG Mobile parent inks deal to host game on Microsoft Azure cloud"
     excerpt: "Microsoft’s cloud service will host products “directly operated” by Krafton and its subsidiary companies, including PUBG Mobile, the popular battle royale mobile game which was banned by the Indian government two months ago."
     publishedDateTime: 2020-11-07T08:53:00Z
@@ -600,6 +588,22 @@ related:
         isCached: true
   - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365 [Update]"
     excerpt: "A recent Microsoft Azure outage took down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft noted that a recent change to an authentication system was the culprit of the issues. Microsoft rolled out an update that ..."
+    publishedDateTime: 2021-03-15T21:35:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 57
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/02/microsoft-azure-hero.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365"
+    excerpt: "A recent Microsoft Azure outage has taken down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft is currently investigating the issue, noting that a recent change to an authentication system may be the culprit of the issues."
     publishedDateTime: 2021-03-15T21:35:00Z
     webUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365"
     ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
@@ -2125,6 +2129,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "56OwnBWmGKf0o4mi23NqSw3VKwzyh6yi7s+gxlQVnd8SkZ76vh7neNZEs68DJnMeNCg6m2+FJoSHVmsImjGdXja5Q8BtfcxZL/GBKceHvTWyWO36006AcTUNQIrFlKei8e3+EvaQM6R6jMVGq3n4BmjgDHIibTyi0igzG/l9lTTk8ee00Up38S8yU6qAfSgpiTbYITmslnDot9p7T4HqJBkgawJKdD4reN0usCSyX7eSniMxC/9VyL6GooGQC2q05VBEsQvUB5LWeRpVhfTSQXPbgILdaP1+4ncCWCW5mkVjjdcSyIOKahQVx/uO2OSECbqC+E7SSReTvluhCxhVLKfCJA2ykO4Hp0LPpvrn27oH3QeR1e0HqylBZmpfArFOJ3yYIpjuUQf7c51dJqIo3QCVmx8lBTuzsxLdlb/OKIH7bOe/oUo5AXW6eB2GnwColp+sUIhuRjxYYjZC9GmUcLcyDD3sz/t/5Hk+0A6Xy0KmRVI/O3C/K5jYH4y6Ao1z2YR2vCBACs/0V7ZTMvQbCg==;wzcnh8e+3jC87qq+LjyZ2Q=="
+secured: "+0hIi64ZU2dNA3b294X1zlzZ6d6TC56O4s14qh/uiyVBg1lQNAjhg8UcRdQTIlBrUh2eS9QSSzlSy/tuXgShJ1+6hry5qh6I2nMjC9ReEkeI+Pl19uhZGkYi7BQxyV6f98xva5zo9CDfOz/Yv/+hfyy7Krd6MScBVgLUT/g+pzkCtHEz7kJEWtXTXAxVsSJWEw4Ttwrtbs74cB6Gs09fsW53CvK5vG32z/JX1SKT0a9CYkYGxh0Wx7Z6+KCJsyKBvvLXp5LbmYc0GHjxcuynYoYLM9RDQxIKi09kAbkuQ3q9aqoeejMOLBGuEHJkUi/2m9Y8eWAQ3htRKzTCuovI1/WzsiptHzRYpFA7ErDwEuI=;fRduA7MsZh0Ih4OiMeMuDA=="
 ---
 

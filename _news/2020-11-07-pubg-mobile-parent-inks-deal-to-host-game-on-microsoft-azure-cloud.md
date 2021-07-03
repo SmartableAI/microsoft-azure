@@ -420,6 +420,20 @@ related:
         width: 400
         height: 250
         isCached: true
+  - title: "AT&T Is Moving Its 5G Cloud Network to Microsoft’s Azure"
+    excerpt: "AT&T Inc. is enlisting Microsoft Corp. to run its next-generation mobile network, a key win in the race by cloud companies to lock down largeclients."
+    publishedDateTime: 2021-06-30T15:57:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-30/at-t-agrees-to-outsource-its-5g-network-to-microsoft-s-azure"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 77
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaeiKH24bDoo/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft's Azure SDK site tricked into listing fake package"
     excerpt: "A security researcher was able to add a counterfeit test package to the official list of Microsoft Azure SDK latest releases. The simple trick if abused by an attacker can give off the impression that their malicious package is part of the Azure SDK suite."
     publishedDateTime: 2021-03-17T09:01:00Z

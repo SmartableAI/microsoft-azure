@@ -327,18 +327,18 @@ related:
       domain: businesswire.com
     quality: 15
   - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
-    publishedDateTime: 2021-06-30T14:35:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
+    excerpt: "This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core, the software at the ..."
+    publishedDateTime: 2021-06-30T14:36:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 12
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
-        width: 944
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
 
 secured: "uznDVCqNCgfmSVbTh+UGUDEpR8EEFJhHugQj6kFYy8DkWgmCGS7Q7PjhU03Gk79A2LKouG+EQblQ8tcefmcqR9MUEUcJHjqw6tjY5nuL8Ug8VwhlZMZGgfIggpLzIDhDLAxpVVX5Zg3duWWcWcmoJJD+/DvplH4Av0XjxYuuWgk8bJniVHDK38XgLWq12bALxTh2G4V/D2NGkO7hcu+LSAt4IxCl4rAKryJyCpLS00ZXwleevNHjNkXe/hsOQBcFnA7AgecV1DX7vUSZ168l0b6cJGftK2IoQKzgU1T2GL34+rvzhEKY+DJ0ZayxIb52KlebDCAJp55T7FlG9xsuYeFQvsgL1WNrufRBacE2pGQ=;esNbOCmwhnNb0gsJb8uEzQ=="
