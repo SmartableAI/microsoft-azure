@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-excerpt: "This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core, the software at the ..."
-publishedDateTime: 2021-06-30T14:36:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
-webUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
+excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
+publishedDateTime: 2021-06-30T14:35:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
+    width: 944
+    height: 630
     isCached: true
 
 related:
@@ -62,6 +62,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 94
+  - title: "Microsoft bolsters Azure with AT&T 5G deal and security collaboration"
+    excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure."
+    publishedDateTime: 2021-07-01T10:31:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360068/microsoft-azure-5g-att-security-mitre"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 94
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1584968476/itpro/2020/03/Microsoft%20Azure_Shutterstock.jpg"
+        width: 375
+        height: 210
+        isCached: true
   - title: "Why Microsoft's AT&T Contract Could Have 'Measurable Impact' On Azure Cloud Revenue"
     excerpt: "Although Microsoft Corporation (NASDAQ: MSFT) is playing catch-up with its cloud rival Amazon, Inc.'s (NASDAQ: AMZN) AWS, the software giant is slowly and steadily making strong inroads, according to"
     publishedDateTime: 2021-07-01T19:07:00Z
@@ -100,20 +114,6 @@ related:
       - url: "https://oddslifenetstorage.blob.core.windows.net/sbcnews/2021/07/shutterstock_497818927-1.jpg"
         width: 660
         height: 330
-        isCached: true
-  - title: "Microsoft bolsters Azure with AT&T 5G deal and security collaboration"
-    excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure. As part of its deal with MITRE,"
-    publishedDateTime: 2021-07-01T15:35:00Z
-    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9148/microsoft-bolsters-azure-with-att-5g-deal-and-security"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/03/shutterstock_1621610047.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Indian Girl Gets Over Rs 22 Lakh Bounty For Spotting Bug in Microsoft’s Azure Cloud System"
     excerpt: "Aditi Singh has received a bounty of $30,000 (roughly over Rs 22 lakh) from Microsoft/ Notably, it was 2 months back itself that Aditi had spotted the RCE bug in Microsoft Azure. She even informed the company about the bug but didn’t get any kind of response as the company was busy checking if anyone had downloaded the insecure version of the system."
@@ -342,6 +342,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "DrLwsoP9qHekPaxAO8tkPjWQWSy2uH0/+v1ucgQzLnQYaYh0Be8qP9DjVEkXh3fxAgcSqISL6ENOwSkJcwOrN/HwKrZuqao5pVokhW41uX2BAMt26FQillU2dmNLRulv1jFLSrI8gTfFCMXYB/O5Jf3ieB2DItK5kn4bzeGwivrqyDX/HnoALtzn7wryQ1cSGBu9qHwIltE8s1Kaer/9fsXJsXEBy2uFAEa/4OsKNoW+u9R0XekHbNzUgX2h22TlIv9JBSN6lXOFWupxPGv0dJual9mQDNdeY3fu8MxI4Cop3Y8bifWk5IqY8oCZtC/0AD5kUsJQJL08UgCwMeVS0SQn4i8a98ynZazNDz142Cw=;2mAsSpBd32yUbp0gDL0dmA=="
+secured: "pLvRYn4yN7CWnOY2Nf4uW3Fg+CH5V+ycVMmyzlFnC9ACanDqm7KkTsgN9VAKOYfKuT/kCA1s6+xoBfMjxIYbzRCJhE8reoOhY9py7ZkqfUnjs9TJbi4LvMTxECdV7ZkGY/dLgfLKPfmnRbfP7sZwf1/PMBFAxjaptBroHBXlNmr2zPHqhEjWb4YT3d4rf+CMKyPA0WLkQ8qIGRzlwWaiOEu2A17Lo0d+PgmqXZ9fPVz748/PMQBmh88Ng9pH4EaZQAiO/KomuBU2Ae1MbbPL+ZvBhTqiKQUHb14w0C5b4LnSJQMAJlrtb1I78dyxSoIOlvJBveYecYUdtUOy/SUg02oitCUm0afobAmo5T74nTE=;y4v/U3AYJBT/GPIARbVfKQ=="
 ---
 

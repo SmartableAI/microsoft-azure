@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Microsoft bolsters Azure with AT&T 5G deal and security collaboration"
-excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure. As part of its deal with MITRE,"
-publishedDateTime: 2021-07-01T15:35:00Z
-originalUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9148/microsoft-bolsters-azure-with-att-5g-deal-and-security"
-webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9148/microsoft-bolsters-azure-with-att-5g-deal-and-security"
+excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure."
+publishedDateTime: 2021-07-01T10:31:00Z
+originalUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360068/microsoft-azure-5g-att-security-mitre"
+webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360068/microsoft-azure-5g-att-security-mitre"
 type: article
-quality: 54
+quality: 94
 heat: -1
 published: false
 
 provider:
-  name: Cloud Pro
-  domain: cloudpro.co.uk
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Security
 
 images:
-  - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/03/shutterstock_1621610047.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1584968476/itpro/2020/03/Microsoft%20Azure_Shutterstock.jpg"
+    width: 375
+    height: 210
     isCached: true
 
 related:
@@ -329,20 +333,20 @@ related:
       domain: businesswire.com
     quality: 15
   - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core, the software at the ..."
-    publishedDateTime: 2021-06-30T14:36:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
+    publishedDateTime: 2021-06-30T14:35:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 12
     images:
-      - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
         isCached: true
 
-secured: "9maCn622mjS1pTKtv0LF90JCGl7fGuWiv/SjuDMwoEE7Ly5L4l66/ygpuJRM5E0kqPmeie43CbxUVuOyuSQpnm5eVIFoqMK7+R7Fk8TUto3qFx22rrY7wyBfqJ6JeTkLP+pVQD41PM1Z9tCxm9HGxA8/9ZEg1SwHzBdzQjhvRSHIzVIARAp64MrfwW+FX9lzCG6E6UAZL4LxsCzRE8n7TzOibNXNl1MHECZGUgIR46/woGjyqvGnAj4sQIzHDn9TT+jn0LCj+dBQeg7ozrhyDGURDOMf6yBEmLCrRXUBDqamBozpQ7uXejcGzpHhAQXE3Z02d5kgJgLMYY3sBnEd+Bo4UEokezTujDZErzVlt78=;xbPjnvlCqujIznvFhLZ/iw=="
+secured: "7XymcZDIfPceT6m14ExrUM5CVZgiqxhEW+h1cVu6YThNYj3M9g3Lu3j/bNIjPa+vtbdIy34X6CQJhK6iIX2b2Lf6WcLfhBbKh9Reyp46iCDoQgf6ZyEpa33eBpPxnu8OM/XtRT7kB5Fax1BZqAbgodBb2+feseIK7f+QgUdGdSC+upKc3SBNQv4PuLCliSQj187C7Uqq0xDgGx34TOOiPh59hz+MT+P5H8cOVH1Dg4Zj4sRS/Jr9z/s5a5F/WJQGej1MqY8XSNIFCirZz9B/Z+r2eBh1NvYdcmrlUp2RWII5O9SHE7QOTmEkMM/GYX8stk8qoLlhtIfPVx57BrpIXnYiCQEB/8HUsOrR8FMkV3k=;mw5n+RggEYk24ksfHRExlA=="
 ---
 

@@ -64,6 +64,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 94
+  - title: "Microsoft bolsters Azure with AT&T 5G deal and security collaboration"
+    excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure."
+    publishedDateTime: 2021-07-01T10:31:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360068/microsoft-azure-5g-att-security-mitre"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 94
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1584968476/itpro/2020/03/Microsoft%20Azure_Shutterstock.jpg"
+        width: 375
+        height: 210
+        isCached: true
   - title: "Why Microsoft's AT&T Contract Could Have 'Measurable Impact' On Azure Cloud Revenue"
     excerpt: "Although Microsoft Corporation (NASDAQ: MSFT) is playing catch-up with its cloud rival Amazon, Inc.'s (NASDAQ: AMZN) AWS, the software giant is slowly and steadily making strong inroads, according to"
     publishedDateTime: 2021-07-01T19:07:00Z
@@ -87,20 +101,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 59
-  - title: "Microsoft bolsters Azure with AT&T 5G deal and security collaboration"
-    excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure. As part of its deal with MITRE,"
-    publishedDateTime: 2021-07-01T15:35:00Z
-    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9148/microsoft-bolsters-azure-with-att-5g-deal-and-security"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/03/shutterstock_1621610047.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Indian Girl Gets Over Rs 22 Lakh Bounty For Spotting Bug in Microsoft’s Azure Cloud System"
     excerpt: "Aditi Singh has received a bounty of $30,000 (roughly over Rs 22 lakh) from Microsoft/ Notably, it was 2 months back itself that Aditi had spotted the RCE bug in Microsoft Azure. She even informed the company about the bug but didn’t get any kind of response as the company was busy checking if anyone had downloaded the insecure version of the system."
     publishedDateTime: 2021-06-29T10:07:00Z
@@ -328,18 +328,18 @@ related:
       domain: businesswire.com
     quality: 15
   - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core, the software at the ..."
-    publishedDateTime: 2021-06-30T14:36:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
+    publishedDateTime: 2021-06-30T14:35:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 12
     images:
-      - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
         isCached: true
 
 secured: "DPutI67U6JEuJjVi392l5mDefzWsvI5BUibyGnLhRS2wDR/HgiqYk6Yz/LU6ebGXiGounzZBhCj1dwG1X3p+ltMcnzDDz5d8OBsOVcs7QLG5NeD021IX8AelERrRKar7Ntv16OoQGgpQD00z1E8VCu4w4K1x3JqRTsUeein766oE0G5zO/UiXjo5g9C5KiHdwahiE0wxlKqw5DFHgXGdOdLpbhm5an3M6ii0+OJbYCI1TpZNF2n1gl8fHw5Md6YIwz9ikjKk8iIKRYNLQvBLz0A7PRrjY24lev62XZREo3T5l6xWc5S/C1lLgQzN9SMjXWXMPWEdXLST4TuhWPEjfI0fTex15WSzoikH+69U4lA=;i5D0d/NkA74yc+Rti4EgjQ=="

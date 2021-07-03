@@ -1529,6 +1529,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AT&T hands 5G core to Microsoft Azure"
+    excerpt: "Microsoft is acquiring AT&T’s Network Cloud business as part of a new deal that will see Azure handle all of AT&T’s 5G traffic Back in 2019, Microsoft and AT&T announced a $2 billion partnership that would focus on AI, 5G, and the shifting network ..."
+    publishedDateTime: 2021-07-01T12:38:00Z
+    webUrl: "https://www.totaltele.com/510166/ATT-hands-5G-core-to-Microsoft-Azure"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 37
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/at&t.jpg"
+        width: 467
+        height: 467
+        isCached: true
   - title: "AT&T is moving its 5G cloud network to Microsoft’s Azure"
     excerpt: "AT&T is enlisting Microsoft to run its next-generation mobile network, a key win in the race by cloud companies to lock down large clients."
     publishedDateTime: 2021-06-30T23:57:00Z
@@ -2129,6 +2143,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "+0hIi64ZU2dNA3b294X1zlzZ6d6TC56O4s14qh/uiyVBg1lQNAjhg8UcRdQTIlBrUh2eS9QSSzlSy/tuXgShJ1+6hry5qh6I2nMjC9ReEkeI+Pl19uhZGkYi7BQxyV6f98xva5zo9CDfOz/Yv/+hfyy7Krd6MScBVgLUT/g+pzkCtHEz7kJEWtXTXAxVsSJWEw4Ttwrtbs74cB6Gs09fsW53CvK5vG32z/JX1SKT0a9CYkYGxh0Wx7Z6+KCJsyKBvvLXp5LbmYc0GHjxcuynYoYLM9RDQxIKi09kAbkuQ3q9aqoeejMOLBGuEHJkUi/2m9Y8eWAQ3htRKzTCuovI1/WzsiptHzRYpFA7ErDwEuI=;fRduA7MsZh0Ih4OiMeMuDA=="
+secured: "U7SgaKEak8HudhtNxsq0cKGClpXtqvU+SnzsoUk9lf/47NGcZp9ZprniTqaW+tLWVYcvnErlziMAcqmUb36R8gXja1HPwsSeeDCfjnK6ivOrpZAiFGDtBEA80SmAKs9ijHdpGPQ1XYE2Vr/DkA8ZZGxSyBzGIuzBmZre8Yd0txCOXWTD3gj1n6FrZXDsC2gpCfsTevwLhK3gZjwMERZInqYvL8FxKWwx4Tz45qjZzL7w/f9xIc+XJEvh1d1vla8UjS6dB9I+gwFrtt9JmVFx+vvzyJfPp10MQpO+GYcwSKxVnbEHYV32kI1sc5Oth30sdiC8mXI8F3m6463sVT48oiShSFeVB45mjmMFclzTTsyX1Pc409kiDPGTTKtRoEJKlMmea2oFXLgYmopGkLY8Q00bl/AoUfkCottV5U1WJMGH05HB4Z4unVbExjqe4rYO63114CnOnQB5g9hvqZZpez34BcVyjFqxIFuZgqepGuRr6G+r/iUCi2CChtrf0YRTT296YfqOm51CPCCGuFaStA==;7vPB4yE2fc79eYM39dCBDw=="
 ---
 

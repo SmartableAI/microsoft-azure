@@ -1,33 +1,26 @@
 ---
 category: news
-title: "Azure Defender for Storage powered by Microsoft threat intelligence"
-excerpt: "With the reality of working from home, more people and devices are now accessing corporate data across home networks."
-publishedDateTime: 2021-03-10T09:00:09Z
-originalUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
-webUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
+title: "AT&T hands 5G core to Microsoft Azure"
+excerpt: "Microsoft is acquiring AT&T’s Network Cloud business as part of a new deal that will see Azure handle all of AT&T’s 5G traffic Back in 2019, Microsoft and AT&T announced a $2 billion partnership that would focus on AI, 5G, and the shifting network ..."
+publishedDateTime: 2021-07-01T12:38:00Z
+originalUrl: "https://www.totaltele.com/510166/ATT-hands-5G-core-to-Microsoft-Azure"
+webUrl: "https://www.totaltele.com/510166/ATT-hands-5G-core-to-Microsoft-Azure"
 type: article
-quality: 108
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Total Telecom
+  domain: totaltele.com
 
 topics:
   - Azure
-  - Storage
-  - Management tools
-  - Security
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/44c1e7a8-71f7-41e6-86dd-64ff16caee11.png"
-    width: 713
-    height: 439
+  - url: "https://www.totaltele.com/res/image/tech%20stuff/at&t.jpg"
+    width: 467
+    height: 467
     isCached: true
 
 related:
@@ -62,6 +55,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/2FExrMAYEyCeJ37tztx2X6-480-80.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
+    excerpt: "With the reality of working from home, more people and devices are now accessing corporate data across home networks."
+    publishedDateTime: 2021-03-10T09:00:09Z
+    webUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 108
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/44c1e7a8-71f7-41e6-86dd-64ff16caee11.png"
+        width: 713
+        height: 439
         isCached: true
   - title: "13 ways Microsoft Azure beats AWS"
     excerpt: "From Visual Studio integration to powerful machine learning APIs, you have more than a dozen reasons to choose Azure over AWS"
@@ -1532,20 +1539,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AT&T hands 5G core to Microsoft Azure"
-    excerpt: "Microsoft is acquiring AT&T’s Network Cloud business as part of a new deal that will see Azure handle all of AT&T’s 5G traffic Back in 2019, Microsoft and AT&T announced a $2 billion partnership that would focus on AI, 5G, and the shifting network ..."
-    publishedDateTime: 2021-07-01T12:38:00Z
-    webUrl: "https://www.totaltele.com/510166/ATT-hands-5G-core-to-Microsoft-Azure"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 37
-    images:
-      - url: "https://www.totaltele.com/res/image/tech%20stuff/at&t.jpg"
-        width: 467
-        height: 467
-        isCached: true
   - title: "AT&T is moving its 5G cloud network to Microsoft’s Azure"
     excerpt: "AT&T is enlisting Microsoft to run its next-generation mobile network, a key win in the race by cloud companies to lock down large clients."
     publishedDateTime: 2021-06-30T23:57:00Z
@@ -2146,6 +2139,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "Ag3FtxjKx0lmC+tC0f8C0X9hl8g59tbHelesdhn7wBE1z0FWy6EBrclmsKwG2/SWKFzLrJMLCxTjbrM+h+L5PXpT6o4MTpd6rGkGq6azif9vWTdFtu4LHzM7ap573+aUzd7W8xrWEYazHoWN5O8SUG5zFLz0ofyHrXncAwHmo2tu1v8UObcsXQQU/vU5Ox+5DQ31HD5QMAdgKCs1U6hwNw0lhPjOtOXtWw62IzoO2zJ1acGsgimW4BlGlyqh4nm9agB7WQZ8y9QE1QuWavne7P7TeCMnPpgIjkZ7fWByWPyGtQ0/BA8/02ERzrGwmkxT74asdAn1DrbaKDz6pYD8Hd5fFXngNKTW1yOQziho2OM=;WHEtrYjOg3t69Et3DnIDKw=="
+secured: "e8ia56C1xfo27jhA2MxN/p1OVKEIieDvt3i1oNjc8mBZQ6vpOU114RT9yP6HFh2Dl3vAZDTwSSM7hvb003rcco+HnNWpd28Ezz2nuQpXTakxJl0euDCK4JXewm9yTVOLoHo3tlxBSACaS6uRxzxPYyC80KA7FwhTemfbKBL1NEGeVy5kLpzUzXGyo+edXG/Ef64F7mXV2vqPsWBwuL/J9C72GxVsIkzqHbxFsgBms9dvUjPUUKxY2RmY7n82761RZjiArk8nTPF0229GMBqgjMiMhJIZd9umNqS3MykKeomPQqc8mStdQr/O/zPDNHoerY9cR/xfADN3r47CpXioqrvfnk51CK917vjlrhyYCjU=;CCJOqJKaPEf35epEe3WOfw=="
 ---
 

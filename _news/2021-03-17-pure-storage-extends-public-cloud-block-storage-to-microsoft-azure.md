@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/pure-storage-extends-public
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
 type: article
 quality: 114
-heat: 3234
+heat: 3254
 published: true
 
 provider:
@@ -1529,6 +1529,20 @@ related:
       - url: "https://redmondmag.com/~/media/ECG/redmondmag/REDlogo.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AT&T hands 5G core to Microsoft Azure"
+    excerpt: "Microsoft is acquiring AT&T’s Network Cloud business as part of a new deal that will see Azure handle all of AT&T’s 5G traffic Back in 2019, Microsoft and AT&T announced a $2 billion partnership that would focus on AI, 5G, and the shifting network ..."
+    publishedDateTime: 2021-07-01T12:38:00Z
+    webUrl: "https://www.totaltele.com/510166/ATT-hands-5G-core-to-Microsoft-Azure"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 37
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/at&t.jpg"
+        width: 467
+        height: 467
         isCached: true
   - title: "AT&T is moving its 5G cloud network to Microsoft’s Azure"
     excerpt: "AT&T is enlisting Microsoft to run its next-generation mobile network, a key win in the race by cloud companies to lock down large clients."
