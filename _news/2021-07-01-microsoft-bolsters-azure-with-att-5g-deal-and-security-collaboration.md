@@ -323,6 +323,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
+  - title: "AT&T to Run Mobility Network on Microsoft’s Azure for Operators"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. The strategic alliance provides a path for all of AT&T’s mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T’s 5G core,"
+    publishedDateTime: 2021-06-30T17:03:00Z
+    webUrl: "https://channelvisionmag.com/att-to-run-mobility-network-on-microsofts-azure-for-operators/"
+    type: article
+    provider:
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
+    quality: 17
   - title: "SingleStore Managed Service Is Now Available in Microsoft Azure Marketplace"
     excerpt: "SingleStore, the world’s fastest unified database for data-intensive applications, today announced that SingleStore Managed Service is available in th"
     publishedDateTime: 2021-06-29T13:00:00Z

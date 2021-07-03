@@ -1,27 +1,21 @@
 ---
 category: news
-title: "OAG Flight Info API now available in Microsoft Azure Marketplace"
-excerpt: "OAG, a leading provider of air travel data and insights, has announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-publishedDateTime: 2021-06-29T04:29:00Z
-originalUrl: "https://www.bernama.com/en/business/news.php?id=1976919"
-webUrl: "https://www.bernama.com/en/business/news.php?id=1976919"
+title: "AT&T to Run Mobility Network on Microsoft’s Azure for Operators"
+excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. The strategic alliance provides a path for all of AT&T’s mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T’s 5G core,"
+publishedDateTime: 2021-06-30T17:03:00Z
+originalUrl: "https://channelvisionmag.com/att-to-run-mobility-network-on-microsofts-azure-for-operators/"
+webUrl: "https://channelvisionmag.com/att-to-run-mobility-network-on-microsofts-azure-for-operators/"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: bernama.com
-  domain: bernama.com
+  name: ChannelVision Magazine
+  domain: channelvisionmag.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.bernama.com/bm/img/bernama.png"
-    width: 2483
-    height: 2942
-    isCached: true
 
 related:
   - title: "Microsoft acquires AT&T networking tech to bolster its Azure for Operators strategy"
@@ -191,6 +185,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "OAG Flight Info API now available in Microsoft Azure Marketplace"
+    excerpt: "OAG, a leading provider of air travel data and insights, has announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+    publishedDateTime: 2021-06-29T04:29:00Z
+    webUrl: "https://www.bernama.com/en/business/news.php?id=1976919"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 37
+    images:
+      - url: "https://www.bernama.com/bm/img/bernama.png"
+        width: 2483
+        height: 2942
+        isCached: true
   - title: "SingleStore Managed Service Arrives on the Microsoft Azure Marketplace"
     excerpt: "SingleStore, a fast unified database for data-intensive applications, announced that SingleStore Managed Service is now available in the Microsoft Azure Marketplace, providing Microsoft customers with an easy way to procure SingleStore technology."
     publishedDateTime: 2021-06-29T16:07:00Z
@@ -318,15 +326,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
-  - title: "AT&T to Run Mobility Network on Microsoft’s Azure for Operators"
-    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. The strategic alliance provides a path for all of AT&T’s mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T’s 5G core,"
-    publishedDateTime: 2021-06-30T17:03:00Z
-    webUrl: "https://channelvisionmag.com/att-to-run-mobility-network-on-microsofts-azure-for-operators/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 17
   - title: "SingleStore Managed Service Is Now Available in Microsoft Azure Marketplace"
     excerpt: "SingleStore, the world’s fastest unified database for data-intensive applications, today announced that SingleStore Managed Service is available in th"
     publishedDateTime: 2021-06-29T13:00:00Z
@@ -351,6 +350,6 @@ related:
         height: 630
         isCached: true
 
-secured: "0jJFqR7qmwuFbOVzjORy4c0+rCgeFvxktbdHrD4E5R7cGcl7qoap5PuI7q/htcYPmF6j0if5lKYHA7XTBLjCJfv1pBmRhSt9fWD7zi08wlrfgIna5fIGk4byZPx/DnG2TmOuzNvBLm8jVGiBzLY1Ge0N7xuM61ydVbz8fb1c8tRxFaiGxnVmtJlyaqm59PbqSVlqTjLOmomgR23gJE00TTnCKLGk/9BjoWYvJwClOyBwjMJuJ6f9OKr+N6fXK0fqY4meKR7aTe4pAkiz6xeL6RffzbtC+jFmYcsWcrQ8h3+vWuV2lGCF1jRsHt9Z57wzmBnmPxKGN+16wk9gw+ea8QbdWt4dR7EKJw/lYOdHEDA=;boA9G5+AUxRS2V+Ehqz2mg=="
+secured: "AqNkNJBefpVZbonrIM3iiX7LCtHpDHoIILsU10gek00OtQG6YPdQrW2f+1XKuraOPIR73G3Z84vPA3ziTBFrwtI6mDI4UX0o26/3P4e6mUgDhMc25yfypDBsqd7aKavCuAm/gekUFropfQzhuwrdNwGHdidPancFUHwXUt9ZuZUWKAMWC9FzwgRRVlwspyqoiBDhsnPy27u4vrQcRDtR1ZfcMD8GgPqCqCaU28rYxz9t1jH5bKWXYG5O44isva0gWgi5Z4S3RO0pnJmhetY6VdWgkNVP51Kvh4s95006C42pdbx76RvHK94PiU5uu0NzmbGPytEc6ZsJYD2MmrmvGQ/V2sW/jmS1YqLKh2EHWjDZYv2ptUXc/zV23Z5wbqZIIEbbvm0QAMGHTcSE/sd9RoDhFjkv4uXsMBawQNrN1Jth+1+tNIjy/czJSa/1wk4ohWqq4dcPrV17JhXGGgivZTv6/WtnO4YOvojMZBQRAxJxp6IRAFf7rLgZgmebeC3biJ9R6rj0/e+VkeUJGGO+Cg==;jQ24gG4mkNzUDNoXq7Rh4A=="
 ---
 

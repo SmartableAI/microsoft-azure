@@ -326,6 +326,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
+  - title: "AT&T to Run Mobility Network on Microsoft’s Azure for Operators"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. The strategic alliance provides a path for all of AT&T’s mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T’s 5G core,"
+    publishedDateTime: 2021-06-30T17:03:00Z
+    webUrl: "https://channelvisionmag.com/att-to-run-mobility-network-on-microsofts-azure-for-operators/"
+    type: article
+    provider:
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
+    quality: 17
   - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
     excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
     publishedDateTime: 2021-06-30T14:35:00Z
