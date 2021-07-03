@@ -4,7 +4,7 @@ excerpt: "Know your data, protect your data, and don't lose your data. These are
 type: collection
 price: Free
 length: PT6H8M
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn

@@ -4,7 +4,7 @@ excerpt: "After completing this learning path, you’ll know how to implement id
 type: collection
 price: Free
 length: PT2H28M
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
