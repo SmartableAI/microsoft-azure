@@ -8,7 +8,7 @@ length: PT49M
 ratings:
   count: 18
   average: 4.888889
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -29,6 +29,6 @@ topics:
   - Storage
   - DevOps
 
-secured: "im3p8QwFNdlsl1utlZLcMwuv+zmHYm3/IU1XKYJ1CQhqCxclFx5P+iDeChzSAmASYLPJq021yOiNfxHKZJYubfPpCnX1DtMf1xuZc1HsAhtlFZ/WQw6FUBAvArKyr4pL+yoOAvdWuSK7nwvtxpVL2M27e+m9KIlCvfWSBDAOvtV7WRQ5G6lFXw83eFb4A3Ue/18+hvRzaiAL8GaeVJ6Fb6sNg1Hv8P5FY+aUGncj8HzbkPx5RwWS2D9mp7v0MAeG27Asow8saiymDMJbLlWFuhhrKe+QidGrdF+krcNqgeU9491YEKIKNd9CdQ9ju3LTu5wPn9cTXQdrYbqy+8Ze5fda/jKGx9JMoKiU9DDoe8AIYgX0gjU6NmyWRlX1RiGnL3ArV+ALhnEcfOX5/1EKPS28FI2lLksb5N+Oq/ntWXE=;QkgMaHGEXbAXV5c5ba83xg=="
+secured: "gvLl585tpDj8g57ELhjf40x438srK/6Z1s6dM7Z0XYFsocdQvAUP5kbIdn0iF/UZkSEbDCpfI7NsUvbnKXyntHOlcc9ReiqsI1HREPFmaU9nbVbql3bxJc1jKOKNplHzHXz1XMEEoztSQQ50wXlwAPjSi6ljuOJPM1j2wCzm9MxZFJXAUDk90bHyiP3IoXZIaLVQduPQqjmyMgXb4HTTAW3muKmI/WXbaoCcrDrmE0keXabIADzZD32ETiMdZ3kqlNy/4nZPEm2YhiS56+O33z//iEOf5h7ucTMfkWX+6M2keotnQnCguEI5+q9694O7mPgNhdqsz7ZxPg+4T98C7X7mA7el5dH9wMVoycZuqKCvhHS6JCo60ZSH7VruXEiJeVmPupbxahcRN7jUWEGBoQ4zxV/fmssznFPY8B2OLZI=;Ikbav/w32uiy3/DS96IgKg=="
 ---
 
