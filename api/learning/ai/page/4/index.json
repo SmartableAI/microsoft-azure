@@ -4,49 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-ai-strategy-in-manufacturing.md",
-      "title": "Define an AI strategy to create business value in manufacturing",
-      "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in manufacturing that creates business value, with INSEAD and Microsoft.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-manufacturing/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-manufacturing/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 827,
-        "average": 4.7605805
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-manufacturing-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-automate-model-selection-with-azure-automl.md",
       "title": "Automate machine learning model selection with Azure Machine Learning",
       "excerpt": "Learn how to use automated machine learning in Azure Machine Learning to find the best model for your data.",
@@ -141,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-knowledge-store-azure-cognitive-search/",
       "length": "PT48M",
       "ratings": {
-        "count": 88,
-        "average": 4.7727275
+        "count": 89,
+        "average": 4.741573
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -483,8 +440,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-anomaly-detector/",
       "length": "PT35M",
       "ratings": {
-        "count": 15,
-        "average": 5.0
+        "count": 16,
+        "average": 4.9375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -507,6 +464,49 @@
           "url": "https://docs.microsoft.com/learn/achievements/anomaly-detector-social.png",
           "width": 1280,
           "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-ml.md",
+      "title": "Introduction to Azure Machine Learning",
+      "excerpt": "Azure Machine Learning provides your software with automated data identification and extraction from your documents. Using an SDK or REST, the AI-powered service decreases, or can completely eliminate, time spent on and errors in data entry, while also making it easier to utilize your data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-ml/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ml/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 8,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -735,8 +735,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
       "length": "PT46M",
       "ratings": {
-        "count": 435,
-        "average": 4.6528735
+        "count": 436,
+        "average": 4.6490827
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1225,8 +1225,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-knowledge-store-azure-cognitive-search/",
           "length": "PT48M",
           "ratings": {
-            "count": 88,
-            "average": 4.7727275
+            "count": 89,
+            "average": 4.741573
           },
           "provider": {
             "name": "Microsoft Learn",

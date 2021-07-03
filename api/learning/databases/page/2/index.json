@@ -4,6 +4,99 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
+      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
+      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 1209,
+        "average": 4.7551694
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases",
+        "Serverless",
+        "Containers",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-backup-restore-azure-sql.md",
+      "title": "Back up and restore your Azure SQL database",
+      "excerpt": "Protect the data in your Azure SQL database and recover from data loss or corruption with backup and restore.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-backup-restore-azure-sql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-azure-sql/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 1014,
+        "average": 4.6656804
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/backup-restore-azure-sql-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api.md",
       "title": "Discover sentiment in text with the Text Analytics API",
       "excerpt": "Learn how to use the Text Analytics API and Azure Functions to discover what your customers are really saying in their feedback about your products or brands.",
@@ -170,8 +263,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 4854,
-        "average": 4.5440874
+        "count": 4855,
+        "average": 4.5441813
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1147,85 +1240,6 @@
         "Databases",
         "Storage",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-use-built-functions-transact-sql.md",
-      "title": "Use built-in functions and GROUP BY in Transact-SQL",
-      "excerpt": "Use built-in functions and GROUP BY in Transact-SQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-built-functions-transact-sql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-built-functions-transact-sql/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 43,
-        "average": 4.9534883
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-with-mutable-and-partial-data-in-a-redis-cache.md",
-      "title": "Work with mutable and partial data in Azure Cache for Redis",
-      "excerpt": "Learn how to create transactions, manage memory, and use the cache-aside pattern with Azure Cache for Redis",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-mutable-and-partial-data-in-a-redis-cache/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-mutable-and-partial-data-in-a-redis-cache/",
-      "length": "PT1H5M",
-      "ratings": {
-        "count": 906,
-        "average": 4.655629
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Databases"
       ]
     }
   ],

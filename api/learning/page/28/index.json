@@ -4,6 +4,83 @@
   "page": 28,
   "value": [
     {
+      "path": "_learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday.md",
+      "title": "Optimizing your storage costs with Azure Blob Storage | Azure Friday",
+      "excerpt": "Klaas Langhout shows Scott Hanselman how to use Azure Blob Storage for a variety of cloud workloads while optimizing costs related to controlling capacity and tier, Premium tier for transaction cost savings, choosing the right redundancy, and routing preference.  0:00 – Introduction 0:52 – Presentation",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=dcSFOxBXxh4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dcSFOxBXxh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M32S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-23T09:00:20-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dcSFOxBXxh4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-prepare-your-cloud-environments-using-azure-landing-zones-azure-friday.md",
+      "title": "Prepare your cloud environments using Azure landing zones | Azure Friday",
+      "excerpt": "Brian Blanchard joins Scott Hanselman to discuss Azure landing zones and how you can prepare your destination Azure environment—not only to receive migrating applications, but also to balance agility, governance, and security considerations.  0:00 - Overview 0:38 - What is an Azure landing zone? 5:05",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-prepare-your-cloud-environments-using-azure-landing-zones-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-prepare-your-cloud-environments-using-azure-landing-zones-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=p8HZbJ8odkE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p8HZbJ8odkE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M31S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-14T09:02:11-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/p8HZbJ8odkE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-real-time-streaming-now-faster-easier-with-confluent-cloud-on-azure-azure-friday.md",
       "title": "Real-time streaming now faster, easier with Confluent Cloud on Azure | Azure Friday",
       "excerpt": "Ramya Oruganti shows Scott Hanselman how much faster and easier it is to provision Confluent Cloud resources directly from Azure.  Ramya also shows a real-time search use case demo that leverages Azure Database for MySQL, RediSearch, Azure Spring Cloud, and Confluent Cloud on Azure.  0:00 – Introduction",
@@ -1651,7 +1728,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/protect-data-in-transit-and-at-rest-social.png",
@@ -2024,8 +2101,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-knowledge-store-azure-cognitive-search/",
           "length": "PT48M",
           "ratings": {
-            "count": 88,
-            "average": 4.7727275
+            "count": 89,
+            "average": 4.741573
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2507,8 +2584,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10882,
-            "average": 4.680298
+            "count": 10883,
+            "average": 4.680327
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2698,7 +2775,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3679,8 +3756,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
           "length": "PT48M",
           "ratings": {
-            "count": 2240,
-            "average": 4.7888393
+            "count": 2241,
+            "average": 4.7889333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3941,270 +4018,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-process-and-translate-text-with-azure-cognitive-services.md",
-      "title": "Process and translate text with Azure Cognitive Services",
-      "excerpt": "Process and translate text with Azure Cognitive Services",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-process-and-translate-text-with-azure-cognitive-services/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-process-and-translate-text-with-azure-cognitive-services/",
-      "length": "PT1H48M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-extract-insights-text-with-text-analytics-service.md",
-          "title": "Extract insights from text with the Text Analytics service",
-          "excerpt": "Extract insights from text with the Text Analytics service",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-extract-insights-text-with-text-analytics-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-insights-text-with-text-analytics-service/",
-          "length": "PT57M",
-          "ratings": {
-            "count": 3,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-translate-text-with-translator-service.md",
-          "title": "Translate text with the Translator service",
-          "excerpt": "Translate text with the Translator service",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-text-with-translator-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translator-service/",
-          "length": "PT51M",
-          "ratings": {
-            "count": 3,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-protect-public-sector-data-in-azure.md",
-      "title": "Protect public sector data in Azure",
-      "excerpt": "Learn to design conceptual architecture for data classifications using data residency for Microsoft 365 and Dynamics 365 services while utilizing Azure regions and Customer lockbox. Manage breach notifications in Service Trust Portal and Azure Security Center. And encrypt data throughout its lifecycle.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-protect-public-sector-data-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-protect-public-sector-data-in-azure/",
-      "length": "PT41M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-design-secure-environment-government.md",
-          "title": "Design cloud solutions for the public sector",
-          "excerpt": "Introduction to the stakes and options for implementing Azure to safeguard public sector data.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-secure-environment-government/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-secure-environment-government/",
-          "length": "PT15M",
-          "ratings": {
-            "count": 13,
-            "average": 4.6923075
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-encrypt-sector-data.md",
-          "title": "Encrypt public sector data in Azure",
-          "excerpt": "Overview of the options available for managing encryption keys and encrypting data throughout its lifecycle, with special attention to public sector.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-encrypt-sector-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/encrypt-sector-data/",
-          "length": "PT26M",
-          "ratings": {
-            "count": 10,
-            "average": 4.8
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security",
-            "Networking",
-            "Identity",
-            "Storage",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "IoT",
-        "Identity",
-        "Security",
-        "DevOps"
       ]
     }
   ],

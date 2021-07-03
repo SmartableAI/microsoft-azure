@@ -4,206 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-build-and-operate-machine-learning-solutions-with-azure-machine-learning.md",
-      "title": "Build and operate machine learning solutions with Azure Machine Learning",
-      "excerpt": "Build and operate machine learning solutions with Azure Machine Learning",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-and-operate-machine-learning-solutions-with-azure-machine-learning/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-and-operate-machine-learning-solutions-with-azure-machine-learning/",
-      "length": "PT10H11M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
-          "title": "Introduction to the Azure Machine Learning SDK",
-          "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-machine-learning-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 3096,
-            "average": 4.645349
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Developer tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-train-local-model-with-azure-mls.md",
-          "title": "Train a machine learning model with Azure Machine Learning",
-          "excerpt": "Learn how to use Azure Machine Learning to train a model and register it in a workspace.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-local-model-with-azure-mls/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 118,
-            "average": 4.584746
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/train-local-model-with-azure-mls-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-work-with-data-in-aml.md",
-          "title": "Work with Data in Azure Machine Learning",
-          "excerpt": "Learn how to work with datastores and datasets in Azure Machine Learning.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-data-in-aml/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 1252,
-            "average": 4.657348
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
-          "title": "Work with Compute in Azure Machine Learning",
-          "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 1104,
-            "average": 4.6721015
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-discover-ways-to-foster-an-ai-ready-culture-in-your-business.md",
       "title": "Discover ways to foster an AI-ready culture in your business",
       "excerpt": "Learn AI solutions to implement based upon organization maturity and a framework to drive the key changes that are necessary to become an AI-ready organization.",
@@ -425,8 +225,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 1975,
-        "average": 4.737215
+        "count": 1976,
+        "average": 4.737348
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -468,8 +268,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 1649,
-        "average": 4.678593
+        "count": 1650,
+        "average": 4.6787877
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -769,8 +569,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
       "length": "PT28M",
       "ratings": {
-        "count": 2186,
-        "average": 4.68344
+        "count": 2187,
+        "average": 4.6835847
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -812,8 +612,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 1835,
-        "average": 4.7100816
+        "count": 1836,
+        "average": 4.71024
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -890,8 +690,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/",
       "length": "PT24M",
       "ratings": {
-        "count": 1499,
-        "average": 4.715811
+        "count": 1500,
+        "average": 4.716
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1195,8 +995,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-faces-with-computer-vision/",
           "length": "PT53M",
           "ratings": {
-            "count": 1611,
-            "average": 4.66108
+            "count": 1612,
+            "average": 4.66129
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1527,8 +1327,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/investigate-container-for-use-cognitive-services/",
           "length": "PT46M",
           "ratings": {
-            "count": 37,
-            "average": 4.675676
+            "count": 38,
+            "average": 4.6842103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1592,8 +1392,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
       "length": "PT24M",
       "ratings": {
-        "count": 1620,
-        "average": 4.7024693
+        "count": 1621,
+        "average": 4.7026525
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1850,8 +1650,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-text-with-azure-content-moderator/",
       "length": "PT31M",
       "ratings": {
-        "count": 2322,
-        "average": 4.677433
+        "count": 2323,
+        "average": 4.6775723
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2075,8 +1875,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-text-with-azure-content-moderator/",
           "length": "PT31M",
           "ratings": {
-            "count": 2322,
-            "average": 4.677433
+            "count": 2323,
+            "average": 4.6775723
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2506,6 +2306,50 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-azure-databricks.md",
+      "title": "Describe Azure Databricks",
+      "excerpt": "Describe Azure Databricks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 1027,
+        "average": 4.55112
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
         "AI"
       ]
     }

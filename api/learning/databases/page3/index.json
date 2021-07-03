@@ -4,6 +4,85 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-use-built-functions-transact-sql.md",
+      "title": "Use built-in functions and GROUP BY in Transact-SQL",
+      "excerpt": "Use built-in functions and GROUP BY in Transact-SQL",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-built-functions-transact-sql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-built-functions-transact-sql/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 43,
+        "average": 4.9534883
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-with-mutable-and-partial-data-in-a-redis-cache.md",
+      "title": "Work with mutable and partial data in Azure Cache for Redis",
+      "excerpt": "Learn how to create transactions, manage memory, and use the cache-aside pattern with Azure Cache for Redis",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-mutable-and-partial-data-in-a-redis-cache/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-mutable-and-partial-data-in-a-redis-cache/",
+      "length": "PT1H5M",
+      "ratings": {
+        "count": 906,
+        "average": 4.655629
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-write-subqueries.md",
       "title": "Write Subqueries in T-SQL",
       "excerpt": "Write Subqueries in T-SQL",
@@ -765,7 +844,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/protect-data-in-transit-and-at-rest-social.png",
@@ -1621,8 +1700,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
           "length": "PT48M",
           "ratings": {
-            "count": 2240,
-            "average": 4.7888393
+            "count": 2241,
+            "average": 4.7889333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2347,88 +2426,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-connect-to-postgres-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-foundation-modern-apps.md",
-      "title": "Architect modern applications using Azure SQL Database",
-      "excerpt": "Break down a scenario for an application and build a multi-service solution based on the microservices approach. Learn how to use modern database capabilities to build a foundation for applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-foundation-modern-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-foundation-modern-apps/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 18,
-        "average": 4.888889
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate",
-        "Beginner",
-        "Advanced"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Storage",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-azure-sql-database.md",
-      "title": "Deploy Azure SQL Database",
-      "excerpt": "Provision and deploy Azure SQL Database and SQL Server Managed Instances. Select the appropriate options when performing a migration to the SQL PaaS platform.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-azure-sql-database/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 2240,
-        "average": 4.7888393
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-azure-sql-database-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
