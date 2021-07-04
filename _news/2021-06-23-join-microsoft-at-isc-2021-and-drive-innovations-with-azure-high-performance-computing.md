@@ -104,6 +104,17 @@ related:
         width: 660
         height: 330
         isCached: true
+  - title: "AT&T to move 5G mobile network to Microsoft Azure"
+    excerpt: "In turn, Microsoft will gain access to AT&T’s intellectual property and technical expertise to grow its telecoms flagship offering, Azure for Operators, which is designed to help operators ..."
+    publishedDateTime: 2021-07-02T09:46:00Z
+    webUrl: "https://www.computerweekly.com/news/252503434/ATT-to-move-5G-mobile-network-to-Microsoft-Azure"
+    ampWebUrl: "https://www.computerweekly.com/news/252503434/ATT-to-move-5G-mobile-network-to-Microsoft-Azure?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503434/ATT-to-move-5G-mobile-network-to-Microsoft-Azure?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
   - title: "Indian Girl Gets Over Rs 22 Lakh Bounty For Spotting Bug in Microsoft’s Azure Cloud System"
     excerpt: "Aditi Singh has received a bounty of $30,000 (roughly over Rs 22 lakh) from Microsoft/ Notably, it was 2 months back itself that Aditi had spotted the RCE bug in Microsoft Azure. She even informed the company about the bug but didn’t get any kind of response as the company was busy checking if anyone had downloaded the insecure version of the system."
     publishedDateTime: 2021-06-29T10:07:00Z

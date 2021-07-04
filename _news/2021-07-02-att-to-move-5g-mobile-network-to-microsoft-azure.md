@@ -1,27 +1,24 @@
 ---
 category: news
-title: "Microsoft makes big 5G play as AT&T moves core to Azure cloud"
-excerpt: "Microsoft VP of 5G Strategy Shawn Hakl told Fierce that the combination of gaining a Tier one anchor tenant, along with IP and expertise to incorporate directly into Azure for Operators, is key and unique to the deal."
-publishedDateTime: 2021-06-30T17:11:00Z
-originalUrl: "https://www.fiercewireless.com/5g/microsoft-makes-bigger-5g-play-as-at-t-moves-core-to-azure-cloud"
-webUrl: "https://www.fiercewireless.com/5g/microsoft-makes-bigger-5g-play-as-at-t-moves-core-to-azure-cloud"
+title: "AT&T to move 5G mobile network to Microsoft Azure"
+excerpt: "In turn, Microsoft will gain access to AT&T’s intellectual property and technical expertise to grow its telecoms flagship offering, Azure for Operators, which is designed to help operators ..."
+publishedDateTime: 2021-07-02T09:46:00Z
+originalUrl: "https://www.computerweekly.com/news/252503434/ATT-to-move-5G-mobile-network-to-Microsoft-Azure"
+webUrl: "https://www.computerweekly.com/news/252503434/ATT-to-move-5G-mobile-network-to-Microsoft-Azure"
+ampWebUrl: "https://www.computerweekly.com/news/252503434/ATT-to-move-5G-mobile-network-to-Microsoft-Azure?amp=1"
+cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503434/ATT-to-move-5G-mobile-network-to-Microsoft-Azure?amp=1"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Fierce Wireless
-  domain: fiercewireless.com
+  name: Computer Weekly
+  domain: computerweekly.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://qtxasset.com/fiercewireless/1625073696/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png?SX9t9ysna94JXCELLQtb2nBx_bdHushz"
-    width: 716
-    height: 439
-    isCached: true
+  - Mobile
 
 related:
   - title: "Microsoft acquires AT&T networking tech to bolster its Azure for Operators strategy"
@@ -115,17 +112,6 @@ related:
         width: 660
         height: 330
         isCached: true
-  - title: "AT&T to move 5G mobile network to Microsoft Azure"
-    excerpt: "In turn, Microsoft will gain access to AT&T’s intellectual property and technical expertise to grow its telecoms flagship offering, Azure for Operators, which is designed to help operators ..."
-    publishedDateTime: 2021-07-02T09:46:00Z
-    webUrl: "https://www.computerweekly.com/news/252503434/ATT-to-move-5G-mobile-network-to-Microsoft-Azure"
-    ampWebUrl: "https://www.computerweekly.com/news/252503434/ATT-to-move-5G-mobile-network-to-Microsoft-Azure?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503434/ATT-to-move-5G-mobile-network-to-Microsoft-Azure?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
   - title: "Indian Girl Gets Over Rs 22 Lakh Bounty For Spotting Bug in Microsoft’s Azure Cloud System"
     excerpt: "Aditi Singh has received a bounty of $30,000 (roughly over Rs 22 lakh) from Microsoft/ Notably, it was 2 months back itself that Aditi had spotted the RCE bug in Microsoft Azure. She even informed the company about the bug but didn’t get any kind of response as the company was busy checking if anyone had downloaded the insecure version of the system."
     publishedDateTime: 2021-06-29T10:07:00Z
@@ -258,6 +244,20 @@ related:
         width: 606
         height: 456
         isCached: true
+  - title: "Microsoft makes big 5G play as AT&T moves core to Azure cloud"
+    excerpt: "Microsoft VP of 5G Strategy Shawn Hakl told Fierce that the combination of gaining a Tier one anchor tenant, along with IP and expertise to incorporate directly into Azure for Operators, is key and unique to the deal."
+    publishedDateTime: 2021-06-30T17:11:00Z
+    webUrl: "https://www.fiercewireless.com/5g/microsoft-makes-bigger-5g-play-as-at-t-moves-core-to-azure-cloud"
+    type: article
+    provider:
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 37
+    images:
+      - url: "https://qtxasset.com/fiercewireless/1625073696/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png?SX9t9ysna94JXCELLQtb2nBx_bdHushz"
+        width: 716
+        height: 439
+        isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
     publishedDateTime: 2021-06-23T13:00:00Z
@@ -362,6 +362,6 @@ related:
         height: 630
         isCached: true
 
-secured: "1Dmr1C/v6cgZrMpDMBI1/IwwfIhl8Sp6vHugFrsv3SswrZeMMxdO0cuOr7eBN31iolesnYuJhBTk3sGA4L/mboiV3YgozyjX+mFTn4mIpaZC6h10K4pSD+ASO/rr5mG8jR7PtDhf0MsgA/D9QHYuUa6UdGLc2f5hf0inawwaRF7EA1X/t2P+wSs8BT+lCBuQ+oXaHuq7zeljhqRSUSz9q1QCEdQE8YmN8Px6/Pmch53pIkOogtfO7CL6AmLYcc6nVTX9/Vji8DZTGQAUxOqcSRyguhBjzaNb+wI+bIFmLpWJkJo5irD5pLJ4Ickq1thIPqgSnSSy9Bk5x/suu32U1coPXzFBFQlzRksP9eIJo8gx/PPExZuRzqlZL8/9tBfLSlpl8n1spEKIEufnqp4ykVVmyQI6UIfBo8A87ivGDMrvFruS8Oa0OFy3BCKfb1eMxa/Qjz1CORlxE0N8LVj71Yjj6GnCoorfsOCpKGcoA9PuJhCAJ7xxz0g6XhJ5PnDaYa3lolC7Cm+QvScxBccwtw==;To9Uqnj4BU07M2k1B9ylnQ=="
+secured: "uIBZey0CuNL4h0iDzw0lcz9ssi9sPsyEmLOFhM2UzQk2krSD2O6q1ameKTPtG9zJ4HiSpDFIMKfrfRylpepI65oWAx/+bZv8sGYfTqsCRvyWKwTTFTKGxMyowjD3cXgqIAbfc4HEmfKSqDzkR63ATTFR3yW4Fbd7a9sy4b7JOvbSEAeM9oLDZ5G3PRG99kDb43e25WbL5iUzQgUzRiUvLYOuU+Axf3wE8pHIL+IiMbvR+5evTX2SQYKbSuHW/dM4PVhh0M5TH5XmIIZ6hLFFWGRuZSMTNw70P64S1vW2jrhFL8bZNZYCepd4h0JVlzyF1sFzKwIixxyWC0lzDu01kg2JtH3UXP71MHySNm1TCL4=;//6cmHe0Ji84IAZb43S2mA=="
 ---
 

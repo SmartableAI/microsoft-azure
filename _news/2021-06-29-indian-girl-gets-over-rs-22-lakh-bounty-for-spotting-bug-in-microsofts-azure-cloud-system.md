@@ -117,6 +117,17 @@ related:
         width: 660
         height: 330
         isCached: true
+  - title: "AT&T to move 5G mobile network to Microsoft Azure"
+    excerpt: "In turn, Microsoft will gain access to AT&T’s intellectual property and technical expertise to grow its telecoms flagship offering, Azure for Operators, which is designed to help operators ..."
+    publishedDateTime: 2021-07-02T09:46:00Z
+    webUrl: "https://www.computerweekly.com/news/252503434/ATT-to-move-5G-mobile-network-to-Microsoft-Azure"
+    ampWebUrl: "https://www.computerweekly.com/news/252503434/ATT-to-move-5G-mobile-network-to-Microsoft-Azure?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503434/ATT-to-move-5G-mobile-network-to-Microsoft-Azure?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
   - title: "Extreme Networks taps up Microsoft Azure to provide UK customers with locally hosted cloud service"
     excerpt: "Extreme Networks is making a locally hosted version of its ExtremeCloud IQ cloud management platform available to its UK customer base with the help of Microsoft Azure’s London-based datacentre ..."
     publishedDateTime: 2021-06-24T12:50:00Z
