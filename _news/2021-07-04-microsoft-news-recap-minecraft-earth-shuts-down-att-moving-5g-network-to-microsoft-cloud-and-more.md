@@ -1,31 +1,26 @@
 ---
 category: news
-title: "Microsoft bolsters Azure with AT&T 5G deal and security collaboration"
-excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure."
-publishedDateTime: 2021-07-01T10:31:00Z
-originalUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360068/microsoft-azure-5g-att-security-mitre"
-webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360068/microsoft-azure-5g-att-security-mitre"
+title: "Microsoft news recap: Minecraft Earth shuts down, AT&T moving 5G network to Microsoft cloud, and more"
+excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
+publishedDateTime: 2021-07-04T15:10:00Z
+originalUrl: "https://www.onmsft.com/news/microsoft-news-recap-minecraft-earth-shutting-down-att-moving-5g-network-to-microsoft-cloud-and-more"
+webUrl: "https://www.onmsft.com/news/microsoft-news-recap-minecraft-earth-shutting-down-att-moving-5g-network-to-microsoft-cloud-and-more"
 type: article
-quality: 94
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: On MSFT
+  domain: onmsft.com
 
 topics:
   - Azure
-  - Security
 
 images:
-  - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1584968476/itpro/2020/03/Microsoft%20Azure_Shutterstock.jpg"
-    width: 375
-    height: 210
+  - url: "https://www.onmsft.com/wp-content/uploads/2018/07/IMG_3343.HEIC_-e1530628658367.jpeg"
+    width: 1365
+    height: 768
     isCached: true
 
 related:
@@ -67,6 +62,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 94
+  - title: "Microsoft bolsters Azure with AT&T 5G deal and security collaboration"
+    excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure."
+    publishedDateTime: 2021-07-01T10:31:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360068/microsoft-azure-5g-att-security-mitre"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 94
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1584968476/itpro/2020/03/Microsoft%20Azure_Shutterstock.jpg"
+        width: 375
+        height: 210
+        isCached: true
   - title: "Why Microsoft's AT&T Contract Could Have 'Measurable Impact' On Azure Cloud Revenue"
     excerpt: "Although Microsoft Corporation (NASDAQ: MSFT) is playing catch-up with its cloud rival Amazon, Inc.'s (NASDAQ: AMZN) AWS, the software giant is slowly and steadily making strong inroads, according to"
     publishedDateTime: 2021-07-01T19:07:00Z
@@ -366,21 +375,7 @@ related:
         width: 944
         height: 630
         isCached: true
-  - title: "Microsoft news recap: Minecraft Earth shuts down, AT&T moving 5G network to Microsoft cloud, and more"
-    excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
-    publishedDateTime: 2021-07-04T15:10:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-news-recap-minecraft-earth-shutting-down-att-moving-5g-network-to-microsoft-cloud-and-more"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 7
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2018/07/IMG_3343.HEIC_-e1530628658367.jpeg"
-        width: 1365
-        height: 768
-        isCached: true
 
-secured: "7XymcZDIfPceT6m14ExrUM5CVZgiqxhEW+h1cVu6YThNYj3M9g3Lu3j/bNIjPa+vtbdIy34X6CQJhK6iIX2b2Lf6WcLfhBbKh9Reyp46iCDoQgf6ZyEpa33eBpPxnu8OM/XtRT7kB5Fax1BZqAbgodBb2+feseIK7f+QgUdGdSC+upKc3SBNQv4PuLCliSQj187C7Uqq0xDgGx34TOOiPh59hz+MT+P5H8cOVH1Dg4Zj4sRS/Jr9z/s5a5F/WJQGej1MqY8XSNIFCirZz9B/Z+r2eBh1NvYdcmrlUp2RWII5O9SHE7QOTmEkMM/GYX8stk8qoLlhtIfPVx57BrpIXnYiCQEB/8HUsOrR8FMkV3k=;mw5n+RggEYk24ksfHRExlA=="
+secured: "qt88XaVKlmpTFe6YbiXwVWsdw0zGP8mQhkY1CNBz350LPuvO40TcQTenH8EBgL6VogBUaNmpTAjPcsNhp09F2ZSHoFlRB5THaA76pe+bvdS5N/wjN71o/+wTknU01Yqd0HWEzJ6UFsuaFdXkvw/PS4ld1k/t8Rny2t5CFAYm+5I7rr+b0Zt4QZSLjE1aNRyvGZOS8u47eiyxzVpVitRldt7ruG8Q0AyQvGzqBcBO2m3zORhGdxHLy9PyeCzfjxeJjSoqu6IKGH4Ug0ByKq3wh6DjTUXbPqd/U60BhCu7Nj4V0T2ZAD4Ub1QHQbJasNgp9/Z8GoVMQQzrIhTvz6lHIR18XXGbHt/g8Ehw3TQS9I8=;NQCUHqid8ain1oKlUdKC+w=="
 ---
 

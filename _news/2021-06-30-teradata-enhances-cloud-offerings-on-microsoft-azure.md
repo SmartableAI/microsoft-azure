@@ -360,6 +360,20 @@ related:
         width: 944
         height: 630
         isCached: true
+  - title: "Microsoft news recap: Minecraft Earth shuts down, AT&T moving 5G network to Microsoft cloud, and more"
+    excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
+    publishedDateTime: 2021-07-04T15:10:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-news-recap-minecraft-earth-shutting-down-att-moving-5g-network-to-microsoft-cloud-and-more"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 7
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2018/07/IMG_3343.HEIC_-e1530628658367.jpeg"
+        width: 1365
+        height: 768
+        isCached: true
 
 secured: "uznDVCqNCgfmSVbTh+UGUDEpR8EEFJhHugQj6kFYy8DkWgmCGS7Q7PjhU03Gk79A2LKouG+EQblQ8tcefmcqR9MUEUcJHjqw6tjY5nuL8Ug8VwhlZMZGgfIggpLzIDhDLAxpVVX5Zg3duWWcWcmoJJD+/DvplH4Av0XjxYuuWgk8bJniVHDK38XgLWq12bALxTh2G4V/D2NGkO7hcu+LSAt4IxCl4rAKryJyCpLS00ZXwleevNHjNkXe/hsOQBcFnA7AgecV1DX7vUSZ168l0b6cJGftK2IoQKzgU1T2GL34+rvzhEKY+DJ0ZayxIb52KlebDCAJp55T7FlG9xsuYeFQvsgL1WNrufRBacE2pGQ=;esNbOCmwhnNb0gsJb8uEzQ=="
 ---

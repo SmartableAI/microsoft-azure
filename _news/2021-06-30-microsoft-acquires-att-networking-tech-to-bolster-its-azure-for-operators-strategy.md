@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-acquires-at-t-net
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-acquires-at-t-networking-tech-to-bolster-its-azure-for-operators-strategy/"
 type: article
 quality: 108
-heat: 628
+heat: 648
 published: true
 
 provider:
@@ -365,6 +365,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
         width: 944
         height: 630
+        isCached: true
+  - title: "Microsoft news recap: Minecraft Earth shuts down, AT&T moving 5G network to Microsoft cloud, and more"
+    excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
+    publishedDateTime: 2021-07-04T15:10:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-news-recap-minecraft-earth-shutting-down-att-moving-5g-network-to-microsoft-cloud-and-more"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 7
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2018/07/IMG_3343.HEIC_-e1530628658367.jpeg"
+        width: 1365
+        height: 768
         isCached: true
 
 secured: "gccKvHy/tsoJJYDufsTH8fjy0klg98feprQ5hmBudKECKRXDMMEwOh/qNMx0DclSi76BDELB7Iv7/YgiChZ+SOJ9wYVfYZdC9lP4prPslezIAAfmE2Q6vF8uzLG/WsNLn2RDEpRjiCV5kNCg/VM5Dv3oAH60PPvAIjPWx0GXeiMIq+vEGwTqQOZMq5FWBbpD0rPhp4FPWZdWLK4rjLfQNf+miNqXAp/e/z8O9wOKiZWT97cF0aN3Wzl7Wamo/PlYdzjw7KwFbbY8TNeLqLPqUNZgh8GnWgB36tvQ9IXw+Q9HuamrTVGtrFRuF/4DlGDpRwuThuxiG/HZmrNpGoPVfdnbvBnuH6RKC1WWyvYTu6fFd1xIVu6J39NOgrb8+0X6e5RjNwX+DnJCVtqYTEP5QzeOHhA/Dc2KQ/S1b4JUKe33dhhpXxzxWToPdqv//O4w6UHnLXfm+hXVoWIjNIOfqUIWWpICxpW2tObhQfOQyTQcYJ37BZ+Yks2Mzjue8sEnoZhBvOuaZu6w2MALHaMiag==;LaRc4IF8lQXTKtQP1SBz4w=="
