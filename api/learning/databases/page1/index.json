@@ -73,8 +73,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 18032,
-            "average": 4.7658052
+            "count": 18035,
+            "average": 4.7658443
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -118,8 +118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 14426,
-            "average": 4.638708
+            "count": 14431,
+            "average": 4.638833
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -161,8 +161,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 12699,
-            "average": 4.772502
+            "count": 12700,
+            "average": 4.7725196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -204,8 +204,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 17481,
-            "average": 4.731423
+            "count": 17485,
+            "average": 4.7312555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -276,8 +276,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 17481,
-        "average": 4.731423
+        "count": 17485,
+        "average": 4.7312555
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -382,8 +382,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 826,
-            "average": 4.6852303
+            "count": 827,
+            "average": 4.685611
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -583,8 +583,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12411,
-            "average": 4.76682
+            "count": 12412,
+            "average": 4.7668386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -626,8 +626,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 8003,
-            "average": 4.6762466
+            "count": 8004,
+            "average": 4.6762867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -834,8 +834,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1768,
-            "average": 4.742647
+            "count": 1769,
+            "average": 4.7427926
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -987,6 +987,216 @@
         "Identity",
         "Compute",
         "Migration"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-introduction-to-azure-iot.md",
+      "title": "Introduction to Azure IoT",
+      "excerpt": "Follow this learning path for a broad and compelling introduction to the fundamentals of building IoT solutions with Azure IoT.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduction-to-azure-iot/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduction-to-azure-iot/",
+      "length": "PT5H3M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-enable-digital-transformation.md",
+          "title": "Enabling digital transformation",
+          "excerpt": "Digital transformation is a wave of business innovation fueled by the explosion of technology—data, applications, and devices are everywhere. The cloud, artificial intelligence (AI), and the internet of things (IoT) give organizations new ways to make sense of information and generate insights to transform their business. Realizing the benefits of digital transformation requires business leaders to look beyond technology to reimagine existing business models and embrace a different way of bringing together people, data, and processes to create value for customers.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-digital-transformation/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 9966,
+            "average": 4.6983743
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-iot-strategy-and-solutions.md",
+          "title": "Microsoft Azure IoT strategy and solutions",
+          "excerpt": "This module provides an overview of Azure IoT, and describes Microsoft tools, services, and infrastructure. This knowledge can help bring IoT to life for your organization and customers.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-iot-strategy-and-solutions/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
+          "length": "PT23M",
+          "ratings": {
+            "count": 6517,
+            "average": 4.7373023
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-iot-strategy-and-solutions-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-iot-hub.md",
+          "title": "Introduction to Azure IoT Hub",
+          "excerpt": "University of Oxford",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-hub/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
+          "length": "PT28M",
+          "ratings": {
+            "count": 2051,
+            "average": 4.6879573
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-iot-devices.md",
+          "title": "Learn how to manage IoT devices as an IT admin",
+          "excerpt": "This module is an introduction to the Internet of Things for IT admins.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-iot-devices/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 1364,
+            "average": 4.702346
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Management Tools",
+        "Storage",
+        "Databases",
+        "Integration"
       ]
     },
     {
@@ -1188,8 +1398,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
           "length": "PT59M",
           "ratings": {
-            "count": 1650,
-            "average": 4.5860605
+            "count": 1651,
+            "average": 4.5863113
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1662,12 +1872,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-introduction-to-azure-iot.md",
-      "title": "Introduction to Azure IoT",
-      "excerpt": "Follow this learning path for a broad and compelling introduction to the fundamentals of building IoT solutions with Azure IoT.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduction-to-azure-iot/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduction-to-azure-iot/",
-      "length": "PT5H3M",
+      "path": "_learning/collections/microsoft-learn-get-started-querying-with-transact-sql.md",
+      "title": "Get Started Querying with Transact-SQL",
+      "excerpt": "Get Started Querying with Transact-SQL",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-get-started-querying-with-transact-sql/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-get-started-querying-with-transact-sql/",
+      "length": "PT5H40M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -1681,20 +1891,62 @@
         ]
       },
       "levels": [
-        "Beginner",
-        "Intermediate"
+        "Beginner"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-enable-digital-transformation.md",
-          "title": "Enabling digital transformation",
-          "excerpt": "Digital transformation is a wave of business innovation fueled by the explosion of technology—data, applications, and devices are everywhere. The cloud, artificial intelligence (AI), and the internet of things (IoT) give organizations new ways to make sense of information and generate insights to transform their business. Realizing the benefits of digital transformation requires business leaders to look beyond technology to reimagine existing business models and embrace a different way of bringing together people, data, and processes to create value for customers.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-digital-transformation/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
-          "length": "PT32M",
+          "path": "_learning/courses/microsoft-learn-intro-to-transact-sql.md",
+          "title": "Introduction to Transact-SQL",
+          "excerpt": "Introduction to Transact-SQL",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-transact-sql/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/",
+          "length": "PT56M",
           "ratings": {
-            "count": 9966,
-            "average": 4.6983743
+            "count": 160,
+            "average": 4.75
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-sql-server-and-query-tools-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-query-multiple-tables-with-joins.md",
+          "title": "Combine multiple tables with JOINs in T-SQL",
+          "excerpt": "Combine multiple tables with JOINs in T-SQL",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-query-multiple-tables-with-joins/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-multiple-tables-with-joins/",
+          "length": "PT1H2M",
+          "ratings": {
+            "count": 79,
+            "average": 4.873418
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1714,9 +1966,9 @@
           "heat": 53,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png",
-              "width": 800,
-              "height": 400,
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
               "isCached": true
             }
           ],
@@ -1724,19 +1976,20 @@
           "type": "course",
           "price": "Free",
           "topics": [
-            "Azure"
+            "Azure",
+            "Databases"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-azure-iot-strategy-and-solutions.md",
-          "title": "Microsoft Azure IoT strategy and solutions",
-          "excerpt": "This module provides an overview of Azure IoT, and describes Microsoft tools, services, and infrastructure. This knowledge can help bring IoT to life for your organization and customers.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-iot-strategy-and-solutions/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
-          "length": "PT23M",
+          "path": "_learning/courses/microsoft-learn-write-subqueries.md",
+          "title": "Write Subqueries in T-SQL",
+          "excerpt": "Write Subqueries in T-SQL",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-write-subqueries/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/write-subqueries/",
+          "length": "PT50M",
           "ratings": {
-            "count": 6517,
-            "average": 4.7373023
+            "count": 46,
+            "average": 4.9347825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1756,9 +2009,9 @@
           "heat": 52,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-iot-strategy-and-solutions-social.png",
-              "width": 800,
-              "height": 400,
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
               "isCached": true
             }
           ],
@@ -1767,19 +2020,19 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "IoT"
+            "Databases"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-intro-to-iot-hub.md",
-          "title": "Introduction to Azure IoT Hub",
-          "excerpt": "University of Oxford",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-hub/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
-          "length": "PT28M",
+          "path": "_learning/courses/microsoft-learn-use-built-functions-transact-sql.md",
+          "title": "Use built-in functions and GROUP BY in Transact-SQL",
+          "excerpt": "Use built-in functions and GROUP BY in Transact-SQL",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-built-functions-transact-sql/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-built-functions-transact-sql/",
+          "length": "PT59M",
           "ratings": {
-            "count": 2051,
-            "average": 4.6879573
+            "count": 43,
+            "average": 4.9534883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1796,12 +2049,12 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 51,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png",
-              "width": 800,
-              "height": 400,
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
               "isCached": true
             }
           ],
@@ -1810,52 +2063,17 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "IoT"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-iot-devices.md",
-          "title": "Learn how to manage IoT devices as an IT admin",
-          "excerpt": "This module is an introduction to the Internet of Things for IT admins.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-iot-devices/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 1364,
-            "average": 4.702346
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "IoT"
+            "Databases"
           ]
         }
       ],
-      "size": 8,
-      "heat": 63,
+      "size": 5,
+      "heat": 62,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/explore-sql-server-and-query-tools-social.png",
+          "width": 641,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -1864,11 +2082,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT",
-        "Management Tools",
-        "Storage",
-        "Databases",
-        "Integration"
+        "Databases"
       ]
     },
     {
@@ -1902,8 +2116,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 17481,
-            "average": 4.731423
+            "count": 17485,
+            "average": 4.7312555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2075,220 +2289,6 @@
         "Azure",
         "Databases",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-get-started-querying-with-transact-sql.md",
-      "title": "Get Started Querying with Transact-SQL",
-      "excerpt": "Get Started Querying with Transact-SQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-get-started-querying-with-transact-sql/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-get-started-querying-with-transact-sql/",
-      "length": "PT5H40M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-transact-sql.md",
-          "title": "Introduction to Transact-SQL",
-          "excerpt": "Introduction to Transact-SQL",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-transact-sql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/",
-          "length": "PT56M",
-          "ratings": {
-            "count": 160,
-            "average": 4.75
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-sql-server-and-query-tools-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-query-multiple-tables-with-joins.md",
-          "title": "Combine multiple tables with JOINs in T-SQL",
-          "excerpt": "Combine multiple tables with JOINs in T-SQL",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-query-multiple-tables-with-joins/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-multiple-tables-with-joins/",
-          "length": "PT1H2M",
-          "ratings": {
-            "count": 79,
-            "average": 4.873418
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-write-subqueries.md",
-          "title": "Write Subqueries in T-SQL",
-          "excerpt": "Write Subqueries in T-SQL",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-write-subqueries/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/write-subqueries/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 46,
-            "average": 4.9347825
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-use-built-functions-transact-sql.md",
-          "title": "Use built-in functions and GROUP BY in Transact-SQL",
-          "excerpt": "Use built-in functions and GROUP BY in Transact-SQL",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-built-functions-transact-sql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-built-functions-transact-sql/",
-          "length": "PT59M",
-          "ratings": {
-            "count": 43,
-            "average": 4.9534883
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-sql-server-and-query-tools-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     },
     {
@@ -3637,8 +3637,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/securely-provision-iot-devices-at-scale-with-device-provisioning-service/",
           "length": "PT57M",
           "ratings": {
-            "count": 322,
-            "average": 4.630435
+            "count": 323,
+            "average": 4.628483
           },
           "provider": {
             "name": "Microsoft Learn",
