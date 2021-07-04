@@ -4,7 +4,7 @@ excerpt: "Gaurav Malhotra joins Scott Hanselman to discuss the Azure Data Factor
 originalUrl: https://youtube.com/watch?v=Jw02TtJ1juY
 type: video
 price: Free
-length: PT14M41S
+length: PT14M40S
 publishedDateTime: 2019-02-28T00:54:13Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "l/+LOofph1NGosR8T9co8QRT2AuI7q2NFiT5zBHWQcq9ra0pmkvNIOPcDGIc3t1yysTKs4BLeEKjnP2aT7E5GBc/+Pj887+TLwQN/JbBlf1b0prrZkA6yLkTZsjFFt6B4J8jKjTWNIi9h0xIra/opyTUuhGsj7wZEHCR1e4etq16dipWvcmoWK26Yup3QRNT+5jdaEwnMcWz1Y/XHcg8tF6gtaDasa6+VzwOekf8+4BEJAfj6CHFUEXsuZcmY+slDhu2kvSxv2t5VPiQ/TRP/QqfyQqN1dh657J0s9AthGjMc4LH0aHVb9+LeTfaanlp2MeWRmoBT7aHm1qp6iPSypXWgriTYNk9u/DGX5BTzcMJFDMj6cxrOcBykiqkb5E/H51K9uEzI0LJLq+XTnY1IfOnvrbK8dTQtu46zMhfoDg=;WMq3tfpYMPkBDuBehfhQnw=="
+secured: "1+uDtdZU1rf7Sd4jd15RnHgX1gz1VD3rwL+M2yf9njMIoQAbm01F393fv0UYHJsssFcjG4DdnsZZUKF1QunUM/9ZzhASf7+09iXYfwQhwd+8n51l4LV0EWqY01aoqhvNyXrb2/V4uI6+ctHv5OkmURYgjw5tIsS595ZmaeA0DzS7H7mJcRIzpXvjvHKphey8HJajBrKXGGIdJs5wkrrd1rNfRvUwW66Dl3lW3gFCa3piaJ/9CsIxjjM8IRV/PIdIhwW+mHi33McJo/fCnHKB0Nt+jVwhygdCH+Fg3CAnTs6nmzgtn9V7u8GO3P00X3rHCMIKpM012LH8BrOke+WiZxdd9rKdtCFSBF9j6GhbjXwsln2z8Sy2CWIyhFLyzd9CZcfAN4F1Fhj1GSIRDhwIKFqugHyLL2e2CpWeW1Y4Mc0=;JKPK3u5WbiLBWZWSg5Jrkw=="
 ---
 
