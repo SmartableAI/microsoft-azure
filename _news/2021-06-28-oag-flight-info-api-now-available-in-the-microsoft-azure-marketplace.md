@@ -1,26 +1,26 @@
 ---
 category: news
-title: "OAG’s Flight Info API now available in the Microsoft Azure Marketplace"
-excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-publishedDateTime: 2021-06-28T12:03:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-lifestyle-travel-6c060662c15f4a0db986d89d63a8960a"
-webUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-lifestyle-travel-6c060662c15f4a0db986d89d63a8960a"
+title: "OAG Flight Info API now available in the Microsoft Azure Marketplace"
+excerpt: "OAG , a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace , an online store that provides applications and services for use on Azure."
+publishedDateTime: 2021-06-28T14:10:00Z
+originalUrl: "https://www.pressreleasepoint.com/oag-flight-info-api-now-available-microsoft-azure-marketplace"
+webUrl: "https://www.pressreleasepoint.com/oag-flight-info-api-now-available-microsoft-azure-marketplace"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: KLAS Press Release
+  domain: pressreleasepoint.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
+    width: 256
+    height: 256
     isCached: true
 
 related:
@@ -142,19 +142,19 @@ related:
         width: 609
         height: 457
         isCached: true
-  - title: "OAG Flight Info API now available in the Microsoft Azure Marketplace"
-    excerpt: "OAG , a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace , an online store that provides applications and services for use on Azure."
-    publishedDateTime: 2021-06-28T14:10:00Z
-    webUrl: "https://www.pressreleasepoint.com/oag-flight-info-api-now-available-microsoft-azure-marketplace"
+  - title: "OAG’s Flight Info API now available in the Microsoft Azure Marketplace"
+    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+    publishedDateTime: 2021-06-28T12:03:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-lifestyle-travel-6c060662c15f4a0db986d89d63a8960a"
     type: article
     provider:
-      name: KLAS Press Release
-      domain: pressreleasepoint.com
+      name: Associated Press
+      domain: apnews.com
     quality: 37
     images:
-      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
-        width: 256
-        height: 256
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
     excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
@@ -246,6 +246,6 @@ related:
       domain: telecompaper.com
     quality: 23
 
-secured: "VpOEZA4FKMSM+WjJSkQmhdyApbPcjlD/A/tFNzDtI9CsrM3Gq/78/TV6JOACXb/OAEkcdavf3+dzOUKrVmibPGkosCjcafuHjdXdiptTq4KLRs+s2qGVPyrKvGD8rAJbnEfxuQm8V+e9eAIzLG9hghVQni0Yeiyt4h7pCukXHiTY+ZciiyXlFqtGJQULfkGM3X8M+A3v8JwfBTClzBVFJWYW8OGMOz9GZIrGFFlCg6k9H9v2WZl59Q3SVTPiCiBjmV8IkBhSvPejF611v2ak20jiXq+L4+p3821OISMHy8DSchgGmfP25SMYSKmwsZ+cKOR23PbQ/v3QdCeuBWyOgno3Hgxe1jHXHVdC4daFCTI=;uxRwka7Q0kSJ5GTujQh6KQ=="
+secured: "WdFp3s3Jx+cX9DmlBU4doDd8ufgd4amr1a195mBPaef/scOZgqIxXDpNeGQBlNizGo2tVEXhJ1/RNGfJpy+mpgvKdpAtuotqtitroNP+nEywz4yJ6x8zRLqbbPQf+tzClfNeJOsH3iwt7gS7grj1/mQfFK0g0yPCj2wiJRr0WduUxfEXScqamLHFEBfBwrDmItAxzweuYqFPs1M3ReknI92pM2l/2+qfQJbaNYYZd17Bhd/T4mSkGXgvXx26oqZRUeWOFBJ9rpxYrrPRvK1NN4mPjzPfr7/n2FgIABKonZWoimCfqzFTol2Qx1lG4kz5EzFyEKzRwX/N0Ny7msL0SMLqtYPaR8vFIV/YYLtXVQI=;7VYWZ6y8TMv0MZ4Xjx8HkQ=="
 ---
 

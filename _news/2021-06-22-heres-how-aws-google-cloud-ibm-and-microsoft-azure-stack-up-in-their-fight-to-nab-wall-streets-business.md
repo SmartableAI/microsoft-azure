@@ -132,6 +132,20 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "OAG Flight Info API now available in the Microsoft Azure Marketplace"
+    excerpt: "OAG , a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace , an online store that provides applications and services for use on Azure."
+    publishedDateTime: 2021-06-28T14:10:00Z
+    webUrl: "https://www.pressreleasepoint.com/oag-flight-info-api-now-available-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: KLAS Press Release
+      domain: pressreleasepoint.com
+    quality: 37
+    images:
+      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "OAG’s Flight Info API now available in the Microsoft Azure Marketplace"
     excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
     publishedDateTime: 2021-06-28T12:03:00Z
