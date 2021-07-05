@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft
 webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
 type: article
 quality: 1
-heat: -1
+heat: 1
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "Microsoft, SES demo Azure Cloud for remote missions via secure GovSat service"
-    excerpt: "Microsoft and SES have demonstrated the use of Azure Cloud for remote missions using the secure MilSatCom connectivity. The demonstration also involved GovSat, public-private JV between the Luxembourg government and SES,"
-    publishedDateTime: 2021-07-01T13:15:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-ses-demo-azure-cloud-for-remote-missions-via-secure-govsat-service--1388819"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 14
 
 secured: "rikbuKz7dzST8NLRghe4HY4TIOBibgxH7gme2o+SoVjkXA8fBFdQ4TgzYwlJKrq+f02snJ07rnbI+PfCIa9RXMSMivL7kUZHzuFTgcbDra4z23+py19TyqjC3tP/dLjq7oOwMI+uV+HcH9zcLZO4Wdue8FnDh1/TZObBzNq+b34ap5Mca8YpvXulbe6nMaO/z3LXgARZO1C+lg3deih3M6W2ux3YTnWk9suMGFUDSOVZz74TzN8MHkAX8BQ07dFgyC4a9d7nDMI5ifwelR0uA2nccIijjfzxP9c3gBV87g0e9/wBKH/OMbOxlGgmweXxNdpa6syfc0/5a0J77uN++pI/lddHYt84AtrIjS4OC0hx+cGyhOU+yNtQnh6WeYeSkQ9gXoWXFhW4l1ZFIq3VlB4C5Q/TItCO09mW0gzBCQ/d5IAbepv9vUJHdNj+j8AYIEoMbvocxOfgpADwSWNG7EOcem46QhOwPtuO8w2GyFV2JOR7apQLZhz3wK532alkvcZHuzKGefUxli2oUfPFwA==;SpaRgovmUTW+gJnodWPHgg=="
 ---

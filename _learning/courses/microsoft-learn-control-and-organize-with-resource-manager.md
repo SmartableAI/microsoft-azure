@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT46M
 ratings:
-  count: 43358
-  average: 4.7192445
+  count: 43360
+  average: 4.7192574
 heat: 59
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Management Tools
 
-secured: "X534jUPXJeUGRqFnrAsk79g8JaSNy7TYlc/jPV0oacStJjoLqpQlXENROdotRJCy+eIpzIshwcAaZF74b/46ZRHCSI9IihhVaArNiT3YLZE6MA6h+63cEYEeWleJ7TtrX0Y99YK0epTtp7axSSmct2Zf5El0wC6rOYTwm3Ly/tnrFzZasvy//5GjlsJDeBHWaPyxg5sXVumSOb5Hr8EEL86px8ZoRy0yvg9uX83cZo2g8ZizWK1mp52EpMn1Qa2R67uTRQj9mFDRk8SPlJV4G7B/ISzjHdZh4pkapeeAfsRKCo0sY79v/HOYKLD7r/lRuxaMnU7vw4HtIgmtuK6D0uJ9N+xK8H9IDZFrSddqFZyFLC3od9Q0EMVjwZKtSsWyktPAeLHqQ6QRKg/GvPJJ7+1ex0h3JoGPZP5Uf35XMSMJ6E1CkpJpZliKRLSRYQp0;8L4uzxvmiChmwtOEjPaFhw=="
+secured: "+BhZsUE0WkFdBrJce4KrcxAMiYh9JTULH7rCBzDfh+deQzpV/YrLH6j6A/TPmjAyz+2wKvFwShxwrctxxO+20TtxLBPLjEDZ5KSp+HRHJLQcaQEB0YHPW4YmNE1LDnWmUoqtKjBeyxbZKjZf379aygt9+Uks7weVELZBevzLYEID+x87uaiQ+gYB2gjtpjKpU9ht/5h0H+lGJqdYzXPatdTpvLAG02TJR5vPcPTN9jQXSzVLzBoxzNEjNazP7YuF5YPAoHyV76iE21LJKRLpJTpKR5SJ+9d3/3TcQtLtfA2URkImSyC2arDPrx1K/3WCl0vFZ5Qg1Ik+2KmtIUR44dikLkiHYYUUq8OujMCns6Ood+7xm4QDJfX/AfKxDOxMu5ZKi3zPgn/WMCiDCWL02/RI2TmGTRWWxpzGwZBqDSK+fQSVRgWLNGDQ7n+yh4Zm;7KoIHmmLRoP906SkKC+iQA=="
 ---
 
