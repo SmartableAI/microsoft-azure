@@ -4,12 +4,52 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-implement-windows-server-iaas-vm-identity.md",
-      "title": "Implement Windows Server IaaS VM Identity",
-      "excerpt": "After completing this learning path, you’ll know how to implement identity in Azure. You’ll be able to extend an existing on-premises Active Directory identity service into Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-windows-server-iaas-vm-identity/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-windows-server-iaas-vm-identity/",
-      "length": "PT2H28M",
+      "path": "_learning/videos/microsoft-how-to-use-deployment-slots-on-azure-app-service-azure-portal-series.md",
+      "title": "How to use deployment slots on Azure App Service | Azure Portal Series",
+      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to set up staging environments in Azure App Service by using deployment slots.   Try out these features in the Azure portal: https://portal.azure.com    Keep connected on Twitter: https://twitter.com/AzurePortal      And make sure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-deployment-slots-on-azure-app-service-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-deployment-slots-on-azure-app-service-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=0cgy4GplC4I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0cgy4GplC4I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M14S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-14T08:00:54-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0cgy4GplC4I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-build-serverless-full-stack-applications-in-azure.md",
+      "title": "Build serverless, full stack applications in Azure",
+      "excerpt": "Learn how to create, build, and deploy modern full stack applications in Azure by using the language of your choice (Python, Node.js, or .NET) and with a Vue.js frontend. Topics covered include modern database capabilities, CI/CD and DevOps, backend API development, REST, and more. Using a real-world scenario of trying to catch the bus, you will learn how to build a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-serverless-full-stack-applications-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-serverless-full-stack-applications-in-azure/",
+      "length": "PT2H55M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -27,15 +67,15 @@
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-implement-hybrid-identity-with-windows-server.md",
-          "title": "Implement hybrid identity with Windows Server",
-          "excerpt": "Implement hybrid identity with Windows Server",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-hybrid-identity-with-windows-server/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-identity-windows-server/",
-          "length": "PT1H49M",
+          "path": "_learning/courses/microsoft-learn-create-foundation-modern-apps.md",
+          "title": "Architect modern applications using Azure SQL Database",
+          "excerpt": "Break down a scenario for an application and build a multi-service solution based on the microservices approach. Learn how to use modern database capabilities to build a foundation for applications.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-foundation-modern-apps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-foundation-modern-apps/",
+          "length": "PT49M",
           "ratings": {
-            "count": 63,
-            "average": 4.6507936
+            "count": 18,
+            "average": 4.888889
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -50,37 +90,31 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Intermediate",
+            "Beginner",
+            "Advanced"
           ],
           "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-identity-with-windows-server-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
           "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Identity",
-            "Management Tools",
-            "Compute"
+            "Databases",
+            "Storage",
+            "DevOps"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure.md",
-          "title": "Deploy and manage Azure IaaS Active Directory domain controllers in Azure",
-          "excerpt": "Deploy and manage Azure IaaS active directory domain controllers in Azure",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-manage-azure-iaas-active-directory-domain-controllers-azure/",
-          "length": "PT39M",
+          "path": "_learning/courses/microsoft-learn-deploy-backend-apis.md",
+          "title": "Deploy serverless APIs with Azure Functions, Logic Apps, and Azure SQL Database",
+          "excerpt": "In the language of your choice (Node.js, Python, or .NET), learn how to deploy an Azure Function that adds real-time data to an Azure SQL Database and triggers an Azure Logic App for notifications, all with GitHub Actions for CI/CD.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-backend-apis/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-backend-apis/",
+          "length": "PT43M",
           "ratings": {
-            "count": 46,
-            "average": 4.7173915
+            "count": 17,
+            "average": 4.5882354
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -98,43 +132,82 @@
             "Intermediate"
           ],
           "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/deploy-and-manage-azure-iaas-active-directory-domain-controllers-in-azure-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
           "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Identity",
-            "Management Tools",
-            "Compute"
+            "Databases",
+            "Compute",
+            "Serverless",
+            "IoT",
+            "Blockchain",
+            "Integration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-automate-deployments-github-actions-azure.md",
+          "title": "Architect full-stack applications and automate deployments with GitHub",
+          "excerpt": "In the language of your choice (Node.js, Python, or .NET), deploy an end-to-end solution to solve the real-world scenario of catching the bus. You'll learn how to architect a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-deployments-github-actions-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-deployments-github-actions-azure/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 10,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Compute",
+            "Serverless",
+            "IoT",
+            "Blockchain",
+            "Integration",
+            "Web",
+            "Containers",
+            "Mobile",
+            "DevOps"
           ]
         }
       ],
-      "size": 2,
+      "size": 3,
       "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-identity-with-windows-server-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
-        "Identity",
-        "Management Tools",
-        "Compute"
+        "Databases",
+        "Compute",
+        "Serverless",
+        "Web",
+        "Containers",
+        "Mobile",
+        "IoT",
+        "Blockchain",
+        "Integration",
+        "DevOps",
+        "Storage"
       ]
     },
     {
@@ -432,8 +505,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10887,
-            "average": 4.6803527
+            "count": 10888,
+            "average": 4.6803823
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1380,8 +1453,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-3d-assets-mixed-reality-unity/",
       "length": "PT41M",
       "ratings": {
-        "count": 19,
-        "average": 4.9473686
+        "count": 20,
+        "average": 4.95
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1777,50 +1850,6 @@
         "Serverless",
         "Storage",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-implement-application-allowlists-with-adaptive-application-control.md",
-      "title": "Create and implement application allowlists with adaptive application control",
-      "excerpt": "You'll be able to implement Adaptive application controls within your organization to protect your Windows Server IaaS VMs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-implement-application-allowlists-with-adaptive-application-control/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-implement-application-allowlists-adaptive-application-control/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 26,
-        "average": 4.8076925
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-and-implement-application-whitelists-with-adaptive-application-control-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
       ]
     }
   ],

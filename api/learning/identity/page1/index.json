@@ -4,15 +4,149 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-troubleshoot-data-governance.md",
-      "title": "Troubleshoot data governance",
-      "excerpt": "Troubleshoot data governance",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-data-governance/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-data-governance/",
-      "length": "PT26M",
+      "path": "_learning/collections/microsoft-learn-implement-windows-server-iaas-vm-identity.md",
+      "title": "Implement Windows Server IaaS VM Identity",
+      "excerpt": "After completing this learning path, you’ll know how to implement identity in Azure. You’ll be able to extend an existing on-premises Active Directory identity service into Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-windows-server-iaas-vm-identity/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-windows-server-iaas-vm-identity/",
+      "length": "PT2H28M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-implement-hybrid-identity-with-windows-server.md",
+          "title": "Implement hybrid identity with Windows Server",
+          "excerpt": "Implement hybrid identity with Windows Server",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-hybrid-identity-with-windows-server/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-identity-windows-server/",
+          "length": "PT1H49M",
+          "ratings": {
+            "count": 63,
+            "average": 4.6507936
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-identity-with-windows-server-social.png",
+              "width": 642,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity",
+            "Management Tools",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure.md",
+          "title": "Deploy and manage Azure IaaS Active Directory domain controllers in Azure",
+          "excerpt": "Deploy and manage Azure IaaS active directory domain controllers in Azure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-manage-azure-iaas-active-directory-domain-controllers-azure/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 46,
+            "average": 4.7173915
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/deploy-and-manage-azure-iaas-active-directory-domain-controllers-in-azure-social.png",
+              "width": 642,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity",
+            "Management Tools",
+            "Compute"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-identity-with-windows-server-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure.md",
+      "title": "Deploy and manage Azure IaaS Active Directory domain controllers in Azure",
+      "excerpt": "Deploy and manage Azure IaaS active directory domain controllers in Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-manage-azure-iaas-active-directory-domain-controllers-azure/",
+      "length": "PT39M",
       "ratings": {
-        "count": 3,
-        "average": 5.0
+        "count": 46,
+        "average": 4.7173915
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,9 +166,9 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-and-manage-azure-iaas-active-directory-domain-controllers-in-azure-social.png",
+          "width": 642,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -43,7 +177,9 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Identity"
+        "Identity",
+        "Management Tools",
+        "Compute"
       ]
     },
     {
@@ -155,8 +291,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2941,
-            "average": 4.7579055
+            "count": 2943,
+            "average": 4.75773
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -198,8 +334,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 20983,
-            "average": 4.707287
+            "count": 20984,
+            "average": 4.7073007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -233,8 +369,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 6150,
-            "average": 4.7388616
+            "count": 6151,
+            "average": 4.7389045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -350,8 +486,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2941,
-            "average": 4.7579055
+            "count": 2943,
+            "average": 4.75773
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -393,8 +529,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 20983,
-            "average": 4.707287
+            "count": 20984,
+            "average": 4.7073007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -428,8 +564,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 6150,
-            "average": 4.7388616
+            "count": 6151,
+            "average": 4.7389045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -581,8 +717,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 7544,
-            "average": 4.8032875
+            "count": 7546,
+            "average": 4.8033395
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -624,8 +760,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2941,
-            "average": 4.7579055
+            "count": 2943,
+            "average": 4.75773
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -667,8 +803,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
           "length": "PT27M",
           "ratings": {
-            "count": 7780,
-            "average": 4.7503858
+            "count": 7781,
+            "average": 4.7501607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -729,8 +865,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
       "length": "PT17M",
       "ratings": {
-        "count": 7544,
-        "average": 4.8032875
+        "count": 7546,
+        "average": 4.8033395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -796,8 +932,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12449,
-            "average": 4.7668085
+            "count": 12452,
+            "average": 4.7667847
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -839,8 +975,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 142331,
-            "average": 4.7029037
+            "count": 142333,
+            "average": 4.702908
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1132,8 +1268,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
           "length": "PT21M",
           "ratings": {
-            "count": 12931,
-            "average": 4.766066
+            "count": 12932,
+            "average": 4.766084
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1339,8 +1475,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
           "length": "PT21M",
           "ratings": {
-            "count": 12931,
-            "average": 4.766066
+            "count": 12932,
+            "average": 4.766084
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1418,8 +1554,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12449,
-            "average": 4.7668085
+            "count": 12452,
+            "average": 4.7667847
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1638,8 +1774,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 4752,
-            "average": 4.7598906
+            "count": 4755,
+            "average": 4.759832
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1682,8 +1818,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 8010,
-            "average": 4.6765294
+            "count": 8011,
+            "average": 4.67657
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1843,8 +1979,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 339,
-            "average": 4.7876105
+            "count": 340,
+            "average": 4.788235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1885,8 +2021,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1771,
-            "average": 4.743083
+            "count": 1772,
+            "average": 4.743228
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1929,8 +2065,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 1175,
-            "average": 4.747234
+            "count": 1176,
+            "average": 4.747449
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1971,8 +2107,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 1213,
-            "average": 4.7551527
+            "count": 1214,
+            "average": 4.7545304
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2371,8 +2507,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-microsoft-365-apps-for-enterprise/",
           "length": "PT46M",
           "ratings": {
-            "count": 17,
-            "average": 4.5882354
+            "count": 18,
+            "average": 4.611111
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2499,8 +2635,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 3285,
-            "average": 4.7135463
+            "count": 3286,
+            "average": 4.7133293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2846,8 +2982,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
           "length": "PT15M",
           "ratings": {
-            "count": 243,
-            "average": 4.814815
+            "count": 244,
+            "average": 4.8155737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3445,8 +3581,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
           "length": "PT15M",
           "ratings": {
-            "count": 243,
-            "average": 4.814815
+            "count": 244,
+            "average": 4.8155737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3488,8 +3624,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-protection-governance-capabilities/",
           "length": "PT29M",
           "ratings": {
-            "count": 348,
-            "average": 4.841954
+            "count": 349,
+            "average": 4.8424067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3787,8 +3923,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
           "length": "PT24M",
           "ratings": {
-            "count": 1163,
-            "average": 4.8142734
+            "count": 1164,
+            "average": 4.814433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4347,8 +4483,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-network-infrastructure/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 48,
-            "average": 4.8125
+            "count": 49,
+            "average": 4.7959185
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5171,204 +5307,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-implement-microsoft-identity-associate.md",
-      "title": "Implement Microsoft identity – Associate",
-      "excerpt": "The Microsoft identity platform is an evolution of the Azure Active Directory (Azure AD) developer platform. It allows developers to build applications that sign in users, and access resources in both external applications such as Microsoft Office 365, the Azure portal, and thousands of other SaaS applications and internal resources, such as apps on your corporate network and intranet, along with any cloud apps developed by your own organization. Learn how to utilize Microsoft identity in your custom applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-microsoft-identity-associate/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-microsoft-identity-associate/",
-      "length": "PT5H42M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-getting-started-identity.md",
-          "title": "Getting Started with Microsoft Identity",
-          "excerpt": "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-getting-started-identity/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/getting-started-identity/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 434,
-            "average": 4.691244
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-identity-application-types.md",
-          "title": "Application types in Microsoft identity",
-          "excerpt": "Learn how developers can leverage Microsoft identity in different types of applications.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-application-types/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-application-types/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 230,
-            "average": 4.652174
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/identity-application-types-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-identity-permissions-consent.md",
-          "title": "Permissions and Consent Framework",
-          "excerpt": "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-permissions-consent/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-permissions-consent/",
-          "length": "PT1H6M",
-          "ratings": {
-            "count": 192,
-            "average": 4.7291665
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/identity-permissions-consent-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-identity-secure-custom-api.md",
-          "title": "Secure custom APIs with Microsoft Identity",
-          "excerpt": "Learn how to secure a web API with Microsoft identity and how to call it from another application.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-secure-custom-api/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-secure-custom-api/",
-          "length": "PT1H23M",
-          "ratings": {
-            "count": 173,
-            "average": 4.728324
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/identity-application-types-social.png",
-          "width": 800,
-          "height": 400,
           "isCached": true
         }
       ],

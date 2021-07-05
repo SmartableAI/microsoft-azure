@@ -4,6 +4,220 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory.md",
+      "title": "Protect identity and access with Azure Active Directory",
+      "excerpt": "The **Identity and Access learning path** covers the latest identity and access technologies, tools for strengthening authentication, and guidance on identity protection within your organization. Microsoft access and identity technologies enable you to secure your organization’s identity, whether it is on-premises or in the cloud, and empower your users to work securely from any location.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory/",
+      "length": "PT2H52M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-m365-identity-overview.md",
+          "title": "Define identity and access management in Azure Active Directory",
+          "excerpt": "Learn about identity and access management in Azure Active Directory and why identity is a core component of your organization’s security posture.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-overview/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
+          "length": "PT15M",
+          "ratings": {
+            "count": 455,
+            "average": 4.7582417
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-m365-identity-provisioning.md",
+          "title": "Simplify access and identity provisioning with Azure Active Directory",
+          "excerpt": "Learn about identity governance and how you can safeguard access to your organization’s data.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-provisioning/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 5187,
+            "average": 4.770773
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/simplify-access-and-identity-provisioning-with-microsoft-365-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-m365-identity-authentication.md",
+          "title": "Strengthen authentication (conditional access) with Azure Active Directory",
+          "excerpt": "Learn about modern authentication and the security benefits it provides to your organization, such as enabling multi-factor authentication and a passwordless environment.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-authentication/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 4709,
+            "average": 4.7865787
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/strengthen-authentication-with-microsoft-365-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-m365-identity-secure-administrators.md",
+          "title": "Secure administrator accounts in Azure Active Directory",
+          "excerpt": "Learn about securing administrator accounts through secure devices, dedicated administrator accounts, and just-in-time privileges.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-secure-administrators/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
+          "length": "PT21M",
+          "ratings": {
+            "count": 3381,
+            "average": 4.78113
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-secure-administrator-access-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-provision-and-manage-azure-cognitive-services.md",
       "title": "Provision and manage Azure Cognitive Services",
       "excerpt": "Learn about Cognitive Services and the important role they play in developing AI infused applications.  This learning path will introduce you to creating, managing, and deploying Cognitive Services in the Azure portal or through containers.",
@@ -553,8 +767,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
           "length": "PT15M",
           "ratings": {
-            "count": 243,
-            "average": 4.814815
+            "count": 244,
+            "average": 4.8155737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -596,8 +810,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-protection-governance-capabilities/",
           "length": "PT29M",
           "ratings": {
-            "count": 348,
-            "average": 4.841954
+            "count": 349,
+            "average": 4.8424067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -767,8 +981,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-data-loading-best-practices-azure-synapse-analytics/",
           "length": "PT36M",
           "ratings": {
-            "count": 93,
-            "average": 4.516129
+            "count": 94,
+            "average": 4.5212765
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1076,8 +1290,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 142331,
-        "average": 4.7029037
+        "count": 142333,
+        "average": 4.702908
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1381,8 +1595,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 3614,
-            "average": 4.6942444
+            "count": 3615,
+            "average": 4.6943293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1967,8 +2181,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/",
           "length": "PT20M",
           "ratings": {
-            "count": 928,
-            "average": 4.7898707
+            "count": 929,
+            "average": 4.7900968
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2273,8 +2487,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-3d-assets-mixed-reality-unity/",
           "length": "PT41M",
           "ratings": {
-            "count": 19,
-            "average": 4.9473686
+            "count": 20,
+            "average": 4.95
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4972,8 +5186,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
           "length": "PT24M",
           "ratings": {
-            "count": 1163,
-            "average": 4.8142734
+            "count": 1164,
+            "average": 4.814433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5892,223 +6106,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-explore-security-metrics-in-microsoft-365.md",
-      "title": "Explore security metrics in Microsoft 365",
-      "excerpt": "Explore security metrics in Microsoft 365",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-explore-security-metrics-in-microsoft-365/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-explore-security-metrics-in-microsoft-365/",
-      "length": "PT3H14M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-to-threat-vectors-data-breaches.md",
-          "title": "Examine threat vectors and data breaches",
-          "excerpt": "Examine threat vectors and data breaches",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-threat-vectors-data-breaches/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-threat-vectors-data-breaches/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 6,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-ad-threat-vectors-social.png",
-              "width": 1280,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-examine-zero-trust-approach-to-security-microsoft-365.md",
-          "title": "Explore the Zero Trust approach to security in Microsoft 365",
-          "excerpt": "Explore the Zero Trust approach to security in Microsoft 365",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-examine-zero-trust-approach-to-security-microsoft-365/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-zero-trust-approach-to-security-microsoft-365/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 8,
-            "average": 4.75
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/m365-zero-trust-security-social.png",
-              "width": 1280,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-to-security-solutions-microsoft-365.md",
-          "title": "Explore security solutions in Microsoft 365",
-          "excerpt": "Explore security solutions in Microsoft 365",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security-solutions-microsoft-365/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-security-solutions-microsoft-365/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 4,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/m365-introduction-security-solutions-social.png",
-              "width": 1280,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-to-microsoft-secure-score.md",
-          "title": "Examine Microsoft Secure Score",
-          "excerpt": "Examine Microsoft Secure Score",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-microsoft-secure-score/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-microsoft-secure-score/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 4,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/secure-score-reduce-risk-social.png",
-              "width": 1280,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-ad-threat-vectors-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Security"
       ]
     }
   ],
