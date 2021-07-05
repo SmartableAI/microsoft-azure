@@ -8,7 +8,7 @@ length: PT53M
 ratings:
   count: 269
   average: 4.669145
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn

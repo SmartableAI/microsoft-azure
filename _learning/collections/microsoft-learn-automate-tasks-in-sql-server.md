@@ -4,7 +4,7 @@ excerpt: "Scripting repetitive tasks in Azure SQL for regular maintenance jobs a
 type: collection
 price: Free
 length: PT1H47M
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn

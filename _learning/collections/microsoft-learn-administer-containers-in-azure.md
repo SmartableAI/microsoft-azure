@@ -4,7 +4,7 @@ excerpt: "With this learning path, you'll create and manage your Azure Container
 type: collection
 price: Free
 length: PT5H10M
-heat: 66
+heat: 64
 
 provider:
   name: Microsoft Learn

@@ -4,7 +4,7 @@ excerpt: "In this learning path, find out how Azure DevOps enables transparency 
 type: collection
 price: Free
 length: PT1H57M
-heat: 67
+heat: 63
 
 provider:
   name: Microsoft Learn
