@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/use-new-relic-one-to-effortlessly
 webUrl: "https://azure.microsoft.com/blog/use-new-relic-one-to-effortlessly-monitor-applications-in-azure-spring-cloud/"
 type: article
 quality: 92
-heat: 93
+heat: 94
 published: true
 
 provider:
