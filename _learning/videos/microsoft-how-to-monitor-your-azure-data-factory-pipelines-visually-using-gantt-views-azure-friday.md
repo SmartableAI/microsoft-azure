@@ -4,7 +4,7 @@ excerpt: "Gaurav Malhotra joins Scott Hanselman to show how you can use Gantt vi
 originalUrl: https://youtube.com/watch?v=MT18OiM2zOs
 type: video
 price: Free
-length: PT5M55S
+length: PT5M54S
 publishedDateTime: 2019-10-18T05:50:47Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "pMC0xyTbPkSfR8AD2ybEfk7kJSVPhn2x6T3T6MvJ9uFdOFjtjO2dCDqHS5oKK1AlgsSdGUwZ5FhCto58UVk/JX3xxR69yJg82+96au3ffvF+0lhhXhupHPQws0h2smbr0MMceV/BySQPgFodncQQLQuutx0mnBTG33Q5cRd4IdANMTl616UvqoAPIIq+mnFAaxY/CFHe2v3nuhK5V5x33i6YHH4eXCTb/mKTYbaYDJ30g7FUJJsxAIXHcu/RN9Lztp5wcD44CSkdaSzisggzxdYVy5l9lPZFqHGTM8FyOT6qTNqzlFMo9V5ObUPsKUkOQz2oNAFe0PaoLxFG7oWmXt7H7GfamJIFHtLLR/ZPOEvemvI2j4vr+MOWHJtKGQN17s664NZn/+x/YvXxRoZ9Bm3R3DFixiXH+Qd+esPSIuY=;rZtF96N56WERLoDYMMlKDA=="
+secured: "UJJZ24LFBOgcKbXlQ5gvdXtVd3lIY7GxHdXusZyUgiAOzCI1ZteEMgmcPhJEWhO2BWWZw7t7jveSdCBhZ+jo55KOyiXLpioXRm3uULKmyTpDLnut9qZR2VYrzAk8JHsm3zBSTxuX5xgjQhja2/fEpfcXaN3XRMRd+rz3ObDcHXGZtwijLgcYWDGLcVcoxnXqzDfSlsJ4BjG2k8zoO7LFXWZWP6SbA41LZ+dD5jJUyDUZMxcSMscl/QQEjbWUsxqxz0TDzX+AFyOlX8zTgzSK71y+YxDPQuyQu1dBA2nkG//03d7f+J9aA9FHE275dbROzPByh0XvYszW8d5HKoKPRss9NzEaa6kEnV7XCvd53Nm1ggt73slf69A0GJnhv1q6hDugQcgxYD6BVdo5yXAie8pYUYYVQBdQvo2k6Nqc/P0=;QF1Rs3wdXnk5DtlH2L/twQ=="
 ---
 

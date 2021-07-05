@@ -4,7 +4,7 @@ excerpt: "Describe the concepts of security, compliance, and identity"
 type: collection
 price: Free
 length: PT42M
-heat: 140
+heat: 60
 
 provider:
   name: Microsoft Learn

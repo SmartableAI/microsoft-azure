@@ -4,6 +4,42 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
+      "title": "Create a Linux virtual machine in Azure",
+      "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-linux-vm-in-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
+      "length": "PT1H26M",
+      "ratings": {
+        "count": 10800,
+        "average": 4.7024074
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-regression-model-azure-machine-learning-designer.md",
       "title": "Create a Regression Model with Azure Machine Learning designer",
       "excerpt": "Regression is a supervised machine learning technique used to predict numeric values. Learn how to create regression models using Azure Machine Learning designer.",
@@ -46,8 +82,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
       "length": "PT24M",
       "ratings": {
-        "count": 1162,
-        "average": 4.8141136
+        "count": 1163,
+        "average": 4.8142734
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -257,8 +293,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 6296,
-        "average": 4.7393584
+        "count": 6297,
+        "average": 4.739241
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +336,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 7376,
-        "average": 4.6883135
+        "count": 7378,
+        "average": 4.688398
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -359,8 +395,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/",
           "length": "PT41M",
           "ratings": {
-            "count": 1394,
-            "average": 4.810617
+            "count": 1396,
+            "average": 4.8108883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -401,8 +437,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 1272,
-            "average": 4.773585
+            "count": 1273,
+            "average": 4.7737627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -611,8 +647,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 6595,
-            "average": 4.7366185
+            "count": 6596,
+            "average": 4.736507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -708,8 +744,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "PT42M",
       "ratings": {
-        "count": 3244,
-        "average": 4.636868
+        "count": 3245,
+        "average": 4.63698
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -744,8 +780,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 6039,
-        "average": 4.7471437
+        "count": 6040,
+        "average": 4.747185
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -787,8 +823,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
       "length": "PT20M",
       "ratings": {
-        "count": 440,
-        "average": 4.8681817
+        "count": 441,
+        "average": 4.8684807
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1218,8 +1254,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
           "length": "PT24M",
           "ratings": {
-            "count": 1872,
-            "average": 4.72703
+            "count": 1873,
+            "average": 4.7271757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1345,8 +1381,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
           "length": "PT38M",
           "ratings": {
-            "count": 308,
-            "average": 4.821429
+            "count": 309,
+            "average": 4.8220067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1491,8 +1527,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 3771,
-        "average": 4.747547
+        "count": 3772,
+        "average": 4.747614
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1579,8 +1615,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 16181,
-        "average": 4.7235646
+        "count": 16185,
+        "average": 4.723633
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1657,8 +1693,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 3792,
-        "average": 4.72943
+        "count": 3793,
+        "average": 4.7295017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1689,43 +1725,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
-      "title": "Create serverless logic with Azure Functions",
-      "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 9499,
-        "average": 4.6665964
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
       ]
     }
   ],
