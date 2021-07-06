@@ -50,6 +50,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "RIB Schneider Group announces new Microsoft Cloud Service Provider"
+    excerpt: "The merger has resulted in a global team of technology experts, hundreds of Microsoft certifications and over 10 Gold competencies across various Microsoft technology streams"
+    publishedDateTime: 2021-07-06T12:25:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/RIB_Schneider_Group_announces_new_Microsoft_Cloud_Service_Provider-ZAWYA20210706111856/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210706111856/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210706111856/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 42
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/BerendJanvanMaanenCEOInTWO_2021_07_06.jpg"
+        width: 450
+        height: 578
+        isCached: true
   - title: "Cloud 9 Infosystems Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Chicago IL 6 15 21 Cloud 9 Infosystems today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and expertise in migrating"
     publishedDateTime: 2021-06-28T13:42:00Z
@@ -70,6 +86,15 @@ related:
       name: Finanztreff
       domain: finanztreff.de
     quality: 10
+  - title: "RIB Schneider Group merges 5 units to form new Microsoft cloud service provider"
+    excerpt: "RIB Schneider has announced the merger of five subsidiary organisations, namely ICS Support, Intech, Levtech Consulting, RIB Cloud and SaaSplaza. Effective 01 July, these organisations will form a new,"
+    publishedDateTime: 2021-07-06T12:59:00Z
+    webUrl: "https://www.telecompaper.com/news/rib-schneider-group-merges-5-units-to-form-new-microsoft-cloud-service-provider--1389229"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 0
 
 secured: "byxDlr/X6a+xqUArB2yHAqtEe6RIg7EWP+9sdxi/TbQift8QonB3BoXPg3YsUsmRL/kFOYn8jjdiaha5wy3YXpVKVq/xiT+qIA3+sFt+mjt/gM9ZpUgGdrzajpoVTt2i2nH49I2cFEo8C2dy0kwvfRC2EbebEq6LdVBj4DZypWl8wouP1phHTO/0k8uDrj1TzXFsYPpD2+p10v4J5LC8iyZH75QBx+tFxnBx1V8ND6GW024Is15wscotsroxlW1wqEDoxOBZuo+oXu548HHotET1fPce4mzW/anz6p3/D8pU8IBw8E2RyKrub5+cw9HZ4ebFvq9XmgRGCvL/8tdh4uuUf2o+CLdxxrmpn8D+uUc=;XMWQGUY+xVmxFs5mu+T8cw=="
 ---

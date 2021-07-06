@@ -1,24 +1,21 @@
 ---
 category: news
-title: "Cloud 9 Infosystems Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "Chicago IL 6 15 21 Cloud 9 Infosystems today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and expertise in migrating"
-publishedDateTime: 2021-06-28T13:42:00Z
-originalUrl: "https://www.openpr.com/news/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
-webUrl: "https://www.openpr.com/news/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
-ampWebUrl: "https://www.openpr.com/amp/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
-cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
+title: "RIB Schneider Group merges 5 units to form new Microsoft cloud service provider"
+excerpt: "RIB Schneider has announced the merger of five subsidiary organisations, namely ICS Support, Intech, Levtech Consulting, RIB Cloud and SaaSplaza. Effective 01 July, these organisations will form a new,"
+publishedDateTime: 2021-07-06T12:59:00Z
+originalUrl: "https://www.telecompaper.com/news/rib-schneider-group-merges-5-units-to-form-new-microsoft-cloud-service-provider--1389229"
+webUrl: "https://www.telecompaper.com/news/rib-schneider-group-merges-5-units-to-form-new-microsoft-cloud-service-provider--1389229"
 type: article
-quality: 31
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
-  - Migration
 
 related:
   - title: "Microsoft Cloud PC interface leaked, but nobody noticed"
@@ -69,6 +66,17 @@ related:
         width: 450
         height: 578
         isCached: true
+  - title: "Cloud 9 Infosystems Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Chicago IL 6 15 21 Cloud 9 Infosystems today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and expertise in migrating"
+    publishedDateTime: 2021-06-28T13:42:00Z
+    webUrl: "https://www.openpr.com/news/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
+    ampWebUrl: "https://www.openpr.com/amp/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
   - title: "Microsoft, SES demo Azure Cloud for remote missions via secure GovSat service"
     excerpt: "Microsoft and SES have demonstrated the use of Azure Cloud for remote missions using the secure MilSatCom connectivity. The demonstration also involved GovSat, public-private JV between the Luxembourg government and SES,"
     publishedDateTime: 2021-07-01T13:15:00Z
@@ -87,16 +95,7 @@ related:
       name: Finanztreff
       domain: finanztreff.de
     quality: 10
-  - title: "RIB Schneider Group merges 5 units to form new Microsoft cloud service provider"
-    excerpt: "RIB Schneider has announced the merger of five subsidiary organisations, namely ICS Support, Intech, Levtech Consulting, RIB Cloud and SaaSplaza. Effective 01 July, these organisations will form a new,"
-    publishedDateTime: 2021-07-06T12:59:00Z
-    webUrl: "https://www.telecompaper.com/news/rib-schneider-group-merges-5-units-to-form-new-microsoft-cloud-service-provider--1389229"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 0
 
-secured: "9PzygYzYR6II9BHaFg8ZnGRIZWR1L/OcoGRUgOf4PcnxzPVYDAoKW5aCYHuvBPP35vjY8LnBHciqZTNR/rcwXhE4evZegV5aXc7o59IkUH+ie5OnX596zzgMmIrXla5YVj9IXR2jPHg05hxPyVUZggTU6DwhxlPewAPu97yA8ZL2sQf17A7Twcxc51cbmFAVsrP0ibFdDMZb8vUkEFnefsoTZaoRmPUXgnRJPz0+4blAsNzZf6ksvGvPDrU/A2LefriMUCDnxfOAPtcgKRqEShKpFfkwFMVNkQOxTXeVqnyENX0kqdGvi1Y8uU1l8/gFAbLPwlytXizZRTQHg1t6vQADuP4tWHsZSdtv1oXakS8=;CiaPf3zeTDdq+jwJysZtqw=="
+secured: "OdNcrzT+5at+OieFt6XdomJZTSrYilVfbppdZZqBx9iFq5hWbJ5eX1Tw5P4HQ7tL1xmE9t23JYOUtSeZ4ucS2TwKyGWrdFhAF+h0x+TkkyK6nV/JM7QAwXsGiveQO4djtoezzLLsKK+Lhw7ZNgpEMxicqJDITOBfI8WbhfeF2NfoOC7fRRJPUxM4KfxyGDi6Vs92np3+5vC9+sS5WD0BzxjaH833/B0OQ6qOn+5QJFgmHmmO4qIv/jF71QSec1/IYopJ3zmNq9wj/dCbozWVXre/2Hui6wXHLzVx0/votZ+vJLTrKVKcUfh0THl2IFkcFluGo5JyHwo60/RbVCQNFiuRO7TPXUQVnsNYW6oaox4=;rn25o/c/ex8SuFntwqnKbA=="
 ---
 

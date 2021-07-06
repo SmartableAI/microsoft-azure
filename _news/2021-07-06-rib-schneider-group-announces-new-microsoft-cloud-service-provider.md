@@ -1,24 +1,29 @@
 ---
 category: news
-title: "Cloud 9 Infosystems Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "Chicago IL 6 15 21 Cloud 9 Infosystems today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and expertise in migrating"
-publishedDateTime: 2021-06-28T13:42:00Z
-originalUrl: "https://www.openpr.com/news/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
-webUrl: "https://www.openpr.com/news/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
-ampWebUrl: "https://www.openpr.com/amp/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
-cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
+title: "RIB Schneider Group announces new Microsoft Cloud Service Provider"
+excerpt: "The merger has resulted in a global team of technology experts, hundreds of Microsoft certifications and over 10 Gold competencies across various Microsoft technology streams"
+publishedDateTime: 2021-07-06T12:25:00Z
+originalUrl: "https://www.zawya.com/mena/en/press-releases/story/RIB_Schneider_Group_announces_new_Microsoft_Cloud_Service_Provider-ZAWYA20210706111856/"
+webUrl: "https://www.zawya.com/mena/en/press-releases/story/RIB_Schneider_Group_announces_new_Microsoft_Cloud_Service_Provider-ZAWYA20210706111856/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210706111856/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210706111856/"
 type: article
-quality: 31
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - Azure
-  - Migration
+
+images:
+  - url: "https://images.zawya.com/pr/images/2021/BerendJanvanMaanenCEOInTWO_2021_07_06.jpg"
+    width: 450
+    height: 578
+    isCached: true
 
 related:
   - title: "Microsoft Cloud PC interface leaked, but nobody noticed"
@@ -53,22 +58,17 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "RIB Schneider Group announces new Microsoft Cloud Service Provider"
-    excerpt: "The merger has resulted in a global team of technology experts, hundreds of Microsoft certifications and over 10 Gold competencies across various Microsoft technology streams"
-    publishedDateTime: 2021-07-06T12:25:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/RIB_Schneider_Group_announces_new_Microsoft_Cloud_Service_Provider-ZAWYA20210706111856/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210706111856/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210706111856/"
+  - title: "Cloud 9 Infosystems Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Chicago IL 6 15 21 Cloud 9 Infosystems today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and expertise in migrating"
+    publishedDateTime: 2021-06-28T13:42:00Z
+    webUrl: "https://www.openpr.com/news/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
+    ampWebUrl: "https://www.openpr.com/amp/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315447/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 42
-    images:
-      - url: "https://images.zawya.com/pr/images/2021/BerendJanvanMaanenCEOInTWO_2021_07_06.jpg"
-        width: 450
-        height: 578
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
   - title: "Microsoft, SES demo Azure Cloud for remote missions via secure GovSat service"
     excerpt: "Microsoft and SES have demonstrated the use of Azure Cloud for remote missions using the secure MilSatCom connectivity. The demonstration also involved GovSat, public-private JV between the Luxembourg government and SES,"
     publishedDateTime: 2021-07-01T13:15:00Z
@@ -97,6 +97,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "9PzygYzYR6II9BHaFg8ZnGRIZWR1L/OcoGRUgOf4PcnxzPVYDAoKW5aCYHuvBPP35vjY8LnBHciqZTNR/rcwXhE4evZegV5aXc7o59IkUH+ie5OnX596zzgMmIrXla5YVj9IXR2jPHg05hxPyVUZggTU6DwhxlPewAPu97yA8ZL2sQf17A7Twcxc51cbmFAVsrP0ibFdDMZb8vUkEFnefsoTZaoRmPUXgnRJPz0+4blAsNzZf6ksvGvPDrU/A2LefriMUCDnxfOAPtcgKRqEShKpFfkwFMVNkQOxTXeVqnyENX0kqdGvi1Y8uU1l8/gFAbLPwlytXizZRTQHg1t6vQADuP4tWHsZSdtv1oXakS8=;CiaPf3zeTDdq+jwJysZtqw=="
+secured: "vCsSRvH95UHIXimlZNxNH1y+Tn6l1lTAd8Qs8xFedTlrWDfJWVXZM0/sYF9nsjlunAlsO5Y+FH1emwRkivLR+tOYJrjnhKfFUzb3t4e61ipMwTNJS1nsMmlemnfzjP1Yh+ld2mBsTrfMRmtHYpQBTPZQL54L6AFUbMsKa5dSowqXrqDhCxzYEHlXYgu/7gLLDMSimO71Dl0Vv4yKFF1UaJwa7Y0q0G/wzd+XRuw8E6n7ckFYsaHuGgG3bB/xC+jwIkTFWXCuqe9Uu5eSQXERAVGhftik7ufS2XeL22LC8WEZjCzx960JtZlphWhMoHrLa9i15SBPmEXoKot5LAD0kTQQBExwAXKLPYFANsvaR68=;JVsmFBiwYv5/bmOsrRK12g=="
 ---
 
