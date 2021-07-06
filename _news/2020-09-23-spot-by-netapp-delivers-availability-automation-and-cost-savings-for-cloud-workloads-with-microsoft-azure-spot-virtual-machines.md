@@ -1243,6 +1243,20 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 14
+  - title: "Pentagon cancels disputed Microsoft cloud-computing contract, will seek new deal with Amazon and Microsoft"
+    excerpt: "Pentagon cancels disputed Microsoft cloud-computing contract, will seek new deal with Amazon and Microsoft. AP NEWS. Top Stories; Video; Contact Us; Cookie Set"
+    publishedDateTime: 2021-07-06T16:35:00Z
+    webUrl: "https://apnews.com/a95bc4b4b359b71e910e59095a739f09"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "luCpj0uAmyXeQGTVHlPFCMsvh40lcS47DRzQi0yZjXkcA1BXI3f61wk0rwrHN1ogMX+Qm/L9svupUw0KXBVfryFkMCEhWPtDYr+a1uW6+kyyRiIyLukzX+F4P+59MQdTwhMWDFbm90NkXIf8zbvFVqYMmZgPBU3AWfjUEqeo9EQ+a24nf533F9oTs0vKwx+L3tKMrKb4gh5T2lcREkrRvzV4vuUo0p2WN1WFG4n53EA1ZUxTafPlrgGCwToBpi8qrwm4ZtAhgq81qy+vfQEXp02i6zFck1R2KUD3d4oLelaOzE3Is0T8UgUTSxKvb0Cw7tshVFDNCibSCG0zFFgXpLgr5GQ9g8mDoN79UPahY40=;RfDtpjFEc6GjULizbXkFRw=="
 ---

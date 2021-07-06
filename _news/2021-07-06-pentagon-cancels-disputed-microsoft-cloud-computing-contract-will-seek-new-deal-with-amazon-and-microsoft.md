@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
-excerpt: "On February 20th, the HPE Spaceborne Computer-2 will launch to the ISS atop the 15th Northrop Grumman Resupply Mission to the Space Station."
-publishedDateTime: 2021-02-11T21:51:00Z
-originalUrl: "https://hothardware.com/news/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space"
-webUrl: "https://hothardware.com/news/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space"
+title: "Pentagon cancels disputed Microsoft cloud-computing contract, will seek new deal with Amazon and Microsoft"
+excerpt: "Pentagon cancels disputed Microsoft cloud-computing contract, will seek new deal with Amazon and Microsoft. AP NEWS. Top Stories; Video; Contact Us; Cookie Set"
+publishedDateTime: 2021-07-06T16:35:00Z
+originalUrl: "https://apnews.com/a95bc4b4b359b71e910e59095a739f09"
+webUrl: "https://apnews.com/a95bc4b4b359b71e910e59095a739f09"
 type: article
-quality: 54
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: HotHardware
-  domain: hothardware.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
-  - AI
 
 images:
-  - url: "https://images.hothardware.com/contentimages/newsitem/54251/content/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space.jpg"
-    width: 708
-    height: 398
+  - url: "https://apnews.com/images/ShareLogo2.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -609,6 +608,20 @@ related:
       name: Breaking Defense
       domain: breakingdefense.com
     quality: 54
+  - title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
+    excerpt: "On February 20th, the HPE Spaceborne Computer-2 will launch to the ISS atop the 15th Northrop Grumman Resupply Mission to the Space Station."
+    publishedDateTime: 2021-02-11T21:51:00Z
+    webUrl: "https://hothardware.com/news/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54251/content/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Microsoft plans to establish new cloud datacenter region in Arizona "
     excerpt: "Today, we are taking a significant step toward that goal, revealing plans for our newest sustainable datacenter region in Arizona, which will become our West US 3 region."
     publishedDateTime: 2020-09-22T16:05:31Z
@@ -1244,21 +1257,7 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Pentagon cancels disputed Microsoft cloud-computing contract, will seek new deal with Amazon and Microsoft"
-    excerpt: "Pentagon cancels disputed Microsoft cloud-computing contract, will seek new deal with Amazon and Microsoft. AP NEWS. Top Stories; Video; Contact Us; Cookie Set"
-    publishedDateTime: 2021-07-06T16:35:00Z
-    webUrl: "https://apnews.com/a95bc4b4b359b71e910e59095a739f09"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
 
-secured: "wBQcwxGEAM+755N/rmIm7iKb2CP5IOVveL6VaJ2r0VGF32ndNeQ6v7o/YOsZvOVzuojwLJgbfGAP4/3JajwJFBoOFWComUXrWDZiQJ+9YRB+d+PRASnm7zSWWvJQXk889wlFZ/yzGN1eYm2wxX3p8xyKt5jyY3xRMzxmSQlOr1UBp/LPbY558ImUFGmta0Zo6HOqlZB8COY6cfZFT4a1Hbdq0uAtfb2yZww72g55ZdsXqDzjtXFAVdWeX5bPghel0mxEYKSUjZnjzQtXpq6dALbjluBUYckdvPGYRR+5ELRVZNBFuhv3U3jvOWGWO8uKxRKHpPkspF0B7g0c/LObdmjIPTrtUIHoPA/G7yQJZ0poqQUHAsmoYEOkUvsy2aB560c49LMxxrmicS3wlhTF40gVvU6Q4LSQ9KbZ5eYZZPjFzy2E2W30MQz6ROMlVUCqZEn/4nfYXtaHLK5JV3Ke+H1ty+TS3QpWloKncLF8/EWMzTNj18hl4XyrnPm0NTYy+UXDr1byuxoZqiTfTMKFjg==;ww9ckgq/TpxieiZgvFyV5w=="
+secured: "EvmRLaXJTPkDwvh+8GZ1tHCz8Q5KkJsMKLl/QY/ky5FrBUFEpWikcUvh9OZSLqjpuolryF8ARisevmCCiyowJXgxR8YJuDyu9HXIlqS9jgDDoUVdcgyVe0FhAtjnS9Recpbun/7rJGXN8ByAgoHReGWLbNsY0KlycuWoe4hJdzb3O3i8yPLyM2CRrlhgmyTnOXIr2sPZBNdyXd0VYuNoe8xyxASsoK93bNg7jelPXWzsJbRyzye5jKOBUBGaH4c+pKRAYqhh2K27Ws9QIPr97Vp/HhObm2rPrH95I6vY1MEauJlWdrBGKaFWQQkHK3ronS+Iae6oyVUaSlz81OxlDbseZad5K5hp+JH+pKjdqtg=;QrD4fknckEUFB8mFfyqy8w=="
 ---
 

@@ -1242,6 +1242,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Pentagon cancels disputed Microsoft cloud-computing contract, will seek new deal with Amazon and Microsoft"
+    excerpt: "Pentagon cancels disputed Microsoft cloud-computing contract, will seek new deal with Amazon and Microsoft. AP NEWS. Top Stories; Video; Contact Us; Cookie Set"
+    publishedDateTime: 2021-07-06T16:35:00Z
+    webUrl: "https://apnews.com/a95bc4b4b359b71e910e59095a739f09"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "grwWm++b5+x/JWthUAdrQmO/9/6ZL9decU5Saj94st3Nnc/Yv0/Ned3t3ETDYOT6pqO79KzX4Oh0F8pf0jawD3dQAseGTmv06DOII2uYDWDG3bIgwiRwxc88P6QRpfv7SeAKM1CBhDTXZcr7YdTueY5sR+O6aw6qgndo9SaQ6ZzPEyr0JN+FSDJwZupsqdM67MNChY+HRf99wTKMm2zt9LNIR22lRA9JJhouGI2KkP8Nj4SFydgQsyb+FFgo0aJ2tlkEjjO3lyZ9BMpXe2NHiMpDwN4gH9db690nwitxaWbtBeP03p7yHcUM7l1kZAbVVm+QmtLtfb1sR7Ajn9WUDlWJlh7pbgxinJ0rpbthmTg=;leIYaJHWaMqIH2Su7HuH7g=="
 ---
