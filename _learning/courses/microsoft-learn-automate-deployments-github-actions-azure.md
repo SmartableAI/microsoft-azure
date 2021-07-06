@@ -8,7 +8,7 @@ length: PT44M
 ratings:
   count: 13
   average: 4.923077
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ topics:
   - Mobile
   - DevOps
 
-secured: "uSYkdJ9QLUu4giZM5qfXDYCJPBBAgIIC+y1wpjuZgpPoyK6VLSCmSxE1RLYhGeNmoBeENZ8yIK7Lu6+SoEzsT+GwiIytFXYrXXBPXTneRJekQf3mQ1dEv8VxPaJ6a68umP3xC8ZOx3eugXXq8Vko8H8e4V/TpsB3XBhbhQHn52tNTp6ShCnKZPV2rLVYEPb2JU3HHX2GJbUsHcgnLd3Xvmsyk4KNdMpCfb9pSjeXd/nETqLf1lr6JRObNYOY5FKcuZpHoxDi1ripR5PWRneM+PE1jkxnOCP8MUjaBGFiSzEtoKHgUxRtKwpet6CnHL+c3GYa9yMO/Y3lhMUkN5mG/rsBnGNA+xwWBxPFKfPJOf1EoNBmpViTHW4xrNt83p/BcmwmR24AhRnnY0wn882c82CMWqozKMdg/zpvkC5/Uas=;/W9ZyUahiPPvH6kkesxIQw=="
+secured: "BTYlyVGHorluk8Z1uULxI/v3bkbrdTEeHQNT8ZSt63jyOlMSSQwxYFRLvZYpfcujo9+55ij3Aeyak3/PpmHiwP+pNB6vcM+QOex7qELJ+gs9wKhGeAY0SJ7CE2+v+TWrrqhWUnoXAA1J5OJHTWEa1/IcNBRaY27wc2/cDNeVScO/r2PF4pkqkxawknAXZbGnJi86XeavaroFwXGoGTIqs5ueoZpb3hgeVDouaAuYu45wlLlU0v0LTLcrXDl3TmtA4r3hdfYo+C7J+DGLgfWfTI+Xpl+64ueK7dxeWuWh6/DXt9vE25lKbOMpvEfFh4lBthe0NRTRzFLxMz78O7KxvnsrvTZXso9iF4x1xWBC7C+zNqlwD25+b3w62flJ0pLwWt1xhXvZehwwFq+TTdBB31BB4vU44TqmOBt0Vdom/f0=;UUBPJd9cTKLPnz1afcA7Jw=="
 ---
 

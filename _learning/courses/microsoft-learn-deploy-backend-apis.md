@@ -8,7 +8,7 @@ length: PT43M
 ratings:
   count: 17
   average: 4.5882354
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ topics:
   - Blockchain
   - Integration
 
-secured: "VRAK20Y4vpD8kccCmTAn+2EqNsPvkpSy4hkmEa3aonmJ54B2hiWiP17FjjHfxkDPQ5IsUhVW7ilsPDpWAVB9tIFEptz69960txZAgbmb9UuescvxSyaTWY0gYgRHxLZbo/GXSalzOiBhgeKzQsxoYRTng2Q4gaGjSUGcaXwmXVbTSnXVrniMKJ9Tsa2K/YSFbjqSlDwSDGm8A7jGI5VWZY7FpNCAwIhEpaPuVSliRxfF6A2W6b8V4xv9k6/Zru3NhJJnQjF1UO4DqipC+2mGWqzV1vEQp6s1WWhfNunrZVLbl8aMZubkj2I9eJsfmE7qPd2a9AXq8L7Sklv+c+R+s5pFbBavDAqAx2IK0WNkZGJal/bzBAZTpaiXu8bee+BiLPbi9JAFZ2A8jufeoT+NY9snFUZUBMOTYSNNRfvM6pE=;y0dgWnNli21KVa/YZTKGfQ=="
+secured: "fK5S82a0Cj18PYzDNsLaMXl02k0ySwFO5QwcTBTrdGfzUfC9iLejsxg3uvexr/SX58ePSQ2mt4B7LSD1P36vNvl1gO1FqnSIkhgEIsaCCN+W3PvcIOGgFEA4GmVaTqUBBkpC6IaOElLtaFxTjCRtgQRZEo/3aWtkog5nS32JRgzzNQhgnCjJ6gYVa/5Uz1WJ90Ph5k6LM/gbDzsNWapnsTqrGQzLw44nXEIbd4oyOdxcCu4Vv5SbHaZOPS7RJx0qLZdicO4k7OPdeRnR/Um/SOHIA/JSVnrk141V6tsaFfICLN/gR4Hhm4aPJbXTqE4MqKsw2XWsojKnb5Phm5x/uiKjaLLuV/YMsB2X29eU0Cfq1VKLtbJho0BWME91q2giIJ9KnQ929HkUUZ2mm2bZUdzHojNY0VvnDkbE4tdIO+w=;l4PadaCz/X609TQgVT+uSQ=="
 ---
 
