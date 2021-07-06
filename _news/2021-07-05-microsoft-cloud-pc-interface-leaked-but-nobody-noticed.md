@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/microsoft-cloud-pc-interface-leak
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed"
 type: article
 quality: 82
-heat: 162
+heat: 163
 published: true
 
 provider:
