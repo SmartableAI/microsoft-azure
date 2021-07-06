@@ -334,6 +334,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 22
+  - title: "Hackers Attack Microsoft Cloud Customer Apps Via Synnex"
+    excerpt: "Hackers attempted to use Synnex to gain access to customer applications within the Microsoft cloud environment in an attack possibly tied to the Kaseya ransomware campaign."
+    publishedDateTime: 2021-07-06T15:20:00Z
+    webUrl: "https://www.crn.com/news/security/hackers-attack-microsoft-cloud-customer-apps-via-synnex"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 22
+    images:
+      - url: "https://www.crn.com/resources/026b-12b1016bde8f-b9d2e7cc9487-1000/hacker-security-data-2.jpg"
+        width: 608
+        height: 455
+        isCached: true
   - title: "DataDx Version 2.0 Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataDx ®, business intelligence for independent medical and dental practices, today announced the availability of its state-of-the art dashboard with real-time analytics reporting in the Microsoft ( News - Alert) Azure Marketplace,"
     publishedDateTime: 2021-06-28T13:05:00Z

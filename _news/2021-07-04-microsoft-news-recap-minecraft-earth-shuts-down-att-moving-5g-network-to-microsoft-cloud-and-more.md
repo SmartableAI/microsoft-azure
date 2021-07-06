@@ -334,6 +334,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 22
+  - title: "Hackers Attack Microsoft Cloud Customer Apps Via Synnex"
+    excerpt: "Hackers attempted to use Synnex to gain access to customer applications within the Microsoft cloud environment in an attack possibly tied to the Kaseya ransomware campaign."
+    publishedDateTime: 2021-07-06T15:20:00Z
+    webUrl: "https://www.crn.com/news/security/hackers-attack-microsoft-cloud-customer-apps-via-synnex"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 22
+    images:
+      - url: "https://www.crn.com/resources/026b-12b1016bde8f-b9d2e7cc9487-1000/hacker-security-data-2.jpg"
+        width: 608
+        height: 455
+        isCached: true
   - title: "Microsoft Cloud PC teaser image leaked"
     excerpt: "A teaser image for Microsoft’s long-promised Cloud PC offering has been shared on Twitter (see below) by a user who mistakenly believed that the offering would be unveiled at the recent Windows event."
     publishedDateTime: 2021-07-05T22:07:00Z

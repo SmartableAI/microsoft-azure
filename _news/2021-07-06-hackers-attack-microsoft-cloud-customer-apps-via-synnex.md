@@ -1,26 +1,26 @@
 ---
 category: news
-title: "OAG Flight Info API now available in Microsoft Azure Marketplace"
-excerpt: "OAG, a leading provider of air travel data and insights, has announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-publishedDateTime: 2021-06-29T04:29:00Z
-originalUrl: "https://www.bernama.com/en/business/news.php?id=1976919"
-webUrl: "https://www.bernama.com/en/business/news.php?id=1976919"
+title: "Hackers Attack Microsoft Cloud Customer Apps Via Synnex"
+excerpt: "Hackers attempted to use Synnex to gain access to customer applications within the Microsoft cloud environment in an attack possibly tied to the Kaseya ransomware campaign."
+publishedDateTime: 2021-07-06T15:20:00Z
+originalUrl: "https://www.crn.com/news/security/hackers-attack-microsoft-cloud-customer-apps-via-synnex"
+webUrl: "https://www.crn.com/news/security/hackers-attack-microsoft-cloud-customer-apps-via-synnex"
 type: article
-quality: 37
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: bernama.com
-  domain: bernama.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.bernama.com/bm/img/bernama.png"
-    width: 2483
-    height: 2942
+  - url: "https://www.crn.com/resources/026b-12b1016bde8f-b9d2e7cc9487-1000/hacker-security-data-2.jpg"
+    width: 608
+    height: 455
     isCached: true
 
 related:
@@ -202,6 +202,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "OAG Flight Info API now available in Microsoft Azure Marketplace"
+    excerpt: "OAG, a leading provider of air travel data and insights, has announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+    publishedDateTime: 2021-06-29T04:29:00Z
+    webUrl: "https://www.bernama.com/en/business/news.php?id=1976919"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 37
+    images:
+      - url: "https://www.bernama.com/bm/img/bernama.png"
+        width: 2483
+        height: 2942
+        isCached: true
   - title: "SingleStore Managed Service Arrives on the Microsoft Azure Marketplace"
     excerpt: "SingleStore, a fast unified database for data-intensive applications, announced that SingleStore Managed Service is now available in the Microsoft Azure Marketplace, providing Microsoft customers with an easy way to procure SingleStore technology."
     publishedDateTime: 2021-06-29T16:07:00Z
@@ -320,20 +334,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 22
-  - title: "Hackers Attack Microsoft Cloud Customer Apps Via Synnex"
-    excerpt: "Hackers attempted to use Synnex to gain access to customer applications within the Microsoft cloud environment in an attack possibly tied to the Kaseya ransomware campaign."
-    publishedDateTime: 2021-07-06T15:20:00Z
-    webUrl: "https://www.crn.com/news/security/hackers-attack-microsoft-cloud-customer-apps-via-synnex"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 22
-    images:
-      - url: "https://www.crn.com/resources/026b-12b1016bde8f-b9d2e7cc9487-1000/hacker-security-data-2.jpg"
-        width: 608
-        height: 455
-        isCached: true
   - title: "Microsoft Cloud PC teaser image leaked"
     excerpt: "A teaser image for Microsoft’s long-promised Cloud PC offering has been shared on Twitter (see below) by a user who mistakenly believed that the offering would be unveiled at the recent Windows event."
     publishedDateTime: 2021-07-05T22:07:00Z
@@ -413,6 +413,6 @@ related:
         height: 768
         isCached: true
 
-secured: "0jJFqR7qmwuFbOVzjORy4c0+rCgeFvxktbdHrD4E5R7cGcl7qoap5PuI7q/htcYPmF6j0if5lKYHA7XTBLjCJfv1pBmRhSt9fWD7zi08wlrfgIna5fIGk4byZPx/DnG2TmOuzNvBLm8jVGiBzLY1Ge0N7xuM61ydVbz8fb1c8tRxFaiGxnVmtJlyaqm59PbqSVlqTjLOmomgR23gJE00TTnCKLGk/9BjoWYvJwClOyBwjMJuJ6f9OKr+N6fXK0fqY4meKR7aTe4pAkiz6xeL6RffzbtC+jFmYcsWcrQ8h3+vWuV2lGCF1jRsHt9Z57wzmBnmPxKGN+16wk9gw+ea8QbdWt4dR7EKJw/lYOdHEDA=;boA9G5+AUxRS2V+Ehqz2mg=="
+secured: "+csAijQoZFqEAOwPNfVu3A/X4lyaZ7E0X9f892R7Nps8iahGfEowc+hWznoRORRN+YuxJZbvC4mkyLOXjBlxMc31liYcAMRSkjE8iIY2FoXHjU2RLCSBzp5TDGOi/dyn54W5Lmsih9GMlX1Ls2GLGGcGK0QX+1YHwYf16TpJbzNh7Pw/Pcxnq9WcLyujYd5lM4BX2QyDTyFMsZgZAP2fSyJdDkb8nIO0yW5QXJ9YtDHrzuXFSNqueIOaAgguIUznXcb7qanLnCZ2lFWV7O3B5poG3efKF9AcTOjWfSvprSSmlwcavQRqpyt5A4kTDwXHFpA1DauaIvsNycPabv43ur0oPq1Zw0AMCtz6UFELMCQ=;KIo/hNsDAR5gYjkKdzk+vA=="
 ---
 

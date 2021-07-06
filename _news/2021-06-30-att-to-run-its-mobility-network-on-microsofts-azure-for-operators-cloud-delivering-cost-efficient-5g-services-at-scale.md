@@ -334,6 +334,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 22
+  - title: "Hackers Attack Microsoft Cloud Customer Apps Via Synnex"
+    excerpt: "Hackers attempted to use Synnex to gain access to customer applications within the Microsoft cloud environment in an attack possibly tied to the Kaseya ransomware campaign."
+    publishedDateTime: 2021-07-06T15:20:00Z
+    webUrl: "https://www.crn.com/news/security/hackers-attack-microsoft-cloud-customer-apps-via-synnex"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 22
+    images:
+      - url: "https://www.crn.com/resources/026b-12b1016bde8f-b9d2e7cc9487-1000/hacker-security-data-2.jpg"
+        width: 608
+        height: 455
+        isCached: true
   - title: "Microsoft Cloud PC teaser image leaked"
     excerpt: "A teaser image for Microsoft’s long-promised Cloud PC offering has been shared on Twitter (see below) by a user who mistakenly believed that the offering would be unveiled at the recent Windows event."
     publishedDateTime: 2021-07-05T22:07:00Z
@@ -399,6 +413,6 @@ related:
         height: 768
         isCached: true
 
-secured: "abBipJi6LISuLhv7G9Md/1OOxiq6XKnk+xrKGNK+CeBq8riCVxO1lZ9fLE9jbuxehz1NTGORrm1WTOOW9BR6Gueu3AU62z2R0jWOfSMhoupZq5T9KgLFtrW1Fnb+6SND+BSpsB/NJFwHRDAksi1p/D944Lou21Iev2ELHj9TDOurtPa42wJK8QrSjYLa3REoTkJYZCClY1vPQZf4/Pj6rxhRO8Dv1faikBzfmJLLp9Ww1T0/1gFQZFlApKHHmZqq0igHRpSTQU3lvO8mr4SFAvS6Rx5bXonW+4rndkZ6FZF0sz1Z/EsdnFPF7ED61oi0IamQoCCIQb4LIABNu6R1+3+kep12SBBNpAO/MAXtULQ=;NMrWSTa3O9j+BUxtL83L8A=="
+secured: "0Betg2s6E5/bFq2VleCxa8mu2jdXCYRaS8WBSBc50xhwK1lLVKdg6Ma7eEDAgn8KbzfZFvSsBao9bnW8m8mlfNg1C4yCiokbuoj2+4u1mq0Br3OU1HdAUYMk1S+d9/YG23IpTPHZ6xXo3P6Rj4QbuvUSxr9TjZbWDQK4uBaLuNtwv5G8oaPFK89PJVsS8baconskG/Bnw3RLterrnel5YGYts4GhQLf76Crc275EcBIsfMvkIE1bGcl1JN+ySoOmNYRwhHDPWaf1Bhn1x63V32KwcxTumiQhsrO0m5sii2Pul2HZ4yUCGpy0cXzxSA6cvejYF1AhSmgzYoX3Br01EatkF/QHKfHfXzD0Mpnu8eN/Sr/ee5RJmfqlYBW/YJ7zjTsg24+XWFmyR5LfCI5hBDbq8pvYtB0TExPsubZplGzBRMgSLvIa986JARk/MSkYH4XPr12MX9x6vc3ClEP+klXpY1rIWNAlSANL6JvXk8pZ6Y9kQTYUASfJcUENOFns7QLQo/bIYNl3HzAfhb0u0g==;ygFNuOhZvhEG1o0i7ASeEg=="
 ---
 
