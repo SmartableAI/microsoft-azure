@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-acquires-at-t-net
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-acquires-at-t-networking-tech-to-bolster-its-azure-for-operators-strategy/"
 type: article
 quality: 108
-heat: 729
+heat: 749
 published: true
 
 provider:
@@ -276,6 +276,20 @@ related:
       - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
         width: 1280
         height: 721
+        isCached: true
+  - title: "The 10 Hottest Microsoft Azure Tools Of 2021 (So Far)"
+    excerpt: "Azure Arc, Azure Kubernetes Services and Azure Cosmos DB are some of CRN’s hottest Microsoft Azure tools of 2021 so far."
+    publishedDateTime: 2021-07-06T19:30:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/the-10-hottest-microsoft-azure-tools-of-2021-so-far-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/026b-12b15ac9a2b5-ea757742c3a8-1000/microsoft-azure-sign-2.jpg"
+        width: 500
+        height: 375
         isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."

@@ -286,6 +286,20 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "The 10 Hottest Microsoft Azure Tools Of 2021 (So Far)"
+    excerpt: "Azure Arc, Azure Kubernetes Services and Azure Cosmos DB are some of CRN’s hottest Microsoft Azure tools of 2021 so far."
+    publishedDateTime: 2021-07-06T19:30:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/the-10-hottest-microsoft-azure-tools-of-2021-so-far-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/026b-12b15ac9a2b5-ea757742c3a8-1000/microsoft-azure-sign-2.jpg"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
     publishedDateTime: 2021-06-23T13:00:00Z
@@ -427,6 +441,6 @@ related:
         height: 768
         isCached: true
 
-secured: "tnxjf2+Tl93kV0on1STfT/J7iQTHOKTa/m2wE172xPOhRXcdQaeLfdC8p09lyCWmPl4M6kBhBOBq0XYBt8gLgOR47Pnp5oZdKxnC8QUxazoEc7Cj26S7PVeBzGSSM39Nk1RB7SOpjJAeaF+y5kOgWuYY3eFuOXoQALpNwcPK3EugC0pWhlxWcNvpcwBFgFL6DygW2sG+ovf3ShPc8u8G5lQLlE4A/jtYN4vvbiDd8ai0uv6Kq3ZjYZFrE3bWrhI6g0I043K3WQ/M25UJvQCzZl3m7aca3JAJVKxprlYAghNAbYDKcM+vhalC57G5Tm7hNiHWe/WVmzKED7efRGsSNnPgt8XXHxQq+p0fwTFz7v0=;XY54PZ5On9b20HMhxr7dSQ=="
+secured: "Vv8yWDB/h//XJaJcFpoTTKyDb0DIrtUUm84Tjpq/xnub4OVCaOuS5yO4gD2Qt0ztdXbou+LsWOvTMQ+fznok/WWUEuzdtQ02mVQuYKZkxITELBCgnw56R1UnS6nf2HQJOpeERsBYvjLDekDtnNKK33vpMn3W2k+Io7RA3mizyU7EQtJ37Pr3EJaN2bUeWhq9g/2NOVZhsTOKu9jbrWkk4Y3MR9tyhBRb8gmSl5W1t10rcVybuwru1dfuKf1NcuayHwUbEkqNWBgWDvMknJoHmHJ4TcUzxnnHgY42vqB6BLKGn0bkmCjXlPVuFt50KLLtenfzR21s7/DNI8ygK24QUR3Lt9r91yCrxobeCNCFS5FDM6ho2/rDZt2AVZRQLbDVb6PD4J9AJS2NnT5q4WCwWkSDWCFUVZ2qG/Ij5GMJPwmOmciz9nNuHrkI1h87EQhhIPkFH7GvpBtRj+CC9pAsu9+L8mCSpJSyGMs6ITQP3Q6R8jPY5Bk2qJKyCAXfggQavILnS/6DmnLSzmTHGyZu2A==;2FJAzdplrSvJO5A/O/Na6A=="
 ---
 

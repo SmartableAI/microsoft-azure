@@ -277,6 +277,20 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "The 10 Hottest Microsoft Azure Tools Of 2021 (So Far)"
+    excerpt: "Azure Arc, Azure Kubernetes Services and Azure Cosmos DB are some of CRN’s hottest Microsoft Azure tools of 2021 so far."
+    publishedDateTime: 2021-07-06T19:30:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/the-10-hottest-microsoft-azure-tools-of-2021-so-far-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/026b-12b15ac9a2b5-ea757742c3a8-1000/microsoft-azure-sign-2.jpg"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
     publishedDateTime: 2021-06-23T13:00:00Z

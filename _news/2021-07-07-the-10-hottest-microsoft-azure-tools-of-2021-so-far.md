@@ -1,26 +1,26 @@
 ---
 category: news
-title: "BICS Unveils Support for Microsoft’s Azure Peering Service"
-excerpt: "BICS has announced its support for Microsoft’s Azure Peering Service, which will provide businesses with direct access to Microsoft"
-publishedDateTime: 2021-06-25T00:54:00Z
-originalUrl: "https://www.thefastmode.com/technology-solutions/20078-bics-unveils-support-for-microsoft-s-azure-peering-service"
-webUrl: "https://www.thefastmode.com/technology-solutions/20078-bics-unveils-support-for-microsoft-s-azure-peering-service"
+title: "The 10 Hottest Microsoft Azure Tools Of 2021 (So Far)"
+excerpt: "Azure Arc, Azure Kubernetes Services and Azure Cosmos DB are some of CRN’s hottest Microsoft Azure tools of 2021 so far."
+publishedDateTime: 2021-07-06T19:30:00Z
+originalUrl: "https://www.crn.com/slide-shows/cloud/the-10-hottest-microsoft-azure-tools-of-2021-so-far-"
+webUrl: "https://www.crn.com/slide-shows/cloud/the-10-hottest-microsoft-azure-tools-of-2021-so-far-"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Deep
-  domain: thefastmode.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.thefastmode.com/media/k2/items/src/36ebcc738294e9b879f823f52915d1c6.jpg?t=20210625_004943"
-    width: 752
-    height: 408
+  - url: "https://www.crn.com/resources/026b-12b15ac9a2b5-ea757742c3a8-1000/microsoft-azure-sign-2.jpg"
+    width: 500
+    height: 375
     isCached: true
 
 related:
@@ -188,6 +188,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "BICS Unveils Support for Microsoft’s Azure Peering Service"
+    excerpt: "BICS has announced its support for Microsoft’s Azure Peering Service, which will provide businesses with direct access to Microsoft"
+    publishedDateTime: 2021-06-25T00:54:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20078-bics-unveils-support-for-microsoft-s-azure-peering-service"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/36ebcc738294e9b879f823f52915d1c6.jpg?t=20210625_004943"
+        width: 752
+        height: 408
+        isCached: true
   - title: "OAG Flight Info API now available in Microsoft Azure Marketplace"
     excerpt: "OAG, a leading provider of air travel data and insights, has announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
     publishedDateTime: 2021-06-29T04:29:00Z
@@ -271,20 +285,6 @@ related:
       - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
         width: 1280
         height: 721
-        isCached: true
-  - title: "The 10 Hottest Microsoft Azure Tools Of 2021 (So Far)"
-    excerpt: "Azure Arc, Azure Kubernetes Services and Azure Cosmos DB are some of CRN’s hottest Microsoft Azure tools of 2021 so far."
-    publishedDateTime: 2021-07-06T19:30:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/the-10-hottest-microsoft-azure-tools-of-2021-so-far-"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/026b-12b15ac9a2b5-ea757742c3a8-1000/microsoft-azure-sign-2.jpg"
-        width: 500
-        height: 375
         isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
@@ -441,6 +441,6 @@ related:
         height: 768
         isCached: true
 
-secured: "Cf6FgopBznBmnzqpkE8go5Fcyw/pZGjnV7jauU867ofIm4p8IQ2QdJKKas9EMo8rIK9u1aeVlIHX9byQ+ZeH0WNADFVBg9LHMDLTLUAGbMb7DfX3F5TszLD9DkVKSOIJ+F1P4SlpZcfXfZI31pNL0OX7OWQsF77mVXlrRmHMVOm3J/T8GFeI5Vt8E78uk+F0AZctHH6OcHYntUIDEnESuNYHDzb+91CO9Zj8Opi5y+KQzIL093e0Ng/rtVlM5nCaXxmqZcgBcGBswD/IVqZn7L0y4FdHfp5sXg3vrqWIV90APPn1vTWOShIkWu1EB6RmyyuYXFLZq3tVWs88evqEmDbtmchAc4msFxNxfC/yyeJe5C/537p8Jq5CemXbHPUp2/8vLSEQ231qowOIAc5xX9Y9Vz4J2FqOyDLEtQVkKVwSKNT58wYfEE3CWjFlZXnObOf1gk1l/oA7fTjYoiJyFsG0rEwaj0IUkWg70c7QCh8/5/UanMS8VAr9NES5EpF7TBeGFTaIX1SVjCOJVYG4fw==;6UmT4NYkO62x39xnr64Ahw=="
+secured: "btA7aeRo/pyG5Dl9UFDR3vZKPryYAjvXmK5Uv14fc3waNnUIqP7Dd+ZTEa5883RyLiP0vR4fkUhzdnbTkCclYpJdD0nkOgwqjdm2AK84WbLu8xlT/6+fOIJHG8jcTu5L+GKzrywluzPFo3sDArxFPHnZOZdQtA3RmBHx9Me+4JZtgSBi3/FyfZFX0w/sd1Ykiq4yLIY1VVfsCFqthlonemaEPGJnf+41TqgnDI+2pq4TD25fT2o2Fd1bHQcs/+0erlUXNy+y7R9abGLNz9j2l3d5yQUE/y8TaanTkgGadC2iPFggtyZSOxDMgyV+RAxEObhGtOu4NcjUfdg3zyarBNc5gQPZSEIkMk7cDv2H96M=;YEDqseHcfaE+RHnGwFXrvw=="
 ---
 

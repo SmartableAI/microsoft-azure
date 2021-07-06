@@ -286,6 +286,20 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "The 10 Hottest Microsoft Azure Tools Of 2021 (So Far)"
+    excerpt: "Azure Arc, Azure Kubernetes Services and Azure Cosmos DB are some of CRN’s hottest Microsoft Azure tools of 2021 so far."
+    publishedDateTime: 2021-07-06T19:30:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/the-10-hottest-microsoft-azure-tools-of-2021-so-far-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/026b-12b15ac9a2b5-ea757742c3a8-1000/microsoft-azure-sign-2.jpg"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Microsoft to acquire AT&T’s Network Cloud; Azure to host AT&T 5G network"
     excerpt: "The partnership builds on an existing $2bn deal where AT&T moved its back-end office to Microsoft Azure. The tech company became AT&T's preferred cloud provider for \"non-network a"
     publishedDateTime: 2021-07-01T12:07:00Z
