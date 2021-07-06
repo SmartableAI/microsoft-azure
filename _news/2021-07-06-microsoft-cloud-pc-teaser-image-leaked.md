@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft Cloud Gaming comes to Windows 10 and iOS"
-excerpt: "Microsoft is announcing that it plans to expand the cloud gaming experience to Windows 10 and iOS devices, in the near future."
-publishedDateTime: 2021-07-01T07:49:00Z
-originalUrl: "https://windowsreport.com/microsoft-cloud-gaming-windows-10/"
-webUrl: "https://windowsreport.com/microsoft-cloud-gaming-windows-10/"
-ampWebUrl: "https://windowsreport.com/microsoft-cloud-gaming-windows-10/?amp"
-cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-cloud-gaming-windows-10/?amp"
+title: "Microsoft Cloud PC teaser image leaked"
+excerpt: "A teaser image for Microsoft’s long-promised Cloud PC offering has been shared on Twitter (see below) by a user who mistakenly believed that the offering would be unveiled at the recent Windows event."
+publishedDateTime: 2021-07-05T22:07:00Z
+originalUrl: "https://www.crn.com.au/news/microsoft-cloud-pc-teaser-image-leaked-566924"
+webUrl: "https://www.crn.com.au/news/microsoft-cloud-pc-teaser-image-leaked-566924"
 type: article
-quality: 42
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: windowsreport.com
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.windowsreport.com/wp-content/uploads/2021/07/xbox-cloud-gaming.jpg"
-    width: 1920
-    height: 1280
+  - url: "https://i.nextmedia.com.au/News/Cloud_PC.jpeg"
+    width: 2048
+    height: 1152
     isCached: true
 
 related:
@@ -159,6 +157,22 @@ related:
       - url: "https://www.computerweekly.com/visuals/German/article/cloud-storage-costs-adobe.jpg"
         width: 1200
         height: 400
+        isCached: true
+  - title: "Microsoft Cloud Gaming comes to Windows 10 and iOS"
+    excerpt: "Microsoft is announcing that it plans to expand the cloud gaming experience to Windows 10 and iOS devices, in the near future."
+    publishedDateTime: 2021-07-01T07:49:00Z
+    webUrl: "https://windowsreport.com/microsoft-cloud-gaming-windows-10/"
+    ampWebUrl: "https://windowsreport.com/microsoft-cloud-gaming-windows-10/?amp"
+    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-cloud-gaming-windows-10/?amp"
+    type: article
+    provider:
+      name: Windows
+      domain: windowsreport.com
+    quality: 42
+    images:
+      - url: "https://cdn.windowsreport.com/wp-content/uploads/2021/07/xbox-cloud-gaming.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Microsoft Joins MEF To Bolster Azure for Operators Services"
     excerpt: "\"Microsoft's decision to join MEF aligns with key goals of our Microsoft Azure for Operators initiative to bring the power of the cloud to the network, unlock the potential of 5G, and drive down ..."
@@ -311,20 +325,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 22
-  - title: "Microsoft Cloud PC teaser image leaked"
-    excerpt: "A teaser image for Microsoft’s long-promised Cloud PC offering has been shared on Twitter (see below) by a user who mistakenly believed that the offering would be unveiled at the recent Windows event."
-    publishedDateTime: 2021-07-05T22:07:00Z
-    webUrl: "https://www.crn.com.au/news/microsoft-cloud-pc-teaser-image-leaked-566924"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 22
-    images:
-      - url: "https://i.nextmedia.com.au/News/Cloud_PC.jpeg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "DataDx Version 2.0 Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataDx ®, business intelligence for independent medical and dental practices, today announced the availability of its state-of-the art dashboard with real-time analytics reporting in the Microsoft ( News - Alert) Azure Marketplace,"
     publishedDateTime: 2021-06-28T13:05:00Z
@@ -390,6 +390,6 @@ related:
         height: 768
         isCached: true
 
-secured: "RSdL0W+IYrj7gGsGfV9+1joirrHQ5w3ke4hV/AW50nli74yWT4xqrBNFzNs3kUid/GdLjLInw5qZsboq9m1oRRDyzCRs0aKvlXoenfM/kTQFxgvmQdpoYG08NI3qrqyf8X9SNJkP/lJum9mIanE1ImMPhqt6Op2isMkxUxkaHFp+tvqrnGC4UTHJh49ejCWMGeGRR7dQ/tHOLI3HJqmewrjwlxeqikKkyUj6FKC8CmCREotArCMDry/uTT8IRt+rkFBIyMWK9HETwwt14bOkLa65hxIomTC8/+JcMG9rxPdFMx/IilFhVpBGmwJAEcGRwc42k4IF/ILtakyCPndeCYjxpGtJU10/yn2Np0pfY8nZ6rSBLhI8A29uDKEUzvx/spxc/dmzAsEjnPlxyBSD0c2kGhaMgS83zhe+MSEgez3lN/xcynrqGDFClYWi1v7VBSXc+t+h030Q5+w4iaxFfUM2uWf2XhzroovHnBrYETu2lExEDzI0uYdt5nZFREGnCPSwTyqDo5uoEaMOpqAjJA==;kRoIlsc68OS+Wh7mfZDNVw=="
+secured: "VbBnzx/nM1bawTeHR0KhPeaxc5uq6c3J/ZHyVsqOtDeemhlnx41T9+nB9EIoSWcMf7o1ljovcp0VErsNLn8Y/YtEDls40rSNSrjgy7dhDZvgjTX7OksFAPVLOIVZFJ5DWO+8Ueq6GO7IYawVppXGjhadXNPgf7I8Mv7DHt9lIOx/LiePSGMGijqEpfJc/BzXz/6YEi9IrR7t6EzMeCL63jnS3SvifsvWNRwxdRB0+yPMbSDOsVizIJnw/J9wNm7JGOkNlNZzD0c5nSe9YVL81lm14Vw0LegcqJ61QCEZE7eNimGen2FF5PF2xGfTe3JXHViVtZuswtcaFWMMplqE8bZGBUrW9UIaVAXbeOtYCe4=;bcI03/OXOuypATqradGLKA=="
 ---
 
