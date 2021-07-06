@@ -228,8 +228,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-performance-monitoring/",
       "length": "PT42M",
       "ratings": {
-        "count": 672,
-        "average": 4.794643
+        "count": 673,
+        "average": 4.794948
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -579,8 +579,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-causes-performance-issues/",
       "length": "PT36M",
       "ratings": {
-        "count": 632,
-        "average": 4.806962
+        "count": 633,
+        "average": 4.807267
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -665,8 +665,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-performance-based-design/",
       "length": "PT50M",
       "ratings": {
-        "count": 1566,
-        "average": 4.775862
+        "count": 1567,
+        "average": 4.7734523
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1174,15 +1174,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-migrate-cassandra-workloads-cosmos-db.md",
-      "title": "Migrate Cassandra workloads to Cosmos DB",
-      "excerpt": "Migrate Cassandra workloads to Cosmos DB",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-cassandra-workloads-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-cassandra-workloads-cosmos-db/",
-      "length": "PT14M",
+      "path": "_learning/courses/microsoft-learn-microservices-data-aspnet-core.md",
+      "title": "Use managed data stores in a cloud-native ASP.NET Core microservices app",
+      "excerpt": "This module guides you through implementing Azure-managed data stores in an ASP.NET Core microservices app.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-data-aspnet-core/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-data-aspnet-core/",
+      "length": "PT57M",
       "ratings": {
-        "count": 64,
-        "average": 4.765625
+        "count": 4,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1202,9 +1202,9 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-cassandra-workloads-to-cosmos-db-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-data-aspnet-core-social.png",
+          "width": 641,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -1213,6 +1213,7 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Containers",
         "Databases"
       ]
     },
