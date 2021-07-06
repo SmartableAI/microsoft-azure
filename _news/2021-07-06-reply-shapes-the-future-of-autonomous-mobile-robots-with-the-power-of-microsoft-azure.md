@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft (News - Alert) Azure that enables new business applications across industries,"
-publishedDateTime: 2021-07-06T07:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-reply-shapes-future-autonomous-mobile-robots-with-power-/2021/07/06/9403057.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-reply-shapes-future-autonomous-mobile-robots-with-power-/2021/07/06/9403057.htm"
+excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
+publishedDateTime: 2021-07-06T07:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -373,14 +373,14 @@ related:
   - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
     excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
     publishedDateTime: 2021-06-30T14:35:00Z
-    webUrl: "https://tylerpaper.com/news/texas/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_0a6d929a-acfb-54f8-a2bd-cc00a1585be7.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
     type: article
     provider:
-      name: Tyler Morning Telegraph
-      domain: tylerpaper.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 12
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/d/72/d7298160-05b7-57c6-97bf-1f42d554bd54/60dc8b29a8cc7.image.jpg?resize=944%2C630"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
         width: 944
         height: 630
         isCached: true
@@ -399,6 +399,6 @@ related:
         height: 768
         isCached: true
 
-secured: "F7VWoSDX0jvEv6G1SR/XzWxK9rM1qhJV1qvT+6cYmL9cB5QjLES9AfzUbf0UHY0Do1RMCnuGWc1zX/RBVV7O+wkSU4omYlYzBBTMiNoDOzaJYuQ3LR4pqfuvAX0loZfLO+PrG7CqBGez7wgxY16gyoNNVsEDaYWe1d5kgmDyB7jJWDT0Ip96DIqf36RPrRYQUK5JoUpiYtlWLH0x2NfoNs7+5VMvR+PDXyXCC0VAbjhCK/09ytuztWVK53Mviu8bsW0wrTxW8Ljgt2n8Ys+mLUs1XtbCr+A8ijUmpB8vowuiZ2x+A9mokeucV65l2FqBXORTjQnZlOiLKhNtJjBfU2uzuIf/4biHgCJkF4kFhQo=;OwSXSALw4uX0ys5hkTU6eg=="
+secured: "Z7ufvRJ6c1mSJgsTQ5SBXFWH6awUpjZA4uqMY3MbmyMxByYcYJXkax43JcfJXqb9+Q4G241LlRFmIrqhorgODE1yb/Na/1GKEybYEEVOD93EM9SbQH7IW10Rxw0XMDx44Nk5amYWLussyOP+Tnmo+jitkFlT7Rjg158WByVJtmFQV3MmUe4A2UTxN7h9ptSytLH9oJ0o/5DXLVXcWCdoJIM2iUcopM2jL16+sexc7GEJlMQprzQJMyleGX2fMS0umKJJ0Wn2JiZLmYBafI+fX8OnuT21SZ5lXt06+uIIBSyvdCtaSj56vVeWwgTEZXQFaCxox+NCEEzdQ1S6JFEpMHwjMOJUW3Bhpoxct9jXRIZvMSApRRZcuL7x2ebhnmTdlNCX6Le+LWcETsEbxdD9+FvSo9V3jG3Fz9KQr6XZDAddyEaC9uWKyGTcEsHlfA9I5ILHjb00c8BFLNG1LifjG4a+PmReLDUrXq9q+j8IaF37Aab3pja8KR5x2s97iSJLWeAOMFkcAYJ3efUp/qXFcw==;Y1LlzvklL2xwXOSH2dlcYw=="
 ---
 
