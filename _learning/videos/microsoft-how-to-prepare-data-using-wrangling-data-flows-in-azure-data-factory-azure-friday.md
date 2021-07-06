@@ -4,7 +4,7 @@ excerpt: "Gaurav Malhotra joins Scott Hanselman to show how wrangling data flows
 originalUrl: https://youtube.com/watch?v=LKenBZYZaLA
 type: video
 price: Free
-length: PT8M52S
+length: PT8M51S
 publishedDateTime: 2019-11-04T10:14:34Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YoQOAp4cbEDZJaUjw/WFS/F37XXFQc6it2IwXBgWHbp+NWC67nsNkrynjyoEBLUpdHrOBCkuXzRqX82vaBjmkLjAWYsxWcayzUhI+iA243FQz4UoxYU2g089nMIDdvE7SaW7a/Cg8yKEDgC7rty/sl7wql2ycDV9WDaiA1U9RsxxeTMjiUBlHVBuZe8/xGwivfh9FJZ2gSBl6qhSeBEDO+ohoH3MkpgMhKY82EDIcYi0u1keLkeXSunw8H0rpn18EryBmmsWL+lPm03D2ZPzoWBWaysyhx2a2Tdoxvm5jCUEibV02vvJRdt0ri062PZXtFbHGldtZjdXsJVYI14oNYdKM4eKgFs1/dvv2XYjHQ5WGt080JZQK84aTnZ/GgQJoMBm9Wz6qUMqbb9hSDRrjpz4O+JBsBA6JTDH8ilYsus=;zqwf1AYFv7tj+MunAlRLJQ=="
+secured: "byKBSho/sXePTu1z7MJRXbnKn1POIjLJxRumiKbOpi05lJAS5jm1Cbwpj4W/MAioz+jNYfoKBEgLa9wEXEqrcD5gcqeeMtTEnoWpQo1niRaKeGZXESsDdT5Eq0cUbBCQ1fOZkaU9v34GYyOQ2qh2SiHbpnfx8b6qUeaavUaAu/0VBmFFN2TBswWGdK5Y2s4pv4lrKmNG3JvOKXsNzEohRxjeygcbv5aLuCoF5/ReLRErj6cFUT6YBpUkYLPrxYnSCzi40yCl1R+mM1gV9IBWPWGEFVbSaCIRHP1+Pgijeq8+ELdDibVKt7HcxzrQDR1JmmRuKQYi2HE+I+m+gbcQhjzHMGFZkkP45FqEbqRwpBuw81b12jfB1cvFz9rF8me8jP/FtoONUIX622lDaMpkgbGIhpsxMulGtjai1ulULOQ=;8pbXSjsp57hnMudk/ayLAg=="
 ---
 
