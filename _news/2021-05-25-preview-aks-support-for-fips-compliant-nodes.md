@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
+  - title: "Public Preview: Form Recognizer container support "
+    excerpt: "Announcing the public preview release of Form Recognizer containers. Form Recognizer is now also available in the following docker containers - Layout, Business Card, ID Document, Receipt, Invoice and Custom containers for you to run locally."
+    publishedDateTime: 2021-07-06T18:31:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-form-recognizer-container-support/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Support for Windows containers Azure Container Networking Interface on Azure Stack Hub coming soon in private preview"
     excerpt: ""
     publishedDateTime: 2020-05-19T16:05:33Z

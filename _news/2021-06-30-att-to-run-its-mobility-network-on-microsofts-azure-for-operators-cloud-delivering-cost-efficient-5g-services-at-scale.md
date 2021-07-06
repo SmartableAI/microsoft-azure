@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-excerpt: "This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core, the software at the ..."
-publishedDateTime: 2021-06-30T16:28:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
-webUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
+excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
+publishedDateTime: 2021-06-30T14:35:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
+    width: 944
+    height: 630
     isCached: true
 
 related:
@@ -272,6 +272,20 @@ related:
         width: 716
         height: 439
         isCached: true
+  - title: "Microsoft Azure Monthly Update: July 2021, Episode 6"
+    excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
+    publishedDateTime: 2021-07-06T18:31:00Z
+    webUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-july-2021-episode-6"
+    type: article
+    provider:
+      name: Pluralsight
+      domain: pluralsight.com
+    quality: 37
+    images:
+      - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
+        width: 1280
+        height: 721
+        isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
     publishedDateTime: 2021-06-23T13:00:00Z
@@ -413,6 +427,6 @@ related:
         height: 768
         isCached: true
 
-secured: "+9DZf3hdGnL1iqu0NodoRDUdlWfcn0xq84m7CYO5b3VLVkAwtA3q7+L8/Za90cgTEO0wwuXdke8eZd4c7kpHOU01ehWecm+Vc2kekoUADWDgLSqOLuvk6UF6eRS7tBh/JNifKXo65Jo3wdRZf/zhmlGaAJqxAcj9ZoSjSMFZrUr8wvgf1dY8M4rDN8Xo0pVznFVQ5u78RZPLlzZ0gklbAzxrmHoQ2rkAwCem26656hoP0yn7TGUW0nupIFXakrT/HbZYtXorecWmTuv5D5X4l9AIQbtee7li83lELVWEYlfiVSWIcyMCIpvlMc/Tqh3In4U+t82K1Sr4s1kaBuKInOTi+NiNVYrHI9j2Wwh6D5E=;BH+H/UQiUVU4fzX8/OeUFQ=="
+secured: "tnxjf2+Tl93kV0on1STfT/J7iQTHOKTa/m2wE172xPOhRXcdQaeLfdC8p09lyCWmPl4M6kBhBOBq0XYBt8gLgOR47Pnp5oZdKxnC8QUxazoEc7Cj26S7PVeBzGSSM39Nk1RB7SOpjJAeaF+y5kOgWuYY3eFuOXoQALpNwcPK3EugC0pWhlxWcNvpcwBFgFL6DygW2sG+ovf3ShPc8u8G5lQLlE4A/jtYN4vvbiDd8ai0uv6Kq3ZjYZFrE3bWrhI6g0I043K3WQ/M25UJvQCzZl3m7aca3JAJVKxprlYAghNAbYDKcM+vhalC57G5Tm7hNiHWe/WVmzKED7efRGsSNnPgt8XXHxQq+p0fwTFz7v0=;XY54PZ5On9b20HMhxr7dSQ=="
 ---
 

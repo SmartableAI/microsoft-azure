@@ -1,31 +1,30 @@
 ---
 category: news
-title: "Microsoft bolsters Azure with AT&T 5G deal and security collaboration"
-excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure."
-publishedDateTime: 2021-07-01T10:31:00Z
-originalUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360068/microsoft-azure-5g-att-security-mitre"
-webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360068/microsoft-azure-5g-att-security-mitre"
+title: "Microsoft Azure Monthly Update: July 2021, Episode 6"
+excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
+publishedDateTime: 2021-07-06T18:31:00Z
+originalUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-july-2021-episode-6"
+webUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-july-2021-episode-6"
 type: article
-quality: 94
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
+  name: Pluralsight
+  domain: pluralsight.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/pluralsight.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-  - Security
 
 images:
-  - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1584968476/itpro/2020/03/Microsoft%20Azure_Shutterstock.jpg"
-    width: 375
-    height: 210
+  - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
+    width: 1280
+    height: 721
     isCached: true
 
 related:
@@ -67,6 +66,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 94
+  - title: "Microsoft bolsters Azure with AT&T 5G deal and security collaboration"
+    excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure."
+    publishedDateTime: 2021-07-01T10:31:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360068/microsoft-azure-5g-att-security-mitre"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 94
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1584968476/itpro/2020/03/Microsoft%20Azure_Shutterstock.jpg"
+        width: 375
+        height: 210
+        isCached: true
   - title: "Why Microsoft's AT&T Contract Could Have 'Measurable Impact' On Azure Cloud Revenue"
     excerpt: "Although Microsoft Corporation (NASDAQ: MSFT) is playing catch-up with its cloud rival Amazon, Inc.'s (NASDAQ: AMZN) AWS, the software giant is slowly and steadily making strong inroads, according to"
     publishedDateTime: 2021-07-01T19:07:00Z
@@ -263,20 +276,6 @@ related:
         width: 716
         height: 439
         isCached: true
-  - title: "Microsoft Azure Monthly Update: July 2021, Episode 6"
-    excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
-    publishedDateTime: 2021-07-06T18:31:00Z
-    webUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-july-2021-episode-6"
-    type: article
-    provider:
-      name: Pluralsight
-      domain: pluralsight.com
-    quality: 37
-    images:
-      - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
-        width: 1280
-        height: 721
-        isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
     publishedDateTime: 2021-06-23T13:00:00Z
@@ -432,6 +431,6 @@ related:
         height: 768
         isCached: true
 
-secured: "7XymcZDIfPceT6m14ExrUM5CVZgiqxhEW+h1cVu6YThNYj3M9g3Lu3j/bNIjPa+vtbdIy34X6CQJhK6iIX2b2Lf6WcLfhBbKh9Reyp46iCDoQgf6ZyEpa33eBpPxnu8OM/XtRT7kB5Fax1BZqAbgodBb2+feseIK7f+QgUdGdSC+upKc3SBNQv4PuLCliSQj187C7Uqq0xDgGx34TOOiPh59hz+MT+P5H8cOVH1Dg4Zj4sRS/Jr9z/s5a5F/WJQGej1MqY8XSNIFCirZz9B/Z+r2eBh1NvYdcmrlUp2RWII5O9SHE7QOTmEkMM/GYX8stk8qoLlhtIfPVx57BrpIXnYiCQEB/8HUsOrR8FMkV3k=;mw5n+RggEYk24ksfHRExlA=="
+secured: "RYxrJXWzjHgzCBCbpbXaefJVFBvnnMEk0muEBds+28FhN33PwSHrU6f2suIzy1HydIyZ8OQ/qqOJVtrfpi/qH/6o3ahfbaU335sH1LeIy/6o+X5XzRsy6dIIbqEcY7ykAzjw7XO4o6GSvXkcUOX77Knknv60pOcSrMhj/M4NvwwPrvsyari1FxevPIaNeTidkw9Oz051U0UlQt4TL1SEhsuJv6QvA/ouBGm7RcYD9CWlk2RLEY9wYHq/tyv9EfI1xAra6kAWPOkpxTBbT9n8hs7rSX66CXdaO6vGu2EyC8HT+B+b3RUd6Oetd1xNpXX5t15BBiSCvMktsuQtDUivx6wECct1JSU7gN0Di5xJ1fs=;9npW6Sb4QHAKTNU6CeAk7g=="
 ---
 

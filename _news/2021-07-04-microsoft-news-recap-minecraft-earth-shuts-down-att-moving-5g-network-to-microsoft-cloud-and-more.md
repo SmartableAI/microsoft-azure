@@ -272,6 +272,20 @@ related:
         width: 716
         height: 439
         isCached: true
+  - title: "Microsoft Azure Monthly Update: July 2021, Episode 6"
+    excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
+    publishedDateTime: 2021-07-06T18:31:00Z
+    webUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-july-2021-episode-6"
+    type: article
+    provider:
+      name: Pluralsight
+      domain: pluralsight.com
+    quality: 37
+    images:
+      - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
+        width: 1280
+        height: 721
+        isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
     publishedDateTime: 2021-06-23T13:00:00Z
@@ -399,18 +413,18 @@ related:
       domain: businesswire.com
     quality: 15
   - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core, the software at the ..."
-    publishedDateTime: 2021-06-30T16:28:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
+    publishedDateTime: 2021-06-30T14:35:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 12
     images:
-      - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
         isCached: true
 
 secured: "qt88XaVKlmpTFe6YbiXwVWsdw0zGP8mQhkY1CNBz350LPuvO40TcQTenH8EBgL6VogBUaNmpTAjPcsNhp09F2ZSHoFlRB5THaA76pe+bvdS5N/wjN71o/+wTknU01Yqd0HWEzJ6UFsuaFdXkvw/PS4ld1k/t8Rny2t5CFAYm+5I7rr+b0Zt4QZSLjE1aNRyvGZOS8u47eiyxzVpVitRldt7ruG8Q0AyQvGzqBcBO2m3zORhGdxHLy9PyeCzfjxeJjSoqu6IKGH4Ug0ByKq3wh6DjTUXbPqd/U60BhCu7Nj4V0T2ZAD4Ub1QHQbJasNgp9/Z8GoVMQQzrIhTvz6lHIR18XXGbHt/g8Ehw3TQS9I8=;NQCUHqid8ain1oKlUdKC+w=="
