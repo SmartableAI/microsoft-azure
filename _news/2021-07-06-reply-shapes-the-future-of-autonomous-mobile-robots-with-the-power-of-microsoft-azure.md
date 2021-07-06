@@ -1,27 +1,22 @@
 ---
 category: news
-title: "Microsoft makes big 5G play as AT&T moves core to Azure cloud"
-excerpt: "Microsoft VP of 5G Strategy Shawn Hakl told Fierce that the combination of gaining a Tier one anchor tenant, along with IP and expertise to incorporate directly into Azure for Operators, is key and unique to the deal."
-publishedDateTime: 2021-06-30T17:11:00Z
-originalUrl: "https://www.fiercewireless.com/5g/microsoft-makes-bigger-5g-play-as-at-t-moves-core-to-azure-cloud"
-webUrl: "https://www.fiercewireless.com/5g/microsoft-makes-bigger-5g-play-as-at-t-moves-core-to-azure-cloud"
+title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
+excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft (News - Alert) Azure that enables new business applications across industries,"
+publishedDateTime: 2021-07-06T07:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-reply-shapes-future-autonomous-mobile-robots-with-power-/2021/07/06/9403057.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-reply-shapes-future-autonomous-mobile-robots-with-power-/2021/07/06/9403057.htm"
 type: article
-quality: 37
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Fierce Wireless
-  domain: fiercewireless.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://qtxasset.com/fiercewireless/1625073696/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png?SX9t9ysna94JXCELLQtb2nBx_bdHushz"
-    width: 716
-    height: 439
-    isCached: true
+  - Mobile
 
 related:
   - title: "Microsoft acquires AT&T networking tech to bolster its Azure for Operators strategy"
@@ -258,6 +253,20 @@ related:
         width: 606
         height: 456
         isCached: true
+  - title: "Microsoft makes big 5G play as AT&T moves core to Azure cloud"
+    excerpt: "Microsoft VP of 5G Strategy Shawn Hakl told Fierce that the combination of gaining a Tier one anchor tenant, along with IP and expertise to incorporate directly into Azure for Operators, is key and unique to the deal."
+    publishedDateTime: 2021-06-30T17:11:00Z
+    webUrl: "https://www.fiercewireless.com/5g/microsoft-makes-bigger-5g-play-as-at-t-moves-core-to-azure-cloud"
+    type: article
+    provider:
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 37
+    images:
+      - url: "https://qtxasset.com/fiercewireless/1625073696/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png?SX9t9ysna94JXCELLQtb2nBx_bdHushz"
+        width: 716
+        height: 439
+        isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
     publishedDateTime: 2021-06-23T13:00:00Z
@@ -300,15 +309,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft (News - Alert) Azure that enables new business applications across industries,"
-    publishedDateTime: 2021-07-06T07:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-reply-shapes-future-autonomous-mobile-robots-with-power-/2021/07/06/9403057.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
   - title: "Cyber Recovery Solutions Market Next Big Thing | Major Giants Wasabi, AWS, Microsoft Azure, DELL, IBM"
     excerpt: "Latest published market study on Cyber Recovery Solutions Market provides an overview of the current market dynamics in the Cyber Recovery Solutions space as well as what our survey respondents all outsourcing decision makers predict the market will look like"
     publishedDateTime: 2021-06-29T17:42:00Z
@@ -399,6 +399,6 @@ related:
         height: 768
         isCached: true
 
-secured: "1Dmr1C/v6cgZrMpDMBI1/IwwfIhl8Sp6vHugFrsv3SswrZeMMxdO0cuOr7eBN31iolesnYuJhBTk3sGA4L/mboiV3YgozyjX+mFTn4mIpaZC6h10K4pSD+ASO/rr5mG8jR7PtDhf0MsgA/D9QHYuUa6UdGLc2f5hf0inawwaRF7EA1X/t2P+wSs8BT+lCBuQ+oXaHuq7zeljhqRSUSz9q1QCEdQE8YmN8Px6/Pmch53pIkOogtfO7CL6AmLYcc6nVTX9/Vji8DZTGQAUxOqcSRyguhBjzaNb+wI+bIFmLpWJkJo5irD5pLJ4Ickq1thIPqgSnSSy9Bk5x/suu32U1coPXzFBFQlzRksP9eIJo8gx/PPExZuRzqlZL8/9tBfLSlpl8n1spEKIEufnqp4ykVVmyQI6UIfBo8A87ivGDMrvFruS8Oa0OFy3BCKfb1eMxa/Qjz1CORlxE0N8LVj71Yjj6GnCoorfsOCpKGcoA9PuJhCAJ7xxz0g6XhJ5PnDaYa3lolC7Cm+QvScxBccwtw==;To9Uqnj4BU07M2k1B9ylnQ=="
+secured: "F7VWoSDX0jvEv6G1SR/XzWxK9rM1qhJV1qvT+6cYmL9cB5QjLES9AfzUbf0UHY0Do1RMCnuGWc1zX/RBVV7O+wkSU4omYlYzBBTMiNoDOzaJYuQ3LR4pqfuvAX0loZfLO+PrG7CqBGez7wgxY16gyoNNVsEDaYWe1d5kgmDyB7jJWDT0Ip96DIqf36RPrRYQUK5JoUpiYtlWLH0x2NfoNs7+5VMvR+PDXyXCC0VAbjhCK/09ytuztWVK53Mviu8bsW0wrTxW8Ljgt2n8Ys+mLUs1XtbCr+A8ijUmpB8vowuiZ2x+A9mokeucV65l2FqBXORTjQnZlOiLKhNtJjBfU2uzuIf/4biHgCJkF4kFhQo=;OwSXSALw4uX0ys5hkTU6eg=="
 ---
 

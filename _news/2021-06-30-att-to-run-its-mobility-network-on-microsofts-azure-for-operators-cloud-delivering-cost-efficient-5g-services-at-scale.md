@@ -3,22 +3,22 @@ category: news
 title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
 excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
 publishedDateTime: 2021-06-30T14:35:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
+originalUrl: "https://tylerpaper.com/news/texas/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_0a6d929a-acfb-54f8-a2bd-cc00a1585be7.html"
+webUrl: "https://tylerpaper.com/news/texas/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_0a6d929a-acfb-54f8-a2bd-cc00a1585be7.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Tyler Morning Telegraph
+  domain: tylerpaper.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
+  - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/d/72/d7298160-05b7-57c6-97bf-1f42d554bd54/60dc8b29a8cc7.image.jpg?resize=944%2C630"
     width: 944
     height: 630
     isCached: true
@@ -314,6 +314,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
+    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft (News - Alert) Azure that enables new business applications across industries,"
+    publishedDateTime: 2021-07-06T07:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-reply-shapes-future-autonomous-mobile-robots-with-power-/2021/07/06/9403057.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
   - title: "Cyber Recovery Solutions Market Next Big Thing | Major Giants Wasabi, AWS, Microsoft Azure, DELL, IBM"
     excerpt: "Latest published market study on Cyber Recovery Solutions Market provides an overview of the current market dynamics in the Cyber Recovery Solutions space as well as what our survey respondents all outsourcing decision makers predict the market will look like"
     publishedDateTime: 2021-06-29T17:42:00Z
@@ -390,6 +399,6 @@ related:
         height: 768
         isCached: true
 
-secured: "xIY9x91pgq3yMaJqPP61Yc0+9zeGD6iKx2YF/Uy9IEcCna+BC0yxNkKZ4Px6dK6q6YKnz4FvBfI87jOJuxafhOhxoPTuBuEaDnnWt+mCKxgJ9n2iXSM3gMmlL63StLRvCl/4B+nSHGgBDyVOy4ugoe652EYHZajKkC6P5lWPCkMPou2tNIx0k/Vp94L8fmqVu4awRIPMAPMj3Rg5RNPC/IJc4qz4YvGt/rXRAEn8jnY0u6qJjHibfb9yUSiTh+khsI9flKfe+oQk4gb0U5JNnu50ELT+EGl4+fDPjo0dcDDBUgwKWOZMDnvAT/ie7zI0MEYv2wXuExR9lKzT7DOD6dlZgVvytz51t7pUrgofWKfUBTz+i9Pzrt0iV918EinQAR41lMXfAqay3z4nvVjEuS6MUPhfwkfgTvd2VQTi6sKA+bmPctMoAeUfYNowX+KQjiDz1gRuYbnX4ehSjHQqNycC1eBJgTVUilj3MEf3OD2R45dN9cP53IPhsq/B3G+v23zjBZjIBAZzhCL1OmrDiw==;1TMWcpv2jCTQTe1XLc9zxQ=="
+secured: "3bWq80nPKlB9jNrL2VSjTm2GR4lnW69E4U6LIbLUicwZE7nAUIChG5emnDCmnqnZlQsR+srM7KJiYD7isuPmZdh6zxugD0Iisw9CbsNWpomrOoAtdoMFJBxkxyAyh/A9t/sV41cmqRC2ss3vCINKAM+Z12NIwBf8MIgFotTpAdATaZSSxGfbkJB7nbZIVw1lR3Q3NepNYLpr/YApGbp+ggFTwAO4MdhGSxJihEIe7HYx1PcjK/gIH75ZzqoQ3TcBuZLxUIeV6roVRRBhI3+UUIWeBSrr4nay1jwzRGwRTyZZbYeef064jIfvMHdvqeaMRUlG2wBHBXTJFK4+SG1+0/7Ql24Gb16XbbRByw3iVtk=;2QNer8wfdJ2MS3pOOE2I9g=="
 ---
 
