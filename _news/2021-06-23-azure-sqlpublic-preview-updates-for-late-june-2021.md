@@ -49,6 +49,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure AD Privileged Identity Management (PIM) integration with Azure Lighthouse is now in public preview"
+    excerpt: "Enable just-enough and just-in-time controls in cross-tenant management with Azure AD PIM integration, now in public preview."
+    publishedDateTime: 2021-07-06T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ad-privileged-identity-management-pim-integration-with-azure-lighthouse-is-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Direct routing for Azure Communication Services now available in public preview"
     excerpt: "Developers will be able to use or extend their existing telephony infrastructure to the calling capabilities they build with Azure Communication Services. "
     publishedDateTime: 2021-07-07T16:00:54Z

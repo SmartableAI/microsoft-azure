@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Join Microsoft at ISC 2021 and drive innovations with Azure high-performance computing"
-excerpt: "Whether it’s understanding our environment, public health, energy sustainability, weather modeling, economic growth, and many others finding solutions to these important challenges requires huge amounts of focused computing power. Customers are increasingly finding the best way to access such high-performance"
-publishedDateTime: 2021-06-23T09:00:29Z
-originalUrl: "https://azure.microsoft.com/blog/join-microsoft-at-isc-2021-and-drive-innovations-with-azure-highperformance-computing/"
-webUrl: "https://azure.microsoft.com/blog/join-microsoft-at-isc-2021-and-drive-innovations-with-azure-highperformance-computing/"
+title: "Four big questions about the AT&T, Microsoft cloud deal"
+excerpt: "Last week's announcement from AT&T and Microsoft surprised me in a way that few other industry events have. Yes, AT&T had been at the forefront of cloud-driven network transformation, open source, disaggregation and all of the other technology shifts we've ..."
+publishedDateTime: 2021-07-07T19:44:00Z
+originalUrl: "https://www.lightreading.com/the-core/four-big-questions-about-atandt-microsoft-cloud-deal/a/d-id/770728"
+webUrl: "https://www.lightreading.com/the-core/four-big-questions-about-atandt-microsoft-cloud-deal/a/d-id/770728"
 type: article
-quality: 59
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Light Reading
+  domain: lightreading.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+    width: 600
+    height: 600
+    isCached: true
 
 related:
   - title: "Microsoft acquires AT&T networking tech to bolster its Azure for Operators strategy"
@@ -88,6 +90,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Join Microsoft at ISC 2021 and drive innovations with Azure high-performance computing"
+    excerpt: "Whether it’s understanding our environment, public health, energy sustainability, weather modeling, economic growth, and many others finding solutions to these important challenges requires huge amounts of focused computing power. Customers are increasingly finding the best way to access such high-performance"
+    publishedDateTime: 2021-06-23T09:00:29Z
+    webUrl: "https://azure.microsoft.com/blog/join-microsoft-at-isc-2021-and-drive-innovations-with-azure-highperformance-computing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
   - title: "Novibet strengthens global market position with Microsoft Azure"
     excerpt: "Novibet is taking its partnership with Microsoft Azure ‘to the next level’, which the operator believes will help strengthen its global market position."
     publishedDateTime: 2021-07-01T07:30:00Z
@@ -379,20 +390,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Four big questions about the AT&T, Microsoft cloud deal"
-    excerpt: "Last week's announcement from AT&T and Microsoft surprised me in a way that few other industry events have. Yes, AT&T had been at the forefront of cloud-driven network transformation, open source, disaggregation and all of the other technology shifts we've ..."
-    publishedDateTime: 2021-07-07T19:44:00Z
-    webUrl: "https://www.lightreading.com/the-core/four-big-questions-about-atandt-microsoft-cloud-deal/a/d-id/770728"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 22
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "DataDx Version 2.0 Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataDx ®, business intelligence for independent medical and dental practices, today announced the availability of its state-of-the art dashboard with real-time analytics reporting in the Microsoft ( News - Alert) Azure Marketplace,"
     publishedDateTime: 2021-06-28T13:05:00Z
@@ -458,6 +455,6 @@ related:
         height: 768
         isCached: true
 
-secured: "GahDjqqEBGOy2t5OuYBmubNTXq9Q+MHb7XgBDMpgpk/jzC1uBMJJb9NDsGH8l3zFq071tnEU0OptD5OXs0ba2P7F99sFWVvTCUggVZSoHGwVQnvo4X9zjRxUms5rW6rcTzN2vl64FRGdxP6L/RZolbJr4epkBg8mzZbUyQQc60sGXVTZemAmOsRddy3FKZRcfDCx64BIhTfyDktsJlMfn3EzmIGGYY5NtX82FhA6z/7EMChXo+mgHYRC5+2cyXWu8IYIcXUuTYLCByBTS+9uXHQ2Rc+6+MsyC30V3gQJIUvxsiYsXX/GC8kAK8uwPbFcQUsEz+3LdAD0DmDKps3NWdPnjhNoqTGCaJLIua2XlZU=;O8L9ftKF+2SRRJ+ZFQnPxA=="
+secured: "R/l96n9G5o+sX0wmE03vwRrhxuHtGbPcGJC9F8im4fqGVzTSgaen96SNBljmlFKiqq0h237xzAmesTdAjt3quaT3LM7b/9ORM9Af2rbRLm1CVpdDUOe5sxewl71Bpv4e9p7s/CLDnWRwkPWNMzslEP3l9eVcSyWwr8gpgyQI74nkX65+MPkzx+70frkiZmz2llbqD/pTRqX/L5l5SDrVQTyp7oY16l0lhj7YalWT+s/l49qc8vT97Wz88y1Eq2NGgFAejM7FhqxZZmH4QCYft3WjjXc0cvK1Porl4ZhrZiQfwWbn/LDQbsqErcngzjmqFnH8rUPpygOBtrcHwWBeQEd8pA/jIYWBl9LdEBkuBLI=;th1aW5NNgbmnY/k+wLfoWA=="
 ---
 

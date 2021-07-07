@@ -384,6 +384,20 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Four big questions about the AT&T, Microsoft cloud deal"
+    excerpt: "Last week's announcement from AT&T and Microsoft surprised me in a way that few other industry events have. Yes, AT&T had been at the forefront of cloud-driven network transformation, open source, disaggregation and all of the other technology shifts we've ..."
+    publishedDateTime: 2021-07-07T19:44:00Z
+    webUrl: "https://www.lightreading.com/the-core/four-big-questions-about-atandt-microsoft-cloud-deal/a/d-id/770728"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 22
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
     excerpt: "Teradata today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft Azure."
     publishedDateTime: 2021-06-29T17:00:00Z

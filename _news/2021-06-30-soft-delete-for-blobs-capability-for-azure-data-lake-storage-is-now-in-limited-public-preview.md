@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/soft-delete-for-blobs-fo
 webUrl: "https://azure.microsoft.com/en-us/updates/soft-delete-for-blobs-for-azure-data-lake-storage-is-now-in-limited-public-preview/"
 type: article
 quality: 88
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
     excerpt: "Static website for Azure Data Lake Storage is now in preview. Directly host static content from Azure Data Lake Storage, and view that content from a browser by using the public URL of that website.  "
     publishedDateTime: 2020-06-30T20:00:35Z
     webUrl: "https://azure.microsoft.com/en-us/updates/static-website-for-azure-data-lake-storage-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure AD Privileged Identity Management (PIM) integration with Azure Lighthouse is now in public preview"
+    excerpt: "Enable just-enough and just-in-time controls in cross-tenant management with Azure AD PIM integration, now in public preview."
+    publishedDateTime: 2021-07-06T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ad-privileged-identity-management-pim-integration-with-azure-lighthouse-is-now-in-public-preview/"
     type: article
     provider:
       name: Microsoft

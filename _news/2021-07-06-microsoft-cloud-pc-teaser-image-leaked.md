@@ -376,6 +376,20 @@ related:
         width: 608
         height: 455
         isCached: true
+  - title: "Four big questions about the AT&T, Microsoft cloud deal"
+    excerpt: "Last week's announcement from AT&T and Microsoft surprised me in a way that few other industry events have. Yes, AT&T had been at the forefront of cloud-driven network transformation, open source, disaggregation and all of the other technology shifts we've ..."
+    publishedDateTime: 2021-07-07T19:44:00Z
+    webUrl: "https://www.lightreading.com/the-core/four-big-questions-about-atandt-microsoft-cloud-deal/a/d-id/770728"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 22
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "DataDx Version 2.0 Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataDx ®, business intelligence for independent medical and dental practices, today announced the availability of its state-of-the art dashboard with real-time analytics reporting in the Microsoft ( News - Alert) Azure Marketplace,"
     publishedDateTime: 2021-06-28T13:05:00Z

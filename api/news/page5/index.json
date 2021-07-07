@@ -2,6 +2,100 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-25-strengthen-and-optimize-compliance-in-azure-security-center.md",
+      "title": "Strengthen and optimize compliance in Azure Security Center",
+      "excerpt": "The Regulatory Compliance dashboard in Azure Security Center is an excellent tool for helping organizations understand their compliance posture relative to industry standards.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/strengthening-compliance-in-azure-security-center/",
+      "originalUrl": "https://azure.microsoft.com/blog/strengthening-compliance-in-azure-security-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fb4f357c-bf00-4239-a2b1-b24d3f8cdadc.png",
+          "width": 1024,
+          "height": 722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T00:00:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-general-availability-publishing-vm-images-from-shared-image-gallery-to-azure-marketplace.md",
+      "title": "General availability: Publishing VM Images from Shared Image Gallery to Azure Marketplace",
+      "excerpt": "ISVs can capture their images directly into Shared Image Gallery and select those images for publishing with an inline experience in Partner Center in just two steps.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/general-availability-publishing-vm-images-from-shared-image-gallery-to-azure-marketplace/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/general-availability-publishing-vm-images-from-shared-image-gallery-to-azure-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T08:56:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-perform-at-scale-agentless-sql-server-discovery-and-assessment-with-azure-migrate.md",
       "title": "Perform at-scale, agentless SQL server discovery and assessment with Azure Migrate",
       "excerpt": "Moving on-premises infrastructure, databases, and applications to Azure is key to the success of your cloud migration and modernization journey, and we are committed to simplifying that process. With…",
@@ -1083,93 +1177,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-public-preview-announcing-azure-synapse-pathway-accelerate-your-data-warehouse-migration.md",
-      "title": "Public preview: Announcing Azure Synapse Pathway: Accelerate your data warehouse migration",
-      "excerpt": "Azure Synapse Pathway is a point-and-click solution that simplifies and accelerates migration for both on-premises and cloud data warehouses to Azure Synapse Analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-synapse-pathway-accelerate-your-data-warehouse-migration/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-synapse-pathway-accelerate-your-data-warehouse-migration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T09:00:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Analytics",
-        "Migration"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-advance-notifications-for-azure-sql-database-now-in-public-preview.md",
-      "title": "Advance notifications for Azure SQL Database now in public preview",
-      "excerpt": "Prepare for planned maintenance events on your Azure SQL Database resources and minimize the impact of database failovers on your sensitive workloads with advance notifications (preview).",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/advance-notifications-for-azure-sql-database-now-in-public-preview/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/advance-notifications-for-azure-sql-database-now-in-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 474,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T09:00:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],

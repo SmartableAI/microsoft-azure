@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Direct routing for Azure Communication Services now available in public preview"
-excerpt: "Developers will be able to use or extend their existing telephony infrastructure to the calling capabilities they build with Azure Communication Services. "
-publishedDateTime: 2021-07-07T16:00:54Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/direct-routing-for-azure-communication-services-now-available-in-public-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/direct-routing-for-azure-communication-services-now-available-in-public-preview/"
+title: "Azure AD Privileged Identity Management (PIM) integration with Azure Lighthouse is now in public preview"
+excerpt: "Enable just-enough and just-in-time controls in cross-tenant management with Azure AD PIM integration, now in public preview."
+publishedDateTime: 2021-07-06T16:00:00Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-ad-privileged-identity-management-pim-integration-with-azure-lighthouse-is-now-in-public-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-ad-privileged-identity-management-pim-integration-with-azure-lighthouse-is-now-in-public-preview/"
 type: article
-quality: 63
+quality: 84
 heat: -1
 published: false
 
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - Azure
+  - Identity
+  - Integration
 
 related:
   - title: "Soft delete for blobs capability for Azure Data Lake Storage is now in limited public preview"
@@ -49,15 +51,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure AD Privileged Identity Management (PIM) integration with Azure Lighthouse is now in public preview"
-    excerpt: "Enable just-enough and just-in-time controls in cross-tenant management with Azure AD PIM integration, now in public preview."
-    publishedDateTime: 2021-07-06T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ad-privileged-identity-management-pim-integration-with-azure-lighthouse-is-now-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Azure SQL—public preview updates for late June 2021 "
     excerpt: "Public preview enhancements and updates released for Azure SQL in late June 2021."
     publishedDateTime: 2021-06-23T16:00:49Z
@@ -67,6 +60,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Direct routing for Azure Communication Services now available in public preview"
+    excerpt: "Developers will be able to use or extend their existing telephony infrastructure to the calling capabilities they build with Azure Communication Services. "
+    publishedDateTime: 2021-07-07T16:00:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/direct-routing-for-azure-communication-services-now-available-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
   - title: "Query Acceleration for Azure Data Lake Storage now in preview"
     excerpt: ""
     publishedDateTime: 2020-04-24T22:00:07Z
@@ -77,6 +79,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "6O619b1g5LZu/4PUH1GFf39Kmbg1skq4BXLyuJ2y3eqXErTv7BCneaEMUfKZcdeJDRNQRkdGswn1EoXgsqr+vtPYpZMrlDo5b1N+2l21CyxGVgolthOHbfzZFy4YIAUDZ1fAAAfIlgzl03jSamihYPzBhAFqRao2/iBUnprZ6MvtDlJYf9ClHbdNc9nf3WZNrJsBHB0Q1Cw/Fvmkor/L64B7i1rslNVcCdmWOolQHYsfF7n2nqCsRB2d/z48bM1VzHbMMyHahZASxXw5XJShKJs3koR66LKUTHf16jtXxuSytLYMbeoKitNMwFVhr3hIFeh+k+clZzVLL152v9OXwEHA7bcwpe9eSbvFCWCVF+g=;4c2oyd7Y4sJ+Rr7REVEeLA=="
+secured: "5oEu4ssOrzZ2zOUGWk3LGxiMhfjhCNX+RZLG1y5Jn8gI941b1cWmIDVkyNKHLaMLtDX/uDrB9USOilmcvhVIN+qLnhG7aCqLt7yeCLD8oikwL98WiO2XAAet5QXryJ3bLjVfcbSuakJW+V92b15sKpe5i53p/pnpv8LW8TTMVtPT7SYKRG60R4KNtJf/gGkZtUO17KWRMp52PaMzBKWYGbu65ZH7vTfQXhwKlJifok37dMbKz+6Ru5ULojSobQpAclNTRviF63z9RqGi1bTi4+onCF+htfXLVN8bnfF9OaCL7xc8UJX+CrvOeF9DHr8AX+PGJHIHyz2iR1Vj030CjzWyOx9SB71tUXT/ZghaKdY=;ZXugMllyXTtlidcVoQ3bNQ=="
 ---
 

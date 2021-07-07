@@ -376,6 +376,20 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Four big questions about the AT&T, Microsoft cloud deal"
+    excerpt: "Last week's announcement from AT&T and Microsoft surprised me in a way that few other industry events have. Yes, AT&T had been at the forefront of cloud-driven network transformation, open source, disaggregation and all of the other technology shifts we've ..."
+    publishedDateTime: 2021-07-07T19:44:00Z
+    webUrl: "https://www.lightreading.com/the-core/four-big-questions-about-atandt-microsoft-cloud-deal/a/d-id/770728"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 22
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "DataDx Version 2.0 Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataDx ®, business intelligence for independent medical and dental practices, today announced the availability of its state-of-the art dashboard with real-time analytics reporting in the Microsoft ( News - Alert) Azure Marketplace,"
     publishedDateTime: 2021-06-28T13:05:00Z
@@ -441,6 +455,6 @@ related:
         height: 768
         isCached: true
 
-secured: "OfYWFsv5midx+AazoeY/WGkae2YccFPBRwS1nF7fK0cRLcRetx6nUZvgzHoSdEglRXNpnIVXuob8LxeSxKIVm/AAIgTUJNZevyXNMgWgL1sCMcYBRaxo00LhcPLWM79lWSdIZnCBzhjKv199LUdzU0qRIOjK4ZvhTrGteVJErtkWmduMBOkgfFawgT1JsgFMSGD3hKILxYOfb97fAdYVPjp8Y/oAbTTXuU/vlF7zWFreRDSMVHakr3u05LhGTC6blopoOZSw2EJCbEzbdIdU+xZ2y/cbTdyOrerkvWZU2OKSZ6VQoVt7vmxXtbcOcffQ2HdGiC8CGq3lsSSiTKASbdVIP2+unswaTKRKviaZ1xE=;ZpjqNT6XGpdlTf4bU08N1g=="
+secured: "gytpsv3f4kTtwQAgKGjpJ1OK3wwr3FsL8qwziV+xU7vMsgoD9j1CPvur7NFnoHRp6NrYQSUApzqSv3YBi7SV2RYavGr9b4a27JDGFPRCtx6ADbNjFsDXjfLepb+17zoTGQrusFzRBnc+Vv33K5cpHkRlAMSA4PQyv6g+kBsyVkBDMZWr3Zqh1O/OE34BRcWaLqJhBDzlgcS02EWajb/nw1LlVM7YgB+pqZjAHqyTFmzyKH6seQjRsj4K1rvsz8kTFkwACl4PZ2BGHtz2xoX2HsVxeZd8ALtl0hZW5ExYtbpvS4jNP9wsPiYBDtaqroivV4MwbiRNulQeFVvs65sGdR5obxD6tpW7gEAIEFIV2tE=;Gqr9PrfNUdFUk9wEUUhO0g=="
 ---
 

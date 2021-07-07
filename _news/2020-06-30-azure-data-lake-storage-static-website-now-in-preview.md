@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure AD Privileged Identity Management (PIM) integration with Azure Lighthouse is now in public preview"
+    excerpt: "Enable just-enough and just-in-time controls in cross-tenant management with Azure AD PIM integration, now in public preview."
+    publishedDateTime: 2021-07-06T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ad-privileged-identity-management-pim-integration-with-azure-lighthouse-is-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure SQL—public preview updates for late June 2021 "
     excerpt: "Public preview enhancements and updates released for Azure SQL in late June 2021."
     publishedDateTime: 2021-06-23T16:00:49Z

@@ -390,6 +390,20 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Four big questions about the AT&T, Microsoft cloud deal"
+    excerpt: "Last week's announcement from AT&T and Microsoft surprised me in a way that few other industry events have. Yes, AT&T had been at the forefront of cloud-driven network transformation, open source, disaggregation and all of the other technology shifts we've ..."
+    publishedDateTime: 2021-07-07T19:44:00Z
+    webUrl: "https://www.lightreading.com/the-core/four-big-questions-about-atandt-microsoft-cloud-deal/a/d-id/770728"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 22
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "DataDx Version 2.0 Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataDx ®, business intelligence for independent medical and dental practices, today announced the availability of its state-of-the art dashboard with real-time analytics reporting in the Microsoft ( News - Alert) Azure Marketplace,"
     publishedDateTime: 2021-06-28T13:05:00Z
@@ -441,6 +455,6 @@ related:
         height: 768
         isCached: true
 
-secured: "7AcT4XWeonrrJs7uOEmqDBc/WUV2RnWGU5+Swkg70VHCZmzrmuydqz9b/BCrvT1jRj+ww3djnAwwE9zID3osn3HXUh/sNpMO+4gdSJDKIiLkPsSWCyObyZUiSnh6GUFj5eqDV+UQEsx8s1OKFihzDYFlzHkdIsL+ptRqKOWJly7SWR5dPZODMaELuwubpDnrkyeilWJGmcEwgveyp5yaafdy6gYPVjZ7cGsy6kZfWc+vuMD+Lrw/Ynh+yixlqE9CKHKdaxGLriKODrC99h/QquAyh0yzWpaSvYgzrT+JT1nyPGCD9Sxz9MY31zxyp0jRHYbe5batGjr8xKlD7xUpqfaxRJMnES6259cEkTsieOQ=;a5zt1aPwg74Qo7NWglhLNQ=="
+secured: "e+jPbpjcBMe6389Af/78UPaLoBa/dOwJ0eIsBFp9uIXStrhNw9wME8+IPVQb+gArXi5XfjdwkepunmUQ0laGVnY5x+O3gpXplxau3FiS8uyHSspUGBdCLRLKad/tSDXBA4+IAtfcwZOc5SaIKNjRO2wzSeEGA3+P0lEhRqGqTK9LA34Bip7k/sSIl/bwKhkzJ9vAz40RJtDNCwUgkMt7dUztnxrlN7XPBinw76qR7IP7IFhw0H6aqaHYPU52fIqHhFfSxT+9FFtnWH9GmRatElI0JjD+k+rJjrua16D8ZKAlU5Mrh6EJEl6sBziRG9xQ1fZ8xkLdTvcdoYrnSylhNsWblirxT27oTlo+bXHXhSkQYBct290mvhmSe2DcSNJUTTqG1ZZZ/TnREjyPEHTDeFnOK6PJOvq0C47tE0UqLGoT1cuozE4ug/fCnnok2gRfEWj1ZhoyQmGZtLtMpKwczEc79JRuB1iK1cnHjPBj81zaDXkjIG+aumboZSyvkXbx9GzRCnqr11VaJ42QI67BNg==;RohoMtiBaCNywBesAZwADQ=="
 ---
 

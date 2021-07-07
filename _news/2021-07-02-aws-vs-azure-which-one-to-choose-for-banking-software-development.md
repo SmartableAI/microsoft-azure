@@ -9,8 +9,8 @@ ampWebUrl: "https://www.business2community.com/finance/aws-vs-azure-which-one-to
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/aws-vs-azure-which-one-to-choose-for-banking-software-development-02416270/amp"
 type: article
 quality: 57
-heat: 57
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business 2 Community
@@ -24,6 +24,22 @@ images:
     width: 700
     height: 550
     isCached: true
+
+related:
+  - title: "Sorry, AWS and Azure: DoD Cancels JEDI Cloud Contract"
+    excerpt: "The Department of Defense (DoD) has canceled the $10 billion JEDI cloud contract. AWS and Microsoft Azure have been battling for the contract."
+    publishedDateTime: 2021-07-07T18:25:00Z
+    webUrl: "https://www.channelfutures.com/regulation-compliance/sorry-aws-and-azure-dod-cancels-jedi-cloud-contract"
+    type: article
+    provider:
+      name: channelfutures
+      domain: channelfutures.com
+    quality: 37
+    images:
+      - url: "https://www.channelfutures.com/files/2021/06/20-JEDI-Light-Sabers.jpg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "KC+AxvkOCUxrB3F/RcdWEL2z3wTOvkSKJUiArNeKnXJRN4ztl07O4SH88oh3T2xGi9NTfoFI7jNnztnVmx+GEyHEAvTFKP2hiGbK5zLfXlZzDcCA2UACfUWSDv1EJLO/2eFtli1P+2bg4nVJYgA9Ck7O3ZTK45vXfQOEOkZ322rN9ujJlHCY5Xvp8cO9CV1dmt2Q15uTQQb6bRrVMiPCiDOrrhTfoV+vvXC011J2CCP3l9wYYVzeOKOxszHt5RnGmIof18H89+LVgJBT58CdNqLFfpuYhCpctDXog/RhZvVuvN+bd1UZxzG9xMqPay45PydWjluEKTEu1n+qDLf+2/hr6XEJb55tA0kCvUAHrow=;s1u6y1okKCkxa2X5GyINqg=="
 ---
