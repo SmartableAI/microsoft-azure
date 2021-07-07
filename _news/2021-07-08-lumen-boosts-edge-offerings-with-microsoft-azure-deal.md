@@ -1,27 +1,25 @@
 ---
 category: news
-title: "Novibet strengthens global market position with Microsoft Azure"
-excerpt: "Novibet is taking its partnership with Microsoft Azure ‘to the next level’, which the operator believes will help strengthen its global market position."
-publishedDateTime: 2021-07-01T07:30:00Z
-originalUrl: "https://sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/"
-webUrl: "https://sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/"
-ampWebUrl: "https://sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/amp/"
-cdnAmpWebUrl: "https://sbcnews-co-uk.cdn.ampproject.org/c/s/sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/amp/"
+title: "Lumen Boosts Edge Offerings with Microsoft Azure Deal"
+excerpt: "Lumen Technologies announced a strategic partnership today with Microsoft involving Microsoft Azure cloud services. Microsoft Azure capabilities will be extended into Lumen’s edge computing infrastructure and each company will become a preferred partner of the other."
+publishedDateTime: 2021-07-07T21:47:00Z
+originalUrl: "https://www.telecompetitor.com/lumen-boosts-edge-offerings-with-microsoft-azure-deal/"
+webUrl: "https://www.telecompetitor.com/lumen-boosts-edge-offerings-with-microsoft-azure-deal/"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: sbcnews.co.uk
-  domain: sbcnews.co.uk
+  name: OTT
+  domain: telecompetitor.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://oddslifenetstorage.blob.core.windows.net/sbcnews/2021/07/shutterstock_497818927-1.jpg"
-    width: 660
+  - url: "https://www.telecompetitor.com/images/cloud-computing-330x330.jpg"
+    width: 330
     height: 330
     isCached: true
 
@@ -101,6 +99,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 59
+  - title: "Novibet strengthens global market position with Microsoft Azure"
+    excerpt: "Novibet is taking its partnership with Microsoft Azure ‘to the next level’, which the operator believes will help strengthen its global market position."
+    publishedDateTime: 2021-07-01T07:30:00Z
+    webUrl: "https://sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/"
+    ampWebUrl: "https://sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://sbcnews-co-uk.cdn.ampproject.org/c/s/sbcnews.co.uk/technology/2021/07/01/novibet-strengthens-global-market-position-with-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: sbcnews.co.uk
+      domain: sbcnews.co.uk
+    quality: 57
+    images:
+      - url: "https://oddslifenetstorage.blob.core.windows.net/sbcnews/2021/07/shutterstock_497818927-1.jpg"
+        width: 660
+        height: 330
+        isCached: true
   - title: "AT&T to move 5G mobile network to Microsoft Azure"
     excerpt: "In turn, Microsoft will gain access to AT&T’s intellectual property and technical expertise to grow its telecoms flagship offering, Azure for Operators, which is designed to help operators ..."
     publishedDateTime: 2021-07-02T09:46:00Z
@@ -286,20 +300,6 @@ related:
         width: 500
         height: 375
         isCached: true
-  - title: "Lumen Boosts Edge Offerings with Microsoft Azure Deal"
-    excerpt: "Lumen Technologies announced a strategic partnership today with Microsoft involving Microsoft Azure cloud services. Microsoft Azure capabilities will be extended into Lumen’s edge computing infrastructure and each company will become a preferred partner of the other."
-    publishedDateTime: 2021-07-07T21:47:00Z
-    webUrl: "https://www.telecompetitor.com/lumen-boosts-edge-offerings-with-microsoft-azure-deal/"
-    type: article
-    provider:
-      name: OTT
-      domain: telecompetitor.com
-    quality: 37
-    images:
-      - url: "https://www.telecompetitor.com/images/cloud-computing-330x330.jpg"
-        width: 330
-        height: 330
-        isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
     publishedDateTime: 2021-06-23T13:00:00Z
@@ -469,6 +469,6 @@ related:
         height: 768
         isCached: true
 
-secured: "DPutI67U6JEuJjVi392l5mDefzWsvI5BUibyGnLhRS2wDR/HgiqYk6Yz/LU6ebGXiGounzZBhCj1dwG1X3p+ltMcnzDDz5d8OBsOVcs7QLG5NeD021IX8AelERrRKar7Ntv16OoQGgpQD00z1E8VCu4w4K1x3JqRTsUeein766oE0G5zO/UiXjo5g9C5KiHdwahiE0wxlKqw5DFHgXGdOdLpbhm5an3M6ii0+OJbYCI1TpZNF2n1gl8fHw5Md6YIwz9ikjKk8iIKRYNLQvBLz0A7PRrjY24lev62XZREo3T5l6xWc5S/C1lLgQzN9SMjXWXMPWEdXLST4TuhWPEjfI0fTex15WSzoikH+69U4lA=;i5D0d/NkA74yc+Rti4EgjQ=="
+secured: "c1G9XsNPkVBsiXvbdKJS3jpcF1ca75Uj2ysz+76gXWPBEFcpK1pVyKicn48LLutXUV4zrcmStxF76zg6Vd3ykPyKdBdsWo93ZXcX9SEE4YNzTCEseY6b0wC1Ms7EzzOSe+Nyr8FCNGLHUFQljqhJB1JFuOH8GJPScpks6fm5baq+aHtQikCxU0Rqs3JMztTDe6i8vSITUdPikx39uO6N7akBeRAbw56E3yafrockQEsX+jsjkZhlntaeA1/cSCdtdGCFQs4WyCL1ku/+yyAgl4YcOPQkC1Zer2Fnyu4fwhxvCHQp/c1B9idu9G1ATkHB9aZYTkCgMuI//SG2cYeLnJh6Dxh4D9o4Gz343BE+mLg=;Qe5jhDVhgvMi1wYJLjE9VA=="
 ---
 

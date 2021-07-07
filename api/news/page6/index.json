@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-02-zone-redundant-storage-zrs-option-for-azure-managed-disks-in-limited-preview.md",
+      "title": "Zone Redundant Storage (ZRS) option for Azure managed disks in limited preview",
+      "excerpt": "Zone Redundant Storage (ZRS) option for Azure managed disks protect disks from zonal failures which may occur due to natural disasters or hardware issues.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/zone-redundant-storage-zrs-option-for-azure-managed-disks-in-limited-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/zone-redundant-storage-zrs-option-for-azure-managed-disks-in-limited-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T09:00:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-public-preview-announcing-azure-synapse-pathway-accelerate-your-data-warehouse-migration.md",
       "title": "Public preview: Announcing Azure Synapse Pathway: Accelerate your data warehouse migration",
       "excerpt": "Azure Synapse Pathway is a point-and-click solution that simplifies and accelerates migration for both on-premises and cloud data warehouses to Azure Synapse Analytics.",
@@ -1109,50 +1152,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-apache-spark-connector-for-sql-server-and-azure-sql-now-compatible-with-spark-30.md",
-      "title": "Apache Spark Connector for SQL Server and Azure SQL now compatible with Spark 3.0",
-      "excerpt": "We are announcing that the preview release of the Apache Spark 3.0 compatible Apache Spark Connector for SQL Server and Azure SQL, available through Maven.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/apache-spark-connector-for-sql-server-and-azure-sql-now-compatible-with-spark-30/",
-      "originalUrl": "https://azure.microsoft.com/blog/apache-spark-connector-for-sql-server-and-azure-sql-now-compatible-with-spark-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T01:00:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Developer tools",
-        "Databases"
       ]
     }
   ],

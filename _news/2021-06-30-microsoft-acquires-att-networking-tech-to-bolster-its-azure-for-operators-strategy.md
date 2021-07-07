@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-acquires-at-t-net
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-acquires-at-t-networking-tech-to-bolster-its-azure-for-operators-strategy/"
 type: article
 quality: 108
-heat: 768
+heat: 788
 published: true
 
 provider:
@@ -290,6 +290,20 @@ related:
       - url: "https://www.crn.com/resources/026b-12b15ac9a2b5-ea757742c3a8-1000/microsoft-azure-sign-2.jpg"
         width: 500
         height: 375
+        isCached: true
+  - title: "Lumen Boosts Edge Offerings with Microsoft Azure Deal"
+    excerpt: "Lumen Technologies announced a strategic partnership today with Microsoft involving Microsoft Azure cloud services. Microsoft Azure capabilities will be extended into Lumen’s edge computing infrastructure and each company will become a preferred partner of the other."
+    publishedDateTime: 2021-07-07T21:47:00Z
+    webUrl: "https://www.telecompetitor.com/lumen-boosts-edge-offerings-with-microsoft-azure-deal/"
+    type: article
+    provider:
+      name: OTT
+      domain: telecompetitor.com
+    quality: 37
+    images:
+      - url: "https://www.telecompetitor.com/images/cloud-computing-330x330.jpg"
+        width: 330
+        height: 330
         isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."

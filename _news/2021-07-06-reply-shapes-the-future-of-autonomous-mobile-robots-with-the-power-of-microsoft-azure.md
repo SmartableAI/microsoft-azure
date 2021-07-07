@@ -295,6 +295,20 @@ related:
         width: 500
         height: 375
         isCached: true
+  - title: "Lumen Boosts Edge Offerings with Microsoft Azure Deal"
+    excerpt: "Lumen Technologies announced a strategic partnership today with Microsoft involving Microsoft Azure cloud services. Microsoft Azure capabilities will be extended into Lumen’s edge computing infrastructure and each company will become a preferred partner of the other."
+    publishedDateTime: 2021-07-07T21:47:00Z
+    webUrl: "https://www.telecompetitor.com/lumen-boosts-edge-offerings-with-microsoft-azure-deal/"
+    type: article
+    provider:
+      name: OTT
+      domain: telecompetitor.com
+    quality: 37
+    images:
+      - url: "https://www.telecompetitor.com/images/cloud-computing-330x330.jpg"
+        width: 330
+        height: 330
+        isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
     publishedDateTime: 2021-06-23T13:00:00Z
@@ -455,6 +469,6 @@ related:
         height: 768
         isCached: true
 
-secured: "gytpsv3f4kTtwQAgKGjpJ1OK3wwr3FsL8qwziV+xU7vMsgoD9j1CPvur7NFnoHRp6NrYQSUApzqSv3YBi7SV2RYavGr9b4a27JDGFPRCtx6ADbNjFsDXjfLepb+17zoTGQrusFzRBnc+Vv33K5cpHkRlAMSA4PQyv6g+kBsyVkBDMZWr3Zqh1O/OE34BRcWaLqJhBDzlgcS02EWajb/nw1LlVM7YgB+pqZjAHqyTFmzyKH6seQjRsj4K1rvsz8kTFkwACl4PZ2BGHtz2xoX2HsVxeZd8ALtl0hZW5ExYtbpvS4jNP9wsPiYBDtaqroivV4MwbiRNulQeFVvs65sGdR5obxD6tpW7gEAIEFIV2tE=;Gqr9PrfNUdFUk9wEUUhO0g=="
+secured: "nAl+T3GG3lrWjCPzb596RjxBnW0Ouqw8aEPluNrMmwIzpSH3lRzW8YAtMBF6FmL2M4sYy/hiUTUYcxhJ1qXpoCi6e6RfmIu5MJGLlhxLhzW9cjl49sWaN8Ownj6658RWyKtxE0BFTbcJAbW4ukFek3e5qOu8ARUqi4ceML3ATVHKturvQEpjXOLY4tloiuj+uUY+/Plb1jgYLoDH3ndFSHrf2UHFQZcrMnAJhcaEsvK3gdhH7vWIBoX4QTJj716NY3ol/CJYnINTajrs5G4EKvbyWJbWvOG2IY4wOHgG7r/ez0Exjl+OqZS1qLL8/BKebONOcyo1rsY6o6ZI06USAGcbF5IVLv3Cj87ZxLSyzZU=;P5dsAvpFBUkIeD/fwn4Z2w=="
 ---
 

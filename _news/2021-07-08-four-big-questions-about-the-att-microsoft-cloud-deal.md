@@ -300,6 +300,20 @@ related:
         width: 500
         height: 375
         isCached: true
+  - title: "Lumen Boosts Edge Offerings with Microsoft Azure Deal"
+    excerpt: "Lumen Technologies announced a strategic partnership today with Microsoft involving Microsoft Azure cloud services. Microsoft Azure capabilities will be extended into Lumen’s edge computing infrastructure and each company will become a preferred partner of the other."
+    publishedDateTime: 2021-07-07T21:47:00Z
+    webUrl: "https://www.telecompetitor.com/lumen-boosts-edge-offerings-with-microsoft-azure-deal/"
+    type: article
+    provider:
+      name: OTT
+      domain: telecompetitor.com
+    quality: 37
+    images:
+      - url: "https://www.telecompetitor.com/images/cloud-computing-330x330.jpg"
+        width: 330
+        height: 330
+        isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
     publishedDateTime: 2021-06-23T13:00:00Z

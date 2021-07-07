@@ -117,6 +117,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 91
+  - title: "General availability: Updates to secrets configuration options in App Service and Azure Functions"
+    excerpt: "App Service and Azure Functions have been updated to better support management of secrets as part of your secure application development process. "
+    publishedDateTime: 2021-07-07T20:02:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-updates-to-secrets-configuration-options-in-app-service-and-azure-functions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 88
   - title: "General Availability: Azure Spot on Azure Kubernetes Service"
     excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
     publishedDateTime: 2020-10-28T16:00:28Z

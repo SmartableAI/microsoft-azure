@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability:  VNET peering support for Azure Bastion"
-excerpt: "You can now deploy Azure Bastion in a peered Virtual Network (VNet), enabling RDP/SSH connectivity to virtual machines deployed in a peered Virtual network (VNet)"
-publishedDateTime: 2021-05-14T17:00:25Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vnet-peering-support-for-azure-bastion/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vnet-peering-support-for-azure-bastion/"
+title: "General availability: Updates to secrets configuration options in App Service and Azure Functions"
+excerpt: "App Service and Azure Functions have been updated to better support management of secrets as part of your secure application development process. "
+publishedDateTime: 2021-07-07T20:02:13Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-updates-to-secrets-configuration-options-in-app-service-and-azure-functions/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-updates-to-secrets-configuration-options-in-app-service-and-azure-functions/"
 type: article
-quality: 67
+quality: 88
 heat: -1
 published: false
 
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - Azure
+  - Compute
+  - Serverless
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -117,15 +119,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 91
-  - title: "General availability: Updates to secrets configuration options in App Service and Azure Functions"
-    excerpt: "App Service and Azure Functions have been updated to better support management of secrets as part of your secure application development process. "
-    publishedDateTime: 2021-07-07T20:02:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-updates-to-secrets-configuration-options-in-app-service-and-azure-functions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 88
   - title: "General Availability: Azure Spot on Azure Kubernetes Service"
     excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
     publishedDateTime: 2020-10-28T16:00:28Z
@@ -387,6 +380,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability:  VNET peering support for Azure Bastion"
+    excerpt: "You can now deploy Azure Bastion in a peered Virtual Network (VNet), enabling RDP/SSH connectivity to virtual machines deployed in a peered Virtual network (VNet)"
+    publishedDateTime: 2021-05-14T17:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vnet-peering-support-for-azure-bastion/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: Azure Data Explorer and subnet delegation"
     excerpt: "Injecting an Azure Data Explorer cluster into a virtual network has never been easier."
     publishedDateTime: 2021-06-17T16:00:24Z
@@ -514,6 +516,6 @@ related:
       domain: microsoft.com
     quality: 42
 
-secured: "fvt6UK+rvdKa17tse41tN2AsqRcVDH5gpO6PhJGQgUytWC2ti2CWrJedT4XZidF0duFFILxwghCcFJDgc/HCZP7BiRsOmT6jwMutOyzakF32XEaocoAeVX67olWLziYpX4K7rF9qC6eTWx0jNFtlhNs0VLSEHSKJimoONa7zaAzM+AEadRwsu+ogo6aMDiMytM3FDh4lYF4LGxYT+LXF4YLcH0UjebLkH/HvLU1k4qR7zEjya2k8135BknJNUsDJTvPjhdCuflwvquqQpKnz/MK9dXBPAHdsO/VWcDEv4QSUWSF2cvIQz9Ez9PZze2f2i8wFpFMdzCqjr6rhqSZEZPt0rRLeeIqTD19+H7oevKw=;0aV0OMqJmJiAQqITwqLU9A=="
+secured: "37FzdNnwIrFQ1nY6Ufqx270adeELda/8TyWjv6xTQ4Sv063pLR5aC+WdkVZPPreM87S8m0PmZEpid4t16nne77+yf3XdW7thhGzGR8vHX9ENWfnp6x6rnSlEc/INHN+PPQOKJkISd2dTGJowgPS91hNIdVs2mefa2hXf2Eam0cwbiwbGOKVnKMQ0ALtBc+j/8k80VXiTJJ8m4FU6bnHQZuS3A6seL7KwNji63te3fJpb3c/UOjTS2TyEeZFo1YoX4QMTs5pzWmaCejkF/NhBKsdgav3GaSP7RBDN/mhW174OS4BCmwUifL2TEWGu1NWkCcw1/UnGeZcZwOSUPu1+yc3gurAEeBNeZm9WsvQmY70=;87j6SddtS6FqciuXSfTOZA=="
 ---
 

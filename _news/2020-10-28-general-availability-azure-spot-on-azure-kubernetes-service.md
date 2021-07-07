@@ -118,6 +118,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 91
+  - title: "General availability: Updates to secrets configuration options in App Service and Azure Functions"
+    excerpt: "App Service and Azure Functions have been updated to better support management of secrets as part of your secure application development process. "
+    publishedDateTime: 2021-07-07T20:02:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-updates-to-secrets-configuration-options-in-app-service-and-azure-functions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 88
   - title: "General availability: Azure Functions supports .NET 5 in production "
     excerpt: "Azure Functions now supports running production applications in .NET 5, the latest version of .NET. "
     publishedDateTime: 2021-03-10T17:00:14Z

@@ -300,6 +300,20 @@ related:
         width: 500
         height: 375
         isCached: true
+  - title: "Lumen Boosts Edge Offerings with Microsoft Azure Deal"
+    excerpt: "Lumen Technologies announced a strategic partnership today with Microsoft involving Microsoft Azure cloud services. Microsoft Azure capabilities will be extended into Lumen’s edge computing infrastructure and each company will become a preferred partner of the other."
+    publishedDateTime: 2021-07-07T21:47:00Z
+    webUrl: "https://www.telecompetitor.com/lumen-boosts-edge-offerings-with-microsoft-azure-deal/"
+    type: article
+    provider:
+      name: OTT
+      domain: telecompetitor.com
+    quality: 37
+    images:
+      - url: "https://www.telecompetitor.com/images/cloud-computing-330x330.jpg"
+        width: 330
+        height: 330
+        isCached: true
   - title: "Microsoft to acquire AT&T’s Network Cloud; Azure to host AT&T 5G network"
     excerpt: "The partnership builds on an existing $2bn deal where AT&T moved its back-end office to Microsoft Azure. The tech company became AT&T's preferred cloud provider for \"non-network a"
     publishedDateTime: 2021-07-01T12:07:00Z
