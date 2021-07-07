@@ -49,6 +49,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Direct routing for Azure Communication Services now available in public preview"
+    excerpt: "Developers will be able to use or extend their existing telephony infrastructure to the calling capabilities they build with Azure Communication Services. "
+    publishedDateTime: 2021-07-07T16:00:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/direct-routing-for-azure-communication-services-now-available-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
   - title: "Query Acceleration for Azure Data Lake Storage now in preview"
     excerpt: ""
     publishedDateTime: 2020-04-24T22:00:07Z

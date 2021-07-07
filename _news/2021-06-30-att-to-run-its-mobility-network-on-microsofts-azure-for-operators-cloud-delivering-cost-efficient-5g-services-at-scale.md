@@ -1,26 +1,26 @@
 ---
 category: news
-title: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-excerpt: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud."
-publishedDateTime: 2021-06-30T15:14:00Z
-originalUrl: "https://apnews.com/article/technology-business-86842df143e2d4a16f1a97b01b7f5657"
-webUrl: "https://apnews.com/article/technology-business-86842df143e2d4a16f1a97b01b7f5657"
+title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
+publishedDateTime: 2021-06-30T14:35:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
+    width: 944
+    height: 630
     isCached: true
 
 related:
@@ -440,18 +440,7 @@ related:
         width: 1365
         height: 768
         isCached: true
-  - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
-    excerpt: "Studies compare VMs in online transaction processing and data analytics work Durham, NC, July 07, 2021 --(PR.com)-- Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason ..."
-    publishedDateTime: 2021-07-07T08:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/r21869826/principled-technologies-releases-two-studies-on-the-benefits-of-new-microsoft-azure-vms-featuring-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21869826"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21869826"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
 
-secured: "p26HiNWcduviRwrghHB239JO6ILfDNYwuAbDu20u+jw1cuH9dbL/lIkjKXQ/lff3GtEkE3P+kJ7c3Z2g6L6w0GEVky6Cbg920rA9dMv30n9jhceSeuuzbKEp4GMRvDjOEWjVOqLlkRAMZJoqHlp2NdxBUrBBxpV73v9APV5+VhnwrN+uUWs6cwZW9GgwfeT7B4hDsfS1E0JcIAhN7GbuHeXQLYaPm3uXjXBaHnVicljrK4dwI+konuixAw4FNsycOsTiwiTV/6GwwvSMURGqISomkocsjc7imajVPrbJFOMc8JWU+FMlTBL5A3zSZiPvEhZRtsko5sIN9kToAfmgiYQrL1p7RkiDpDk518h7LVE=;zuKYBxAJmre3StT5SnHA3g=="
+secured: "7AcT4XWeonrrJs7uOEmqDBc/WUV2RnWGU5+Swkg70VHCZmzrmuydqz9b/BCrvT1jRj+ww3djnAwwE9zID3osn3HXUh/sNpMO+4gdSJDKIiLkPsSWCyObyZUiSnh6GUFj5eqDV+UQEsx8s1OKFihzDYFlzHkdIsL+ptRqKOWJly7SWR5dPZODMaELuwubpDnrkyeilWJGmcEwgveyp5yaafdy6gYPVjZ7cGsy6kZfWc+vuMD+Lrw/Ynh+yixlqE9CKHKdaxGLriKODrC99h/QquAyh0yzWpaSvYgzrT+JT1nyPGCD9Sxz9MY31zxyp0jRHYbe5batGjr8xKlD7xUpqfaxRJMnES6259cEkTsieOQ=;a5zt1aPwg74Qo7NWglhLNQ=="
 ---
 

@@ -57,6 +57,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Direct routing for Azure Communication Services now available in public preview"
+    excerpt: "Developers will be able to use or extend their existing telephony infrastructure to the calling capabilities they build with Azure Communication Services. "
+    publishedDateTime: 2021-07-07T16:00:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/direct-routing-for-azure-communication-services-now-available-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
 
 secured: "+GFgXSWizQnxlD/LzcqpVs0HFigYKYFbfq5Zb+AjUQs76ayG6xKZz8R/0/lCRTr/K/0llQhRI2ZRpntR1sCWA6RjuR5HTLUBdWWEsx2HPj/+OuBqICPGPxUpAV42y8ei5rKtgP3/iX4xeedyJQHCGjtik6aBK/x+JOsyA0/ETvM8AMtbg8p2Nlya0LOolLfTFdfqW4hYMJt0sQ5NK/nf7PJGpLimrg0l+vG+3PIO/P2nVFa5A9h+naC53Xx4Ild2zIW6D/bMjz5tkSTM4LD3hV4qjrctE+vbogJhGvK7cmdxg+1lO+uZXdYGk8iAKaPINPriAEhWZID6vUQ43y/Q3A==;UgDYT32VwkcwBM8KpplX4A=="
 ---

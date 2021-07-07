@@ -23,6 +23,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
+    excerpt: "Durham, NC, July 07, 2021 --(PR.com)-- Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason to upgrade VMs soon. New VMs featuring 3rd Generation Intel Xeon Scalable ..."
+    publishedDateTime: 2021-07-07T07:00:00Z
+    webUrl: "https://www.pr.com/press-release/826372"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 1
+    images:
+      - url: "https://img.pr.com/release/2107/416814/pressrelease_original_416814_1625584870.png"
+        width: 500
+        height: 647
+        isCached: true
+
 secured: "qDqzkqX88LHJXcusUAhL7eaTZRKbMd5KUF9KyLOgs7vkX35T3gHmkoeH7/b6poytJGgvuT7EbDFX98YCyWZtXMkPtoRE9MpfRLD9E/R3sDvgZKmKLU51JRp/wkb9jcRfyxw7QgHjbkKPpoZ08EE/yVnAXvaqI4RyA5DZUr2bBfRbXhK3VKlo7CaiOTr0pBxl01N24NrtJ2X9rCkQXf5XSvPwzQBQLyP9zskoDMJicDF7DGVnoqRDnuYtElTdWferIctBgWeAZwrgVhmcSOohATLLr0W3ROTI/6i11ONsb2+klUX6jTUwzpgzF6+MydZ8lDB3leKkOPLgExwlME88/FUR1BfOVRRzLNYvvuOmdsQ=;F1PCz79Q+dx3ySn3iZCpBw=="
 ---
 

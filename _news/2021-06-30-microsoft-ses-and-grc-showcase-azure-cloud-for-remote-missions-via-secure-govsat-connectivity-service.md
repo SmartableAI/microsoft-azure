@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
-excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning (ML) and Artificial Intelligence (AI) capabilities can be brought directly to end-users deployed globally in a highly secure,"
+excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
 publishedDateTime: 2021-06-30T06:50:00Z
-originalUrl: "https://www.financialbuzz.com/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service/"
-webUrl: "https://www.financialbuzz.com/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service/"
+originalUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
+webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
 type: article
 quality: 1
 heat: 1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
 
-secured: "KB0lALeEa25mKlyiGCD4GdmVIcJE29Zy+pv1gwQ92sqiSfYvGAlDrXmGNkrOVDa5xv6X1szwjNuDqIj1V+BRBMqQXJcpnYEce91OagF/1/dkViNMH0kJVij7FJrvWCwR8ucqsN4Yb1qB4GXqaWMkhBHi347f3u37b2QWVBKDOCmDlcGO2PHk6q1HMkYt2Jzc3yjfrAdcWUnD/hzJor7FrK8YcGC6z/gGXJPrmTbI4l6oQfwhmIt3YiUIKkE5580qxRo+eH/cQIXX5uqyG7HACEZ3SrzwyxwNdo7fZNbGAwRPe75KlISzV+/CVW7Z586uUW4VoMtDm+FxmIPl5GI08KNS86m7X9i2+CL5PLAQel61mn0ocHLo8z+wGT08xQrDTzrkmBqW550R0iJobi/wqhMM2jtW2jn72Aav4zZyCYLnSLXehvh4EpF16Chon+xOTZKb2RBd/iB5qj8ZP1aNP/+vs8ubNwEw1uh2r9LRaXrxZBy6Qg3Hh1rdz+ZpRD+eXTQAWboe5Y98dZKKrSp/SQ==;NRuzD2x8QUVxBy44kBmO1w=="
+secured: "L02vnxXABkyyFO1sF81s5BUeBue6jo/qAV4s1x/BcjmTHvWwSFs+rN43/oHTATOv989sAdLwKoadzQwFyHx0hmRFfXd558o8d7/rsAuiFiP7TXBQAzBZrE8TiXdofZqn+dl9AZbkls2RZwpUBEKKLOZMOcNQnBSF/DYuis7IEgZPRRKmYmrHS+ZDdRIODUwZCq279UMG6JmrlWx5M5QQjQUwMHy80Z7jEO+T458RuowIpe4tXwW/Rw/q3mVbo2P1tfXp56kLU+RdhP0Pn0rP1xfDx8K+B+ED/G74dHd3pQWmbt0SowUassJ5texwpukI6CCCpOr6DTkW+bk3o6AWqPY8ZqNmJ6Yda6O/xERt+wMeunWI7M1W5xHVrT/ZkwKPkYrTj+y1mvCypmbvULmSLAE6jezAeaigT6IC11Wdw3fmOb1va2i1eDugV7pyt8MBXCQSU6g+NS6QfxsMEyUjTBuAwIN7woY+vvbm/U82uQY94kFjB5qGwU2dkv6HknDZBeOvl9laOBNEpsFxN+N6uQ==;EHw0vfvFcN+uCd0C167EMw=="
 ---
 

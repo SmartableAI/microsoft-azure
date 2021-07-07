@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-acquires-at-t-net
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-acquires-at-t-networking-tech-to-bolster-its-azure-for-operators-strategy/"
 type: article
 quality: 108
-heat: 768
+heat: 748
 published: true
 
 provider:
@@ -417,19 +417,19 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
-  - title: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud."
-    publishedDateTime: 2021-06-30T15:14:00Z
-    webUrl: "https://apnews.com/article/technology-business-86842df143e2d4a16f1a97b01b7f5657"
+  - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
+    publishedDateTime: 2021-06-30T14:35:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 12
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
         isCached: true
   - title: "Microsoft news recap: Minecraft Earth shuts down, AT&T moving 5G network to Microsoft cloud, and more"
     excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
@@ -445,17 +445,6 @@ related:
         width: 1365
         height: 768
         isCached: true
-  - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
-    excerpt: "Studies compare VMs in online transaction processing and data analytics work Durham, NC, July 07, 2021 --(PR.com)-- Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason ..."
-    publishedDateTime: 2021-07-07T08:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/r21869826/principled-technologies-releases-two-studies-on-the-benefits-of-new-microsoft-azure-vms-featuring-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21869826"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21869826"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
 
 secured: "gccKvHy/tsoJJYDufsTH8fjy0klg98feprQ5hmBudKECKRXDMMEwOh/qNMx0DclSi76BDELB7Iv7/YgiChZ+SOJ9wYVfYZdC9lP4prPslezIAAfmE2Q6vF8uzLG/WsNLn2RDEpRjiCV5kNCg/VM5Dv3oAH60PPvAIjPWx0GXeiMIq+vEGwTqQOZMq5FWBbpD0rPhp4FPWZdWLK4rjLfQNf+miNqXAp/e/z8O9wOKiZWT97cF0aN3Wzl7Wamo/PlYdzjw7KwFbbY8TNeLqLPqUNZgh8GnWgB36tvQ9IXw+Q9HuamrTVGtrFRuF/4DlGDpRwuThuxiG/HZmrNpGoPVfdnbvBnuH6RKC1WWyvYTu6fFd1xIVu6J39NOgrb8+0X6e5RjNwX+DnJCVtqYTEP5QzeOHhA/Dc2KQ/S1b4JUKe33dhhpXxzxWToPdqv//O4w6UHnLXfm+hXVoWIjNIOfqUIWWpICxpW2tObhQfOQyTQcYJ37BZ+Yks2Mzjue8sEnoZhBvOuaZu6w2MALHaMiag==;LaRc4IF8lQXTKtQP1SBz4w=="
 ---
