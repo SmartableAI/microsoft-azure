@@ -4,7 +4,7 @@ excerpt: "SC-900 part 2: Describe the capabilities of Microsoft Identity and acc
 type: collection
 price: Free
 length: PT2H3M
-heat: 64
+heat: 68
 
 provider:
   name: Microsoft Learn

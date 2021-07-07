@@ -4,7 +4,7 @@ excerpt: "In this learning path, you’ll learn how to deploy and configure Azur
 type: collection
 price: Free
 length: PT3H24M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn
