@@ -4,7 +4,7 @@ excerpt: "Process and translate text with Azure Cognitive Services"
 type: collection
 price: Free
 length: PT1H48M
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
