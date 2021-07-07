@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
-publishedDateTime: 2021-07-06T07:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
+excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new business applications across industries ..."
+publishedDateTime: 2021-07-06T07:38:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -440,7 +440,18 @@ related:
         width: 1365
         height: 768
         isCached: true
+  - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
+    excerpt: "Studies compare VMs in online transaction processing and data analytics work Durham, NC, July 07, 2021 --(PR.com)-- Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason ..."
+    publishedDateTime: 2021-07-07T08:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/r21869826/principled-technologies-releases-two-studies-on-the-benefits-of-new-microsoft-azure-vms-featuring-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21869826"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21869826"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
-secured: "Z7ufvRJ6c1mSJgsTQ5SBXFWH6awUpjZA4uqMY3MbmyMxByYcYJXkax43JcfJXqb9+Q4G241LlRFmIrqhorgODE1yb/Na/1GKEybYEEVOD93EM9SbQH7IW10Rxw0XMDx44Nk5amYWLussyOP+Tnmo+jitkFlT7Rjg158WByVJtmFQV3MmUe4A2UTxN7h9ptSytLH9oJ0o/5DXLVXcWCdoJIM2iUcopM2jL16+sexc7GEJlMQprzQJMyleGX2fMS0umKJJ0Wn2JiZLmYBafI+fX8OnuT21SZ5lXt06+uIIBSyvdCtaSj56vVeWwgTEZXQFaCxox+NCEEzdQ1S6JFEpMHwjMOJUW3Bhpoxct9jXRIZvMSApRRZcuL7x2ebhnmTdlNCX6Le+LWcETsEbxdD9+FvSo9V3jG3Fz9KQr6XZDAddyEaC9uWKyGTcEsHlfA9I5ILHjb00c8BFLNG1LifjG4a+PmReLDUrXq9q+j8IaF37Aab3pja8KR5x2s97iSJLWeAOMFkcAYJ3efUp/qXFcw==;Y1LlzvklL2xwXOSH2dlcYw=="
+secured: "NkAKlcL6xbJBiVm9yawwwfAr7gfLEeB1iusY5+VDWshoYMrWIlas7Oa+3hWtozu6E9KL/vLfbLzIfIQ0vnp+zoWMpKj2pWo8NhoPDpGsQpeF59HLjHI4FGWj0KnHKxqGy0eUOYNJUl5oNMqlQv8V/tRUIO/Dy93jVAoyYUQG/UCSjQ2lYq7RfZII0mxbAxoxxkNtS9+EaMmi02uIHjDUDX6qq5j/g4ZPwh9oEbMZDW3Y03HZtib4cQZgQfYtKExfoMIhbHamUEwM7YhY2jhQHvYQ8R1RSOexUYABXm2SMkkfwtJb3qmmTy8vuxcDD8ldr9Y58UETSi21yBtP7QGWHNym6eMPTqKQaJNFn4DhgkY=;3CkCCmcqneIaoLHmLHZ1Uw=="
 ---
 

@@ -343,13 +343,13 @@ related:
         height: 576
         isCached: true
   - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
-    publishedDateTime: 2021-07-06T07:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
+    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new business applications across industries ..."
+    publishedDateTime: 2021-07-06T07:38:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
     quality: 27
   - title: "Cyber Recovery Solutions Market Next Big Thing | Major Giants Wasabi, AWS, Microsoft Azure, DELL, IBM"
     excerpt: "Latest published market study on Cyber Recovery Solutions Market provides an overview of the current market dynamics in the Cyber Recovery Solutions space as well as what our survey respondents all outsourcing decision makers predict the market will look like"
@@ -440,6 +440,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
+    excerpt: "Studies compare VMs in online transaction processing and data analytics work Durham, NC, July 07, 2021 --(PR.com)-- Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason ..."
+    publishedDateTime: 2021-07-07T08:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/r21869826/principled-technologies-releases-two-studies-on-the-benefits-of-new-microsoft-azure-vms-featuring-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21869826"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21869826"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
 secured: "qt88XaVKlmpTFe6YbiXwVWsdw0zGP8mQhkY1CNBz350LPuvO40TcQTenH8EBgL6VogBUaNmpTAjPcsNhp09F2ZSHoFlRB5THaA76pe+bvdS5N/wjN71o/+wTknU01Yqd0HWEzJ6UFsuaFdXkvw/PS4ld1k/t8Rny2t5CFAYm+5I7rr+b0Zt4QZSLjE1aNRyvGZOS8u47eiyxzVpVitRldt7ruG8Q0AyQvGzqBcBO2m3zORhGdxHLy9PyeCzfjxeJjSoqu6IKGH4Ug0ByKq3wh6DjTUXbPqd/U60BhCu7Nj4V0T2ZAD4Ub1QHQbJasNgp9/Z8GoVMQQzrIhTvz6lHIR18XXGbHt/g8Ehw3TQS9I8=;NQCUHqid8ain1oKlUdKC+w=="
 ---

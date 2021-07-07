@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Qumulo Expands Cloud Q Offering with Qumulo on Azure as a Service"
-excerpt: "Qumulo, the breakthrough leader in radically simplifying enterprise unstructured data management across hybrid-cloud environments, today announced the public launch of Qumulo® on Azure as a Service (QaaS),"
-publishedDateTime: 2021-07-07T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-qumulo-expands-cloud-q-offering-with-qumulo-azure-/2021/07/07/9404363.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-qumulo-expands-cloud-q-offering-with-qumulo-azure-/2021/07/07/9404363.htm"
+excerpt: "Azure customers can now easily build file data applications with a scalable, enterprise-class and secure platform offered as a fully managed cloud native service,” said Bill Richter, CEO of Qumulo. “With Qumulo’s availability on Microsoft Azure ..."
+publishedDateTime: 2021-07-07T15:06:00Z
+originalUrl: "https://insidehpc.com/2021/07/qumulo-expands-cloud-q-offering-with-qumulo-on-azure-as-a-service/"
+webUrl: "https://insidehpc.com/2021/07/qumulo-expands-cloud-q-offering-with-qumulo-on-azure-as-a-service/"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: insideHPC
+  domain: insidehpc.com
 
 topics:
   - Azure
@@ -33,6 +33,6 @@ related:
         height: 538
         isCached: true
 
-secured: "oJM95hECEPA004BTmgHo5hkuVbjzTAcXOz6NDLuBszgp0K5eFe84RFCK/IJz89zUsWW4HElzBn7osvVqijgLsu97tw8kOZQUdZUlIWZ8jbjTdvJUn/0kR9wQnWcnl8NXpI/v+S7PXi9fFGvqTLHXScRCfqWgh2BKGSz7sGG0O8RFGylEAOz+Nk+bwmbDaU8MZwjiYDkTVfpgQd1jxjF0GmywWq5dp+IJrtlkSHiVHF/Fz4bZYmjIs+GG7spnU0+j1Z0bHlCcqd9WsNIHhUY72adlw3zZqKUhghwRNaLs6Uqjh4ntuTkYp/Z5redItwtD/vPTMnprlpDl433umfSPXeGb86r3l3CgA1Q0EW97qu4=;VGcnp/E1rlSd7kBEV0qVqA=="
+secured: "E80heb+rxe3uiqe2jAoK7levPn8CBiLvF0edzuBWedxzA5kq2/fSc/AHW9A57AwWkxYZp9Y8DlJtagL9psC14r6PoW5EaUxRU5fNvnVeVkA6R4YhMtJQIIralyoBeBMfbtPcxEOl6B9dQysLmrg4uzU8krzg3eIcA11q//3b3iUzALsUTwCOpKP1/Hhv1GJrejqCw6f9PY301tJ0ZofeCjqtSfB9o1phdG5P9oke7U5DKKwoMn0mJp7NDyPsHJyc0esbsk6Acajou0JbAD9LoIx7afc31mngk0JFkv4L7qtihLeKjikVoD7Rrmb2/uGR+JqPnWQ4LFYZy/lGks/6DtyV9K5KBx1h1m1dz6q43bI=;Tt7bv0nT6QSYVqNOsKLh/w=="
 ---
 

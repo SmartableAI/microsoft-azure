@@ -25,13 +25,13 @@ images:
 
 related:
   - title: "Qumulo Expands Cloud Q Offering with Qumulo on Azure as a Service"
-    excerpt: "Qumulo, the breakthrough leader in radically simplifying enterprise unstructured data management across hybrid-cloud environments, today announced the public launch of Qumulo® on Azure as a Service (QaaS),"
-    publishedDateTime: 2021-07-07T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-qumulo-expands-cloud-q-offering-with-qumulo-azure-/2021/07/07/9404363.htm"
+    excerpt: "Azure customers can now easily build file data applications with a scalable, enterprise-class and secure platform offered as a fully managed cloud native service,” said Bill Richter, CEO of Qumulo. “With Qumulo’s availability on Microsoft Azure ..."
+    publishedDateTime: 2021-07-07T15:06:00Z
+    webUrl: "https://insidehpc.com/2021/07/qumulo-expands-cloud-q-offering-with-qumulo-on-azure-as-a-service/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: insideHPC
+      domain: insidehpc.com
     quality: 17
 
 secured: "7f1ye7WVgZR+YQb5JmbV0AQGkoAeZ8VVrdkBz6epu2sfBXJtmjLOTKQR0UT3t8ki2ZKNnCRmo2uQD+awDmyAOcrccjAfPmehcwvBbQt1MGVtmEkCYN+ke0dRRkcvFGTCSA+COTEEjDk8A+FRpfAtpUaAAYG+vT9MJKj7ziHFa1IoYnVKIv09ipWCkU3wW8f22JIC30q9RxODnGK75/y8W31iGbyhIZI8e3cUAtLwyJuNXrZ28/CnaJDHRGoZjUrpS/Lk4zySSciXiOQmiCc3xDkoaLF4Sgs6i/+HxjyxxgniA32/pB4hP5Ia3tqbwqFga0iI7prf8ThjpnSU3V04m648iW8kSukAzWJstuRc4g4=;VPup7f/FmBKwXAw/fM0hlA=="
