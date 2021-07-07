@@ -4,7 +4,7 @@ excerpt: "You will learn various important skills you need as a developer using 
 type: collection
 price: Free
 length: PT22H21M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn

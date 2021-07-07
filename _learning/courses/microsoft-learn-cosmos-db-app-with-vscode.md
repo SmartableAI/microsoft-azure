@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT54M
 ratings:
-  count: 1708
-  average: 4.4923887
+  count: 1709
+  average: 4.492686
 heat: 50
 
 provider:
@@ -26,6 +26,6 @@ topics:
   - Databases
   - Developer tools
 
-secured: "eU5i5kRpSJk9IoFo6ocoq4s6jfuIh5fyQOWC7VWk4EkQj2sW0gYGaEaNo5+OpWBIVNsWGOInSDZO7N0B9tJB6puQqeApuDARg2AFn32rq/7SDk6KpBiRpkJSU7KbjmtqsFnnq//buLooaYdPwoMD57xkkbOQ8OhWSW72N+5Z8a72UabRho27pTCPMhiXSMj9p3PvqyiTt1xKsgWMAu2xQ6EwImM0LQQ59e3gjtvO8lixqWkiiWRuM8sAj9IecWT5aiE/j7U9R+7QL3WJycng3Ew67zm0m+CiRUmt+grm554tCeYy+Q5jvQ3+Uq1F4f1s0IFhpuOWcuaFecLzPAwuB3i6uE84Fvm0DxBmSwK+X2f/5gnVzKllX58+3xFn4MwkPiKJSBxNJi0iYIMZGKlNmCtZRQ9syjgblOcQ5fr9Khk=;8/ZHGUcbg2skH1UQUx7PIQ=="
+secured: "Yb+1av4ILgKEdFCcp9GPK0Mv5irA4VrU2vUSoa/s7ZX1pmf4YFc3VEzF5fgObm6OqEdecGY97sNBLt9Imrjq7m19yxt2KjKLUWZIkLybteID7PRtwC9fCa4aFGL9yPmFn3tM6MPb8S8sLPuEobqsrg7xL8c4DOx2XGg8GKaPmz1z2qukpJOOV/9w/1wCjoGxXbpqWT86/3arh+O/vcxfk39gdF/B9zinzgzOLWK8TX0+UqHP0Fe56rueLjT3zOjWjf8PwUbryRmdyFLtTtrF/i/1ELAuqFjHwkuKzfxZ4y2QK9M+fuN+4w/6chfbctQyaiMcCHkESRKDj9vAjAXGE8cu68PJ/XZ/IAZdCcubtuAwB/JQweJ/t7oW3y+4vzKMo+cBicvy3zgb0JGwNBqyWP7RYNY2VZiL9j00q4yjR6U=;qGYOHCdBo0W3zwOH8kuVnw=="
 ---
 
