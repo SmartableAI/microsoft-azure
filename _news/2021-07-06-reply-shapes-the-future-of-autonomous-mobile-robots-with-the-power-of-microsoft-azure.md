@@ -337,6 +337,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Successful Microsoft Azure Migration with Quest® Data Empowerment Tools"
+    excerpt: "This paper will guide DBAs, infrastructure admins, IT managers, IT security admins and IT directors along the path of migrating databases to Microsoft Azure SQL Database. It breaks the process into three phases—planning, migration and maintenance—and ..."
+    publishedDateTime: 2021-07-06T18:28:00Z
+    webUrl: "https://www.dbta.com/DBTA-Downloads/WhitePapers/Successful-Microsoft-Azure-Migration-with-Quest--Data-Empowerment-Tools-11051.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 34
   - title: "Cloud wars heat up: AT&T moves 5G cloud to Azure, sells Network Cloud tech to Microsoft"
     excerpt: "AT&T is making big changes in its cloud computing efforts, deciding to move its next-generation 5G wireless core to Microsoft's Azure cloud and also selling its Network Cloud Platform tech to"
     publishedDateTime: 2021-07-01T11:47:00Z
@@ -480,6 +489,6 @@ related:
       domain: benzinga.com
     quality: 1
 
-secured: "E9matsstXv+cjX+WQq5fBvvbohX8KJEuz5N7FZZM7mcy8pUcGgK3sph3cdTh2BqWwkX+MDR3AYjnpIjvQSy4Fkzep6sprE95uD+ncEFbCbcNulrFRHHYvP1KnXH/Oxm6WY/hkXxDDrlPa7h41flhL5cKuHK3ent6uOI2CCmzDDHn478WlIO/kmmqAk7ziDU0BStW9YudCHVOrvhCIVT8CdxrlIlW6iourUMBJn7dPCRHxW8pid2czRKZZ3ZPKKNOxCD/CckuVFXUB36QZyKzBA1kQK5XbBjVRmVSpTdBip31vMc7Xt8xAsX9umoBHcnsvaiT68S9AqY+J99YP3O6lD5gCLCFo+D+mo3F1HY/vZ0=;pPQWVQVoou3+JF74Z8d0HA=="
+secured: "/DcOkxEnt3KbiqbVsqoU7wwxyQjc+78CFNv5HvitGw6mzbZpss/E8yv1ZpdBS+SrSlQLfn86W9tCQ/HhESpWBXuarKkrXqj24av4+dwfngUSiY9LiEP3jTJqAOTm+oUYrUr4Zk+eFEGtDueKWF/vWf9G+RBh8S4UhKBXL/cIbPxV5m5MwyUihO4aqXBpIefNRGavJnXxhPBjE4TKa6TR8eSTqI1M8wv8SzvzFGi1M+TvgM7T4NSDI/2M12iSzGTfvkm/qeiXcW4veH4vbZC7CJoIjUFxN4WCVy8d09a/ywuuRk3f8y9dyNPaiHpgV5tQkJ8Rd41kbthnMs8tG4SC9lCju751a94i7Ve3960WT9M=;an3cfiVi3JH/kUSXzg/AqA=="
 ---
 

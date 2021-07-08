@@ -1,12 +1,12 @@
 ---
 category: news
-title: "SingleStore Managed Service Arrives on the Microsoft Azure Marketplace"
-excerpt: "SingleStore, a fast unified database for data-intensive applications, announced that SingleStore Managed Service is now available in the Microsoft Azure Marketplace, providing Microsoft customers with an easy way to procure SingleStore technology."
-publishedDateTime: 2021-06-29T16:07:00Z
-originalUrl: "https://www.dbta.com/Editorial/News-Flashes/SingleStore-Managed-Service-Arrives-on-the-Microsoft-Azure-Marketplace-147736.aspx"
-webUrl: "https://www.dbta.com/Editorial/News-Flashes/SingleStore-Managed-Service-Arrives-on-the-Microsoft-Azure-Marketplace-147736.aspx"
+title: "Successful Microsoft Azure Migration with Quest® Data Empowerment Tools"
+excerpt: "This paper will guide DBAs, infrastructure admins, IT managers, IT security admins and IT directors along the path of migrating databases to Microsoft Azure SQL Database. It breaks the process into three phases—planning, migration and maintenance—and ..."
+publishedDateTime: 2021-07-06T18:28:00Z
+originalUrl: "https://www.dbta.com/DBTA-Downloads/WhitePapers/Successful-Microsoft-Azure-Migration-with-Quest--Data-Empowerment-Tools-11051.aspx"
+webUrl: "https://www.dbta.com/DBTA-Downloads/WhitePapers/Successful-Microsoft-Azure-Migration-with-Quest--Data-Empowerment-Tools-11051.aspx"
 type: article
-quality: 37
+quality: 34
 heat: -1
 published: false
 
@@ -16,12 +16,7 @@ provider:
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.dbta.com/images/social-logo-2019.png"
-    width: 1200
-    height: 630
-    isCached: true
+  - Migration
 
 related:
   - title: "Microsoft acquires AT&T networking tech to bolster its Azure for Operators strategy"
@@ -216,6 +211,20 @@ related:
         width: 2483
         height: 2942
         isCached: true
+  - title: "SingleStore Managed Service Arrives on the Microsoft Azure Marketplace"
+    excerpt: "SingleStore, a fast unified database for data-intensive applications, announced that SingleStore Managed Service is now available in the Microsoft Azure Marketplace, providing Microsoft customers with an easy way to procure SingleStore technology."
+    publishedDateTime: 2021-06-29T16:07:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/SingleStore-Managed-Service-Arrives-on-the-Microsoft-Azure-Marketplace-147736.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 37
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Teradata Enhances Cloud Offerings on Microsoft Azure"
     excerpt: "Teradata (NYSE: TDC), the connected multi-cloud data platform company, today announced its continued innovation and commitment to the cloud with new capabilities for Vantage on Microsoft Azure."
     publishedDateTime: 2021-06-29T13:37:00Z
@@ -328,15 +337,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Successful Microsoft Azure Migration with Quest® Data Empowerment Tools"
-    excerpt: "This paper will guide DBAs, infrastructure admins, IT managers, IT security admins and IT directors along the path of migrating databases to Microsoft Azure SQL Database. It breaks the process into three phases—planning, migration and maintenance—and ..."
-    publishedDateTime: 2021-07-06T18:28:00Z
-    webUrl: "https://www.dbta.com/DBTA-Downloads/WhitePapers/Successful-Microsoft-Azure-Migration-with-Quest--Data-Empowerment-Tools-11051.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 34
   - title: "Cloud wars heat up: AT&T moves 5G cloud to Azure, sells Network Cloud tech to Microsoft"
     excerpt: "AT&T is making big changes in its cloud computing efforts, deciding to move its next-generation 5G wireless core to Microsoft's Azure cloud and also selling its Network Cloud Platform tech to"
     publishedDateTime: 2021-07-01T11:47:00Z
@@ -489,6 +489,6 @@ related:
       domain: benzinga.com
     quality: 1
 
-secured: "UCa+rpUpq2KraweaVzP8NrPeavINoDPJPe5GwyCua8Va2eB1PylMljHonBFRLUZ0qtjBrifpZ0E1BslyjcHhgYuF/652Ad8+uLf9hOzVMyUola+hayhYdrNN0rGc8t2kbcpLCXHEaK72nxeI/Tv6CNAfk2LfVkrLfoZ2LQsHLi31R/0KoQfe1YTDbZYi6X9Q3025+2o1Zal0TFiww5wJ40Klx5/pF+ZLIhZH1kVPLmf2VlMKdDQCp8OhG493xyIcK1jEQj5H2JBNsVYoVYP5iajuJPwPHqxZjFbfj+2WA0n4QQX1U0KuVbq/N0SmjjorweBIilBoJgpQ8Imlg1uhf7hkjhasxLM+bz+oN7SJQsI=;x1qO3JuW5sxXcNBzIAH0Fw=="
+secured: "iR3tPJAFvkY6Yjb+TqyyQqft6l3RhHLjmOWVv8tdfiKDT66JHEKHYlSKH1cZ7WH9BNA3AR+eFrSZXOi+I/VhhytiTMlHcSBDOWYgw/3J1ew0k+lmi46shmpYm1sVzJDFaqJGWN7P8rrIU80s8EX9mRnwjsUnHjmo9RJpN3N3OaJ8abepihJpQfm6ycc1sTDX+na6IKc111fw2LwtV69ayaOtoLnmPeYSW6P5pUiAhsrYVLmNOqrrjawU9EvWrlzwWHW2wQCPYA7X4EtmcEC8+/mDQ/YFWJ9fBRN8+t5M2caVHd7wcaNU7/6LpyYlUYtgbj2tsYbGkEu11SlN+aoqNvS0rhZl86Ds6ZVAQUOEgg4=;QDgX4D8Zu+L+5g9EdKmUZA=="
 ---
 

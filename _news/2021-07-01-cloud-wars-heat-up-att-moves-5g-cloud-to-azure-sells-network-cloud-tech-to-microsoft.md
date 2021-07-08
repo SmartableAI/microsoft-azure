@@ -342,6 +342,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Successful Microsoft Azure Migration with Quest® Data Empowerment Tools"
+    excerpt: "This paper will guide DBAs, infrastructure admins, IT managers, IT security admins and IT directors along the path of migrating databases to Microsoft Azure SQL Database. It breaks the process into three phases—planning, migration and maintenance—and ..."
+    publishedDateTime: 2021-07-06T18:28:00Z
+    webUrl: "https://www.dbta.com/DBTA-Downloads/WhitePapers/Successful-Microsoft-Azure-Migration-with-Quest--Data-Empowerment-Tools-11051.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 34
   - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
     excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new business applications across industries ..."
     publishedDateTime: 2021-07-06T07:38:00Z
