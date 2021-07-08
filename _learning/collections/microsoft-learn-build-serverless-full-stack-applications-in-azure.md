@@ -4,7 +4,7 @@ excerpt: "Learn how to create, build, and deploy modern full stack applications 
 type: collection
 price: Free
 length: PT2H55M
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
