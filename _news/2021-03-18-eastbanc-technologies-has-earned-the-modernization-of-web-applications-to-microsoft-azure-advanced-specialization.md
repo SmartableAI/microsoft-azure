@@ -2038,6 +2038,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Lumen Technologies brings Microsoft Azure to Lumen platform"
+    excerpt: "Lumen Technologies has started a strategic relationship with Microsoft that will bring Microsoft Azure functionalities to the Lumen platform. Mutual customers will be able to run their Microsoft-based products closer to where digital interactions are occurring using the global Edge Computing services of"
+    publishedDateTime: 2021-07-08T09:20:00Z
+    webUrl: "https://www.telecompaper.com/news/lumen-technologies-brings-microsoft-azure-to-lumen-platform--1389496"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
     excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
     publishedDateTime: 2021-03-12T13:05:00Z

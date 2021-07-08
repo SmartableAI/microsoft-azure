@@ -2037,6 +2037,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Lumen Technologies brings Microsoft Azure to Lumen platform"
+    excerpt: "Lumen Technologies has started a strategic relationship with Microsoft that will bring Microsoft Azure functionalities to the Lumen platform. Mutual customers will be able to run their Microsoft-based products closer to where digital interactions are occurring using the global Edge Computing services of"
+    publishedDateTime: 2021-07-08T09:20:00Z
+    webUrl: "https://www.telecompaper.com/news/lumen-technologies-brings-microsoft-azure-to-lumen-platform--1389496"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
     publishedDateTime: 2021-03-18T16:11:00Z

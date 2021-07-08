@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/pure-storage-extends-public
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
 type: article
 quality: 114
-heat: 3254
+heat: 3274
 published: true
 
 provider:
@@ -2024,6 +2024,15 @@ related:
     excerpt: "Global healthcare company Bupa is increasing its focus on digital healthcare with further commitments to migrating key applications to the Microsoft Azure cloud platforms. The agreement applies to its core markets"
     publishedDateTime: 2021-06-16T12:42:00Z
     webUrl: "https://www.telecompaper.com/news/bupa-migrates-more-applications-to-microsoft-azure-platform--1386946"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
+  - title: "Lumen Technologies brings Microsoft Azure to Lumen platform"
+    excerpt: "Lumen Technologies has started a strategic relationship with Microsoft that will bring Microsoft Azure functionalities to the Lumen platform. Mutual customers will be able to run their Microsoft-based products closer to where digital interactions are occurring using the global Edge Computing services of"
+    publishedDateTime: 2021-07-08T09:20:00Z
+    webUrl: "https://www.telecompaper.com/news/lumen-technologies-brings-microsoft-azure-to-lumen-platform--1389496"
     type: article
     provider:
       name: Telecompaper

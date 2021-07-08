@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Microsoft Azure outage delays virtual premiere of Zack Snyder's Justice League"
-excerpt: "Zack Snyder's Justice League saw one last delay due to the recent Microsoft Azure outage. The virtual premiere of the film was delayed by six hours. Luckily, the launch on HBO Max seems to be on schedule."
-publishedDateTime: 2021-03-16T12:27:00Z
-originalUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league"
-webUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league"
-ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
-cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
+title: "Lumen Technologies brings Microsoft Azure to Lumen platform"
+excerpt: "Lumen Technologies has started a strategic relationship with Microsoft that will bring Microsoft Azure functionalities to the Lumen platform. Mutual customers will be able to run their Microsoft-based products closer to where digital interactions are occurring using the global Edge Computing services of"
+publishedDateTime: 2021-07-08T09:20:00Z
+originalUrl: "https://www.telecompaper.com/news/lumen-technologies-brings-microsoft-azure-to-lumen-platform--1389496"
+webUrl: "https://www.telecompaper.com/news/lumen-technologies-brings-microsoft-azure-to-lumen-platform--1389496"
 type: article
-quality: 53
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/03/hbo-max-hero.jpg"
-    width: 800
-    height: 600
-    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -741,6 +733,22 @@ related:
       - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
         width: 450
         height: 601
+        isCached: true
+  - title: "Microsoft Azure outage delays virtual premiere of Zack Snyder's Justice League"
+    excerpt: "Zack Snyder's Justice League saw one last delay due to the recent Microsoft Azure outage. The virtual premiere of the film was delayed by six hours. Luckily, the launch on HBO Max seems to be on schedule."
+    publishedDateTime: 2021-03-16T12:27:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 53
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/03/hbo-max-hero.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
     excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its ultralow power WE-I Plus AIoT Platform has been listed in the Azure Certified Device Catalog after receiving Microsoft Azure IoT PnP certification."
@@ -2024,15 +2032,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
-  - title: "Lumen Technologies brings Microsoft Azure to Lumen platform"
-    excerpt: "Lumen Technologies has started a strategic relationship with Microsoft that will bring Microsoft Azure functionalities to the Lumen platform. Mutual customers will be able to run their Microsoft-based products closer to where digital interactions are occurring using the global Edge Computing services of"
-    publishedDateTime: 2021-07-08T09:20:00Z
-    webUrl: "https://www.telecompaper.com/news/lumen-technologies-brings-microsoft-azure-to-lumen-platform--1389496"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
     publishedDateTime: 2021-03-18T16:11:00Z
@@ -2148,6 +2147,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "3Ou2/eOhRlLuVLh0cahxBojeWDGVB/GV05zxJYCpkJotMJrzJri6tAM52vqpwouBsDGJ9+X+0PLL7yz2fJRWhBGAH7l0XpfWdI3e3b6vp3QkQf9RBgQly6puhtzApf/vu1pepqr21Uig2qPKvM41ajOpm6NCZ3ooEBHEq2rGscTHzur4rmfAY1OBzu7hDjf4s4/21WyoMr39B/NyOp7TqCCHtHrepKqDda+bIgkD2LLUlF32UD1+WGzx5eUcBMvaYRx6SB2yaMyQcRPClRsHxrLiZIy2lT0wZeyxZASeH9MfarH7/PM8DNdU+O4OTaLoWxfmjXqq6KF/lAZMWCtDnIJj33vselHZSjxbcE1O/itXDaAPDaB6Rdf7BXGrrlgLcJH/QRJk+OmZ7TNbh6d2K/R6FzY/vTpXyZJ6Q8gCkiXe8bAECoUE2OE0XMoaEXld9gEEw520jWOOgcRzqUATCf5oczYzF59TN1LKnmU57YBO6wyf3pS9pa+X6ewB6h/a+4l+Pkdy0Ok3l35Cp+93sQ==;SkU2n8GHmLIR0P0CBubtBg=="
+secured: "uGaEaBABvIDGXqfXo+Nd2hQfnpZr32OSAJ0R59txD/i7DySleDiiqELI60vMZD5a07o5cB10BmjKUHKZbuIFB6JsjSU96NSOXnMksjLsD3FRkjHj1QCvP9Oj2CKihKnthBaLJW/QR1I+a0IfWS11Rk/hQETo/LSWzI5+u460yecw9juftJtGlRRsQg4oTJB2H0nPu71zc5RpQng84rGi5UY9xr5qSOv2AOAUcH+dvK7zKFDG2YVDJKVQoPjzL9mpBdDk3SwuvxPYsl+NDEcWIRoWm/D7JKpZ/Bw2YBZ1wsxij9aaRoRQZUSW1IoAb2cWLZqh1REA0VevpZfxnFbUFcnNCpubVPkj/lKCqAqbN/s=;OAMDWxKLZfRKghNrWcu3vQ=="
 ---
 
