@@ -40,6 +40,22 @@ related:
         width: 700
         height: 550
         isCached: true
+  - title: "AWS vs Azure: Which of These Cloud Computing Giants Is Better in 2021?"
+    excerpt: "We pit AWS vs Azure to figure out which cloud computing giant performs the best in terms of pricing, networking, storage, and more."
+    publishedDateTime: 2021-07-08T14:07:00Z
+    webUrl: "https://www.codeinwp.com/blog/aws-vs-azure/"
+    ampWebUrl: "https://www.codeinwp.com/blog/aws-vs-azure/"
+    cdnAmpWebUrl: "https://www-codeinwp-com.cdn.ampproject.org/c/s/www.codeinwp.com/blog/aws-vs-azure/"
+    type: article
+    provider:
+      name: codeinwp.com
+      domain: codeinwp.com
+    quality: 57
+    images:
+      - url: "https://iotvnaw69daj.i.optimole.com/AXVzL2w.n2y9~6666f/w:auto/h:auto/q:90/https://www.codeinwp.com/wp-content/uploads/2021/07/AWS-vs-Azure.jpeg"
+        width: 1450
+        height: 740
+        isCached: true
 
 secured: "2XKTukVHCGxrkW6RKLBHrwaDIhICyD5gQwhQHKX90FM/KQWqMKbdtEWNL2B7a9CEOf5T2st6wl/MW8Ep85rruf2YoCgnxBsSNRz3IO//OrvV6BjGNvboXbUJfmU/viDZ++r/4Whl86HtPX+f17id/1kroaTlbCdWWIp7TvYlL15zuD/1yKLx6OeTWGhMGEz7iRCRguG24AjfOnWfKPG46r/gjCQpWA/Z4cUqVpl7bgdrpTHbXqd3qELrkiuaK5xBOeiAl4Dj6ueLlF7mY7wZeMAzQD9uJB8OXt/A1cWu4XG3oD7qxllXHvv3iKm8hWOniWwlzdZiACWdePAFqKkiRAx8j5oldA1QtQ1M/k/Du98=;CxFbNU8sfm6T4LfQI8UyFw=="
 ---

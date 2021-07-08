@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/finance/aws-vs-azure-which-one-to
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/aws-vs-azure-which-one-to-choose-for-banking-software-development-02416270/amp"
 type: article
 quality: 57
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS vs Azure: Which of These Cloud Computing Giants Is Better in 2021?"
+    excerpt: "We pit AWS vs Azure to figure out which cloud computing giant performs the best in terms of pricing, networking, storage, and more."
+    publishedDateTime: 2021-07-08T14:07:00Z
+    webUrl: "https://www.codeinwp.com/blog/aws-vs-azure/"
+    ampWebUrl: "https://www.codeinwp.com/blog/aws-vs-azure/"
+    cdnAmpWebUrl: "https://www-codeinwp-com.cdn.ampproject.org/c/s/www.codeinwp.com/blog/aws-vs-azure/"
+    type: article
+    provider:
+      name: codeinwp.com
+      domain: codeinwp.com
+    quality: 57
+    images:
+      - url: "https://iotvnaw69daj.i.optimole.com/AXVzL2w.n2y9~6666f/w:auto/h:auto/q:90/https://www.codeinwp.com/wp-content/uploads/2021/07/AWS-vs-Azure.jpeg"
+        width: 1450
+        height: 740
+        isCached: true
   - title: "Sorry, AWS and Azure: DoD Cancels JEDI Cloud Contract"
     excerpt: "The Department of Defense (DoD) has canceled the $10 billion JEDI cloud contract. AWS and Microsoft Azure have been battling for the contract."
     publishedDateTime: 2021-07-07T18:25:00Z
