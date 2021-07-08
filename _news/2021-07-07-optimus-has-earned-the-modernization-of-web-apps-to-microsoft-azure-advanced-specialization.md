@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
-publishedDateTime: 2021-01-29T14:36:00Z
-originalUrl: "https://www.businesswireindia.com/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-71303.html"
-webUrl: "https://www.businesswireindia.com/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-71303.html"
+title: "Optimus has Earned The Modernization of Web Apps to Microsoft Azure Advanced Specialization"
+excerpt: "Optimus Information Inc. today announced that it has earned the Modernization of Web Apps to Microsoft Azure advanced specialization. Vancouver, British Columbia, July 8, 2021 -/P"
+publishedDateTime: 2021-07-07T00:00:00Z
+originalUrl: "https://www.pressreleasepoint.com/optimus-has-earned-modernization-web-apps-microsoft-azure-advanced-specialization"
+webUrl: "https://www.pressreleasepoint.com/optimus-has-earned-modernization-web-apps-microsoft-azure-advanced-specialization"
 type: article
-quality: 16
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: KLAS Press Release
+  domain: pressreleasepoint.com
 
 topics:
   - Azure
-  - Migration
+  - Web
 
 related:
   - title: "Quisitive Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
@@ -60,15 +60,15 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "Optimus has Earned The Modernization of Web Apps to Microsoft Azure Advanced Specialization"
-    excerpt: "Optimus Information Inc. today announced that it has earned the Modernization of Web Apps to Microsoft Azure advanced specialization. Vancouver, British Columbia, July 8, 2021 -/P"
-    publishedDateTime: 2021-07-07T00:00:00Z
-    webUrl: "https://www.pressreleasepoint.com/optimus-has-earned-modernization-web-apps-microsoft-azure-advanced-specialization"
+  - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
+    publishedDateTime: 2021-01-29T14:36:00Z
+    webUrl: "https://www.businesswireindia.com/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-71303.html"
     type: article
     provider:
-      name: KLAS Press Release
-      domain: pressreleasepoint.com
-    quality: 24
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 16
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
     publishedDateTime: 2021-06-24T18:38:00Z
@@ -79,6 +79,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "GPFn/f/roNGlM19xwTAyBWr9H3UlqLBYJSKEXVQuHf6LW/w9KWVmNPJkzosSHPXf78i9r/U8lBj2mWHHPQzQIbtlvve9R6pSTgWMkhX4XqnDPl5esxcHBjGVj6ruqkt+fM778pBviiHCEvd7B1EVnABIHFkTn8em2GbYIefNOt4kmHkfmuns3f69+Lz8DPz8eTB8CTCaxKr+tIp1r4CcFZTH1TF4YD84WhdcSkLfQB/4ZC9/IRuvEOvbJJQ0CBeQ4ehpZAGJ8zYlOR8WKihPTGUsrhcWSVBPMDnG3bLrvJrmirvfZct9z4QppiqIJ2L3zpq/v5Uf0RJ8YBoohemyBP5eJzHtqkdCH/5KghjREUc=;wVq2YX9mbSZHmIRKEpCnrA=="
+secured: "CoLfUhAlVirbnT1QRJoYEsaaMf265toXHsR5nV2Q/Sxdiaae8L85NGxMDZjCwH/sE+nNE78XCngkTENsMGORO3oGKAwRpxFEaUteUTl9a3SDEBcW7sBUrxzvpGPhhg6yXi5mL4AA0aUHKx+p40sQQUlY1MakCqgUQnIDh/6lx7X/ftFbeAQ6YoTwTTZ9QBvK+PX2fHo6eD3V0ckV+7gqJEjM9QA3r8g9P3JO/Yg2w2BEcvfE9cpMEPIvQxEw6boAZONtkYAaC+jI2TBsIGCDhONqvfN22gxsQGWq2MQ6Rhf7hdvZ/XzcX8hxkE3/4r1DOLWvzZdLbeAcUg2hlyseNfMvshtuWQ0HZ1HkOG/UPTo=;qvx1NUho50UAD7qFgWtzeA=="
 ---
 

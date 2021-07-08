@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/quisitive-earns-the-win
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quisitive-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1030015174"
 type: article
 quality: 78
-heat: 158
+heat: 178
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "Optimus has Earned The Modernization of Web Apps to Microsoft Azure Advanced Specialization"
+    excerpt: "Optimus Information Inc. today announced that it has earned the Modernization of Web Apps to Microsoft Azure advanced specialization. Vancouver, British Columbia, July 8, 2021 -/P"
+    publishedDateTime: 2021-07-07T00:00:00Z
+    webUrl: "https://www.pressreleasepoint.com/optimus-has-earned-modernization-web-apps-microsoft-azure-advanced-specialization"
+    type: article
+    provider:
+      name: KLAS Press Release
+      domain: pressreleasepoint.com
+    quality: 24
   - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
     publishedDateTime: 2021-01-29T14:36:00Z
