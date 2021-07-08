@@ -4,6 +4,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-deploy-event-driven-real-time.md",
+      "title": "Build a real-time event-driven Java solution on Azure",
+      "excerpt": "Send event based telemetric data in real time to Cosmos DB using Azure Functions and Event Hub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-event-driven-real-time/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-real-time-event-driven-app/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 32,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Analytics",
+        "Databases",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +81,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 18390,
-            "average": 4.7656336
+            "count": 18399,
+            "average": 4.765476
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -79,8 +126,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 14650,
-            "average": 4.6367917
+            "count": 14660,
+            "average": 4.6366987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +169,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 12899,
-            "average": 4.7716875
+            "count": 12905,
+            "average": 4.771794
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 17729,
-            "average": 4.731175
+            "count": 17736,
+            "average": 4.7312245
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -237,8 +284,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 17729,
-        "average": 4.731175
+        "count": 17736,
+        "average": 4.7312245
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -307,8 +354,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12571,
-            "average": 4.7671623
+            "count": 12575,
+            "average": 4.7672367
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -493,8 +540,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 4490,
-        "average": 4.8345213
+        "count": 4492,
+        "average": 4.8345947
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -559,8 +606,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9531,
-            "average": 4.6664567
+            "count": 9532,
+            "average": 4.666492
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -642,8 +689,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 4344,
-            "average": 4.6236186
+            "count": 4345,
+            "average": 4.6237054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -679,8 +726,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2537,
-            "average": 4.6030746
+            "count": 2539,
+            "average": 4.6033874
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -762,8 +809,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 4344,
-            "average": 4.6236186
+            "count": 4345,
+            "average": 4.6237054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -834,8 +881,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2537,
-            "average": 4.6030746
+            "count": 2539,
+            "average": 4.6033874
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -869,8 +916,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2791,
-            "average": 4.477965
+            "count": 2792,
+            "average": 4.478152
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -941,8 +988,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 17729,
-            "average": 4.731175
+            "count": 17736,
+            "average": 4.7312245
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1664,8 +1711,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 555,
-            "average": 4.5621624
+            "count": 556,
+            "average": 4.5629497
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1708,8 +1755,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
           "length": "PT46M",
           "ratings": {
-            "count": 441,
-            "average": 4.6507936
+            "count": 442,
+            "average": 4.6515837
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1883,8 +1930,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 555,
-            "average": 4.5621624
+            "count": 556,
+            "average": 4.5629497
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1927,8 +1974,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
           "length": "PT46M",
           "ratings": {
-            "count": 441,
-            "average": 4.6507936
+            "count": 442,
+            "average": 4.6515837
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3952,8 +3999,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 4344,
-        "average": 4.6236186
+        "count": 4345,
+        "average": 4.6237054
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3989,8 +4036,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 1653,
-        "average": 4.7616453
+        "count": 1654,
+        "average": 4.76179
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4025,8 +4072,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
       "length": "PT56M",
       "ratings": {
-        "count": 2791,
-        "average": 4.477965
+        "count": 2792,
+        "average": 4.478152
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4264,49 +4311,6 @@
         "Serverless",
         "Storage",
         "AI",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-azure-sql-data-warehouse.md",
-      "title": "Design a data warehouse with Azure Synapse Analytics",
-      "excerpt": "Learn how to create a data warehouse in Azure Synapse Analytics in minutes to take advantage of massively parallel processing (MPP) and run complex queries at petabyte scale quickly",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-azure-sql-data-warehouse/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-azure-sql-data-warehouse/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 2887,
-        "average": 4.58469
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/design-azure-sql-data-warehouse-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Analytics"
       ]
     }

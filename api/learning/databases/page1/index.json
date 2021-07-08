@@ -43,15 +43,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure.md",
-      "title": "Introduction to open-source database migration on Azure",
-      "excerpt": "&quot;Introduction to open-source database migration on Azure&quot;",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
-      "length": "PT50M",
+      "path": "_learning/courses/microsoft-learn-deploy-event-driven-real-time.md",
+      "title": "Build a real-time event-driven Java solution on Azure",
+      "excerpt": "Send event based telemetric data in real time to Cosmos DB using Azure Functions and Event Hub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-event-driven-real-time/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-real-time-event-driven-app/",
+      "length": "PT33M",
       "ratings": {
-        "count": 1057,
-        "average": 4.779565
+        "count": 32,
+        "average": 4.5
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -68,12 +68,12 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 139,
+      "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -82,8 +82,11 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Compute",
+        "Serverless",
+        "Analytics",
         "Databases",
-        "Migration"
+        "Storage"
       ]
     },
     {
@@ -117,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 18390,
-            "average": 4.7656336
+            "count": 18399,
+            "average": 4.765476
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 14650,
-            "average": 4.6367917
+            "count": 14660,
+            "average": 4.6366987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -205,8 +208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 12899,
-            "average": 4.7716875
+            "count": 12905,
+            "average": 4.771794
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -248,8 +251,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 17729,
-            "average": 4.731175
+            "count": 17736,
+            "average": 4.7312245
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -320,8 +323,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 17729,
-        "average": 4.731175
+        "count": 17736,
+        "average": 4.7312245
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -462,8 +465,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12571,
-            "average": 4.7671623
+            "count": 12575,
+            "average": 4.7672367
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -672,8 +675,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 880,
-            "average": 4.6852274
+            "count": 882,
+            "average": 4.685941
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -714,8 +717,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9531,
-            "average": 4.6664567
+            "count": 9532,
+            "average": 4.666492
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -751,8 +754,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 5175,
-            "average": 4.7310147
+            "count": 5176,
+            "average": 4.731066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -788,8 +791,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 4033,
-            "average": 4.5472355
+            "count": 4034,
+            "average": 4.5473475
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -914,8 +917,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1784,
-            "average": 4.744395
+            "count": 1785,
+            "average": 4.744538
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1100,8 +1103,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 17729,
-            "average": 4.731175
+            "count": 17736,
+            "average": 4.7312245
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1609,8 +1612,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 1993,
-            "average": 4.594581
+            "count": 1994,
+            "average": 4.5947843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1646,8 +1649,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 7400,
-            "average": 4.689054
+            "count": 7401,
+            "average": 4.689096
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1933,8 +1936,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
           "length": "PT44M",
           "ratings": {
-            "count": 1386,
-            "average": 4.7611833
+            "count": 1387,
+            "average": 4.7613554
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2190,8 +2193,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
           "length": "PT23M",
           "ratings": {
-            "count": 6523,
-            "average": 4.737391
+            "count": 6524,
+            "average": 4.737431
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3622,8 +3625,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-data-platform-modernization/",
           "length": "PT27M",
           "ratings": {
-            "count": 70,
-            "average": 4.785714
+            "count": 71,
+            "average": 4.7887325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4029,6 +4032,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure.md",
+      "title": "Introduction to open-source database migration on Azure",
+      "excerpt": "&quot;Introduction to open-source database migration on Azure&quot;",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 1057,
+        "average": 4.779565
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Migration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-provision-deploy-relational-database-offerings-azure.md",
       "title": "Explore provisioning and deploying relational database offerings in Azure",
       "excerpt": "Explore provisioning and deploying relational database offerings in Azure",
@@ -4205,8 +4252,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
       "length": "PT44M",
       "ratings": {
-        "count": 1386,
-        "average": 4.7611833
+        "count": 1387,
+        "average": 4.7613554
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4287,44 +4334,6 @@
         "Networking",
         "Compute",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
-      "title": "Chain Azure Functions together using input and output bindings",
-      "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
-      "length": "PT1H10M",
-      "ratings": {
-        "count": 4033,
-        "average": 4.5472355
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Compute",
-        "Serverless",
-        "Storage"
       ]
     }
   ],
