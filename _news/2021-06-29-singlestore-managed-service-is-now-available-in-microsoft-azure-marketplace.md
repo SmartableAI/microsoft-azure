@@ -467,6 +467,17 @@ related:
         width: 1365
         height: 768
         isCached: true
+  - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
+    excerpt: "Studies compare VMs in online transaction processing and data analytics work Durham, NC, July 07, 2021 --(PR.com)-- Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason ..."
+    publishedDateTime: 2021-07-07T08:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/r21869826/principled-technologies-releases-two-studies-on-the-benefits-of-new-microsoft-azure-vms-featuring-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21869826"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21869826"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
 secured: "Sim4vf/nLsOPBIdWkHhK+J8wUsyI5Su3pIMa6gULsjYrWJXzvpXr4IC7JLtDS6kDGCVrS3bhnDrlum2p/dnW8RI+8W9lhYK62Byf4s4OXy7OK0GUMm1bo9ZF32OXjoRORBR+xq4ykifsyg1ZwoH7SnL4rjhNHkKsApNwPyw7Kfkh1wcqlh8e1xFsNLrpympknWz7GC3YyPR4Ei2ZBDKldugkln6P+3cwn3JYpf2o1BwBgLOh8E3/TR4AhFtH/76B879azivfv01GQUw7PQnj1giug8Mq4oe6t84f84uGbdfSPev+kVBgTdjBCbnF2n8LFLds6FO73ZGIzxvosMYGiCja1cTe//FPuYFAoGWa6I0=;avCRRbectJzNYVuXL1X+OA=="
 ---
