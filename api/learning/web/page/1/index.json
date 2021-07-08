@@ -4,6 +4,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-models-data.md",
+      "title": "Work with models and data in Django",
+      "excerpt": "Explore models and data in Django. Learn about the object-relational mapper, create your own models, and set up a database.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-models-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/django-models-data/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 30,
+        "average": 4.9
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 18439,
-            "average": 4.7652802
+            "count": 18452,
+            "average": 4.7652287
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -79,8 +123,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 14682,
-            "average": 4.63663
+            "count": 14686,
+            "average": 4.6366606
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +166,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 12933,
-            "average": 4.7712827
+            "count": 12938,
+            "average": 4.771139
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +209,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 17765,
-            "average": 4.731213
+            "count": 17771,
+            "average": 4.731191
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -237,8 +281,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 18439,
-        "average": 4.7652802
+        "count": 18452,
+        "average": 4.7652287
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -346,8 +390,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2912,
-            "average": 4.7122254
+            "count": 2914,
+            "average": 4.7120795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -569,8 +613,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 3300,
-            "average": 4.7142425
+            "count": 3301,
+            "average": 4.714329
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -829,8 +873,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1787,
-            "average": 4.744824
+            "count": 1788,
+            "average": 4.7449665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -873,8 +917,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 1184,
-            "average": 4.748311
+            "count": 1185,
+            "average": 4.748523
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1120,8 +1164,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6769,
-            "average": 4.6426353
+            "count": 6771,
+            "average": 4.642741
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1195,8 +1239,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 4790,
-            "average": 4.7599163
+            "count": 4791,
+            "average": 4.759758
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1611,8 +1655,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12590,
-            "average": 4.767196
+            "count": 12592,
+            "average": 4.7672334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1829,8 +1873,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 7474,
-            "average": 4.7226386
+            "count": 7475,
+            "average": 4.722676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2087,8 +2131,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6769,
-            "average": 4.6426353
+            "count": 6771,
+            "average": 4.642741
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2288,8 +2332,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6769,
-            "average": 4.6426353
+            "count": 6771,
+            "average": 4.642741
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2495,8 +2539,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
           "length": "PT47M",
           "ratings": {
-            "count": 1083,
-            "average": 4.708218
+            "count": 1084,
+            "average": 4.708487
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2954,7 +2998,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3364,8 +3408,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "PT58M",
       "ratings": {
-        "count": 6769,
-        "average": 4.6426353
+        "count": 6771,
+        "average": 4.642741
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3580,8 +3624,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
       "length": "PT47M",
       "ratings": {
-        "count": 1083,
-        "average": 4.708218
+        "count": 1084,
+        "average": 4.708487
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3661,8 +3705,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 2157,
-        "average": 4.6383867
+        "count": 2159,
+        "average": 4.6387215
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3817,50 +3861,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-static-apps-gatsby.md",
-      "title": "Create and publish a static web app with Gatsby and Azure Static Web Apps",
-      "excerpt": "Use Gatsby to develop and compile a static web app, then deploy it to the web with Azure Static Web Apps.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-static-apps-gatsby/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-deploy-static-webapp-gatsby-app-service/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 149,
-        "average": 4.771812
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/static-apps-gatsby-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
