@@ -4,6 +4,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-cna-orchestrate-containers.md",
+      "title": "Orchestrate containers for cloud-native apps with AKS",
+      "excerpt": "Cloud-native applications are modular in nature, with components separated and self-contained. Components can be encapsulated in containers, such as those created with Docker, or published from an Azure service. Dynamic scaling can then be managed by Kubernetes. We'll learn to decide when Kubernetes is right for our Cloud Native app, and we'll see how to use it as a first building block of our Cloud Native architecture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cna-orchestrate-containers/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-native-apps-orchestrate-containers/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-configure-application-kubernetes-arc.md",
       "title": "Implement Azure App Service on Kubernetes with Arc",
       "excerpt": "Azure App Service on Kubernetes with Azure Arc enables implementation of Azure application-platform services on customer-managed, Arc-onboarded Kubernetes clusters. Azure App Service is one you can implement.",
@@ -1213,46 +1256,6 @@
       "topics": [
         "Azure",
         "AI",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-tips-and-tricks.md",
-      "title": "How to deploy your web app in Windows Containers on Azure App Service | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to deploy your web app in Windows Containers on Azure App Service. Windows Containers that run in an App Service web app provide you with the benefits of Azure like scaling and deployment slots, while still giving you a lot of control over your",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=d5omcL6z9dI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d5omcL6z9dI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M16S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-11-19T08:07:29-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/d5omcL6z9dI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
         "Containers"
       ]
     }

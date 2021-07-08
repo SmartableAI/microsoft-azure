@@ -4,92 +4,6 @@
   "page": 46,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-plan-your-premises-infrastructure-for-microsoft-365.md",
-      "title": "Plan your on-premises infrastructure for Microsoft 365",
-      "excerpt": "Plan your on-premises infrastructure for Microsoft 365",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-your-premises-infrastructure-for-microsoft-365/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-premises-infrastructure-for-microsoft-365/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 22,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-plan-your-supporting-infrastructure-for-microsoft-365.md",
-      "title": "Plan your supporting infrastructure for Microsoft 365",
-      "excerpt": "Plan your supporting infrastructure for Microsoft 365",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-your-supporting-infrastructure-for-microsoft-365/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-supporting-infrastructure-for-microsoft-36/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 17,
-        "average": 4.9411764
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-plan-your-tenant-microsoft-365.md",
       "title": "Plan your tenant in Microsoft 365",
       "excerpt": "Plan your tenant in Microsoft 365",
@@ -302,6 +216,41 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-prepare-azure-dev-environment.md",
+      "title": "Prepare your development environment for Azure development",
+      "excerpt": "Learn how to choose and install the appropriate IDE for your requirements to help you build, deploy, monitor, and scale cloud-hosted solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-prepare-azure-dev-environment/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 5675,
+        "average": 4.7018504
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-prepare-onpremises-workloads-migration-azure.md",
       "title": "Prepare on-premises workloads for migration to Azure",
       "excerpt": "Prepare on-premises workloads for migration to Azure",
@@ -388,48 +337,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-preparing-migrate-sap-workloads-azure.md",
-      "title": "Prepare to migrate SAP workloads to Azure",
-      "excerpt": "This module provides details on the important steps prior to deploying SAP workloads to Azure: project preparation and planning, pilot, non-production, production preparation, go live, and post production.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-preparing-migrate-sap-workloads-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-migrate-sap-workloads/",
-      "length": "PT1H1M",
-      "ratings": {
-        "count": 398,
-        "average": 4.7864323
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/preparing-migrate-sap-workloads-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-process-streaming-data-azure-databricks-structured-streaming.md",
       "title": "Process streaming data with Azure Databricks structured streaming",
       "excerpt": "Process streaming data with Azure Databricks structured streaming",
@@ -437,8 +344,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/process-streaming-data-azure-databricks-structured-streaming/",
       "length": "PT46M",
       "ratings": {
-        "count": 164,
-        "average": 4.6036587
+        "count": 165,
+        "average": 4.6060605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -603,49 +510,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-protect-identities-with-aad-idp.md",
-      "title": "Protect your identities with Azure AD Identity Protection",
-      "excerpt": "Use the advanced detection and remediation of identity-based threats to protect your Azure Active Directory identities and applications from compromise.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-identities-with-aad-idp/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 1056,
-        "average": 4.7954545
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-identities-with-aad-idp-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-protect-on-premises-infrastructure-with-azure-site-recovery.md",
       "title": "Protect your on-premises infrastructure from disasters with Azure Site Recovery",
       "excerpt": "Provide disaster recovery for your on-premises infrastructure by managing and orchestrating replication, failover, and failback of VMware virtual machines, Hyper-V virtual machines, and physical servers with Azure Site Recovery.",
@@ -687,48 +551,6 @@
         "Azure",
         "Migration",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-protect-virtual-desktop-deployment-azure-firewall.md",
-      "title": "Protect your Azure Virtual Desktop deployment by using Azure Firewall",
-      "excerpt": "Learn how to deploy and configure Azure Firewall to protect outbound network traffic for Azure Virtual Desktop.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-virtual-desktop-deployment-azure-firewall/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-desktop-deployment-azure-firewall/",
-      "length": "PT1H18M",
-      "ratings": {
-        "count": 4,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-virtual-desktop-deployment-azure-firewall-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     },
     {
@@ -1026,6 +848,41 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-publish-azure-web-app-with-visual-studio.md",
+      "title": "Publish a web app to Azure with Visual Studio",
+      "excerpt": "Learn how to use Azure App Service to create a new ASP.NET-based web app, then publish and update directly from Visual Studio.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-azure-web-app-with-visual-studio/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 3599,
+        "average": 4.685468
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-publish-express-node-app-service-vscode.md",
       "title": "Create and publish a web application with Azure App Service and Visual Studio Code",
       "excerpt": "In this module, you'll learn how to create and publish webapps to Azure App Service from Visual Studio Code.",
@@ -1273,6 +1130,133 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-qsharp-create-first-quantum-development-kit.md",
+      "title": "Create your first Q# program by using the Quantum Development Kit",
+      "excerpt": "Get started with Q# programming by building a quantum random number generator.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-qsharp-create-first-quantum-development-kit/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/qsharp-create-first-quantum-development-kit/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 385,
+        "average": 4.807792
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/quantum/qsharp-create-first-quantum-development-kit-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-qsharp-explore-key-concepts-quantum-computing.md",
+      "title": "Explore the key concepts of quantum computing by using Q#",
+      "excerpt": "Learn the fundamental concepts of quantum computing by using tools in Q# and the Quantum Development Kit.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-qsharp-explore-key-concepts-quantum-computing/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/qsharp-explore-key-concepts-quantum-computing/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 95,
+        "average": 4.7578945
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/quantum/qsharp-explore-key-concepts-quantum-computing-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-query-azure-sql-data-warehouse.md",
+      "title": "Query data in Azure Synapse Analytics",
+      "excerpt": "Learn how to issue simple queries against Azure Synapse Analytics and how to visualize the data in both Excel and Power BI",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-query-azure-sql-data-warehouse/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-azure-sql-data-warehouse/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 1505,
+        "average": 4.6392026
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/query-azure-sql-data-warehouse-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     }
   ],

@@ -4,41 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
-      "title": "Work with Compute in Azure Machine Learning",
-      "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 1112,
-        "average": 4.670863
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-use-containers-language-understanding-intelligent-service-apps.md",
       "title": "Use containers for your Language Understanding Intelligent Service (LUIS) Apps",
       "excerpt": "The Language Understanding (LUIS) container loads your trained or published Language Understanding model. As a LUIS app, the docker container provides access to the query predictions from the container's API endpoints",
@@ -372,15 +337,485 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-ai-strategy.md",
-      "title": "Microsoft Azure Artificial Intelligence (AI) strategy and solutions",
-      "excerpt": "This module provides an overview of Azure AI and demonstrates how Microsoft tools, services, and infrastructure can help make AI real for your organization, whether you want to unlock insights from your latent data with knowledge mining, develop your own AI models with machine learning, or build immersive apps using AI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-ai-strategy/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-artificial-intelligence/",
-      "length": "PT59M",
+      "path": "_learning/collections/microsoft-learn-identify-guiding-principles-for-responsible-ai-in-government.md",
+      "title": "Identify guiding principles for responsible AI in government",
+      "excerpt": "It's imperative to reflect on the implications of AI in Government. Discover guidelines to set up principles and a governance model in your organization.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-identify-guiding-principles-for-responsible-ai-in-government/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-identify-guiding-principles-for-responsible-ai-in-government/",
+      "length": "PT2H55M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-responsible-ai-guiding-principles.md",
+          "title": "Identify guiding principles for responsible AI",
+          "excerpt": "Explore six principles to guide AI development and use - fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-guiding-principles/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/",
+          "length": "PT56M",
+          "ratings": {
+            "count": 1167,
+            "average": 4.673522
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-responsible-ai-governing-practices-government.md",
+          "title": "Identify governing practices for responsible AI in government",
+          "excerpt": "Learn guiding principles for governments, and how to choose and operationalize a governance system to responsibly and successfully use AI in the public sector.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-governing-practices-government/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices-government/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 309,
+            "average": 4.773463
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-governing-practices-government-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-microsoft-responsible-ai-practices.md",
+          "title": "Discuss practices for responsible AI at Microsoft",
+          "excerpt": "Discover how to translate your organization’s ethical principles into actionable guidance and tools for engineering teams and how AI can improve lives worldwide",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microsoft-responsible-ai-practices/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/",
+          "length": "PT1H17M",
+          "ratings": {
+            "count": 522,
+            "average": 4.718391
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/microsoft-responsible-ai-practices-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-identify-principles-and-practices-for-responsible-ai.md",
+      "title": "Identify principles and practices for responsible AI",
+      "excerpt": "It's imperative to reflect on the implications of AI in business. Discover Microsoft guidelines to set up principles and a governance model in your enterprise.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-identify-principles-and-practices-for-responsible-ai/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-identify-principles-and-practices-for-responsible-ai/",
+      "length": "PT2H48M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-responsible-ai-guiding-principles.md",
+          "title": "Identify guiding principles for responsible AI",
+          "excerpt": "Explore six principles to guide AI development and use - fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-guiding-principles/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/",
+          "length": "PT56M",
+          "ratings": {
+            "count": 1167,
+            "average": 4.673522
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-responsible-ai-governing-practices.md",
+          "title": "Identify governing practices for responsible AI",
+          "excerpt": "Learn guiding principles for organizations, and how to choose and operationalize a governance system to responsibly and successfully use AI in the enterprise.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-governing-practices/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices/",
+          "length": "PT35M",
+          "ratings": {
+            "count": 524,
+            "average": 4.652672
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-governing-practices-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-microsoft-responsible-ai-practices.md",
+          "title": "Discuss practices for responsible AI at Microsoft",
+          "excerpt": "Discover how to translate your organization’s ethical principles into actionable guidance and tools for engineering teams and how AI can improve lives worldwide",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microsoft-responsible-ai-practices/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/",
+          "length": "PT1H17M",
+          "ratings": {
+            "count": 522,
+            "average": 4.718391
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/microsoft-responsible-ai-practices-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-process-and-translate-speech-with-azure-cognitive-speech-services.md",
+      "title": "Process and Translate Speech with Azure Cognitive Speech Services",
+      "excerpt": "Learn how to implement the Speech services found in Azure Cognitive Services by performing speech-to-text transcription, synthesize text input to speech, perform speech translation, and implement speaker recognition in your AI infused applications",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-process-and-translate-speech-with-azure-cognitive-speech-services/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-process-and-translate-speech-with-azure-cognitive-speech-services/",
+      "length": "PT1H3M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-transcribe-speech-input-text.md",
+          "title": "Transcribe speech input to text",
+          "excerpt": "Speech to text from the speech service, known as speech recognition, enables real time transcription of audio streams into text. Your applications, tools, or devices can consume, display, and take action on this text as command input.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-transcribe-speech-input-text/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 1102,
+            "average": 4.736842
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-translate-speech-speech-service.md",
+          "title": "Translate speech with the speech service",
+          "excerpt": "Perform speech translation tasks with the speech service to translate spoken text to different languages.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-speech-speech-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
+          "length": "PT18M",
+          "ratings": {
+            "count": 1173,
+            "average": 4.7314577
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/translate-speech-speech-service-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-ai-strategy-in-government.md",
+      "title": "Define an AI strategy to create value in government",
+      "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in Government that creates value, with INSEAD and Microsoft.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-government/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-government/",
+      "length": "PT47M",
       "ratings": {
-        "count": 4618,
-        "average": 4.7477264
+        "count": 681,
+        "average": 4.7415566
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -395,12 +830,12 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-artificial-intelligence-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-government-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -501,6 +936,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-build-query-delta-lake.md",
+      "title": "Build and query a Delta Lake",
+      "excerpt": "Build and query a Delta Lake",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-query-delta-lake/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-query-delta-lake/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 261,
+        "average": 4.6590037
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-query-delta-lake-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-classify-and-moderate-text-with-azure-content-moderator.md",
       "title": "Classify and moderate text with Azure Content Moderator",
       "excerpt": "In this module, we'll introduce you to Azure Content Moderator and show how to use it for text moderation",
@@ -542,42 +1021,6 @@
         "Azure",
         "Developer Tools",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-classify-images-with-custom-vision-services.md",
-      "title": "Classify images with the Microsoft Custom Vision Service",
-      "excerpt": "In this learning path, find out how Cognitive Vision Services detects faces, tags and classifies images, and identifies objects.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-images-with-custom-vision-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 1641,
-        "average": 4.678245
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Management Tools"
       ]
     },
     {
@@ -666,6 +1109,49 @@
         "Azure",
         "AI",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cv-classify-bird-species.md",
+      "title": "Classify endangered bird species with Custom Vision",
+      "excerpt": "Learn how to use Azure Cognitive Services Custom Vision to build a machine learning model that identifies the species of a bird in an image, to help with gathering data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cv-classify-bird-species/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cv-classify-bird-species/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 182,
+        "average": 4.571429
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/advocates/cv-classify-bird-species-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     },
     {
@@ -809,8 +1295,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-delta-lake-architecture/",
       "length": "PT33M",
       "ratings": {
-        "count": 202,
-        "average": 4.59901
+        "count": 203,
+        "average": 4.600985
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -853,8 +1339,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-platform-architecture-security-data-protection-azure-databricks/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 212,
-        "average": 4.6084905
+        "count": 213,
+        "average": 4.6103287
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -888,6 +1374,50 @@
         "Analytics",
         "AI",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-bot-conversation-flow.md",
+      "title": "Design a bot conversation flow",
+      "excerpt": "Learn the principles of good bot design and implement conversational flows, knowledge bots, and how to hand-off interactions to a human.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-bot-conversation-flow/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-bot-conversation-flow/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 106,
+        "average": 4.792453
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Developer tools"
       ]
     },
     {
@@ -1066,15 +1596,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-content-moderator.md",
-      "title": "Introduction to Content Moderator",
-      "excerpt": "Discover how Content Moderator can evaluate text, images, and video, for appropriateness.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-content-moderator/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-content-moderator/",
-      "length": "PT40M",
+      "path": "_learning/courses/microsoft-learn-integrate-azure-databricks-other-azure-services.md",
+      "title": "Integrate Azure Databricks with other Azure services",
+      "excerpt": "Integrate Azure Databricks with other Azure services",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-azure-databricks-other-azure-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-azure-databricks-other-azure-services/",
+      "length": "PT33M",
       "ratings": {
-        "count": 16,
-        "average": 4.75
+        "count": 176,
+        "average": 4.5397725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1089,12 +1619,12 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/integrate-azure-databricks-other-azure-services-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -1105,6 +1635,7 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Analytics",
         "AI"
       ]
     },
@@ -1152,15 +1683,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-personalizer.md",
-      "title": "Introduction to Personalizer",
-      "excerpt": "Discover the Personalizer service that is part of the Azure Decision services offerings.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-personalizer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-personalizer/",
-      "length": "PT40M",
+      "path": "_learning/courses/microsoft-learn-intro-to-mixed-reality.md",
+      "title": "Introduction to Mixed Reality",
+      "excerpt": "Mixed Reality is transforming the nature of on-the-job training, game development, and consumer application development. Build a foundation in the core concepts, terminology, and design processes unique to the augmented reality, virtual reality, and Mixed Reality development space. Get familiar with HoloLens, Windows Mixed Reality immersive headsets, bodystorming prototypes, and the most common use-cases for Mixed Reality content.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-mixed-reality/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-mixed-reality/",
+      "length": "PT41M",
       "ratings": {
-        "count": 38,
-        "average": 4.868421
+        "count": 305,
+        "average": 4.760656
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1234,181 +1765,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-language-understanding-intelligent-service-apps.md",
-      "title": "Manage your Language Understanding Intelligent Service (LUIS) Apps",
-      "excerpt": "Learn to manage LUIS apps through versioning, key management, handling data, and improving predictions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-language-understanding-intelligent-service-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-language-understanding-intelligent-service-apps/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 328,
-        "average": 4.8109756
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-your-language-understanding-intelligent-service-luis-apps-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-data-drift-with-azure-machine-learning.md",
-      "title": "Monitor data drift with Azure Machine Learning",
-      "excerpt": "Changing trends in data over time can reduce the accuracy of the predictions made by a model. Monitoring for this data drift is an important way to ensure your model continues to predict accurately.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-data-drift-with-azure-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 966,
-        "average": 4.7960663
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-data-drift-with-azure-machine-learning-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-perform-machine-learning-with-azure-databricks.md",
-      "title": "Perform machine learning with Azure Databricks",
-      "excerpt": "Perform machine learning with Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-machine-learning-with-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-machine-learning-with-azure-databricks/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 105,
-        "average": 4.6476192
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/perform-machine-learning-with-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-perform-model-selection-with-hyperparameter-tuning.md",
-      "title": "Perform model selection with hyperparameter tuning",
-      "excerpt": "Perform model selection with hyperparameter tuning",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-model-selection-with-hyperparameter-tuning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-model-selection-with-hyperparameter-tuning/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 87,
-        "average": 4.4827585
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/perform-model-selection-with-hyperparameter-tuning-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
         "AI"
       ]
     }

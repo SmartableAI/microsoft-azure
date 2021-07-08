@@ -4,6 +4,49 @@
   "page": 36,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-describe-high-availability-disaster-recovery-strategies.md",
+      "title": "Describe high availability and disaster recovery strategies",
+      "excerpt": "Plan appropriate HA/DR strategy based on RTO and RPO. Choose best solution for IaaS or PaaS deployments or hybrid workloads.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-high-availability-disaster-recovery-strategies/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-high-availability-disaster-recovery-strategies/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 134,
+        "average": 4.783582
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-high-availability-and-disaster-recovery-strategies-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks.md",
       "title": "Describe lazy evaluation and other performance features in Azure Databricks",
       "excerpt": "Describe lazy evaluation and other performance features in Azure Databricks",
@@ -214,15 +257,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-bot-conversation-flow.md",
-      "title": "Design a bot conversation flow",
-      "excerpt": "Learn the principles of good bot design and implement conversational flows, knowledge bots, and how to hand-off interactions to a human.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-bot-conversation-flow/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-bot-conversation-flow/",
-      "length": "PT32M",
+      "path": "_learning/courses/microsoft-learn-design-a-hybrid-network-architecture.md",
+      "title": "Design a hybrid network architecture on Azure",
+      "excerpt": "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-hybrid-network-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-hybrid-network-architecture/",
+      "length": "PT47M",
       "ratings": {
-        "count": 106,
-        "average": 4.792453
+        "count": 1752,
+        "average": 4.667808
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -237,14 +280,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/design-a-hybrid-network-architecture-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -253,8 +296,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "AI",
-        "Developer tools"
+        "Networking"
       ]
     },
     {
@@ -569,6 +611,49 @@
         "Azure",
         "Compute",
         "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere-iot-hub.md",
+      "title": "Develop secure IoT Solutions for Azure Sphere with IoT Hub",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-secure-iot-solutions-azure-sphere-iot-hub/",
+      "length": "PT1H23M",
+      "ratings": {
+        "count": 204,
+        "average": 4.75
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/develop-secure-iot-solutions-for-azure-sphere-with-iot-hub-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
       ]
     },
     {
@@ -1001,49 +1086,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-enterprise-scale-introduction.md",
-      "title": "Introduction to enterprise-scale landing zones in the Microsoft Cloud Adoption Framework for Azure",
-      "excerpt": "The Microsoft Cloud Adoption Framework for Azure provides many landing zone options. In this module, we'll focus on enterprise-scale landing zones.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-introduction/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 414,
-        "average": 4.7391305
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-introduction-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-enterprise-scale-networking.md",
       "title": "Enterprise-scale architecture networking design principles",
       "excerpt": "Enterprise-scale architecture networking design principles",
@@ -1178,8 +1220,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evaluate-performance-improvements/",
       "length": "PT30M",
       "ratings": {
-        "count": 659,
-        "average": 4.7830048
+        "count": 660,
+        "average": 4.7818184
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1253,49 +1295,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-evaluate-your-compliance-readiness.md",
-      "title": "Evaluate your compliance readiness",
-      "excerpt": "Evaluate your compliance readiness",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-evaluate-your-compliance-readiness/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evaluate-your-compliance-readiness/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 5,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],

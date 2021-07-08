@@ -4,6 +4,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-microsoft-defender-for-office-365.md",
+      "title": "Examine Microsoft Defender for Office 365",
+      "excerpt": "Examine Microsoft Defender for Office 365",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-microsoft-defender-for-office-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-microsoft-defender-for-office-365/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 12,
+        "average": 4.9166665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-microsoft-secure-score.md",
       "title": "Examine Microsoft Secure Score",
       "excerpt": "Examine Microsoft Secure Score",
@@ -737,49 +780,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-manage-user-authentication.md",
-      "title": "Manage user authentication",
-      "excerpt": "Manage user authentication",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-user-authentication/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 294,
-        "average": 4.8163266
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-monitor-maintain-azure-active-directory.md",
       "title": "Monitor and maintain Azure Active Directory",
       "excerpt": "Monitor and maintain Azure Active Directory",
@@ -820,6 +820,52 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-report-aad-security-events.md",
+      "title": "Monitor and report on security events in Azure AD",
+      "excerpt": "Keep tabs on security events in your Azure AD resources by using built-in reporting and monitoring capabilities. Respond to events as they happen, and address security risks before they become a problem.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-report-aad-security-events/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-report-aad-security-events/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 485,
+        "average": 4.6618557
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-report-aad-security-events-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "DevOps",
+        "Management Tools",
+        "Security"
       ]
     },
     {
@@ -934,49 +980,6 @@
       },
       "levels": [
         "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-plan-implement-administer-conditional-access.md",
-      "title": "Plan, implement, and administer conditional access",
-      "excerpt": "Plan, implement, and administer conditional access",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-administer-conditional-access/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 72,
-        "average": 4.8472223
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
       ],
       "heat": 50,
       "images": [

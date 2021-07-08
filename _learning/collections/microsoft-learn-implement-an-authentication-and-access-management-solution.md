@@ -4,7 +4,7 @@ excerpt: "Implement an Authentication and Access Management solution"
 type: collection
 price: Free
 length: PT3H11M
-heat: 60
+heat: 62
 
 provider:
   name: Microsoft Learn
