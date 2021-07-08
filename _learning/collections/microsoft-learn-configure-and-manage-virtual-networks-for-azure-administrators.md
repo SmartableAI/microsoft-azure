@@ -25,6 +25,7 @@ items:
   - courses/microsoft-learn-connect-vm-with-azure-bastion
   - courses/microsoft-learn-host-domain-azure-dns
   - courses/microsoft-learn-control-network-traffic-flow-with-routes
+  - courses/microsoft-learn-protect-virtual-desktop-deployment-azure-firewall
   - courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway
   - courses/microsoft-learn-connect-on-premises-network-with-expressroute
   - courses/microsoft-learn-improve-app-scalability-resiliency-with-load-balancer
