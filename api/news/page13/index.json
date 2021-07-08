@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-07-azure-repos-adds-a-default-branch-at-the-org-level.md",
+      "title": "Azure Repos adds a default branch at the org-level",
+      "excerpt": "With this release, we're adding the ability to set a default branch for the entire organization.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-repos-adds-a-default-branch-at-the-orglevel/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-repos-adds-a-default-branch-at-the-orglevel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T11:00:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-three-ways-serverless-apis-can-accelerate-enterprise-innovation.md",
       "title": "Three ways serverless APIs can accelerate enterprise innovation",
       "excerpt": "With the wrong architecture, application programming interface (APIs) can be a bottleneck to not only your applications, but to your entire business. Bottlenecks such as downtime, low performance, or high application complexity, can result in exaggerated infrastructure and organizational costs as well",
@@ -1142,59 +1185,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior.md",
-      "title": "Microsoft: Azure-based Sentinel security gets new analytics to spot threats in odd behavior",
-      "excerpt": "One year on from reaching general availability, Microsoft's Azure-based Sentinel security system now brings new user and entity behavioral analytics to help detect unknown and insider threats faster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 541,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/08/25/1284a515-4b68-4854-acfa-0aff9b6e5fba/thumbnail/1200x675/5dfcbb4710ad981ec95dff7c7eba7732/what-is-microsoft-azure-the-business-gui-5f3db47671c30002b05ceecf-1-aug-25-2020-17-10-49-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/",
-      "publishedDateTime": "2020-09-24T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Analytics",
-        "Security"
       ]
     }
   ],

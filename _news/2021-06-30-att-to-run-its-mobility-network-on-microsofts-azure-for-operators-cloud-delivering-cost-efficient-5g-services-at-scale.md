@@ -3,8 +3,8 @@ category: news
 title: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale"
 excerpt: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud."
 publishedDateTime: 2021-06-30T15:14:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-86842df143e2d4a16f1a97b01b7f5657"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-86842df143e2d4a16f1a97b01b7f5657"
+originalUrl: "https://apnews.com/article/technology-business-86842df143e2d4a16f1a97b01b7f5657"
+webUrl: "https://apnews.com/article/technology-business-86842df143e2d4a16f1a97b01b7f5657"
 type: article
 quality: 12
 heat: -1
@@ -480,6 +480,6 @@ related:
       domain: benzinga.com
     quality: 1
 
-secured: "BahPQSRGLPeSvIf3xDz48IsF0LTUvFBTIQeXnPsxtzj++zPafu3mBmXbBAahuNByLJnA+/+ZRSHtPn8lUjady6zDZM2yja4gGOezbnrbikgdoq6gluXiUZ9mDCZLQFwt1W3ikIvoht7BSbkJC7nIjMn2n+JVMg51ZJVxA2LO1EbuC0NnPFKSMe0K+IIW1+yxE8b1OcsFXZ3oSO/zjSMVgTqfx+C18IL9eFTB/MaWuWW4Z10y4+/o7A+CXyqXq/kkhtOgxmrJGrhsoP51+c9EBwsCr3BPMLeUpVqXKVeu0tyh/Nx6F2bD3APEARXx4RNGiJf8gIkGx91IIoHakuHa4Z0r9kBDpoproWmCRaAVLQA=;47mYA3lHVBmietTYdeNrKw=="
+secured: "i+O0ZwgpF4TZBNlNfGJzX4TFwtKbaHBtkLSrwD6ZcItvqleoKKvrB7TyVBupHg7kRN21NAzMsztkL1Q1ExIklGiKTOh1Ti976AU6ZTzd+eWV/2kw+oQXoZfDnlLPXm+FzP5VNcnoU1XupjsB2cjvVbnJ0V+TDow57+yFE0IP6i5l0u7jDUQ7ESZBHvWLEIE0bWcdErqm85uHWwSxGnPYRKKo1WrZCBEQ2ubKMcw/Qphu1k484MzK1P1grJxhUAS1ctwL5KfQH+uI07He90KmeyuoP8IaQ4tBch5z8Kq7e2tx8qHMfca7rIfU60kZCf42GkE4ipJCpfTVp6wJFkMO1fGp+AnERhgdmE6df+7B4wE=;XGpVoegCxn7GG+cE7z5+Ng=="
 ---
 
