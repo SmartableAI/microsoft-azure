@@ -8,7 +8,7 @@ length: PT46M
 ratings:
   count: 5341
   average: 4.646695
-heat: 54
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "iLDsJsS9EnSKcFT2f3OchP+31I5DfQGyOjCyHMbkAzUieWYT42eGkOGsqhb3uSxQ2RcLsP2emgShpX+VlYi8zOVlX7XdO+IfSdRKsUMabynIGDyfE8I8mkUCNNbOkxq2XqyhTjdd8nYKI8MTvSnWmxNu2zLq4TjL1pF5KhhUt13X9pKXAgTlYONU8fXeZn95an+LGfZTZfl4mX3Q5cLgiwm4mjz6EYwELQ0VidCRc/TKCJmbG3GnvKrHFl2kvlps+xbH26juIiy+/UagEmoYpjnKVwbIbkoMgTnPdxgAf/ZlY8NPMoFO/ckQkS5eiMprPRIaNTHGdEdf6p9bD8VfaW4cTd20IN0+K/31kMfnv7vpMetT//3td2np0UHbXPe0hJuT2ED1/8x8g7tiKcybvOjT9mfytkkwLb6yBdkUzHE=;jnOc6Csq/pOVqRGaXrcUkw=="
+secured: "yfXQ/fAgt1KS4nmkimNEhY7fFuOGvAKGUcKB3LneVFmVmHtRMiZKycOZuOHxNtJpkc7cARFM7SZPOFStsSkYb2VjiQAKXQsZ+9HAFAftFqMYMlbM+A5BBF20GMs56unelki/p2QyZF6T9fRWEeRGVgKcEG5O2HnDW3Jf5bOq77zisOWwAfae0YxDQWzSlT3rhgkTinI9RggqpSa8j+Gp/MTkoXZQ9ajNdV//J+yihU3ESjK4VrEWnMcKPtcSPHm+5UyCoTdug8Tyz5Y3WUr1lQwLRx8RQbzZy9dbMRyUMCStn7ghr+ql5qFtcvhwNdcTPrVoI86Oz6sNR0b1ExsGxXkY6TTvRbraAHGtHjRky+HEQ1xNL91hxWsnBTAelOWmxk9YpfF9szniq1SQ32ZoAk/kjbvJFW9tEQz60xhAk+A=;tALM4O0PBkBBRRMK+SBZ+Q=="
 ---
 

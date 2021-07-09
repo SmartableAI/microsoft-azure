@@ -4,7 +4,7 @@ excerpt: "Manage your Microsoft 365 tenant"
 type: collection
 price: Free
 length: PT3H4M
-heat: 62
+heat: 60
 
 provider:
   name: Microsoft Learn

@@ -4,7 +4,7 @@ excerpt: "In this learning path, you'll learn how to ensure your Azure consumpti
 type: collection
 price: Free
 length: PT2H22M
-heat: 99
+heat: 88
 
 provider:
   name: Microsoft Learn
