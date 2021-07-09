@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2021/07/08/9405686.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2021/07/08/9405686.htm"
 type: article
 quality: 1
-heat: 1
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,36 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
+    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
+    publishedDateTime: 2021-07-09T16:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
+    excerpt: "Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason to upgrade VMs soon. New VMs featuring 3rd Generation Intel Xeon Scalable processors are currently in preview,"
+    publishedDateTime: 2021-07-07T07:10:00Z
+    webUrl: "https://www.pr.com/press-release/826372"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 1
+    images:
+      - url: "https://img.pr.com/release/2107/416814/pressrelease_416814_1625584870.png"
+        width: 500
+        height: 647
+        isCached: true
 
 secured: "qXQ6xMLjLiCo5MDErv83ZP6F+VHlu30up6SA1jb0gsEC6nvEqaPTpVripzIaOEhvpcmfHMoPW09yaNkqJgOmxnV1ZGlxWVViGf6lQsFWxd6dbMx/FYsk5OBt8voUS05HqzbL6zK3O99Q8hyvZ8BJ3FqKA3EGKvtcOBB8paZfnkbr7Cf0j2XyltgVebXHp7wWD5mUHSSOGu6bKxisHU40s/E29SjEGpDx2pLhkfM7QCe/k/JEMRyrzhxnSuT7lwyd9GuFdZcnz779SAhe72O9UIuHl25fvrQY4WuEHEpLFX7sSNFZ4Rr16JMqupD13ojUvTfxJYjfssPImPuazkSk+0XjnqzxEtDC5Eni8B3f29Y=;uE1dl7AFEC2SEVOSABQL0g=="
 ---
