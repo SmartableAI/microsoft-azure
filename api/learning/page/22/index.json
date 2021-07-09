@@ -4,6 +4,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-foster-ai-culture-marketing.md",
+      "title": "Discover how to foster an AI-ready culture in marketing",
+      "excerpt": "Learn the necessary cultural changes for enterprise marketing organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-marketing/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-marketing/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 771,
+        "average": 4.770428
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-marketing-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-github-actions-cd.md",
       "title": "Build and deploy applications to Azure by using GitHub Actions",
       "excerpt": "Create two deployment workflows using GitHub Actions and Microsoft Azure.",
@@ -939,8 +982,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 3619,
-        "average": 4.694667
+        "count": 3620,
+        "average": 4.6947513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1221,49 +1264,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-azure-ad-identity-protection.md",
-      "title": "Manage Azure AD Identity Protection",
-      "excerpt": "Manage Azure AD Identity Protection",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-azure-ad-identity-protection/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 448,
-        "average": 4.810268
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],
