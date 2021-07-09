@@ -1559,6 +1559,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Lumen takes Microsoft Azure partnership to the edge"
+    excerpt: "Lumen says customers of both companies will be able to run Microsoft Azure services closer to the data source by utilizing Lumen's edge computing services."
+    publishedDateTime: 2021-07-08T22:18:00Z
+    webUrl: "https://www.lightreading.com/service-provider-cloud/lumen-takes-microsoft-azure-partnership-to-edge/d/d-id/770760"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 37
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Standard Chartered to Adopt Microsoft Azure to Become a Cloud-first Bank"
     excerpt: "Standard Chartered Bank and Microsoft have announced a three-year strategic partnership to accelerate the bank’s digital"
     publishedDateTime: 2020-08-18T00:39:00Z

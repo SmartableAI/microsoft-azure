@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/upgrade-to-azure-communi
 webUrl: "https://azure.microsoft.com/en-us/updates/upgrade-to-azure-communication-services-calling-javascript-sdk-110-by-31-july-2021/"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:

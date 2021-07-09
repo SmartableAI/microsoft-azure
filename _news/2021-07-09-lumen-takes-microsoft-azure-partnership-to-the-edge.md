@@ -1,24 +1,27 @@
 ---
 category: news
-title: "Pure Storage brings cloud block storage to Microsoft Azure"
-excerpt: "Pure Storage’s Pure Cloud Block Store is now available on the Microsoft Azure Marketplace. With a common dataplane across multi-cloud environments, customers can move to the cloud on their terms, allowing for seamless application portability to the cloud ..."
-publishedDateTime: 2021-04-01T13:42:00Z
-originalUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure"
-webUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure"
-ampWebUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
-cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
+title: "Lumen takes Microsoft Azure partnership to the edge"
+excerpt: "Lumen says customers of both companies will be able to run Microsoft Azure services closer to the data source by utilizing Lumen's edge computing services."
+publishedDateTime: 2021-07-08T22:18:00Z
+originalUrl: "https://www.lightreading.com/service-provider-cloud/lumen-takes-microsoft-azure-partnership-to-edge/d/d-id/770760"
+webUrl: "https://www.lightreading.com/service-provider-cloud/lumen-takes-microsoft-azure-partnership-to-edge/d/d-id/770760"
 type: article
-quality: 54
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: GDPR fines
-  domain: itp.net
+  name: Light Reading
+  domain: lightreading.com
 
 topics:
   - Azure
-  - Storage
+
+images:
+  - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+    width: 600
+    height: 600
+    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -710,6 +713,17 @@ related:
         width: 405
         height: 228
         isCached: true
+  - title: "Pure Storage brings cloud block storage to Microsoft Azure"
+    excerpt: "Pure Storage’s Pure Cloud Block Store is now available on the Microsoft Azure Marketplace. With a common dataplane across multi-cloud environments, customers can move to the cloud on their terms, allowing for seamless application portability to the cloud ..."
+    publishedDateTime: 2021-04-01T13:42:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 54
   - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
     excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
     publishedDateTime: 2021-03-11T08:22:00Z
@@ -1550,20 +1564,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "Lumen takes Microsoft Azure partnership to the edge"
-    excerpt: "Lumen says customers of both companies will be able to run Microsoft Azure services closer to the data source by utilizing Lumen's edge computing services."
-    publishedDateTime: 2021-07-08T22:18:00Z
-    webUrl: "https://www.lightreading.com/service-provider-cloud/lumen-takes-microsoft-azure-partnership-to-edge/d/d-id/770760"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 37
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -2162,6 +2162,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "Y7cy6RMZn/yAYfmdiX5PQo5Em41Jxa2jLBgoBloX/vOR9ULa8OgDooK6M8szGTfDpXIZSPnWOIFRYetvrugue3ov2sBe+2D7nZqPOXmn+PKrYsfBU8m/C8wzMUn00DQGUtvfDtYC0PA+jBkHFxJHYFjJmwUIOLaWJCbPO3ScodsZozdSwoJixH6cKCv3K3SLdfkLp8EOaqU1VCMnY1on3yDA8wYccV3Vfhqwl2Mj40aefg/4oCu6Ak7XSyrAHjturpHVWUcjoxw1a7LOazecym0XZ269mrZLjRhG95vLHZ34HHlRF4bNfAUrjVuF4LqxtBWJayLLgKa9shSgxXhN+hzXCOaGxlJ0EKyrQPN6Y6Q=;okXxDhzQ6f1Swg7zmbBoGg=="
+secured: "a0wR9U9JfhZTUB2spmOtN6mBT3TxvsyApSHXCGNi7OCf8p4OrMp9l9P2L9voEwAhpITpbO/5aU3hYFby7fgj2th0j5je8NpxzPpq5DkJFg393cly9Uoz7GiPy0NgwFX6CZ9pWlZ80jJe6Vb+L2yLciTq/TvscR8PuTpOD9NWea2lTdT5iInTmZoCYhnn/bphx1IjZkDP0r/2/m8GUn+pQBccOKiSZISnrRII6uo5980FGe9UmqXpDPfzkWx9IlevJCtXjg6+FM4m4XWyMh03eR/OUXTlNe6z3ZnpsKmzhjpakDqJS6yMrJasw7dBM3QqQX49Bow50aNur4fbVreFQWLwQDJIpWOHjNOU431xNrQ=;qwYcCLAPV1x4fDjW3Wnbhg=="
 ---
 

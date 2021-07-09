@@ -77,6 +77,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
+  - title: "Microsoft cloud solution architect weighs in on cloud computing and more"
+    excerpt: "Hybrid cloud solutions are hot right now, with many businesses recognizing the benefits of both on-premises and cloud architecture enterprises, especially in tandem. Approaching on-prem and cloud services,"
+    publishedDateTime: 2021-07-08T22:27:00Z
+    webUrl: "https://siliconangle.com/2021/07/08/microsoft-cloud-solution-architect-weighs-cloud-computing-mwc21/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 21
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/John-Savill-Mobile-World-Congress-2021.jpg"
+        width: 1425
+        height: 813
+        isCached: true
   - title: "Microsoft, SES demo Azure Cloud for remote missions via secure GovSat service"
     excerpt: "Microsoft and SES have demonstrated the use of Azure Cloud for remote missions using the secure MilSatCom connectivity. The demonstration also involved GovSat, public-private JV between the Luxembourg government and SES,"
     publishedDateTime: 2021-07-01T13:15:00Z

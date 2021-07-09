@@ -1,28 +1,26 @@
 ---
 category: news
-title: "RIB Schneider Group announces new Microsoft Cloud Service Provider"
-excerpt: "The merger has resulted in a global team of technology experts, hundreds of Microsoft certifications and over 10 Gold competencies across various Microsoft technology streams"
-publishedDateTime: 2021-07-06T12:25:00Z
-originalUrl: "https://www.zawya.com/mena/en/press-releases/story/RIB_Schneider_Group_announces_new_Microsoft_Cloud_Service_Provider-ZAWYA20210706111856/"
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/RIB_Schneider_Group_announces_new_Microsoft_Cloud_Service_Provider-ZAWYA20210706111856/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210706111856/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210706111856/"
+title: "Microsoft cloud solution architect weighs in on cloud computing and more"
+excerpt: "Hybrid cloud solutions are hot right now, with many businesses recognizing the benefits of both on-premises and cloud architecture enterprises, especially in tandem. Approaching on-prem and cloud services,"
+publishedDateTime: 2021-07-08T22:27:00Z
+originalUrl: "https://siliconangle.com/2021/07/08/microsoft-cloud-solution-architect-weighs-cloud-computing-mwc21/"
+webUrl: "https://siliconangle.com/2021/07/08/microsoft-cloud-solution-architect-weighs-cloud-computing-mwc21/"
 type: article
-quality: 42
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.zawya.com/pr/images/2021/BerendJanvanMaanenCEOInTWO_2021_07_06.jpg"
-    width: 450
-    height: 578
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/John-Savill-Mobile-World-Congress-2021.jpg"
+    width: 1425
+    height: 813
     isCached: true
 
 related:
@@ -58,6 +56,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "RIB Schneider Group announces new Microsoft Cloud Service Provider"
+    excerpt: "The merger has resulted in a global team of technology experts, hundreds of Microsoft certifications and over 10 Gold competencies across various Microsoft technology streams"
+    publishedDateTime: 2021-07-06T12:25:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/RIB_Schneider_Group_announces_new_Microsoft_Cloud_Service_Provider-ZAWYA20210706111856/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210706111856/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210706111856/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 42
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/BerendJanvanMaanenCEOInTWO_2021_07_06.jpg"
+        width: 450
+        height: 578
+        isCached: true
   - title: "Cloud 9 Infosystems Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Chicago IL 6 15 21 Cloud 9 Infosystems today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and expertise in migrating"
     publishedDateTime: 2021-06-28T13:42:00Z
@@ -69,20 +83,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
-  - title: "Microsoft cloud solution architect weighs in on cloud computing and more"
-    excerpt: "Hybrid cloud solutions are hot right now, with many businesses recognizing the benefits of both on-premises and cloud architecture enterprises, especially in tandem. Approaching on-prem and cloud services,"
-    publishedDateTime: 2021-07-08T22:27:00Z
-    webUrl: "https://siliconangle.com/2021/07/08/microsoft-cloud-solution-architect-weighs-cloud-computing-mwc21/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 21
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/John-Savill-Mobile-World-Congress-2021.jpg"
-        width: 1425
-        height: 813
-        isCached: true
   - title: "Microsoft, SES demo Azure Cloud for remote missions via secure GovSat service"
     excerpt: "Microsoft and SES have demonstrated the use of Azure Cloud for remote missions using the secure MilSatCom connectivity. The demonstration also involved GovSat, public-private JV between the Luxembourg government and SES,"
     publishedDateTime: 2021-07-01T13:15:00Z
@@ -111,6 +111,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "g+mtq/Rfkk9ihm2fERrS+furBeCj+jtxgPW4PFCyVX4AMvNMft9XHdkPGzAdSQRFw1wvuvFlU7ERz1cPKHRrAXsVBL6IVg7ZrW4vkqmZPdP7uevA3guMbjaHmv+DcgJhQcuOEJKLN+NzcwP4UWcpTvpj+N1W4BhV13AnJc/njcAFOOdwfY9WrzbhZitXAsb+pcxB9i/ozR1xqPI/Dgc9SNsK/XR1BxJcWc+2TD7syYYXxJCGXHCgLap4/7rDS5zpIVkbg5icVEaD0lgDO7b0PkWqg0YTYARuaeimV+netWYLvOhfe8Owl/cYRIeqgaUS2r9wKKwRXgcVoWixqr9lMJA4ih0e3CwDbaZGnqJ/NV0xa9Nj8UM990y2/oIfKAAhhlDNZR3w5ViAR2SG9C4AF+JCjjzxoRVbBH7HGyZkWATdTFSw1GPNHGYJsLNbDW84FwBzZ8qaptPpkuH6dH8xmM41R2E6hI2QgKwndKTnxVInwIKvqJhmh5gV+O2LUpMpeb8W7iVD4OlZJyLjJKi3YQ==;p9Ppv7M0XlC506+p6MlDuA=="
+secured: "Dv4ID+lTh6HR8uMUlTOxV4bQXUaFVfY3VrPbYnhWXgU7jnNr3+gIRFaez8YrjVEYzZJ/Pg4Rmv30qAPhsLRht440/5sf8Aw7ak/b4wtF/l4ct5HdOLjvc7xCG9Wrk2iM4Y+92eo3fWIKbsRlX9EU8NfCBBYvtwLwjSvIjM6dfkEdWecmTTaiCcuCc+aRMuwBvVI/s6FeLFalJD7YndvCyV0q4lFeoqDMK8qt5s2Lr2tgCwcmgGIioDYY2/WSGbWBEvEDvttYgsxOR9Q9DGc2Pxd1ckvDbwur3ZD0eXFIBsXGgBusDqUHiSFRJ7UTLwU3EqyuUrSEkg1I4+CiKS9dDonjKsEI+hVkHVHaWLm2ybU=;WnddD9cuy2kPBnRb3y07fg=="
 ---
 

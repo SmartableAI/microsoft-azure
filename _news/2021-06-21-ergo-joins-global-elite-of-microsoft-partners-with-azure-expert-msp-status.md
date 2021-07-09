@@ -156,6 +156,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "OAG’s Flight Info API now available in the Microsoft Azure Marketplace"
+    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+    publishedDateTime: 2021-06-28T12:03:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-lifestyle-travel-6c060662c15f4a0db986d89d63a8960a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Cloud Regions Mark Two-year Milestone Of Empowering Ambitious Middle East Organizations"
     excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyp"
     publishedDateTime: 2021-06-20T10:16:00Z
@@ -231,15 +245,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 23
-  - title: "OAGs Flight Info API now available in the Microsoft Azure Marketplace"
-    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-    publishedDateTime: 2021-06-28T12:00:00Z
-    webUrl: "https://www.financialbuzz.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 17
 
 secured: "KdolaWfFTHLRCqorVBT2U1wZMSudC+x6YQtiDN/xzM+fwAShhRiZc1Hx2zaMBrkwxQ/eLqnUTi0CDXdd2FKRlt1ivvYwOmmHRAkYvOV13OfCvM89V1jKxPg0IG6a/tZsj6j9LvqmBwDWrBZXfIQUmCgxt8Cz5862rlmYi/x8uPO6aFjKWknLYbhiv40RyaOR4g7kCsq+Fl4nhDmDS3b4Cobr2SRmKqYVpyCwPvcQtjW+Kxe1+RUlUkYTmMyK8mmPTdgVfL+LKblaJPu+M3vB5/ev7cbSjQ2ITuJjKhtUwxM5r6jl+6fl52HMl5FdNUvJKW6OquDrvhwR84KnWIWbFbj7I4KYJmxHtdkcRGJaK6zDSh4pEfBhhNVRlAdWTLhOXIlE8Kbfrlmlj46c7t4vwbvUXD2ZsZ6wukxZtJde4JnhMy9tRKCZ5I4MiaKu7OAxjW5O0zxpsd4PbDxf2T6nRCZy2kubTMxvozwUjTRm5saY8sOmlMBhJhsHAojrSmKKgviIu4M7sFY7BMkareyibg==;uuRbuy9/vLhcDSfYqdGtAQ=="
 ---
