@@ -4,7 +4,7 @@ excerpt: "It's imperative to reflect on the implications of AI in Government. Di
 type: collection
 price: Free
 length: PT2H55M
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
