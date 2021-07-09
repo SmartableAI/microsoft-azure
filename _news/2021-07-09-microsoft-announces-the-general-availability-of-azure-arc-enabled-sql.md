@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Tradeteq hops on Microsoft Azure"
-excerpt: "Tradeteq, the global hub for trade finance distribution, has today announced its collaboration with Microsoft."
-publishedDateTime: 2020-12-11T12:59:00Z
-originalUrl: "https://www.finextra.com/pressarticle/85447/tradeteq-hops-on-microsoft-azure"
-webUrl: "https://www.finextra.com/pressarticle/85447/tradeteq-hops-on-microsoft-azure"
+title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
+excerpt: "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment."
+publishedDateTime: 2021-07-09T11:26:00Z
+originalUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
+webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Finextra
-  domain: finextra.com
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-    width: 480
-    height: 270
+  - url: "https://res.infoq.com/news/2021/07/azure-arc-enabled-sql/en/headerimage/header+%283%29-1625687685497.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -453,6 +453,20 @@ related:
         width: 1000
         height: 560
         isCached: true
+  - title: "Tradeteq hops on Microsoft Azure"
+    excerpt: "Tradeteq, the global hub for trade finance distribution, has today announced its collaboration with Microsoft."
+    publishedDateTime: 2020-12-11T12:59:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85447/tradeteq-hops-on-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Why Microsoft’s Azure Arc Is A ‘Value Proposition’"
     excerpt: "CRN looks at the value proposition of Microsoft’s Azure Arc, a set of technologies that brings Azure’s cloud management capabilities and services to customers’ on-premises, multi-cloud and multi-edge environments."
     publishedDateTime: 2020-12-10T16:14:00Z
@@ -489,20 +503,6 @@ related:
     quality: 37
     images:
       - url: "https://cdn.infoq.com/statics_s2_20201215104707/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
-    excerpt: "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment."
-    publishedDateTime: 2021-07-09T11:26:00Z
-    webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 37
-    images:
-      - url: "https://res.infoq.com/news/2021/07/azure-arc-enabled-sql/en/headerimage/header+%283%29-1625687685497.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -732,6 +732,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "FtKmE+5viaYTHxx4kYDt1dQ5685xQYVGuTzSLJXLjv1uguD3pt0aafmIbx4AgWno8YHdkOAqph1k7W/ZamJMS0kMR2G/kRoGv6Xl5GV4voaAXawae3q4Ya+OI8iXymk07YUmEZMgUxFNNdMU4Kopzhq2bUuB3itF73jixXoeFJ+CYypBWBtlgNFV4lY8P86YyDr7wYRrKICU6M1F3bZxa763cjLWSV4/Q5w/BbGFncNdNA9yw/kXhHY16BSha7DEh+3aQiNUyqqpSWqaw2qiCA5HcVpgpMuAL+yyPRtOVhOWymKY8azQu7E4TIPOS2Q2WtAm0cOH3oZo4v57UvJ/74nMSDaJfQ23sg5NiTPYll8=;iRnXIfYXvmLh7qyT44jlFw=="
+secured: "0dOZ7YVcQkGboHkPEtvEkVA/yjlwNXgmlokDk5CMmjR/EkYwB3CgOmyvl4Lxz6CFaZRxoQJWPnmELiaJJMwqCWqJTD349PsfTRC/itkvc8BPpHAEdI0/UAIPnYBCZS2y7mm5NN/Q3kCitnepMO0sI/Zosq5rlJJOsJz5K/CWuZXsiaf0WqIVXcmGBtHFHqEUF3AVHzVpVQ+Jt5Iu11jEC43bvuMiJIbgTqIEp6AylEJSwNwa2yowFdKI+GQ/5wlSGqB6OudVxghqOdj+uglZJWaKahZdmUgDdhkBmdBL2Sjvpu84iorF4NTryuttdhg7I0iL3rye2LD/IHAZs/HwRsltr/e/MTxhKwIr7Sud71g=;fOLTjh6tvEKvIKVXoR+0Vw=="
 ---
 

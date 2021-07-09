@@ -449,19 +449,19 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
-  - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
-    publishedDateTime: 2021-06-30T14:35:00Z
-    webUrl: "https://tylerpaper.com/news/texas/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_0a6d929a-acfb-54f8-a2bd-cc00a1585be7.html"
+  - title: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+    excerpt: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud."
+    publishedDateTime: 2021-06-30T15:14:00Z
+    webUrl: "https://apnews.com/article/technology-business-86842df143e2d4a16f1a97b01b7f5657"
     type: article
     provider:
-      name: Tyler Morning Telegraph
-      domain: tylerpaper.com
+      name: Associated Press
+      domain: apnews.com
     quality: 12
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/d/72/d7298160-05b7-57c6-97bf-1f42d554bd54/60dc8b29a8cc7.image.jpg?resize=944%2C630"
-        width: 944
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft news recap: Minecraft Earth shuts down, AT&T moving 5G network to Microsoft cloud, and more"
     excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
@@ -478,6 +478,6 @@ related:
         height: 768
         isCached: true
 
-secured: "rvkX43ksCeGhzTpk5wAgLWh4Q4IvLkaA7ZY1Khqzbxr/TBPqKx+QGyOaHzbu19bhAd5iS6CkhKOTW0uaQAX0TJ5jtA0MT/pLYQRw9uGeed/mT1RJnKsLiMu4NKkayjQ653mGK9eIoryMM7GPv+KABGzQowQZyOHMmODNLdHLkAyqpUagEpTC7aEJTbvvzvOR8YSbn/Nff65nFl+mdecp0y3bk2ma6xD0WJz0vXxAqPB90Zrafa0qfcjj6AkGC6xbx7VtpIyaLBqF7cND8rpecvRxhlYHa/KJFqy6blVPn3NMIjT6kKTfJICyxwWI6MuSvWBQEaRAzuzjCYG306UG5GUjjbS80fD6EW+MipBLVsI=;1SSBUoLAps43gBGCh2q2xw=="
+secured: "EuOFsdDm5tadAZBm8Meld3l48AWZ+H8nZ3ef0v9QPLjnA/ayTQRh+AGsq/kuYcXqSqJ6DersuYl9Kcq2VOPJqLJPabk6IgYSRTvJHHESVpMca/tOLXZiJbtnneAxqSCc7arseQiojA22TZ6EbPJymFSVClTld9z14azPwRvORoP3YideKVLHfrD7t96Ft4VpKmJe2t8P8EB64Nj8O+0/j46XAD6JlToraTcWaapazWKLySJkuT+MAxNgqIWlMMPhTaBL5MhLmcPBwCqGMWRoAYziWlQqI42TYBdXYiITSnp53liDkXYPdHf0vXsQrxlWlQ/ZT7JxrS1MT+t2uB/IAFn7EYYD2mpKp5dXnmknElU=;7jc0k7nYTH4i1op3TolH3A=="
 ---
 

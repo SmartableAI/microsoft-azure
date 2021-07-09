@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
 type: article
 quality: 97
-heat: 1117
+heat: 1137
 published: true
 
 provider:
@@ -493,6 +493,20 @@ related:
     quality: 37
     images:
       - url: "https://cdn.infoq.com/statics_s2_20201215104707/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
+    excerpt: "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment."
+    publishedDateTime: 2021-07-09T11:26:00Z
+    webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2021/07/azure-arc-enabled-sql/en/headerimage/header+%283%29-1625687685497.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
-publishedDateTime: 2021-06-30T14:35:00Z
-originalUrl: "https://tylerpaper.com/news/texas/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_0a6d929a-acfb-54f8-a2bd-cc00a1585be7.html"
-webUrl: "https://tylerpaper.com/news/texas/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_0a6d929a-acfb-54f8-a2bd-cc00a1585be7.html"
+title: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+excerpt: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud."
+publishedDateTime: 2021-06-30T15:14:00Z
+originalUrl: "https://apnews.com/article/technology-business-86842df143e2d4a16f1a97b01b7f5657"
+webUrl: "https://apnews.com/article/technology-business-86842df143e2d4a16f1a97b01b7f5657"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Tyler Morning Telegraph
-  domain: tylerpaper.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/d/72/d7298160-05b7-57c6-97bf-1f42d554bd54/60dc8b29a8cc7.image.jpg?resize=944%2C630"
-    width: 944
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -478,6 +478,6 @@ related:
         height: 768
         isCached: true
 
-secured: "6wl4oUPdv2GwotfVJ1FAO3sNj1SZS8J5+jS+umNJBijMYBw9h7rVLVvTFla4gWZwcK87G4bSxQQhxEawgJiqBqaca2a9DnBTGtGolPa+Ur9C+t+8ayLgs6Vk3HSXEyTQhFS+kBpJgMo625NVNz7ZlLaS07LzASiBQS/qjKNvAi7/vjOGAoxu5L94IJjxzuvmXAVgFey9Yh3NzrSsYv3yf9uFU5SIk7X4w64WW55ItLt8YwSP1+Bv0V24OL4VxsvNir2fsd2bDS1FBXiyV+HRdz/87wnTyk8oJejHucvLKITkX7JZHfiMLSbxqERvsGh1XQtg2bL26F8IdawLZ7T+U/f4SJbPGClMafWYKuZdaAk=;vhVPFix4yPbFj2DeC9CSFQ=="
+secured: "hJ+fTE5Ccf3w7FVKp1DYfdEctjiXmd4jP4cFlx7RqLc6E27KCNM1T1ozRQAg8oQ2hk8VWvtGDNBwYlL+FuulwYjrwUu5IDYmy/eIqz7KheQO2pL3CdBkrzCdir68mMgge288IgySbawyQh1s/JFEhgFBn22XDXu9m3tQRNyCXKgo51fR1mU2+V7V/K0JSt8VZosYTI5tvFUQ+dG5bUinbFjdT5jhSSphwsqSoosYP/mjgZaYWbo6eR8054dRYtfvq2sM2UcwKgp5hhfn25VcBQf+DCPTATns3z5nKG6MniveFPJVKCbhyq42YRtzflsNDOk7PhOlvvvnIWqYgrNvxzkpZKGYGxadbB1v7UzOcds=;8QjDg6tha1zQKwJ6m6OqAw=="
 ---
 
