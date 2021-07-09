@@ -449,19 +449,19 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
-  - title: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud."
-    publishedDateTime: 2021-06-30T15:14:00Z
-    webUrl: "https://apnews.com/article/technology-business-86842df143e2d4a16f1a97b01b7f5657"
+  - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
+    publishedDateTime: 2021-06-30T14:35:00Z
+    webUrl: "https://tylerpaper.com/news/texas/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_0a6d929a-acfb-54f8-a2bd-cc00a1585be7.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Tyler Morning Telegraph
+      domain: tylerpaper.com
     quality: 12
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/d/72/d7298160-05b7-57c6-97bf-1f42d554bd54/60dc8b29a8cc7.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
         isCached: true
   - title: "Microsoft news recap: Minecraft Earth shuts down, AT&T moving 5G network to Microsoft cloud, and more"
     excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
@@ -477,17 +477,6 @@ related:
         width: 1365
         height: 768
         isCached: true
-  - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
-    excerpt: "Studies compare VMs in online transaction processing and data analytics work Durham, NC, --(PR.com)-- Organizations supporting Microsoft Azure workloads for"
-    publishedDateTime: 2021-07-07T07:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/r21869826/principled-technologies-releases-two-studies-on-the-benefits-of-new-microsoft-azure-vms-featuring-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21869826"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21869826"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
 
 secured: "Cf6FgopBznBmnzqpkE8go5Fcyw/pZGjnV7jauU867ofIm4p8IQ2QdJKKas9EMo8rIK9u1aeVlIHX9byQ+ZeH0WNADFVBg9LHMDLTLUAGbMb7DfX3F5TszLD9DkVKSOIJ+F1P4SlpZcfXfZI31pNL0OX7OWQsF77mVXlrRmHMVOm3J/T8GFeI5Vt8E78uk+F0AZctHH6OcHYntUIDEnESuNYHDzb+91CO9Zj8Opi5y+KQzIL093e0Ng/rtVlM5nCaXxmqZcgBcGBswD/IVqZn7L0y4FdHfp5sXg3vrqWIV90APPn1vTWOShIkWu1EB6RmyyuYXFLZq3tVWs88evqEmDbtmchAc4msFxNxfC/yyeJe5C/537p8Jq5CemXbHPUp2/8vLSEQ231qowOIAc5xX9Y9Vz4J2FqOyDLEtQVkKVwSKNT58wYfEE3CWjFlZXnObOf1gk1l/oA7fTjYoiJyFsG0rEwaj0IUkWg70c7QCh8/5/UanMS8VAr9NES5EpF7TBeGFTaIX1SVjCOJVYG4fw==;6UmT4NYkO62x39xnr64Ahw=="
 ---
