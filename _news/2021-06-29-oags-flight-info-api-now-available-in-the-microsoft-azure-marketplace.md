@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Azure Stack HCI and SQL Server set sail on HPE’s GreenLake"
-excerpt: "HPE has added on-premises Azure Stack HCI and Microsoft SQL Server availability to its GreenLake offer, complementing existing SimpliVity and Nimble dHCI hyperconverged systems support in GreenLake, and Nutanix as well."
-publishedDateTime: 2021-06-21T12:00:00Z
-originalUrl: "https://blocksandfiles.com/2021/06/21/azure-stack-hci-and-sql-server-set-sail-on-hpes-greenlake/"
-webUrl: "https://blocksandfiles.com/2021/06/21/azure-stack-hci-and-sql-server-set-sail-on-hpes-greenlake/"
+title: "OAG's Flight Info API Now Available in the Microsoft Azure Marketplace"
+excerpt: "MENAFN - Mid-East.Info Lo)ndon: OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store ..."
+publishedDateTime: 2021-06-28T20:18:00Z
+originalUrl: "https://menafn.com/1102356834/OAGs-Flight-Info-API-Now-Available-in-the-Microsoft-Azure-Marketplace&source=28"
+webUrl: "https://menafn.com/1102356834/OAGs-Flight-Info-API-Now-Available-in-the-Microsoft-Azure-Marketplace&source=28"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: blocksandfiles
-  domain: blocksandfiles.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://blocksandfiles.com/wp-content/uploads/2021/06/GreenLake.jpg"
-    width: 950
-    height: 445
+  - url: "https://menafn.com/updates/pr/2021-06/28/M_b3fd6image_story.jpg"
+    width: 600
+    height: 313
     isCached: true
 
 related:
@@ -100,6 +100,20 @@ related:
         width: 1920
         height: 1152
         isCached: true
+  - title: "Azure Stack HCI and SQL Server set sail on HPE’s GreenLake"
+    excerpt: "HPE has added on-premises Azure Stack HCI and Microsoft SQL Server availability to its GreenLake offer, complementing existing SimpliVity and Nimble dHCI hyperconverged systems support in GreenLake, and Nutanix as well."
+    publishedDateTime: 2021-06-21T12:00:00Z
+    webUrl: "https://blocksandfiles.com/2021/06/21/azure-stack-hci-and-sql-server-set-sail-on-hpes-greenlake/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 37
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2021/06/GreenLake.jpg"
+        width: 950
+        height: 445
+        isCached: true
   - title: "Microsoft Launches Azure Private MEC with AT&T in Tow, Not Vice Versa"
     excerpt: "If Multi-access Edge Computing becomes an option for your data center services, would you be contracting with the cloud provider or the telco provider?"
     publishedDateTime: 2021-06-21T20:13:00Z
@@ -155,20 +169,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "OAG's Flight Info API Now Available in the Microsoft Azure Marketplace"
-    excerpt: "MENAFN - Mid-East.Info Lo)ndon: OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store ..."
-    publishedDateTime: 2021-06-28T20:18:00Z
-    webUrl: "https://menafn.com/1102356834/OAGs-Flight-Info-API-Now-Available-in-the-Microsoft-Azure-Marketplace&source=28"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2021-06/28/M_b3fd6image_story.jpg"
-        width: 600
-        height: 313
         isCached: true
   - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
     excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
@@ -260,6 +260,6 @@ related:
       domain: telecompaper.com
     quality: 23
 
-secured: "5XUcz8pbb+MMc9Fj8hRK1AoMl9gouBYEi9xQiacu2s6Gj38LV4KJNUmGGKTFu3FFvBJgFLjo4E+2jdWJ9FwN3ZvWlJXQBx7tQ4M1jQuHml5B2obUqwlNkXs72KFW91FeKOM+EuKMJ+G8eQdfP7kdtu8nue/h/3PnQHyHoMBfi/MDUvC9ZRN+UGWMzdd9J6hUbbysUfxv8hCHIizGzQDQ9HkH2VzP8J3QcBiBZpoxEkRyD211/TJPdVFmwMes0iz5ahaPC6KjCiuNaz+unmvHaU3vZ6Ggl+qDcrrr3vHjF1uwDs6IY9OgGKrFn+x/ghXutwIg/ayzWC156iujT4FwaZZOpL63S7BWIdk+QWvGDds=;CHLuldCfrPLzlb9XQqJTYg=="
+secured: "SijrfucjS/r7Qn0xBUn7fNKKL1bg8p0xKg7YvMcwoPKv2Iann4840DjRLJLSeCRkpOvU+pew/ETT74x81/GtAL30FAcqKY3Jz/Wz9SPwsd0PkbI3y5AJXdO7I3G+2b8VM5L8b+qhOa+2NZ0PpMuvhYnDyOK5ET9F7AdqbUtyPvxiuExnHF+9vhuxWorVWmMTDnKzn8HYK2ZR9xDv+ZOtQIHLeRn2hDWPmpa94jAEen5g1cvv5aKTFZ+cKhCuatlU2SYqzIr8rOdulgZoUZEhmsGDA2EJjQbuffLhRhKc0rkkQnnErLQbOmhPR+AKD9G+dnpJiIgKhDX9+rXIZA8JWHkHtGEf7ZO40bBfiuAXSjg=;5yL0Sj+ii1LZnE/H2zrlqg=="
 ---
 
