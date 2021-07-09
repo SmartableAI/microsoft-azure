@@ -4,7 +4,7 @@ excerpt: "Page Bowers and Donovan Brown discuss how SAP customers are moving to 
 originalUrl: https://youtube.com/watch?v=jJnqJab_L9A
 type: video
 price: Free
-length: PT12M14S
+length: PT12M13S
 publishedDateTime: 2019-02-28T00:57:27Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "89a2PqeWXYZgm1nsmqq8CvXm2uQKZJBR5AZhxWHQQEOgb6DlVQDSP31Udi8zIl4XJHQQZ/O0UBrZlHvYu5GfTwY04GXcg5zZihffLG/CSGn6xAauf4GSZqAtAke1dtqy5OFB0xmKm1piz7N6iBaOAW1zUZwdFQnuu7hSLvHGKnL7vaK2CXtCfKWLqkteR9LJkCNCunKz/Z3E3g5ZXBZoiqNnDVtPaVF6njm7NkIYUau1ZKO2xWk9D+h0Lr29QDMux9eVb3PjahoU9+6nqXLipl+EWTPOUuP0Mrh5b/we1W5T9LekCWCKBtEQ6lCTxb7wNIG9HDa7JelNWSuC87P34u+cTqpGnjM3onQrqiTarn1aIB+AvWVOCH2s/qGQsgrgy6BR6rvVRLE/wtW6VvmTYFm+x+gZyDL6owISWeyf808=;2Iv+fJ5fSPttQZgF37y7RA=="
+secured: "9vWs2yG0bP42RPc8cUQReyCKm0Vp0kdrhX1gSSlKvNcfgd8RLGcgGdiWNU3Besf8L3hBOyYOGvgDBchxpLBv20BMH7y2CXG2phrbjm3+BvCXGRCiZccF3bOvgtplBlWZMDUctqcNQ3Kavmbn0A9zZQ3ewNCUq1qaay0zvgX6Ikp9wVRzd+7A8hv5nSJyUPWFktbFKaCIyk+RceTAKwTcgoFRUW/TTqi3pRCBH5XXR2XBK007VmF9a5p+u9Yvdj8N5kYrtajxeXL7ffJRL7SNNvvGPgryTt+eUtNBcT6YH5nCPwbTVMB/F+g34MdrPLfzjWI2vtyybJ46rlBsJZwh2y70gJ4MJSGBPKoyJXLs5AT4BUUjvJudLqOn19DHU0Tfhjiu0QugSnwan+5klBXvNfuTib/Z3l1H/IwsiED87IQ=;qRBiElOgZhGZeRRILBZEVQ=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "In this edition of Azure Tips and Tricks, you'll learn how to create a
 originalUrl: https://youtube.com/watch?v=M5y92imCkh0
 type: video
 price: Free
-length: PT2M12S
+length: PT2M11S
 publishedDateTime: 2019-11-12T16:06:09Z
 heat: 50
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "MbtfdGULXGWswbO4QRDLyRXoBOtODJ93uK5Rr1Et/OkwKSF5mIzkKPE5kRNdXssKg7L/vLiEoEUxGdEFuDctibbBRfFZAWsc83Uvt7KuJSpptfUuM31PPOoAt2CWsUo7Nbfdcf2NHFShJmWUmCFSsuy3QibwIIFS2rXQXbb0yrSNoVpaFV/7sO32Y9XzJDiw8T3BYhZyyCL4BWcohhgh5TfHb5Qv/hyLY7okY9dFFgXtmzddhDjAhxd6QI5+rcSJ1t37x9tr5MN/r3scMMo+0V0VJmADGb0Fg2G2VS9XALr1p6k17JgbstoSp5Fbhg/4c0UJaty2CyPhFOq65Gif6sEBuH0U0MkwAeES7y/3uNFb3xCLQJx2ZQ3qFYeEcx268UyTvDaiO7pHzn0bWIDPT9Fc9DiWrON3z2LaY5Fopsw=;R5f2w3gFiUZBqtIuu76FFw=="
+secured: "tiDwYMMflD6wMmpubpIf7ff3ZJnftGCE7NKkCiUBQfMmO4ElXPsSc3juNG7TSX5YTpoWowTb2jzX6hzXGPzeuxP2BmvS3ywClWSKeiMc5TFhDOsLLl6/jl2FqGy8b4ZtlZoFv0DgT6hp/4aHJbkXOYO09lEEewFFl8H466OWIttPnANpgOlLnI3hcpl+Cmedb9iMHk+2jtQV0sOD3MviTpEoQ8ZXh5o9HSA5xneX/TeR8t1ucoTLotVbUOLF/d3dW4KPZvHJq7e8IB6dQDwgnaiWkKxMyPZJQO8nXpUGMv1aW7ASAL8xcljrPvP8L3H3/l6QLSay7USbdtvPlVeNwF54woVFwZevkp8Iez3Mk3F6QK5u4rFmkECZ8NyuJPUt581UfSKcrpCusG/gkhrThJ0T1n83Hb7CY7r8nj++byI=;1mmxtQAlkJP/nrxYjOVlJA=="
 ---
 
