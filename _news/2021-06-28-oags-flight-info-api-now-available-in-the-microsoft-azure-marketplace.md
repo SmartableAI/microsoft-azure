@@ -1,21 +1,27 @@
 ---
 category: news
-title: "OAGs Flight Info API now available in the Microsoft Azure Marketplace"
+title: "OAG’s Flight Info API now available in the Microsoft Azure Marketplace"
 excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-publishedDateTime: 2021-06-28T12:00:00Z
-originalUrl: "https://www.financialbuzz.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/"
-webUrl: "https://www.financialbuzz.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/"
+publishedDateTime: 2021-06-28T12:03:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-lifestyle-travel-6c060662c15f4a0db986d89d63a8960a"
+webUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-lifestyle-travel-6c060662c15f4a0db986d89d63a8960a"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "HPE expands GreenLake offerings for Microsoft Azure"
@@ -240,6 +246,6 @@ related:
       domain: telecompaper.com
     quality: 23
 
-secured: "GV9yb6TCRT5RXml8E3BgFdhj+U25LK3lAMBlLQOOon2UKi+oC5cEH6LkdNtvQKYS0vv8RYHqj7yfMAeRYytKeM0YH0MR6PG7FgkpPLpf43SMrHNutPQJOgPAeYb3wMRG4h7wM9LNH9VkyJt7uDIkV8TGKTUElVr0Ma8Rvi7kMijR8jB2cmbxtk5ftySawzizFixgJRlr09+e9g4bpTpjK8zGRi2RlrTZHcKgHKO3XBBCU3uRY9sqrXnYTPrMIZVvDpVEuRr6RYROTVJN0GyS2kVLU5+8yGaCeQYlnmjutf9pl6hMvSLRqUbdTfoeOihORbSNb/yaEhHvaqrbSX66KCiF+5JyehI2sC/ZITs1lTw=;JOp/59489Y+Y3wpywMNRQw=="
+secured: "cS3mA65xCerjSGOaOYEmQTLbedpQe1c4MMO35uNKVKj4f0c2XaONPqLnpbGM6KUVKR5zPQI0EJlLc952oVRn+2+RtZcLVzb2Z/t9oUkvfpf+FwPPflqaTYFsVDx7uyo5RaiWl+F1ToKB+wEwXXxTw01tWTrozjgNFKxZmKVajD3XX/vOlg7uqnyo0hnfYNNi3keaMLmiW5jtc/BKkq1ludyTM3usHC1rG923EVXfjLGvRIehYXg2v/Fo97TYxV4JHyTpjx7bZpmZW5AOUKceIsomPOS9YMQxCsIMfKY7EqvfuIX4roYV9QcRbPMWvkcVbFG73SEroIsJuXZVw2EmNB3E9ZYU1yfk/OnVg3TjExk=;6OqhNxvr9yNqpXNxNZMYSQ=="
 ---
 

@@ -27,11 +27,11 @@ images:
 
 related:
   - title: "Microsoft Cloud PC interface leaked, but nobody noticed"
-    excerpt: "Microsoft Cloud PC. Information about Microsoft’s new Cloud PC service first came to light last summer, when ZDNet discovered a job description containing details about the proj"
-    publishedDateTime: 2021-07-05T12:02:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed/"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed"
+    excerpt: "The graphic was published on Twitter in the runup to the Windows 11 launch event, where the leaker expected Microsoft Cloud PC to also be unveiled. It is now thought the service, codenamed ..."
+    publishedDateTime: 2021-07-05T12:17:00Z
+    webUrl: "https://www.techradar.com/au/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed"
     type: article
     provider:
       name: TechRadar

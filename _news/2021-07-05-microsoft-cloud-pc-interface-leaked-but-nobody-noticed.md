@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft Cloud PC interface leaked, but nobody noticed"
-excerpt: "Microsoft Cloud PC. Information about Microsoft’s new Cloud PC service first came to light last summer, when ZDNet discovered a job description containing details about the proj"
-publishedDateTime: 2021-07-05T12:02:00Z
-originalUrl: "https://www.techradar.com/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed/"
-webUrl: "https://www.techradar.com/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed/"
-ampWebUrl: "https://www.techradar.com/amp/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed"
+excerpt: "The graphic was published on Twitter in the runup to the Windows 11 launch event, where the leaker expected Microsoft Cloud PC to also be unveiled. It is now thought the service, codenamed ..."
+publishedDateTime: 2021-07-05T12:17:00Z
+originalUrl: "https://www.techradar.com/au/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed"
+webUrl: "https://www.techradar.com/au/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed"
+ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed"
 type: article
 quality: 82
 heat: 222
@@ -115,6 +115,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "WSG9AJSLbE1WmQHhJNV3MEBBKqa10U3V9U13821p5ejqAnZ5haSZA6qNycHUm5y9NkSBfPua9cLsSs1dBp2DBzw4qdEWwU2TMYwGiq9mYYgLcAHe9myYCByrhPB6MlpUhcWZXhAJesnZFbql3oBm3MMx9n76AMFg5VNMwyl9LvBr1/nUjxQK6w/E8uq+5+LWYpYCKwktJW7f0Dptmp8Pl0Rp7M+1MsjrL9D6DCvXY4TFX4KowwEcmXuetaeCJOvmj2RO4KtuQVeHO1JPp0bUChJNo+T92ks7OuBsGn3BEApewqoM/2P2hMAnf7tW9kLD4GeAJljAz4GGMFpgOvRzlNn/OrbYTn5WEIsXpV5uN74=;uaXa8zPfVN9sGnb5p6HuMg=="
+secured: "+pRuQ8Gu72vwfOJwMR629FkFwDiw+wzQ9xFx94xXBEoDUzZ1yyTD1oKJgl2IpTNBgzcj+oa/dE1FOUneSDiMSePQkf3NKCqHvRHNTGUpMC57HfOzBkAfSWO6bqK4gDpIJKNs+yeS9IqNghhaeQMpcYpbKQZeuYLzK7h9xlA138AFNudw0ngeOfzkI3pV8fH4Y71djxcODeAJzdvfI/K0gST2mnI57mRmvwcDq0z9SVohRswHuph5z5WUkG3L2y4r1vyULebVyqjIs1gZ+EulzBJMxTa81eZZFDjK2jxx4gLB0817ZqwIQ9yxoe04YOQ2Gtcs/3oslvlEMSjoWVueNzEvMjCw0rOnHiS6sdm9kh0=;n444I+dDR1PuwI7mOPR/NA=="
 ---
 
