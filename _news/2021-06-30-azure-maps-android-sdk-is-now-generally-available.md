@@ -149,6 +149,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere version 21.07 Update 1 is now available for evaluation"
+    excerpt: "Participate in the retail evaluation of 21.07 Update 1 now to ensure full compatibility.  The OS evaluation period for 21.07 continues for 14 days for backward compatibility testing."
+    publishedDateTime: 2021-07-09T18:48:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2107-update-1-is-now-available-for-evaluation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Sphere update 20.04 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-05T17:00:14Z

@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Sphere OS version 21.03 is now available for evaluation"
-excerpt: "The 21.03 OS quality update includes enhancements to mitigate against 5 CVEs. "
-publishedDateTime: 2021-03-19T16:30:31Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2103-is-now-available-for-evaluation/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2103-is-now-available-for-evaluation/"
+title: "Azure Sphere version 21.07 Update 1 is now available for evaluation"
+excerpt: "Participate in the retail evaluation of 21.07 Update 1 now to ensure full compatibility.  The OS evaluation period for 21.07 continues for 14 days for backward compatibility testing."
+publishedDateTime: 2021-07-09T18:48:27Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2107-update-1-is-now-available-for-evaluation/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2107-update-1-is-now-available-for-evaluation/"
 type: article
 quality: 67
 heat: -1
@@ -130,6 +130,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere OS version 21.03 is now available for evaluation"
+    excerpt: "The 21.03 OS quality update includes enhancements to mitigate against 5 CVEs. "
+    publishedDateTime: 2021-03-19T16:30:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2103-is-now-available-for-evaluation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Sphere OS version 21.03 is now generally available"
     excerpt: "This quality release of the Azure Sphere OS includes bug fixes and updates to mitigate against the Common Vulnerabilities and Exposures (CVEs) mentioned in the article."
     publishedDateTime: 2021-03-31T22:01:39Z
@@ -143,15 +152,6 @@ related:
     excerpt: "This quality release of the OS includes bug fixes for apps using SPI Flash."
     publishedDateTime: 2021-06-23T21:13:07Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2106-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Sphere version 21.07 Update 1 is now available for evaluation"
-    excerpt: "Participate in the retail evaluation of 21.07 Update 1 now to ensure full compatibility.  The OS evaluation period for 21.07 continues for 14 days for backward compatibility testing."
-    publishedDateTime: 2021-07-09T18:48:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2107-update-1-is-now-available-for-evaluation/"
     type: article
     provider:
       name: Microsoft
@@ -176,6 +176,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "cR22GLZw1oJIQ1hzoqaWlanoTMrpARLOWOevrPmZBOCsCi0q1Q5JbaksHJmep1xSH5hxxeYRNRMa0Z5fzm06wasvuZGAQpXb2g0snSHLQDfTCoNP3YorNB8ig68M3ldemo34Q/1MPp6idMPGQ76rx7b5OO+Sxsbgv3uL7j5o0U2KFpUmxGJuiSK8l3vf8l93N7u+gHVFgdSgEYcvdp4bBqGBW2VAo6FLZ6ORjWjsFB4Q8caJm/OI9IWu0zXRf6VmxNqEY4vLwYmUlhW/OYzJ3ZFkh6T2mZ5wxgKT7dotAq1swuW+BV/JkFza+cagRqJuQPob5tFASnB/CdAuG1R9AbaUUMNduFl9sqeJBCnvEJ4=;0QxAseY6QYxIgpfCDxDgnw=="
+secured: "9YgXAnNTHEvSXeI8VqhA3zn8wU4mcq6eEEpRRNwKSgMCdVfQl9IlhJ3FSMM90Dr4iwBdTwlLc9qqXzw60sPpnwcHPva8sAySewkEPW11c7s6NCsAU1IzaZQGsbNuZZYUMxRggvls3BMjxwqqCbTcTWKpFmiiQwDp0YI/V4ZTYTEJVfh9UZ1t8czpRX4CFIRqLS7MM7CEdLFJlkNNbsZvIMmSK0jmnLDKfupkyPq1yOuC3trLg+rgugLym+/YWjoekg3JIA3Y8yhxo2nukfNyONvf/BC4f4l+nzNAnbCRsEauaHWemnLwSBmRaj0Chu90SmhLTg+f8owKWtJ4OQrTv96EnjRZMKGDy4uKggJK9tc=;Q0s513TJOtWEasKZZb0egw=="
 ---
 
