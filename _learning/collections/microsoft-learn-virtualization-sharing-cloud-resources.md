@@ -4,7 +4,7 @@ excerpt: "Carnegie Mellon University's Cloud Developer course. Dive deeper into 
 type: collection
 price: Free
 length: PT3H22M
-heat: 64
+heat: 60
 
 provider:
   name: Microsoft Learn
