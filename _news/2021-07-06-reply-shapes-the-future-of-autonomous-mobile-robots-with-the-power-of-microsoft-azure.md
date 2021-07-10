@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
-publishedDateTime: 2021-07-06T11:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
+excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new business applications across industries ..."
+publishedDateTime: 2021-07-06T07:38:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -121,6 +121,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 54
+  - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+    excerpt: "This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core, the software at the ..."
+    publishedDateTime: 2021-06-30T16:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-2021-06-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Indian Girl Gets Over Rs 22 Lakh Bounty For Spotting Bug in Microsoft’s Azure Cloud System"
     excerpt: "Aditi Singh has received a bounty of $30,000 (roughly over Rs 22 lakh) from Microsoft/ Notably, it was 2 months back itself that Aditi had spotted the RCE bug in Microsoft Azure. She even informed the company about the bug but didn’t get any kind of response as the company was busy checking if anyone had downloaded the insecure version of the system."
     publishedDateTime: 2021-06-29T10:07:00Z
@@ -449,20 +463,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
-  - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
-    publishedDateTime: 2021-06-30T14:35:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 12
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
-        width: 944
-        height: 630
-        isCached: true
   - title: "Microsoft news recap: Minecraft Earth shuts down, AT&T moving 5G network to Microsoft cloud, and more"
     excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
     publishedDateTime: 2021-07-04T15:10:00Z
@@ -478,6 +478,6 @@ related:
         height: 768
         isCached: true
 
-secured: "4be43yMWrkrT3JrHgX88EmcorDNkxrCAV5MrzGQxpEqJw363PmzbUAfG2XUHgQUrDMVk/GTk70MLEpo24zQP+g2lPxs8NO5BFKmkWmuwsuzbmC1zBMRXq766OWQeBYCcnL3LDAEz0zi4Iy1t+Hi1CVh0+/u0bMMiy6LcdUGiyA/FJDSYtjkG97UyL6wsXHM5sDfTsFYkOpDec9IKTwN9xtAObiDJiESnLvz34y50Hu6TudIWxcDUJfHrmoB3vKzwB5+B/K+nCx8tH0Qx9i1qzCY/DLAofVrvBZSxA3hzylZwzo1kFfsSgSGAqG2KVJmrC7Wboxz0uY7LUWOPSZTnIStL3eCDuwdXcTH23aXmWu1e00rHbjEfnLZ/5cE5FNVNFrynOjVcWJ9fjOfs9VK0NuiQaHKdNvWfRsWdxImluc62Cp379wI7iMc90h1/pT8NGBFabfgV4xAZTNkEcjW4xtZAHM+/p+jZ0iMy9QyyZyZ65R6DPxEkZ32kyhCLiHf7fm6cQRgtAV0gfUEQcMTYyA==;opgK2eeaM3uuNhCRU325cA=="
+secured: "S0OPowLAWtXh0CcwS/n2vuf4Ju+rqwoOhxJ+3jM8k6ZkMGNnwSXniMNhnE6lTCDhl95yfwgwpt7qZ9Iiju366V+Qu8OL7lui8n4dztn8dAwgpkbnDdVLsz5l14aMBHi39SV6v0C+6R4uq4fqMFH8EdJTZZ3mHV5hz5IbTnziBaLDpTjOVSroM9qetPctYXu6ifwU6jk+7LfbSp1JeFHUYGdbyq+21xbeo1Zyc+Z9VQ0Zwc8pPkTgpEEcSJp8yIEdkOqylLEuMZtjKoAhy/aSGxqNNtZ2rX30DX18I3uinUlWVNUaGvsoIxXDdVQFseAmTzPp9XN6S2aisVtkLgzoq3ijcN9ye+hngk0HkUFhSG4=;IPNhLFk91Gr2AIvsx67QvA=="
 ---
 
