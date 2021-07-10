@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/privileged-identity-management-wi
 webUrl: "https://azure.microsoft.com/blog/privileged-identity-management-with-azure-lighthouse-enables-zero-trust/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:
