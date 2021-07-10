@@ -35,6 +35,7 @@ items:
   - courses/microsoft-learn-publish-azure-web-app-with-azure-toolkit-intellij
   - courses/microsoft-learn-publish-app-with-maven-plugin-for-azure-web-apps
   - courses/microsoft-learn-develop-azure-functions-app-with-maven-plugin
+  - courses/microsoft-learn-monitor-java-azure
 
 topics:
   - Azure
