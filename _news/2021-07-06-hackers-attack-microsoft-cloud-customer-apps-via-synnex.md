@@ -366,13 +366,13 @@ related:
         height: 576
         isCached: true
   - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new business applications across industries ..."
-    publishedDateTime: 2021-07-06T07:38:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
+    publishedDateTime: 2021-07-06T11:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 27
   - title: "Cyber Recovery Solutions Market Next Big Thing | Major Giants Wasabi, AWS, Microsoft Azure, DELL, IBM"
     excerpt: "Latest published market study on Cyber Recovery Solutions Market provides an overview of the current market dynamics in the Cyber Recovery Solutions space as well as what our survey respondents all outsourcing decision makers predict the market will look like"

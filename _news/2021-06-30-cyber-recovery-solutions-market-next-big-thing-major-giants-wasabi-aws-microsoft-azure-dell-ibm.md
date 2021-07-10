@@ -362,13 +362,13 @@ related:
         height: 576
         isCached: true
   - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new business applications across industries ..."
-    publishedDateTime: 2021-07-06T07:38:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
+    publishedDateTime: 2021-07-06T11:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 27
   - title: "Hackers Attack Microsoft Cloud Customer Apps Via Synnex"
     excerpt: "Hackers attempted to use Synnex to gain access to customer applications within the Microsoft cloud environment in an attack possibly tied to the Kaseya ransomware campaign."

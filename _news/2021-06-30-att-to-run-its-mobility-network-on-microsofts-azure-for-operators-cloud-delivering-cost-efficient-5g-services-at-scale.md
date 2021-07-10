@@ -366,13 +366,13 @@ related:
         height: 576
         isCached: true
   - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new business applications across industries ..."
-    publishedDateTime: 2021-07-06T07:38:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
+    publishedDateTime: 2021-07-06T11:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 27
   - title: "Cyber Recovery Solutions Market Next Big Thing | Major Giants Wasabi, AWS, Microsoft Azure, DELL, IBM"
     excerpt: "Latest published market study on Cyber Recovery Solutions Market provides an overview of the current market dynamics in the Cyber Recovery Solutions space as well as what our survey respondents all outsourcing decision makers predict the market will look like"
@@ -478,6 +478,6 @@ related:
         height: 768
         isCached: true
 
-secured: "vTjEC/GcanrFFuAxB3pOQvrBQ8NLwqgU8UufEY3AKE5fwVbwhru/sCJ23gBOROJetznYIoWYo7m+HJrHecc5eE7auPMFUX7658f5z6AvfmOP4vwoo1WuKtwsh9aKvAOUg7xVhXZAaqzj1Tl17b0Of5oZo459uRxD+o5ZXqVeRugNaTPfZJfE7vQTLlxVBrIePKgmI4z9DpB1b/wehvaacRQ6FikTaSTJ00QdGWNIntto4mmcEG5Y9lAl/B9rir0WvSSY88cbeDBsbFKdmNdmxmvfIzFFnfHZNWNSM931yKiLI+CsYYDvzSurG7BzJEG4/WnHwCPI5wEZQfGztgDLQ4iasbo1lJ6A3y3qkGKq7hA=;/vShmBFQmsXwxoGIogbBuQ=="
+secured: "huyLHnLwTgNHNdi/iuT83LxB5TZIEuQ0ADzdvCJ+gXjuweN0sXjCnovoEw/ldc3VatQI9t2pUte1rb5GN0NIOcHrsrhWG4ZIMK+gQ3bNxB9bDRJDKVKF39erv2uu/0H8iNO361hVew7Csaj5tfcFZ7iL3iEGRH93skL4aheLrEg2f9DFahiYaOyGBXCWR160KhqK/CZRdg1YR6dJqU8ciZTFIOQR3/jI9WrFvNyo8jam6Tw3wUzLE6O/JY6XWSHSGO2vPCIyk6YbrSa7NZoWhpQDJ+/6gpHS7XRQkUhRDfMf+etXc7boG3C3gP2q0m3LD81MU4eMIcekNpLYgfyzfqJo1V9scW9J22bmiBx1qzeqCasWe8SfhK9jFqTMiCAaNEWR4CeS/PsgFgKRUjfx3saacABNsuaWhOIXfbbZPf7dOp3Y+mMkiYwC5uw9ItneTXK3rJ3eRmCSDAaO8yw5ZSSdlnoBO/W9SL4ZO3mbvJFC52XxvHzObFh4Mp3+WBRN4SdKYeikk33yns2WjWcoDw==;5aBqx3z/+hkfC236TT36bg=="
 ---
 
