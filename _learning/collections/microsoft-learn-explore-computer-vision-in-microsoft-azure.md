@@ -4,7 +4,7 @@ excerpt: "Computer vision is an area of artificial intelligence (AI) in which so
 type: collection
 price: Free
 length: PT2H53M
-heat: 66
+heat: 68
 
 provider:
   name: Microsoft Learn

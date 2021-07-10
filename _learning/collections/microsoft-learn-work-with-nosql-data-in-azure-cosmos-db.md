@@ -4,7 +4,7 @@ excerpt: "In this learning path, find out how to customize NoSQL data storage an
 type: collection
 price: Free
 length: PT6H3M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn

@@ -4,7 +4,7 @@ excerpt: "Describe the capabilities of Microsoft security solutions"
 type: collection
 price: Free
 length: PT2H12M
-heat: 53
+heat: 52
 
 provider:
   name: Microsoft Learn
