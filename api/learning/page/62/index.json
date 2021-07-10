@@ -4,14 +4,14 @@
   "page": 62,
   "value": [
     {
-      "path": "_learning/videos/microsoft-migrate-and-modernize-your-net-applications-on-azure-azure-friday.md",
-      "title": "Migrate and modernize your .NET applications on Azure | Azure Friday",
-      "excerpt": "Azure App Service hosts over 2M web apps with a fully managed app hosting platform for .NET, Node, Python, and Java web apps. In this episode, Gaurav Seth shows Scott Hanselman what's new in Azure App Service. Gaurav demos the new Premium V3 Plan with newer and faster hardware and lower pricing, ability",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-migrate-and-modernize-your-net-applications-on-azure-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-migrate-and-modernize-your-net-applications-on-azure-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=qhrEPvZgFMQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qhrEPvZgFMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M48S",
+      "path": "_learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday.md",
+      "title": "Operational best practices for web apps on Azure App Service | Azure Friday",
+      "excerpt": "Azure App Service hosts millions of apps, serves trillions of requests per day, and has an SLA of 99.95%. But what should you do when your app has issues in production? Byron Tardif joins Scott Hanselman to discuss some operational best practices for running your web apps on Azure App Service.  0:00",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=JAqoLC2dv-M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JAqoLC2dv-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -24,49 +24,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-12-01T15:33:19-08:00",
+      "publishedDateTime": "2021-02-05T17:09:42-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qhrEPvZgFMQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-multiple-node-pools-in-azure-kubernetes-service-aks-azure-friday.md",
-      "title": "Multiple node pools in Azure Kubernetes Service (AKS) | Azure Friday",
-      "excerpt": "Saurya Das joins Scott Hanselman to show how multiple node pools for Azure Kubernetes Service (AKS) enable you to use different virtual machine sizes in a node pool supporting a variety of workloads in a single AKS cluster. For example, an e-commerce website can have a node pool for a billing service",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-multiple-node-pools-in-azure-kubernetes-service-aks-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-multiple-node-pools-in-azure-kubernetes-service-aks-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=XHrlCJDDjS4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XHrlCJDDjS4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M5S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-05T22:25:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XHrlCJDDjS4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/JAqoLC2dv-M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -77,18 +39,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Containers"
+        "Compute",
+        "Web"
       ]
     },
     {
-      "path": "_learning/videos/microsoft-opendev-102017-logging-security-and-analytics-on-azure-with-the-elastic-stack.md",
-      "title": "OpenDev 10.2017 | Logging, security, and analytics on Azure with the Elastic Stack",
-      "excerpt": "Christoph Wurm, Principal Solutions Architect at Elastic, speaks at the 2nd edition of Azure OpenDev, a live community-focused series of technical demonstrations centered around building open source solutions on Azure. This episode features DevOps, which increases business agility by delivering business",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-opendev-102017-logging-security-and-analytics-on-azure-with-the-elastic-stack/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-opendev-102017-logging-security-and-analytics-on-azure-with-the-elastic-stack/",
-      "originalUrl": "https://youtube.com/watch?v=tOqWX9JWEYc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tOqWX9JWEYc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M30S",
+      "path": "_learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday.md",
+      "title": "Optimizing your storage costs with Azure Blob Storage | Azure Friday",
+      "excerpt": "Klaas Langhout shows Scott Hanselman how to use Azure Blob Storage for a variety of cloud workloads while optimizing costs related to controlling capacity and tier, Premium tier for transaction cost savings, choosing the right redundancy, and routing preference.  0:00 – Introduction 0:52 – Presentation",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=dcSFOxBXxh4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dcSFOxBXxh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M32S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -101,11 +64,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-06T11:47:52-07:00",
+      "publishedDateTime": "2021-04-23T09:00:20-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tOqWX9JWEYc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/dcSFOxBXxh4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -116,8 +79,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Security",
-        "Analytics"
+        "Storage"
       ]
     },
     {
@@ -1154,6 +1116,46 @@
       "topics": [
         "Azure",
         "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-serverless-geo-distributed-applications-with-azure-cosmos-db-azure-friday.md",
+      "title": "Serverless geo-distributed applications with Azure Cosmos DB | Azure Friday",
+      "excerpt": "Matias Quaranta joins Scott Hanselman to share some best practices for creating serverless geo-distributed applications with Azure Cosmos DB. With the native integration between Azure Cosmos DB and Azure Functions, you can create database triggers, input bindings, and output bindings directly from your",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-serverless-geo-distributed-applications-with-azure-cosmos-db-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-serverless-geo-distributed-applications-with-azure-cosmos-db-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=cfZUiVQIhTw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cfZUiVQIhTw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M54S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-06-11T12:22:55-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cfZUiVQIhTw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless",
+        "Databases"
       ]
     }
   ],
