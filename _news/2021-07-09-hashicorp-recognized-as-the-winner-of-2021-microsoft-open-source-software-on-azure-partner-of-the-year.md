@@ -19,14 +19,19 @@ topics:
 
 related:
   - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
-    excerpt: "Insight’s deep expertise in Microsoft Azure accelerates application modernization and cloud adoption every step of the way Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all ..."
-    publishedDateTime: 2021-07-09T16:12:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210709005356/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments"
+    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
+    publishedDateTime: 2021-07-09T16:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 15
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
     excerpt: "Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason to upgrade VMs soon. New VMs featuring 3rd Generation Intel Xeon Scalable processors are currently in preview,"
     publishedDateTime: 2021-07-07T07:10:00Z
