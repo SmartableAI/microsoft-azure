@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
-excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
-publishedDateTime: 2021-07-09T16:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c"
-webUrl: "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c"
+excerpt: "Insight’s deep expertise in Microsoft Azure accelerates application modernization and cloud adoption every step of the way Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all ..."
+publishedDateTime: 2021-07-09T16:12:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210709005356/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments"
+webUrl: "https://www.morningstar.com/news/business-wire/20210709005356/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
   - Migration
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
@@ -49,6 +43,6 @@ related:
       domain: tmcnet.com
     quality: 1
 
-secured: "++uFE3T8udAZIGgwH5pXoupUZdmYpJ8Bir4L/xWjAdqNwmKZIEqRDxba/NVLgO3kI1SvLVMzHuk33iY3F179j2EGkd4h7A0oSC0Y681aGeqObXBguEnCk6Fe5QRR4CJbtHacHKNRIgYTiurQlJ/cmwfw1SdVV0OD6wVitivbKejOVBoA9q362RkTnZ7Ieq7TOetZSiWuz2LWA4wakJ8H/v7o5Yt8U76fZ9yg6zU43BZi+lqUQaWgoe3oUtVzspc9dn0t0CIM03+Wm6yWqEZhwxMXhQ5VZhIUyRnhDD6RdivcTCRoMaWBzb1tNzDaGJbOruMxKnde23R2TudSmRueMvyQkH0tgteRhHQwv8Q77k8=;D7yir5a8ULGYPZLXciz8EQ=="
+secured: "GxwVLZ181f1XZ3ZFvHFs32ZScl7cLez/iOwqXoJLSmWGSLLa+furmjuzupldYn6eCJ/RzfRvQpXG3NhjpemGz5/fOuQV68fUKwGe5ErEgdxSwTCDiwuCwHW8u/GWjkn/PQs1XUooRMIzH0LdBwR+e8/OdXti59NznxzDB0O1t/SPXR7O2i1tiH7MCcnloRdWUAeb5bJidtEUSNovr2pbO57kPWdA6mSLVAeUJFHjGRkjWZ/SnqrbY5yRZCkd14FrW5sPL+5P4bnrpGILNWwihO+W75vOQv2kSHfpuVx5nWWtey9Kyc6et38J20okAhTICO0S39RYvaNGpmY2ajR4yBdbAxL3ZAVvxpSCsT7BEmo=;w0wBWPHztFv0LsYdLPjrsA=="
 ---
 
