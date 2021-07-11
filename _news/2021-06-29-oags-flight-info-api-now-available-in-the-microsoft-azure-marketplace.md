@@ -1,21 +1,27 @@
 ---
 category: news
-title: "OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
-excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and ..."
-publishedDateTime: 2021-06-28T18:17:00Z
-originalUrl: "https://www.businesswireindia.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace-73729.html"
-webUrl: "https://www.businesswireindia.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace-73729.html"
+title: "OAG's Flight Info API Now Available in the Microsoft Azure Marketplace"
+excerpt: "MENAFN - Mid-East.Info Lo)ndon: OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store ..."
+publishedDateTime: 2021-06-28T20:18:00Z
+originalUrl: "https://menafn.com/1102356834/OAGs-Flight-Info-API-Now-Available-in-the-Microsoft-Azure-Marketplace&source=28"
+webUrl: "https://menafn.com/1102356834/OAGs-Flight-Info-API-Now-Available-in-the-Microsoft-Azure-Marketplace&source=28"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://menafn.com/updates/pr/2021-06/28/M_b3fd6image_story.jpg"
+    width: 600
+    height: 313
+    isCached: true
 
 related:
   - title: "HPE expands GreenLake offerings for Microsoft Azure"
@@ -254,6 +260,6 @@ related:
       domain: telecompaper.com
     quality: 23
 
-secured: "UVBVAOVTszQNi68nY34PO6Y4GnXeLzuRJf9rDmeqou2Hd8IHb1nZbCO7kh6tB6+9MUl8FWzStL0GqXHmJzq7waMAZeJz5gJqB6NxOmorWsUpvso3w0bwJDtGU9hbcJ3rxaThu7DSo5JZpaxoYlJLMwSv2hC8PLau3Cy+zKVkJkG7abzmXVSVm9HdqjgebCvy70oDMrBFvOJoXSVJmbK6z4i/IH2zVxE1suKPxAz0F29EgCitVJT7PyklYrRKaR+NURkYfEHWNrO/KcX5aB53aIE5OCJNSFpPUOT7gwtIVFuYk7DjcFHRwj10xRfLjwbFT8zfLF9Qc5OaWYsc0aDlrLxXBgnBTVnCvus2EgHvs28=;sPQJChdQCjJgUP4hZzEttQ=="
+secured: "E5hMBJerVr0fgyu/bjWaN0n6+XQ8j3MnStSdQfJlOxFOoxpxAvYzQLzh7OTa9SqrEUpt9GeiR9EstJ35+HwaJyLWQwXjwLRJivE1fO9Hb5phT+yoBOvQabnwRdQbRfuTT+klTgR4RVbB+BMwyO8Uk/sV+anIqmylSUffyrPg2Gr760kRiN92YhoL7vNKR2giqWIZDuR+O52FltUsa5e4NvCwadxKnreMKGwGGFX8yW8ApNsIqZwMBnAdUmeRVFET2S49122q6zuDSFUiojbtqIqkM7EuB9TE9lidQGsL4xE9PdResfDRTWhScm83fBEvli8dcgXXP2oMPi8im+ur5u4KynNhHmh0wmYSrFte2C8=;g4A4GriFzdh4JmecqT4b6g=="
 ---
 

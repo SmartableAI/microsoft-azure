@@ -170,6 +170,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "OAG's Flight Info API Now Available in the Microsoft Azure Marketplace"
+    excerpt: "MENAFN - Mid-East.Info Lo)ndon: OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-06-28T20:18:00Z
+    webUrl: "https://menafn.com/1102356834/OAGs-Flight-Info-API-Now-Available-in-the-Microsoft-Azure-Marketplace&source=28"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2021-06/28/M_b3fd6image_story.jpg"
+        width: 600
+        height: 313
+        isCached: true
   - title: "Microsoft Cloud Regions Mark Two-year Milestone Of Empowering Ambitious Middle East Organizations"
     excerpt: "Microsoft today marked the two-year milestone of the launch and general availability of its UAE-based cloud data center regions, as the first global Hyp"
     publishedDateTime: 2021-06-20T10:16:00Z
@@ -245,15 +259,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 23
-  - title: "OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
-    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and ..."
-    publishedDateTime: 2021-06-28T18:17:00Z
-    webUrl: "https://www.businesswireindia.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace-73729.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 17
 
 secured: "KdolaWfFTHLRCqorVBT2U1wZMSudC+x6YQtiDN/xzM+fwAShhRiZc1Hx2zaMBrkwxQ/eLqnUTi0CDXdd2FKRlt1ivvYwOmmHRAkYvOV13OfCvM89V1jKxPg0IG6a/tZsj6j9LvqmBwDWrBZXfIQUmCgxt8Cz5862rlmYi/x8uPO6aFjKWknLYbhiv40RyaOR4g7kCsq+Fl4nhDmDS3b4Cobr2SRmKqYVpyCwPvcQtjW+Kxe1+RUlUkYTmMyK8mmPTdgVfL+LKblaJPu+M3vB5/ev7cbSjQ2ITuJjKhtUwxM5r6jl+6fl52HMl5FdNUvJKW6OquDrvhwR84KnWIWbFbj7I4KYJmxHtdkcRGJaK6zDSh4pEfBhhNVRlAdWTLhOXIlE8Kbfrlmlj46c7t4vwbvUXD2ZsZ6wukxZtJde4JnhMy9tRKCZ5I4MiaKu7OAxjW5O0zxpsd4PbDxf2T6nRCZy2kubTMxvozwUjTRm5saY8sOmlMBhJhsHAojrSmKKgviIu4M7sFY7BMkareyibg==;uuRbuy9/vLhcDSfYqdGtAQ=="
 ---
