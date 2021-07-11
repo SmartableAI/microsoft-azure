@@ -4,6 +4,42 @@
   "page": 15,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-manage-vms-with-azure-cli.md",
+      "title": "Manage virtual machines with the Azure CLI",
+      "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-vms-with-azure-cli/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
+      "length": "PT51M",
+      "ratings": {
+        "count": 7511,
+        "average": 4.7209425
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-merge-conflict-resolution-github.md",
       "title": "Settle competing commits by using merge conflict resolution on GitHub",
       "excerpt": "Learn to settle overlapping commits across branches by using merge conflict resolution.",
@@ -391,8 +427,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 753,
-        "average": 4.7808766
+        "count": 754,
+        "average": 4.781167
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -426,8 +462,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
       "length": "PT29M",
       "ratings": {
-        "count": 1488,
-        "average": 4.733871
+        "count": 1490,
+        "average": 4.734228
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -680,8 +716,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-get-started/",
       "length": "PT41M",
       "ratings": {
-        "count": 800,
-        "average": 4.85125
+        "count": 801,
+        "average": 4.8514357
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -800,8 +836,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 3766,
-        "average": 4.70154
+        "count": 3767,
+        "average": 4.701619
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1207,44 +1243,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-certifications-for-developers-azure-tips-and-tricks.md",
-      "title": "Azure Certifications for developers | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn about the Azure Certifications for developers.    For more tips and tricks, visit: https://aka.ms/azuretipsandtricks     Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://azure.com/free",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-certifications-for-developers-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-certifications-for-developers-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=aTBFvrLKu3U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aTBFvrLKu3U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M3S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-05T08:04:12-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aTBFvrLKu3U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

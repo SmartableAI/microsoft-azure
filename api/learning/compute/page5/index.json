@@ -173,15 +173,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-customize-windows-server-iaas-vm-images.md",
-      "title": "Customize Windows Server IaaS Virtual Machine images",
-      "excerpt": "You'll be able to create new VMs from generalized images and use Azure Image Builder templates to create and manage images in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-customize-windows-server-iaas-vm-images/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/customize-windows-server-iaas-virtual-machine-images/",
-      "length": "PT50M",
+      "path": "_learning/courses/microsoft-learn-deploy-backend-apis.md",
+      "title": "Deploy serverless APIs with Azure Functions, Logic Apps, and Azure SQL Database",
+      "excerpt": "In the language of your choice (Node.js, Python, or .NET), learn how to deploy an Azure Function that adds real-time data to an Azure SQL Database and triggers an Azure Logic App for notifications, all with GitHub Actions for CI/CD.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-backend-apis/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-backend-apis/",
+      "length": "PT43M",
       "ratings": {
-        "count": 30,
-        "average": 4.766667
+        "count": 17,
+        "average": 4.5882354
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -199,21 +199,17 @@
         "Intermediate"
       ],
       "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/customize-windows-server-iaas-vm-images-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools",
-        "Compute"
+        "Databases",
+        "Compute",
+        "Serverless",
+        "IoT",
+        "Blockchain",
+        "Integration"
       ]
     },
     {
@@ -585,8 +581,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
       "length": "PT20M",
       "ratings": {
-        "count": 2620,
-        "average": 4.7148857
+        "count": 2621,
+        "average": 4.7149944
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -4,6 +4,40 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-manage-delivery-plans.md",
+      "title": "Manage Agile software delivery plans across teams",
+      "excerpt": "Learn to optimize delivery efficiency by improving work plan visibility across teams.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-delivery-plans/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 3351,
+        "average": 4.7385855
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-neural-networks.md",
       "title": "Make predictions from complex data with neural networks",
       "excerpt": "Use neural network models to make predictions. Change neural network structures to refine predictions using TensorFlow and Keras.",
@@ -96,8 +130,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 2824,
-        "average": 4.7411475
+        "count": 2825,
+        "average": 4.741239
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -350,8 +384,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/",
           "length": "PT27M",
           "ratings": {
-            "count": 225,
-            "average": 4.8755555
+            "count": 226,
+            "average": 4.8761063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -649,8 +683,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/",
           "length": "PT27M",
           "ratings": {
-            "count": 225,
-            "average": 4.8755555
+            "count": 226,
+            "average": 4.8761063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -797,8 +831,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-custom-domain-name-azure-active-directory/",
       "length": "PT18M",
       "ratings": {
-        "count": 2044,
-        "average": 4.7597847
+        "count": 2045,
+        "average": 4.759902
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1351,8 +1385,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/",
       "length": "PT27M",
       "ratings": {
-        "count": 225,
-        "average": 4.8755555
+        "count": 226,
+        "average": 4.8761063
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1556,43 +1590,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
-      "title": "Execute an Azure Function with triggers",
-      "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
-      "length": "PT1H23M",
-      "ratings": {
-        "count": 5190,
-        "average": 4.7308283
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
       ]
     }
   ],

@@ -4,6 +4,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-manage-delivery-plans.md",
+      "title": "Manage Agile software delivery plans across teams",
+      "excerpt": "Learn to optimize delivery efficiency by improving work plan visibility across teams.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-delivery-plans/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 3351,
+        "average": 4.7385855
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs.md",
       "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
       "excerpt": "Use Azure Monitor logs to extract valuable information about your infrastructure from log data.",
@@ -552,8 +586,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-build-dependencies/",
       "length": "PT59M",
       "ratings": {
-        "count": 2023,
-        "average": 4.6861095
+        "count": 2024,
+        "average": 4.686265
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -988,8 +1022,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-foundation-modern-apps/",
           "length": "PT49M",
           "ratings": {
-            "count": 18,
-            "average": 4.888889
+            "count": 19,
+            "average": 4.894737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1045,7 +1079,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1341,51 +1375,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-authenticate-azure-deployment-pipeline-service-principals.md",
-      "title": "Authenticate your Azure deployment pipeline by using service principals",
-      "excerpt": "Learn how to create, manage, and grant permissions to service principals, which enable your deployment pipelines to securely authenticate to Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-authenticate-azure-deployment-pipeline-service-principals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-azure-deployment-pipeline-service-principals/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 5,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "DevOps",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-automate-deployments-github-actions-azure.md",
       "title": "Architect full-stack applications and automate deployments with GitHub",
       "excerpt": "In the language of your choice (Node.js, Python, or .NET), deploy an end-to-end solution to solve the real-world scenario of catching the bus. You'll learn how to architect a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
@@ -1612,8 +1601,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-foundation-modern-apps/",
       "length": "PT49M",
       "ratings": {
-        "count": 18,
-        "average": 4.888889
+        "count": 19,
+        "average": 4.894737
       },
       "provider": {
         "name": "Microsoft Learn",
