@@ -1252,15 +1252,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-integrate-azure-services-with-azure-stack-hci.md",
-      "title": "Integrate Azure services with Azure Stack HCI",
-      "excerpt": "Integrate Azure services with Azure Stack HCI",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-azure-services-with-azure-stack-hci/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-azure-services-with-azure-stack-hci/",
-      "length": "PT41M",
+      "path": "_learning/courses/microsoft-learn-integrate-machine-learning-within-azure-synapse-analytics.md",
+      "title": "Integrate machine learning within Azure Synapse Analytics",
+      "excerpt": "Integrate machine learning within Azure Synapse Analytics",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-machine-learning-within-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-machine-learning-azure-synapse-analytics/",
+      "length": "PT53M",
       "ratings": {
-        "count": 5,
-        "average": 5.0
+        "count": 9,
+        "average": 4.888889
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1280,9 +1280,9 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/azure-synapse-analytics-integrate-machine-learning-social.png",
+          "width": 1280,
+          "height": 641,
           "isCached": true
         }
       ],
@@ -1290,7 +1290,9 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Analytics",
+        "AI"
       ]
     }
   ],
