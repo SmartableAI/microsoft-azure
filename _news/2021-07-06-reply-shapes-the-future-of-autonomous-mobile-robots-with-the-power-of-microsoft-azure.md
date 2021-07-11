@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
-publishedDateTime: 2021-07-06T11:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
+excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new business applications across industries ..."
+publishedDateTime: 2021-07-06T07:38:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -451,17 +451,17 @@ related:
     quality: 15
   - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
     excerpt: "This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core, the software at the ..."
-    publishedDateTime: 2021-06-30T16:28:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
+    publishedDateTime: 2021-06-30T15:05:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 12
     images:
-      - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
         isCached: true
   - title: "Microsoft news recap: Minecraft Earth shuts down, AT&T moving 5G network to Microsoft cloud, and more"
     excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
@@ -478,6 +478,6 @@ related:
         height: 768
         isCached: true
 
-secured: "uQ0OUGx2elTka/xVHyY4BNfpYoFZ8c/uP+MUhPwEbwFNBDTVlROFNF5xr5pMCaPuw5Xm3ah51y6Ne0hGjMzDypr9zJvrgdeb+3d2UKghB3H6eUG8imVeQV4qA9s5LW0bLyrdfm1vpvJzMrQbTBI9zKlc23nhcT9x5M5jXRXW915UtSqt50PvPB0uLbinsXKNGOpV/ZNsjPGclKhbJhpvuUPTfFJ0Nsc3jrxfxeyINqjiLhzaibAVNK1u4CeGLuXQ5oPwv+Piixnmj09+r1+UvohUV8PxdMnVBORdBzlS/ma9EmqoQOK6lZuM6U7JcRz/Db07+5R8KpeAazMVXr7kCmjtB6+E7VbwExA8sUqqweSGNpwOeX0MlkuZOycAsGxPZLHacS8lI52jMncha/zco3NZlPOwnrSiHT+GfKHZ1avVBIxdIRpa7B5UQLLid9Hot7WrYPG5YXF8Z8dmZQpZBgme+W1vh3p0e0qUcMbrNevwr/AJVJ1nxwie0ftd6bLFAj/0BnJD+2dhs2tylqDEJA==;YxXgvHVdGdOID1KMvw6Z6A=="
+secured: "uNxq68EUD4kjXP/MPu1HVARWttK8ZwgYZjSjxSCDvsFtAVlgsZEAyRHtF6vonf1Nc5Ciintv4vi3/4OgerQf7jDo8rhn6L4ipBafdhaOyxGBD4jit5NrsN4y/7H0Uh4RTHPD5U8qQbXX139RxptNlw4aiDsf8g175keJd8Y2lO6SLw3asSgQfpIhlBZW9UJsM0p/5ihj5NeTOar/+7JmCygc1Uue0QDpa0JaY90+7JDnkDaW82FX/S9QEwNbJyLwBqk0wOd+yjo/p4R+7IHaSXgY69V67Los6ewsp7JuVyFy4zi1nekudV+f4t4NBzkPSMRyybizna3tMyd4O2+WwmlPE6w9JQcrrdtK7W3HAPY=;UphbA71HxBSRuqSXy7eJcQ=="
 ---
 
