@@ -3,8 +3,8 @@ category: news
 title: "HashiCorp Recognized as the Winner of 2021 Microsoft Open Source Software on Azure Partner of the Year"
 excerpt: "HashiCorp®, the leader in multi-cloud infrastructure automation software, today announced it has won the 2021 Microsoft Open Source Software (OSS) on Azure Partner of the Year award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
 publishedDateTime: 2021-07-08T19:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-hashicorp-recognized-as-winner-2021-microsoft-open-source-/2021/07/08/9405686.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-hashicorp-recognized-as-winner-2021-microsoft-open-source-/2021/07/08/9405686.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/08/9405686.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/08/9405686.htm"
 type: article
 quality: 1
 heat: -1
@@ -47,6 +47,6 @@ related:
         height: 647
         isCached: true
 
-secured: "qYmHI66n2iXi7ccx0HOYVCE+SZCJolZgbDcd9+onwYRo54OSv8zmDDbYAEYWfbG3884morXI58TlOAXySJkwPoc+3NBkztFTI/AFwUtPCaHbJbNUl779iSmPRPTUjZ3CERiocKK0wm3miG5H3akSbgo8xC1UCtadPxK7ugljhG1fvyrgRLtyQWpbAtXfTsdSD5nuQ1Uls7DSEQQDMGVGMdZZw2qa5BqM+TN6G7ud/pKDSyoM3JAXAte3nu+/BDjXqlnAfOxFoOZI6Njplb+IWeoURZmLH6F3LVMLCZHJC77pa9uHT5GKHQfDRWBI/GqVGKCip00sZ4k3gmEznad9+EYjKCkTa3TVT7RSzCDhZxw=;AwpEDhgTKMsD1/merRZcDQ=="
+secured: "zm/Cf3ElDoEUJhPVTTROuaCTKRgJbHOF+BlTKZ+RlzpnUD8rYVR6gO8pnYvDorcjkM30r3y3MD1kkytmscbxWaRov+NEv5EluMvKqvIcldy56Fp6qAsKIL5yIzmK3GSaTw8tx7JevFrnMSSyhHGn44jquykMxEpvcckkO9yLpPrlXLmssRrSZAQy6Kj4olqs6ruAz877EMeFcBwgHjMboekyUlNY4mcJaR7gXQbbW7F+TufHi7nOGhEyzJWb/sU6G5DKoY+NLytLAblFrYKM02XZ7Eu5tQW78bm7LLwUWSaES8T0M8ypQvBPXu8+4KW9XdSQOPAaao94kyuwk6XwJRopl/WqhNgmx/HYO4WrvvM=;1tg4VamJDQ1EWLKPSOLbxQ=="
 ---
 
