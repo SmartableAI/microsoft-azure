@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT49M
 ratings:
-  count: 17
-  average: 4.8235292
+  count: 18
+  average: 4.8333335
 heat: 50
 
 provider:
@@ -26,6 +26,6 @@ topics:
   - DevOps
   - Management Tools
 
-secured: "r2jJALclEj1+/k5FODlKmP4GChktNov9ovk/LviKhtbu+Tp9mVlAnu14vkgFRFM9fWypMd68Oj7m2dy640k2cBUGcttOQxL0BprAXTAIDKtGLw0iHZbqFaTBKSz6WmhjXBt4U7FWJep4CaOv00VtQNzkDAvIh3OfmqBI9LmwApqZEHq67lmOWiSa1nxuF2DJPJpmU382GWjZlkJeK7b1rMSdC06PbTc6OFck4jYKCcfRqEinrgt8diXXga7FYsH7Hhi9OMIhvE2lmY8XWLdDdJ/VP6unuedube/j/Ddo3GnzM2Jdq1uvNbFqezHSYIbyF2iuXIoy3GFFVRuWQmK6GWcaBedQd4QErddiz5sU7Hp78JAsSEPGEY/8YZAD5yb7SQmg0EkbPtapTlHUyWKgfHr7FFVw00L1+BBqbD3ytDk=;3yqxIigMe5rcXLVfxK2WdA=="
+secured: "wwwmSG0URnHe11nvwQyd8JXc09K8QPqvGFtYizNHu5Bye1Y1VJz8jw/T7qSaD23reJTd0tkwDPoIc2ebC1L0PUcsaoOqMKRqplY9VH8yRlmoTDcjfR/F97zfrFMAbM8uoAI5UsZOtMnKkJKUK5ot5pq9iLfwqCeBAN3V2VF4Ucbhfy8ln+qM4HeeXgmIeQ0h1Xbr3bOnsX5cZFwOUuRDbp+Xe7cpUfzNLlqkxEp2Ymxr4Ja/YiOVQtzhX3G4fRLYIm2ZkhPFhC0NTHYJzRFtRoP62zqEzELcNxSOynp1SWMxqMfe006wxCNoaFaRpS4W7G/d4DFUQvkUk/4/cdmpiTS5f2Qp+hUu4SmODa34ceda4iYpjh4ncrHjf62hfhV3QbxtZiUm9OrVMUSlqrA/ciTt9wo9FKAzJ2QvBkt5iFY=;9Lbjd1MnIrffw9aelqPTZA=="
 ---
 
