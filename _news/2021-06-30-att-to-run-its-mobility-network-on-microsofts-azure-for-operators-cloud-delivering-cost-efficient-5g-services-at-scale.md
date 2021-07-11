@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
-publishedDateTime: 2021-06-30T14:35:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
+excerpt: "This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core, the software at the ..."
+publishedDateTime: 2021-06-30T16:28:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
+webUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
-    width: 944
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg?p=facebook"
+    width: 2700
+    height: 1414
     isCached: true
 
 related:
@@ -366,13 +366,13 @@ related:
         height: 576
         isCached: true
   - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
-    publishedDateTime: 2021-07-06T11:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
+    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new business applications across industries ..."
+    publishedDateTime: 2021-07-06T07:38:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
     quality: 27
   - title: "Cyber Recovery Solutions Market Next Big Thing | Major Giants Wasabi, AWS, Microsoft Azure, DELL, IBM"
     excerpt: "Latest published market study on Cyber Recovery Solutions Market provides an overview of the current market dynamics in the Cyber Recovery Solutions space as well as what our survey respondents all outsourcing decision makers predict the market will look like"
@@ -478,6 +478,6 @@ related:
         height: 768
         isCached: true
 
-secured: "Qf90Tbg+LkuEiZTDVM2rrjPNWaH5q3C98ystTPJ/qu05yq2KT3jmhfFkI87QEK+cEC0cj0Nap4lx6l4qmFCrp2cPzxXtpBzfbLFTVvoacF9qRpKm7zswgFTHlhdSEIJYVD5ZaxWuu9taMVrBxzjfdjkIWMKYuyD9PcoE3lDZWq9VwzN8ouBXXlaW8bQ/zCMYGxlCBvhtdr2wMmPfQKMypYPcyTQwBw7i9ioL48cqy+H7lplUt2Mku+iFo/8X5xMIU3xROCl9fKhAFHp4zewZvjA53wGWrwhRUJBSJ75dHzd3uSTyMs9WU8De2wwsrcEOeC3hpL3+mZMJeoG+leYP7F8oGKDT4j6u4sh4obBWpC+mIJPKFAmjmtBHehPix8+1XbnfhBQtzD3KNrwxmOC4SgTYpglN83ZJ2EBCBdL6/aAOd5l9z496H+d4qBqvb5PBb8nlOSqxSWX5atAKb90/7voaPYoiXhn9F+JhQsZJ1QioBHEaQY3WFUB+ttdujhuZKadBgSbRibppCvs8X+5jtw==;c/feo2eEbqO4p9mm7b3LgQ=="
+secured: "mhMxVy847b1UYBBNtuzl7bsqCg5nhwGV7jO6qPPIjaKSqMAU/+80w7Qnv+NFpXMN14Zi2lhhGLzWlohD0A4oS41jdVGs7m5MDZTq4JbHFblCA3/swXrgX5kmXUOBqvMqFRD/pyQUeVTTTL/A4TWhiBn7uOuN7btjWfNIpvB9OuFL9yQo1/0yHtP8m6BbdGU+zZ4tx1HB3qVXFIz6s1xknbstV1Jd9tQgsLuHO7ni6XiLu0+fk5cxNzePR7ReJ5fz3oKB+1DxYiw50mB0qnPcPnjfnE2KCmeGHW7UQbnSYqjb3eZev2kLfxCnuaPqt9PQmR8o615LkMhsBJ4Vcax9BkyfgqWmHDBs1/JCE3pgtOA=;CsLBHbB6FeOQRY+RvPm0eg=="
 ---
 
