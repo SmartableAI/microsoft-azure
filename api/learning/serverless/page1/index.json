@@ -113,8 +113,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 79716,
-            "average": 4.793241
+            "count": 79767,
+            "average": 4.7932477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -155,8 +155,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 47890,
-            "average": 4.8190227
+            "count": 47916,
+            "average": 4.8190374
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -199,8 +199,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 27714,
-            "average": 4.7906833
+            "count": 27737,
+            "average": 4.790641
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -263,8 +263,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 47890,
-        "average": 4.8190227
+        "count": 47916,
+        "average": 4.8190374
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,16 +300,18 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-create-custom-handlers-for-azure-functions-azure-tips-and-tricks.md",
-      "title": "How to create custom handlers for Azure Functions | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to create custom handlers for Microsoft Azure Functions.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit.  Create your free account today with Microsoft Azure:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-custom-handlers-for-azure-functions-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-custom-handlers-for-azure-functions-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=roWbjuo-c30",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/roWbjuo-c30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M29S",
+      "path": "_learning/courses/microsoft-learn-deploy-backend-apis.md",
+      "title": "Deploy serverless APIs with Azure Functions, Logic Apps, and Azure SQL Database",
+      "excerpt": "In the language of your choice (Node.js, Python, or .NET), learn how to deploy an Azure Function that adds real-time data to an Azure SQL Database and triggers an Azure Logic App for notifications, all with GitHub Actions for CI/CD.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-backend-apis/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-backend-apis/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 17,
+        "average": 4.5882354
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -320,22 +322,21 @@
           }
         ]
       },
-      "publishedDateTime": "2021-06-08T08:00:02-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/roWbjuo-c30/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
+      "levels": [
+        "Intermediate"
       ],
+      "heat": 130,
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Serverless"
+        "Databases",
+        "Compute",
+        "Serverless",
+        "IoT",
+        "Blockchain",
+        "Integration"
       ]
     },
     {
@@ -369,8 +370,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 11042,
-            "average": 4.788897
+            "count": 11044,
+            "average": 4.788935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -412,8 +413,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 12139,
-            "average": 4.7819424
+            "count": 12143,
+            "average": 4.7817674
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -455,8 +456,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 8281,
-            "average": 4.7828765
+            "count": 8284,
+            "average": 4.782955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -502,8 +503,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 9147,
-            "average": 4.72931
+            "count": 9149,
+            "average": 4.72926
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -612,8 +613,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 8281,
-        "average": 4.7828765
+        "count": 8284,
+        "average": 4.782955
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -683,8 +684,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 910,
-            "average": 4.689011
+            "count": 911,
+            "average": 4.688255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -725,8 +726,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9566,
-            "average": 4.6671543
+            "count": 9568,
+            "average": 4.667224
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -883,8 +884,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9566,
-            "average": 4.6671543
+            "count": 9568,
+            "average": 4.667224
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -920,8 +921,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1955,
-            "average": 4.501279
+            "count": 1956,
+            "average": 4.5015335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1085,8 +1086,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2924,
-            "average": 4.7123804
+            "count": 2925,
+            "average": 4.7121367
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1128,8 +1129,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43455,
-            "average": 4.719434
+            "count": 43456,
+            "average": 4.7194405
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1962,8 +1963,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "PT36M",
       "ratings": {
-        "count": 9566,
-        "average": 4.6671543
+        "count": 9568,
+        "average": 4.667224
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2036,8 +2037,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 2169,
-        "average": 4.6394653
+        "count": 2170,
+        "average": 4.6391706
       },
       "provider": {
         "name": "Microsoft Learn",
