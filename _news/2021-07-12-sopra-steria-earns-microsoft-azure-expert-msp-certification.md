@@ -19,13 +19,13 @@ topics:
 
 related:
   - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
-    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
-    publishedDateTime: 2021-07-09T16:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c"
+    excerpt: "Insight’s deep expertise in Microsoft Azure accelerates application modernization and cloud adoption every step of the way Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all ..."
+    publishedDateTime: 2021-07-09T16:12:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210709005356/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
     quality: 15
 
 secured: "H7Pi+amnEVbg+zslYLkbpQ5+dRH7hSM6Egv+KRikC8AtmRVr8BBDI8kDO65W543Nl65JMNXMkAJJZTiEiccd7xHrPOmuocPa1D9loBZOt4GckmGHTxg/5ha/ASygxpSNmczpPLa0EDIK8fEABBN+QxnODjsECLya7/ezoEh4ANmKvSPP2448S10JzY71MH6DnIO1/3rPDTqREzpw3uKEKk4B1XaQx+toPvfU7O5P4aNCWOOHLcxla/z1/kNRfoKCQWAjnRZ9v31otk2Tj5P16nNaeSsgb4lVXQRDQu0I7ZlF3crce/MO+7wh/7ILCWzrA4JBXY/ih5dNB16tGCOHotei5D0RYjcgrkAp3r5CP5o=;iwrFLdKBN5jQNMeoVsWwNg=="

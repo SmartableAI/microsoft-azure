@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
-excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
-publishedDateTime: 2021-07-09T16:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c"
-webUrl: "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c"
+excerpt: "Insight’s deep expertise in Microsoft Azure accelerates application modernization and cloud adoption every step of the way Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all ..."
+publishedDateTime: 2021-07-09T16:12:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210709005356/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments"
+webUrl: "https://www.morningstar.com/news/business-wire/20210709005356/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -29,6 +29,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "qWzcsxqrg6ULguitbQ6r3758GnBWYeljuk0BsskyAMHidnNNo5S3LgshhpahWznXLLFstnYy3REs3txIElk/9T705dxS9tjP2ccIE36NOD77IjD9dw1XT6rRNiQeJNMqDDkbXxNTa5s+mPYEgjJDCqV8HVrTM0u5AW2HaL7yg4PC5ug/3meTgBdeLt7dffQrEXrwSUOSLEUIVzIUB9ZQ/d+q9NA8r3DLdqC86m/nzBmxrqOh9fAKmhX7qZoh7qAcleteHK2M1jYdmQfPrhdoAwy/svGNJ+T3AtqBLIVCmRhd95G87mixTr2pG/mxN894qmWg+VSAvmhSIduPw9myfI/a3fU3o7qVRGNhaTZWgwo=;zA2Xbae3MXG13fDQ7aAq9g=="
+secured: "ZIXMNfeLTXzE9B82pr4sHxlYlIvWza8aq99gQsRE4MnhX7or93feXi7S+8zfKDcAEzwVSBY4VWSi2d5p9UxDcQH2fjBBlma/Kdm4sTVpPzS+g/jxstNYko21STMcXU/fVeYr2SZ4bSZva4Y13q+JXOAV7Gi6LLX7u+DTRSf0B9T+vt2ogysmfiaicSJoB7jz7ssQISE3Q94+Efh9lmycyIvX9RooholNBuQI4yGe3KByERvrTrQnQp14BCBqV1+DCb7waBLzs9ybbki3SFEIxx6bT8lyVoLVyHDPgo0CE2BPdEfjINAKmOcGP7BZqKjorRm2AR7dA85vopsTeybjW+ivOOt5GL4NPsUR8TjRsf4=;CvyOGGRpXuOggnYf99qvZA=="
 ---
 

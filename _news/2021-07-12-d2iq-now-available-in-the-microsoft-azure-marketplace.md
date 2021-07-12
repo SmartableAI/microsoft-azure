@@ -1,26 +1,30 @@
 ---
 category: news
 title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-excerpt: "\"We're pleased to welcome the D2iQ Kubernetes Platform to the Microsoft Azure Marketplace, which gives our partners great exposure to cloud customers around the globe. Azure Marketplace offers world-class quality experiences from global trusted partners ..."
-publishedDateTime: 2021-07-12T13:52:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/d2iq-now-available-in-the-microsoft-azure-marketplace/article_dbde63bb-05bd-53c2-baf5-dd6278583d67.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/d2iq-now-available-in-the-microsoft-azure-marketplace/article_dbde63bb-05bd-53c2-baf5-dd6278583d67.html"
+excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
+publishedDateTime: 2021-07-12T13:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/d2iq-now-available-in-the-microsoft-azure-marketplace-1030597288"
+webUrl: "https://markets.businessinsider.com/news/stocks/d2iq-now-available-in-the-microsoft-azure-marketplace-1030597288"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/67/b678624d-0a50-5874-92e0-1da798ed82c0/60ec405beb668.image.jpg?resize=630%2C630"
-    width: 630
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -139,6 +143,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "vT8kfqK3qkt0/2CymM47KZLjVLExbTfhxAutBlvbdu9wgCzR2ZQfrArNlyTnOKbSvuzWXDf5EaCWlbdhgevmmWHdr6fETFg9f3/tYwlboBC8DLdesUSM3D3+uqywmtyf5Ksxgk7oULhR2eiugRdZ/8KbGlscGDer8pdwgMJcEtC8ReDNmZEn92DkKa5fS4YkRMxonBVr5ubkRur8e/73YNlIsjEluCrAyUE4XCgrLr/gLTCKFFpFzKQ4S13Z+znoIldqM7T2YDHViEyPwaPybcjr1x1wiGFrNJMUju19g0gSe+rdzpCwu5QdiUVMj6q0r3x4PrJGW3tZckH2jbXL6D8jK0d5ZSaEiZE5KJgbelo=;bQjggfYuAWsrlVSdWpOBoA=="
+secured: "bK4saCzlK95GkRcm7xX6vT+50rNA1OPpY/3dc3HkgUj+nMH3kbvhFNzKEirQjtlSsj7bAupTrBS1fDdT9G1pyS/6ejCMrl1ef/pvUqe6rqgFJ2XTkuZykj1D6mnoS2BP4VF9Thl0hwnwfkS0Aic5Wr1+GlKVgrxMJjK0qgDpwBmpEZq5lyUB0Xn/fdIPpJIVngD5qr7OcYNVSRebDv5kPtqYB6aM5WTDylw982194l7cFhL3EqC69FZdFRhQyzw+28JGkUA62FjgcAnt/CLLMN66cW+WhoBvIC6x/kAc+HbVys1fXpw+0YNKJuTYzKUqnhGpDiJJZnkPzeaMgrlYcdBDtOfa4UEo2IDLEqrw3ac=;hYVtjeUN7R4/Fi400hh1Bg=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-12-how-to-get-started-with-azure-purview.md",
+      "title": "How to get started with Azure Purview",
+      "excerpt": "Cloud platforms like Microsoft Azure make it trivial to generate vast amounts of data, with storage and databases as a service that can replicate data across regions, provisioned in minutes. There's support for large-scale data lakes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-to-get-started-with-azure-purview/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-get-started-with-azure-purview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/07/12/450ed9b8-b36f-4e01-a107-99bf3c6a7eda/resize/1200x/4788324ab1b02edfd2931e9f7fabaa6f/microsoft.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-get-started-with-azure-purview/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-get-started-with-azure-purview/",
+      "publishedDateTime": "2021-07-12T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-privileged-identity-management-with-azure-lighthouse-enables-zero-trust.md",
       "title": "Privileged Identity Management with Azure Lighthouse enables Zero Trust",
       "excerpt": "Recent incidents from ransomware to supply chain compromises have shown both the interconnectedness of our digital world and the critical need to secure these digital assets from attackers, criminals, and other hostile third parties. To achieve this, our customers need Zero Trust security and least privilege",
@@ -1156,49 +1207,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-azure-database-for-mariadb-azure-defender-in-general-availability.md",
-      "title": "Azure Database for MariaDB Azure Defender in general availability",
-      "excerpt": "Azure Defender detects anomalous activities indicating unusual and potentially harmful attempts to access or exploit your Azure Database for MariaDB. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-azure-defender-in-general-availability/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-azure-defender-in-general-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T09:00:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],

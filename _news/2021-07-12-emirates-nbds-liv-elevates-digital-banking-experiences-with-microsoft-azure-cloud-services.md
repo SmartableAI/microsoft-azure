@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Emirates NBD's Liv. elevates digital banking experiences with Microsoft Azure Cloud Services"
-excerpt: "“Microsoft Azure is rapidly picking up broader awareness from businesses, large and small, who are increasingly trusting the services to enhance their capabilities from the more than 60+ Azure regions, including the UAE cloud regions,” said Naim ..."
-publishedDateTime: 2021-07-12T10:46:00Z
-originalUrl: "https://www.zawya.com/mena/en/press-releases/story/Emirates_NBDs_Liv_elevates_digital_banking_experiences_with_Microsoft_Azure_Cloud_Services-ZAWYA20210712102447/"
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/Emirates_NBDs_Liv_elevates_digital_banking_experiences_with_Microsoft_Azure_Cloud_Services-ZAWYA20210712102447/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210712102447/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210712102447/"
+title: "Emirates NBD's Liv. Elevates Digital Banking Experiences with Microsoft Azure Cloud Services"
+excerpt: "The digital bank that acts as a 'financial buddy' to its millennial clients is now powered by Microsoft Azure Cloud Services. The bank's Today landing page has a variety of technical integrations ..."
+publishedDateTime: 2021-07-12T14:07:00Z
+originalUrl: "https://menafn.com/1102436303/Emirates-NBDs-Liv-Elevates-Digital-Banking-Experiences-with-Microsoft-Azure-Cloud-Services&source=246"
+webUrl: "https://menafn.com/1102436303/Emirates-NBDs-Liv-Elevates-Digital-Banking-Experiences-with-Microsoft-Azure-Cloud-Services&source=246"
 type: article
-quality: 46
-heat: 46
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.zawya.com/pr/images/2021/NaimYazbeckfinal_2021_07_12.jpg"
-    width: 450
-    height: 450
+  - url: "https://menafn.com/updates/pr/2021-07/12/M_2f39eimage_story.jpg"
+    width: 1000
+    height: 1000
     isCached: true
 
-secured: "Nhw4COazN8x6rGYme1RLbmJD2Md2D18LmIgVF+tqQWY4v/w/II0SdMHc4mUfCd/dZD2CWwpB1VFKPdbLe23uhBWHL4W4FPTOvxj9XJ1Y7rhATa8lwBO0BaFZ7Ld/EgHqnroAgUSMJrMCi0A/f9DeZg43Ns/ctzDTkfrXuWxGUESfPDRjZA+TdbuQpMAulHE0S///j30W1eWrAztDqpHXlF8lTuYr9bM+0RSQF5eKWqUR+0lSg0PWZ/JKcMLKkGP3QSzX0tXV2zEgr/x60ZKZfNM6mn9+8wnaSxEpK6NhsDI2NH57JZFJiVvp4ZTyLRfNJGrzvJovSnITkw4xQ6RhKwCdWNUJeBXMNpoD9q7X3CI=;nrG+0StzB+aPob0m6avJjw=="
+secured: "5kKum48rnmowG6JGFieCXzDHlqIwrItrPjmlXlWZZWcGbYgyHI5JLdHqJFSw8ogASRF3jiYPgSw+cmD4Rdq5oDvsi56Svr/9sBaxCET4CbLtWFEOQ+fyNTTPPqQO36lEZBZqnW0qh+LmgZjojtuO75czFarfFlCyXbgKAVuSz14Fnf2tiSjf+2N1BxbL35+/O6t7lzKPUrthlNLLEbWtxDPshOskIgaliHehEgYe68Vpd1+xOA0g2P7vaKV9SkMRx/aiFlhuZtWXImekv9KN4pZKQz3T6NNeiRwfrucuA/2um0TkitlvRDtszrqQVtwFrqzH8zdom/Uqfu0JmL7OpGl55MrbtnVxNRlLTJFmE5w=;/B4b+/rSk9PDiLLjnfWBtg=="
 ---
 
