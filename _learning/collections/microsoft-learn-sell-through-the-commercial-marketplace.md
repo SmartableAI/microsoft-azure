@@ -4,7 +4,7 @@ excerpt: "The Microsoft commercial marketplace is a catalog of cloud application
 type: collection
 price: Free
 length: PT2H6M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn
