@@ -4,7 +4,7 @@ excerpt: "Migrate SQL workloads to Azure Learn"
 type: collection
 price: Free
 length: PT4H1M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn

@@ -4,7 +4,7 @@ excerpt: "Learn about Azure VMware Solution, how to deploy the resource, and how
 type: collection
 price: Free
 length: PT2H10M
-heat: 50
+heat: 130
 
 provider:
   name: Microsoft Learn
