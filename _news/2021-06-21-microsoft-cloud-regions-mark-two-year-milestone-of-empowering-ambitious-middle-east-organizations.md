@@ -172,6 +172,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "OAG's Flight Info API Now Available in the Microsoft Azure Marketplace"
+    excerpt: "MENAFN - Mid-East.Info Lo)ndon: OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-06-28T20:18:00Z
+    webUrl: "https://menafn.com/1102356834/OAGs-Flight-Info-API-Now-Available-in-the-Microsoft-Azure-Marketplace&source=28"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2021-06/28/M_b3fd6image_story.jpg"
+        width: 600
+        height: 313
+        isCached: true
   - title: "Ergo joins global elite of Microsoft partners with Azure Expert MSP status"
     excerpt: "In association with Ergo Ergo has been recognised as Microsoft Azure Expert MSP (managed service provider) after a rigorous and independent audit that validates excellence in designing, building, operating and optimising cloud solutions."
     publishedDateTime: 2021-06-21T11:51:00Z
@@ -245,15 +259,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 23
-  - title: "OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
-    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and ..."
-    publishedDateTime: 2021-06-28T18:17:00Z
-    webUrl: "https://www.businesswireindia.com/oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace-73729.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 17
 
 secured: "PnNILkDolBj9Gq4FUWCp0RNuxM39RK+LFuhNi17RrkFrvKX929ehTfAgfGGRlY5S2tLz6Bi+x/2q+G/4ogSjJu60AzsMQhPP7dizcUw6/LcMCb4PgwN0t/zjXoio7ueLOd/QvgztsYGujkxzjMND7ODMsJ7p/HcB4UvwY7Qhyb8kTcxBxO3TU9Za1pdUwsK1iYmJvamAkGswpIWYJu0Uq48T/jgwOG11dhE+CVJrfUuGB1y3xZwEGngJxBqM8xq+ACRUXw3DdxfS4GE2ftV6fdrwfUu8p/aBazHULz/Ke2dLgMskCVcQnkktv8tD/0K0kZSB8gyI1CgB87SlOsVX7DIWykQscd555ei3jr70ZJ+zhKtuotT0jTTBvwtg1Ij2hnToUDnIXHSjNzVmBMrUnI/GuEa8DwL4kOhTgK440wfrSBM9Fn+NdCHk7hhdURd0ClV4nP8HQsAcOS2U60vy/BLO6KMXrVNC8STq7U0yQtqhh6JwjYBxq6mugsKEtLOr8O1A2NHOHSyq10TEPSZp/w==;xr706oNbOOgU7NcgZHKqZQ=="
 ---

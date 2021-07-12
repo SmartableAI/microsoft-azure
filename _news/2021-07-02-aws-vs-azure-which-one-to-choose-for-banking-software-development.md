@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/finance/aws-vs-azure-which-one-to
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/aws-vs-azure-which-one-to-choose-for-banking-software-development-02416270/amp"
 type: article
 quality: 57
-heat: 98
+heat: 97
 published: true
 
 provider:

@@ -2052,6 +2052,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "CIBC inks Microsoft Azure deal"
+    excerpt: "The Canadian Imperial Bank of Commerce (CIBC) has agreed a multiyear deal to use Microsoft Azure as its primary cloud platform. The partners say that Microsoft Azure will help CIBC to support faster, real-time, data-driven decisions, to quickly launch and ..."
+    publishedDateTime: 2021-07-11T23:23:00Z
+    webUrl: "https://www.finextra.com/newsarticle/38434/cibc-inks-microsoft-azure-deal"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
     publishedDateTime: 2021-03-18T16:11:00Z

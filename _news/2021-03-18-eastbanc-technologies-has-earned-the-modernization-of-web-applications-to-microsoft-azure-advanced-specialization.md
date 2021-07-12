@@ -2061,6 +2061,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "CIBC inks Microsoft Azure deal"
+    excerpt: "The Canadian Imperial Bank of Commerce (CIBC) has agreed a multiyear deal to use Microsoft Azure as its primary cloud platform. The partners say that Microsoft Azure will help CIBC to support faster, real-time, data-driven decisions, to quickly launch and ..."
+    publishedDateTime: 2021-07-11T23:23:00Z
+    webUrl: "https://www.finextra.com/newsarticle/38434/cibc-inks-microsoft-azure-deal"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
   - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
     excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
     publishedDateTime: 2021-03-12T13:05:00Z
