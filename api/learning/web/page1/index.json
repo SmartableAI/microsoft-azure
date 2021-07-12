@@ -4,6 +4,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-your-first-app-with-azure-maps.md",
+      "title": "Create your first route finding app with Azure Maps",
+      "excerpt": "Learn about writing code to interact with Azure Maps. Develop and test a fun app using JavaScript and Visual Studio Code to find the best route for a truck, car, or bicycle. The route is from the west coast of the USA, to the east coast. You will see how routes change based on vehicle. And, for trucks, how routes vary if the contents are hazardous. You will get the chance to add in your own locations.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-your-first-app-with-azure-maps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-app-with-azure-maps/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 23,
+        "average": 4.7826085
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/create-your-first-app-with-azure-maps-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Mobile",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
       "title": "Explore Azure compute services",
       "excerpt": "Learn about the different services that are available in Azure Compute.",
@@ -11,8 +56,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 18699,
-        "average": 4.7654953
+        "count": 18711,
+        "average": 4.765539
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -79,8 +124,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 18699,
-            "average": 4.7654953
+            "count": 18711,
+            "average": 4.765539
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -124,8 +169,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 14834,
-            "average": 4.636443
+            "count": 14841,
+            "average": 4.63648
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 13062,
-            "average": 4.771245
+            "count": 13069,
+            "average": 4.7710614
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -210,8 +255,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 17919,
-            "average": 4.73157
+            "count": 17929,
+            "average": 4.731552
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -346,8 +391,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2923,
-            "average": 4.7122817
+            "count": 2924,
+            "average": 4.7123804
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -389,8 +434,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43454,
-            "average": 4.7194276
+            "count": 43455,
+            "average": 4.719434
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -691,8 +736,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 9306,
-            "average": 4.6728992
+            "count": 9307,
+            "average": 4.6729345
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -780,8 +825,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12719,
-            "average": 4.7678275
+            "count": 12722,
+            "average": 4.7678823
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1000,8 +1045,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 4806,
-            "average": 4.760092
+            "count": 4807,
+            "average": 4.7601414
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1424,8 +1469,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 7510,
-            "average": 4.723036
+            "count": 7511,
+            "average": 4.723073
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1752,8 +1797,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6784,
-            "average": 4.6426888
+            "count": 6786,
+            "average": 4.642647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1825,8 +1870,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 3314,
-            "average": 4.7142425
+            "count": 3316,
+            "average": 4.714415
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1868,8 +1913,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 6098,
-            "average": 4.748114
+            "count": 6099,
+            "average": 4.7478275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1911,8 +1956,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/",
           "length": "PT1H6M",
           "ratings": {
-            "count": 350,
-            "average": 4.6714287
+            "count": 351,
+            "average": 4.6723647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2085,8 +2130,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1796,
-            "average": 4.7461023
+            "count": 1798,
+            "average": 4.746385
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2306,8 +2351,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6784,
-            "average": 4.6426888
+            "count": 6786,
+            "average": 4.642647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2343,8 +2388,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
           "length": "PT48M",
           "ratings": {
-            "count": 3604,
-            "average": 4.685627
+            "count": 3605,
+            "average": 4.6857142
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3174,8 +3219,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6784,
-            "average": 4.6426888
+            "count": 6786,
+            "average": 4.642647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3360,8 +3405,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 5354,
-        "average": 4.6469927
+        "count": 5355,
+        "average": 4.6463118
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3619,8 +3664,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "PT58M",
       "ratings": {
-        "count": 6784,
-        "average": 4.6426888
+        "count": 6786,
+        "average": 4.642647
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3823,51 +3868,6 @@
       "topics": [
         "Azure",
         "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central.md",
-      "title": "Set up rules and take action on telemetry data in Azure IoT Central",
-      "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. We build the IoT Central app from a downloaded JSON file, defining all the device capabilities. Source code is also downloaded for the device app. The focus of this module is on creating rules and actions, to respond to certain telemetry input. Rules and actions enable greater automation of an IoT Central system.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-rules-take-actions-telemetry-data-azure-iot-central/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 232,
-        "average": 4.62931
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/set-up-rules-take-actions-telemetry-data-azure-iot-central-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Mobile",
         "Web"
       ]
     }
