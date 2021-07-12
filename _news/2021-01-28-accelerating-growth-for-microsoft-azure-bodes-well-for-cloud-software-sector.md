@@ -646,6 +646,22 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "CIBC chooses Microsoft Azure as its primary cloud platform"
+    excerpt: "The Canadian Imperial Bank of Commerce (CIBC) has formalized a multi-year relationship with Microsoft to designate Microsoft Azure as its primary cloud platform. The relationship speaks to accepting the secure hyperscale cloud for all workloads ..."
+    publishedDateTime: 2021-07-12T16:56:00Z
+    webUrl: "https://www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826"
+    ampWebUrl: "https://www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 57
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2021/07/GettyImages-1254895286-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
   - title: "Guide to Microsoft Azure Cloud Storage"
     excerpt: "Microsoft's Azure cloud storage provides a robust set of storage options, a menu of offerings that can be overwhelming to the uninitiated at first glance. Storage on Azure isn't a single service or even just a single type of account. Rather, what Microsoft ..."
     publishedDateTime: 2021-01-28T21:24:00Z

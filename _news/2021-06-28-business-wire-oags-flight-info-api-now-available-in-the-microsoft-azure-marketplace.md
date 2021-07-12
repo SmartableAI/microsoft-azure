@@ -48,6 +48,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft (MSFT) Azure Cloud Leveraged by Canada-Based CIBC"
+    excerpt: "Microsoft’s MSFT Azure cloud platform is being leveraged by Canadian Imperial Bank of Commerce (“CIBC”) to revamp its business operations, boost operational efficiency and enhance client experiences."
+    publishedDateTime: 2021-07-12T14:40:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-cloud-leveraged-by-canada-based-cibc-2021-07-12"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 57
   - title: "Microsoft Cloud PC details leaked before its 2021 release"
     excerpt: "Microsoft Cloud PC is yet to be released somewhere in Spring 2021, but a series of previously unknown details about it have recently surfaced."
     publishedDateTime: 2020-11-05T08:52:00Z

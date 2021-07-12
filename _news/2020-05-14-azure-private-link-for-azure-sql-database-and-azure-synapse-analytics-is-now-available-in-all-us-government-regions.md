@@ -102,6 +102,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 61
+  - title: "Accelerate big data analytics with the Spark 3.0 connector for SQL Server—now generally available"
+    excerpt: "We are now announcing the general availability of the Apache Spark 3.0 compatible Apache Spark Connector for SQL Server and Azure SQL, accessible through Maven."
+    publishedDateTime: 2021-07-12T10:00:02Z
+    webUrl: "https://azure.microsoft.com/blog/accelerate-big-data-analytics-with-the-spark-30-connector-for-sql-server-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
   - title: "Backup Center is now generally available"
     excerpt: "Backup Center enables centralized backup management allowing you to monitor, operate, govern, and optimize data protection at scale. \n"
     publishedDateTime: 2021-03-02T17:00:06Z

@@ -55,6 +55,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Blob storage - Container Soft Delete generally available"
+    excerpt: "Administrators can set a retention policy and recover data from a deletion of a blob container without contacting support"
+    publishedDateTime: 2021-07-12T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-container-soft-delete-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Append blob support in Azure Data Lake Storage is now generally available"
     excerpt: "Applications can now create append blobs in addition to block blobs in Azure Data Lake Storage accounts and append to them using Append Block operations. Applications that need to add information to existing files efficiently and continuously can leverage append blobs."
     publishedDateTime: 2021-05-06T17:00:00Z

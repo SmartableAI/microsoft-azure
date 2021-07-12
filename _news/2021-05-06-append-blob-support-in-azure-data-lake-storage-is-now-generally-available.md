@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Blob storage - Container Soft Delete generally available"
+    excerpt: "Administrators can set a retention policy and recover data from a deletion of a blob container without contacting support"
+    publishedDateTime: 2021-07-12T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-container-soft-delete-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Azure Blob versioning is now general available "
     excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
     publishedDateTime: 2020-08-31T20:00:37Z

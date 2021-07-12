@@ -56,6 +56,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft (MSFT) Azure Cloud Leveraged by Canada-Based CIBC"
+    excerpt: "Microsoft’s MSFT Azure cloud platform is being leveraged by Canadian Imperial Bank of Commerce (“CIBC”) to revamp its business operations, boost operational efficiency and enhance client experiences."
+    publishedDateTime: 2021-07-12T14:40:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-cloud-leveraged-by-canada-based-cibc-2021-07-12"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 57
   - title: "RIB Schneider Group announces new Microsoft Cloud Service Provider"
     excerpt: "The merger has resulted in a global team of technology experts, hundreds of Microsoft certifications and over 10 Gold competencies across various Microsoft technology streams"
     publishedDateTime: 2021-07-06T12:25:00Z

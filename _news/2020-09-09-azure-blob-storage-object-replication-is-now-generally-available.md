@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-objec
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
 type: article
 quality: 99
-heat: 659
+heat: 679
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
     excerpt: "Azure Blob storage point-in-time restore provides continuous data protection and restoration capabilities for block blob data. This extends protection features to provide an easy way to restore to a previous date/time"
     publishedDateTime: 2020-09-23T23:21:14Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-pointintime-restore-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Azure Blob storage - Container Soft Delete generally available"
+    excerpt: "Administrators can set a retention policy and recover data from a deletion of a blob container without contacting support"
+    publishedDateTime: 2021-07-12T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-container-soft-delete-generally-available/"
     type: article
     provider:
       name: Microsoft
