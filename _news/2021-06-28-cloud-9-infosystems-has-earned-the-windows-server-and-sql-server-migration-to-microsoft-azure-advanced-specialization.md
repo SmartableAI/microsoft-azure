@@ -69,6 +69,20 @@ related:
         width: 450
         height: 578
         isCached: true
+  - title: "CIBC formalizes Microsoft Azure as its primary cloud platform"
+    excerpt: "Canadian Imperial Bank of Commerce and Microsoft announced a strategic relationship formalizing Microsoft Azure as CIBC’s primary cloud platform"
+    publishedDateTime: 2021-07-12T06:22:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/cibc-formalizes-microsoft-azure-as-its-primary-cloud-platform/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 37
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/11/CIBC.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Microsoft cloud solution architect weighs in on cloud computing and more"
     excerpt: "Hybrid cloud solutions are hot right now, with many businesses recognizing the benefits of both on-premises and cloud architecture enterprises, especially in tandem. Approaching on-prem and cloud services,"
     publishedDateTime: 2021-07-08T22:27:00Z

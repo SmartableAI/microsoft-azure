@@ -1,21 +1,27 @@
 ---
 category: news
-title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
-excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure. OAG customers can now take ..."
-publishedDateTime: 2021-06-28T12:47:00Z
-originalUrl: "https://www.finanztreff.de/news/business-wire-oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/25165648"
-webUrl: "https://www.finanztreff.de/news/business-wire-oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/25165648"
+title: "CIBC formalizes Microsoft Azure as its primary cloud platform"
+excerpt: "Canadian Imperial Bank of Commerce and Microsoft announced a strategic relationship formalizing Microsoft Azure as CIBC’s primary cloud platform"
+publishedDateTime: 2021-07-12T06:22:00Z
+originalUrl: "https://ibsintelligence.com/ibsi-news/cibc-formalizes-microsoft-azure-as-its-primary-cloud-platform/"
+webUrl: "https://ibsintelligence.com/ibsi-news/cibc-formalizes-microsoft-azure-as-its-primary-cloud-platform/"
 type: article
-quality: 10
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Finanztreff
-  domain: finanztreff.de
+  name: IBS
+  domain: ibsintelligence.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/11/CIBC.jpg"
+    width: 300
+    height: 300
+    isCached: true
 
 related:
   - title: "Microsoft Cloud PC interface leaked, but nobody noticed"
@@ -66,20 +72,6 @@ related:
         width: 450
         height: 578
         isCached: true
-  - title: "CIBC formalizes Microsoft Azure as its primary cloud platform"
-    excerpt: "Canadian Imperial Bank of Commerce and Microsoft announced a strategic relationship formalizing Microsoft Azure as CIBC’s primary cloud platform"
-    publishedDateTime: 2021-07-12T06:22:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/cibc-formalizes-microsoft-azure-as-its-primary-cloud-platform/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 37
-    images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/11/CIBC.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Cloud 9 Infosystems Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Chicago IL 6 15 21 Cloud 9 Infosystems today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and expertise in migrating"
     publishedDateTime: 2021-06-28T13:42:00Z
@@ -114,6 +106,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 14
+  - title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
+    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure. OAG customers can now take ..."
+    publishedDateTime: 2021-06-28T12:47:00Z
+    webUrl: "https://www.finanztreff.de/news/business-wire-oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/25165648"
+    type: article
+    provider:
+      name: Finanztreff
+      domain: finanztreff.de
+    quality: 10
   - title: "RIB Schneider Group merges 5 units to form new Microsoft cloud service provider"
     excerpt: "RIB Schneider has announced the merger of five subsidiary organisations, namely ICS Support, Intech, Levtech Consulting, RIB Cloud and SaaSplaza. Effective 01 July, these organisations will form a new,"
     publishedDateTime: 2021-07-06T12:59:00Z
@@ -124,6 +125,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "J8CcfP7LVFxFngupeTe0Ge3+Ewk+GRlzQvSPpvfuEKrUWWRP2b/4Y6yPyf0VG+zUbE2pSB9dhXs+DmVcsiEBVrPWk9E3EiSkwu/8P5CiOcDmG3NNLL05bN3XAfg23vj0RojTsVudZdNHIfwnLlPw3KkBEjKQTpju3tRgPqmwwymlsPiEQMj0BgbOFOdQGz5oPRmdZhN+c66VZwYk/emA5kBtIO1RCIMVWSB0FWizUhZj5Wguw+QcpPqFxVCCDKobWQoeR3of2TSIWDUn3Q/aD1eUocAUvUE0tOZfu+ObQN+GjVwV3TY/e8mBbSFE2TXU3ZbUMkPwJCIEUNZy2hJEA+xboRxyDJb5br5fdfdsoz8=;sfpEoq22yDkbVpY9HHYawQ=="
+secured: "B/b80cxpOqzKWQ+mha7y3rNEp2JmwkRNlIOyhoDsX8f25bZE3w01gFDILk1mfzKbdOTKNLrXF1IiaQJOFyGlpAUc58UpDCD9q/cNBVnYpE+mwM2+4NTC1iQubhNGHxdylTKZxUWOn3XraLKg8Z0o9ldQqgeGDpCMkDIoAKEE3yb7hFDhvSkTVeJYt1nvLTa7WdSRbKQUn95uvc9DPtAo9S5Gb8/Uy07+eUtNM+/BhATNyQGIGKKmFiTfuaIIhEL+tkMO1YpMViYAT7tEhf3p1CRXgh2tUoxPlAVnPTacAqLLLSUwLxCYUg1vDUg7Uvm3uaMUGy5n+5dDrcfDSTRCj1NfeDrEwEQ5YCj3Pasln+E=;3/knJQM5LchASAS+g64s9w=="
 ---
 

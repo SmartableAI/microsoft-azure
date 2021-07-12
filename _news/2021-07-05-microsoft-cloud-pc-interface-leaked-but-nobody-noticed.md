@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-cloud-pc-interface-l
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed"
 type: article
 quality: 82
-heat: 223
+heat: 243
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://images.zawya.com/pr/images/2021/BerendJanvanMaanenCEOInTWO_2021_07_06.jpg"
         width: 450
         height: 578
+        isCached: true
+  - title: "CIBC formalizes Microsoft Azure as its primary cloud platform"
+    excerpt: "Canadian Imperial Bank of Commerce and Microsoft announced a strategic relationship formalizing Microsoft Azure as CIBC’s primary cloud platform"
+    publishedDateTime: 2021-07-12T06:22:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/cibc-formalizes-microsoft-azure-as-its-primary-cloud-platform/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 37
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/11/CIBC.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Cloud 9 Infosystems Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Chicago IL 6 15 21 Cloud 9 Infosystems today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and expertise in migrating"
