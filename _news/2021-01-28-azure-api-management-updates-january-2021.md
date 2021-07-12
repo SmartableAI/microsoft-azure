@@ -50,15 +50,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
-    excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
-    publishedDateTime: 2021-02-03T17:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-certificates-in-azure-key-vault-has-reached-general-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
   - title: "General availability: Azure Log Analytics in UAE Central & Japan West"
     excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in UAE Central & Japan West. "
     publishedDateTime: 2021-02-03T17:00:03Z

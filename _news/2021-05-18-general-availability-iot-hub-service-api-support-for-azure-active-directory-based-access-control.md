@@ -24,69 +24,178 @@ topics:
   - Identity
 
 related:
-  - title: "Azure Cosmos DB serverless now in general availability"
-    excerpt: "Optimize costs for spiky or intermittent workloads with Azure Cosmos DB serverless, a pure consumption offer where you are only billed for the Request Units and storage capacity consumed. "
-    publishedDateTime: 2021-05-25T16:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-serverless-now-in-general-availability/"
+  - title: "General availability: Azure API Management updates - July 2021"
+    excerpt: "Azure API Management service has been updated to provide better support to customers through policy expressions and Power platform."
+    publishedDateTime: 2021-07-12T19:55:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-july-2021/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 101
-  - title: "Expanded Azure Cosmos DB free tier now in general availability"
-    excerpt: "Get the first 1000 RU/s provisioned throughput and 25 GB storage free each month for the lifetime of one Azure Cosmos DB account with the Azure Cosmos DB free tier."
-    publishedDateTime: 2021-05-25T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/expanded-azure-cosmos-db-free-tier-now-in-general-availability/"
+    quality: 104
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/77ca2356-075a-4e23-98b8-e1193664c8ed.png"
+        width: 1055
+        height: 434
+        isCached: true
+  - title: "General availability: Azure Machine Learning updates for native terminal  "
+    excerpt: "Users can now perform any CLI operation directly in the Azure ML Studio."
+    publishedDateTime: 2021-02-17T17:06:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
+  - title: "General availability: Azure Blob storage supports objects up to 200 TB in size"
+    excerpt: "When moving from on premises, you no longer need to split your large files into separate parts to store and process in the cloud. Supporting a single object size up to 200TB removes one complexity when using Azure Storage."
+    publishedDateTime: 2021-04-12T16:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-and-adls-gen2-storage-supports-objects-up-to-200-tb-in-size/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
+  - title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
+    excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
+    publishedDateTime: 2021-02-03T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-certificates-in-azure-key-vault-has-reached-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
+  - title: "General availability: Azure Log Analytics UI updates May 2021"
+    excerpt: "Azure Log Analytics for May 2021 include a new and updated experience for custom logs management and pinned parts filter integration."
+    publishedDateTime: 2021-05-05T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-log-analytics-ui-updates-may-2021/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure Cosmos DB role-based access control (RBAC) now in general availability"
-    excerpt: "Enable fine-grained access control to data and leverage Azure Active Directory (AAD) authentication with Azure Cosmos DB role-based access control (RBAC), now generally available."
-    publishedDateTime: 2021-05-25T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-rolebased-access-control-rbac-now-in-general-availability/"
+  - title: "General availability: Azure DevOps updates for May 2021"
+    excerpt: "There are several new announcements for May 2021 including repos as protected resource in YAML pipelines and updates to Delivery Plans 2.0."
+    publishedDateTime: 2021-05-11T19:48:53Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-git-repositories-can-now-be-treated-as-protected-resources-in-yaml-pipelines/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 81
-  - title: "Cognitive Services - Form Recognizer adds new version in general availability"
-    excerpt: "Support for 73 languages, prebuilt ID model, invoice line item extraction, table header extraction tagging as table, and more generally available in Azure Form Recognizer, part of Applied AI Services. "
-    publishedDateTime: 2021-05-27T16:00:43Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-form-recognizer-adds-new-version-in-general-availability/"
+    quality: 84
+  - title: "General availability: Azure DevOps Delivery Plans 2.0"
+    excerpt: "With this update, we are including changes to Azure Boards and Azure Pipelines. You can now get total capacity for all teams in an iteration. In addition, we are previewing support for templates in the YAML editor."
+    publishedDateTime: 2021-06-03T17:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-delivery-plans-20/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 81
-  - title: "General availability: Azure ExpressRoute: 5 New Peering Locations Available"
-    excerpt: "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. The service is now available in 5 new peering locations."
-    publishedDateTime: 2021-05-21T16:00:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/erlocations/"
+    quality: 84
+  - title: "General availability: Azure DevOps updates for June 2021"
+    excerpt: "With this update, we've added a new set of policies which can be used to restrict the scope and lifespan of your organization’s Azure DevOps personal access tokens. "
+    publishedDateTime: 2021-06-24T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-devops-updates-for-june-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure API Management support for Availability Zones now generally available"
+    excerpt: "Improve the resiliency of your API Management services with Availability Zones."
+    publishedDateTime: 2021-04-14T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-support-for-availability-zones-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
+  - title: "General availability: Azure API Management Premium tier price reduction for incremental purchased units"
+    excerpt: "After the first purchased unit, a price reduction of 50% will be applied on all subsequent units purchased. "
+    publishedDateTime: 2021-06-02T16:34:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-premium-tier-price-reduction-for-incremental-purchased-units/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 68
+  - title: "General availability: Azure Data Explorer (ADX) Performance Updates "
+    excerpt: "The next version of Azure Data Explorer (ADX) with performance updates is now available.\n"
+    publishedDateTime: 2021-03-17T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-data-explorer-adx-performance-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: Azure Sphere OS version 21.06 expected on June 23"
+    excerpt: "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
+    publishedDateTime: 2021-06-10T15:04:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2106-expected-on-june-23/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: Azure Sphere version 21.04 expected on April 29, 2021"
+    excerpt: "Participate in the retail evaluation now to ensure full compatibility.  The OS evaluation period provides 14 days for backward compatibility testing."
+    publishedDateTime: 2021-04-15T22:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2104-is-now-available-for-evaluation/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 65
-  - title: "General availability: Enabling IBM WebSphere Application Server on Azure Virtual Machines"
-    excerpt: "IBM WebSphere Application Server (Traditional) Network Deployment on Azure Linux Virtual Machines is now available, jointly developed and supported by IBM and Microsoft. "
-    publishedDateTime: 2021-05-25T16:00:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-enabling-ibm-websphere-application-server-on-azure-virtual-machines/"
+  - title: "General availability: Azure Data Explorer adds new geospatial capabilities"
+    excerpt: "The new support for H3 based geospatial clustering in KQL enables users to visualize and explore spatial data stored in Azure Data Explorer."
+    publishedDateTime: 2021-06-18T16:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-adds-new-geospatial-capabilities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
+  - title: "General availability: Azure Sphere version 21.07 expected on July 21, 2021"
+    excerpt: "Participate in the retail evaluation now to ensure full compatibility. The 21.07 OS evaluation period provides 21 days for backward compatibility testing."
+    publishedDateTime: 2021-06-30T22:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2107-expected-on-july-21-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
+  - title: "General availability: Transition to Cloud Services (extended support) with new migration tool"
+    excerpt: "Accelerate your transition to Cloud Services (extended support) in Azure Resource Manager (ARM) using the new tool that provides a seamless and fully orchestrated migration of your Cloud Services (classic) deployments. "
+    publishedDateTime: 2021-07-07T17:00:55Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cloud-services-arm-migration-ga/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 58
-  - title: "General availability: Run Enterprise Java with Red Hat JBoss EAP for Azure Virtual Machines"
-    excerpt: "Azure Marketplace offers to run JBoss EAP on Azure Virtual Machines and Virtual Machine Scale Sets are now available. Customers can quickly move existing Java EE/Jakarta EE workloads to the cloud with limited code changes."
-    publishedDateTime: 2021-05-25T16:00:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-run-enterprise-java-with-red-hat-jboss-eap-for-azure-virtual-machines/"
+  - title: "General availability: HPC Cache for NVME-based Storage, Storage Target Management, and HIPAA Compliance"
+    excerpt: "The latest release of HPC Cache adds support for high throughput VMs as well as enhancements to storage target operations. "
+    publishedDateTime: 2021-07-12T15:37:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-hpc-cache-for-nvmebased-storage-storage-target-management-and-hipaa-compliance/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 57
+    quality: 53
+  - title: "Azure API Management update—July 2020"
+    excerpt: "A regular Azure API Management service update was started on July 8, 2020. It includes new features, bug fixes, and improvements."
+    publishedDateTime: 2020-07-16T00:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-july-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/22268971-76ec-40e1-9ca2-890b6850038e.png"
+        width: 1211
+        height: 752
+        isCached: true
 
 secured: "EbkRqvHBcBZAIcSA9gc0pz16VPE2FMk+oYZg3QAOmJVr8pbYgGp8nipxtQB57t/MtQNZCQaxAoG7BmJ1lX2Gu42hBVNEKwKEdZZXKKjsGXmX7KIiLtWGqXX9SdABhiJqr/ownjYut7Nhy3obrzf+iClgAC3xvKo8AxZz10sfyozSObilCgZjy6s0v2Woejrp1a0j4dOrg29YGDUsVcY/4hnhSqMz9BzOagB48+9BPziPXQ9Cxx6QPBiwUgP7l+wUGQ55EXpvF660eUSS3DB+zYbcSUbwtRXZAX72kuIQJXcn/+/3nUXxOxSbym0CEQXH7bB0mplBaw4EN7WksWc3JeAi5c964uujov2G0wO0rrE=;7/OOKXe94bQdoYfjbO4FYQ=="
 ---

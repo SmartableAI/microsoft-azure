@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-serverle
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-serverless-now-in-general-availability/"
 type: article
 quality: 101
-heat: 241
+heat: 221
 published: true
 
 provider:
@@ -24,15 +24,6 @@ topics:
   - Databases
 
 related:
-  - title: "General availability: IoT Hub service API support for Azure Active Directory based access control"
-    excerpt: "IoT Hub support for Azure Active Directory (Azure AD) and Role-Based Access Control (RBAC) is now generally available for service APIs. This means you can secure your service connections to IoT Hub with much more flexibility and granularity.\n\n"
-    publishedDateTime: 2021-05-18T17:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-service-azure-ad-rbac/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 88
   - title: "Expanded Azure Cosmos DB free tier now in general availability"
     excerpt: "Get the first 1000 RU/s provisioned throughput and 25 GB storage free each month for the lifetime of one Azure Cosmos DB account with the Azure Cosmos DB free tier."
     publishedDateTime: 2021-05-25T16:00:17Z

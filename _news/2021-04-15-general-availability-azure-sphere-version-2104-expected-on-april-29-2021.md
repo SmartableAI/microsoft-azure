@@ -22,6 +22,29 @@ topics:
   - Azure
 
 related:
+  - title: "General availability: Azure API Management updates - July 2021"
+    excerpt: "Azure API Management service has been updated to provide better support to customers through policy expressions and Power platform."
+    publishedDateTime: 2021-07-12T19:55:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-july-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/77ca2356-075a-4e23-98b8-e1193664c8ed.png"
+        width: 1055
+        height: 434
+        isCached: true
+  - title: "General availability: Azure Machine Learning updates for native terminal  "
+    excerpt: "Users can now perform any CLI operation directly in the Azure ML Studio."
+    publishedDateTime: 2021-02-17T17:06:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
   - title: "General availability: Azure Blob storage supports objects up to 200 TB in size"
     excerpt: "When moving from on premises, you no longer need to split your large files into separate parts to store and process in the cloud. Supporting a single object size up to 200TB removes one complexity when using Azure Storage."
     publishedDateTime: 2021-04-12T16:00:40Z
@@ -31,10 +54,55 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 95
+  - title: "General availability: IoT Hub service API support for Azure Active Directory based access control"
+    excerpt: "IoT Hub support for Azure Active Directory (Azure AD) and Role-Based Access Control (RBAC) is now generally available for service APIs. This means you can secure your service connections to IoT Hub with much more flexibility and granularity.\n\n"
+    publishedDateTime: 2021-05-18T17:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-service-azure-ad-rbac/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 88
+  - title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
+    excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
+    publishedDateTime: 2021-02-03T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-certificates-in-azure-key-vault-has-reached-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
+  - title: "General availability: Azure Log Analytics UI updates May 2021"
+    excerpt: "Azure Log Analytics for May 2021 include a new and updated experience for custom logs management and pinned parts filter integration."
+    publishedDateTime: 2021-05-05T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-log-analytics-ui-updates-may-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Azure DevOps updates for May 2021"
+    excerpt: "There are several new announcements for May 2021 including repos as protected resource in YAML pipelines and updates to Delivery Plans 2.0."
+    publishedDateTime: 2021-05-11T19:48:53Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-git-repositories-can-now-be-treated-as-protected-resources-in-yaml-pipelines/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: Azure DevOps Delivery Plans 2.0"
     excerpt: "With this update, we are including changes to Azure Boards and Azure Pipelines. You can now get total capacity for all teams in an iteration. In addition, we are previewing support for templates in the YAML editor."
     publishedDateTime: 2021-06-03T17:00:20Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-delivery-plans-20/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Azure DevOps updates for June 2021"
+    excerpt: "With this update, we've added a new set of policies which can be used to restrict the scope and lifespan of your organization’s Azure DevOps personal access tokens. "
+    publishedDateTime: 2021-06-24T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-devops-updates-for-june-2021/"
     type: article
     provider:
       name: Microsoft
@@ -49,28 +117,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 82
-  - title: "General availability: Lustre® HSM tools now available to import from or export to Azure Storage."
-    excerpt: "New tooling available for integrating Lustre file systems with an Azure storage account."
-    publishedDateTime: 2021-04-12T20:24:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/lustre-hsm-tools-now-available-to-import-from-or-export-to-azure-storage/"
+  - title: "General availability: Azure API Management Premium tier price reduction for incremental purchased units"
+    excerpt: "After the first purchased unit, a price reduction of 50% will be applied on all subsequent units purchased. "
+    publishedDateTime: 2021-06-02T16:34:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-premium-tier-price-reduction-for-incremental-purchased-units/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 71
-  - title: "General availability: Create AKS clusters without local user accounts "
-    excerpt: "You can now disable local user accounts when creating AAD integrated AKS clusters. "
-    publishedDateTime: 2021-04-14T16:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-create-aks-clusters-without-local-user-accounts/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-  - title: "Azure SQL—general availability updates for April 14, 2021 "
-    excerpt: "General availability enhancements and updates released for Azure SQL Managed Instance in April 2021."
-    publishedDateTime: 2021-04-14T16:01:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-april-14-2021/"
+    quality: 68
+  - title: "General availability: Azure Data Explorer (ADX) Performance Updates "
+    excerpt: "The next version of Azure Data Explorer (ADX) with performance updates is now available.\n"
+    publishedDateTime: 2021-03-17T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-data-explorer-adx-performance-updates/"
     type: article
     provider:
       name: Microsoft
@@ -85,10 +144,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure Site Recovery now supports cross-continental disaster recovery for 3 region pairs"
-    excerpt: "Protect your applications from outages by replicating your virtual machines across continents."
-    publishedDateTime: 2021-04-29T15:40:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asr-cross-continental-dr/"
+  - title: "General availability: Azure Data Explorer adds new geospatial capabilities"
+    excerpt: "The new support for H3 based geospatial clustering in KQL enables users to visualize and explore spatial data stored in Azure Data Explorer."
+    publishedDateTime: 2021-06-18T16:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-adds-new-geospatial-capabilities/"
     type: article
     provider:
       name: Microsoft
@@ -103,15 +162,38 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 65
-  - title: "General availability: Log analytics workspace name uniqueness is now per resource group"
-    excerpt: "You can now use the same workspace name in deployments across all your environment without a conflict. This is useful in template deployments when the same name can be used for every deployment for consistency."
-    publishedDateTime: 2021-04-14T16:02:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-log-analytics-workspace-name-uniqueness-is-now-per-resource-group/"
+  - title: "General availability: Transition to Cloud Services (extended support) with new migration tool"
+    excerpt: "Accelerate your transition to Cloud Services (extended support) in Azure Resource Manager (ARM) using the new tool that provides a seamless and fully orchestrated migration of your Cloud Services (classic) deployments. "
+    publishedDateTime: 2021-07-07T17:00:55Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cloud-services-arm-migration-ga/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 61
+    quality: 58
+  - title: "General availability: HPC Cache for NVME-based Storage, Storage Target Management, and HIPAA Compliance"
+    excerpt: "The latest release of HPC Cache adds support for high throughput VMs as well as enhancements to storage target operations. "
+    publishedDateTime: 2021-07-12T15:37:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-hpc-cache-for-nvmebased-storage-storage-target-management-and-hipaa-compliance/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 53
+  - title: "Azure API Management update—July 2020"
+    excerpt: "A regular Azure API Management service update was started on July 8, 2020. It includes new features, bug fixes, and improvements."
+    publishedDateTime: 2020-07-16T00:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-july-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/22268971-76ec-40e1-9ca2-890b6850038e.png"
+        width: 1211
+        height: 752
+        isCached: true
 
 secured: "GEzQRLaEtLfrGQmrGK2bvEo/pW+Otji6jOBgp4BXCtAqhMu8kY3f+Zhy+TBAicwbJTbbbVAMvPKfbrdL9zWfD6TQpFhosTo5TS4XQ0/ae14XolgmNLBuneW5Ec9NFwdcJby8zMdM0Ikh2eJ0egtN50WfGXHwvnyIKSmdVtcXwr6qETy4Q1bnBt1oah9+w2/58IJDwO/LiAEh3PyRjPWlf/TJowL30MoDLeAQrPIqmkyrEKpg04aDO0hrqnv+wtkzXc/i8knX/IeXNVujzyi237ao5ujlqHKeYpUMC9NnYbBwCRPCpLupCD43xcOtbjLPRz9PwLdkDyAKUFCcd2JmNCcyq6dYLD15St7h3iHeXOg=;UYp6O59KK6YsVTIwoDAb/w=="
 ---

@@ -63,6 +63,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 62
+  - title: "General availability: Maintenance control for Virtual Machine Scale Sets OS image upgrades"
+    excerpt: "Take control of OS image upgrades on your virtual machine scale sets by using the new maintenance control feature. Now you can update at the time chosen by you with all the safety checks in place."
+    publishedDateTime: 2021-06-17T16:50:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-maintenance-control-for-vmss-os-image-upgrades/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
 
 secured: "d+Q+P5ElQBJYxL0kcJWEnO6GEy85QdFEKbUVGG1NDGEaUw2z0xPiAE8YGg727y9s28WjZ91FRW2m6JvaUoak/0owcYjHkjMRq6yl/tGngYKFqhkPATGodD6mHogUR9MNrSpU4OQxnK/N1kEnEO3Z8HJcqtjdTGrjdcZ/rb61htwHhiKscxf74I+CGTk+plxcW4TUtIQkPAjtjiWL0FzKTm33zSCm2ch1x558awNsCwxmB62QdXotUIjCqbb9tI/X/QOruBRcJ3y6VoR3On2a2NGkJKEmtwo4qeu4reT4phe/emPYZdbqthwxAZhxxVhX9gyiqGqLj8XWCYhbfBJHhjEiN/6Z1lF1h9c3GWFRmWM=;+6AncppQ/d6VLkOW6MaANA=="
 ---

@@ -57,6 +57,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Log analytics workspace name uniqueness is now per resource group"
+    excerpt: "You can now use the same workspace name in deployments across all your environment without a conflict. This is useful in template deployments when the same name can be used for every deployment for consistency."
+    publishedDateTime: 2021-04-14T16:02:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-log-analytics-workspace-name-uniqueness-is-now-per-resource-group/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
 
 secured: "V2qTaJWlDT1lFmAW01n+op3PEX5wdAiJahe2+n+rRXi5qAEnmYdQnYE4mda6EDeN0d1RlBcnPeONTPKAwwwW1HFIEpgeB7utjmq2RCoZzT4vlZSAbqz1efHvJ5291bIKA5jEo7INKlfCpMVWTuUI4cqmgHUPAGjk9hvLP/RHwj9BiDXEmumhUJYKzVHc7we7BFqZApztg9RS6kHBzaEDm4GwsLijDEaIp7tYJdintVVyC0GKlZvJytz+l4+YQIFyWdk6I3bKXuSfG3sAnebD1bJee7oCYCcyZ1DMIn9OCxrL65B7liqry0qcG0JscR/pHsBpxtKlrl7TXcT2XZgeNQ==;gxTYRC7+kfidgSpRug0FmA=="
 ---

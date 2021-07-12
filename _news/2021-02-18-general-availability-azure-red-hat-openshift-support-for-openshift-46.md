@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-red-hat-openshift-support-for-openshift-46/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Microsoft
@@ -22,69 +22,15 @@ topics:
   - Azure
 
 related:
-  - title: "General availability: Azure Machine Learning updates for native terminal  "
-    excerpt: "Users can now perform any CLI operation directly in the Azure ML Studio."
-    publishedDateTime: 2021-02-17T17:06:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 97
-  - title: "General availability: Azure Log Analytics UI updates May 2021"
-    excerpt: "Azure Log Analytics for May 2021 include a new and updated experience for custom logs management and pinned parts filter integration."
-    publishedDateTime: 2021-05-05T16:00:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-log-analytics-ui-updates-may-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "General availability: Azure DevOps updates for May 2021"
-    excerpt: "There are several new announcements for May 2021 including repos as protected resource in YAML pipelines and updates to Delivery Plans 2.0."
-    publishedDateTime: 2021-05-11T19:48:53Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-git-repositories-can-now-be-treated-as-protected-resources-in-yaml-pipelines/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "General availability: Azure DevOps updates for June 2021"
-    excerpt: "With this update, we've added a new set of policies which can be used to restrict the scope and lifespan of your organization’s Azure DevOps personal access tokens. "
-    publishedDateTime: 2021-06-24T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-devops-updates-for-june-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "General availability: Azure Data Explorer (ADX) Performance Updates "
-    excerpt: "The next version of Azure Data Explorer (ADX) with performance updates is now available.\n"
-    publishedDateTime: 2021-03-17T16:00:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-data-explorer-adx-performance-updates/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "General availability: Azure Data Explorer adds new geospatial capabilities"
-    excerpt: "The new support for H3 based geospatial clustering in KQL enables users to visualize and explore spatial data stored in Azure Data Explorer."
-    publishedDateTime: 2021-06-18T16:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-adds-new-geospatial-capabilities/"
+  - title: "General availability: Azure Site Recovery now supports cross-continental disaster recovery for 3 region pairs"
+    excerpt: "Protect your applications from outages by replicating your virtual machines across continents."
+    publishedDateTime: 2021-04-29T15:40:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asr-cross-continental-dr/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 65
-  - title: "General availability: Maintenance control for Virtual Machine Scale Sets OS image upgrades"
-    excerpt: "Take control of OS image upgrades on your virtual machine scale sets by using the new maintenance control feature. Now you can update at the time chosen by you with all the safety checks in place."
-    publishedDateTime: 2021-06-17T16:50:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-maintenance-control-for-vmss-os-image-upgrades/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 59
   - title: "General availability: Web Application Firewall for Azure Front Door managed ruleset refresh"
     excerpt: "Use Microsoft_DefaultRuleSet_1.1 to protect your web applications from OWASP top 10 vulnerabilities."
     publishedDateTime: 2021-02-19T18:54:37Z
@@ -94,15 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 57
-  - title: "General availability: Update in Policy Compliance for Resource Type Policies"
-    excerpt: "Azure Policy built-in policies in which resource type is the only evaluation criterion (e.g. Allowed Resource Types, Disallowed Resource Types) have updated logic to provide a more accurate assessment of your overall environment when aggregated with other policies."
-    publishedDateTime: 2021-06-07T20:19:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-update-in-policy-compliance-for-resource-type-policies/"
+  - title: "General availability support for Java Message Service (JMS) 2.0 API on Azure Service Bus Premium"
+    excerpt: "Use existing applications that leverage JMS 2.0 API to talk to Service Bus without any code changes. Only configuration changes are required."
+    publishedDateTime: 2021-02-19T17:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-ga-support-for-java-message-service-jms-20-api-on-azure-service-bus-premium/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 49
+    quality: 54
 
 secured: "gTHyckxn3YiLvy9eY8Jk7+Dmz5TMLm1Ntr48tDUZNhL21olZoOPKYdFmpL9dLX0s0pUA/ksYv3IW/ADt4gPWjvcvCIPDgVR8xCIwYt16DEUyNTxi+IHSMyhu4N5TawjVj46IBCVhWhR+jt7qHj8taw7TiPqfHlIUFausRSVpxBPvcZgxV1UGRaxt7bFggm0x4S0/c39IviiL2uZqfe3gP5lRtRk2p1d+0cqGBu43gwaEzackrkvKRci18k3j1kntIWG4A8huxCP3m8QFWi4KrCofRKcJ1sJfqKGwk3lOvG2OI7erXdQRBKJ8L5Z01CRIEeceFg1R2uk/iLywEdreRNWe/BjlPyIiI6kDDxo8Dzk=;aAA3YkdrsuKOPyH1GlM+6Q=="
 ---

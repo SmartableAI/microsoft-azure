@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
-excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
-publishedDateTime: 2021-02-03T17:00:01Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-certificates-in-azure-key-vault-has-reached-general-availability/"
-webUrl: "https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-certificates-in-azure-key-vault-has-reached-general-availability/"
+title: "General availability: Azure API Management updates - July 2021"
+excerpt: "Azure API Management service has been updated to provide better support to customers through policy expressions and Power platform."
+publishedDateTime: 2021-07-12T19:55:36Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-july-2021/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-july-2021/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 104
+heat: 464
+published: true
 
 provider:
   name: Microsoft
@@ -20,24 +20,15 @@ provider:
 
 topics:
   - Azure
-  - Security
   - Integration
 
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/77ca2356-075a-4e23-98b8-e1193664c8ed.png"
+    width: 1055
+    height: 434
+    isCached: true
+
 related:
-  - title: "General availability: Azure API Management updates - July 2021"
-    excerpt: "Azure API Management service has been updated to provide better support to customers through policy expressions and Power platform."
-    publishedDateTime: 2021-07-12T19:55:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-july-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/77ca2356-075a-4e23-98b8-e1193664c8ed.png"
-        width: 1055
-        height: 434
-        isCached: true
   - title: "General availability: Azure Machine Learning updates for native terminal  "
     excerpt: "Users can now perform any CLI operation directly in the Azure ML Studio."
     publishedDateTime: 2021-02-17T17:06:59Z
@@ -65,6 +56,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 88
+  - title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
+    excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
+    publishedDateTime: 2021-02-03T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-certificates-in-azure-key-vault-has-reached-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
   - title: "General availability: Azure Log Analytics UI updates May 2021"
     excerpt: "Azure Log Analytics for May 2021 include a new and updated experience for custom logs management and pinned parts filter integration."
     publishedDateTime: 2021-05-05T16:00:31Z
@@ -197,6 +197,6 @@ related:
         height: 752
         isCached: true
 
-secured: "4Ag6k+E9HdlSRV61iw82jUGa8nQ+n7eZtbX1w7ipan5k2V8aX93mFEho4gmI5JDpYDBpFBry+QUKQa8q3uQBQIdN9irRGky6zdfWndK92slTFy6tDtDbkXh8p75EifFFpiNSTI79QN2nJmZMW0diX0wut0qOIfSiMLDuY8kxkY7MKNRpxM5YcEL9VHO7VBZlbZ80Z70u2Foa3dPUHJiwmzlZ6iQLFVJKvtRn0aBWyGI6GIPLN70Lj9bl7lvdjYgiTUZGQWHI25mK1UTdd182Om6TLsrowkYG5RrPC45jztZnneUaSBfm9FO4twJH+5etP/c3QdzrNxnErN2wwTrzIV6aci+5L5t9FvoOG0PhDbU=;x2Hz/3jFaWIXHt8LjivCBA=="
+secured: "hpBAaMTnzkkJdrsyol6lxmwTohr3faStZudUdw1D4AsGwySJslHn85GuwdxNa6jPvKnjzgAC9ozRKYmtI88ZGKv8/3zIf3s9kba5CiTzSx0+HOV/XNjMQAqjl2ZvCKR37ZX6BtrMRyTLyWBMjzqJskLr7AojdAp54soCG4LmEu0ydj6guoBmxn9v22y4sRUkDzFU+HEPCuhzTGbWHnUZ2xt0P91b5nO04y5/MbIwzKcgp5zLJr5bPmgPG6B35Jhw8IyCq0tIGu7WrIkhLAaHwYqIw7aLEDBBHeUbI3v4UWVvS6CplbU9OE0c6YEKWeMkZtpQqW/BRp4ctj5QkjUzJwFfOoRhDKiZakOolJmKRyg=;YRmKGTCkVnViQeIcsDCiTA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/msix-app-attach-in-azure
 webUrl: "https://azure.microsoft.com/en-us/updates/msix-app-attach-in-azure-portal-now-generally-available/"
 type: article
 quality: 84
-heat: 124
+heat: 164
 published: true
 
 provider:
@@ -23,6 +23,24 @@ topics:
   - Management tools
 
 related:
+  - title: "General availability: Lustre® HSM tools now available to import from or export to Azure Storage."
+    excerpt: "New tooling available for integrating Lustre file systems with an Azure storage account."
+    publishedDateTime: 2021-04-12T20:24:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/lustre-hsm-tools-now-available-to-import-from-or-export-to-azure-storage/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 71
+  - title: "Azure SQL—general availability updates for April 14, 2021 "
+    excerpt: "General availability enhancements and updates released for Azure SQL Managed Instance in April 2021."
+    publishedDateTime: 2021-04-14T16:01:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-april-14-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "User data through Azure Instance Metadata Service now generally available"
     excerpt: "Leverage user data to customize your VM instance provision and configuration."
     publishedDateTime: 2021-04-15T16:00:18Z

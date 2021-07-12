@@ -23,87 +23,56 @@ topics:
   - Compute
 
 related:
-  - title: "General availability: Azure Machine Learning updates for native terminal  "
-    excerpt: "Users can now perform any CLI operation directly in the Azure ML Studio."
-    publishedDateTime: 2021-02-17T17:06:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 97
-  - title: "General availability: Azure Log Analytics UI updates May 2021"
-    excerpt: "Azure Log Analytics for May 2021 include a new and updated experience for custom logs management and pinned parts filter integration."
-    publishedDateTime: 2021-05-05T16:00:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-log-analytics-ui-updates-may-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "General availability: Azure DevOps updates for May 2021"
-    excerpt: "There are several new announcements for May 2021 including repos as protected resource in YAML pipelines and updates to Delivery Plans 2.0."
-    publishedDateTime: 2021-05-11T19:48:53Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-git-repositories-can-now-be-treated-as-protected-resources-in-yaml-pipelines/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "General availability: Azure DevOps updates for June 2021"
-    excerpt: "With this update, we've added a new set of policies which can be used to restrict the scope and lifespan of your organization’s Azure DevOps personal access tokens. "
+  - title: "General availability: Turn your phone into an IoT device with the new IoT Plug and Play mobile app"
+    excerpt: "Use the IoT Plug and Play phone app as an IoT device to get started quickly with IoT Central or IoT Hub."
     publishedDateTime: 2021-06-24T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-devops-updates-for-june-2021/"
+    webUrl: "https://azure.microsoft.com/en-us/updates/turn-your-phone-into-an-iot-device/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "General Availability: Azure Red Hat OpenShift support for OpenShift 4.6"
-    excerpt: "Benefit from new features and enhancements in OpenShift release 4.6."
-    publishedDateTime: 2021-02-18T17:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-red-hat-openshift-support-for-openshift-46/"
+    quality: 92
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/7ba3c654-273c-41d6-9567-3f9ac29ef1ca.png"
+        width: 424
+        height: 511
+        isCached: true
+  - title: "General availability: Introducing Log Analytics Open In Excel - A new Excel integration capability"
+    excerpt: "Azure Monitor Log Analytics introduces a new Excel integration capability that allows you to create a connected Excel workbook right from the Log Analytics blade in Azure. "
+    publishedDateTime: 2021-06-22T21:25:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/introducing-log-analytics-open-in-excel-a-new-excel-integration-capability/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "General availability: Azure Data Explorer (ADX) Performance Updates "
-    excerpt: "The next version of Azure Data Explorer (ADX) with performance updates is now available.\n"
-    publishedDateTime: 2021-03-17T16:00:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-data-explorer-adx-performance-updates/"
+    quality: 72
+  - title: "General availability: Cross region Restore of SQL/SAP HANA running in Azure VM"
+    excerpt: "General availability of Cross Region Restore of SQL/SAP HANA databases running in Azure VM allows to restore data in the secondary region for compliance/audit and outage scenarios."
+    publishedDateTime: 2021-06-17T16:54:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/gacrossregionrestoresqlsaphana/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "General availability: Azure Data Explorer adds new geospatial capabilities"
-    excerpt: "The new support for H3 based geospatial clustering in KQL enables users to visualize and explore spatial data stored in Azure Data Explorer."
-    publishedDateTime: 2021-06-18T16:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-adds-new-geospatial-capabilities/"
+    quality: 63
+  - title: "General availability: Skip X.509 certificate proof of possession for IoT Hub and DPS"
+    excerpt: "To make it easier to get started with X.509 authentication with IoT Hub and Device Provisioning Services (DPS), we're removing the requirement to prove possession of uploaded certificates."
+    publishedDateTime: 2021-07-01T17:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-dps-skip-pop/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 65
-  - title: "General availability: Web Application Firewall for Azure Front Door managed ruleset refresh"
-    excerpt: "Use Microsoft_DefaultRuleSet_1.1 to protect your web applications from OWASP top 10 vulnerabilities."
-    publishedDateTime: 2021-02-19T18:54:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/web-application-firewall-for-azure-front-door-managed-ruleset-refresh/"
+    quality: 62
+  - title: "General availability: Expansion of credit-based disk bursting to Azure Standard SSDs E30 and smaller"
+    excerpt: "Credit-based disk bursting, which allows you to handle unexpected disk traffic and batch jobs smoothly without the need to overprovision your disk, is now available on Azure Standard SSDs E30 and smaller."
+    publishedDateTime: 2021-06-23T16:00:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-expansion-of-creditbased-disk-bursting-to-azure-standard-ssds-e30-and-smaller/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 57
-  - title: "General availability: Update in Policy Compliance for Resource Type Policies"
-    excerpt: "Azure Policy built-in policies in which resource type is the only evaluation criterion (e.g. Allowed Resource Types, Disallowed Resource Types) have updated logic to provide a more accurate assessment of your overall environment when aggregated with other policies."
-    publishedDateTime: 2021-06-07T20:19:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-update-in-policy-compliance-for-resource-type-policies/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 49
+    quality: 52
 
 secured: "QhWk0gvBnsH/7IV8Q5BUjogysOrcqwuyD6G9n3oSf7t/ZF2FiQLQyomjrAzEul5xt3me03z/6pAffH7ltDF1naBmNCrJU75BBSuTmMph+ppq3UvLvT6U7bODZefX9sbgny1xLQGoEI3OR88QsFLd64bJazBMztSpHrU+kJgwgHXd+VYnW8BA3As/eAGYuqg3SWxnCtsK++TIxaElnBHIds+GV1s0G+H37VVHWwSs+icr1/iw+zDavsPO9Nhc3H5sInEobUOGjwSFDbJ7O7yyx/BNHcwuD5cbsi6E28jQQNIvMKl+vjxfuDiwRvP9aaBkmhKZ5Q3WJi4gE/a/5//rRZE7iCxtiAszkGxVgmAocoQ=;axcWPQJOzDVa4ILk2PGMxg=="
 ---

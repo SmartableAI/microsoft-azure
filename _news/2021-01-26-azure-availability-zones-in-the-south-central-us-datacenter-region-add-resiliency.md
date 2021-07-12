@@ -51,15 +51,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
-    excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
-    publishedDateTime: 2021-02-03T17:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-certificates-in-azure-key-vault-has-reached-general-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
   - title: "Azure API Management Updates - January, 2021"
     excerpt: "A regular Azure API Management service update was started on January 21, 2021, and included several new features and bug fixes, along other improvements. It may take several weeks for your API Management service to receive the update."
     publishedDateTime: 2021-01-28T01:30:47Z

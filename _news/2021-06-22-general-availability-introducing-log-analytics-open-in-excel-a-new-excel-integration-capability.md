@@ -56,6 +56,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 62
+  - title: "General availability: Maintenance control for Virtual Machine Scale Sets OS image upgrades"
+    excerpt: "Take control of OS image upgrades on your virtual machine scale sets by using the new maintenance control feature. Now you can update at the time chosen by you with all the safety checks in place."
+    publishedDateTime: 2021-06-17T16:50:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-maintenance-control-for-vmss-os-image-upgrades/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
   - title: "General availability: Expansion of credit-based disk bursting to Azure Standard SSDs E30 and smaller"
     excerpt: "Credit-based disk bursting, which allows you to handle unexpected disk traffic and batch jobs smoothly without the need to overprovision your disk, is now available on Azure Standard SSDs E30 and smaller."
     publishedDateTime: 2021-06-23T16:00:50Z

@@ -23,96 +23,51 @@ topics:
   - Analytics
 
 related:
-  - title: "General availability: Azure Blob storage supports objects up to 200 TB in size"
-    excerpt: "When moving from on premises, you no longer need to split your large files into separate parts to store and process in the cloud. Supporting a single object size up to 200TB removes one complexity when using Azure Storage."
-    publishedDateTime: 2021-04-12T16:00:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-and-adls-gen2-storage-supports-objects-up-to-200-tb-in-size/"
+  - title: "High throughput output from Stream Analytics to Azure Synapse Analytics (General Availability)"
+    excerpt: "With a brand new output connector to Synapse SQL Pools, Stream Analytics can now support throughput rates even higher than 200MB/sec while ensuring ultra-low latencies. "
+    publishedDateTime: 2020-09-22T16:05:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-from-stream-analytics-to-azure-synapse-analytics-general-availability/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 95
-  - title: "General availability: Azure DevOps Delivery Plans 2.0"
-    excerpt: "With this update, we are including changes to Azure Boards and Azure Pipelines. You can now get total capacity for all teams in an iteration. In addition, we are previewing support for templates in the YAML editor."
-    publishedDateTime: 2021-06-03T17:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-delivery-plans-20/"
+    quality: 87
+  - title: "General availability: Azure Log Analytics in Australia Central 2"
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2. "
+    publishedDateTime: 2021-03-12T16:46:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-australia-central-2/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure API Management support for Availability Zones now generally available"
-    excerpt: "Improve the resiliency of your API Management services with Availability Zones."
-    publishedDateTime: 2021-04-14T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-support-for-availability-zones-now-generally-available/"
+  - title: "General availability: Enhanced Azure Dashboards experience for pinned Log Analytics parts"
+    excerpt: "Log Analytics enhances pinned parts Azure Dashboards experience. "
+    publishedDateTime: 2021-03-22T15:47:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enhanced-azure-dashboards-experience-for-pinned-log-analytics-parts/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 82
-  - title: "General availability: Lustre® HSM tools now available to import from or export to Azure Storage."
-    excerpt: "New tooling available for integrating Lustre file systems with an Azure storage account."
-    publishedDateTime: 2021-04-12T20:24:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/lustre-hsm-tools-now-available-to-import-from-or-export-to-azure-storage/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 71
-  - title: "General availability: Create AKS clusters without local user accounts "
-    excerpt: "You can now disable local user accounts when creating AAD integrated AKS clusters. "
-    publishedDateTime: 2021-04-14T16:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-create-aks-clusters-without-local-user-accounts/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-  - title: "Azure SQL—general availability updates for April 14, 2021 "
-    excerpt: "General availability enhancements and updates released for Azure SQL Managed Instance in April 2021."
-    publishedDateTime: 2021-04-14T16:01:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-april-14-2021/"
+    quality: 75
+  - title: "App Service announces the general availability of Windows Container support"
+    excerpt: "You can now deploy production workloads in Windows Containers on Azure App Service and take advantage of the rich productivity gains of the platform."
+    publishedDateTime: 2020-09-22T16:00:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/app-service-announces-general-availability-of-windows-container-support/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure Sphere OS version 21.06 expected on June 23"
-    excerpt: "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
-    publishedDateTime: 2021-06-10T15:04:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2106-expected-on-june-23/"
+  - title: "High throughput output from Stream Analytics to Azure Synapse Analytics (preview)"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-to-azure-synapse-analytics-from-stream-analytics-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "General availability: Azure Sphere version 21.04 expected on April 29, 2021"
-    excerpt: "Participate in the retail evaluation now to ensure full compatibility.  The OS evaluation period provides 14 days for backward compatibility testing."
-    publishedDateTime: 2021-04-15T22:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2104-is-now-available-for-evaluation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 65
-  - title: "General availability: Azure Site Recovery now supports cross-continental disaster recovery for 3 region pairs"
-    excerpt: "Protect your applications from outages by replicating your virtual machines across continents."
-    publishedDateTime: 2021-04-29T15:40:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asr-cross-continental-dr/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 65
-  - title: "General availability: Azure Sphere version 21.07 expected on July 21, 2021"
-    excerpt: "Participate in the retail evaluation now to ensure full compatibility. The 21.07 OS evaluation period provides 21 days for backward compatibility testing."
-    publishedDateTime: 2021-06-30T22:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2107-expected-on-july-21-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 65
+    quality: 12
 
 secured: "XxNTEjdhEUGvxrgVo1UEA3Mlyw2vGOdhjLC7Ath3rxqamEuIDx9wOl8cXsLepys3dt5Zi4kgWhpde98o/UbQzSRNSXU3xlK2QLb7hp4hdgRQ5Tljb5+tadtBX1UBUVPvYeCI/D56GBASpvUCQrWnOelQoAUtcSpZ9tzJqBuJG1BZMiT59nHmU2+VfLTCgkVKnFmk2J3lgXYOm1qL6CR+ZPf/PuKhbx0r6Ix7Gzf7l/BSScBLX9vdcq+29N7ow4I8tpm165FFyLnr2GBm3vYZg41Q5b+xTUFpF6Hzs+C4VfzYNvQnAL5vSvyN5vgH7RV5sv6uuAMAsIrB8E+fzp1GrDKfjhMHGYBOynxAGLGjRb8=;WaqDOOyogz+b9D8wP3InVw=="
 ---

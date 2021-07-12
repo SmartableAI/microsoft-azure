@@ -40,15 +40,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "General availability: Azure API Management Premium tier price reduction for incremental purchased units"
-    excerpt: "After the first purchased unit, a price reduction of 50% will be applied on all subsequent units purchased. "
-    publishedDateTime: 2021-06-02T16:34:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-premium-tier-price-reduction-for-incremental-purchased-units/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 68
   - title: "Azure Maps Elevation API is now in general availability"
     excerpt: "For any given point on the Earth surface, the Elevation API returns its elevation measured from mean sea level."
     publishedDateTime: 2021-06-11T23:19:55Z
@@ -58,6 +49,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Update in Policy Compliance for Resource Type Policies"
+    excerpt: "Azure Policy built-in policies in which resource type is the only evaluation criterion (e.g. Allowed Resource Types, Disallowed Resource Types) have updated logic to provide a more accurate assessment of your overall environment when aggregated with other policies."
+    publishedDateTime: 2021-06-07T20:19:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-update-in-policy-compliance-for-resource-type-policies/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 49
   - title: "Azure Database for MariaDB  is now available in the France South region"
     excerpt: ""
     publishedDateTime: 2020-06-01T16:00:11Z

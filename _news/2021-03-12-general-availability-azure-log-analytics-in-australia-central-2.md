@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Log analytics workspace name uniqueness is now per resource group"
+    excerpt: "You can now use the same workspace name in deployments across all your environment without a conflict. This is useful in template deployments when the same name can be used for every deployment for consistency."
+    publishedDateTime: 2021-04-14T16:02:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-log-analytics-workspace-name-uniqueness-is-now-per-resource-group/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
   - title: "High throughput output from Stream Analytics to Azure Synapse Analytics (preview)"
     excerpt: ""
     publishedDateTime: 2020-05-19T17:00:14Z

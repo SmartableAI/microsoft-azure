@@ -32,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
-  - title: "General availability: IoT Hub service API support for Azure Active Directory based access control"
-    excerpt: "IoT Hub support for Azure Active Directory (Azure AD) and Role-Based Access Control (RBAC) is now generally available for service APIs. This means you can secure your service connections to IoT Hub with much more flexibility and granularity.\n\n"
-    publishedDateTime: 2021-05-18T17:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-service-azure-ad-rbac/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 88
   - title: "Azure Cosmos DB role-based access control (RBAC) now in general availability"
     excerpt: "Enable fine-grained access control to data and leverage Azure Active Directory (AAD) authentication with Azure Cosmos DB role-based access control (RBAC), now generally available."
     publishedDateTime: 2021-05-25T16:00:19Z

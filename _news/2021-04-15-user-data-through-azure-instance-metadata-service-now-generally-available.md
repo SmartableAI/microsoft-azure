@@ -31,6 +31,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Lustre® HSM tools now available to import from or export to Azure Storage."
+    excerpt: "New tooling available for integrating Lustre file systems with an Azure storage account."
+    publishedDateTime: 2021-04-12T20:24:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/lustre-hsm-tools-now-available-to-import-from-or-export-to-azure-storage/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 71
+  - title: "Azure SQL—general availability updates for April 14, 2021 "
+    excerpt: "General availability enhancements and updates released for Azure SQL Managed Instance in April 2021."
+    publishedDateTime: 2021-04-14T16:01:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-april-14-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Open source API Portal now generally available"
     excerpt: "API Portal is a no-code option to create, manage, and publish API documentation - for free."
     publishedDateTime: 2021-04-16T16:00:31Z
