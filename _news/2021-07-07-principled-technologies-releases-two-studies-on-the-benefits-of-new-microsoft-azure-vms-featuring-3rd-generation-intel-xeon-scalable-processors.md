@@ -24,24 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
-    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
-    publishedDateTime: 2021-07-09T16:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c"
+  - title: "DataON announces new DataON Integrated Systems for Microsoft Azure Stack HCI powered by 3rd Generation Intel® Xeon® Scalable Processors"
+    excerpt: "DataON, an industry-leading provider of hybrid cloud solutions for Microsoft Azure Stack HCI with cloud-based Azure Services, announces an enhanced line of AZS"
+    publishedDateTime: 2021-06-30T17:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dataon-announces-new-dataon-integrated-systems-for-microsoft-azure-stack-hci-powered-by-3rd-generation/article_fa194e14-0b0e-5c18-bdbe-d511bc9d8e9d.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-  - title: "HashiCorp Recognized as the Winner of 2021 Microsoft Open Source Software on Azure Partner of the Year"
-    excerpt: "“Being recognized as the winner of the 2021 Microsoft OSS on Azure Partner of the Year award is a reflection of the continued partnership and deep collaboration between HashiCorp and Microsoft ..."
-    publishedDateTime: 2021-07-08T19:22:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8277544/hashicorp-recognized-as-the-winner-of-2021-microsoft-open-source-software-on-azure-partner-of-the-year"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 1
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 5
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "xlFSuto7d7pvEwSMr392I9vjWuXCtHcJsPkufIsx3l5pTKTNvEzVxuwfdfA/ZFiVxZJOvcMimJkH/2r8+i2pxC73ggulyUPuA7aWYjFF6Tv+Kv7d2fPwHlh1NXsoiosfSHrZ3ekqChXPYoj8HXFfzkNpzcnUWRdaH0wbqYi9I+RjaMFyeQZ2p1SaPAXOvSEOr/7d5oYjLOm7gIU9Q+YH5OBiMUngIxk7GdfYBxjdy8oWHVYkcpkUMT7EPeX5R1hgJl3+VuKgR3zkpLqjqqAPgzcGLCuGO2NNly3xKJYmgxdzPF+xu4Y4CZUzZ72zUEBw3NA09/EDpEFl9GGxRsfAM3Jti31XyOjgRYbPsrEgYVg=;rBEPG7qoT/W/hvEgtt+0cw=="
 ---

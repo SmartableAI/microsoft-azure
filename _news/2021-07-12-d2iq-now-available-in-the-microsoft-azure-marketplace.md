@@ -1,26 +1,26 @@
 ---
 category: news
-title: "CIBC formalizes Microsoft Azure as its primary cloud platform"
-excerpt: "Canadian Imperial Bank of Commerce and Microsoft announced a strategic relationship formalizing Microsoft Azure as CIBC’s primary cloud platform"
-publishedDateTime: 2021-07-12T06:22:00Z
-originalUrl: "https://ibsintelligence.com/ibsi-news/cibc-formalizes-microsoft-azure-as-its-primary-cloud-platform/"
-webUrl: "https://ibsintelligence.com/ibsi-news/cibc-formalizes-microsoft-azure-as-its-primary-cloud-platform/"
+title: "D2iQ Now Available in the Microsoft Azure Marketplace"
+excerpt: "\"We're pleased to welcome the D2iQ Kubernetes Platform to the Microsoft Azure Marketplace, which gives our partners great exposure to cloud customers around the globe. Azure Marketplace offers world-class quality experiences from global trusted partners ..."
+publishedDateTime: 2021-07-12T13:52:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/d2iq-now-available-in-the-microsoft-azure-marketplace/article_dbde63bb-05bd-53c2-baf5-dd6278583d67.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/d2iq-now-available-in-the-microsoft-azure-marketplace/article_dbde63bb-05bd-53c2-baf5-dd6278583d67.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: IBS
-  domain: ibsintelligence.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/11/CIBC.jpg"
-    width: 300
-    height: 300
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/67/b678624d-0a50-5874-92e0-1da798ed82c0/60ec405beb668.image.jpg?resize=630%2C630"
+    width: 630
+    height: 630
     isCached: true
 
 related:
@@ -72,19 +72,19 @@ related:
         width: 450
         height: 578
         isCached: true
-  - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-    excerpt: "\"We're pleased to welcome the D2iQ Kubernetes Platform to the Microsoft Azure Marketplace, which gives our partners great exposure to cloud customers around the globe. Azure Marketplace offers world-class quality experiences from global trusted partners ..."
-    publishedDateTime: 2021-07-12T13:52:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/d2iq-now-available-in-the-microsoft-azure-marketplace/article_dbde63bb-05bd-53c2-baf5-dd6278583d67.html"
+  - title: "CIBC formalizes Microsoft Azure as its primary cloud platform"
+    excerpt: "Canadian Imperial Bank of Commerce and Microsoft announced a strategic relationship formalizing Microsoft Azure as CIBC’s primary cloud platform"
+    publishedDateTime: 2021-07-12T06:22:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/cibc-formalizes-microsoft-azure-as-its-primary-cloud-platform/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: IBS
+      domain: ibsintelligence.com
     quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/67/b678624d-0a50-5874-92e0-1da798ed82c0/60ec405beb668.image.jpg?resize=630%2C630"
-        width: 630
-        height: 630
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/11/CIBC.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Cloud 9 Infosystems Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Chicago IL 6 15 21 Cloud 9 Infosystems today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and expertise in migrating"
@@ -139,6 +139,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "WVdK6RHK0GlUbY9X1+JkaSxw0sTqw9EUDZPvqdhcDElF3nyFTW2zp4wrfiXMcqRCe4yQoOOaxxUdhxxRkqFPj72Ey5FPkmDAflasi5nvLF8ygnW+xY0ly9HtVNwnMUhR1Aon/Ggf3YX0rRJZWUaZ8yTndGlCzXdV1wxbYqZdrnvRZHDdogB1y1yc0aV7iTHE8vFvsgvrjdK5zr6w9zMyQswMQuh0o55TJTRHRrXZrNM2g5Zz03+a4zWRryOQvjSlyjmSPvrfLuJ5a9849SI5d+8R2a5mT/4rr5kR/oQM7qYEORDP3PIekaZ5MMZ56Mudr2QGCNDG+qIOuqa/BPNil/BIHuNUoFnRrMTSW01vx0pEf5McHYGx8GlBswuKyrY7u9mVhLcy37dQudw+tZDjtfwKQ6g7j4eA9kgZv4jRCgqPRX3Kv9XLG9sVRxHYnp6zOW4z2JoaQcsw9oCvxbpXnV/gOmqL7NTDxQHxhqP5hl4zyYi5P8/9XXnMAiwst/fnuywuSI6c//URKCSegzDizw==;jkl5KD/J7Arr3G8kAn3TEg=="
+secured: "vT8kfqK3qkt0/2CymM47KZLjVLExbTfhxAutBlvbdu9wgCzR2ZQfrArNlyTnOKbSvuzWXDf5EaCWlbdhgevmmWHdr6fETFg9f3/tYwlboBC8DLdesUSM3D3+uqywmtyf5Ksxgk7oULhR2eiugRdZ/8KbGlscGDer8pdwgMJcEtC8ReDNmZEn92DkKa5fS4YkRMxonBVr5ubkRur8e/73YNlIsjEluCrAyUE4XCgrLr/gLTCKFFpFzKQ4S13Z+znoIldqM7T2YDHViEyPwaPybcjr1x1wiGFrNJMUju19g0gSe+rdzpCwu5QdiUVMj6q0r3x4PrJGW3tZckH2jbXL6D8jK0d5ZSaEiZE5KJgbelo=;bQjggfYuAWsrlVSdWpOBoA=="
 ---
 

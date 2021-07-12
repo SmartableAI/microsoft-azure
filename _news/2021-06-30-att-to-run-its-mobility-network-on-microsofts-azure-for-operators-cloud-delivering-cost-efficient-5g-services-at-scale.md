@@ -1,26 +1,26 @@
 ---
 category: news
-title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-excerpt: "This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core, the software at the ..."
-publishedDateTime: 2021-06-30T15:05:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_ba2c51da-416c-5278-8a49-af7a0d951164.html"
+title: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+excerpt: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud."
+publishedDateTime: 2021-06-30T15:14:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-86842df143e2d4a16f1a97b01b7f5657"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-86842df143e2d4a16f1a97b01b7f5657"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/0e/80e2512e-a07d-5ce0-b6fc-c899b13ee098/60dc83de8af27.image.jpg?resize=944%2C630"
-    width: 944
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -478,6 +478,6 @@ related:
         height: 768
         isCached: true
 
-secured: "Cez7IlAYv9cf7feg2Lq+AmDBDj5y+B0xWIHDosCHG5jct+NxNMWDUVvWpDynsNXjpQsWEyrbWtZkmF3eS2dF7VHS1GaUf6kVWjOgp7/hxoaqKyllYp6L5G0CWoOfizhGUgJdo9EABJaleo8k4WQm+8G/X9C8r/OE8NZIsBGyB/aw8VtMh8sI9MuuvZLnnCdInlGyuf4JFqac4D/XfzbltLSlrcdMEz7XuwBUH/mtvzd57uvj7bM1JmcyHb+R/gR9HAhLx2pHWq90IwKyIHXByAsciFj1QrbTl+gIpcxwORGbQ0tNlZvQdkGhpa1Q97Q1VkrSLa4ibqm957v1mTuL7MerZ3wbOhNi0b3NUeRTKRA=;9xCFwczZcgzN6VLW85IrFw=="
+secured: "MKC4FaWF3rBVoj6PckW4Lw7ZGPhNTnipjmwvPxKwGRcaBnqTO4O/T+/E07lCYGWoIPxo023an4uf/FWvBWfy2fOJkUSFtPioXOcSmIWF9tXX09DxizH7S8NweOwJWq7he7MvUhu7H+TUfvbViG2kQVuRcNRwg1nIoLV0KiRwh1Su2S9QAjmv3Kz8mriNQnZhXS3JU/WQCHhBMxCIiV6qMdymr3zjxXUr1XJWhnfbcXesJ8dAzCXvIXUQODgHvWuFwXXwwXkfdlAWhE45ju1sz9AQg6c7NKWmKDAjbh+LpKm2z71fdprplOFkJSn4c5QH8L8IhaKQv8M7dKbyaGIZXSz0h6y7gVEAaVoqs72yl+w=;lQBECagb0HUEQnn2Q7YNrQ=="
 ---
 

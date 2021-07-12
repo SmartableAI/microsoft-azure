@@ -80,6 +80,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
+    excerpt: "\"We're pleased to welcome the D2iQ Kubernetes Platform to the Microsoft Azure Marketplace, which gives our partners great exposure to cloud customers around the globe. Azure Marketplace offers world-class quality experiences from global trusted partners ..."
+    publishedDateTime: 2021-07-12T13:52:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/d2iq-now-available-in-the-microsoft-azure-marketplace/article_dbde63bb-05bd-53c2-baf5-dd6278583d67.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/67/b678624d-0a50-5874-92e0-1da798ed82c0/60ec405beb668.image.jpg?resize=630%2C630"
+        width: 630
+        height: 630
+        isCached: true
   - title: "Cloud 9 Infosystems Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Chicago IL 6 15 21 Cloud 9 Infosystems today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization a validation of a solution partner s deep knowledge extensive experience and expertise in migrating"
     publishedDateTime: 2021-06-28T13:42:00Z
