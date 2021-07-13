@@ -4,6 +4,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-container-instances-sidecar.md",
+      "title": "Secure your apps by using the sidecar configuration in Azure Container Instances",
+      "excerpt": "Roll out Azure Container Instances into an Azure Virtual Network. You will evolve a basic container group into a more sophisticated configuration leveraging sidecar and initialization containers, as well as use private link to access other Azure PaaS resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-container-instances-sidecar/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-apps-azure-container-instances-sidecar/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 7,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-cna-orchestrate-containers.md",
       "title": "Orchestrate containers for cloud-native apps with AKS",
       "excerpt": "Cloud-native applications are modular in nature, with components separated and self-contained. Components can be encapsulated in containers, such as those created with Docker, or published from an Azure service. Dynamic scaling can then be managed by Kubernetes. We'll learn to decide when Kubernetes is right for our Cloud Native app, and we'll see how to use it as a first building block of our Cloud Native architecture.",
@@ -98,8 +141,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-cognitive-services/",
       "length": "PT44M",
       "ratings": {
-        "count": 70,
-        "average": 4.6857142
+        "count": 71,
+        "average": 4.6901407
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -493,8 +536,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/investigate-container-for-use-cognitive-services/",
       "length": "PT46M",
       "ratings": {
-        "count": 44,
-        "average": 4.7045455
+        "count": 45,
+        "average": 4.711111
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -841,8 +884,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-containers-language-understanding-intelligent-service-apps/",
       "length": "PT18M",
       "ratings": {
-        "count": 440,
-        "average": 4.765909
+        "count": 441,
+        "average": 4.7641726
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -942,45 +985,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/TftaxqNFsZY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday.md",
-      "title": "Azure Arc enabled Kubernetes with GitOps | Azure Friday",
-      "excerpt": "Lior Kamrat shows Scott Hanselman how Azure Arc enabled Kubernetes provides an easy way to apply GitOps configurations on Kubernetes clusters deployed outside of Azure, which enables you to control and govern those clusters and applications using GitHub repositories as the \"single source of truth.\"",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=4fT47TKprFQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fT47TKprFQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-12-04T10:44:01-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4fT47TKprFQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

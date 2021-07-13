@@ -434,8 +434,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 1044,
-            "average": 4.552682
+            "count": 1045,
+            "average": 4.55311
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -478,8 +478,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 859,
-            "average": 4.6461
+            "count": 860,
+            "average": 4.6465116
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -522,8 +522,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 562,
-            "average": 4.5658364
+            "count": 564,
+            "average": 4.5673757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -566,8 +566,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
           "length": "PT46M",
           "ratings": {
-            "count": 448,
-            "average": 4.651786
+            "count": 449,
+            "average": 4.652561
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1106,8 +1106,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6792,
-            "average": 4.642815
+            "count": 6793,
+            "average": 4.6428676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1143,8 +1143,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
           "length": "PT48M",
           "ratings": {
-            "count": 3607,
-            "average": 4.685889
+            "count": 3608,
+            "average": 4.6859756
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1231,220 +1231,6 @@
         "Azure",
         "Compute",
         "Web",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-deploy-and-manage-resources-in-azure-by-using-bicep.md",
-      "title": "Deploy and manage resources in Azure by using Bicep",
-      "excerpt": "Learn how Bicep enables you to manage both basic and complex infrastructure deployments on Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-and-manage-resources-in-azure-by-using-bicep/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-and-manage-resources-in-azure-by-using-bicep/",
-      "length": "PT4H37M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-infrastructure-code-using-bicep.md",
-          "title": "Introduction to infrastructure as code using Bicep",
-          "excerpt": "Describe the benefits of using infrastructure as code, Azure Resource Manager, and Bicep to quickly and confidently scale your cloud deployments.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-infrastructure-code-using-bicep/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-infrastructure-as-code-using-bicep/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 128,
-            "average": 4.78125
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/bicep/introduction-infrastructure-code-using-bicep-social.png",
-              "width": 1280,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-deploy-azure-resources-bicep.md",
-          "title": "Deploy Azure resources by using Bicep templates",
-          "excerpt": "Learn how to create Bicep templates and create reusable infrastructure as code.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-azure-resources-bicep/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-resources-by-using-bicep-templates/",
-          "length": "PT47M",
-          "ratings": {
-            "count": 49,
-            "average": 4.877551
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/bicep/deploy-azure-resources-by-using-bicep-templates-social.png",
-              "width": 1280,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-build-reusable-bicep-templates-parameters.md",
-          "title": "Build reusable Bicep templates by using parameters",
-          "excerpt": "Control and apply parameters to a Bicep template while protecting sensitive inputs.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-reusable-bicep-templates-parameters/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-reusable-bicep-templates-parameters/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 21,
-            "average": 4.952381
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 130,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/bicep/build-reusable-bicep-templates-parameters-social.png",
-              "width": 1280,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-bicep-conditions-loops.md",
-          "title": "Build flexible Bicep templates by using conditions and loops",
-          "excerpt": "Build advanced Bicep templates by using conditions to conditionally deploy resources and using loops to deploy multiple instances of resources.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-bicep-conditions-loops/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-flexible-bicep-templates-conditions-loops/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 13,
-            "average": 4.8461537
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/bicep/bicep-conditions-loops-social.png",
-              "width": 1280,
-              "height": 640,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/bicep/introduction-infrastructure-code-using-bicep-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Management Tools"
       ]
     },
@@ -1705,8 +1491,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 7516,
-            "average": 4.722991
+            "count": 7518,
+            "average": 4.722666
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2125,8 +1911,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 1044,
-            "average": 4.552682
+            "count": 1045,
+            "average": 4.55311
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2169,8 +1955,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 859,
-            "average": 4.6461
+            "count": 860,
+            "average": 4.6465116
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2213,8 +1999,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 562,
-            "average": 4.5658364
+            "count": 564,
+            "average": 4.5673757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2257,8 +2043,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
           "length": "PT46M",
           "ratings": {
-            "count": 448,
-            "average": 4.651786
+            "count": 449,
+            "average": 4.652561
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2344,8 +2130,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-synapse-analytics/",
           "length": "PT26M",
           "ratings": {
-            "count": 305,
-            "average": 4.790164
+            "count": 306,
+            "average": 4.7908497
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6144,6 +5930,216 @@
         "Azure",
         "Analytics",
         "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-build-javascript-applications-with-nodejs.md",
+      "title": "Build JavaScript applications with Node.js",
+      "excerpt": "Node.js provides a large set of built-in APIs that help you build various types of applications, command-line apps, web apps, and more. It also offers testing and debugging capabilities and a rich ecosystem of third-party packages that you can easily add to your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-javascript-applications-with-nodejs/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-javascript-applications-with-nodejs/",
+      "length": "PT2H44M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-nodejs.md",
+          "title": "Introduction to Node.js",
+          "excerpt": "Learn about Node.js: what it is, how it works, and when to use it. Create Node.js applications using JavaScript/TypeScript using Visual Studio Code.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-nodejs/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/",
+          "length": "PT20M",
+          "ratings": {
+            "count": 942,
+            "average": 4.7908707
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-nodejs-social.png",
+              "width": 642,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-nodejs-project-dependencies.md",
+          "title": "Create a new Node.js project and work with dependencies",
+          "excerpt": "Create a Node.js project and learn to add packages and manage package dependencies in your project. Use the NPM CLI and registry to add libraries and tools to your JavaScript/TypeScript applications using Visual Studio Code.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-nodejs-project-dependencies/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-nodejs-project-dependencies/",
+          "length": "PT25M",
+          "ratings": {
+            "count": 444,
+            "average": 4.7635136
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-nodejs-project-dependencies-social.png",
+              "width": 642,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-debug-nodejs.md",
+          "title": "Interactively debug Node.js apps with the built-in and Visual Studio Code debuggers",
+          "excerpt": "Learn how to efficiently debug your Node.js app by using Visual Studio Code to fix your bugs quickly. Use the interactive debugger within Visual Studio Code to analyze and fix your JavaScript/TypeScript applications.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-debug-nodejs/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/debug-nodejs/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 260,
+            "average": 4.730769
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/debug-nodejs-social.png",
+              "width": 642,
+              "height": 322,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Developer tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-nodejs-files.md",
+          "title": "Work with files and directories in a Node.js app",
+          "excerpt": "Build an app that manipulates files and directories with Node.js and JavaScript.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-nodejs-files/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/nodejs-files/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 195,
+            "average": 4.574359
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/nodejs-files-social.png",
+              "width": 642,
+              "height": 322,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-nodejs-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
