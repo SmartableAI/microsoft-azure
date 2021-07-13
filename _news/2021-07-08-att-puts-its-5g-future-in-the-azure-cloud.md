@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/moorinsights/2021/07/07/att-puts-its-
 webUrl: "https://www.forbes.com/sites/moorinsights/2021/07/07/att-puts-its-5g-future-in-the-azure-cloud/"
 type: article
 quality: 77
-heat: 99
+heat: 97
 published: true
 
 provider:

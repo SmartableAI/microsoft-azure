@@ -2,6 +2,52 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-31-general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions.md",
+      "title": "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions",
+      "excerpt": "Key Vault references in App Service and Azure Functions now support accessing vaults with network access controls from Windows apps with virtual network integrations.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1199,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T09:00:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Networking",
+        "Security"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-deploy-key-design-principles-with-enterprise-scale-architecture.md",
       "title": "Deploy key design principles with enterprise-scale architecture",
       "excerpt": "When embarking on any project or new implementation, there are always key design and decision points to be discussed and fully understood. Deploying an enterprise-scale landing zone and subsequent resources to the cloud is no different. The enterprise-scale architecture prescribed in this guidance is",
@@ -1168,50 +1214,6 @@
       "topics": [
         "Azure",
         "Compute"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-azure-sql-auditing-to-log-analytics-and-event-hub-are-now-generally-available.md",
-      "title": "Azure SQL auditing to Log Analytics and Event Hub are now generally available",
-      "excerpt": "Auditing for Azure SQL Database and Azure Synapse Analytics to Log Analytics and Event Hub are now generally available, allowing the centralization of SQL audit logs into a single go-to-location.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-to-log-analytics-and-event-hub-are-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-to-log-analytics-and-event-hub-are-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 318,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T09:00:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases",
-        "Analytics"
       ]
     }
   ],
