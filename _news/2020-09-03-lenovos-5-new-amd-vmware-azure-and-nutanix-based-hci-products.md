@@ -40,6 +40,15 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Pensa Systems Now Available on Microsoft Azure"
+    excerpt: "Pensa Systems, a leading innovator in the automated use of computer vision and artificial intelligence for retail in-store data and analytics, announced today that its advanced shelf intelligence data offering has become a Microsoft Preferred Solution and is now available on Microsoft Azure."
+    publishedDateTime: 2021-07-13T11:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407404.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "W3+ypEaxW4L1P8hUmeoNMbHU6IvnV6Q8hR043UML5kR0yZjZdVXthj32uophzohgEsT2cF23BHImk4BlbQkMa9X2+BhX31biVzWNL02GG02Z9HF2CfkA22RgX5/4BNlnKC5sL72L0h67mUD00wNTSsoRLNP51szxB17ESkgBg1tCIB5KNypA1r9+YYt0uM7JGhlIIGzC8AbiYBakK6Ow8MFhNdT5WUb9nmzN5hjsji9f2VRzj02gLVOpTy6HRf822Etni+CqYcL4cE7JLIWrxbA92oADs9yqVI66BxTwSiNNTF3LQtuxa8PHdWKZJ5/+MAVCFh38Mllfr8meYmmT5OhLzUMOB727JfVn6ME34hw=;YTZO1CPYKtuQAJyFgG/LTA=="
 ---

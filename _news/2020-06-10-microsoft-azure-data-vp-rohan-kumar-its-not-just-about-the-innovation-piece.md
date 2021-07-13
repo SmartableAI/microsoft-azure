@@ -105,6 +105,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Cornerstone.IT Now Available in the Microsoft Azure Marketplace"
+    excerpt: "“We’re pleased to welcome Cornerstone.IT Remote Desktop Pro to the Microsoft Azure Marketplace, which gives our partners great exposure to cloud customers around the globe. Azure Marketplace offers world-class quality experiences from global trusted ..."
+    publishedDateTime: 2021-07-13T12:45:00Z
+    webUrl: "https://www.law.com/legalnewswire/news.php?id=2889960"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "InfiniteIO Announces Integration with Microsoft Azure to Reduce Cloud Latency and Storage Costs"
     excerpt: "Metadata management innovator InfiniteIO today announced new support for Microsoft Azure to dramatically reduce the cost of primary file storage and minimize cloud latency to help enterprises lower capital and operational expenses and increase application performance."
     publishedDateTime: 2020-06-16T07:20:00Z

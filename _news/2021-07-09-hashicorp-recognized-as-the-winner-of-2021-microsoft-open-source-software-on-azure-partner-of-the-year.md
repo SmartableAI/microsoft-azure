@@ -18,6 +18,15 @@ topics:
   - Azure
 
 related:
+  - title: "TeraGo Expands its Microsoft Portfolio with Managed Azure and Disaster Recovery Solutions"
+    excerpt: "CNW/ - TeraGo Inc. (\" TeraGo \" or the \" Company \") (TSX: TGO) (  ), announced today that it has expanded its Microsoft product portfolio with the addition of Microsoft 365, Managed Microsoft Azure, and Managed Disaster Recovery."
+    publishedDateTime: 2021-07-13T13:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/terago-expands-its-microsoft-portfolio-with-managed-azure-and-disaster-recovery-solutions-1030601302"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
     publishedDateTime: 2021-07-09T16:02:00Z
@@ -44,26 +53,21 @@ related:
   - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
     excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
     publishedDateTime: 2021-07-13T07:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
-    excerpt: "Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason to upgrade VMs soon. New VMs featuring 3rd Generation Intel Xeon Scalable processors are currently in preview,"
-    publishedDateTime: 2021-07-07T07:10:00Z
-    webUrl: "https://www.pr.com/press-release/826372"
+  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
+    excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customers VANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX ..."
+    publishedDateTime: 2021-07-13T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210713005336/en/Sierra-Wireless-Partners-with-Microsoft-to-Enable-Advanced-Asset-Tracking-Capabilities-via-Azure-IoT-Central"
     type: article
     provider:
-      name: PR
-      domain: pr.com
-    quality: 1
-    images:
-      - url: "https://img.pr.com/release/2107/416814/pressrelease_416814_1625584870.png"
-        width: 500
-        height: 647
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
 
 secured: "wQVn04X7SygsvTL3q0FWjjUMb8qZ805gX65hPJ0eVa9Mdwr9btFto7mkZQ21EYi+LwJzf0j+aKj3kkgEgvY5Klj8xwoYpva4kRmdkbvoQPztOGxaCi5nJN23nnCeTlHhxWxo3/ujLm+2p6St3ih0MUuBVm2tiEYRWAfAN34Drr45pmwunlUpodVBR5Bn43BSKsxs6E7VSiozddE/5Muo0+2Ln6L5uQTqa1kndEQpd4dYCvxoXNgz6OUYuyW3USXEffEXZGbgVHFRn5PuohpkAkjs3dNi/5ZA7DclCyNhXfelH0t1IYvhh3MpnDNOxAj50t72GE5/N43giITjIU0BUO97TAb+NA57k7sqqA/Q3+8=;+DfoGcQ74zEb2HaQRDMy/g=="
 ---

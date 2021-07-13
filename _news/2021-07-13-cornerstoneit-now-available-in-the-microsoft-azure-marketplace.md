@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Datametica now available in the Microsoft Azure Marketplace"
-excerpt: "Datametica today announced Pelican's availability on the Microsoft Azure Marketplace. Datametica's customers can now take advantage of"
-publishedDateTime: 2021-05-12T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-301289535.html"
-webUrl: "https://www.prnewswire.com/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-301289535.html"
+title: "Cornerstone.IT Now Available in the Microsoft Azure Marketplace"
+excerpt: "“We’re pleased to welcome Cornerstone.IT Remote Desktop Pro to the Microsoft Azure Marketplace, which gives our partners great exposure to cloud customers around the globe. Azure Marketplace offers world-class quality experiences from global trusted ..."
+publishedDateTime: 2021-07-13T12:45:00Z
+originalUrl: "https://www.law.com/legalnewswire/news.php?id=2889960"
+webUrl: "https://www.law.com/legalnewswire/news.php?id=2889960"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Law
+  domain: law.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
+    width: 256
+    height: 256
     isCached: true
 
 related:
@@ -91,19 +91,19 @@ related:
         width: 1000
         height: 523
         isCached: true
-  - title: "Cornerstone.IT Now Available in the Microsoft Azure Marketplace"
-    excerpt: "“We’re pleased to welcome Cornerstone.IT Remote Desktop Pro to the Microsoft Azure Marketplace, which gives our partners great exposure to cloud customers around the globe. Azure Marketplace offers world-class quality experiences from global trusted ..."
-    publishedDateTime: 2021-07-13T12:45:00Z
-    webUrl: "https://www.law.com/legalnewswire/news.php?id=2889960"
+  - title: "Datametica now available in the Microsoft Azure Marketplace"
+    excerpt: "Datametica today announced Pelican's availability on the Microsoft Azure Marketplace. Datametica's customers can now take advantage of"
+    publishedDateTime: 2021-05-12T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-301289535.html"
     type: article
     provider:
-      name: Law
-      domain: law.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
-        width: 256
-        height: 256
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Microsoft Azure Data VP Rohan Kumar: ‘It's Not Just About The Innovation Piece’"
     excerpt: "Amid the coronavirus pandemic, discussions about the cloud and digital transformation have turned a lot more toward value creation and total cost of ownership, Kumar says."
@@ -219,6 +219,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "zq+Ahsno5D9h2atqRXymON0JR6oTI1uPMxgFsuUOZdnEF8kthGDqhZybhaAEvE4f6NNjWMDodTnhJcRJZ5tKn63jBAT12tmNslNcQyxXw8QZVwZyjgNjQWKyAVwpJ+3TGljR/aGv6m5i5PzDu4y8AcrC6vKwLvshHVKtmqimnmMvJC+XzE2slSblov+DM37gTfugTfDXBkE9o2R1Jyzf+UzEWLaQfY39qIeUQBxppHLuCnjXYa8gGIdVXlwiT8vwunG8qJlrEwX6t2eomR+Oft59ynh3Jf211YpJXF8ZRAN4dIRHa096QfR7HqZi5mzFKQRV4a7DrSD1/x4jRm8ykRB9Fh00qzwyhONu6qqtRvo=;TiRd9dtXfmZugFxXgG9ZAw=="
+secured: "5qrKwp4od9bfv4EXAVbHhZJiQ0H23FsmhMQnx7WQc+9DFwWWxspT1BZTph95LBJVomf8NvGbUDvAJv6drqoKTgwgLITzFHkcfdC5Vj5zJME8RXCVoblcIrlkgsLy9QAwvdvOFxlxwqOFX/ldnW2wIcJFLu3YWryNwUB9Ui6CAEjF+wFiOPolI1GFLlmuIieKUeRwubYsqBCOyUgno+kDCuEZmHFKX+/TaxRAFRbySHUb9fDdyVEeGYbaoRmzAhEbIwb0IfAzauoCFXqNlXIH9SuE4SknSXTs3SISnAji787t3gJnhx+eB3+kpuNWl5qE4YxkYN5wOzak9ksGttBQL498T3i1HdRHMG+4NX7ixJo=;Hw8tdDnEd+CvSIICMaCCRw=="
 ---
 

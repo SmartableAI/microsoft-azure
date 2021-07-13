@@ -89,6 +89,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
+  - title: "TIBCO Recognized as a Finalist in the 2021 Microsoft Azure Partner of the Year Awards"
+    excerpt: "\"Our continued focus on developing technologies that deliver a cloud-first experience aligns perfectly to our close collaboration with Microsoft and the Azure cloud computing platform,\" said Tony Beller,"
+    publishedDateTime: 2021-07-13T12:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-tibco-recognized-as-finalist-the-2021-microsoft-azure-/2021/07/13/9407556.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "Cu/M/Dhk288tlfqbml2IncDPzY8/AMOMjZQBmyAWKxpRlpbs7f0FgH+3ae6P3PTSewHP6diIQfAzmgBtGXWHm9IBSEP1OVuYX7H8l3FW1RY4tlEugk4wXYnMohEx0ucGCFA7IxndUGkPCkYaeTuBo2y8xglrMgaC30dIWKj4SK+HZcMnIXyYgDQtItdOxJmcsIOyoUjDk0KUXRsUUfaLAwUw3O12B/XcFXPp0NC81eI6RX5q8no1StBTNZYRK72JUUSfqwUBQi7zr6LIAAJUb0zXVbDBsPSapH+KQCRLTpnMQCyLo/5ruvvO4b+/u7xp6Z5Q098lNU+F45a3vXxq+yIByTQhe9BZcqBJg8wR72B1SZplvGYQjJQhKS3eA8TwGzJVh/mGgZ1FZimm98o0oCXC/P93srEMUx54uxPLT9DQ+AlFhANtcpt3qkleTwnH3Ux4W86F8aoiwg7QAmyBFxklnTcU6jXxtwnhDGcKPOjsGUKR8ib/spInXRat8/eRIN1HLW9kD0Pzi3RpQpVncA==;+V2oiWRoBZ5kTC1s1lM+7A=="
 ---

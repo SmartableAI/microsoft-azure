@@ -88,6 +88,15 @@ related:
         width: 2560
         height: 1340
         isCached: true
+  - title: "TIBCO Recognized as a Finalist in the 2021 Microsoft Azure Partner of the Year Awards"
+    excerpt: "\"Our continued focus on developing technologies that deliver a cloud-first experience aligns perfectly to our close collaboration with Microsoft and the Azure cloud computing platform,\" said Tony Beller,"
+    publishedDateTime: 2021-07-13T12:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-tibco-recognized-as-finalist-the-2021-microsoft-azure-/2021/07/13/9407556.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "rGhjhCxaACYEqCh/5ZSsGg/j1oPJ8j0/IheII56JjeTD+yKXMuXxgTzQ5V7uGXqs8PFkMm8kc1aBLZcB26jd6US2oky/lWQ+loUwPRm3KtL8IONULnwR5ikAMj/UiP0H7MtBdMXj5frxRREUxVzL9k7KnSLidrtgcXTxOlrWn3y5wDF+0LwP/Rcsa6zr1DhtT1uaB99HXZhwExIkgvQ70EQ5UoAh268o/BLfwGlK0YFjRv0LgDf68PV2ATbNK0CATTHRbAlFlaMMXfVFClCTdRLnTt51m4JqxwK/zrIGnyWqWgylshU3a2KTeGtMKe4PyX4/rbEIT/WCRyA+YKuR/Q==;kMCo7sOFFeVVfpUSjxOxww=="
 ---

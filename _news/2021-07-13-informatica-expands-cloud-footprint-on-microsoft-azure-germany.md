@@ -3,8 +3,8 @@ category: news
 title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
 excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
 publishedDateTime: 2021-07-13T07:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
 type: article
 quality: 17
 heat: -1
@@ -18,6 +18,15 @@ topics:
   - Azure
 
 related:
+  - title: "TeraGo Expands its Microsoft Portfolio with Managed Azure and Disaster Recovery Solutions"
+    excerpt: "CNW/ - TeraGo Inc. (\" TeraGo \" or the \" Company \") (TSX: TGO) (  ), announced today that it has expanded its Microsoft product portfolio with the addition of Microsoft 365, Managed Microsoft Azure, and Managed Disaster Recovery."
+    publishedDateTime: 2021-07-13T13:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/terago-expands-its-microsoft-portfolio-with-managed-azure-and-disaster-recovery-solutions-1030601302"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
     publishedDateTime: 2021-07-09T16:02:00Z
@@ -41,20 +50,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
-  - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
-    excerpt: "Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason to upgrade VMs soon. New VMs featuring 3rd Generation Intel Xeon Scalable processors are currently in preview,"
-    publishedDateTime: 2021-07-07T07:10:00Z
-    webUrl: "https://www.pr.com/press-release/826372"
+  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
+    excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customers VANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX ..."
+    publishedDateTime: 2021-07-13T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210713005336/en/Sierra-Wireless-Partners-with-Microsoft-to-Enable-Advanced-Asset-Tracking-Capabilities-via-Azure-IoT-Central"
     type: article
     provider:
-      name: PR
-      domain: pr.com
-    quality: 1
-    images:
-      - url: "https://img.pr.com/release/2107/416814/pressrelease_416814_1625584870.png"
-        width: 500
-        height: 647
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
   - title: "HashiCorp Recognized as the Winner of 2021 Microsoft Open Source Software on Azure Partner of the Year"
     excerpt: "“Being recognized as the winner of the 2021 Microsoft OSS on Azure Partner of the Year award is a reflection of the continued partnership and deep collaboration between HashiCorp and Microsoft ..."
     publishedDateTime: 2021-07-08T19:22:00Z
@@ -65,6 +69,6 @@ related:
       domain: morningstar.com
     quality: 1
 
-secured: "jJV3FHmAw3wv2PknV53Q6+kxdXvqKZvgzd7kKaM8f+qKQh9FQ4vbHZpfDNzk5GARTROW6SEOeJqdmlQevvx3/cb2hqumwKFbR8SyURkxeZh+oxhPO9ahoMxdYspO/hCimUCJPqURB6bWS3jasHKSqgWHFw1bCpRvSOlaBIlj81AXa+DlRoziSRHCrAyNMM2CTtL4KXAy7BMqc6GvItYOaB0Ng3uBz6bLGbVvEJh91dcJakjG2997VSvUdNa0G/FCWY9jZBZwy6BLjm4APdQBuHnr4DuoT34YEAskX1OdMg95aIfXqx9Qx0rzYkI+ioihvzlM+7w0N2G/OHcv5xCx+b9j5Y7Mr+Lf74zcV6bK0AwUk+w+eIanuyOwWGwoeQR17nYUes++W0DGp7lHEmhIYlwD1ik3pP//GJd1RxV/dsoDMRMtIh2kus6+imzS1x+fq5qjbn/FFIBExD7no90YGxerGJWkq8HkKIjEAPk3n/yNriN71IZIPTtVoXD0Z3FasYMpL22izU8LRbHafBZmwg==;3aSNb5Gc7m0MTWYXVk/Dpg=="
+secured: "xyWVruIUmHh+rsSjjO47ptfqigCRCczzHJmrucaUkuIkbuXfhDh0rLK6gg+AB40r/42RGGJxm61jwgadfrzrqX+isXsaR4x2g5dTAVrpUkdG5VvPRXu167uO076uMae5iEYBuEVnCPeWWGSAv/Bxui2JjQQ/Eo/YxO5QvDtVtG8jA+PjAGSQiEf1qdnyUXz7xE6bbBu9nkOKSyV8bY1C80QXb7v5vZsWW6VdDAyxu0pt8TPNgfpQH3qCCU6BiOAEe7+gHUI7Dk+74soajJbd/FPM/yV7lPJUaMovvrCgafGTjN8OLgxnWnBme4XIic92Kvd1/KNo/6GX5szY48iJPtf5MuTaDJcnuzRxgpZsbstIx7lMTLN9fwzLsHs/qSX4ROEpGMFkbG55Ww1udaOgSCPFYm/hU95qtM60S9J4MVsZow23OJEFlPcivkS5A+j1Q6Mmy5EgaI+UEI4GXeFZdA5e3rda5ieeRJylFESWemJy7mscu69zbMQSOIxrvDS1oe24BaGtThGpRFusa2s7lw==;RyTYHVOzpJkv07WFDbEGPg=="
 ---
 

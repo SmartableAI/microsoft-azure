@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/axilion-smart-mobility-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-1029393925"
 type: article
 quality: 53
-heat: 153
+heat: 173
 published: true
 
 provider:
@@ -92,6 +92,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
+  - title: "TIBCO Recognized as a Finalist in the 2021 Microsoft Azure Partner of the Year Awards"
+    excerpt: "\"Our continued focus on developing technologies that deliver a cloud-first experience aligns perfectly to our close collaboration with Microsoft and the Azure cloud computing platform,\" said Tony Beller,"
+    publishedDateTime: 2021-07-13T12:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-tibco-recognized-as-finalist-the-2021-microsoft-azure-/2021/07/13/9407556.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "HipYOBiFF0tIsMb7G51yg+5WkxAFZdx+4snf+JqiAtpCXveDiM2GdAr1rehEL5j0IJ2eOAUmYu8p1TRAQi0HBWujf/MCq7Q6CbhC+K+K1OdiQL+s94rqDOhR4KWewUBZIJLh3dbrtuMhALhQdQRW0sSuihdRFUSdX+1tvUXmE9bh34sXU3Ha3rrz8Z3XtAJ1gQ4NUBD5V0gCUVlzta70x5t9/7eAU3q46xmdZczPdGbXN9pUfnYlnIjlHBSkwtBgMZmBB1geBZORO7Ei2rMY12cwmLNmrx56qhq6NBsqoyMR6L3KD5YOby2YhCSAWn3M7+kngLflMfTAxMGDtxvPAQ==;y5DITu3KoBqizXgBBaXA3g=="
 ---

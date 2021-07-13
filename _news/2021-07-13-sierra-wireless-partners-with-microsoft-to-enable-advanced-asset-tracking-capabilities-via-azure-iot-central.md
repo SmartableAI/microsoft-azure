@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
-excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
-publishedDateTime: 2021-07-09T16:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c"
-webUrl: "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c"
+title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
+excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customers VANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX ..."
+publishedDateTime: 2021-07-13T13:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210713005336/en/Sierra-Wireless-Partners-with-Microsoft-to-Enable-Advanced-Asset-Tracking-Capabilities-via-Azure-IoT-Central"
+webUrl: "https://www.businesswire.com/news/home/20210713005336/en/Sierra-Wireless-Partners-with-Microsoft-to-Enable-Advanced-Asset-Tracking-Capabilities-via-Azure-IoT-Central"
 type: article
-quality: 35
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-  - Migration
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - IoT
 
 related:
   - title: "TeraGo Expands its Microsoft Portfolio with Managed Azure and Disaster Recovery Solutions"
@@ -34,6 +28,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
+    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
+    publishedDateTime: 2021-07-09T16:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Sopra Steria earns Microsoft Azure Expert MSP certification"
     excerpt: "IT services group Sopra Steria has been awarded Microsoft Azure Expert MSP (Managed Service Provider) status. This partner programme has been developed to ensure that end-customers and Microsoft's teams can connect with the most capable Azure managed service providers."
     publishedDateTime: 2021-07-12T12:44:00Z
@@ -52,15 +60,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
-    excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customers VANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX ..."
-    publishedDateTime: 2021-07-13T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210713005336/en/Sierra-Wireless-Partners-with-Microsoft-to-Enable-Advanced-Asset-Tracking-Capabilities-via-Azure-IoT-Central"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 15
   - title: "HashiCorp Recognized as the Winner of 2021 Microsoft Open Source Software on Azure Partner of the Year"
     excerpt: "“Being recognized as the winner of the 2021 Microsoft OSS on Azure Partner of the Year award is a reflection of the continued partnership and deep collaboration between HashiCorp and Microsoft ..."
     publishedDateTime: 2021-07-08T19:22:00Z
@@ -71,6 +70,6 @@ related:
       domain: morningstar.com
     quality: 1
 
-secured: "E+Ui72BYaBwCR6O9xQoxDuQyu0oiHDF/9iK1erqxnK+1LR+X/PiGrBzs5Ot6tBRYUds7lwY6Nt5gI/B6EISQ2zlSoX2c6VpDAMBUFMWp8+lG+2EyaLhW72gIrnlG56USHlWvJuqtp1BFVFz6/N5t6QSzT+rs0LSAuT04BmnNM3YoHz3Ern0nISRelWIW9t7MHe1yCp+6h7/HRIDCRJy4XMjbTVWSKa9aTh5kp/C4qrlh65PNlNL+bmYMXlzST+3EGAhH9TeLbp5viC2RcgnKe6y5AzYyyn8Lmeig3VHmpz2TsVTwbojWmOdtAgM6ZAuuQmCjto5hW304Hh73d2yxKU/1M9Gv/JnGwr25BP5qBTc=;9HzD21V/eJ74hNUCNbRJKg=="
+secured: "2zTcXTGvKR5o++vMdIuYkHX3iA9ADV5lA3+EWKI5QxlYitu5K5K8w5AzWhO1KfgG1S3xg5bBHzaJVsQoZxwEvFglPod2nFykQHxw6XP7ybUmofb0YSrdqhlgfM0PEAuYpegHoDMNgz7kUB/KFAWnXfuvGPYJYecukNMTZky7dZe6qwfokE7bMSMiqJ8TBoW9qkY2X+VuQGBrWaZwgMJEJWGNTykm8G0UWwxzdYzZLuxdlTnWmKYYoHbt7HoxpDD3eo2yDlZ1KFj1RTB6kN8jN/zS+qZIZHKQnqIKDIgh5yy/KiL618p1Md3tAP5eHdFTCfRYLSyKtRGZlzJW4KgWk4FeMuo3DbpNqBiwlea3oxA=;223XCGB75VtrvaFfUmkXFw=="
 ---
 
