@@ -405,6 +405,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Automation Customer Managed Keys "
+    excerpt: "Encrypt your Automation account assests using Customer-managed keys. "
+    publishedDateTime: 2021-07-12T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-customer-managed-keys/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Updated App Service Authentication portal experience is now generally available"
     excerpt: "The new Authentication portal experience for App Service and Azure Functions, improving usability, initial setup, and increased security, is now available.”"
     publishedDateTime: 2021-04-01T21:02:34Z

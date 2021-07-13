@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Cornerstone.IT Now Available in the Microsoft Azure Marketplace"
-excerpt: "“We’re pleased to welcome Cornerstone.IT Remote Desktop Pro to the Microsoft Azure Marketplace, which gives our partners great exposure to cloud customers around the globe. Azure Marketplace offers world-class quality experiences from global trusted ..."
-publishedDateTime: 2021-07-13T12:45:00Z
-originalUrl: "https://www.law.com/legalnewswire/news.php?id=2889960"
-webUrl: "https://www.law.com/legalnewswire/news.php?id=2889960"
+excerpt: "Cornerstone.IT today announced the availability of Remote Desktop Pro in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. Cornerstone.IT customers can now take advantage of the scalability,"
+publishedDateTime: 2021-07-13T14:30:00Z
+originalUrl: "https://ipsnews.net/business/2021/07/13/cornerstone-it-now-available-in-the-microsoft-azure-marketplace/"
+webUrl: "https://ipsnews.net/business/2021/07/13/cornerstone-it-now-available-in-the-microsoft-azure-marketplace/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Law
-  domain: law.com
+  name: Inter Press Service
+  domain: ipsnews.net
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
-    width: 256
-    height: 256
+  - url: "https://icrowdnewswire.com/wp-content/uploads/2021/06/4395-logo-cornerstone.it_300x300_whitebg-biggergraphic.png"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -219,6 +219,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "5qrKwp4od9bfv4EXAVbHhZJiQ0H23FsmhMQnx7WQc+9DFwWWxspT1BZTph95LBJVomf8NvGbUDvAJv6drqoKTgwgLITzFHkcfdC5Vj5zJME8RXCVoblcIrlkgsLy9QAwvdvOFxlxwqOFX/ldnW2wIcJFLu3YWryNwUB9Ui6CAEjF+wFiOPolI1GFLlmuIieKUeRwubYsqBCOyUgno+kDCuEZmHFKX+/TaxRAFRbySHUb9fDdyVEeGYbaoRmzAhEbIwb0IfAzauoCFXqNlXIH9SuE4SknSXTs3SISnAji787t3gJnhx+eB3+kpuNWl5qE4YxkYN5wOzak9ksGttBQL498T3i1HdRHMG+4NX7ixJo=;Hw8tdDnEd+CvSIICMaCCRw=="
+secured: "kR6PZRCO5BEfRO31BCS2ln50yxVlYrXPJBx/zK42Lzqy4eHd4/QeTNQrzT94T2KiLgIIjntxykoSm++RGWw1Eg69L0yGTUkOnN28DiAdtFMwXRalFRuh677LSVnBxhB0spmJ3sE+nL1l/uJkKd6DsQfriOB1ayBdjMjmSG1ONnQSfz3iZw4sx6Itl3DL30+lg8tqsMW5YXlAwNOksOddsxBTEeQWF4LW8Bkn/O8PotpUcoRba1Pe7AmeQDQRjIVoR5xGlK19AyToijZ5w9Uz+nbIdpbIx2d1G9d2RxUym93qPgSBKkeEi7mEk1lFcynlhz6VgejH5aHDsF+DZ1EN6VpKGyASks5H07GSJ4rq2B4=;/U3zfbPwJZ7hgyl0bG72ag=="
 ---
 

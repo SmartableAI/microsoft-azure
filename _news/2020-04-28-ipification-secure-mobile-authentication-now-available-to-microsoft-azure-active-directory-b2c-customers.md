@@ -96,18 +96,18 @@ related:
         height: 315
         isCached: true
   - title: "Cornerstone.IT Now Available in the Microsoft Azure Marketplace"
-    excerpt: "“We’re pleased to welcome Cornerstone.IT Remote Desktop Pro to the Microsoft Azure Marketplace, which gives our partners great exposure to cloud customers around the globe. Azure Marketplace offers world-class quality experiences from global trusted ..."
-    publishedDateTime: 2021-07-13T12:45:00Z
-    webUrl: "https://www.law.com/legalnewswire/news.php?id=2889960"
+    excerpt: "Cornerstone.IT today announced the availability of Remote Desktop Pro in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. Cornerstone.IT customers can now take advantage of the scalability,"
+    publishedDateTime: 2021-07-13T14:30:00Z
+    webUrl: "https://ipsnews.net/business/2021/07/13/cornerstone-it-now-available-in-the-microsoft-azure-marketplace/"
     type: article
     provider:
-      name: Law
-      domain: law.com
+      name: Inter Press Service
+      domain: ipsnews.net
     quality: 37
     images:
-      - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
-        width: 256
-        height: 256
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/06/4395-logo-cornerstone.it_300x300_whitebg-biggergraphic.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Microsoft Azure Data VP Rohan Kumar: ‘It's Not Just About The Innovation Piece’"
     excerpt: "Amid the coronavirus pandemic, discussions about the cloud and digital transformation have turned a lot more toward value creation and total cost of ownership, Kumar says."

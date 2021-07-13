@@ -72,6 +72,15 @@ related:
       name: Business Wire
       domain: businesswireindia.com
     quality: 16
+  - title: "FSi Strategies Earns Microsoft's Advanced Specialization For Azure Virtual Desktop"
+    excerpt: "FSi Strategies today announced that it has been awarded an Advanced Specialization from Microsoft for best-in-class delivery of Azure Virtual Desktop. This Advanced Specialization is a top-level credential that can only be achieved by Microsoft Partners holding gold Cloud Platform competency and meeting the highest possible standards for service delivery and support."
+    publishedDateTime: 2021-07-13T14:51:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fsi-strategies-earns-microsofts-advanced-specialization-azure-virtual-/2021/07/13/9408106.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
     publishedDateTime: 2021-06-24T18:38:00Z

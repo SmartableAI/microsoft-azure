@@ -406,6 +406,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Automation Customer Managed Keys "
+    excerpt: "Encrypt your Automation account assests using Customer-managed keys. "
+    publishedDateTime: 2021-07-12T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-customer-managed-keys/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: Azure Digital Twins plugin for Azure Data Explorer "
     excerpt: "Adding context to IoT data just became easier. Azure Digital Twins and Azure Data Explorer now seamlessly integrate, allowing you to allow you to contextualize time-series IoT data."
     publishedDateTime: 2021-06-24T18:46:54Z

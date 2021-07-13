@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 1199
+heat: 1219
 published: true
 
 provider:
@@ -395,6 +395,15 @@ related:
     excerpt: "Injecting an Azure Data Explorer cluster into a virtual network has never been easier."
     publishedDateTime: 2021-06-17T16:00:24Z
     webUrl: "https://azure.microsoft.com/en-us/updates/adx-vnet-subnetdelegation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: Azure Automation Customer Managed Keys "
+    excerpt: "Encrypt your Automation account assests using Customer-managed keys. "
+    publishedDateTime: 2021-07-12T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-customer-managed-keys/"
     type: article
     provider:
       name: Microsoft

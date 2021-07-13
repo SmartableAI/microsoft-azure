@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: ExpressRoute monitoring in Azure Monitor network insights"
-excerpt: "Network insights in Azure Monitor now supports monitoring Azure ExpressRoute resources out of the box without any additional configuration or setup."
-publishedDateTime: 2021-03-31T16:01:57Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-expressroute-monitoring-in-azure-monitor-network-insights/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-expressroute-monitoring-in-azure-monitor-network-insights/"
+title: "General availability: Azure Automation Customer Managed Keys "
+excerpt: "Encrypt your Automation account assests using Customer-managed keys. "
+publishedDateTime: 2021-07-12T16:00:03Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-customer-managed-keys/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-customer-managed-keys/"
 type: article
-quality: 80
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - DevOps
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -244,6 +243,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
+  - title: "General availability: ExpressRoute monitoring in Azure Monitor network insights"
+    excerpt: "Network insights in Azure Monitor now supports monitoring Azure ExpressRoute resources out of the box without any additional configuration or setup."
+    publishedDateTime: 2021-03-31T16:01:57Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-expressroute-monitoring-in-azure-monitor-network-insights/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "General availability: Azure Backup supports backup and restore of Azure Dedicated Host "
     excerpt: "To protect your valuable resources, Azure Backup now supports backup & restore of Azure Virtual Machines with dedicated host. \n\n\n"
     publishedDateTime: 2021-04-01T15:56:14Z
@@ -397,15 +405,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure Automation Customer Managed Keys "
-    excerpt: "Encrypt your Automation account assests using Customer-managed keys. "
-    publishedDateTime: 2021-07-12T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-customer-managed-keys/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "General availability: Azure Digital Twins plugin for Azure Data Explorer "
     excerpt: "Adding context to IoT data just became easier. Azure Digital Twins and Azure Data Explorer now seamlessly integrate, allowing you to allow you to contextualize time-series IoT data."
     publishedDateTime: 2021-06-24T18:46:54Z
@@ -524,6 +523,6 @@ related:
       domain: microsoft.com
     quality: 42
 
-secured: "P9AYBDHQNTDbljuN+kn7d6hOOzI5/L8HB0PcjRfYz7JLcJ+KueX6LRfgqupA+2tQy1umeNGDhlnIgKxNZmvUjf966/lz+GM96FhrvW+S/+SeyXoGex3w2kzcUmGzIMuaHCxePuSQgCEcSZMl484oG3UfJJ1shm7WzN8r8hS0qHfrUI8xKKSCXPx496a0yVq2W/R/WPvVrXoaerpGk1t9qXbluln2gynvdw0L4g/0nK5TBz0/+YaLz5a/JofP/eerVoJo7jHTM/8ShRg0GDn9mQXcBh6GAuId0CQy/dcXF8uh11pTgpd+1W/Doed8Q4RLFMhNBhFoKZ39xUJzBy9qpriI6LssdzphUdxkXNkYgRg=;V7yjXWW95sI2YoIrWxS2Vw=="
+secured: "T5w+pDtApjux3RfTQsC00fUPy7+TJgRxBEClAKpOUHUZlV7EZzRdUYX/9uhuFT4GP+MIE+AF59QYy24ldPecsruXMpPUgKKxepSMAdgbcHWWfEQ7sYtaaKqqb927YhsFU81QgqCzRla1zP8a8fW7JVTm0FrJ7CuFgE43PeXr54KTBRDp3uz1lB35Tx7zk0Jo6pmZzJBlvJI5vfm4SR5EM1RXB4BGEKYYRzM6h/HPhJOA0zvaJlV0GjEcESYE9wb8VzXo+eoOlEmawBlvaHWKyG0Fcc67dML2z+Buf9i3AjzI98lMGku/lbnMZKRI2KVo8sNLTwI2G4bGXhpzl7iCCa9n9Gqk/DV1oqBGjmN4wlE=;d2X/7DgDD/FdB8LD0D8RtQ=="
 ---
 
