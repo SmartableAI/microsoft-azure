@@ -3,8 +3,8 @@ category: news
 title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
 excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
 publishedDateTime: 2021-07-13T07:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
 type: article
 quality: 17
 heat: -1
@@ -65,6 +65,6 @@ related:
       domain: morningstar.com
     quality: 1
 
-secured: "ZOS6alrFIGCT2YThnhaJs2tEROgwixDw5uJyriQOvt0f309JoO/VaYjLTjgfskrolR+PoiOYEvfxd86yTl3ps0dhZmdubgiFwPXdpHaOA2LXUpq8xIL2zGAumcvR9P227zyPAEN0o+HxkjUlSGRb0UOHMgZIZcgSly0TceL59dS/Z0nwqqWpF4I5W8tjzRNmAx6bZfGXCn6UJfidR6EFqLrqCa9B6R0FL/SmYjc6ka9+F8bTT+qKUGKXto8gBC6R/H24MnFxny6Pt89SHZJhs8uzCRt4diB3OYY4YsyAGAKZfpFtpLBbh/Zm2qnAZeSnMsnrWYtKNkkq0lueXxhWo4vzSxqm55AORwsIa8A5Vbh9EM3U1PNLieJvYmZvfXEz3Cb75eUSSkocxteDJ51EjAX3mP0ffXmrWMxkUaJCxdQ1yZ7rRP7NdLECFFrLyOxttOpFeN6hV2L5deREekBslM+d4lyh4AG4XIMycoUVjqqk9UAIpMYA9INYtckDrvdOF9sA56HPjZnagfYyTkH7xQ==;punwmqrcNVfX5DVC/X6ZFg=="
+secured: "jJV3FHmAw3wv2PknV53Q6+kxdXvqKZvgzd7kKaM8f+qKQh9FQ4vbHZpfDNzk5GARTROW6SEOeJqdmlQevvx3/cb2hqumwKFbR8SyURkxeZh+oxhPO9ahoMxdYspO/hCimUCJPqURB6bWS3jasHKSqgWHFw1bCpRvSOlaBIlj81AXa+DlRoziSRHCrAyNMM2CTtL4KXAy7BMqc6GvItYOaB0Ng3uBz6bLGbVvEJh91dcJakjG2997VSvUdNa0G/FCWY9jZBZwy6BLjm4APdQBuHnr4DuoT34YEAskX1OdMg95aIfXqx9Qx0rzYkI+ioihvzlM+7w0N2G/OHcv5xCx+b9j5Y7Mr+Lf74zcV6bK0AwUk+w+eIanuyOwWGwoeQR17nYUes++W0DGp7lHEmhIYlwD1ik3pP//GJd1RxV/dsoDMRMtIh2kus6+imzS1x+fq5qjbn/FFIBExD7no90YGxerGJWkq8HkKIjEAPk3n/yNriN71IZIPTtVoXD0Z3FasYMpL22izU8LRbHafBZmwg==;3aSNb5Gc7m0MTWYXVk/Dpg=="
 ---
 
