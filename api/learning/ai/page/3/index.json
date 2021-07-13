@@ -4,50 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory.md",
-      "title": "Create production workloads on Azure Databricks with Azure Data Factory",
-      "excerpt": "Create production workloads on Azure Databricks with Azure Data Factory",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 232,
-        "average": 4.5603447
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-production-workloads-azure-databricks-azure-data-factory-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-deep-learning.md",
       "title": "Use deep learning models to make predictions about specialized data",
       "excerpt": "Use convolutional neural networks and recurrent neural networks to analyze and predict images and text with TensorFlow and Keras.",
@@ -188,8 +144,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
       "length": "PT53M",
       "ratings": {
-        "count": 1046,
-        "average": 4.5535374
+        "count": 1048,
+        "average": 4.5496182
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1944,6 +1900,134 @@
       "topics": [
         "Azure",
         "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-process-and-translate-speech-with-azure-cognitive-speech-services.md",
+      "title": "Process and Translate Speech with Azure Cognitive Speech Services",
+      "excerpt": "Learn how to implement the Speech services found in Azure Cognitive Services by performing speech-to-text transcription, synthesize text input to speech, perform speech translation, and implement speaker recognition in your AI infused applications",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-process-and-translate-speech-with-azure-cognitive-speech-services/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-process-and-translate-speech-with-azure-cognitive-speech-services/",
+      "length": "PT1H3M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-transcribe-speech-input-text.md",
+          "title": "Transcribe speech input to text",
+          "excerpt": "Speech to text from the speech service, known as speech recognition, enables real time transcription of audio streams into text. Your applications, tools, or devices can consume, display, and take action on this text as command input.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-transcribe-speech-input-text/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 1108,
+            "average": 4.737365
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-translate-speech-speech-service.md",
+          "title": "Translate speech with the speech service",
+          "excerpt": "Perform speech translation tasks with the speech service to translate spoken text to different languages.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-speech-speech-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
+          "length": "PT18M",
+          "ratings": {
+            "count": 1179,
+            "average": 4.731128
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/translate-speech-speech-service-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "AI"
       ]
     },

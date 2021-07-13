@@ -4,50 +4,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
-      "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-      "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-cost-optimization/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
-      "length": "PT51M",
-      "ratings": {
-        "count": 1802,
-        "average": 4.746948
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-build-azure-vm-templates.md",
       "title": "Build Azure Resource Manager templates",
       "excerpt": "Learn how Resource Manager templates express your deployments as code, enabling you to deploy faster and more reliably.",
@@ -55,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
       "length": "PT37M",
       "ratings": {
-        "count": 9680,
-        "average": 4.6734505
+        "count": 9681,
+        "average": 4.6734843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -431,8 +387,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/",
       "length": "PT27M",
       "ratings": {
-        "count": 228,
-        "average": 4.872807
+        "count": 229,
+        "average": 4.8733625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -895,8 +851,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "PT53M",
       "ratings": {
-        "count": 3111,
-        "average": 4.6885247
+        "count": 3112,
+        "average": 4.688625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1018,6 +974,41 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-hdinsight.md",
+      "title": "Introduction to Azure HDInsight",
+      "excerpt": "Evaluate whether Azure HDInsight can help your organization process big data. Describe how Azure HDInsight uses popular open-source frameworks that support many scenarios including extract, transform, data-warehousing, and others.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-hdinsight/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-hdinsight/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 22,
+        "average": 4.909091
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-kubernetes-service.md",
       "title": "Introduction to Azure Kubernetes Service",
       "excerpt": "Get acquainted with the Azure Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
@@ -1025,8 +1016,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
       "length": "PT25M",
       "ratings": {
-        "count": 4902,
-        "average": 4.645043
+        "count": 4903,
+        "average": 4.6451154
       },
       "provider": {
         "name": "Microsoft Learn",

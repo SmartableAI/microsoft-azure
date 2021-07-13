@@ -4,48 +4,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-event-hubs.md",
-      "title": "Introduction to Event Hubs",
-      "excerpt": "Azure Event Hubs connects events from any source to your software systems. This acts as a buffer to provide modular solutions that avoid overwhelming your system during traffic spikes, while still enabling near real-time data pipelines. Event Hubs is fast to set up and designed to allow you to focus on drawing insights from data instead of managing infrastructure. Able to process millions of events per second with low latency, Event Hubs is a modern big data message and event ingestion service that can be seamlessly integrated with other Azure and Microsoft services, such as Stream Analytics, Power BI, and Event Grids, along with outside services like Apache Spark.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-event-hubs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-event-hubs/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 1,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-hyperscale.md",
       "title": "Introduction to Hyperscale (Citus) on Azure Database for PostgreSQL",
       "excerpt": "When your database is small, it’s easy to throw more hardware at the problem and scale up. As these tables grow, you need to think about other ways to scale your database. Azure Database for PostgreSQL Hyperscale (Citus) transforms open-source PostgreSQL into a distributed database solution, reliably and securely managed on Azure.",
@@ -352,8 +310,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 3623,
-        "average": 4.695004
+        "count": 3624,
+        "average": 4.6950884
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1266,6 +1224,49 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-data-for-machine-learning.md",
+      "title": "Introduction to data for machine learning",
+      "excerpt": "The power of machine learning models comes from the data that is used to train them. Through content and exercises, we explore how to understand your data, how to encode it so that the computer can interpret it properly, how to clean it of errors, and tips that will help you create models that perform well.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-data-for-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-for-machine-learning/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 1,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

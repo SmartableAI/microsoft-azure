@@ -4,6 +4,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory.md",
+      "title": "Create production workloads on Azure Databricks with Azure Data Factory",
+      "excerpt": "Create production workloads on Azure Databricks with Azure Data Factory",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 232,
+        "average": 4.5603447
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-production-workloads-azure-databricks-azure-data-factory-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture.md",
       "title": "Describe Azure Databricks Delta Lake architecture",
       "excerpt": "Describe Azure Databricks Delta Lake architecture",
@@ -55,8 +99,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
       "length": "PT53M",
       "ratings": {
-        "count": 1046,
-        "average": 4.5535374
+        "count": 1048,
+        "average": 4.5496182
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -274,8 +318,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/code-free-transformation-scale/",
       "length": "PT58M",
       "ratings": {
-        "count": 290,
-        "average": 4.303448
+        "count": 291,
+        "average": 4.305842
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -361,8 +405,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-warehouse-azure-synapse-analytics/",
       "length": "PT30M",
       "ratings": {
-        "count": 95,
-        "average": 4.694737
+        "count": 96,
+        "average": 4.6979165
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1608,49 +1652,6 @@
         "Azure",
         "Analytics",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-creating-and-configuring-hdinsight-cluster.md",
-      "title": "Creating and configuring a HDInsight cluster",
-      "excerpt": "Creating and configuring a HDInsight Cluster",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-creating-and-configuring-hdinsight-cluster/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/creating-and-configuring-hdinsight-cluster/",
-      "length": "PT1H6M",
-      "ratings": {
-        "count": 177,
-        "average": 4.5875707
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/creating-and-configuring-a-hdinsight-cluster-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     }
   ],
