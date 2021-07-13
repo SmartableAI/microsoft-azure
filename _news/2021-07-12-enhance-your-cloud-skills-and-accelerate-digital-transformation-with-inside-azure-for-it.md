@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/enhance-your-cloud-skills-and-acc
 webUrl: "https://azure.microsoft.com/blog/enhance-your-cloud-skills-and-accelerate-digital-transformation-with-inside-azure-for-it/"
 type: article
 quality: 60
-heat: 80
+heat: 81
 published: true
 
 provider:
