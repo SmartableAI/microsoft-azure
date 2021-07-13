@@ -4,7 +4,7 @@ excerpt: "Secure software development means integrating security into each phase
 type: collection
 price: Free
 length: PT6H31M
-heat: 63
+heat: 64
 
 provider:
   name: Microsoft Learn

@@ -4,15 +4,15 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-identity-application-types.md",
-      "title": "Application types in Microsoft identity",
-      "excerpt": "Learn how developers can leverage Microsoft identity in different types of applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-application-types/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-application-types/",
-      "length": "PT50M",
+      "path": "_learning/courses/microsoft-learn-explore-sensitivity-labels.md",
+      "title": "Explore sensitivity labels",
+      "excerpt": "Explore sensitivity labels",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-sensitivity-labels/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-sensitivity-labels/",
+      "length": "PT34M",
       "ratings": {
-        "count": 233,
-        "average": 4.648069
+        "count": 3,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,12 +32,90 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/identity-application-types-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-solutions-for-external-access.md",
+      "title": "Explore solutions for external access",
+      "excerpt": "Explore solutions for external access",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-solutions-for-external-access/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-solutions-for-external-access/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 5,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-active-directory-external-access-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-getting-started-identity.md",
+      "title": "Getting Started with Microsoft Identity",
+      "excerpt": "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-getting-started-identity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/getting-started-identity/",
+      "length": "PT1H10M",
+      "ratings": {
+        "count": 437,
+        "average": 4.688787
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -557,8 +635,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/",
       "length": "PT38M",
       "ratings": {
-        "count": 200,
-        "average": 4.795
+        "count": 201,
+        "average": 4.79602
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1164,92 +1242,6 @@
       "ratings": {
         "count": 14,
         "average": 4.928571
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-microsoft-secure-score.md",
-      "title": "Examine Microsoft Secure Score",
-      "excerpt": "Examine Microsoft Secure Score",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-microsoft-secure-score/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-microsoft-secure-score/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 7,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-score-reduce-risk-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-microsoft-store-for-business.md",
-      "title": "Examine the Microsoft Store for Business",
-      "excerpt": "Examine the Microsoft Store for Business",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-microsoft-store-for-business/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-microsoft-store-for-business/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 6,
-        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",

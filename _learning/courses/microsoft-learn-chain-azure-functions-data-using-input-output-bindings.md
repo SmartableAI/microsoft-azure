@@ -8,7 +8,7 @@ length: PT1H10M
 ratings:
   count: 4049
   average: 4.5472956
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -28,6 +28,6 @@ topics:
   - Serverless
   - Storage
 
-secured: "Snax1FORTRHEiezs+cDxMqLKsxTKB4wBZmYf7126TOZtPP7SEsuZa6o3LWPRhnEtpwZGv1b2S7UAqXJhhsNFzfIMu8JtUDbHBPQBrJpG/UTJ0/WntC84FWT8w5C7eV4hj3NP8LSKVZOxG3psewc5vqMKSVQXJmCyzsXalb3fWAk+sNeQr9/RtPiq0N66psHLNKPEUCkGMfJXm+IOx/+/bgW46m+M74a1v0342lCxc+jq5qubHTSWUrfqxy5cx6v/VyvbwcKCR/sY1Qz33f+Hs4tA9/qlaxotdl6iZ9A0YAPPY+Om9WaDxpr7l9nGRyjYcHY/ty4Vxp+mk4HdS4J4sJhu+4d1gdmzwBxcMpHunHEx/90IxqMjzTWRVJpwxev8AiW7AmuEIoej6O4Kum7W3chz7w++krKBH55YVL2Ez/s=;ffxeBElTgZSfYiRznF27TQ=="
+secured: "gx0M/g5BFjwF/wpVlzFoACO7yY/PtkcPBFNr47I5nYf4qaCZzmGNfP5CykmDtxmNqR+30/kQ0xv2uFKTJbCU3+duNUIeH6s5DSkAXZ1Nn2mvRUg29W3+q/spSHp11/p/jb4l/d5diEU+iMqRjpEkAF206Qn0wQJ/GgpodEr+g/h1dlcCeZb4EoyYcj1V8SHjjJwF2/5aBos8fcQYC9129hLDu6y6oY2/n5kPH9CxzTsZqk9RKXWwD2Nj3llRe6IUu2dVbYa9k3zV+WIelgQ5fyCctNjJJfQLmf34lhuney0RN09oZRC1dgRNp2shijOOddvPLAwnAW284smdlwZda0huO9LzM2aBCVFsBYwOP9PDgRDNhj7eAdgm5I5XzRKQ9bmvzu9l+/Dcx21dj3VSrLPxCpjAw9V5yMWxMcPgqF8=;Krqv/MUj5FPVMYEMP9sW6Q=="
 ---
 

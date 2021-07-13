@@ -4,15 +4,58 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-translate-speech-speech-service.md",
-      "title": "Translate speech with the speech service",
-      "excerpt": "Perform speech translation tasks with the speech service to translate spoken text to different languages.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-speech-speech-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
-      "length": "PT18M",
+      "path": "_learning/courses/microsoft-learn-train-local-model-with-azure-mls.md",
+      "title": "Train a machine learning model with Azure Machine Learning",
+      "excerpt": "Learn how to use Azure Machine Learning to train a model and register it in a workspace.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-local-model-with-azure-mls/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
+      "length": "PT40M",
       "ratings": {
-        "count": 1179,
-        "average": 4.731128
+        "count": 130,
+        "average": 4.6076922
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/train-local-model-with-azure-mls-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-train-package-azure-ml-module-iot-edge.md",
+      "title": "Train and package an Azure machine learning module for deployment to IoT Edge device",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-package-azure-ml-module-iot-edge/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-package-module-iot-edge/",
+      "length": "PT1H26M",
+      "ratings": {
+        "count": 356,
+        "average": 4.6123595
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,7 +75,51 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/translate-speech-speech-service-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/train-and-package-an-azure-machine-learning-module-for-deployment-to-iot-edge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-transcribe-speech-input-text.md",
+      "title": "Transcribe speech input to text",
+      "excerpt": "Speech to text from the speech service, known as speech recognition, enables real time transcription of audio streams into text. Your applications, tools, or devices can consume, display, and take action on this text as command input.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-transcribe-speech-input-text/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 1109,
+        "average": 4.7376013
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -306,7 +393,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-language-understanding-speech/",
       "length": "PT45M",
       "ratings": {
-        "count": 2,
+        "count": 3,
         "average": 5.0
       },
       "provider": {
@@ -349,8 +436,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
       "length": "PT46M",
       "ratings": {
-        "count": 451,
-        "average": 4.654102
+        "count": 452,
+        "average": 4.654867
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -386,50 +473,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-work-dataframes-columns-azure-databricks.md",
-      "title": "Work with DataFrames columns in Azure Databricks",
-      "excerpt": "Work with DataFrames columns in Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-columns-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-columns-azure-databricks/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 269,
-        "average": 4.583643
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-columns-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-work-with-azure-machine-learning-deploy-serving-models.md",
       "title": "Work with Azure Machine Learning to deploy serving models",
       "excerpt": "Work with Azure Machine Learning to deploy serving models",
@@ -437,8 +480,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-azure-machine-learning-deploy-serving-models/",
       "length": "PT23M",
       "ratings": {
-        "count": 115,
-        "average": 4.5478263
+        "count": 116,
+        "average": 4.551724
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -524,8 +567,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-mlflow-azure-databricks/",
       "length": "PT33M",
       "ratings": {
-        "count": 99,
-        "average": 4.4949493
+        "count": 100,
+        "average": 4.5
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -546,50 +589,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/work-with-mlflow-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-with-user-defined-functions.md",
-      "title": "Work with user-defined functions",
-      "excerpt": "Work with user-defined functions",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-user-defined-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-user-defined-functions/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 118,
-        "average": 4.5677967
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-with-user-defined-functions-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
