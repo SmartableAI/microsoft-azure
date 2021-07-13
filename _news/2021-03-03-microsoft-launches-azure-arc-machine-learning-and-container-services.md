@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 129
-heat: 2569
+heat: 2609
 published: true
 
 provider:
@@ -1355,6 +1355,34 @@ related:
       - url: "https://res.infoq.com/news/2021/06/arc-enabled-app-services-preview/en/headerimage/header+%287%29-1623870457725.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft Launches 'Inside Azure for IT' Learning Portal"
+    excerpt: "Microsoft on Monday announced the launch of Inside Azure for IT, a new learning site \"for cloud professionals of all skill levels.\" Inside Azure for IT contains links to so-called \"fireside chats ..."
+    publishedDateTime: 2021-07-13T19:38:00Z
+    webUrl: "https://redmondmag.com/articles/2021/07/13/inside-azure-for-it-learning-portal.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/0913vsm_randolph.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Microsoft Opens Azure Learning Site for IT Pros"
+    excerpt: "Microsoft this week launched Inside Azure for IT, which contains links to \"fireside chats\" on various Azure topics, aiming \"to solve your real-world IT challenges.\" Erin Chapple, Microsoft's corporate vice president for the Azure core infrastructure ..."
+    publishedDateTime: 2021-07-13T19:43:00Z
+    webUrl: "https://mcpmag.com/articles/2021/07/13/microsoft-opens-azure-learning-site.aspx"
+    type: article
+    provider:
+      name: MCPmag
+      domain: mcpmag.com
+    quality: 37
+    images:
+      - url: "https://mcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140813VRTCloudOrchestration.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."

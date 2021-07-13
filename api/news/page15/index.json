@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-09-22-configurable-backup-storage-redundancy-options-for-azure-sql-database-coming-soon.md",
+      "title": "Configurable backup storage redundancy options for Azure SQL Database coming soon",
+      "excerpt": "New Azure SQL Database backup storage options coming soon, including local and zone-redundant storage.  ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/configurable-backup-storage-redundancy-options-for-azure-sql-database-coming-soon/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/configurable-backup-storage-redundancy-options-for-azure-sql-database-coming-soon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 266,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:03:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases",
+        "Storage"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-introducing-azure-backup-center.md",
       "title": "Introducing Azure Backup Center ",
       "excerpt": "Backup Center currently is in public preview for the workloads of Azure Virtual Machines and Azure Database for PostgreSQL servers and limited public preview for the workloads SQL in Azure VMs, SAP HANA in Azure VMs and Azure Files.",
@@ -1086,59 +1130,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-azure-files-smb-multichannel-provides-improved-performance-for-clients.md",
-      "title": "Azure Files SMB Multichannel provides improved performance for clients",
-      "excerpt": " Today, we are announcing the preview of Azure Files SMB Multichannel on premium tier. With this release, Azure Files clients can now take advantage of this technology with premium file shares in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-files-smb-multichannel-provides-improved-performance-for-clients/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-files-smb-multichannel-provides-improved-performance-for-clients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/96ef0aa8-fa88-4ffa-a245-0b342947e4ff.png",
-          "width": 1024,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T09:06:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management tools"
       ]
     }
   ],

@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Apollo 24|7 uses Microsoft Azure to bring healthcare services closer to Indians"
-excerpt: "New Delhi, March 1, 2021: Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power of Microsoft Azure to transform last-mile delivery of health services ..."
-publishedDateTime: 2021-03-01T08:43:00Z
-originalUrl: "https://news.microsoft.com/en-in/apollo-247-uses-microsoft-azure-to-bring-healthcare-services-closer-to-indians/"
-webUrl: "https://news.microsoft.com/en-in/apollo-247-uses-microsoft-azure-to-bring-healthcare-services-closer-to-indians/"
+title: "Microsoft Opens Azure Learning Site for IT Pros"
+excerpt: "Microsoft this week launched Inside Azure for IT, which contains links to \"fireside chats\" on various Azure topics, aiming \"to solve your real-world IT challenges.\" Erin Chapple, Microsoft's corporate vice president for the Azure core infrastructure ..."
+publishedDateTime: 2021-07-13T19:43:00Z
+originalUrl: "https://mcpmag.com/articles/2021/07/13/microsoft-opens-azure-learning-site.aspx"
+webUrl: "https://mcpmag.com/articles/2021/07/13/microsoft-opens-azure-learning-site.aspx"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MCPmag
+  domain: mcpmag.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/03/telehealth-stock-image-768x512.jpg"
-    width: 768
-    height: 512
+  - url: "https://mcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140813VRTCloudOrchestration.jpg"
+    width: 647
+    height: 450
     isCached: true
 
 related:
@@ -1383,20 +1379,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft Opens Azure Learning Site for IT Pros"
-    excerpt: "Microsoft this week launched Inside Azure for IT, which contains links to \"fireside chats\" on various Azure topics, aiming \"to solve your real-world IT challenges.\" Erin Chapple, Microsoft's corporate vice president for the Azure core infrastructure ..."
-    publishedDateTime: 2021-07-13T19:43:00Z
-    webUrl: "https://mcpmag.com/articles/2021/07/13/microsoft-opens-azure-learning-site.aspx"
-    type: article
-    provider:
-      name: MCPmag
-      domain: mcpmag.com
-    quality: 37
-    images:
-      - url: "https://mcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140813VRTCloudOrchestration.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
     publishedDateTime: 2020-05-27T20:23:00Z
@@ -1438,6 +1420,20 @@ related:
       - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10096-wordpress-hero.jpg"
         width: 2300
         height: 1293
+        isCached: true
+  - title: "Apollo 24|7 uses Microsoft Azure to bring healthcare services closer to Indians"
+    excerpt: "New Delhi, March 1, 2021: Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power of Microsoft Azure to transform last-mile delivery of health services ..."
+    publishedDateTime: 2021-03-01T08:43:00Z
+    webUrl: "https://news.microsoft.com/en-in/apollo-247-uses-microsoft-azure-to-bring-healthcare-services-closer-to-indians/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 33
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/03/telehealth-stock-image-768x512.jpg"
+        width: 768
+        height: 512
         isCached: true
   - title: "Cloudera data platform operational database comes to AWS, Microsoft Azure"
     excerpt: "US-based enterprise data cloud specialis Cloudera has announced the availability of the Cloudera Data Platform (CDP) Operational Database on both Amazon Web Services (AWS) and Microsoft Azure."
@@ -1727,6 +1723,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "blEOn/4sFamDmu7F1a5lVasM05eha8nM7j9qgcgLFxOuOkHfg8QzrKJWJFwjO6EEWFKXhrQW3ddX5a0PCGyGk0v9Z7gCFPjeijumhqva7Mb4lstzmjuZnzPs0DL/mYfVjcVqwZ4U4poZj1qbPznYcM/U7VokKg3YjbpbiMGoVBZKs4upRQC6u28fTcA+WhLcZBhTHkqoQ5/wnlBhHDvLAa3s/09u0+OKmqocNRpWYHjR6RSdbuwEABkC3zbJg7mqjzJYmTuRWe1XNUg5s0R9J2B8Cp8eOETUtOx1wLQ/LRq0tFfNVLVOXWbVcCGJxY37KP7wuDOqakJUJRQf+G7Y1s+52ARARDSZAvXFyS4lyxg=;HwAKvIu7E7OWxTjmwRODWw=="
+secured: "2X6Rtn5GZPXkKd1fcRTH7UykV8h84jR8HxWWNC5waZPZgL+ooX9rPjyKtGHIjYqJeAzDwlQYy0sSBr7k9xOFGc+u4E1yoDLpochqG7QWJw/cBoGgsFOvWrzZnKbILJBCbtKBhHCH3RNwFAZk8q+D2OKw0T7ra7hKnrEPc+pt5/IWX17rB2jR/XIe6/flw+EG2+PGd2lDe3SAh7AOzjRGJM+NBdZtC7efFnU6QzVVqt8+vZ+fEhqt3qaEs56zV3RiMOwiGTJZteyoCrUER200StgHZXzVLxAo2QBVTX70RVZUFY/GBx58sdqXaI79WK0YXqUiLhWxDE/AsvmAo/IsMHp1pfgUL9pw4U6r9bfFj0U=;BLeVX/PZmdJxZhiCww1naQ=="
 ---
 

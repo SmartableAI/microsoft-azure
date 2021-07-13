@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-25-public-preview-aks-support-for-containerd-for-windows-server-containers.md",
+      "title": "Public preview: AKS support for containerd for Windows server containers",
+      "excerpt": "Benefit from enhanced pod creation speed and stability when creating Windows server containers in AKS.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-containerd-for-windows-server-containers/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-containerd-for-windows-server-containers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T09:00:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-azure-cosmos-db-linux-emulator-in-public-preview.md",
       "title": "Azure Cosmos DB Linux emulator in public preview",
       "excerpt": "Develop and test locally at no cost on Linux and macOS with our new Azure Cosmos DB Linux emulator.",
@@ -1111,57 +1154,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-using-pulumi-30-to-manage-azure-infrastructure.md",
-      "title": "Using Pulumi 3.0 to manage Azure infrastructure",
-      "excerpt": "The Pulumi IaC (infrastructure-as-code) platform takes an interesting route to delivering cloud infrastructures. Instead of using a domain-specific language like Bicep or declarative configurations like Azure’s ARM templates,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3616605/using-pulumi-30-to-manage-azure-infrastructure.html",
-      "originalUrl": "https://www.infoworld.com/article/3616605/using-pulumi-30-to-manage-azure-infrastructure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/05/gears-100758212-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3616605/using-pulumi-30-to-manage-azure-infrastructure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3616605/using-pulumi-30-to-manage-azure-infrastructure.amp.html",
-      "publishedDateTime": "2021-04-28T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
       ]
     }
   ],

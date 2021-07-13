@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-13-manage-rdp-and-ssh-connectivity-at-scale-with-azure-bastion.md",
+      "title": "Manage RDP and SSH connectivity at scale with Azure Bastion",
+      "excerpt": "Security is at the forefront of user and administrator connectivity to cloud services. As enterprises continue to move mission-critical applications to the Cloud, the need for secure, scalable, and reliable remote public connectivity and jumpbox services increases.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/manage-rdp-and-ssh-connectivity-at-scale-with-azure-bastion/",
+      "originalUrl": "https://azure.microsoft.com/blog/manage-rdp-and-ssh-connectivity-at-scale-with-azure-bastion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a380e21f-b1a6-457b-94c5-1fd1b800db63.png",
+          "width": 1024,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T04:00:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Security",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-advancing-application-reliability-with-the-azure-well-architected-framework.md",
       "title": "Advancing application reliability with the Azure Well-Architected Framework",
       "excerpt": "We created the Azure Well-Architected Framework to help improve the quality of your workloads, and reliability is one of its five core pillars so for the latest post in our series, I have asked Cloud Advocate David Blank-Edelman to run through how best to approach using the framework to guide your conversations and",
@@ -1345,59 +1398,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-azure-files-support-and-new-updates-in-advanced-threat-protection-for-azure-storage.md",
-      "title": "Azure Files support and new updates in advanced threat protection for Azure Storage",
-      "excerpt": "A year ago we announced the general availability of advanced threat protection for Azure Storage, to help our customers better protect their data in blob containers from the growing risk of cyberattacks.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-files-support-and-new-updates-in-advanced-threat-protection-for-azure-storage/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-files-support-and-new-updates-in-advanced-threat-protection-for-azure-storage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ee329ce4-7204-4fc5-86e0-c004e01b3f19.png",
-          "width": 1024,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T03:00:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security",
-        "Storage"
       ]
     }
   ],
