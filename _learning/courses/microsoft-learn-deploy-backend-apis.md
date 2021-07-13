@@ -30,6 +30,12 @@ topics:
   - Blockchain
   - Integration
 
+images:
+  - url: https://docs.microsoft.com/learn/achievements/deploy-backend-apis-social.png
+    width: 641
+    height: 321
+    isCached: true
+
 secured: "IDaNFDjah4tFZMU7GshWiR7X4hwYvLsfGa2R0lUmLYqzJhiruORyE/xBEpiCvBB6S+AXA3nue01vxuWGcS8FHXN4A83Ofomgnj8J0xuY1VfepVsELpFowpwyn1DNusNTHDCJzgi9Rh4qTG+rL0Q4UFneJiSEHL5cHUQS40BVLy5S8HbGdiacLXy5Me0d5rpuPtVNmr5NYJXhsnz5MqdQpY/QNQ3gmh6uNsVPKGN1jWUEATbgw27Rmjnc5kLZVm8rsRT/gUjza9J0K0EZJ6G/dXJfjQdIbrIyrUJza0AxqkIpzFApk7Lq7lIHrtzZdRL2SS68J7k5tWq6BqrePl+9PxaexVYdAgWD/uB0z7jiWWmFFb5qtlz1JyBSw9areodf0GY7CSsDpGcfxnpB0afvDqZWDUiBrmDSeRlxhbro9p0=;m/WwiQtqLQcQwYgH5fA1bg=="
 ---
 

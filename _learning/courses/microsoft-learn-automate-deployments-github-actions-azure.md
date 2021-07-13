@@ -34,6 +34,12 @@ topics:
   - Mobile
   - DevOps
 
+images:
+  - url: https://docs.microsoft.com/learn/achievements/automate-deployments-github-actions-azure-social.png
+    width: 641
+    height: 321
+    isCached: true
+
 secured: "1TLFv4gAiFqVVaQb76NEKGhjp/BB3BUh1nVwbOeAlOgmFcJAYVxCUZjZlJVoEAWnXlXNoOEIiLg4rKUILOssuAV8rGZ2CZJ0uwVak9xoFxgoKl0a+urXjjSBO5Txl7vifzLxyP+SvQ19aoh8xVqqRFcVeukeJmVxL0VhTcik4lAwQghoD5wwO0opevc9LYTBMgiMc63XOAQneDz4NwnPa2IVYi9pkTufV3aXwVJBNPgRwWjmCdPeLdWxp5Bab3cj/CJx+/7BzGF+4/2v1FY3D4ZRdj7gy9/e2d+XyxGVje/cGDsIpexTpnM95bJyTVk+u2rHoIos5mYeqmg+A5Or6jQg8I7upxF06RgD0mZUgeEJd5KDfPpXQA2+BL31pUU4V5yid3LPgUTJt02PuOABWih6LqxXDX8PhzAya9CryBA=;Cl9bxE28h/kD08P2z4dLRg=="
 ---
 

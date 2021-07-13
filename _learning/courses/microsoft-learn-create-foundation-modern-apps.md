@@ -29,6 +29,12 @@ topics:
   - Storage
   - DevOps
 
+images:
+  - url: https://docs.microsoft.com/learn/achievements/create-foundation-modern-apps-social.png
+    width: 641
+    height: 321
+    isCached: true
+
 secured: "RnIyNKxj21EOPwIaZ07OHFZxxVWtX8rNVqCnu/PyEKKXhZrsnD+5PTWOzqjyqTHITVNaxhww0A04KhWz4cB4zd41CJ+pVRhbHZx3795soZNPiXYrMB1P5KkGWrTYhLhT88Kt2AuVY93oSPksXobmpoaHHmlJa13k6M4+aM6btNAI6p7UpuL/e/FtipKymxsvmfNDmJ4BXcoREYnqKnGU9n/LcOjo7jmHqrD1ycUEGD/HidJFlkCibr2m6QRcr8M1sDM1yIaQCgBbVfH1VUmSWRLrD5fNCeUKrarsD7qdgNileb9l3aKenGuM33+fGfV/6ZwNZpFjE0rFpqyAFDdiQNivbcroJ+uoaVrgAlxiHzDqQptSO1ml3/ipd2xVM5K6tMM0KFdJlvN1nFj2Dh1HnZl7iQ0qP2zVWCNgkTFewJA=;lzC4jdm3iZvG/uJITWA/0A=="
 ---
 
