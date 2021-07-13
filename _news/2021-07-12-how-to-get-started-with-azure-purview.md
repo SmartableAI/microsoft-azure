@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-get-started-w
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-get-started-with-azure-purview/"
 type: article
 quality: 97
-heat: 98
+heat: 99
 published: true
 
 provider:
