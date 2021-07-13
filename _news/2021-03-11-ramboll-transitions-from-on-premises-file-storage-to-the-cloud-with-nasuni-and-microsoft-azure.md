@@ -773,6 +773,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Cloud-native Software Market is Going to Boom with IBM, Microsoft Azure, Oracle"
+    excerpt: "The study covers emerging player’s data, including: competitive landscape, sales, revenue and global market share of top manufacturers are IBM (United States),Nokia (Finland),Onica (United States) ,Microsoft Azure (United States),Google (United States ..."
+    publishedDateTime: 2021-07-13T08:44:00Z
+    webUrl: "https://www.openpr.com/news/2326971/cloud-native-software-market-is-going-to-boom-with-ibm"
+    ampWebUrl: "https://www.openpr.com/amp/2326971/cloud-native-software-market-is-going-to-boom-with-ibm"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2326971/cloud-native-software-market-is-going-to-boom-with-ibm"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 53
+    images:
+      - url: "https://cdn.openpr.com/U/7/U713763118_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
     excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its ultralow power WE-I Plus AIoT Platform has been listed in the Azure Certified Device Catalog after receiving Microsoft Azure IoT PnP certification."
     publishedDateTime: 2021-03-18T08:02:00Z

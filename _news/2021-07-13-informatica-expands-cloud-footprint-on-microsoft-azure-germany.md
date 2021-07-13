@@ -1,38 +1,37 @@
 ---
 category: news
 title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
-excerpt: "\"Today's announcement with Microsoft gives our European customers more choice and enables them to leverage the power of the Intelligent Data Management Cloud to manage and innovate with their data.\" Along with the IDMC pod launching on Microsoft Azure ..."
-publishedDateTime: 2021-07-13T07:02:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/informatica-expands-cloud-footprint-on-microsoft-azure-germany-889342108.html"
-webUrl: "https://www.prnewswire.com/news-releases/informatica-expands-cloud-footprint-on-microsoft-azure-germany-889342108.html"
+excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
+publishedDateTime: 2021-07-13T07:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
 
-images:
-  - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1047
-    isCached: true
-
 related:
-  - title: "Informatica Launches Intelligent Data Management Cloud on Azure for Asia Pacific, Bolstering Cloud Momentum in the Region"
-    excerpt: "Informatica, the enterprise cloud data management leader, today announced it has launched its Intelligent Data Management Cloud (IDMC) the industry's first end-to-end AI-powered cloud platform service available on Microsoft Azure Southeast Asia region for Asia Pacific customers,"
-    publishedDateTime: 2021-07-13T01:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/informatica-launches-intelligent-data-management-cloud-on-azure-for-asia-pacific-bolstering-cloud-momentum-in-the-region-1030598981"
+  - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
+    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
+    publishedDateTime: 2021-07-09T16:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Sopra Steria earns Microsoft Azure Expert MSP certification"
     excerpt: "IT services group Sopra Steria has been awarded Microsoft Azure Expert MSP (Managed Service Provider) status. This partner programme has been developed to ensure that end-customers and Microsoft's teams can connect with the most capable Azure managed service providers."
     publishedDateTime: 2021-07-12T12:44:00Z
@@ -42,7 +41,30 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
+    excerpt: "Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason to upgrade VMs soon. New VMs featuring 3rd Generation Intel Xeon Scalable processors are currently in preview,"
+    publishedDateTime: 2021-07-07T07:10:00Z
+    webUrl: "https://www.pr.com/press-release/826372"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 1
+    images:
+      - url: "https://img.pr.com/release/2107/416814/pressrelease_416814_1625584870.png"
+        width: 500
+        height: 647
+        isCached: true
+  - title: "HashiCorp Recognized as the Winner of 2021 Microsoft Open Source Software on Azure Partner of the Year"
+    excerpt: "“Being recognized as the winner of the 2021 Microsoft OSS on Azure Partner of the Year award is a reflection of the continued partnership and deep collaboration between HashiCorp and Microsoft ..."
+    publishedDateTime: 2021-07-08T19:22:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8277544/hashicorp-recognized-as-the-winner-of-2021-microsoft-open-source-software-on-azure-partner-of-the-year"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 1
 
-secured: "aGoe63OWDJoslLe8CJQHVk/6iwgP8I8L3AjshPHyY7+jCBkp9TXeagCc+DmZHBl5i5IuxtQFOUhoca8GIasuja7Xev7/7ktiqDDTC0mA8qDidPomgg4z8GjzOdphCnY9Dha7LKRmB4JgCCCpCVqa47pt/2nPwoXO4xPTYVh0zuF5zdv/nSvcdGTbil1AOyqz2gV0jpbhNi72qRPixc7Zg8bjA2w+1q0Noy6bHK7gSJWpkPP/T6sdDpMhGeqfM9bPkkhQuqht8oqrbDN2kORtcy6dzV7frG1GrYr6lXgx+5OkptjHjxqZA3IAS+jGsDSKpH3cF26KndUbPkJfnekNfMqiuZyxjG87Hl6SBaOCRhE=;ZV0SFoRE2nx0r/MGz2Lp6Q=="
+secured: "ZOS6alrFIGCT2YThnhaJs2tEROgwixDw5uJyriQOvt0f309JoO/VaYjLTjgfskrolR+PoiOYEvfxd86yTl3ps0dhZmdubgiFwPXdpHaOA2LXUpq8xIL2zGAumcvR9P227zyPAEN0o+HxkjUlSGRb0UOHMgZIZcgSly0TceL59dS/Z0nwqqWpF4I5W8tjzRNmAx6bZfGXCn6UJfidR6EFqLrqCa9B6R0FL/SmYjc6ka9+F8bTT+qKUGKXto8gBC6R/H24MnFxny6Pt89SHZJhs8uzCRt4diB3OYY4YsyAGAKZfpFtpLBbh/Zm2qnAZeSnMsnrWYtKNkkq0lueXxhWo4vzSxqm55AORwsIa8A5Vbh9EM3U1PNLieJvYmZvfXEz3Cb75eUSSkocxteDJ51EjAX3mP0ffXmrWMxkUaJCxdQ1yZ7rRP7NdLECFFrLyOxttOpFeN6hV2L5deREekBslM+d4lyh4AG4XIMycoUVjqqk9UAIpMYA9INYtckDrvdOF9sA56HPjZnagfYyTkH7xQ==;punwmqrcNVfX5DVC/X6ZFg=="
 ---
 

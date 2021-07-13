@@ -1,30 +1,28 @@
 ---
 category: news
-title: "QuerySurge is Now Available in the Microsoft Azure Marketplace"
-excerpt: "\"We are excited to release QuerySurge in the Azure marketplace as a pay-as-you-go solution,\" said Bill Hayduk, CEO of RTTS and leader of the QuerySurge software division. \"Microsoft Azure solves ..."
-publishedDateTime: 2021-03-18T09:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/querysurge-is-now-available-in-the-microsoft-azure-marketplace-1030222747"
-webUrl: "https://markets.businessinsider.com/news/stocks/querysurge-is-now-available-in-the-microsoft-azure-marketplace-1030222747"
+title: "Cloud-native Software Market is Going to Boom with IBM, Microsoft Azure, Oracle"
+excerpt: "The study covers emerging player’s data, including: competitive landscape, sales, revenue and global market share of top manufacturers are IBM (United States),Nokia (Finland),Onica (United States) ,Microsoft Azure (United States),Google (United States ..."
+publishedDateTime: 2021-07-13T08:44:00Z
+originalUrl: "https://www.openpr.com/news/2326971/cloud-native-software-market-is-going-to-boom-with-ibm"
+webUrl: "https://www.openpr.com/news/2326971/cloud-native-software-market-is-going-to-boom-with-ibm"
+ampWebUrl: "https://www.openpr.com/amp/2326971/cloud-native-software-market-is-going-to-boom-with-ibm"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2326971/cloud-native-software-market-is-going-to-boom-with-ibm"
 type: article
-quality: 77
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1458626/QuerySurge_Logo.jpg"
+  - url: "https://cdn.openpr.com/U/7/U713763118_g.jpg"
     width: 400
-    height: 250
+    height: 300
     isCached: true
 
 related:
@@ -407,6 +405,20 @@ related:
         width: 790
         height: 622
         isCached: true
+  - title: "QuerySurge is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "\"We are excited to release QuerySurge in the Azure marketplace as a pay-as-you-go solution,\" said Bill Hayduk, CEO of RTTS and leader of the QuerySurge software division. \"Microsoft Azure solves ..."
+    publishedDateTime: 2021-03-18T09:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/querysurge-is-now-available-in-the-microsoft-azure-marketplace-1030222747"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1458626/QuerySurge_Logo.jpg"
+        width: 400
+        height: 250
+        isCached: true
   - title: "AT&T Is Moving Its 5G Cloud Network to Microsoft’s Azure"
     excerpt: "AT&T Inc. is enlisting Microsoft Corp. to run its next-generation mobile network, a key win in the race by cloud companies to lock down largeclients."
     publishedDateTime: 2021-06-30T15:57:00Z
@@ -761,22 +773,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/03/hbo-max-hero.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Cloud-native Software Market is Going to Boom with IBM, Microsoft Azure, Oracle"
-    excerpt: "The study covers emerging player’s data, including: competitive landscape, sales, revenue and global market share of top manufacturers are IBM (United States),Nokia (Finland),Onica (United States) ,Microsoft Azure (United States),Google (United States ..."
-    publishedDateTime: 2021-07-13T08:44:00Z
-    webUrl: "https://www.openpr.com/news/2326971/cloud-native-software-market-is-going-to-boom-with-ibm"
-    ampWebUrl: "https://www.openpr.com/amp/2326971/cloud-native-software-market-is-going-to-boom-with-ibm"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2326971/cloud-native-software-market-is-going-to-boom-with-ibm"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
-    images:
-      - url: "https://cdn.openpr.com/U/7/U713763118_g.jpg"
-        width: 400
-        height: 300
         isCached: true
   - title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
     excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its ultralow power WE-I Plus AIoT Platform has been listed in the Azure Certified Device Catalog after receiving Microsoft Azure IoT PnP certification."
@@ -2207,6 +2203,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "Z6FZnIMeRC+SwXz1LdXcU4D3jy2YzLlD1XfxfUqwtLcvFuufrWqvm4XNqDrOU+syshrfaBLFXNlxKp4ecGTMkJb7GKWXFM8VCJF8Pcz4cR0zNjHcJTa9SLXikG12H/5oGEMTyWJ222eZVdM1xGFU170yPcxl1rPESMA/3D4W+qtYWUj3PNs27g9rJMBCTsyKt2KAX5g0pjBdTmHTlo7zKRY/bxuvhLloo+lWyoPMXyHmpoXp5ts+tHfMmjI2zS2FXWnoJxmaBf+rriicGD7RqyFA+qCoToLXB7sUtXGy/RoDaIiWhxLQqDyWhNFIhsD1EDzG17d6OYqfmhWSp8X5Oe0Woqu+BklmLavrJtXzeTE=;AGSZYuSsTukgSGCeTzxqKQ=="
+secured: "3auGv9uVf7EwAbUFifT3uRHuKM0UZwBPl7oPxIbdRJF8o7NGLp8duOa3je1a02SKBZLqiU2L1c/+R8I5g4QZuMc0o95tBpRX0WIUIzz8P5aRRvvGLgBlld++b1+1U2OlAr/iGWRYffqoYveWxJBC+DvEyyfD0dSA6H4TYHM0DPYbPsjUJUMC+cpV1tAP/SOTpwbNIncr72vyG18OuWq+6J34AZhaY2+7rngkymuTGk5mtfJ3z9Dsvwe3j8PalRYHmJLDoOKxnznNeoj6R7u6t0f1d0jiqhkJkbk+FbZuOIspKAwkSCnDGq0jUO6HAXhYW3DZIP3r7P30AQttQ+KwfmnPIyiayCLa7sufZQDdsA8=;+LUCSoEMY5Al4fZIIqdj/g=="
 ---
 
