@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Public preview: App Service Managed Certificates now supports apex domains"
-excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
-publishedDateTime: 2021-03-17T16:00:26Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-app-service-managed-certificates-now-supports-apex-domains/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-app-service-managed-certificates-now-supports-apex-domains/"
+title: "Public preview: Azure Service Bus support for large messages"
+excerpt: "You can now send and receive message payloads of up to 100MB in Azure Service Bus premium tier namespaces."
+publishedDateTime: 2021-07-14T21:00:32Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-service-bus-support-for-large-messages/"
+webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-service-bus-support-for-large-messages/"
 type: article
 quality: 67
 heat: -1
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Compute
 
 related:
   - title: "Public Preview: Azure App Service Migration Assistant - Java Tomcat Support"
@@ -77,10 +76,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public preview: Azure Service Bus support for large messages"
-    excerpt: "You can now send and receive message payloads of up to 100MB in Azure Service Bus premium tier namespaces."
-    publishedDateTime: 2021-07-14T21:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-service-bus-support-for-large-messages/"
+  - title: "Public preview: App Service Managed Certificates now supports apex domains"
+    excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
+    publishedDateTime: 2021-03-17T16:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-app-service-managed-certificates-now-supports-apex-domains/"
     type: article
     provider:
       name: Microsoft
@@ -96,6 +95,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "AqHRBXeAe35sWMi3GTsokcBzQEabL07GOjqSdwfOkp6LeAj8naKs2w0QvThkW06dx3tmMQlmei3gT0AavGG0a+P9UJ8UpQhKpuPKHjhFGgb+AZthx4nolUUqKqgAaIMXm1oiHsxdnF1W8aPA3Dey5d/HaUWibAiZHMMZXQh4ZYI26FnLwtFippJFgoYn5Ycm8cD9WtguU9p+B3gOVV6qXOXvpch0QaW+2iuXIfwsQxTiBDc89Tml0Urbk7JTQhtARHM8lugybwa4Ht79FEh/TU2OeKK7L98M9w3dFpXTis9+CfyRs2JwIXjFuviqAEd9JbwiRbDfjZxUMdpQZS0MHcXzjZCKDJM13im8qPk9oF0=;jn+7uHHKlw/KkXyj5KQJOw=="
+secured: "WxoGYJbexZoyvBESAj/0mzwEDQXKZxTfqQw3JgJjVXh9ttdTOeVKQ+KlJZPLdJpEhUPc2bQ4V9Wq2EAxJb85MMR7hlVWxldBoJ91CX3usAx4U7Oe3DSUPFYt2XkTAEJBGCGtKL9BGsxT3kbMHpehh5nQcakGeVoFokE6N641KcscUgixZ1mRtm/dMNofdJQE5RnYYsWkK0k+/MXcNl/l8pgibrPAYP7BiGwtZsP6z0ksSjgoZar15PRRbH023XHO5eNam55jE6JRa6m8rvklOk7X4PffuHfZ6h/oBQhAMBbVSSHxVd11vmUwd0B1LUYUr7d9oT/ytO4N3XJnuBW+HrWzHRGNF2WBiCBLNyjlNMM=;l32etZqcwXQ2blP9gOe6NA=="
 ---
 

@@ -76,6 +76,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Public preview: Azure Service Bus support for large messages"
+    excerpt: "You can now send and receive message payloads of up to 100MB in Azure Service Bus premium tier namespaces."
+    publishedDateTime: 2021-07-14T21:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-service-bus-support-for-large-messages/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Public preview: Service Bus support for large message payloads"
     excerpt: "Customers can now send data payloads up to 100 MB is Service Bus Premium."
     publishedDateTime: 2021-01-21T17:01:22Z
