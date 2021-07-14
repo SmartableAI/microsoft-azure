@@ -24,6 +24,7 @@ items:
   - courses/microsoft-learn-optimize-wvd
   - courses/microsoft-learn-wvd-security
   - courses/microsoft-learn-wvd-msix-app-attach
+  - courses/microsoft-learn-protect-virtual-desktop-deployment-azure-firewall
 
 topics:
   - Azure
