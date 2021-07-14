@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 1259
+heat: 1279
 published: true
 
 provider:
@@ -508,6 +508,15 @@ related:
     excerpt: "Virtual machine (VM) level disk bursting enables your workloads to handle unforeseen disk traffic spikes smoothly without the need to overprovision your virtual machine. The feature is now enabled on all Dsv3-series and Esv3-series virtual machines."
     publishedDateTime: 2021-03-31T16:00:57Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-virtual-machine-vm-level-disk-bursting-available-on-all-dsv3-and-esv3-families/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 53
+  - title: "General availability: Deliver a secure hybrid workplace with Azure Virtual Desktop and Windows 365"
+    excerpt: "Learn about our new announcements and product updates for Azure Virtual Desktop at Microsoft Inspire 2021."
+    publishedDateTime: 2021-07-14T18:01:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-ways-to-deliver-a-secure-hybrid-workplace-with-azure-virtual-desktop-and-windows-365/"
     type: article
     provider:
       name: Microsoft

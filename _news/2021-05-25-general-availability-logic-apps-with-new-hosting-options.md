@@ -518,6 +518,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 53
+  - title: "General availability: Deliver a secure hybrid workplace with Azure Virtual Desktop and Windows 365"
+    excerpt: "Learn about our new announcements and product updates for Azure Virtual Desktop at Microsoft Inspire 2021."
+    publishedDateTime: 2021-07-14T18:01:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-ways-to-deliver-a-secure-hybrid-workplace-with-azure-virtual-desktop-and-windows-365/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 53
   - title: "General Availability: Application Insight in UK West"
     excerpt: "Application Insight, a part of Azure Monitor,  is now generally available in the UK West region for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2020-09-29T15:23:28Z

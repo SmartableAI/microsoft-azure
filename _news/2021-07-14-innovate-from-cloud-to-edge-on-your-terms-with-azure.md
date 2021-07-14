@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/innovate-from-cloud-to-edge-on-yo
 webUrl: "https://azure.microsoft.com/blog/innovate-from-cloud-to-edge-on-your-terms-with-azure/"
 type: article
 quality: 91
-heat: 131
+heat: 132
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-upd
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-july-2021/"
 type: article
 quality: 104
-heat: 525
+heat: 524
 published: true
 
 provider:

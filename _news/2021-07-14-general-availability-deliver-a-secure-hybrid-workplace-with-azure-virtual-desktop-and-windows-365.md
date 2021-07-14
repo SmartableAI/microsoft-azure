@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Kubernetes v1.20 support in AKS"
-excerpt: "Benefit from the new features in Kubernetes 1.20, now supported by AKS in general availability."
-publishedDateTime: 2021-03-31T16:01:42Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-kubernetes-v120-support-in-aks/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-kubernetes-v120-support-in-aks/"
+title: "General availability: Deliver a secure hybrid workplace with Azure Virtual Desktop and Windows 365"
+excerpt: "Learn about our new announcements and product updates for Azure Virtual Desktop at Microsoft Inspire 2021."
+publishedDateTime: 2021-07-14T18:01:31Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/new-ways-to-deliver-a-secure-hybrid-workplace-with-azure-virtual-desktop-and-windows-365/"
+webUrl: "https://azure.microsoft.com/en-us/updates/new-ways-to-deliver-a-secure-hybrid-workplace-with-azure-virtual-desktop-and-windows-365/"
 type: article
-quality: 84
+quality: 53
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Containers
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -167,6 +166,15 @@ related:
     excerpt: "Use Azure Private Link to connect to an Azure Cache for Redis instance from your virtual network via a private endpoint to eliminate data exposure to the public internet."
     publishedDateTime: 2021-03-31T16:01:57Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-cache-for-redis-in-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Kubernetes v1.20 support in AKS"
+    excerpt: "Benefit from the new features in Kubernetes 1.20, now supported by AKS in general availability."
+    publishedDateTime: 2021-03-31T16:01:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-kubernetes-v120-support-in-aks/"
     type: article
     provider:
       name: Microsoft
@@ -510,15 +518,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 53
-  - title: "General availability: Deliver a secure hybrid workplace with Azure Virtual Desktop and Windows 365"
-    excerpt: "Learn about our new announcements and product updates for Azure Virtual Desktop at Microsoft Inspire 2021."
-    publishedDateTime: 2021-07-14T18:01:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-ways-to-deliver-a-secure-hybrid-workplace-with-azure-virtual-desktop-and-windows-365/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 53
   - title: "General Availability: Application Insight in UK West"
     excerpt: "Application Insight, a part of Azure Monitor,  is now generally available in the UK West region for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2020-09-29T15:23:28Z
@@ -556,6 +555,6 @@ related:
       domain: microsoft.com
     quality: 42
 
-secured: "q9vBBdC7uGs2/rbWzSaQHmwXeorSQCknebHj3MblfWS9XEivCuxn7vwxIfp2OpN3lqyd+58GiXAulR3rNVYY7gWut6AnTgYooL8/5BWhAafLdhrlrogcCe/GWoBB5TdNxXNNhxhYFkvg9NySv/xTRv2PSXwoWD5rp13TYI1345oxM2jaV9Wbi4+JQGei0FY8iqyqeV6Fp+3XVAiYmfGxsGo6Igtpq+euqW0upyI2LiGGlwGCDtB2zSlv0ptQE6CPUDF4+tkxA03coFODXBncbVOEhmqkHCzA/4XO06pNToxy6U3pPWVJoACfWY58wvKH3FQ7PgSydJyOHLQiZH03AQLi2vsZSAGRYZN3ib5/m9g=;ZVgDypR5LIsk6RuT16iSWg=="
+secured: "+1Ql/jUmEBYnJz/ggMhKxPCyXZTflPJJkGZRnRgmyp7vQlVOsTAhqtNuOZyw+M0D1IkwN3Ul8A8RqaVaGQXHAeogakipg4D5WcDAUcTGHrqMV6wuobzLGyREzlQeCgR85avh9NVJvZG9/GgROAoSw5bq+SvsdY8NE8BsQyufQh0M00R0oA39w/s9vj45MScX4ivJ4HmdlWYI6458ivotJK3OfIGfWZj79YMATcGg3RF6OiRQ4e5ct+ZT04lAqtT9bCbY+QL+1iSrAIFXvnOzWnqDd5ARTp7GYXu9H0BpuaSUmzrg270CW0Krh7R2s7swHTRcGtFpJlEqudwQhtE/MOBMOAME7DJEoYdw3z5Sv5k=;hMR1sB8m8hXCcfAJe6w+QA=="
 ---
 

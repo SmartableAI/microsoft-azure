@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-ad-authentication-
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-ad-authentication-for-application-insights/"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:
