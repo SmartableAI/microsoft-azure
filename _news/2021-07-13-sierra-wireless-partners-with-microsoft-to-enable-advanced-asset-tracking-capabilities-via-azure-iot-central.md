@@ -42,6 +42,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Sierra Wireless integrates location platform Acculink with Microsoft Azure IoT Central"
+    excerpt: "Sierra Wireless announced that its managed IoT platform, Acculink, was successfully integrated with Microsoft Azure IoT Central. Acculink helps companies to track the location and condition of high-value and sensitive assets. Acculink leverages Sierra ..."
+    publishedDateTime: 2021-07-14T08:33:00Z
+    webUrl: "https://www.telecompaper.com/news/sierra-wireless-integrates-location-platform-acculink-with-microsoft-azure-iot-central--1390085"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 26
   - title: "Sopra Steria earns Microsoft Azure Expert MSP certification"
     excerpt: "IT services group Sopra Steria has been awarded Microsoft Azure Expert MSP (Managed Service Provider) status. This partner programme has been developed to ensure that end-customers and Microsoft's teams can connect with the most capable Azure managed service providers."
     publishedDateTime: 2021-07-12T12:44:00Z

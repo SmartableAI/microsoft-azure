@@ -1,21 +1,22 @@
 ---
 category: news
-title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
-excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
-publishedDateTime: 2021-07-13T07:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
+title: "Sierra Wireless integrates location platform Acculink with Microsoft Azure IoT Central"
+excerpt: "Sierra Wireless announced that its managed IoT platform, Acculink, was successfully integrated with Microsoft Azure IoT Central. Acculink helps companies to track the location and condition of high-value and sensitive assets. Acculink leverages Sierra ..."
+publishedDateTime: 2021-07-14T08:33:00Z
+originalUrl: "https://www.telecompaper.com/news/sierra-wireless-integrates-location-platform-acculink-with-microsoft-azure-iot-central--1390085"
+webUrl: "https://www.telecompaper.com/news/sierra-wireless-integrates-location-platform-acculink-with-microsoft-azure-iot-central--1390085"
 type: article
-quality: 17
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
+  - IoT
 
 related:
   - title: "TeraGo Expands its Microsoft Portfolio with Managed Azure and Disaster Recovery Solutions"
@@ -41,15 +42,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Sierra Wireless integrates location platform Acculink with Microsoft Azure IoT Central"
-    excerpt: "Sierra Wireless announced that its managed IoT platform, Acculink, was successfully integrated with Microsoft Azure IoT Central. Acculink helps companies to track the location and condition of high-value and sensitive assets. Acculink leverages Sierra ..."
-    publishedDateTime: 2021-07-14T08:33:00Z
-    webUrl: "https://www.telecompaper.com/news/sierra-wireless-integrates-location-platform-acculink-with-microsoft-azure-iot-central--1390085"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 26
   - title: "Sopra Steria earns Microsoft Azure Expert MSP certification"
     excerpt: "IT services group Sopra Steria has been awarded Microsoft Azure Expert MSP (Managed Service Provider) status. This partner programme has been developed to ensure that end-customers and Microsoft's teams can connect with the most capable Azure managed service providers."
     publishedDateTime: 2021-07-12T12:44:00Z
@@ -58,6 +50,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 17
+  - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
+    excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
+    publishedDateTime: 2021-07-13T07:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
   - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
     excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customers VANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX ..."
@@ -78,6 +79,6 @@ related:
       domain: morningstar.com
     quality: 1
 
-secured: "xyWVruIUmHh+rsSjjO47ptfqigCRCczzHJmrucaUkuIkbuXfhDh0rLK6gg+AB40r/42RGGJxm61jwgadfrzrqX+isXsaR4x2g5dTAVrpUkdG5VvPRXu167uO076uMae5iEYBuEVnCPeWWGSAv/Bxui2JjQQ/Eo/YxO5QvDtVtG8jA+PjAGSQiEf1qdnyUXz7xE6bbBu9nkOKSyV8bY1C80QXb7v5vZsWW6VdDAyxu0pt8TPNgfpQH3qCCU6BiOAEe7+gHUI7Dk+74soajJbd/FPM/yV7lPJUaMovvrCgafGTjN8OLgxnWnBme4XIic92Kvd1/KNo/6GX5szY48iJPtf5MuTaDJcnuzRxgpZsbstIx7lMTLN9fwzLsHs/qSX4ROEpGMFkbG55Ww1udaOgSCPFYm/hU95qtM60S9J4MVsZow23OJEFlPcivkS5A+j1Q6Mmy5EgaI+UEI4GXeFZdA5e3rda5ieeRJylFESWemJy7mscu69zbMQSOIxrvDS1oe24BaGtThGpRFusa2s7lw==;RyTYHVOzpJkv07WFDbEGPg=="
+secured: "Ea+hLaUYmjbYSVoDqDRCADtFVs4/o/00o23ahXEtQzgd5FXc/HvJLAp3gjw/++l28T6F0s70yvqb8FOwpXqhDgiT1CRVmLb9NEJ1Errz+K6LHm4Iu8CJ+KI6vLa0v+5qkby9Dq4sP/FaYVlWKGNc/oddwjG3GhetwWesQTNn18p72TgMI10Pm6VAx4H5qnMIdfPfRcU3Zg5NcG5iHKtFMxHH9/CMqpHsBfRbEHYmILackhkA3I+4hpVSNnxJFDvcW2IMKLBdOQSpcVHMESyW6Sz02mH6vesqtvkiLNIdpyUjc4O8lM0FvJI8RK+GLJGrnZ8xG0ZeEL5+wVjU/gAqEEXP4DFHNbGu1mv5WMTFOQc=;exMmrc/jgnzAa92CTWw6Ng=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-green
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/private-cloud/359944/hpe-expands-greenlake-offerings-for-microsoft-azure?amp"
 type: article
 quality: 97
-heat: 437
+heat: 438
 published: true
 
 provider:

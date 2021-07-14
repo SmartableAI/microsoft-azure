@@ -41,6 +41,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Sierra Wireless integrates location platform Acculink with Microsoft Azure IoT Central"
+    excerpt: "Sierra Wireless announced that its managed IoT platform, Acculink, was successfully integrated with Microsoft Azure IoT Central. Acculink helps companies to track the location and condition of high-value and sensitive assets. Acculink leverages Sierra ..."
+    publishedDateTime: 2021-07-14T08:33:00Z
+    webUrl: "https://www.telecompaper.com/news/sierra-wireless-integrates-location-platform-acculink-with-microsoft-azure-iot-central--1390085"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 26
   - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
     excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
     publishedDateTime: 2021-07-13T07:13:00Z
