@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/manage-rdp-and-ssh-connectivity-a
 webUrl: "https://azure.microsoft.com/blog/manage-rdp-and-ssh-connectivity-at-scale-with-azure-bastion/"
 type: article
 quality: 91
-heat: 91
+heat: 92
 published: true
 
 provider:

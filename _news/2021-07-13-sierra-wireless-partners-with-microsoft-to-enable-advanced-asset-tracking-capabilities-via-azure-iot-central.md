@@ -28,6 +28,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
+    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
+    publishedDateTime: 2021-07-09T16:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Sopra Steria earns Microsoft Azure Expert MSP certification"
     excerpt: "IT services group Sopra Steria has been awarded Microsoft Azure Expert MSP (Managed Service Provider) status. This partner programme has been developed to ensure that end-customers and Microsoft's teams can connect with the most capable Azure managed service providers."
     publishedDateTime: 2021-07-12T12:44:00Z
@@ -46,15 +60,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
-    excerpt: "Insight’s deep expertise in Microsoft Azure accelerates application modernization and cloud adoption every step of the way Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all ..."
-    publishedDateTime: 2021-07-09T16:12:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210709005356/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 15
   - title: "HashiCorp Recognized as the Winner of 2021 Microsoft Open Source Software on Azure Partner of the Year"
     excerpt: "“Being recognized as the winner of the 2021 Microsoft OSS on Azure Partner of the Year award is a reflection of the continued partnership and deep collaboration between HashiCorp and Microsoft ..."
     publishedDateTime: 2021-07-08T19:22:00Z
