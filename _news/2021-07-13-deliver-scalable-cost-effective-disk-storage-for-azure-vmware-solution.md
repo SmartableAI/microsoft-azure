@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-13T09:00:16Z
 originalUrl: "https://azure.microsoft.com/blog/deliver-scalable-costeffective-disk-storage-for-azure-vmware-solution/"
 webUrl: "https://azure.microsoft.com/blog/deliver-scalable-costeffective-disk-storage-for-azure-vmware-solution/"
 type: article
-quality: 86
-heat: 106
+quality: 88
+heat: 108
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Azure
   - Storage
   - Compute
+  - Management tools
 
 related:
   - title: "Disk pool for Azure VMware Solution now in public preview"

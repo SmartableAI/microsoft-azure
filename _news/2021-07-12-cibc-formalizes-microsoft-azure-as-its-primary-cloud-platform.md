@@ -40,6 +40,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Windows 365 is the long-awaited Microsoft Cloud PC service"
+    excerpt: "Simpler setup, simpler management and simpler pricing than the Azure Virtual Desktop service, plus full integration with existing device management tools but not (yet) a consumer option."
+    publishedDateTime: 2021-07-14T15:00:00Z
+    webUrl: "https://www.techrepublic.com/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 82
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/07/14/0d0814e6-1260-4e39-bda7-2d20fe68970a/resize/1200x/d8869d67ea83362cff8b91ce2fe939bc/windows-365-will-offer-windows-10-and-11-from-the-cloud-embargo-until-july-14-8am-pt.jpg"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
     excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
     publishedDateTime: 2021-07-12T13:20:00Z
@@ -106,6 +122,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
+  - title: "TIBCO Recognized as a Finalist in the 2021 Microsoft Azure Partner of the Year Awards"
+    excerpt: "\"Our continued focus on developing technologies that deliver a cloud-first experience aligns perfectly to our close collaboration with Microsoft and the Azure cloud computing platform,\" said Tony Beller,"
+    publishedDateTime: 2021-07-13T00:00:00Z
+    webUrl: "https://www.pressreleasepoint.com/tibco-recognized-finalist-2021-microsoft-azure-partner-year-awards"
+    type: article
+    provider:
+      name: KLAS Press Release
+      domain: pressreleasepoint.com
+    quality: 30
+    images:
+      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "Microsoft cloud solution architect weighs in on cloud computing and more"
     excerpt: "Hybrid cloud solutions are hot right now, with many businesses recognizing the benefits of both on-premises and cloud architecture enterprises, especially in tandem. Approaching on-prem and cloud services,"
     publishedDateTime: 2021-07-08T22:27:00Z

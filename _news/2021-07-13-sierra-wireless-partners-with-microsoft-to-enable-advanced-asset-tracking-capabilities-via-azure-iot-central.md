@@ -19,15 +19,34 @@ topics:
   - IoT
 
 related:
-  - title: "TeraGo Expands its Microsoft Portfolio with Managed Azure and Disaster Recovery Solutions"
-    excerpt: "CNW/ - TeraGo Inc. (\" TeraGo \" or the \" Company \") (TSX: TGO) (  ), announced today that it has expanded its Microsoft product portfolio with the addition of Microsoft 365, Managed Microsoft Azure, and Managed Disaster Recovery."
-    publishedDateTime: 2021-07-13T13:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/terago-expands-its-microsoft-portfolio-with-managed-azure-and-disaster-recovery-solutions-1030601302"
+  - title: "Microsoft Cloud for Sustainability will offer actionable insights on carbon emissions"
+    excerpt: "At its ongoing Inspire 2021 conference today, the Redmond tech giant has announced the Microsoft Cloud for Sustainability Initiative. The Microsoft Cloud for Sustainability offer is currently in preview and is designed to allow organizations to track their ..."
+    publishedDateTime: 2021-07-14T15:13:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-cloud-for-sustainability-will-offer-actionable-insights-on-carbon-emissions/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
+      name: Neowin
+      domain: neowin.net
+    quality: 55
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/07/1626251710_government_of_nunvut_employees_under_embargo_until_july_14_@8am_pt_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+  - title: "11 Top Azure Announcements From Microsoft Inspire 2021"
+    excerpt: "A Microsoft Cloud for Sustainability, new Azure Kubernetes Service smart defaults and an Azure Synapse partner center that will connect customers to partner solutions were among the top cloud computing announcements at Microsoft Inspire 2021."
+    publishedDateTime: 2021-07-14T15:00:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/11-top-azure-announcements-from-microsoft-inspire-2021"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0269-125c74ee81ff-25ae23038fad-1000/microsoft-azure-sign-2.jpg"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
     publishedDateTime: 2021-07-09T16:02:00Z
@@ -51,15 +70,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 26
-  - title: "Sopra Steria earns Microsoft Azure Expert MSP certification"
-    excerpt: "IT services group Sopra Steria has been awarded Microsoft Azure Expert MSP (Managed Service Provider) status. This partner programme has been developed to ensure that end-customers and Microsoft's teams can connect with the most capable Azure managed service providers."
-    publishedDateTime: 2021-07-12T12:44:00Z
-    webUrl: "https://www.telecompaper.com/news/sopra-steria-earns-microsoft-azure-expert-msp-certification--1389868"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
   - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
     excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
     publishedDateTime: 2021-07-13T07:13:00Z
@@ -69,15 +79,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "HashiCorp Recognized as the Winner of 2021 Microsoft Open Source Software on Azure Partner of the Year"
-    excerpt: "“Being recognized as the winner of the 2021 Microsoft OSS on Azure Partner of the Year award is a reflection of the continued partnership and deep collaboration between HashiCorp and Microsoft ..."
-    publishedDateTime: 2021-07-08T19:22:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8277544/hashicorp-recognized-as-the-winner-of-2021-microsoft-open-source-software-on-azure-partner-of-the-year"
+  - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
+    excerpt: "Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason to upgrade VMs soon. New VMs featuring 3rd Generation Intel Xeon Scalable processors are currently in preview,"
+    publishedDateTime: 2021-07-07T07:10:00Z
+    webUrl: "https://www.pr.com/press-release/826372"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
+      name: PR
+      domain: pr.com
     quality: 1
+    images:
+      - url: "https://img.pr.com/release/2107/416814/pressrelease_416814_1625584870.png"
+        width: 500
+        height: 647
+        isCached: true
 
 secured: "2zTcXTGvKR5o++vMdIuYkHX3iA9ADV5lA3+EWKI5QxlYitu5K5K8w5AzWhO1KfgG1S3xg5bBHzaJVsQoZxwEvFglPod2nFykQHxw6XP7ybUmofb0YSrdqhlgfM0PEAuYpegHoDMNgz7kUB/KFAWnXfuvGPYJYecukNMTZky7dZe6qwfokE7bMSMiqJ8TBoW9qkY2X+VuQGBrWaZwgMJEJWGNTykm8G0UWwxzdYzZLuxdlTnWmKYYoHbt7HoxpDD3eo2yDlZ1KFj1RTB6kN8jN/zS+qZIZHKQnqIKDIgh5yy/KiL618p1Md3tAP5eHdFTCfRYLSyKtRGZlzJW4KgWk4FeMuo3DbpNqBiwlea3oxA=;223XCGB75VtrvaFfUmkXFw=="
 ---

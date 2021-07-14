@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/07/177735-digital-transformati
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/amp/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,15 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Enhance your cloud skills and accelerate digital transformation with Inside Azure for IT"
-    excerpt: "Over the last year, we’ve seen accelerated cloud adoption and digital transformation across every industry—all aimed at optimizing business operations, saving money, and enhancing customer experiences. Today, we’re introducing Inside Azure for IT, a new online technical skilling program with resources"
-    publishedDateTime: 2021-07-12T12:00:04Z
-    webUrl: "https://azure.microsoft.com/blog/enhance-your-cloud-skills-and-accelerate-digital-transformation-with-inside-azure-for-it/"
+  - title: "Digital Transformation: Qatar Financial Center Regulatory Authority to Migrate Online Services to Microsoft Cloud"
+    excerpt: "The Qatar Financial Center Regulatory Authority (QFCRA) recently revealed that it will be migrating its online services to the Microsoft Cloud in order to move forward with its digital transformation strategy."
+    publishedDateTime: 2020-09-19T00:43:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/09/166929-digital-transformation-qatar-financial-center-regulatory-authority-to-migrate-online-services-to-microsoft-cloud/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/09/166929-digital-transformation-qatar-financial-center-regulatory-authority-to-migrate-online-services-to-microsoft-cloud/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166929-digital-transformation-qatar-financial-center-regulatory-authority-to-migrate-online-services-to-microsoft-cloud/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 60
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 21
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Doha-Doha-Qatar-elissar-haidar-unsplash-300x270.jpg"
+        width: 300
+        height: 270
+        isCached: true
 
 secured: "6/pjivd19gDxn59GDQUY/TsT9nUVnQXFEu3700gJghH/xm/hB0y0zGWpkbhMOKvnnTvuWbaKODk8HiF1Ur/RC7a02NgBeG+RDbGUG2RHMU9D1S3MAbLGFqKk+42GFj9Wg8DTzPYUiNv8Vir4VSEFzMOzD57NJvzr0tpFzdo/jYFOjEiDZkELrZciybOCALTmz/Xt8+JjtacwBfZAeAbtWebZEyI1FcboPPbfdU6vVgjxmt7/tR24WVXi5LK+zGdGNq8U24j1D2AX80MSx6pMO0kcPQ7WCEFoJAhkHc1KN76UklG8ELO9GHGLwEb9bXNb2GkC1wCDQIBMv7KE/HZunRUCVhN/tai//GhJQGntwhDnZV0ecsDB/j+UlEmkMbCkHqwF/w1g9yGp78dwGu/mE/ROEx822Fodg+bpaBJ05xqA0ABQa2E+i0ajlXgrkLGuo1LDA0gAnXqj+GetF9Ru9/M/GeHF+NzIIJLns74fJu1bclhrVSpfbB9H0KbhQuhmei5QvyljyROCQWIafBDZ1w==;nF1sMl9AY+Lpl6aFiLVKiw=="
 ---
