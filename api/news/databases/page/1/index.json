@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-14-confidential-computing-using-always-encrypted-with-secure-enclaves-for-azure-sql-database-in-general-availability.md",
+      "title": "Confidential computing using Always Encrypted with secure enclaves for Azure SQL Database in general availability",
+      "excerpt": "Always Encrypted with secure enclaves helps prevent malicious admins and malware from exfiltrating sensitive data, while enabling in-place encryption and rich confidential computations, including pattern matching, range comparisons, and sorting.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/confidential-computing-using-always-encrypted-with-secure-enclaves-for-azure-sql-database-in-general-availability/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/confidential-computing-using-always-encrypted-with-secure-enclaves-for-azure-sql-database-in-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T09:00:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-use-new-relic-one-to-effortlessly-monitor-applications-in-azure-spring-cloud.md",
       "title": "Use New Relic One to effortlessly monitor applications in Azure Spring Cloud",
       "excerpt": "Today, we are announcing the integration of New Relic One performance monitoring in Azure Spring Cloud. Over the past 18 months, we worked with many enterprise customers to learn about their scenarios. Many of these customers have thousands of Spring Boot applications running in on-premises data centers.",
@@ -1295,50 +1338,6 @@
         "Azure",
         "Databases",
         "Developer tools"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-meeting-developer-needs-with-powerful-new-features-in-azure-cache-for-redis.md",
-      "title": "Meeting developer needs with powerful new features in Azure Cache for Redis",
-      "excerpt": "In May, we announced a groundbreaking partnership with Redis Labs to bring their Redis Enterprise software to Azure as a part of Azure Cache for Redis. We were humbled by the level of excitement and interest we received. We are announcing that you can now use Redis to tackle new challenges while making",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/meeting-developer-needs-with-powerful-new-features-in-azure-cache-for-redis/",
-      "originalUrl": "https://azure.microsoft.com/blog/meeting-developer-needs-with-powerful-new-features-in-azure-cache-for-redis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T01:00:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Developer tools",
-        "Databases"
       ]
     }
   ],

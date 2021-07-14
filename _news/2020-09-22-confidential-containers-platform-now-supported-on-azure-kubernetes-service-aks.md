@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/confidential-containers-
 webUrl: "https://azure.microsoft.com/en-us/updates/confidential-containers-platform-now-supported-on-azure-kubernetes-service-aks/"
 type: article
 quality: 109
-heat: 549
+heat: 569
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
     excerpt: "You can now invoke commands in an AKS cluster for just-in-time access when you are not on the cluster private network. "
     publishedDateTime: 2021-03-31T16:01:07Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-azure-kubernetes-service-aks-runcommand-feature/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Public preview: Azure Kubernetes Service (AKS) smart defaults"
+    excerpt: "Use scenario-specific cluster configurations to get going quickly and easily, while retaining the ability to customize to meet your unique needs as needed."
+    publishedDateTime: 2021-07-14T16:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-kubernetes-service-aks-smart-defaults/"
     type: article
     provider:
       name: Microsoft

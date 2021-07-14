@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/microsoft-cloud-for-sustainability-wil
 webUrl: "https://www.neowin.net/news/microsoft-cloud-for-sustainability-will-offer-actionable-insights-on-carbon-emissions/"
 type: article
 quality: 55
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
+  - title: "Inspire 2021: Microsoft announces a new industry cloud: The Microsoft Cloud for Sustainability"
+    excerpt: "Inspire conference, Microsoft is going big on sustainability. The company announced a new cloud offering to help address sustainability needs"
+    publishedDateTime: 2021-07-14T15:02:00Z
+    webUrl: "https://www.onmsft.com/news/new-microsoft-cloud-for-sustainability-inspire"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 10
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/06/windowsclouds.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
     excerpt: "Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason to upgrade VMs soon. New VMs featuring 3rd Generation Intel Xeon Scalable processors are currently in preview,"
     publishedDateTime: 2021-07-07T07:10:00Z

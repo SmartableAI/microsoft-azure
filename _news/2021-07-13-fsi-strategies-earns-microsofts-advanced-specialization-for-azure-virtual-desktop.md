@@ -59,6 +59,15 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads,"
+    publishedDateTime: 2021-07-14T16:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030607629"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
   - title: "Optimus has Earned The Modernization of Web Apps to Microsoft Azure Advanced Specialization"
     excerpt: "Optimus Information Inc. today announced that it has earned the Modernization of Web Apps to Microsoft Azure advanced specialization. Vancouver, British Columbia, July 8, 2021 -/P"
     publishedDateTime: 2021-07-07T00:00:00Z

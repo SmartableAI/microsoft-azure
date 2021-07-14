@@ -93,6 +93,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
+  - title: "Inspire 2021: Microsoft announces a new industry cloud: The Microsoft Cloud for Sustainability"
+    excerpt: "Inspire conference, Microsoft is going big on sustainability. The company announced a new cloud offering to help address sustainability needs"
+    publishedDateTime: 2021-07-14T15:02:00Z
+    webUrl: "https://www.onmsft.com/news/new-microsoft-cloud-for-sustainability-inspire"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 10
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/06/windowsclouds.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "xlFSuto7d7pvEwSMr392I9vjWuXCtHcJsPkufIsx3l5pTKTNvEzVxuwfdfA/ZFiVxZJOvcMimJkH/2r8+i2pxC73ggulyUPuA7aWYjFF6Tv+Kv7d2fPwHlh1NXsoiosfSHrZ3ekqChXPYoj8HXFfzkNpzcnUWRdaH0wbqYi9I+RjaMFyeQZ2p1SaPAXOvSEOr/7d5oYjLOm7gIU9Q+YH5OBiMUngIxk7GdfYBxjdy8oWHVYkcpkUMT7EPeX5R1hgJl3+VuKgR3zkpLqjqqAPgzcGLCuGO2NNly3xKJYmgxdzPF+xu4Y4CZUzZ72zUEBw3NA09/EDpEFl9GGxRsfAM3Jti31XyOjgRYbPsrEgYVg=;rBEPG7qoT/W/hvEgtt+0cw=="
 ---

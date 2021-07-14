@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-upd
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-july-2021/"
 type: article
 quality: 104
-heat: 465
+heat: 525
 published: true
 
 provider:
@@ -101,6 +101,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure SQL enabled by Azure Arc generally available on July 30, 2021"
+    excerpt: "Bring cloud data management to data workloads on-premises, at the edge, and in multicloud environments. "
+    publishedDateTime: 2021-07-14T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-enabled-by-azure-arc-generally-available-on-july-30-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Insights and workbooks for Azure Cosmos DB now in general availability"
+    excerpt: "Now generally available, Azure Monitor insights and Azure Monitor workbooks make it easier to visualize and customize metrics for dynamic monitoring of your Azure Cosmos DB resource. "
+    publishedDateTime: 2021-07-14T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/insights-and-workbooks-for-azure-cosmos-db-now-in-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure API Management support for Availability Zones now generally available"
     excerpt: "Improve the resiliency of your API Management services with Availability Zones."
     publishedDateTime: 2021-04-14T16:00:19Z
@@ -110,6 +128,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 82
+  - title: "General availability: New Azure Monitor built-in policy for Log Analytics workspace and linked automation account"
+    excerpt: "A new Azure Monitor built-in policy gives you control to provision central Log Analytics workspaces and linked automation account across your subscriptions consistently."
+    publishedDateTime: 2021-07-14T16:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-new-azure-monitor-builtin-policy-for-log-analytics-workspace-and-linked-automation-account/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "General availability: Azure API Management Premium tier price reduction for incremental purchased units"
     excerpt: "After the first purchased unit, a price reduction of 50% will be applied on all subsequent units purchased. "
     publishedDateTime: 2021-06-02T16:34:59Z

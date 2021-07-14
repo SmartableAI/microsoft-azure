@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Call recording in public preview for Azure Communication Services "
+    excerpt: "Call recording for Azure Communication Services helps to simplify and improve the recording process during calls. "
+    publishedDateTime: 2021-07-14T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/call-recording-in-public-preview-for-azure-communication-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "JmM2bu92fI9D11e27ngmgFPKFXenKGQLpWOsz0WC6XISG1Xz24XtemO9ulaUh0XpaUjEdjDGTD0awHz60IR1V1laUPg/u5jeGiPH91G55d/f7YnFY+DuUAXpkGNqM2UFIL/3D+8nK5y8TLqAjKnP8w79lQFXUdd3vDCH5R2ugUkqVY16t87eop/LVNKymtkiueV43Hrwnx0m05FT0tOiGOmFyXLCtzY6YT60YS+ucvhQFgK7QrmZl/HWvBcT7CnrSAaSorniZtpNEstGJwmwRxyIRvnkaNg5UWCqQB9IOHO/1gKIJjqpK+MhQR+NXslobjQnnIisUD6uEcCZy+6eT0/RLvgLKMoTdRlmQ2fmr/Y=;gSi13oXOXuBfCfsaBd5GBw=="
 ---

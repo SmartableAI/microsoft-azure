@@ -22,15 +22,15 @@ topics:
   - Azure
 
 related:
-  - title: "Public preview of Default Rule Set 2.0 for Azure Web Application Firewall "
-    excerpt: "Increase your security posture and reduce false positives with the Default Rule Set 2.0, now in public preview for Azure Web Application Firewall. "
-    publishedDateTime: 2021-06-18T23:39:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/wafdrs2/"
+  - title: "Azure AD authentication for Application Insights "
+    excerpt: "Azure Monitor application insights now supports Azure Active Directory authentication. helping you ensure that only authenticated telemetry is ingested."
+    publishedDateTime: 2021-07-14T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ad-authentication-for-application-insights/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 65
+    quality: 67
 
 secured: "k5XbSHpY4jst6Mpxvj/+eCTJzI7cZJY6s64q7WzaU5XE8PArApK+rIavINaFkP62nrjNm3j2ZhltU9d1vYG4AbTtVkGTiRvZKjiPDY9McrS5HwpuBgHKpqZU6c6t5IenwgLU+j2hOWgCkYGuF6krkEy7jYx7mOi4KMJhvBSUcAKxm4cBDSj8CupVGs0kyW2Zrf2QipH9Cfm4CkP7JMGus41G6J4SSFvO3+UVQgUIBKB3nk2hF+UNruREOv/ztptjYxIxAkVS18doMsv9MnGnAZcdZxVq/j56D8bVkbpbU2n5HeoYf/lExo26pSTUtgdcVH7FFUCEal1hnVU5iJLbbolE3d6F7zb82rWWGOZ3luU=;X1DKNQy8RcjHCUZ5U9CKoA=="
 ---

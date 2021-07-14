@@ -262,6 +262,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
+  - title: "General availability: Application Insights integration with App Services for Java & Node.js apps"
+    excerpt: "Integration of Azure Monitor application insights with App Services now enables you to monitor your Java & Node.js apps directly from Azure portal, without making any changes to your code, with just a click of a button."
+    publishedDateTime: 2021-07-14T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insights-integration-with-app-services-for-java-nodejs-apps/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/Azure_Update_Image_Upload_P2012_V1.jpg"
+        width: 1008
+        height: 826
+        isCached: true
   - title: "General availability: New Simplified NSX networking experience for Azure VMware Solution"
     excerpt: "Azure VMware Solution helps simplify migration to the cloud by running VMware environments natively on Azure. With the new simplified NSX networking experience, it is now easier for VMware administrators to execute networking operations for Azure VMware Solution from the Azure portal. "
     publishedDateTime: 2021-03-04T20:09:25Z
@@ -401,6 +415,15 @@ related:
     excerpt: "Encrypt your Automation account assests using Customer-managed keys. "
     publishedDateTime: 2021-07-12T16:00:03Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-customer-managed-keys/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: Azure Spring Cloud Pricing Model Change"
+    excerpt: "Upcoming changes to base units in Azure Spring Cloud Basic and Standard will result in lower costs for many customers."
+    publishedDateTime: 2021-07-14T16:00:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-spring-cloud-pricing-model-change/"
     type: article
     provider:
       name: Microsoft

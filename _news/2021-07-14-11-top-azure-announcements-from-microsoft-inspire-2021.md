@@ -79,6 +79,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
+  - title: "Inspire 2021: Microsoft announces a new industry cloud: The Microsoft Cloud for Sustainability"
+    excerpt: "Inspire conference, Microsoft is going big on sustainability. The company announced a new cloud offering to help address sustainability needs"
+    publishedDateTime: 2021-07-14T15:02:00Z
+    webUrl: "https://www.onmsft.com/news/new-microsoft-cloud-for-sustainability-inspire"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 10
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/06/windowsclouds.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
     excerpt: "Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason to upgrade VMs soon. New VMs featuring 3rd Generation Intel Xeon Scalable processors are currently in preview,"
     publishedDateTime: 2021-07-07T07:10:00Z
@@ -94,6 +108,6 @@ related:
         height: 647
         isCached: true
 
-secured: "bbT0Ytn+A8riB2fA4fprAyDoU2I/m8NcSctYU8dLHuNPr3gpNNCHG+XaQSeKXE7k3u0oMy7KDhxfSBEh3h2dVu6y/3FP6byV+5Ewpz5WmoeELayjbxI6ojhxzyt4XxgUAgss9Gb/dMoxUVQIvMF1hIeNdxoR50cEZKC3e1DfsyGXkMhczUQUSrohimePP3Q3vFQm7sty/fJZAg9CK49n99iJe0QVRUqSm/XcXaCGZIjtjY5U3c9jQFIyMGWGt6rsf1XL0pZdXGn7IzQ+o8zupiYwtsAiJ62yKtiQmL6MeJd0K9pyL00GJj4ZtBFs18az/H5pkWKavmzlBCIKBul0Q4hMNVCFyasvh/jLTBt1KMM=;caN1vpPMHUmC4bSkEeJs8Q=="
+secured: "pZtJDZ+TIXLalTIvfgU76lKJEp54i1paMQt3BpTeXGVM3s+n0oQI6d+6eDYk6y3Tb+rKpty0GFMcQPpaSLnXUsTWiLGPLNBfK+XPI21jOOb3nS2R9dnnoLpKXqmMK8XQ3PBlXb5TFWDnb8nT7J77HbvwKr/BHtHuqoXlywtL/cdqqKM8/eLP2eoED8ok59c5Iy8MBY+IG9pa7yLiFPSFwixxqsHuiByCXmxs6kUVka2UGPnNEhwUCGegU6UI1w6dfejsSYeRW5V8IP4aR8cN41XUsx3EamlR2tPb+gXAdKXcPSpKvtC3xFzojhaFY0EfrwBa0vIgU3qIrsErOjLw8UnRFKdnSG7H2jpQ/ucmzwJwiJosmT+n2DZA2PY0Z2JzHK8nmXOLc5OOT+OOzQzfU61Re7JMa+VCGaQkrv6UURfKzIXHiNOnTaYN77Vr9OhdCJDwzUjFpg11ci/OFGXHjFaNf1+UEzLqFt0pGsjfi8p3C+vpw8TqJE9LYkYF+fI6SeUEVic/t0nepRXqYkiNcw==;g4Y1117svzsAi58a/G34+Q=="
 ---
 

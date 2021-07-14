@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-gri
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-grid-integration-with-aks/"
 type: article
 quality: 101
-heat: 401
+heat: 461
 published: true
 
 provider:
@@ -42,6 +42,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
+  - title: "Public preview: Event Grid integration with AKS"
+    excerpt: "Automate AKS operations by subscribing to events and handling them."
+    publishedDateTime: 2021-07-14T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-grid-integration-with-aks-3/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
+  - title: "Public preview: API Management and Event Grid integration"
+    excerpt: "Azure API Management has now been updated to publish events to Event Grid."
+    publishedDateTime: 2021-07-14T16:00:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-api-management-and-event-grid-integration/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Public preview: Prevent Shared Key authorization on Azure Storage accounts "
     excerpt: "Enhance secure access to Azure Storage accounts with Prevent Shared Key authorization."
     publishedDateTime: 2021-01-21T17:02:50Z
@@ -73,6 +91,15 @@ related:
     excerpt: "Application Gateway now supports fronted mutual authentication and listener specific SSL policies."
     publishedDateTime: 2021-05-12T18:03:59Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-gateway-mutual-authentication/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Public preview: Create AKS clusters without local user accounts "
+    excerpt: "You can now disable local user accounts when creating Azure Active Directory integrated Azure Kubernetes Service clusters. "
+    publishedDateTime: 2021-07-14T16:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-create-aks-clusters-without-local-user-accounts-2/"
     type: article
     provider:
       name: Microsoft

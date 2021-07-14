@@ -68,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Public preview: Azure Kubernetes Service (AKS) smart defaults"
+    excerpt: "Use scenario-specific cluster configurations to get going quickly and easily, while retaining the ability to customize to meet your unique needs as needed."
+    publishedDateTime: 2021-07-14T16:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-kubernetes-service-aks-smart-defaults/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Azure Kubernetes Service (AKS) now supports node image autoupgrade in public preview"
     excerpt: "You can now opt-in to have your node image auto-upgraded when a new AKS node image becomes available"
     publishedDateTime: 2021-03-31T16:01:14Z

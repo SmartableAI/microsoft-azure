@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/call-recording-for-azure
 webUrl: "https://azure.microsoft.com/en-us/updates/call-recording-for-azure-communication-services-coming-soon/"
 type: article
 quality: 67
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -26,6 +26,15 @@ related:
     excerpt: "Developers will be able to use or extend their existing telephony infrastructure to the calling capabilities they build with Azure Communication Services. "
     publishedDateTime: 2021-06-14T16:00:11Z
     webUrl: "https://azure.microsoft.com/en-us/updates/direct-routing-for-azure-communication-services-coming-soon/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Call recording in public preview for Azure Communication Services "
+    excerpt: "Call recording for Azure Communication Services helps to simplify and improve the recording process during calls. "
+    publishedDateTime: 2021-07-14T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/call-recording-in-public-preview-for-azure-communication-services/"
     type: article
     provider:
       name: Microsoft

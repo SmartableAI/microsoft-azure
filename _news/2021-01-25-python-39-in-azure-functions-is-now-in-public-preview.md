@@ -46,15 +46,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Confidential computing using Always Encrypted with secure enclaves now in public preview"
-    excerpt: "Always Encrypted with secure enclaves enables in-place encryption and rich confidential queries on sensitive data by leveraging Intel SGX secure enclaves, available in the new DC-series hardware configuration."
-    publishedDateTime: 2021-01-21T17:00:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/confidential-computing-using-always-encrypted-with-secure-enclaves-now-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 43
 
 secured: "dhkOdJK7odrBiwQnJ9RDLS61yfhRUUC8BnykikIFS6elsO1X9s/ZTiawcpW/Ig3/A03jdJxmAkqRaNxkyGk27uoJ9LIAushEaEuI1BKQwtT/kevoN9f+2av+dZ6qmZDa98cTTsnmEVtVg2MNMpQ7AjQXn7z65522esnmXIMk4DiqxIeTpA4hKZxAHXy61rIgueIrmLs44/cTMjdGlTeZLLfJk0bKKAY+K8qWnSG7TzLiIIIYJRarZYY6ScE9hpnq7dQObjHUwYvgL0akGaOlA5nc+D5ukuzNfhph/DvX/MkXx3rqHOhqoa4WsFptW9lGVuZ5QB2whwcizSugnfK9XAjIBpn7oZhcjWl0Am7fdlc=;L1Y2yOVG4qTpRzGm5lJzBA=="
 ---

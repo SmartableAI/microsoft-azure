@@ -57,6 +57,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Public preview: Azure Kubernetes Service (AKS) smart defaults"
+    excerpt: "Use scenario-specific cluster configurations to get going quickly and easily, while retaining the ability to customize to meet your unique needs as needed."
+    publishedDateTime: 2021-07-14T16:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-kubernetes-service-aks-smart-defaults/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Burst 4K encoding on Azure Kubernetes Service"
     excerpt: "Burst encoding in the cloud with Azure and Media Excel HERO platform.\r\n\r\nContent creation has never been as in demand as it is today. Both professional and user-generated content has increased exponentially over the past years. This puts a lot of stress on media encoding and transcoding platforms. Add"
     publishedDateTime: 2020-02-24T11:00:15Z
