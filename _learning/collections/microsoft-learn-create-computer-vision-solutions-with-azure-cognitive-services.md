@@ -4,7 +4,7 @@ excerpt: "Create computer vision solutions with Azure Cognitive Services"
 type: collection
 price: Free
 length: PT4H27M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
