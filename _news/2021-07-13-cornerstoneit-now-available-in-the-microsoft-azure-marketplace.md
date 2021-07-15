@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Cornerstone.IT Now Available in the Microsoft Azure Marketplace"
-excerpt: "Cornerstone.IT today announced the availability of Remote Desktop Pro in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. Cornerstone.IT customers can now take advantage of the scalability,"
-publishedDateTime: 2021-07-13T14:30:00Z
-originalUrl: "https://ipsnews.net/business/2021/07/13/cornerstone-it-now-available-in-the-microsoft-azure-marketplace/"
-webUrl: "https://ipsnews.net/business/2021/07/13/cornerstone-it-now-available-in-the-microsoft-azure-marketplace/"
+excerpt: "Microsoft Azure customers worldwide now gain access to Cornerstone.IT Remote Desktop Pro to take advantage of the scalability, reliability, and agility of Azure to drive application development ..."
+publishedDateTime: 2021-07-13T12:45:00Z
+originalUrl: "https://www.law.com/legalnewswire/news.php?id=2889960"
+webUrl: "https://www.law.com/legalnewswire/news.php?id=2889960"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Inter Press Service
-  domain: ipsnews.net
+  name: Law
+  domain: law.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://icrowdnewswire.com/wp-content/uploads/2021/06/4395-logo-cornerstone.it_300x300_whitebg-biggergraphic.png"
-    width: 300
-    height: 300
+  - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
+    width: 256
+    height: 256
     isCached: true
 
 related:
@@ -219,6 +219,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "kR6PZRCO5BEfRO31BCS2ln50yxVlYrXPJBx/zK42Lzqy4eHd4/QeTNQrzT94T2KiLgIIjntxykoSm++RGWw1Eg69L0yGTUkOnN28DiAdtFMwXRalFRuh677LSVnBxhB0spmJ3sE+nL1l/uJkKd6DsQfriOB1ayBdjMjmSG1ONnQSfz3iZw4sx6Itl3DL30+lg8tqsMW5YXlAwNOksOddsxBTEeQWF4LW8Bkn/O8PotpUcoRba1Pe7AmeQDQRjIVoR5xGlK19AyToijZ5w9Uz+nbIdpbIx2d1G9d2RxUym93qPgSBKkeEi7mEk1lFcynlhz6VgejH5aHDsF+DZ1EN6VpKGyASks5H07GSJ4rq2B4=;/U3zfbPwJZ7hgyl0bG72ag=="
+secured: "zFgH9fFPRY6ggIvhtIe7y6UoE6uZaEdj/htc97dXlVmhGDJ9edPkD1Kuu8TC9aXEpgfk6S4eI1CPjPlRId1mysnv7hw/XuMb8AextVAqXYrKxf+F0LI+bBiMSrIXp0gCAFSeYLMwKMQlmcPyDCMudoFABdH/dNfLVNhnlWpXS0wydZ2gMM15F9P2UEL7sdLfO7k6r0iLhNm52KTVaY+GJkxO5TVx3fPEA7K1cqzJQFKfCOIHwGtePPMmSJ9YNLa6TTx6aI/fveNHJjzKJe19OUYZiiN70G0ivxB3BErqyXaZ8WK4qPyXKMDDwZ+5NFaVp22/A2O9TS4035oqnJt9UW455rRWMHsVmgcRrI5lXvw=;6C3KZEK5PH1eodgB3TTd3w=="
 ---
 
