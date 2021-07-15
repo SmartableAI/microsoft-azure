@@ -127,6 +127,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Session and cache provider using Azure Cosmos DB in general availability"
+    excerpt: "Use Azure Cosmos DB as a session state and cache provider through Microsoft.Extensions.Caching.Cosmos extension package for global scaling and low latency. "
+    publishedDateTime: 2021-07-15T00:27:52Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/session-and-cache-provider-using-azure-cosmos-db-in-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
   - title: "General availability: New Azure Monitor built-in policy for Log Analytics workspace and linked automation account"
     excerpt: "A new Azure Monitor built-in policy gives you control to provision central Log Analytics workspaces and linked automation account across your subscriptions consistently."
     publishedDateTime: 2021-07-14T16:00:30Z

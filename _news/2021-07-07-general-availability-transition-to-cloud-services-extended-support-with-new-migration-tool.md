@@ -127,6 +127,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Session and cache provider using Azure Cosmos DB in general availability"
+    excerpt: "Use Azure Cosmos DB as a session state and cache provider through Microsoft.Extensions.Caching.Cosmos extension package for global scaling and low latency. "
+    publishedDateTime: 2021-07-15T00:27:52Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/session-and-cache-provider-using-azure-cosmos-db-in-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
   - title: "Azure API Management support for Availability Zones now generally available"
     excerpt: "Improve the resiliency of your API Management services with Availability Zones."
     publishedDateTime: 2021-04-14T16:00:19Z

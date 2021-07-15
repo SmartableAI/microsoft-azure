@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Azure Sphere version 21.04 expected on April 29, 2021"
-excerpt: "Participate in the retail evaluation now to ensure full compatibility.  The OS evaluation period provides 14 days for backward compatibility testing."
-publishedDateTime: 2021-04-15T22:00:21Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2104-is-now-available-for-evaluation/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2104-is-now-available-for-evaluation/"
+title: "Session and cache provider using Azure Cosmos DB in general availability"
+excerpt: "Use Azure Cosmos DB as a session state and cache provider through Microsoft.Extensions.Caching.Cosmos extension package for global scaling and low latency. "
+publishedDateTime: 2021-07-15T00:27:52Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/session-and-cache-provider-using-azure-cosmos-db-in-general-availability/"
+webUrl: "https://azure.microsoft.com/en-us/updates/session-and-cache-provider-using-azure-cosmos-db-in-general-availability/"
 type: article
-quality: 65
+quality: 83
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Databases
 
 related:
   - title: "General availability: Azure API Management updates - July 2021"
@@ -126,15 +127,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Session and cache provider using Azure Cosmos DB in general availability"
-    excerpt: "Use Azure Cosmos DB as a session state and cache provider through Microsoft.Extensions.Caching.Cosmos extension package for global scaling and low latency. "
-    publishedDateTime: 2021-07-15T00:27:52Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/session-and-cache-provider-using-azure-cosmos-db-in-general-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 83
   - title: "Azure API Management support for Availability Zones now generally available"
     excerpt: "Improve the resiliency of your API Management services with Availability Zones."
     publishedDateTime: 2021-04-14T16:00:19Z
@@ -180,6 +172,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Sphere version 21.04 expected on April 29, 2021"
+    excerpt: "Participate in the retail evaluation now to ensure full compatibility.  The OS evaluation period provides 14 days for backward compatibility testing."
+    publishedDateTime: 2021-04-15T22:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2104-is-now-available-for-evaluation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
   - title: "General availability: Azure Data Explorer adds new geospatial capabilities"
     excerpt: "The new support for H3 based geospatial clustering in KQL enables users to visualize and explore spatial data stored in Azure Data Explorer."
     publishedDateTime: 2021-06-18T16:00:12Z
@@ -231,6 +232,6 @@ related:
         height: 752
         isCached: true
 
-secured: "GEzQRLaEtLfrGQmrGK2bvEo/pW+Otji6jOBgp4BXCtAqhMu8kY3f+Zhy+TBAicwbJTbbbVAMvPKfbrdL9zWfD6TQpFhosTo5TS4XQ0/ae14XolgmNLBuneW5Ec9NFwdcJby8zMdM0Ikh2eJ0egtN50WfGXHwvnyIKSmdVtcXwr6qETy4Q1bnBt1oah9+w2/58IJDwO/LiAEh3PyRjPWlf/TJowL30MoDLeAQrPIqmkyrEKpg04aDO0hrqnv+wtkzXc/i8knX/IeXNVujzyi237ao5ujlqHKeYpUMC9NnYbBwCRPCpLupCD43xcOtbjLPRz9PwLdkDyAKUFCcd2JmNCcyq6dYLD15St7h3iHeXOg=;UYp6O59KK6YsVTIwoDAb/w=="
+secured: "HGV+U4cQlBt3HCYoLsinATP6saX/k1lnMp5qYj5xiMzpDMw86EzYBbZPN0ps/o+oPBitRv6iQRfHI/4x8BskYySHJnxTOgUnBiU2SeE5y4F4TJBCv7T0kVh/qfUnMfjQRglgdJNaaeapvOPdyA1l2Jvr7V0zMP0dMATmScKkDMbNpz0ko/ArfbbYLSQFZo3MHvvyI17ngLJSCPV7kwu3SmL8aGOBUXCyRuacxrHGpyfGNcimZENzNnHrTYp+O3OFi14KzL7Ix2kZMKbt0dtBS5VFgn1sOEX4NLnO45Hi5TKN8mVBJ4s0PVUTG8nyf2R2bAVmIzA1zp1LxHt2Hdj6Msu3CKQrJ9VbM5l1Ck0Boh8=;HC1oHgPinxO+kp4SbJW5qg=="
 ---
 
