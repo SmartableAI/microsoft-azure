@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-    excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2021-07-12T13:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/d2iq-now-available-in-the-microsoft-azure-marketplace-1030597288"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Microsoft (MSFT) Azure Cloud Leveraged by Canada-Based CIBC"
     excerpt: "Microsoft’s MSFT Azure cloud platform is being leveraged by Canadian Imperial Bank of Commerce (“CIBC”) to revamp its business operations, boost operational efficiency and enhance client experiences."
     publishedDateTime: 2021-07-12T14:40:00Z
@@ -121,6 +107,20 @@ related:
       - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/11/CIBC.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
+    excerpt: "\"We are pleased and proud to make the D2iQ Kubernetes Platform (DKP), with its components Kommander, Konvoy, and Kaptain, available to our customers in the Microsoft Azure Marketplace,\" said Tobi ..."
+    publishedDateTime: 2021-07-12T13:06:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
+        width: 2161
+        height: 1130
         isCached: true
   - title: "TIBCO Recognized as a Finalist in the 2021 Microsoft Azure Partner of the Year Awards"
     excerpt: "\"Our continued focus on developing technologies that deliver a cloud-first experience aligns perfectly to our close collaboration with Microsoft and the Azure cloud computing platform,\" said Tony Beller,"
