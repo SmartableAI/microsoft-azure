@@ -4,7 +4,7 @@ excerpt: "Learn about Cognitive Services and the important role they play in dev
 type: collection
 price: Free
 length: PT2H7M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn

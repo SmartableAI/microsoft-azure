@@ -4,7 +4,7 @@ excerpt: "Learn how to monitor the usage, performance, and availability of resou
 type: collection
 price: Free
 length: PT5H31M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
