@@ -4,7 +4,7 @@ excerpt: "Multifactor authentication helps secure your environment and resources
 type: collection
 price: Free
 length: PT2H14M
-heat: 54
+heat: 52
 
 provider:
   name: Microsoft Learn
