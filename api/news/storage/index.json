@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-14-limited-preview-migrate-your-azure-data-lake-storage-from-gen1-to-gen2-using-the-azure-portal.md",
+      "title": "Limited preview: Migrate your Azure Data Lake Storage from Gen1 to Gen2 using the Azure Portal",
+      "excerpt": "Use this simple experience to migrate your data from Azure Data Lake Storage Gen1 to Gen2 to speed up your time to insights.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/limited-preview-migrate-your-azure-data-lake-storage-from-gen1-to-gen2-using-the-azure-portal/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/limited-preview-migrate-your-azure-data-lake-storage-from-gen1-to-gen2-using-the-azure-portal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T15:16:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management tools"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-deliver-scalable-cost-effective-disk-storage-for-azure-vmware-solution.md",
       "title": "Deliver scalable, cost-effective Disk Storage for Azure VMware Solution",
       "excerpt": "Today, we are announcing the preview of disk pool enabling Azure Disk Storage as a persistent storage option for Azure VMware Solution. With this announcement, you can gain flexibility for your data needs with scalable and cost-effective cloud storage for VMware workloads running on Azure.",
@@ -1343,59 +1387,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-azure-files-smb-multichannel-provides-improved-performance-for-clients.md",
-      "title": "Azure Files SMB Multichannel provides improved performance for clients",
-      "excerpt": " Today, we are announcing the preview of Azure Files SMB Multichannel on premium tier. With this release, Azure Files clients can now take advantage of this technology with premium file shares in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-files-smb-multichannel-provides-improved-performance-for-clients/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-files-smb-multichannel-provides-improved-performance-for-clients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/96ef0aa8-fa88-4ffa-a245-0b342947e4ff.png",
-          "width": 1024,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T09:06:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management tools"
       ]
     }
   ],
