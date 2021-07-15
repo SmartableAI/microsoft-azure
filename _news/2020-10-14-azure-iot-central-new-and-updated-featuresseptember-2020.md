@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-featur
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-september-2020/"
 type: article
 quality: 104
-heat: 324
+heat: 344
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/7647d553-aad9-4c46-be50-490083188693.png"
         width: 792
         height: 418
+        isCached: true
+  - title: "General availability: Azure IoT Central new and updated features—June 2021"
+    excerpt: "June updates include dashboard enhancements, the IoT Plug and Play smartphone app including updated quickstarts, rule condition enhancements, a new responsive UI, and a new Learn module."
+    publishedDateTime: 2021-07-15T18:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-june-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 102
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/eb2ddd06-e1c5-4758-adf8-1077e15011de.png"
+        width: 736
+        height: 495
         isCached: true
   - title: "Azure IoT Central new and updated features—August 2020"
     excerpt: "August updates include jobs improvements, a new file upload feature, a preview of the new data export feature, CLI updates, and documentation enhancements."

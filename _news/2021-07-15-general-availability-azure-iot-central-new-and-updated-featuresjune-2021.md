@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure IoT Central new and updated features—February 2021"
-excerpt: "February updates include device model, API, dashboard, and documentation improvements."
-publishedDateTime: 2021-03-16T18:00:11Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-february-2021/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-february-2021/"
+title: "General availability: Azure IoT Central new and updated features—June 2021"
+excerpt: "June updates include dashboard enhancements, the IoT Plug and Play smartphone app including updated quickstarts, rule condition enhancements, a new responsive UI, and a new Learn module."
+publishedDateTime: 2021-07-15T18:00:03Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-june-2021/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-june-2021/"
 type: article
-quality: 84
+quality: 102
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
   - IoT
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/eb2ddd06-e1c5-4758-adf8-1077e15011de.png"
+    width: 736
+    height: 495
+    isCached: true
 
 related:
   - title: "Azure IoT Central new and updated features—September 2020"
@@ -107,20 +113,6 @@ related:
         width: 792
         height: 418
         isCached: true
-  - title: "General availability: Azure IoT Central new and updated features—June 2021"
-    excerpt: "June updates include dashboard enhancements, the IoT Plug and Play smartphone app including updated quickstarts, rule condition enhancements, a new responsive UI, and a new Learn module."
-    publishedDateTime: 2021-07-15T18:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-june-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 102
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/eb2ddd06-e1c5-4758-adf8-1077e15011de.png"
-        width: 736
-        height: 495
-        isCached: true
   - title: "Azure IoT Central new and updated features—August 2020"
     excerpt: "August updates include jobs improvements, a new file upload feature, a preview of the new data export feature, CLI updates, and documentation enhancements."
     publishedDateTime: 2020-09-14T19:00:14Z
@@ -148,6 +140,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure IoT Central new and updated features—February 2021"
+    excerpt: "February updates include device model, API, dashboard, and documentation improvements."
+    publishedDateTime: 2021-03-16T18:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-february-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure IoT Central UI new and updated features—July 2020"
     excerpt: "July updates include jobs improvements, CLI updates, documentation enhancements, new REST APIs, and a new mobile gateway sample."
     publishedDateTime: 2020-08-19T16:00:48Z
@@ -167,6 +168,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "HB2FzLZJhG4ZCFDdTdBpM1bXO7ySbDREwgyKeshN1ha1mi+aB5dK2KaU3nJSWlEJIRKi42BXqWOG32ihyvOTYrwUtNWyPNzV6izY2YpNnZ48oONnuPlwtskGCNLRpe36YX3TIMBTmS+rhTLjuE0vm4h6B89jVYMK3j3BwgUSHcWmQw3fp3gXWszb/Qr9A0EAjOEvj9FhrLflwcpxUN0EPTuJ10O1dcivlhVVXAqNuYfNFoNKeQypQI3VaIAoNwNBUuSoYJxKsvSC5vyCbvHZQ3HxdRMrPEpApG/p82O5Z2YLS4aKzeu61S3RPk5eZuuO8NdZUGS79nSOh/VT31DKhnrLQQrbTrfbxd7UkvR/W7w=;hgpUv8wB4q9ypbG/wNFY3Q=="
+secured: "aXCFlYxmRHm0RNiP6RhXTw9XKfAQHXRO7Mx7eZxUVGx1vR/JFHQJfl/wPVACG5s3exiF07UbGNiIB9pP2gQyzK+aNWb1AyYjJ2mc2i0KS3cIa9rFpka+bKl7nVEL7psGhhpOZUvNrc6GOyOAffHQTeWerKSeNRnmJAvBJhTVfHov/yDcdtAiIF05fRDw4hPHt+jdPtcX9OfDL4waWVWOPgmBMDlsROA3SBQiaY+9N+/7HcWgZFoTydI1tMlOLcQhwYnBW4CzoVgiHh7SIos5C7UIerxTCU8elKEqxYX4IZ+NkOG9bGqXSiVSIzRMcKi5Kjd3qJotXWLI+JRT0y2gdNvr0iH5WIXWJ0B5khaNtnU=;o2ZfodBXV9MbuuDmpHqK8A=="
 ---
 
