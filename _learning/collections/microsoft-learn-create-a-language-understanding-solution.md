@@ -4,7 +4,7 @@ excerpt: "Create a Language Understanding solution"
 type: collection
 price: Free
 length: PT2H28M
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
