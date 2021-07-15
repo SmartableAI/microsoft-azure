@@ -207,6 +207,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "IN-D Identity Verification Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to IN-D Identity Verification with Aadhaar Data Masking to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
+    publishedDateTime: 2021-07-15T06:30:00Z
+    webUrl: "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 52
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/companyLogo/INDLogo_14634.jpg"
+        width: 1892
+        height: 683
+        isCached: true
   - title: "Alkira Collaborates with Microsoft to Enhance Cloud Networking Journey to Azure"
     excerpt: "SAN JOSE, CA – April 13, 2021 – Network Cloud pioneer Alkira® today announced a close collaboration with the Microsoft for Startups program, a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft ..."
     publishedDateTime: 2021-04-13T09:26:00Z

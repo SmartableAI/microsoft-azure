@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Telos' Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
-excerpt: "ASHBURN, Va., April 13, 2021 (GLOBE NEWSWIRE) -- Telos (R) Corporation (NASDAQ: TLS), a leading provider of cyber, cloud and enterprise security solutions for the world's most security-conscious organizations,"
-publishedDateTime: 2021-04-13T11:55:00Z
-originalUrl: "https://www.marketwatch.com/press-release/telos-xacta-expands-availability-to-microsoft-azure-across-all-us-government-cloud-instances-2021-04-13"
-webUrl: "https://www.marketwatch.com/press-release/telos-xacta-expands-availability-to-microsoft-azure-across-all-us-government-cloud-instances-2021-04-13"
+title: "IN-D Identity Verification Now Available in the Microsoft Azure Marketplace"
+excerpt: "Microsoft Azure customers worldwide now gain access to IN-D Identity Verification with Aadhaar Data Masking to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
+publishedDateTime: 2021-07-15T06:30:00Z
+originalUrl: "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html"
+webUrl: "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html"
 type: article
-quality: 65
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - Azure
+  - Identity
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://cms.businesswireindia.com/Uploads/companyLogo/INDLogo_14634.jpg"
+    width: 1892
+    height: 683
     isCached: true
 
 related:
@@ -120,6 +117,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Telos' Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
+    excerpt: "ASHBURN, Va., April 13, 2021 (GLOBE NEWSWIRE) -- Telos (R) Corporation (NASDAQ: TLS), a leading provider of cyber, cloud and enterprise security solutions for the world's most security-conscious organizations,"
+    publishedDateTime: 2021-04-13T11:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/telos-xacta-expands-availability-to-microsoft-azure-across-all-us-government-cloud-instances-2021-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Concentra Bank selects Intellect to power its digital-first specialized banking on Microsoft Azure"
     excerpt: "\"Concentra's new digital banking platform transforms the customer experience with the flexibility, power and reliability that Microsoft Azure provides.\" SHARE THIS POST Find News"
     publishedDateTime: 2021-03-30T14:00:00Z
@@ -195,20 +206,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "IN-D Identity Verification Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to IN-D Identity Verification with Aadhaar Data Masking to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
-    publishedDateTime: 2021-07-15T06:30:00Z
-    webUrl: "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 52
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/companyLogo/INDLogo_14634.jpg"
-        width: 1892
-        height: 683
         isCached: true
   - title: "Onfido Partners with Microsoft on Azure Active Directory Verifiable Credentials"
     excerpt: "Onfido, an identity verification and authentication company, has been selected by Microsoft to enable fast and secure identity verification and onboarding for its Azure Active Directory (Azure AD) verifiable credentials. Azure AD verifiable credentials ..."
@@ -528,6 +525,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "AYDBdOV5LaJezqawjFly+eJGNHiYQH7XgWsziEaTdHMVZzR95p2+i1HxJJeI18w+1NFt9XelFD+BikZsjTKR71zWKz51a94MRkO23r94e0OeeSVVGeQwTJD4QW4KDGIABdFcxRdSB5ucwHXKTDSzYTdQQcOxmJ1NNQRFBL/rGoVslBOpFB4DX64+Q77yvOjJvJdLgUkDaW9/DL0U+KFlRgC9ghnaSlMvWuGXevqRT9ljIrbVf/N/A32czOug7qEPM/uqkOvwfkFXgSElnHRZp4zErzl7a+H/Y7D1nPVQ3U3+KBW4lGOfyN18JpkEnVbl4zs/Jg/bbUzd06em8KPmPkGa4VjiKuBF4w8YPEMhkcg=;kcdW6YOnjfz3PKoGqBGJig=="
+secured: "JypVMBOJE+D4V5kIOjvd1ifRyFRAx2JXrVyL4pVSQWpd3pc1a7nRxI2NfnWTKMS8O+JTQTKrpeB04zinjMdz+1KRCCpd5mXCJ2JWXJk7HOBFYrZMZeaDZN3g4KLYl3lVX07f7WG3jDxAIHQBKqEtzmUpuFhzZjcFiux21niQBW7UegBtRomOEWRRBDtDw2EGQppWX5KbsYwCTAs4W2AqquqvacA5WEuWuZkHpVH5B6ZeAx4VDlQoceHsYptGicf5x0ajI1wvGFdCjImhIG60pbTxoVLspX/DihnUsI3mLdGe4ACEeW/guADoj9EWyVWn+KhwO3x3z+Zm87T075SlMTgb0+Pwy/NC8qqNYIsT5YQ=;LnHjNe1jUJ8CSQxJ4YFetg=="
 ---
 

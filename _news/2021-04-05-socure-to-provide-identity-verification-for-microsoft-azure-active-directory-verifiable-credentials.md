@@ -193,6 +193,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "IN-D Identity Verification Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to IN-D Identity Verification with Aadhaar Data Masking to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
+    publishedDateTime: 2021-07-15T06:30:00Z
+    webUrl: "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 52
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/companyLogo/INDLogo_14634.jpg"
+        width: 1892
+        height: 683
+        isCached: true
   - title: "Onfido Partners with Microsoft on Azure Active Directory Verifiable Credentials"
     excerpt: "Onfido, an identity verification and authentication company, has been selected by Microsoft to enable fast and secure identity verification and onboarding for its Azure Active Directory (Azure AD) verifiable credentials. Azure AD verifiable credentials ..."
     publishedDateTime: 2021-04-05T04:00:00Z
