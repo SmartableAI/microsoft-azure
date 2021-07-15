@@ -46,20 +46,6 @@ related:
         width: 500
         height: 375
         isCached: true
-  - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
-    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
-    publishedDateTime: 2021-07-09T16:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Sierra Wireless integrates location platform Acculink with Microsoft Azure IoT Central"
     excerpt: "Sierra Wireless announced that its managed IoT platform, Acculink, was successfully integrated with Microsoft Azure IoT Central. Acculink helps companies to track the location and condition of high-value and sensitive assets. Acculink leverages Sierra ..."
     publishedDateTime: 2021-07-14T08:33:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-24T09:00:02Z
 originalUrl: "https://azure.microsoft.com/blog/streamline-your-custom-image-building-process-with-azure-vm-image-builder-service/"
 webUrl: "https://azure.microsoft.com/blog/streamline-your-custom-image-building-process-with-azure-vm-image-builder-service/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Azure
   - Compute
+  - Developer tools
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b68a6233-1287-4ff2-b230-d21ec1ee5005.jpg"

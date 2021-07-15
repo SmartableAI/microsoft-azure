@@ -25,89 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Cloud for Sustainability will offer actionable insights on carbon emissions"
-    excerpt: "At its ongoing Inspire 2021 conference today, the Redmond tech giant has announced the Microsoft Cloud for Sustainability Initiative. The Microsoft Cloud for Sustainability offer is currently in preview and is designed to allow organizations to track their ..."
-    publishedDateTime: 2021-07-14T15:13:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-cloud-for-sustainability-will-offer-actionable-insights-on-carbon-emissions/"
+  - title: "Accelerate your Azure migration and modernization journey with expanded programs and offers"
+    excerpt: "In the past year, organizations increasingly turned to the cloud to survive potential business disruptions. At Microsoft, we partnered with businesses of all sizes, to help them take advantage of the scalability, remote work enablement, and cost efficiencies of migrating to the cloud. Today at Microsoft"
+    publishedDateTime: 2021-07-15T08:00:42Z
+    webUrl: "https://azure.microsoft.com/blog/accelerate-your-azure-migration-and-modernization-journey-with-expended-programs-and-offers/"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 55
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/07/1626251710_government_of_nunvut_employees_under_embargo_until_july_14_@8am_pt_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "11 Top Azure Announcements From Microsoft Inspire 2021"
-    excerpt: "A Microsoft Cloud for Sustainability, new Azure Kubernetes Service smart defaults and an Azure Synapse partner center that will connect customers to partner solutions were among the top cloud computing announcements at Microsoft Inspire 2021."
-    publishedDateTime: 2021-07-14T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/11-top-azure-announcements-from-microsoft-inspire-2021"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/0269-125c74ee81ff-25ae23038fad-1000/microsoft-azure-sign-2.jpg"
-        width: 500
-        height: 375
-        isCached: true
-  - title: "Sierra Wireless integrates location platform Acculink with Microsoft Azure IoT Central"
-    excerpt: "Sierra Wireless announced that its managed IoT platform, Acculink, was successfully integrated with Microsoft Azure IoT Central. Acculink helps companies to track the location and condition of high-value and sensitive assets. Acculink leverages Sierra ..."
-    publishedDateTime: 2021-07-14T08:33:00Z
-    webUrl: "https://www.telecompaper.com/news/sierra-wireless-integrates-location-platform-acculink-with-microsoft-azure-iot-central--1390085"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 26
-  - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
-    excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
-    publishedDateTime: 2021-07-13T07:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
-    excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customers VANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX ..."
-    publishedDateTime: 2021-07-13T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210713005336/en/Sierra-Wireless-Partners-with-Microsoft-to-Enable-Advanced-Asset-Tracking-Capabilities-via-Azure-IoT-Central"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 15
-  - title: "Inspire 2021: Microsoft announces a new industry cloud: The Microsoft Cloud for Sustainability"
-    excerpt: "Inspire conference, Microsoft is going big on sustainability. The company announced a new cloud offering to help address sustainability needs"
-    publishedDateTime: 2021-07-14T15:02:00Z
-    webUrl: "https://www.onmsft.com/news/new-microsoft-cloud-for-sustainability-inspire"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 10
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/06/windowsclouds.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
-    excerpt: "Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason to upgrade VMs soon. New VMs featuring 3rd Generation Intel Xeon Scalable processors are currently in preview,"
-    publishedDateTime: 2021-07-07T07:10:00Z
-    webUrl: "https://www.pr.com/press-release/826372"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 1
-    images:
-      - url: "https://img.pr.com/release/2107/416814/pressrelease_416814_1625584870.png"
-        width: 500
-        height: 647
-        isCached: true
+      name: Microsoft
+      domain: microsoft.com
+    quality: 74
 
 secured: "tjRDMEZI3srCVsalecYMzJJn09FHjMOSyYmSKECKzWuVWHEa7JHODk1JgtOvaRM5xDSeT2qtst/nzQF0qzq2ZKhtRAn4YNVO+2M+mA2aAapQrp2q+r1CfkIdYrulqm10B/uA5WlvQV7Ep+Jj0dsa0IRBGgBn8btc/O9jiYEo0Sdzh0nrvHgo7v4jZm/4YJqeCKXZa2nGbrEU4NCcM5t+InESYvl/wY6Zzaf8f5E976o8PMHVNtMWyxWEedQNxgaUMAvXuq1wTfhfWk7OsAhCFLqdxNnaYQKi66YS13/GW17A4dpzJz0oXno0hN9Nq4W/uc8pJFglVNyrRHtTr20UuJ/695TFR+zmhaFG/G5k35Y=;jgXwtA1y8trukCdOrGsM9Q=="
 ---
